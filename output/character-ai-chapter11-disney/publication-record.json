@@ -1,0 +1,23 @@
+{
+  "source": "https://x.com/leo114119/status/2109977764023750847",
+  "quoted_source": "https://x.com/verge/status/2109956739496063371",
+  "format": "standalone",
+  "account": "@LeoGuoLabs",
+  "state": "pending_approval",
+  "text_path": "output/character-ai-chapter11-disney/post-en.txt",
+  "media": [],
+  "prepared_at": "2026-10-13T12:10:34.645776+00:00",
+  "primary_source": "https://www.businesswire.com/news/home/20261012656385/en/Character.ai-Initiates-Voluntary-Chapter-11-Proceeding-to-Facilitate-Value-Maximizing-Sale-Process",
+  "checks": {
+    "source_original_language_read": true,
+    "relevant_source_video": false,
+    "primary_press_release_read_live": true,
+    "account_verified": true,
+    "composer_full_text_accepted": true,
+    "post_button_enabled": true,
+    "auto_product_card_removed": true,
+    "submitted": false
+  },
+  "review_screenshot": "output/character-ai-chapter11-disney/composer-review.png",
+  "publication_url": null
+}
