@@ -1,0 +1,48 @@
+{
+  "source_url": "https://x.com/leo114119/status/2110036935075062013",
+  "original_teaser_url": "https://x.com/GeminiApp/status/2110034343892771186",
+  "selected_official_source": "https://x.com/GeminiApp/status/2110039322229649783",
+  "format": "standalone",
+  "account": "LeoGuoLabs",
+  "state": "pending_approval",
+  "text_path": "post-en.txt",
+  "media": [
+    "official-launch.mp4"
+  ],
+  "archived_source_media": [
+    "official-teaser.mp4"
+  ],
+  "approval": null,
+  "published_url": null,
+  "prepared_at": "2026-10-13T16:29:09.654737+00:00",
+  "verification": {
+    "source_and_original_read_in_authenticated_browser": true,
+    "official_blog_read": true,
+    "account_verified": "LeoGuoLabs",
+    "full_decoding_passed": [
+      "official-teaser.mp4",
+      "official-launch.mp4"
+    ],
+    "visual_samples_inspected": true,
+    "launch_resolution": [
+      1920,
+      1080
+    ],
+    "launch_duration_seconds": 50.56,
+    "audio_codec": "AAC",
+    "video_codec": "H.264",
+    "preview_playback_advanced": [
+      0.241113,
+      18.743456
+    ],
+    "preview_error": null,
+    "audio_listening_check": false,
+    "full_text_accepted": true,
+    "composer_upload_state": "ready",
+    "public_verification": false,
+    "post_button_enabled": true,
+    "composer_screenshot": "composer-review.png",
+    "media_ready_screenshot": "composer-media-ready.png"
+  },
+  "media_manifest": "download-manifest.json"
+}

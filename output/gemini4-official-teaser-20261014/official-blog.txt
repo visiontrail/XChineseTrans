@@ -1,0 +1,154 @@
+- banner:
+  - navigation:
+    - button "Skip to main content":
+      - generic: Skip to main content
+    - link "News from Google":
+      - /url: /
+    - list:
+      - button "Innovation & AI": Innovation & AI
+      - button "Products & platforms": Products & platforms
+      - button "Company news": Company news
+      - link "Feed":
+        - /url: /feed
+    - button "Search":
+    - button "Secondary menu":
+    - button "Newsletter":
+      - generic: Newsletter
+- main:
+  - article:
+    - navigation "Breadcrumb":
+      - list:
+        - link "News from Google":
+          - /url: https://blog.google/
+          - text: Home
+        - link "Innovation & AI":
+          - /url: https://blog.google/innovation-and-ai/
+        - link "Products":
+          - /url: https://blog.google/innovation-and-ai/products/
+        - link "Gemini App":
+          - /url: https://blog.google/innovation-and-ai/products/gemini-app/
+    - heading "Gemini 4 Argon comes to the Gemini app." [level=1]
+    - paragraph: Oct 13, 2026
+    - button "Copy to clipboard":
+      - text: Copied
+    - separator
+    - paragraph:
+      - link "Gemini 4 Argon":
+        - /url: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/
+      - text: is now available in the
+      - link "Gemini app":
+        - /url: https://gemini.google.com?promo=argon&utm_medium=blog&utm_source=keyword&utm_campaign=G4_Argon_kwblog&campaign_id=G4_Argon_kwblog
+      - text: ", delivering frontier reasoning and improved performance across complex tasks. Argon answers questions more directly with less hedging, doesn’t repeat itself more than necessary, and skips clichés throughout the responses. For longer tasks, it keeps you in the loop by sharing its progress more often and more effectively."
+    - paragraph: Argon also brings major improvements in coding, so we’re making it easier to switch between chatting and coding with Google Antigravity's agentic coding interface now available directly in the Gemini macOS app.
+    - paragraph: It’s also easier than ever to use Gemini to get things done right from the main chat window, with a simple toggle from chat to tasks. When you choose tasks, Gemini can work for you even when you’re not at your computer, helping you get more done across your Google apps and more.
+    - paragraph:
+      - text: Gemini now connects you to more than 40 apps — like
+      - link "Instacart":
+        - /url: https://support.google.com/gemini/answer/17090317?hl=en&co=GENIE.Platform%3DDesktop
+      - text: ","
+      - link "OpenTable":
+        - /url: https://support.google.com/gemini/answer/17090712?hl=en&co=GENIE.Platform%3DDesktop
+      - text: ","
+      - link "Adobe":
+        - /url: https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/
+      - text: ", and"
+      - link "Shopify":
+        - /url: https://support.google.com/gemini/table/17434654
+      - text: — to help you tackle tasks from ordering groceries and booking tables, to designing and building your business.
+    - paragraph:
+      - link "Google AI Pro and Ultra subscribers":
+        - /url: https://one.google.com/about/google-ai-plans/
+      - text: can now access Gemini 4 Argon and give Gemini tasks to get more done. Try these updates starting today.
+    - region "Carousel":
+      - list:
+        - button "Demo video showing Gemini 4 Argon in the Gemini app":
+          - img "Demo video showing Gemini 4 Argon in the Gemini app"
+          - generic: 00:00
+        - img "dozens of logos of companies that integrate with the Gemini app"
+      - button "Previous item" [disabled]:
+      - button "Next item":
+      - progressbar "Carousel Progress"
+  - generic: "Posted in:"
+  - navigation:
+    - list:
+      - link "Gemini App":
+        - /url: https://blog.google/products-and-platforms/products/gemini/
+      - link "Google One":
+        - /url: https://blog.google/products-and-platforms/products/google-one/
+  - heading "Related stories" [level=2]
+  - region "Carousel":
+    - list:
+      - link "AI - The latest AI news we announced in September 2026 - By Blog Team - Oct 02, 2026":
+        - /url: https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/
+        - generic: AI
+        - heading "The latest AI news we announced in September 2026" [level=3]
+        - generic: By Blog Team
+      - 'link "Gemini App - Guided Vision in Gemini Live: built for accessibility - By Isha Sheth& Scott Adams - Oct 01, 2026"':
+        - /url: https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/
+        - generic: Gemini App
+        - 'heading "Guided Vision in Gemini Live: built for accessibility" [level=3]'
+        - generic: By Isha Sheth & Scott Adams
+      - link "Gemini App - A new wave of Connected Apps is rolling out to Gemini. - By Mai Lowe - Sep 23, 2026":
+        - /url: https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/
+        - generic: Gemini App
+        - heading "A new wave of Connected Apps is rolling out to Gemini." [level=3]
+        - generic: By Mai Lowe
+      - link "Gemini App - 4 ways to tackle household chores with Gemini - By Sarah Armstrong - Sep 15, 2026":
+        - /url: https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/
+        - generic: Gemini App
+        - heading "4 ways to tackle household chores with Gemini" [level=3]
+        - generic: By Sarah Armstrong
+    - button "Previous item" [disabled]:
+    - button "Next item":
+    - progressbar "Carousel Progress"
+- contentinfo:
+  - link "The Google logo":
+    - /url: https://www.google.com
+  - list:
+    - button "Privacy":
+      - generic: Privacy
+    - button "Terms":
+      - generic: Terms
+    - button "Help":
+      - generic: Help
+    - combobox "More of Google":
+      - option "More of Google" [selected]
+      - option "Google Products"
+      - option "About the Blog"
+    - combobox "Change Region":
+      - option "Global (English)" [selected]
+      - option "Africa (English)"
+      - option "Australia (English)"
+      - option "Brasil (Português)"
+      - option "Canada (English)"
+      - option "Canada (Français)"
+      - option "Česko (Čeština)"
+      - option "Deutschland (Deutsch)"
+      - option "España (Español)"
+      - option "France (Français)"
+      - option "Greece (Ελληνικά)"
+      - option "India (English)"
+      - option "Indonesia (Bahasa Indonesia)"
+      - option "Ireland (English)"
+      - option "Italia (Italiano)"
+      - option "日本 (日本語)"
+      - option "대한민국 (한국어)"
+      - option "Latinoamérica (Español)"
+      - option "Malaysia (English)"
+      - option "الشرق الأوسط وشمال أفريقيا (اللغة العربية)"
+      - option "MENA (English)"
+      - option "Nederlands (Nederland)"
+      - option "New Zealand (English)"
+      - option "Polska (Polski)"
+      - option "Portugal (Português)"
+      - option "România (Română)"
+      - option "Sverige (Svenska)"
+      - option "ประเทศไทย (ไทย)"
+      - option "Türkiye (Türkçe)"
+      - option "台灣 (中文)"
+  - list:
+    - button "Instagram":
+    - button "x.com":
+    - button "YouTube":
+    - button "Facebook":
+    - button "LinkedIn":

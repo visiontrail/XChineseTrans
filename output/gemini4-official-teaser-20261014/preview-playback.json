@@ -1,0 +1,16 @@
+{
+  "first": {
+    "time": 0.241113,
+    "paused": false,
+    "readyState": 4
+  },
+  "later": [
+    {
+      "duration": 50.56,
+      "error": null,
+      "paused": false,
+      "readyState": 4,
+      "time": 18.743456
+    }
+  ]
+}
