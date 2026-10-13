@@ -1,9 +1,9 @@
 {
   "source": "https://x.com/leo114119/status/2109977764023750847",
   "quoted_source": "https://x.com/verge/status/2109956739496063371",
-  "format": "standalone",
+  "format": "quote",
   "account": "@LeoGuoLabs",
-  "state": "pending_approval",
+  "state": "publicly_verified",
   "text_path": "output/character-ai-chapter11-disney/post-en.txt",
   "media": [],
   "prepared_at": "2026-10-13T12:10:34.645776+00:00",
@@ -16,8 +16,19 @@
     "composer_full_text_accepted": true,
     "post_button_enabled": true,
     "auto_product_card_removed": true,
-    "submitted": false
+    "submitted": true,
+    "public_account_verified": true,
+    "public_complete_text_verified": true,
+    "native_quote_verified": true
   },
   "review_screenshot": "output/character-ai-chapter11-disney/composer-review.png",
-  "publication_url": null
+  "publication_url": "https://x.com/LeoGuoLabs/status/2110006566426714140",
+  "quote_target": "https://x.com/verge/status/2109956739496063371",
+  "published_at": "2026-10-13T21:55:00+08:00",
+  "verified_at": "2026-10-13T13:56:42.437858+00:00",
+  "authorization": {
+    "user_instruction": "确认，但要找到x上比较权威的英文新闻推，用quote发",
+    "scope": "Approved reviewed English text and requested native Quote publication of an authoritative English news post."
+  },
+  "public_screenshot": "output/character-ai-chapter11-disney/public-post.png"
 }

@@ -16,3 +16,6 @@ Official blog indexed by search: https://blog.character.ai/an-update-on-characte
 
 ## Review state
 Complete four-paragraph English draft entered into a fresh empty standalone composer on the verified @LeoGuoLabs session. Post enabled, 24,390 characters remaining. Removed the automatically generated Character.AI product link card. No submission. Screenshot is review evidence, not an attachment.
+
+## Publication
+User approved the reviewed copy and changed the requested format to a native Quote of an authoritative English news post. Selected The Verge official English report already traced and read in this task. Published the complete approved copy, unchanged, using the native Quote control. Public URL: https://x.com/LeoGuoLabs/status/2110006566426714140 . Reopened this URL and verified @LeoGuoLabs, all four paragraphs, and the The Verge native Quote card. No video applies. Prior standalone pending state is superseded.
