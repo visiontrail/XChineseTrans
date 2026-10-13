@@ -1,0 +1,7 @@
+Grok 4.8 is worth watching for more than its parameter count. Musk described it in September as a 2.5T model trained on a new C++ stack, with reinforcement learning to follow.
+
+Now there’s a fresh staffing rumor: Jim Liu says a SpaceX friend was moved to xAI’s Palo Alto office for an “all hands on deck” push. An interesting signal, though it doesn’t establish a launch date or a capability breakthrough.
+
+On RSI-Exam, the evaluated Grok 4.7 and Opus 5.5 agent setups score 0.3842 and 0.5357 respectively across 88 tasks. The benchmark tests agents improving executable methods or tools and checking them on unseen data; the underlying model weights stay frozen.
+
+I’m interested in whether the new stack helps Grok run better experiments and turn them into reliable improvements. That would be a much more useful step than a bigger number on a spec sheet.

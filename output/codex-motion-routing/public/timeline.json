@@ -1,0 +1,29 @@
+{
+  "fps": 60,
+  "durationFrames": 1440,
+  "width": 1920,
+  "height": 1080,
+  "bpm": 120,
+  "seed": 260930,
+  "events": [
+    {"id":"emerge","frame":30,"kind":"bloom","pan":0.55},
+    {"id":"unfold","frame":210,"kind":"sweep","pan":-0.5},
+    {"id":"launch","frame":270,"kind":"pluck","pan":-0.6},
+    {"id":"router","frame":420,"kind":"tap","pan":-0.15},
+    {"id":"break","frame":480,"kind":"snap","pan":0.2},
+    {"id":"alternate","frame":720,"kind":"sweep","pan":0.1},
+    {"id":"depart","frame":750,"kind":"pluck","pan":-0.1},
+    {"id":"upper-a","frame":870,"kind":"tap","pan":0.05},
+    {"id":"upper-b","frame":990,"kind":"tap","pan":0.38},
+    {"id":"arrival","frame":1110,"kind":"resolve","pan":0.65},
+    {"id":"close","frame":1230,"kind":"bloom","pan":0.5}
+  ],
+  "shots": [
+    {"id":"opening","start":0,"end":210,"title":"A route around failure"},
+    {"id":"path","start":210,"end":450,"title":"Start with a path"},
+    {"id":"break","start":450,"end":690,"title":"Then a link breaks"},
+    {"id":"reroute","start":690,"end":930,"title":"Change the route"},
+    {"id":"delivery","start":930,"end":1170,"title":"Keep the destination"},
+    {"id":"closing","start":1170,"end":1440,"title":"Another path, same destination"}
+  ]
+}

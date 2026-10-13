@@ -1,0 +1,11 @@
+Claude Haiku 5.5 makes the economics of everyday agent work a lot more interesting.
+
+For prompts up to 100K tokens, pricing is $0.10 per million input tokens and $0.50 per million output tokens—90% below Haiku 4.5. Above 100K, the rates rise to $0.50 and $2.50. Anthropic estimates roughly 75% lower running costs on average, accounting for the workload mix and updated tokenizer.
+
+The practical fit: summaries, classification, quick lookups, and focused subtasks delegated by Sonnet or Opus. Haiku also gets adjustable effort for the first time, so developers can trade speed and cost against deeper reasoning.
+
+My takeaway: a capable, inexpensive small model makes it easier to justify all the little steps around the main task. The important test is whether each step improves the final result enough to earn its place.
+
+Also worth checking: Sonnet 5.5 cache reads now cost $0.10 per million tokens, half the previous rate.
+
+https://www.anthropic.com/claude-haiku-5-5

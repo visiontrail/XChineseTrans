@@ -1,0 +1,31 @@
+{
+  "status": "published_verified",
+  "account": "LeoGuoLabs",
+  "format": "Quote Post",
+  "url": "https://x.com/LeoGuoLabs/status/2106783653846253676",
+  "quote_target": "https://x.com/Gegam245074/status/2106030009756319969",
+  "supplied_url": "https://x.com/xiaohu/status/2106342926922228073",
+  "text": "Passing tests is only part of the job. AI-generated code also needs to respect the requirements, stay readable, and remain easy to change.\n\nReview the implementation before calling it done.",
+  "authorization": "User explicitly said 无需确认，直接发布, overriding the final confirmation gate for this publication.",
+  "verification": {
+    "public_page_reopened": true,
+    "complete_text_verified": true,
+    "original_quote_verified": true,
+    "video_count": 2,
+    "playback": [
+      {
+        "duration": 29.966,
+        "currentTime": 3.15512,
+        "paused": false,
+        "readyState": 4
+      },
+      {
+        "duration": 56.975,
+        "currentTime": 10.834397,
+        "paused": false,
+        "readyState": 4
+      }
+    ]
+  },
+  "screenshot": "published-quote.png"
+}

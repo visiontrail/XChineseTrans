@@ -1,0 +1,11 @@
+America.gov gives U.S. government information a single AI entry point, drawing on more than 29,000 government websites.
+
+Ask in plain language how to get a passport for your child, understand Medicare eligibility, apply for veterans’ benefits, or find a national park campsite. The service provides guidance with links to official sources.
+
+Free to use. No account required. No ads.
+
+The current release focuses on answers and guidance. It cannot access agency records or check your application status. Form completion and progress tracking are planned for 2027.
+
+What interests me is the interface design: people can start with what they need to do, without first figuring out which agency or website handles it.
+
+The real test will be whether it gives accurate guidance and reduces the steps needed to complete a task.

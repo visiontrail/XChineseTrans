@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {
+    "title": "Staging freezes a selection of content",
+    "subtitle": "The staged version and the working version can differ.",
+    "viewBox": [
+      1020,
+      535
+    ]
+  },
+  "components": [
+    {
+      "id": "head",
+      "label": "HEAD: version A",
+      "sublabel": "Last recorded snapshot",
+      "pos": [
+        50,
+        95
+      ],
+      "size": [
+        220,
+        78
+      ],
+      "type": "database"
+    },
+    {
+      "id": "index",
+      "label": "INDEX: version B",
+      "sublabel": "Selected for next commit",
+      "pos": [
+        400,
+        95
+      ],
+      "size": [
+        220,
+        78
+      ],
+      "type": "messagebus"
+    },
+    {
+      "id": "work",
+      "label": "FILES: version C",
+      "sublabel": "Edited again after staging",
+      "pos": [
+        750,
+        95
+      ],
+      "size": [
+        220,
+        78
+      ],
+      "type": "frontend"
+    },
+    {
+      "id": "newhead",
+      "label": "NEW HEAD: B",
+      "sublabel": "git commit records the index",
+      "pos": [
+        400,
+        330
+      ],
+      "size": [
+        220,
+        78
+      ],
+      "type": "database"
+    },
+    {
+      "id": "stillwork",
+      "label": "FILES STILL: C",
+      "sublabel": "Later edits remain unstaged",
+      "pos": [
+        750,
+        330
+      ],
+      "size": [
+        220,
+        78
+      ],
+      "type": "frontend"
+    }
+  ],
+  "connections": [
+    {
+      "from": "head",
+      "to": "index",
+      "variant": "dashed",
+      "label": "git diff --staged"
+    },
+    {
+      "from": "index",
+      "to": "work",
+      "variant": "dashed",
+      "label": "git diff"
+    },
+    {
+      "from": "index",
+      "to": "newhead",
+      "variant": "emphasis",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "labelAt": [
+        440,
+        250
+      ],
+      "label": "git commit"
+    },
+    {
+      "from": "work",
+      "to": "stillwork",
+      "variant": "emphasis",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "labelAt": [
+        925,
+        250
+      ],
+      "label": "unchanged"
+    }
+  ],
+  "cards": []
+}

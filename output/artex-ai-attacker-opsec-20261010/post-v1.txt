@@ -1,0 +1,9 @@
+An attacker used AI to target South Korean financial institutions—and left their own AI work logs on the public internet.
+
+CrowdStrike says open directories exposed Claude Code session histories, ARTEX configs and memory files, giving researchers a detailed trail of the operation.
+
+The strangest detail: one session asked for a security researcher résumé that included the results of the same activity. That conversation also contained personal details, though CrowdStrike says they cannot definitively link them to the attacker.
+
+AI can make someone faster at attacking systems. It doesn't give them better judgment about securing their own.
+
+https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/

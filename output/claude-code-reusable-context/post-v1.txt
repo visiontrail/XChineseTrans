@@ -1,0 +1,7 @@
+Getting more out of Claude Code starts with a workflow you can reuse.
+
+Keep project conventions and test commands in CLAUDE.md. Use persistent memory for recurring preferences and lessons, and review it as the project changes.
+
+Run independent tasks in separate sessions, with Git worktrees to keep edits from colliding. Give each task a clear scope, relevant files, constraints, and a way to verify the result.
+
+The habit worth building: turn each useful correction into reusable context, then check the output against concrete evidence.

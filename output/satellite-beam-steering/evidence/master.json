@@ -1,0 +1,8 @@
+{
+  "input": "steering-without-turning-v1.mp4",
+  "output": "steering-without-turning.mp4",
+  "seconds": 8.232,
+  "volumeGainDB": 2.16,
+  "colorConversion": "full range BT.601-family JPEG frames to limited BT.709 H264",
+  "duration": 36
+}

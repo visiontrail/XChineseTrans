@@ -1,0 +1,22 @@
+[
+  {
+    "order": 1,
+    "file": "images/01-cover.png",
+    "alt": "Editorial illustration of an engineering desk connected to a wider network, with completed work waiting to cross a gap."
+  },
+  {
+    "order": 2,
+    "file": "images/02-bottleneck.png",
+    "alt": "Conceptual delivery pipeline showing faster production feeding a queue before review, release, and actual use."
+  },
+  {
+    "order": 3,
+    "file": "images/03-connections.png",
+    "alt": "Four illustrated stations connect capability, a real need, trust, and delivery, emphasizing connections that help useful work reach someone."
+  },
+  {
+    "order": 4,
+    "file": "images/04-ai-coordination.png",
+    "alt": "Conceptual AI and transaction workflow connecting work, verification, authorized payment, and a recipient, with permissions, limits, and disputes called out."
+  }
+]

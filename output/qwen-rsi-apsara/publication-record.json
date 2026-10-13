@@ -1,0 +1,81 @@
+{
+  "source": "https://x.com/leo114119/status/2109138921376317881",
+  "video_source_post": "https://x.com/NFT_Chen/status/2109130238022099058",
+  "source_creator_status": "Retrieved conference excerpt; uploader not established as original creator",
+  "primary_sources": [
+    "https://www.alibabacloud.com/en/press-room/alibaba-unveils-roadmap-on-full-stack-ai-strategy",
+    "https://www.alibabagroup.com/zh-CN/document-2041268239081668608"
+  ],
+  "format": "standalone",
+  "account": "@LeoGuoLabs",
+  "text": "Qwen’s recursive self-improvement (RSI) story gets interesting when you look at the loop.\n\nAt Apsara, Qwen lead Dayiheng Liu described a pipeline that finds weaknesses in real evaluation logs and user feedback, generates targeted training data, tests it through multiple rounds on smaller models, then feeds the validated data into flagship training.\n\nAlibaba says Qwen3.8-Max completed 33 automated iteration cycles over more than a month. With autonomous training optimization and other post-training techniques, the updated model’s Artificial Analysis score rose from 40 to 45. Qwen 4 was already in training when the roadmap was announced.\n\nThe small-model validation step is the part I like: check whether the new data helps before spending flagship-scale compute. The model is helping decide what it needs to learn next.",
+  "media": [
+    "media/source-video.mp4"
+  ],
+  "media_url": "https://video.twimg.com/amplify_video/2109127149882085376/vid/avc1/1280x720/fGbA7A2dzexXMtm0.mp4?tag=29",
+  "download_checked_at": "2026-10-11T05:00:45.137538+00:00",
+  "bytes": 4893599,
+  "sha256": "94b0f9fbcf0df3e2499718d44e526f600535c04e5a12e26d59c107ecaf74203b",
+  "video": {
+    "duration": 84.074667,
+    "resolution": "1280x720",
+    "video_codec": "h264",
+    "fps": 30,
+    "audio_codec": "aac",
+    "full_decode": "passed",
+    "frame_checks": [
+      0,
+      14,
+      28,
+      42,
+      56,
+      70
+    ]
+  },
+  "authorization": {
+    "message": "确认发布。",
+    "scope": "Exact reviewed standalone English post plus full source-video.mp4",
+    "receivedAt": "2026-10-11T05:21:15.912Z"
+  },
+  "state": "publicly_verified",
+  "public_url": "https://x.com/LeoGuoLabs/status/2109152379019083893",
+  "composer": {
+    "account_live_verified": true,
+    "empty_before_fill": true,
+    "full_text_accepted": true,
+    "characters_remaining": 24174,
+    "video_status": "Ready",
+    "submitted": true,
+    "evidence": "research/composer-ready.png",
+    "exact_text_match": true
+  },
+  "review": {
+    "url": "http://172.16.10.59:8889/",
+    "local_lan_endpoint_verified": true,
+    "phone_playback_tested": false,
+    "browser_playback": {
+      "from": 0.09439,
+      "to": 15.790617,
+      "readyState": 4,
+      "media_error": null
+    },
+    "evidence": "research/review-preview.png"
+  },
+  "submittedAt": "2026-10-11T05:21:37.606Z",
+  "verifiedAt": "2026-10-11T05:22:35.760Z",
+  "public_verification": {
+    "account": "@LeoGuoLabs",
+    "exact_text_match": true,
+    "format": "standalone",
+    "video_count": 1,
+    "playback_from": 5.299123,
+    "playback_to": 17.773438,
+    "duration": 84.1,
+    "readyState": 4,
+    "media_error": null,
+    "evidence": [
+      "research/public-post-text.png",
+      "research/public-video-playing.png"
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "source_post": "https://x.com/Founder_Tribune/status/2107765456321032526",
+  "url": "https://video.twimg.com/amplify_video/2107765378021810176/vid/avc1/1280x720/2LlpDaz7Dko1WKqA.mp4?tag=16",
+  "retrieved_at": "2026-10-11T15:30:06.880834+00:00",
+  "bytes": 9393658,
+  "sha256": "8998cf1827ef3415998aa3c1f13dc9c1a4e7417f10a69a16b045e108b009844c",
+  "ranges": [
+    {
+      "start": 0,
+      "end": 524287,
+      "bytes": 524288,
+      "content_range": "bytes 0-524287/9393658"
+    },
+    {
+      "start": 524288,
+      "end": 1048575,
+      "bytes": 524288,
+      "content_range": "bytes 524288-1048575/9393658"
+    },
+    {
+      "start": 1048576,
+      "end": 1572863,
+      "bytes": 524288,
+      "content_range": "bytes 1048576-1572863/9393658"
+    },
+    {
+      "start": 1572864,
+      "end": 2097151,
+      "bytes": 524288,
+      "content_range": "bytes 1572864-2097151/9393658"
+    },
+    {
+      "start": 2097152,
+      "end": 2621439,
+      "bytes": 524288,
+      "content_range": "bytes 2097152-2621439/9393658"
+    },
+    {
+      "start": 2621440,
+      "end": 3145727,
+      "bytes": 524288,
+      "content_range": "bytes 2621440-3145727/9393658"
+    },
+    {
+      "start": 3145728,
+      "end": 3670015,
+      "bytes": 524288,
+      "content_range": "bytes 3145728-3670015/9393658"
+    },
+    {
+      "start": 3670016,
+      "end": 4194303,
+      "bytes": 524288,
+      "content_range": "bytes 3670016-4194303/9393658"
+    },
+    {
+      "start": 4194304,
+      "end": 4718591,
+      "bytes": 524288,
+      "content_range": "bytes 4194304-4718591/9393658"
+    },
+    {
+      "start": 4718592,
+      "end": 5242879,
+      "bytes": 524288,
+      "content_range": "bytes 4718592-5242879/9393658"
+    },
+    {
+      "start": 5242880,
+      "end": 5767167,
+      "bytes": 524288,
+      "content_range": "bytes 5242880-5767167/9393658"
+    },
+    {
+      "start": 5767168,
+      "end": 6291455,
+      "bytes": 524288,
+      "content_range": "bytes 5767168-6291455/9393658"
+    },
+    {
+      "start": 6291456,
+      "end": 6815743,
+      "bytes": 524288,
+      "content_range": "bytes 6291456-6815743/9393658"
+    },
+    {
+      "start": 6815744,
+      "end": 7340031,
+      "bytes": 524288,
+      "content_range": "bytes 6815744-7340031/9393658"
+    },
+    {
+      "start": 7340032,
+      "end": 7864319,
+      "bytes": 524288,
+      "content_range": "bytes 7340032-7864319/9393658"
+    },
+    {
+      "start": 7864320,
+      "end": 8388607,
+      "bytes": 524288,
+      "content_range": "bytes 7864320-8388607/9393658"
+    },
+    {
+      "start": 8388608,
+      "end": 8912895,
+      "bytes": 524288,
+      "content_range": "bytes 8388608-8912895/9393658"
+    },
+    {
+      "start": 8912896,
+      "end": 9393657,
+      "bytes": 480762,
+      "content_range": "bytes 8912896-9393657/9393658"
+    }
+  ]
+}

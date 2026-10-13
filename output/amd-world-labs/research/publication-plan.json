@@ -1,0 +1,36 @@
+{
+  "format": "standalone",
+  "status": "published_and_public_page_verified",
+  "account": "@LeoGuoLabs",
+  "body_file": "../post.txt",
+  "video_origin": "https://www.youtube.com/watch?v=uD62Yn8j_Pg",
+  "official_x_full_interview": "not_found_in_bounded_search",
+  "x_official_clips": [
+    {
+      "url": "https://x.com/BloombergTV/status/2104670079585603648",
+      "duration_s": 95
+    },
+    {
+      "url": "https://x.com/BloombergTV/status/2104665848677859454",
+      "duration_s": 113
+    }
+  ],
+  "reason": "User explicitly requires Bloomberg original X post if available; otherwise native upload of original complete video.",
+  "approval_status": "explicitly_approved_by_user",
+  "video_file": "../original-interview-1080p.mp4",
+  "video_duration_seconds": 1406.200454,
+  "video_resolution": "1920x1080",
+  "video_sha256": "90e6be934d5d4fb486a2dcf8ee9350a334abfda0796ed50eb4b38bae1b0474dc",
+  "video_bytes": 367106312,
+  "x_upload_status": "Ready",
+  "composer_post_enabled": true,
+  "body_readback_matches": true,
+  "body_characters": 1791,
+  "review_screenshot": "../standalone-draft-review.png",
+  "public_url": "https://x.com/LeoGuoLabs/status/2104813976391667837",
+  "published_at_display": "2:02 PM \u00b7 Sep 29, 2026",
+  "public_body_matches": true,
+  "public_video_duration_seconds": 1406.168,
+  "public_video_ready_state": 4,
+  "public_video_playback_verified": true
+}

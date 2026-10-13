@@ -1,0 +1,3 @@
+For a local 27B model, I’d weigh memory, context, speed, quality, and upkeep against the work it can reliably finish.
+
+What are you actually using local models for? Share your model, hardware, and a real use case.

@@ -1,0 +1,1 @@
+Epoch AI chart of OpenAI researchers’ daily coding-agent usage, valued at API prices, from January to mid-August 2026. On a logarithmic dollar axis, median usage rises to about $601 per day and 90th-percentile usage to about $7,047 per day. Recent fitted trends show doubling every 34 and 27 days, respectively. These values do not represent OpenAI’s actual internal costs.

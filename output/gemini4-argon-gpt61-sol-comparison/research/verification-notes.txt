@@ -1,0 +1,44 @@
+Checked 2 October 2026. New standalone English LeoGuoLabs draft with one infographic; not submitted to X.
+
+Original post read live in the Codex in-app browser, signed in as LeoGuoLabs:
+https://x.com/leoguolabs/status/2105928046918476177
+The original 12 benchmark rows are retained. Only the OpenAI column is replaced with GPT-6.1 Sol results; Astra values are not relabeled.
+
+Primary sources and exact Sol values
+1. https://openai.com/index/introducing-gpt-6-1-sol/
+   Read the live interactive Vega charts through browser accessibility after lazy loading.
+   DeepSWE v1.1: high 75.2%, $0.65/task; max 71.9%, $1.57/task. Use highest published score (high), explicitly labeled in footnotes.
+   AutomationBench 1.0.6: low 24.7, medium 31.7, high 33.2, xhigh 35.5, max 36.1. Max cost $0.30/task.
+   Terminal-Bench Science 0.1: low 43.7, medium 47.6, high 51.1, xhigh 53.7, max 57.0. Max cost $5.47/task.
+   OpenAI's announcement says GPT runs use its research environment or API, while competitor results come from public reports.
+2. https://www.vals.ai/models/openai_gpt-6.1-sol
+   Default reasoning effort max. Vals Index 61.15 -> 61.2%; Finance Agent v2 52.03 -> 52.0%; Harvey's Legal Agent Benchmark 5.42 -> 5.4%; Terminal-Bench 4.0 55.05 -> 55.1%. Decimal half-up display at one decimal.
+3. https://www.vals.ai/benchmarks/terminal-bench-4
+   Sol's Terminal result uses mini-swe-agent. Do not imply a matched harness with Opus's Claude Code result. Vals publishes a distinct Opus result; this chart intentionally preserves the original Google-compiled Opus 66.4% configuration with its documented fallback.
+4. https://deepmind.google/models/gemini/
+   Rechecked all original Argon and Opus values. The table still compares Astra, not Sol. The new figure is therefore labeled a compilation of published configurations, not Google's own three-model table.
+5. https://deepmind.google/models/evals-methodology/gemini-4-argon
+   Argon Science uses a 6x verifier timeout. LVBench uses Argon 1 fps and Opus 600 frames. Astra sampling removed from new graphic.
+6. https://zapier.com/benchmarks
+   Version 1.0.6: Argon High 51.29%, Opus default fallbacks Max 42.47%. Retain dagger on Opus Automation.
+7. Prior downloaded primary Anthropic system card, reread page 178 locally:
+   ../../gemini4-argon-cross-comparison/research/opus55-system-card.txt
+   Exact 66.36% Terminal result has safeguards and default server-side fallback. Retain dagger. Do not infer fallback status for other Claude cells.
+8. https://developers.openai.com/api/docs/models/gpt-6.1-sol
+   Standard $2 input, $0.10 cached input, $10 output per million tokens. More than 272K input tokens changes full-request rates. Draft qualifies the $2/$10 comparison accordingly.
+9. https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/
+   Announced introductory $2/$10, then $4/$20. Replace original Astra-relative pricing claims.
+10. https://help.x.com/en/using-x/types-of-posts
+   Premium longer posts support up to 25,000 characters. Final draft is 1,536 characters, no hashtags or external links. Composer acceptance was not tested because this request is to write a new post, not to submit it.
+
+Missing cells
+No corresponding verified Sol result found in reviewed sources for FrontierSWE v2, PostTrainBench v1.1, CWE-bench v1, GraphWalks 256k-1M, or LVBench. Display an em dash; this does not establish that no result exists anywhere, and it does not mean zero.
+
+Evidence handling
+Search results from aggregators were discovery leads only; final numeric Sol claims rely on OpenAI's actual charts and Vals AI's original evaluator pages. The OpenAI page briefly displayed a loading check after cookie dismissal and recovered without challenge interaction. Ego Lite native connection timed out and its browser connections could not load policy; no Chrome session was used. The user then explicitly authorized the in-app browser for all websites and updating project AGENTS.md. Updated only those browser preference lines.
+
+Production and review
+Built-in image_gen edited the original infographic, with the inspected LeoGuoLabs paper reference. Exact prompt is ../image-prompt-v1.txt. Original and generated source are preserved; final project image is ../gemini4-argon-vs-gpt61-sol-opus55-v1.png.
+All 12 rows, 31 numerical cells, 5 Sol dashes, 2 fallback daggers, title, date, footnotes and signature checked visually. No clipping found. ALT is 846 characters and follows the displayed row order.
+Final files: x-post-v1.txt, alt-text-v1.txt, scores-v1.json, image-prompt-v1.txt, qa-v1.json, and the PNG.
+Publication state: prepared, not published. No new post has been submitted.

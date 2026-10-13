@@ -1,0 +1,51 @@
+Completely redesign this English infographic as a MINIMAL FLAT TYPOGRAPHIC INFORMATION SHEET. The user rejected all visual embellishment in the supplied image. Use the supplied image ONLY to preserve its eight factual entries and their exact descriptions. Replace the entire layout.
+
+Canvas: portrait 2:3. The background is one perfectly uniform, solid pale butter yellow #F6EDCF, identical edge to edge. Flat digital design: zero gradient, zero light effects, zero texture, zero shadows. All information is printed directly onto this one solid background. No white panels, cards, boxes, borders around the page, circles, pills, badges, medallions, illustrations, leaves, plants or icons.
+
+Typography and layout: restrained editorial style inspired by a clean premium software homepage. All content LEFT ALIGNED on a strict grid. Outer margins 7%. A moderate-size elegant medium-weight serif headline (Cormorant Garamond-like), dark gold #80601B for "8 Benchmarks", deep forest green #1A4A3A for "for AI Agents". Two lines, taking only about 13% of image height. No extra eyebrow. A smaller clean sans-serif subtitle below, in forest green. Main content should occupy most of the sheet.
+
+Three sections, each marked by a small plain dark-gold section number and a clean semibold sans-serif heading in forest green. Separate the sections with generous whitespace and at most one thin straight muted-green horizontal rule. No section icons or containers. Within each section, use a narrow gutter of plain typographic row numbers 1-8, with no background circles and no vertical divider strokes. Benchmark name bold/semibold sans-serif in deep green; explanation below in regular sans-serif forest green. All text readable. Consistent left edges and baseline rhythm. No row separators. No visual clutter. The result should resemble a carefully typeset technical note, not a decorative poster or dashboard.
+
+Exact text:
+Title:
+8 Benchmarks
+for AI Agents
+Subtitle: What they test. Where the results apply.
+
+01 / Code & software engineering
+
+1  Terminal-Bench 4.0
+Complex tasks in a terminal environment.
+
+2  FrontierCode v1.1
+Code correctness, quality and mergeability.
+
+3  CursorBench 4.0
+Ambiguous, multi-file tasks from real coding sessions.
+
+4  DeepSWE v1.1
+Long-horizon software engineering tasks.
+
+02 / Computer use & business workflows
+
+5  OSWorld 2.0
+Long workflows through computer interfaces.
+
+6  AutomationBench
+Business workflows across simulated app APIs.
+
+03 / Knowledge work & science
+
+7  GDPval-AA v2.1
+Quality of reports, slides and spreadsheets.
+
+8  Terminal-Bench-Science 0.1
+Scientific workflows with verifiable outputs.
+
+Footer:
+Match the benchmark to the work.
+Check the setup. Test on your own tasks.
+
+Small plain signature bottom right: LeoGuoLabs
+
+Print only this text, no other copy. Footer is quiet and proportionate, not another large headline. No invented slogans. Uniform SOLID background throughout, not even a subtle gradient. This is a minimal design whose beauty comes only from type, alignment, whitespace and three harmonious flat colors.

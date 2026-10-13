@@ -1,0 +1,58 @@
+Warm ivory #FDFBF7 with delicate, evenly distributed natural paper fiber, forest-green #1A4A3A typography, sparse dark-gold #80601B accents. One clean Geist/Inter-like modern sans-serif family throughout; body regular, labels medium, headings semibold. Minimal, warm, technically clear. No gradients, glow, leaves, icons, panels, cards, shadows, frames, badges, winner symbols or decorative elements.
+
+Use case: text-localization / factual infographic update.
+Edit target: attached three-category GPT-6 Sol vs Claude Opus 5.5 infographic.
+Task: replace GPT-6 Sol with GPT-6 Astra AND replace the entire left score column with the freshly verified Astra data below. Update DeepSWE's right score and source label too. Update the dagger wording exactly. Preserve the existing three-category 4/2/2 row layout, paper texture, colors, thin rules, alignment, open margins and all other visual characteristics.
+
+Portrait 2:3, ideally1536x2304. Use a proportionate two-line headline if needed to fit the longer model name without cramped text. Keep data rows large and readable. Maintain single aligned numeric columns across the three sections. Gold plain section numbers, green category labels. No winner emphasis. A modest title leaves adequate room for the data and legible footnotes.
+
+Exact title: "GPT-6 Astra vs Claude Opus 5.5"
+Subtitle: "8 benchmarks · Published scores at max effort"
+Date: "Checked 28 Sep 2026"
+Column headings: "Benchmark" | "GPT-6 Astra" | "Opus 5.5"
+
+SECTION 1: "01 / Code & software engineering"
+"Terminal-Bench 4.0"
+"Artificial Analysis · pass@1"
+"59.1%" | "59.6%†"
+
+"FrontierCode v1.1 Main"
+"Cognition · weighted score"
+"53.3%" | "54.4%"
+
+"CursorBench 4.0"
+"Cursor · task score"
+"—" | "57.8%"
+
+"DeepSWE v1.1"
+"Artificial Analysis · coding agents"
+"67.6%" | "68.4%†"
+
+SECTION 2: "02 / Computer use & business workflows"
+"OSWorld 2.0*"
+"Vendor reports · partial reward"
+"73.5%" | "81.8%†"
+
+"AutomationBench 1.0.6"
+"Zapier · strict completion"
+"41.4%" | "42.5%†"
+
+SECTION 3: "03 / Knowledge work & science"
+"GDPval-AA v2.1"
+"Artificial Analysis · Elo"
+"1542 Elo" | "1846 Elo†"
+
+"Terminal-Bench-Science 0.1"
+"Artificial Analysis · pass@1"
+"63.3%" | "59.0%†"
+
+Below all data, reproduce these footnotes accurately, with natural line wrapping and generous enough spacing:
+"— No public score found in checked sources."
+"† Fallback enabled: some tasks may be handled by other Claude models."
+"* OSWorld is not a matched comparison: Astra uses offline v2026.08.08; Opus subset/version is unconfirmed."
+"Max effort does not mean equal compute. Agent setups differ."
+"FrontierCode and DeepSWE use Codex vs Claude Code."
+
+Bottom-right small plain signature: "LeoGuoLabs"
+
+Critical QA: 8 benchmark rows, 4/2/2 in those categories, exactly one missing value (Astra CursorBench). Six daggers ONLY on Opus values: Terminal-Bench, DeepSWE, OSWorld, AutomationBench, GDPval-AA, Science. No dagger on FrontierCode or CursorBench. Both GDPval values have Elo units. All other scores have percentages. No leftover Sol name, no leftover Sol score, no claims about how many tasks used fallback or which particular fallback models were used. No aggregate/winner score.

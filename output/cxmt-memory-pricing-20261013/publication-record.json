@@ -1,0 +1,42 @@
+{
+  "state": "publicly_verified",
+  "source": "https://x.com/alanchen/status/2109748414170980684",
+  "original_context": "https://x.com/elonmusk/status/2109690977279426846",
+  "format": "standalone",
+  "account": "@LeoGuoLabs",
+  "account_session_verified": true,
+  "copy": "post-en-v1.txt",
+  "media": [],
+  "review": "User approved complete final copy with 确认发布",
+  "published_url": "https://x.com/LeoGuoLabs/status/2109845840227660027",
+  "composer": {
+    "checked": true,
+    "text_matches": true,
+    "comparison": "DOM innerText adds one extra newline between Draft.js paragraphs; normalizing paragraph runs yields exactly post-en-v1.txt without its trailing file newline.",
+    "characters": 1029,
+    "characters_remaining_shown": 23971,
+    "post_enabled": true,
+    "media_count": 0,
+    "screenshot": "composer-review-v1.jpg",
+    "tab_handoff": true,
+    "submitted": true
+  },
+  "publicly_verified": true,
+  "authorization": {
+    "message": "确认发布",
+    "received_date": "2026-10-13",
+    "recorded_at": "2026-10-13T03:16:54.137425+00:00",
+    "copy_sha256": "7aa8424b896c2d9ca8e471430e79d4a2c8cebbc97ab2edc53277b66c2303d7ee"
+  },
+  "submitted_at_recorded": "2026-10-13T03:17:29.948385+00:00",
+  "verification": {
+    "evidence": "public-verification.json",
+    "screenshot": "published-v1.jpg",
+    "verified_at": "2026-10-13T03:18:14.830Z",
+    "published_at": "2026-10-13T03:17:02.000Z",
+    "complete_copy_matches": true,
+    "standalone": true,
+    "media_count": 0,
+    "copy_sha256": "7aa8424b896c2d9ca8e471430e79d4a2c8cebbc97ab2edc53277b66c2303d7ee"
+  }
+}

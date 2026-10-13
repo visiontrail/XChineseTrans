@@ -1,0 +1,16 @@
+{
+  "source_post": "https://x.com/lydiahallie/status/2108624109538291901",
+  "source_media_url": "https://video.twimg.com/amplify_video/2108623848971366400/vid/avc1/1920x660/v6tK9K5GeS2gwKGn.mp4?tag=29",
+  "retrieved_at_utc": "2026-10-10T00:46:32.616770+00:00",
+  "bytes": 274392,
+  "sha256": "68a59cecf54e9b31d18538e9116d97711ecf5c0714fbc06e20ed0a97046cec36",
+  "full_decode": "passed",
+  "frame_review": [
+    0,
+    3,
+    6
+  ],
+  "audio": "no audio stream",
+  "playback": "Local browser: currentTime advanced from 0 to 5.95, duration 7, readyState 4, no error",
+  "source_form": "English authored explainer animation"
+}

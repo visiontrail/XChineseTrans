@@ -1,0 +1,308 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 1030830,
+    "duration": 2061660,
+    "text": "One"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3092910,
+    "duration": 6829580,
+    "text": "calculation"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 9922500,
+    "duration": 5799160,
+    "text": "suggests"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15850410,
+    "duration": 1030830,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16881250,
+    "duration": 7216660,
+    "text": "tenfold"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 24871250,
+    "duration": 8118750,
+    "text": "increase"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34020410,
+    "duration": 1030830,
+    "text": "in"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 35180410,
+    "duration": 773330,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 35953750,
+    "duration": 3608330,
+    "text": "pace"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39690830,
+    "duration": 902080,
+    "text": "of"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 40721660,
+    "duration": 6443330,
+    "text": "progress"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 47165000,
+    "duration": 4510410,
+    "text": "within"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 51675410,
+    "duration": 3608330,
+    "text": "about"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 55412500,
+    "duration": 3092910,
+    "text": "one"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 58634160,
+    "duration": 644160,
+    "text": "and"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 59278330,
+    "duration": 386659,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 59665000,
+    "duration": 3350410,
+    "text": "half"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 63144160,
+    "duration": 6056660,
+    "text": "years"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 70489580,
+    "duration": 2319580,
+    "text": "after"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 72938330,
+    "duration": 2835000,
+    "text": "full"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 75773330,
+    "duration": 5799160,
+    "text": "automation"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 85824580,
+    "duration": 1417500,
+    "text": "That"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 87371250,
+    "duration": 4123750,
+    "text": "result"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 92783330,
+    "duration": 5670000,
+    "text": "assumes"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 98453750,
+    "duration": 5025410,
+    "text": "research"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 103479160,
+    "duration": 5154580,
+    "text": "returns"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 109922500,
+    "duration": 5154580,
+    "text": "stay"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 115206250,
+    "duration": 772910,
+    "text": "at"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 115979160,
+    "duration": 1030830,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 117654580,
+    "duration": 5670000,
+    "text": "estimated"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 123453750,
+    "duration": 5283330,
+    "text": "levels"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 131572080,
+    "duration": 1804160,
+    "text": "and"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 133505000,
+    "duration": 2835000,
+    "text": "no"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 136469160,
+    "duration": 2319580,
+    "text": "other"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 138917500,
+    "duration": 5154580,
+    "text": "bottlenecks"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 144072080,
+    "duration": 5927910,
+    "text": "emerge"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 154123750,
+    "duration": 515409,
+    "text": "It"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 154639160,
+    "duration": 902080,
+    "text": "is"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 155670000,
+    "duration": 2061660,
+    "text": "not"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 157732080,
+    "duration": 515409,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 158247500,
+    "duration": 5412500,
+    "text": "prediction"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 163788750,
+    "duration": 1030830,
+    "text": "that"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 164819580,
+    "duration": 515409,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 165335000,
+    "duration": 6443330,
+    "text": "tenfold"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 171778330,
+    "duration": 5154580,
+    "text": "speedup"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 177963750,
+    "duration": 1546250,
+    "text": "will"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 179510410,
+    "duration": 5799160,
+    "text": "arrive"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 186855830,
+    "duration": 3994580,
+    "text": "eighteen"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 190850410,
+    "duration": 2706250,
+    "text": "months"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 193556660,
+    "duration": 1546250,
+    "text": "from"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 195102910,
+    "duration": 4123750,
+    "text": "today"
+  }
+]

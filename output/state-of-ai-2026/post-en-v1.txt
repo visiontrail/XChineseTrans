@@ -1,0 +1,11 @@
+AI is helping build the next generation of AI. The State of AI Report 2026 makes that shift hard to ignore.
+
+Anthropic says Claude led 26% of its measured model R&D work in August, with humans supervising. That is a meaningful change in how research gets done, but it is not fully autonomous self-improvement.
+
+The surrounding tools matter too. In one controlled coding study, better tools, context and feedback lifted GLM-5.1 from 52.5% to 65.5% success without changing its weights.
+
+And capability brings consequences: OpenAI reports that agents in internal cyber evaluations, with certain safeguards disabled, executed code on 41 Hugging Face production workers.
+
+My takeaway: choose the whole workflow, check the finished work, and give agents only the access they need. Higher benchmark scores alone won't make delegation reliable.
+
+https://www.stateof.ai/

@@ -1,0 +1,167 @@
+{
+  "source": "https://x.com/0x404page/status/2109510762771407042",
+  "source_video_post": "https://x.com/GeniusGTX/status/2108724471792382279",
+  "original_creator": "Moonshots with Peter Diamandis",
+  "official_episode": "https://www.diamandis.com/podcast/elon-musk-agi-timeline-copy-code",
+  "official_video": "https://www.youtube.com/watch?v=RSNuB9pj9P8",
+  "source_episode_date": "2026-01-06",
+  "format": "standalone",
+  "destination": "@LeoGuoLabs",
+  "text": "If AI makes work optional, we’ll still need a reason to get up in the morning.\n\nIn his January conversation with Peter Diamandis, Elon Musk predicted universal high income alongside social unrest.\n\nI like the idea of having more time to build, learn, or help someone. But abundance still has to reach people. And a monthly payment can cover your bills without telling you what to do with your life.",
+  "selected_media": [
+    "media/musk-universal-high-income-original.mp4"
+  ],
+  "state": "publicly_verified",
+  "review_authorization": {
+    "text": "确认，40分钟以后发布",
+    "approved_at": "2026-10-13T02:29:34Z",
+    "scope": "Exact reviewed 398-character English copy and original 20.108481s video, standalone @LeoGuoLabs post; publication 40 minutes after approval."
+  },
+  "public_url": "https://x.com/LeoGuoLabs/status/2109844646881083801",
+  "checks": {
+    "download_ranges_verified": true,
+    "original_full_decode_exit": 0,
+    "full_decode_log_empty": true,
+    "original_sha256": "b48950b91e58d60dba7e60f9a94f76b19fb6d098ee626a111bec668e58151c99",
+    "duration_seconds": 20.108481,
+    "video": "h264 640x360",
+    "audio": "aac stereo 44100Hz",
+    "frame_inspection": [
+      "verification/frame-start.jpg",
+      "verification/frame-middle.jpg",
+      "verification/frame-end.jpg"
+    ],
+    "live_account": "@LeoGuoLabs",
+    "composer_accepts_full_text": true,
+    "preview_playback": null,
+    "composer_characters": 398,
+    "composer_remaining_characters": 24602,
+    "composer_video_state": "Ready",
+    "composer_playback_initial": {
+      "currentTime": 0.233609,
+      "readyState": 4,
+      "paused": false
+    },
+    "composer_playback_final": {
+      "currentTime": 2.988826,
+      "duration": 20.108481,
+      "ended": false,
+      "paused": false,
+      "readyState": 4,
+      "videoHeight": 360,
+      "videoWidth": 640
+    },
+    "review_playback": {
+      "currentTime": 20.108481,
+      "duration": 20.108481,
+      "ended": true,
+      "readyState": 4
+    },
+    "review_local_endpoint_http": 200,
+    "review_lan_endpoint_http": 200,
+    "review_narrow_viewport": {
+      "width": 390,
+      "documentWidth": 390,
+      "videoWidth": 342
+    },
+    "phone_playback_verified": false,
+    "live_account_at_scheduling": "@LeoGuoLabs",
+    "live_account_at_publish": "@LeoGuoLabs",
+    "duplicate_check": "Latest profile timeline checked; most recent non-pinned post was about 20 minutes old and did not match this draft.",
+    "approved_text_match_before_submission": true,
+    "source_file_sha256_rechecked": true,
+    "restored_native_video": {
+      "provider_filename": "9ObyYZs2qsYEflj6.mp4",
+      "duration": 20.154921,
+      "width": 640,
+      "height": 360,
+      "readyState": 4,
+      "status_before_submit": "Ready"
+    },
+    "public_verification": {
+      "url": "https://x.com/LeoGuoLabs/status/2109844646881083801",
+      "account": "@LeoGuoLabs",
+      "textMatchesApproved": true,
+      "approvedCharacters": 398,
+      "videoCount": 1,
+      "quoteCardCount": 0,
+      "first": {
+        "currentTime": 10.681181,
+        "duration": 20.201359,
+        "ended": false,
+        "error": null,
+        "paused": false,
+        "readyState": 4,
+        "videoHeight": 270,
+        "videoWidth": 480
+      },
+      "second": {
+        "currentTime": 8.132206,
+        "duration": 20.201359,
+        "ended": false,
+        "error": null,
+        "paused": false,
+        "readyState": 4,
+        "videoHeight": 270,
+        "videoWidth": 480
+      },
+      "observedPublishedTime": "11:12 AM · Oct 13, 2026",
+      "continuousStart": {
+        "currentTime": 14.809156,
+        "error": null,
+        "paused": false,
+        "readyState": 4
+      },
+      "continuousEnd": {
+        "currentTime": 14.938373,
+        "error": null,
+        "paused": false,
+        "readyState": 4
+      },
+      "playbackAdvanced": true
+    }
+  },
+  "updated_at": "2026-10-13T02:33:52.043862+00:00",
+  "review_preview": {
+    "port": 56603,
+    "local_url": "http://127.0.0.1:56603/",
+    "lan_url": "http://172.16.10.59:56603/"
+  },
+  "review_screenshots": [
+    "verification/composer-ready.png",
+    "verification/review-ready.png",
+    "verification/review-mobile.png"
+  ],
+  "requested_publish_at": "2026-10-13T11:09:34+08:00",
+  "planned_publish_at": "2026-10-13T11:10:00+08:00",
+  "scheduling_method": "Codex one-time thread heartbeat",
+  "scheduled_publish_at": "2026-10-13T11:10:00+08:00",
+  "automation": {
+    "id": "musk-uhi",
+    "kind": "heartbeat",
+    "status": "PAUSED",
+    "one_time": true,
+    "target_thread_id": "01a132f5-2d3d-7a12-8915-8559eb15287b",
+    "config_verified": true,
+    "requires_local_app_running": true,
+    "work_completed": true,
+    "completion_reason": "Single authorized publication and public verification completed; further runs disabled."
+  },
+  "x_native_schedule": {
+    "confirmed": false,
+    "attempts": 2,
+    "blocker": "Native schedule dialog remained Loading on both attempts; returned safely to the same composer."
+  },
+  "draft_save": {
+    "requested": true,
+    "save_dialog_closed": true,
+    "returned_to": "https://x.com/home",
+    "queue_readback": "Matching first draft with approved text and 0:20 native video confirmed in Drafts.",
+    "confirmed": true
+  },
+  "publication_started_at": "2026-10-13T03:12:27.190216+00:00",
+  "submitted_at": "2026-10-13T03:12:45.655569+00:00",
+  "publicly_verified_at": "2026-10-13T03:14:50.061931+00:00",
+  "observed_publish_time": "2026-10-13 11:12 Asia/Singapore",
+  "public_screenshot": "verification/published.png"
+}

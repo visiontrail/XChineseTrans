@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {"title": "Where your work lives", "subtitle": "A local commit, a pushed branch, and a reviewed change are different states.", "viewBox": [1040, 430]},
+  "components": [
+    {"id":"files","type":"frontend","label":"Working files","sublabel":"Your current edits","pos":[70,100],"size":[160,66]},
+    {"id":"stage","type":"messagebus","label":"Staging area","sublabel":"The next snapshot","pos":[310,100],"size":[160,66]},
+    {"id":"local","type":"database","label":"Local repository","sublabel":"Commits + branches","pos":[550,100],"size":[160,66]},
+    {"id":"remote","type":"cloud","label":"GitHub repository","sublabel":"Shared branches","pos":[820,100],"size":[160,66]},
+    {"id":"review","type":"security","label":"Pull request","sublabel":"Review + checks","pos":[820,275],"size":[160,66]}
+  ],
+  "boundaries":[{"kind":"region","label":"YOUR COMPUTER","wraps":["files","stage","local"]}],
+  "connections":[
+    {"from":"files","to":"stage","label":"git add","variant":"emphasis"},
+    {"from":"stage","to":"local","label":"git commit","variant":"emphasis"},
+    {"from":"local","to":"remote","label":"git push","variant":"emphasis"},
+    {"from":"remote","to":"local","label":"git fetch","fromSide":"bottom","toSide":"bottom","via":[[900,220],[630,220]],"labelAt":[760,235],"variant":"dashed"},
+    {"from":"remote","to":"review","fromSide":"right","toSide":"right","via":[[1005,133],[1005,308]],"variant":"security"}
+  ],
+  "cards":[
+    {"dot":"cyan","title":"Local work","items":["Editing changes working files.","Staging selects what the next commit contains.","Committing records a snapshot locally."]},
+    {"dot":"emerald","title":"Sharing","items":["Push updates a remote branch.","Fetch downloads remote history.","Fetch alone does not merge your working branch."]},
+    {"dot":"rose","title":"Acceptance","items":["A PR proposes integration into a base branch.","Checks and review evaluate that proposal.","A merged PR still needs deployment verification."]}
+  ]
+}

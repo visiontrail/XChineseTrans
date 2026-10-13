@@ -1,0 +1,12 @@
+Quick update to my REA post: I'd be more cautious about my earlier suggestion to use spare Codex quota to explore apps.
+
+A user reports being banned after trying REA with Codex. The screenshot shows an OpenAI workspace suspension for policy violations, but no specific request or confirmed trigger.
+
+OpenAI prohibits malicious or abusive cyber activity and IP infringement. Its reverse-engineering clause concerns OpenAI's own services; I wouldn't read that as a blanket ban on analyzing every app.
+
+Still, REA's MIT licence doesn't give you rights over the software you examine. The project itself says to use it only for lawful, authorized analysis and not to evade model providers' safeguards.
+
+I still find the tooling interesting. But before giving an agent a target, check the target's licence, your permission to analyze it, and the provider's rules. Spare quota isn't a good reason to skip that.
+
+https://openai.com/policies/usage-policies/
+https://openai.com/policies/terms-of-use/

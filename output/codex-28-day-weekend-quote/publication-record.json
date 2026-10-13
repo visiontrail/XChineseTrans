@@ -1,0 +1,20 @@
+{
+  "source": "https://x.com/thsottiaux/status/2109090080497508356",
+  "quote_target": "https://x.com/thsottiaux/status/2109090080497508356",
+  "format": "quote",
+  "account": "@LeoGuoLabs",
+  "text": "So can I take the 28-day promise to mean we’ll get a reset every weekend?",
+  "media": [],
+  "authorization": "User approved this exact one-line text and requested Quote publication.",
+  "state": "publicly_verified",
+  "prepared_at": "2026-10-11T02:14:43.815764+00:00",
+  "url": "https://x.com/LeoGuoLabs/status/2109105485718913064",
+  "verified_at": "2026-10-11T02:15:41.677456+00:00",
+  "verification": {
+    "account": "@LeoGuoLabs",
+    "complete_text_matches": true,
+    "native_quote_target": "https://x.com/thsottiaux/status/2109090080497508356",
+    "media_count": 0,
+    "screenshot": "public-verification.png"
+  }
+}

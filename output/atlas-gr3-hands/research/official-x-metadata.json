@@ -1,0 +1,229 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/BostonDynamics/status/2105659276425298012",
+    "id": "2105659276425298012",
+    "text": "These new hands are the perfect companion for Atlas. With 13 degrees of freedom, they are directly actuated, built for high fidelity simulation to enable sim-to-real RL, and designed from the ground up for dexterous physical work. \n\nLearn how we built robot hands for modern AI and real work: https://bosdyn.co/4hR09Uz",
+    "raw_text": {
+      "text": "These new hands are the perfect companion for Atlas. With 13 degrees of freedom, they are directly actuated, built for high fidelity simulation to enable sim-to-real RL, and designed from the ground up for dexterous physical work. \n\nLearn how we built robot hands for modern AI and real work: https://t.co/XxCYEcmHdP",
+      "display_text_range": [
+        0,
+        316
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            278,
+            301
+          ],
+          "id": "2105659085467082752",
+          "display": "pic.x.com/75DyoSP8Dt",
+          "original": "https://t.co/75DyoSP8Dt",
+          "replacement": "https://x.com/BostonDynamics/status/2105659276425298012/video/1"
+        },
+        {
+          "type": "url",
+          "indices": [
+            293,
+            316
+          ],
+          "original": "https://t.co/XxCYEcmHdP",
+          "replacement": "https://bosdyn.co/4hR09Uz",
+          "display": "bosdyn.co/4hR09Uz"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "BostonDynamics",
+      "url": "https://x.com/BostonDynamics",
+      "id": "517473207",
+      "followers": 337132,
+      "following": 0,
+      "likes": 138,
+      "media_count": 234,
+      "name": "Boston Dynamics",
+      "description": "",
+      "raw_description": {
+        "text": "",
+        "facets": []
+      },
+      "location": "Waltham, MA",
+      "banner_url": "https://pbs.twimg.com/profile_banners/517473207/1770239254",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1156978210783019009/AbgIujGu_200x200.jpg",
+      "joined": "Wed Mar 07 11:03:33 +0000 2012",
+      "protected": false,
+      "website": {
+        "url": "http://www.bostondynamics.com",
+        "display_url": "bostondynamics.com"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "organization"
+      },
+      "avatar_color": null
+    },
+    "replies": 96,
+    "retweets": 278,
+    "likes": 1593,
+    "bookmarks": 299,
+    "quotes": 72,
+    "created_at": "Thu Oct 01 14:01:07 +0000 2026",
+    "created_timestamp": 1790863267,
+    "possibly_sensitive": false,
+    "views": 245860,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "id": "2105659085467082752",
+          "url": "https://video.twimg.com/amplify_video/2105659085467082752/vid/avc1/1920x1080/geC_FF6dPt4ZHPNP.mp4?tag=16",
+          "thumbnail_url": "https://pbs.twimg.com/media/HTjN70OW4AA9qPg.jpg",
+          "duration": 324.187,
+          "width": 3363,
+          "height": 1892,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2105659085467082752/pl/jIFcLqx3n_wigjZ6.m3u8?tag=16&v=385",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2105659085467082752/vid/avc1/480x270/c63BMpTfbFG0ATaG.mp4?tag=16",
+              "bitrate": 288000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2105659085467082752/vid/avc1/640x360/7OZ0dt69UAJ9GsCw.mp4?tag=16",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2105659085467082752/vid/avc1/1280x720/CrSn72wzQuU7JAAF.mp4?tag=16",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2105659085467082752/vid/avc1/1920x1080/geC_FF6dPt4ZHPNP.mp4?tag=16",
+              "bitrate": 10368000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": null,
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2105659085467082752/pl/jIFcLqx3n_wigjZ6.m3u8?tag=16&v=385",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2105659085467082752/vid/avc1/480x270/c63BMpTfbFG0ATaG.mp4?tag=16",
+              "bitrate": 288000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2105659085467082752/vid/avc1/640x360/7OZ0dt69UAJ9GsCw.mp4?tag=16",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2105659085467082752/vid/avc1/1280x720/CrSn72wzQuU7JAAF.mp4?tag=16",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2105659085467082752/vid/avc1/1920x1080/geC_FF6dPt4ZHPNP.mp4?tag=16",
+              "bitrate": 10368000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "id": "2105659085467082752",
+          "url": "https://video.twimg.com/amplify_video/2105659085467082752/vid/avc1/1920x1080/geC_FF6dPt4ZHPNP.mp4?tag=16",
+          "thumbnail_url": "https://pbs.twimg.com/media/HTjN70OW4AA9qPg.jpg",
+          "duration": 324.187,
+          "width": 3363,
+          "height": 1892,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2105659085467082752/pl/jIFcLqx3n_wigjZ6.m3u8?tag=16&v=385",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2105659085467082752/vid/avc1/480x270/c63BMpTfbFG0ATaG.mp4?tag=16",
+              "bitrate": 288000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2105659085467082752/vid/avc1/640x360/7OZ0dt69UAJ9GsCw.mp4?tag=16",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2105659085467082752/vid/avc1/1280x720/CrSn72wzQuU7JAAF.mp4?tag=16",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2105659085467082752/vid/avc1/1920x1080/geC_FF6dPt4ZHPNP.mp4?tag=16",
+              "bitrate": 10368000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": null,
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2105659085467082752/pl/jIFcLqx3n_wigjZ6.m3u8?tag=16&v=385",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2105659085467082752/vid/avc1/480x270/c63BMpTfbFG0ATaG.mp4?tag=16",
+              "bitrate": 288000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2105659085467082752/vid/avc1/640x360/7OZ0dt69UAJ9GsCw.mp4?tag=16",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2105659085467082752/vid/avc1/1280x720/CrSn72wzQuU7JAAF.mp4?tag=16",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2105659085467082752/vid/avc1/1920x1080/geC_FF6dPt4ZHPNP.mp4?tag=16",
+              "bitrate": 10368000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ]
+    },
+    "twitter_card": "player",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

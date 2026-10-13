@@ -1,0 +1,17 @@
+The next shift in AI may come from AI doing more of the work that builds its successors.
+
+The mechanism is a feedback loop: stronger systems help with research; useful advances produce more capable or efficient models; those models then return to the research process.
+
+A recent paper co-authored by Geoffrey Hinton, Yoshua Bengio and other researchers argues that this could sharply accelerate progress. The conditions matter as much as the headline.
+
+Two numbers illustrate why definitions matter. The paper cites Anthropic reporting that AI wrote more than 80% of approved code by May 2026. Separately, 26% of R&D work was completed autonomously with high-level human supervision by August. These measure different things. Code generation is only one part of a research workflow.
+
+The paper's roughly 10× speedup within 1.5 years is a conditional calculation after full AI R&D automation. It assumes research returns persist and no other bottlenecks emerge. It is not an 18-month countdown from today.
+
+Compute, data, difficult tasks, diminishing returns and long experiments can all limit the loop. A thousand proposed experiments are not a thousand validated discoveries.
+
+Faster research could bring useful advances closer. It could also leave less time for evaluation, human oversight and institutions to adapt, while concentrating power around the strongest systems.
+
+The practical question is whether we can measure useful research output, see the bottlenecks, and keep meaningful checkpoints before each successor gains more access.
+
+Measure the whole loop. Keep the ability to pause it. Prepare before the pace forces the decision.

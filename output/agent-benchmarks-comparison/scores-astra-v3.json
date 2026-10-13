@@ -1,0 +1,108 @@
+{
+  "checked": "2026-09-28",
+  "effort": "max",
+  "models": [
+    "GPT-6 Astra",
+    "Claude Opus 5.5"
+  ],
+  "fallbackFootnote": "† Fallback enabled: some tasks may be handled by other Claude models.",
+  "rows": [
+    {
+      "category": "Code & software engineering",
+      "benchmark": "Terminal-Bench 4.0",
+      "metric": "Pass@1",
+      "astra": 59.1,
+      "opus": 59.6,
+      "unit": "%",
+      "opusFallback": true,
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/evaluations/terminalbench-4-0",
+      "note": "Same mini-swe-agent model evaluation; 66 tasks, three trials. Astra max 59.1 differs from xhigh 59.6."
+    },
+    {
+      "category": "Code & software engineering",
+      "benchmark": "FrontierCode v1.1 Main",
+      "metric": "Weighted rubric score",
+      "astra": 53.3,
+      "opus": 54.4,
+      "unit": "%",
+      "opusFallback": null,
+      "source": "Cognition",
+      "url": "https://cognition.com/frontiercode",
+      "note": "Raw max scores 53.26/54.43%; Codex vs Claude Code. Not pass rates."
+    },
+    {
+      "category": "Code & software engineering",
+      "benchmark": "CursorBench 4.0",
+      "metric": "Task score",
+      "astra": null,
+      "opus": 57.8,
+      "unit": "%",
+      "opusFallback": null,
+      "source": "Cursor",
+      "url": "https://cursor.com/cursorbench",
+      "note": "No exact GPT-6 Astra result found on checked official leaderboard."
+    },
+    {
+      "category": "Code & software engineering",
+      "benchmark": "DeepSWE v1.1",
+      "metric": "Pass@1",
+      "astra": 67.6,
+      "opus": 68.4,
+      "unit": "%",
+      "opusFallback": true,
+      "source": "Artificial Analysis coding agents",
+      "url": "https://artificialanalysis.ai/agents/coding-agents/comparisons/claude-code-vs-codex",
+      "note": "AA coding-agent evaluation, datacurve/deep-swe-1-1@1, 113 tasks with three trials; Codex 0.153.4 vs Claude Code 2.1.280. Raw 0.675516224188791/0.684365781710915. Opus fallback is recorded in evaluation data. Do not substitute Datacurve mini-swe-agent Astra 73.2%."
+    },
+    {
+      "category": "Computer use & business workflows",
+      "benchmark": "OSWorld 2.0",
+      "metric": "Partial reward",
+      "astra": 73.5,
+      "opus": 81.8,
+      "unit": "%",
+      "opusFallback": true,
+      "source": "Separate vendor reports",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "opusUrl": "https://www.anthropic.com/claude-opus-5-5",
+      "note": "Not matched: Astra offline v2026.08.08, raw 0.7349; Opus subset/version unconfirmed. No delta/winner claim."
+    },
+    {
+      "category": "Computer use & business workflows",
+      "benchmark": "AutomationBench 1.0.6",
+      "metric": "Strict completion",
+      "astra": 41.4,
+      "opus": 42.5,
+      "unit": "%",
+      "opusFallback": true,
+      "source": "Zapier",
+      "url": "https://zapier.com/benchmarks",
+      "note": "Both max; current held-out leaderboard, raw Opus 42.47%; different from AA partial-credit implementation."
+    },
+    {
+      "category": "Knowledge work & science",
+      "benchmark": "GDPval-AA v2.1",
+      "metric": "Elo",
+      "astra": 1542,
+      "opus": 1846,
+      "unit": "Elo",
+      "opusFallback": true,
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/evaluations/gdpval-aa",
+      "note": "95% CIs ±25/±23; 220 tasks. Not percentages."
+    },
+    {
+      "category": "Knowledge work & science",
+      "benchmark": "Terminal-Bench-Science 0.1",
+      "metric": "Pass@1",
+      "astra": 63.3,
+      "opus": 59,
+      "unit": "%",
+      "opusFallback": true,
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/evaluations/terminal-bench-science",
+      "note": "Same mini-swe-agent, 70 tasks with three trials. Opus xhigh61.9 is excluded."
+    }
+  ]
+}

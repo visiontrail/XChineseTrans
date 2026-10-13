@@ -1,0 +1,12 @@
+{
+  "source_post": "https://x.com/0xCodez/status/2107155830093078557",
+  "url": "https://video.twimg.com/amplify_video/2107153827468062720/vid/avc1/1280x720/pHC6kVqXst_zA2Gk.mp4?tag=29",
+  "retrieved_started_at": "2026-10-06T06:29:31Z",
+  "retrieved_completed_at": "2026-10-06T06:38:09Z",
+  "bytes": 331202087,
+  "sha256": "d4f8a63b67a4f933779c13b33b590d5e38a88d2b72b20b5159e95aee34388216",
+  "file": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/lauren-tan-pstack/media/lauren-tan-session-65m-720p.mp4",
+  "ranges": 316,
+  "range_validation": "every Content-Range and byte count matched",
+  "source_caveat": "Reupload with modified background; not a clean original recording."
+}

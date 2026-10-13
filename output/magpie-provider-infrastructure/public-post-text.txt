@@ -1,0 +1,17 @@
+Leo Guo
+@LeoGuoLabs
+Boost
+Building an AI tool with multiple models? Magpie is worth a look before you write the provider settings and login flows.
+
+It’s an MIT-licensed local gateway that brings provider presets, API keys, subscription sign-ins and model switching together for agents like Claude Code, Codex and Gemini CLI.
+
+If you’re building something similar, give the repo to your coding agent. Ask it to explain the provider configuration and OAuth flows, then adapt the pieces your app needs. The provider picker is a nice UI reference, too.
+
+
+https://
+github.com/yetone/magpie
+ALT
+2:30 PM · Oct 9, 2026
+·
+5
+ Views

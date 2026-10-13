@@ -1,0 +1,50 @@
+{
+  "fps": 30,
+  "duration_frames": 2160,
+  "shots": [
+    {
+      "id": "spacecraft",
+      "start": 0,
+      "end": 360
+    },
+    {
+      "id": "aperture",
+      "start": 360,
+      "end": 720
+    },
+    {
+      "id": "layers",
+      "start": 720,
+      "end": 1080
+    },
+    {
+      "id": "phase",
+      "start": 1080,
+      "end": 1440
+    },
+    {
+      "id": "pointing",
+      "start": 1440,
+      "end": 1800
+    },
+    {
+      "id": "return",
+      "start": 1800,
+      "end": 2160
+    }
+  ],
+  "events": [
+    {
+      "id": "sweep-start",
+      "frame": 1140
+    },
+    {
+      "id": "sweep-end",
+      "frame": 1320
+    },
+    {
+      "id": "tracking-start",
+      "frame": 1440
+    }
+  ]
+}

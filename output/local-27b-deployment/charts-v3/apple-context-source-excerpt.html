@@ -1,0 +1,532 @@
+e mr-2 tmp-mr-2" />
+  <div class="d-flex flex-column Truncate">
+    <span data-view-component="true" class="Truncate-text text-bold">jyxjjj</span>
+    
+  </div></a>
+
+        <a
+          href="#discussioncomment-18063341"
+          id="discussioncomment-18063341-permalink"
+          class="Link--secondary js-timestamp d-inline-block ml-2"
+        >
+          <relative-time datetime="2026-08-18T09:04:04Z" class="no-wrap">Aug 18, 2026</relative-time>
+        </a>
+
+          <div class="d-none d-sm-inline-flex ml-2" >
+  
+  
+
+
+  
+</div>
+
+      </div>
+</h3>  </div>
+</div>
+
+
+      <div class="color-bg-default border-bottom position-relative">
+        <div class="edit-comment-hide">
+            <task-lists disabled sortable>
+  <table class="d-block" role="presentation" data-paste-markdown-skip>
+    <tbody
+      class="d-block"
+      
+    >
+        <tr class="d-block">
+    <td
+      class="d-block color-fg-default comment-body markdown-body js-comment-body"
+      
+    >
+        <h3 dir="auto">M5 Max 128GB — Qwen3.6-27B Q8_0 long-context Metal benchmark</h3>
+<p dir="auto">Adding a bare-metal Apple M5 Max result, focusing on prompt processing and token generation performance as context depth increases.</p>
+<h4 dir="auto">Hardware</h4>
+<ul dir="auto">
+<li>Apple M5 Max</li>
+<li>128 GB unified memory</li>
+<li>Metal backend</li>
+<li><code class="notranslate">recommendedMaxWorkingSetSize</code>: ~115.4 GB</li>
+</ul>
+<h4 dir="auto">Model</h4>
+<ul dir="auto">
+<li>Qwen3.6-27B</li>
+<li>Q8_0 GGUF</li>
+<li>26.62 GiB</li>
+<li>26.90B parameters</li>
+</ul>
+<blockquote>
+<p dir="auto">Note: <code class="notranslate">llama-bench</code> reports the model as <code class="notranslate">qwen35 27B Q8_0</code>, apparently from the GGUF metadata. The actual model tested is Qwen3.6-27B Q8_0.</p>
+</blockquote>
+<h4 dir="auto">Configuration</h4>
+<ul dir="auto">
+<li>Backend: BLAS + Metal</li>
+<li>GPU layers: 99</li>
+<li>Threads: 6</li>
+<li>Flash Attention: enabled</li>
+<li>K cache: Q8_0</li>
+<li>V cache: Q8_0</li>
+<li>Repetitions: 3</li>
+<li>Prompt test: 512 tokens</li>
+<li>Generation test: 256 tokens</li>
+</ul>
+<h4 dir="auto">Command</h4>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="./llama-bench -m ./Qwen3.6-27B-Q8_0.gguf -ngl 99 -fa on -ctk q8_0 -ctv q8_0 -p 512 -n 256 -d 0,8192,16384,32768,65536,98304,131072,196608,262144 -r 3"><pre class="notranslate">./llama-bench -m ./Qwen3.6-27B-Q8_0.gguf -ngl 99 -fa on -ctk q8_0 -ctv q8_0 -p 512 -n 256 -d 0,8192,16384,32768,65536,98304,131072,196608,262144 -r 3</pre></div>
+<h4 dir="auto">Results</h4>
+<markdown-accessiblity-table><table role="table">
+<thead>
+<tr>
+<th align="right">Context depth</th>
+<th align="right">PP512 (t/s)</th>
+<th align="right">TG256 (t/s)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="right">0</td>
+<td align="right">799.12 ± 2.35</td>
+<td align="right">17.46 ± 0.32</td>
+</tr>
+<tr>
+<td align="right">8,192</td>
+<td align="right">448.20 ± 0.92</td>
+<td align="right">14.70 ± 0.63</td>
+</tr>
+<tr>
+<td align="right">16,384</td>
+<td align="right">353.32 ± 5.70</td>
+<td align="right">13.69 ± 0.34</td>
+</tr>
+<tr>
+<td align="right">32,768</td>
+<td align="right">187.59 ± 4.23</td>
+<td align="right">9.51 ± 0.16</td>
+</tr>
+<tr>
+<td align="right">65,536</td>
+<td align="right">109.67 ± 0.43</td>
+<td align="right">8.24 ± 0.11</td>
+</tr>
+<tr>
+<td align="right">98,304</td>
+<td align="right">69.29 ± 0.39</td>
+<td align="right">6.79 ± 0.06</td>
+</tr>
+<tr>
+<td align="right">131,072</td>
+<td align="right">55.49 ± 1.08</td>
+<td align="right">6.12 ± 0.08</td>
+</tr>
+<tr>
+<td align="right">196,608</td>
+<td align="right">34.73 ± 0.59</td>
+<td align="right">4.88 ± 0.12</td>
+</tr>
+<tr>
+<td align="right">262,144</td>
+<td align="right">26.99 ± 0.50</td>
+<td align="right">4.27 ± 0.01</td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
+<h4 dir="auto">Context scaling</h4>
+<p dir="auto">TG drops from <strong>17.46 t/s at depth 0</strong> to:</p>
+<ul dir="auto">
+<li>14.70 t/s at 8K</li>
+<li>13.69 t/s at 16K</li>
+<li>9.51 t/s at 32K</li>
+<li>8.24 t/s at 64K</li>
+<li>6.12 t/s at 128K</li>
+<li>4.27 t/s at 256K</li>
+</ul>
+<p dir="auto">There is a particularly noticeable drop between <strong>16K and 32K</strong>.</p>
+<p dir="auto">PP512 also decreases substantially with context depth, from about <strong>799 t/s at depth 0</strong> to <strong>27 t/s at 256K</strong>.</p>
+<p dir="auto">The model fits comfortably within unified memory, so I am curious how much of this long-context degradation is expected from attention/KV-cache bandwidth, and how much may be specific to the current Metal implementation or this Qwen architecture.</p>
+<p dir="auto">It would be interesting to compare this against other M5 Max results, especially with different KV cache types or recent llama.cpp builds.</p>
+    </td>
+  </tr>
+
+    </tbody>
+  </table>
+</task-lists>
+
+          <div class="d-block d-sm-flex flex-items-center tmp-mb-3 tmp-ml-3">
+
+            <div class="d-flex flex-1 flex-justify-between flex-items-center">
+              <div class="d-flex flex-items-center">
+                  <div class="d-flex">
+                      
+
+
+    <div data-replace-remote-form-target>
+    <div
+      class="text-center discussion-vote-form position-relative"
+      
+    >
+        <button aria-label="Upvote: 1" aria-disabled="true" id="discussion-upvote-button-DiscussionComment-18063341" type="button" data-view-component="true" class="social-reaction-summary-item js-upvote-button Link--secondary btn-invisible btn d-flex flex-items-center mx-auto tmp-mx-auto">    <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-arrow-up m-0 tmp-m-0">
+    <path d="M3.47 7.78a.75.75 0 0 1 0-1.06l4.25-4.25a.75.75 0 0 1 1.06 0l4.25 4.25a.751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018L9 4.81v7.44a.75.75 0 0 1-1.5 0V4.81L4.53 7.78a.75.75 0 0 1-1.06 0Z"></path>
+</svg>
+        <span>1</span>
+</button>        <tool-tip id="tooltip-b390131c-172b-4fbe-b17f-b2a536f05dc2" for="discussion-upvote-button-DiscussionComment-18063341" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be logged in to vote</tool-tip>
+    </div>
+  </div>
+
+
+                  </div>
+
+                    
+    <div class="reactions-container d-flex flex-items-start flex-row-reverse flex-justify-end d-md-flex ml-2"
+    
+  >
+    <div class="js-reactions-container">
+      <div  class=" js-comment-reactions-options d-flex flex-items-center flex-row flex-wrap">
+      </div>
+
+      <details class="dropdown details-reset details-overlay d-inline-block js-all-reactions-popover" hidden>
+        <summary aria-haspopup="true" data-view-component="true" class="Button--link Button--medium Button">  <span class="Button-content">
+    <span class="Button-label">All reactions</span>
+  </span>
+</summary>
+
+        <ul class="dropdown-menu dropdown-menu-se">
+        </ul>
+      </details>
+    </div>
+
+  </div>
+
+
+              </div>
+
+                <div class="f6 tmp-mr-3">
+                  <span class="color-fg-muted no-wrap" >
+                    3 replies
+                  </span>
+                </div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+          <div class="js-timeline-marker color-bg-inset border-top color-border-default mt-n1 rounded-bottom-2" data-child-comments id="child-comments-discussioncomment-18063341">
+
+    <div class="TimelineItem js-comment-container js-nested-comment-container js-targetable-element ml-0 pb-2 tmp-pl-3 discussion-nested-comment-timeline-item discussion-primer-next-nested-comment-timeline-item width-full">
+      <div class="avatar-parent-child flex-column flex-items-center TimelineItem-avatar left-0 tmp-ml-3"><a class="d-inline-block" data-hydro-click="{&quot;event_type&quot;:&quot;discussions.click&quot;,&quot;payload&quot;:{&quot;event_context&quot;:&quot;DISCUSSION_VIEW&quot;,&quot;target&quot;:&quot;USER_PROFILE_LINK&quot;,&quot;current_repository_id&quot;:612354784,&quot;discussion_repository_id&quot;:612354784,&quot;org_level&quot;:false,&quot;discussion_id&quot;:8211258,&quot;discussion_comment_id&quot;:18063447,&quot;originating_url&quot;:&quot;https://github.com/ggml-org/llama.cpp/discussions/12985&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e8ad334b333eb17e5613067911f616fe5a54a059ae7e73d5b5d3096551d79c53" data-hovercard-type="user" data-hovercard-url="/users/ggerganov/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ggerganov"><img class="avatar rounded-2 mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/1991296?s=60&amp;v=4" width="30" height="30" alt="@ggerganov" /></a></div>
+
+        <div class="discussions-timeline-scroll-target" id="discussioncomment-18063447"
+  data-gid="DC_kwDOJH_K4M4BE6BX"
+  data-url="/ggml-org/llama.cpp/discussions/12985/comments/18063447"
+  data-error=""
+  
+>
+  <div
+    class="
+      timeline-comment-group
+      discussion-comment
+      js-discussion-comment
+      js-minimizable-comment-group
+      js-targetable-element
+      TimelineItem-body
+      discussion-nested-comment-group position-relative
+      mt-0 pl-2
+    "
+  >
+      <div class="d-flex">
+  <div class="width-full">
+    <div
+      class="timeline-comment unminimized-comment comment previewable-edit js-task-list-container flex-auto box-shadow-none js-comment border-0 color-bg-inset nested-discussion-timeline-comment tmp-ml-n3"
+      data-body-version="caaeb128703bb0c08f882198baa7a8ec6f3bd9b58d68cfd8467ac0572d63b099"
+    >
+        
+<div class="edit-comment-hide">
+  <div class="clearfix d-flex tmp-px-3 flex-row-reverse flex-items-center border-bottom-0 color-bg-inset">
+    <div class="timeline-comment-actions flex-shrink-0">
+      <div class="d-flex flex-row flex-items-center">
+        <comment-actions-container>
+  <experimental-action-menu data-anchor-align="end" data-anchor-side="outside-bottom" data-view-component="true">
+  <button role="button" id="Comment-actions-18063447-text" aria-haspopup="true" aria-expanded="false" aria-controls="Comment-actions-18063447-list" aria-labelledby="tooltip-0def016c-c6a5-428b-85a5-32000948bfcc" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
+    <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
+</svg>
+</button><tool-tip id="tooltip-0def016c-c6a5-428b-85a5-32000948bfcc" for="Comment-actions-18063447-text" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Comment options</tool-tip>
+
+  <div class="Overlay-backdrop--anchor" data-menu-overlay>
+    <div class="Overlay Overlay-whenNarrow Overlay--height-auto Overlay--width-auto" hidden>
+      <div class="Overlay-body Overlay-body--paddingNone">
+        <ul class="ActionList" id="Comment-actions-18063447-list" role="menu" aria-labelledby="Comment-actions-18063447-text">
+            <include-fragment data-target="action-menu.includeFragment" loading="lazy" src="/ggml-org/llama.cpp/discussions/12985/comments/18063447/comment_actions_menu?form_path=%2Fggml-org%2Fllama.cpp%2Fdiscussions%2F12985%2Fcomments%2F18063447" data-nonce="v2:29f5b39e-f7ed-5055-583b-f3af11b08e0f" data-view-component="true">
+  
+              <li
+                class="ActionList-item d-flex flex-items-center flex-justify-center text-center"
+                data-target="action-menu.includeFragmentLoadingItem"
+                aria-disabled="true"
+              >
+                <span data-view-component="true">
+  <svg aria-label="Loading content..." style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" role="img" data-view-component="true" class="m-2 tmp-m-2 anim-rotate">
+    <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" fill="none"></circle>
+    <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke"></path>
+</svg></span>
+              </li>
+
+  <div data-show-on-forbidden-error hidden>
+    <div class="Box">
+  <div class="blankslate-container">
+    <div data-view-component="true" class="blankslate blankslate-spacious color-bg-default rounded-2">
+      
+
+      <h3 data-view-component="true" class="blankslate-heading">        Uh oh!
+</h3>
+      <p data-view-component="true" class="blankslate-description">        <p class="color-fg-muted my-2 mb-2 ws-normal">There was an error while loading. <a class="Link--inTextBlock" data-turbo="false" href="" aria-label="Please reload this page">Please reload this page</a>.</p>
+</p>
+
+</div>  </div>
+</div>  </div>
+</include-fragment>        </ul>
+      </div>
+    </div>
+  </div>
+</experimental-action-menu>
+  <template data-target="comment-actions-container.dialogTemplate">
+    
+<dialog-helper>
+  <dialog id="{{dialogId}}" aria-modal="true" aria-labelledby="{{dialogId}}-title" aria-describedby="{{dialogId}}-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-medium Overlay--motion-scaleFade Overlay--size-auto Overlay--disableScroll">
+    <div data-view-component="true" class="Overlay-header">
+  <div class="Overlay-headerContentWrap">
+    <div class="Overlay-titleWrap">
+      <h1 class="Overlay-title " id="{{dialogId}}-title">
+        {{title}}
+      </h1>
+        
+    </div>
+    <div class="Overlay-actionWrap">
+      <button data-close-dialog-id="{{dialogId}}" aria-label="Close" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg></button>
+    </div>
+  </div>
+  
+</div>
+      <scrollable-region data-labelled-by="{{dialogId}}-title">
+        <div data-view-component="true" class="Overlay-body">        <include-fragment src="{{src}}" data-nonce="v2:29f5b39e-f7ed-5055-583b-f3af11b08e0f" data-view-component="true">
+  
+          <div class="text-center" data-hide-on-error>
+            <span data-view-component="true">
+  <svg aria-label="Loading" style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" role="img" data-view-component="true" class="anim-rotate">
+    <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" fill="none"></circle>
+    <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke"></path>
+</svg></span>
+          </div>
+          <div class="text-center" data-show-on-error hidden>
+            Something went wrong.
+          </div>
+
+  <div data-show-on-forbidden-error hidden>
+    <div class="Box">
+  <div class="blankslate-container">
+    <div data-view-component="true" class="blankslate blankslate-spacious color-bg-default rounded-2">
+      
+
+      <h3 data-view-component="true" class="blankslate-heading">        Uh oh!
+</h3>
+      <p data-view-component="true" class="blankslate-description">        <p class="color-fg-muted my-2 mb-2 ws-normal">There was an error while loading. <a class="Link--inTextBlock" data-turbo="false" href="" aria-label="Please reload this page">Please reload this page</a>.</p>
+</p>
+
+</div>  </div>
+</div>  </div>
+</include-fragment></div>
+      </scrollable-region>
+      
+</dialog></dialog-helper>
+  </template>
+
+  <div data-target="comment-actions-container.dialogContainer"></div>
+
+  <div hidden>
+    <button data-hotkey="r" type="button" data-view-component="true" class="js-comment-quote-reply Button--secondary Button--medium Button">  <span class="Button-content">
+    <span class="Button-label">Quote reply</span>
+  </span>
+</button>
+
+  </div>
+</comment-actions-container>
+
+      </div>
+    </div>
+
+     <div class="d-none d-sm-flex flex-items-center">
+        <span class="d-inline-block js-comment-edit-history">
+          
+        </span>
+    </div>
+
+    <h4 data-view-component="true" class="timeline-comment-header-text text-normal f5 pb-1 tmp-pb-1 pt-0 tmp-pt-0">
+
+      <div class="d-flex flex-items-center Truncate">
+            <a width="fit" data-hydro-click="{&quot;event_type&quot;:&quot;discussions.click&quot;,&quot;payload&quot;:{&quot;event_context&quot;:&quot;DISCUSSION_VIEW&quot;,&quot;target&quot;:&quot;USER_PROFILE_LINK&quot;,&quot;current_repository_id&quot;:612354784,&quot;discussion_repository_id&quot;:612354784,&quot;org_level&quot;:false,&quot;discussion_id&quot;:8211258,&quot;discussion_comment_id&quot;:18063447,&quot;originating_url&quot;:&quot;https://github.com/ggml-org/llama.cpp/discussions/12985&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e8ad334b333eb17e5613067911f616fe5a54a059ae7e73d5b5d3096551d79c53" data-hovercard-type="user" data-hovercard-url="/users/ggerganov/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ggerganov" data-view-component="true" class="author Truncate-text lh-condensed Link--primary Link text-bold">ggerganov</a>
+        <a
+          href="#discussioncomment-18063447"
+          id="discussioncomment-18063447-permalink"
+          class="Link--secondary js-timestamp d-inline-block ml-2"
+        >
+          <relative-time datetime="2026-08-18T09:15:18Z" class="no-wrap">Aug 18, 2026</relative-time>
+        </a>
+
+          <div class="d-none d-sm-inline-flex ml-2" >
+  
+  <span title="This user is a maintainer on this repository." data-view-component="true" class="Label py-0 tmp-py-0 ml-1 tmp-ml-1">
+  Maintainer
+</span>
+
+
+  
+</div>
+
+      </div>
+</h4>  </div>
+</div>
+
+
+      <div class="">
+        <div class="edit-comment-hide">
+            <task-lists disabled sortable>
+  <table class="d-block" role="presentation" data-paste-markdown-skip>
+    <tbody
+      class="d-block"
+      
+    >
+        <tr class="d-block">
+    <td
+      class="d-block color-fg-default comment-body markdown-body js-comment-body tmp-px-3 pt-0 pb-2"
+      
+    >
+        <p dir="auto">Don't quantize the cache with Metal - it's not optimized yet.</p>
+    </td>
+  </tr>
+
+    </tbody>
+  </table>
+</task-lists>
+
+          <div class="d-block d-sm-flex flex-items-center ml-1">
+
+            <div class="d-flex flex-1 flex-justify-between flex-items-center">
+              <div class="d-flex flex-items-center">
+
+                    
+    <div class="reactions-container d-flex flex-items-start flex-row-reverse flex-justify-end d-md-flex ml-2"
+    
+  >
+    <div class="js-reactions-container">
+      <div  class=" js-comment-reactions-options d-flex flex-items-center flex-row flex-wrap">
+      </div>
+
+      <details class="dropdown details-reset details-overlay d-inline-block js-all-reactions-popover" hidden>
+        <summary aria-haspopup="true" data-view-component="true" class="Button--link Button--medium Button">  <span class="Button-content">
+    <span class="Button-label">All reactions</span>
+  </span>
+</summary>
+
+        <ul class="dropdown-menu dropdown-menu-se">
+        </ul>
+      </details>
+    </div>
+
+  </div>
+
+
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+        
+    </div>
+    
+</div></div>
+
+  </div>
+</div>
+
+    </div>
+    <div class="TimelineItem js-comment-container js-nested-comment-container js-targetable-element ml-0 pb-2 tmp-pl-3 discussion-nested-comment-timeline-item discussion-primer-next-nested-comment-timeline-item width-full">
+      <div class="avatar-parent-child flex-column flex-items-center TimelineItem-avatar left-0 tmp-ml-3"><a class="d-inline-block" data-hydro-click="{&quot;event_type&quot;:&quot;discussions.click&quot;,&quot;payload&quot;:{&quot;event_context&quot;:&quot;DISCUSSION_VIEW&quot;,&quot;target&quot;:&quot;USER_PROFILE_LINK&quot;,&quot;current_repository_id&quot;:612354784,&quot;discussion_repository_id&quot;:612354784,&quot;org_level&quot;:false,&quot;discussion_id&quot;:8211258,&quot;discussion_comment_id&quot;:18063504,&quot;originating_url&quot;:&quot;https://github.com/ggml-org/llama.cpp/discussions/12985&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4fb1e3f061bd0b851fafb011275d5c82869b7e398d6674330a7b20fd5e01f3c6" data-hovercard-type="user" data-hovercard-url="/users/jyxjjj/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/jyxjjj"><img class="avatar rounded-2 mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/16695261?s=60&amp;v=4" width="30" height="30" alt="@jyxjjj" /></a></div>
+
+        <div class="discussions-timeline-scroll-target" id="discussioncomment-18063504"
+  data-gid="DC_kwDOJH_K4M4BE6CQ"
+  data-url="/ggml-org/llama.cpp/discussions/12985/comments/18063504"
+  data-error=""
+  
+>
+  <div
+    class="
+      timeline-comment-group
+      discussion-comment
+      js-discussion-comment
+      js-minimizable-comment-group
+      js-targetable-element
+      TimelineItem-body
+      discussion-nested-comment-group position-relative
+      mt-0 pl-2
+    "
+  >
+      <div class="d-flex">
+  <div class="width-full">
+    <div
+      class="timeline-comment unminimized-comment comment previewable-edit js-task-list-container flex-auto box-shadow-none js-comment border-0 color-bg-inset nested-discussion-timeline-comment tmp-ml-n3"
+      data-body-version="7ece26fa795da0e9903baa82fd52128c5b1833bbde2d3d169eca313267ab135b"
+    >
+        
+<div class="edit-comment-hide">
+  <div class="clearfix d-flex tmp-px-3 flex-row-reverse flex-items-center border-bottom-0 color-bg-inset">
+    <div class="timeline-comment-actions flex-shrink-0">
+      <div class="d-flex flex-row flex-items-center">
+        <comment-actions-container>
+  <experimental-action-menu data-anchor-align="end" data-anchor-side="outside-bottom" data-view-component="true">
+  <button role="button" id="Comment-actions-18063504-text" aria-haspopup="true" aria-expanded="false" aria-controls="Comment-actions-18063504-list" aria-labelledby="tooltip-5cd13d70-a542-44f9-9702-f60cc7bb055d" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
+    <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
+</svg>
+</button><tool-tip id="tooltip-5cd13d70-a542-44f9-9702-f60cc7bb055d" for="Comment-actions-18063504-text" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Comment options</tool-tip>
+
+  <div class="Overlay-backdrop--anchor" data-menu-overlay>
+    <div class="Overlay Overlay-whenNarrow Overlay--height-auto Overlay--width-auto" hidden>
+      <div class="Overlay-body Overlay-body--paddingNone">
+        <ul class="ActionList" id="Comment-actions-18063504-list" role="menu" aria-labelledby="Comment-actions-18063504-text">
+            <include-fragment data-target="action-menu.includeFragment" loading="lazy" src="/ggml-org/llama.cpp/discussions/12985/comments/18063504/comment_actions_menu?form_path=%2Fggml-org%2Fllama.cpp%2Fdiscussions%2F12985%2Fcomments%2F18063504" data-nonce="v2:29f5b39e-f7ed-5055-583b-f3af11b08e0f" data-view-component="true">
+  
+              <li
+                class="ActionList-item d-flex flex-items-center flex-justify-center text-center"
+                data-target="action-menu.includeFragmentLoadingItem"
+                aria-disabled="true"
+              >
+                <span data-view-component="true">
+  <svg aria-label="Loading content..." style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" role="img" data-view-component="true" class="m-2 tmp-m-2 anim-rotate">
+    <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" fill="none"></circle>
+    <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke"></path>
+</svg></span>
+              </li>
+
+  <div data-show-on-forbidden-error hidden>
+    <div class="Box">
+  <div class="blankslate-container">
+    <div data-view-component="true" class="blankslate blankslate-spacious color-bg-default rounded-2">
+      
+
+      <h3 data-view-component="true" class="blankslate-heading">        Uh oh!
+</h3>
+      <p data-view-component="true" class="blankslate-description">        <p class="color-fg-muted my-2 mb-2 ws-normal">There was an error while loading. <a class="Link--inTextBlock" data-turbo="false" href="" aria-label="Please reload this page">Please reload this page</a>.</p>
+</p>
+
+</div>  </div>
+</div>  </div>
+</include-fragment>        </ul>
+      </div>
+    </div>
+  </div>
+</experimental-action-menu>
+  <template data-target="comment-actions-container.dialogTemplate">
+    
+<dialog-helper>
+  <dialog id="{{dialogId}}" aria-modal="true" aria-labelledby="{{dialogId}}-title" aria-describedby="{{dialogId}}-description" data-view-component="true" class="Ov

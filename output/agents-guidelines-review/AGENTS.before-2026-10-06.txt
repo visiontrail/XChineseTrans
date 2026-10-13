@@ -1,0 +1,103 @@
+# XChineseTrans Project Guidelines
+
+This project adapts Chinese posts, articles, and images about technology, AI, and engineering into English content for LeoGuoLabs. These defaults apply across tasks unless the user's current instructions override them. Do not repeatedly ask about preferences already documented here.
+
+## Language and Editorial Voice
+
+- Communicate with the user in Chinese by default, following any language requested for the current task. Write public-facing copy in English unless instructed otherwise. Keep this file in English.
+- Adapt meaning and structure into natural English rather than translating sentence by sentence. Write for an international audience without forcing a Singapore angle or adding regional labels.
+- Use a direct, practical, restrained, fact-first engineering voice. Explain concrete uses, constraints, and verification. Avoid hype, filler, and formulaic phrasing.
+- Group paragraphs by meaning and factual sequence, not a fixed number of sentences. Keep long-form writing coherent and short posts focused.
+- Write for the reader, not as a report on completing the user's request. Keep task instructions, editorial requirements, production details, and compliance statements out of publishable copy, captions, graphics, and ALT text. Do not turn requests such as rewriting, creating new illustrations, taking fresh screenshots, or adding annotations into statements about how the content was produced.
+- Keep production and verification notes in working files or the conversation. Omit routine labels and disclaimers such as "original conceptual illustration," "redrawn for this article," or "not screenshots of an agent completing these tasks." Include a clarification only when the user requests it or it materially helps the reader understand the subject or evidence.
+- First-person opinions are welcome, but never turn the source author's experiences, tests, or findings into claims that the user personally experienced or verified them.
+- Preserve relevant perspectives on open-source models and competition. Do not remove a central position just to shorten a draft or invent endorsements.
+
+## User-Supplied Sources and Attribution
+
+- When the user supplies a source post, link, screenshot, or article for adaptation, do not proactively identify that original source in reader-facing output.
+- Do not automatically add the original author's name, handle, source-post link, or labels such as "Translated from," "Adapted from," "Inspired by," or "Source." This applies to the body, closing notes, graphics, and image ALT text.
+- Do not restore attribution the user removed just because an older publishing package included it. Include source credits when the user explicitly requests them.
+- Keep source materials and verification records in local research files when useful; do not automatically append them to publishable copy or the final response.
+- Omitting source-post attribution does not permit invented personal experience or altered factual ownership. Retain necessary qualifications for third-party tests, official statements, and unverified reports instead of presenting them as personal findings.
+
+## Factual and Technical Accuracy
+
+- Preserve meaningful numbers, units, commands, code, product names, and applicability conditions. Editing must not change the meaning or degree of certainty.
+- Verify added or time-sensitive technical claims against official documentation or primary sources. Narrow, qualify, or omit unsupported claims rather than inventing facts.
+- Distinguish prices, cached-input prices, speed, task cost, and benchmark metrics. Do not turn a limited result into a claim of universal superiority.
+- For benchmark scores with confirmed model fallback enabled, explain the dagger clearly: `† Fallback enabled: some tasks may be handled by other Claude models.` Such scores describe the evaluated configuration, not necessarily pure single-model performance. Do not infer the number of fallback tasks or apply Anthropic's stated routing to third-party evaluations unless that evaluator confirms it. Use the dagger only for configurations with verified fallback support.
+- Distinguish suggested examples, actual execution, passing tests, completed deployment, and verified live behavior. Claim only what the evidence supports.
+- Report concrete access limitations. Public mirrors may help retrieve a source post, but retrieval does not verify its claims. Inspect linked media before describing it as an image or video.
+
+## X Content Delivery and Premium Account
+
+- The user confirmed an upgrade to X Premium on September 24, 2026. Treat Premium as the account baseline; do not keep applying free-account restrictions or repeatedly ask whether the user has upgraded.
+- X's official documentation currently allows Premium longer posts of up to 25,000 characters. This is a platform ceiling, not a target length. This limit was checked on September 24, 2026: https://help.x.com/en/using-x/types-of-posts and https://help.x.com/en/using-x/x-premium-how-to.
+- By default, deliver one ready-to-publish English post at the length needed to express the idea clearly. Keep it concise, but allow more than 280 characters when useful context, nuance, or practical detail warrants it.
+- Do not automatically compress drafts to 280 characters, remove central arguments to fit that old default, or split a post into a thread merely because it exceeds 280 characters.
+- Use the 280-weighted-character budget only when the user requests a standard-length post or the selected publishing surface requires it. In that case, validate weighted length rather than substituting a plain string-length count.
+- Check the complete final text against the applicable format's limit, including line breaks, numbering, hashtags, and links under that format's counting rules. When publishing, verify that the actual composer accepts the content; do not assume a legacy 280-character validator correctly handles Premium longer posts.
+- Follow requests for threads, long-form posts, or X Articles. Treat Articles as a separate publishing format: verify its current availability and constraints when needed instead of assuming the longer-post limit applies to it.
+- Lead with the central point and use meaningful paragraphs so longer posts remain easy to read. Do not add length simply because Premium permits it.
+- Prefer a finished draft over unsolicited variants, repeated explanations, or extra hashtags. Recheck platform limits when they matter to a future task, since X may change them.
+
+## Images and Deliverables
+
+- For X post screenshots used as deliverables or publication images, capture only the relevant post content. Exclude both sidebars, site navigation, trending panels, reply composers, and unrelated replies. Retain the author identity and complete relevant text, plus embedded media or timestamps when needed for context. Crop quoted posts only when doing so does not change the meaning; preserve an unedited original in research files. Inspect the final crop for clipping and readability before delivery.
+- When images are needed, design them around the adapted content. Keep English labels, numbers, and the body consistent, and provide descriptive ALT text.
+- Never present generated images as genuine product interfaces or execution evidence. Record image provenance in working files; this does not require a production disclaimer in the article. Captions and ALT text should explain the depicted content. Preserve originals when editing user-provided screenshots.
+- Save topic-specific deliverables under `output/<topic>/`. Provide text, images, previews, or publishing packages as needed; a simple post does not require a full package.
+- Keep the body, image order, and descriptions consistent across formats. For HTML, check images, links, desktop rendering, and narrow-screen layout. Check required files before delivering an archive.
+- Preserve the user's manual edits to existing drafts. Do not restore deleted content from older versions.
+
+## Default Image Style: LeoGuoLabs Light v1
+
+- Use this visual identity by default for new LeoGuoLabs infographics, explanatory images, diagrams, covers, and image series. Established on September 28, 2026 from the user's preference for FrontierTechSN's light theme. Do not ask the user to choose a style again; a specific request for another style overrides this default.
+- The identity is minimal, warm, light, and clear: a soft warm-ivory paper background with delicate, low-contrast fiber or grain, forest-green typography, and sparse dark-gold emphasis. On September 28, 2026 the user rejected leaves, gradients, and extra decoration, then refined the background preference from a harsh solid yellow to the subtle natural paper feel of their first attached reference. This later preference permits restrained paper texture and supersedes the earlier texture ban. Keep the palette, typography hierarchy, and visual weight consistent across topics; adapt the composition to the content instead of forcing every image into one template.
+
+### Fixed palette and color roles
+
+| Role | Color | Usage |
+| --- | --- | --- |
+| Warm ivory | `#FDFBF7` | Default canvas with delicate, low-contrast natural paper fiber or grain |
+| Pale butter yellow | `#F6EDCF` | Optional small accent or slight warmth; not the dominant background field |
+| Forest green | `#1A4A3A` | Main headings, body text, and essential thin rules |
+| Muted green | `#426454` | Secondary explanations and supporting labels |
+| Warm yellow | `#E5C158` | Small flat highlights only when needed to convey meaning |
+| Gold | `#D4AF37` | Sparse thin rules or essential diagram marks |
+| Dark gold | `#80601B` | Readable gold-colored words and labels on light backgrounds |
+
+- FrontierTechSN's actual light-theme source is `/Volumes/TP-1TB/WorspacePlus/IslaProject/FrontierTechSN/frontend/src/index.css`: `#FDFBF7`, `#1A4A3A`, `#E5C158`, and `#D4AF37`. Pale butter yellow, muted green, and dark gold above are deliberate adaptations for static image readability. Borrow its light palette, not all UI effects or its serif display font. The user's explicit minimalism and sans-serif requirements override upstream fonts, gradients, shadows, and component styling. This project owns its fixed palette; upstream UI changes do not silently change it.
+- Keep roughly 85-90% of the composition light. Use a warm-ivory canvas around `#FDFBF7` with very subtle, evenly distributed natural paper fiber or fine grain, dark green for most text, and dark gold for a few words or section numbers. The background should feel soft and barely textured, with only slight yellow warmth. Do not use a broad saturated or uniformly yellow field. No designed gradients, background glow, vignette, conspicuous digital noise, distressed paper, stains, creases, metallic effects, or shadows. Texture must stay subordinate to the content and must not reduce text clarity; exact solid-pixel uniformity is not a requirement.
+- Use dark gold for small gold text. Bright gold and warm yellow are too light for ordinary text on ivory/yellow; use them as fills or accents, with forest-green text over yellow. Aim for at least 4.5:1 text/background contrast for body and small labels. Inspect actual generated text visually because raster generation may drift from the specified colors.
+
+### Typography and composition
+
+- Use one simple modern sans-serif family throughout, with the clean technical feel of Geist or Inter. Prefer Geist, then Inter, then a visually similar clean sans-serif; use regular 400 for descriptions, medium 500 for labels, and semibold 600 for headings. Match the clean sans-serif typography of prior LeoGuoLabs X images. No Cormorant Garamond, Georgia, other serif display faces, calligraphy, or ornamental type. Generated images approximate fonts; do not claim exact font embedding. Technical names, numbers, versions, commands, and code must remain highly legible; monospace is reserved for actual code when useful.
+- Headlines should be simple and proportionate, typically one or two lines in the same sans-serif family as the body. Use forest green with one meaningful phrase optionally in dark gold. Avoid ultra-heavy condensed black headlines, oversized poster lettering, lengthy all-caps copy, and thin low-contrast type.
+- Use generous outer margins of about 5-7%, a clear alignment grid, and consistent spacing. Prefer an open, borderless editorial layout. Organize sections with whitespace, modest section labels, and at most a few thin rules. Keep headlines proportionate; the information should occupy most of the usable area.
+- Default to plain text and simple unboxed numbers. No decorative leaves/plants, flourishes, ornamental corner art, medallions, circular number badges, generic section icons, rounded cards, or unnecessary containers. Use a diagram symbol or visual only when it explains substantive content. Do not turn a text list into a UI dashboard.
+- Portrait information sheets may use 2:3 or 4:5; wide comparisons and diagrams may use landscape. Choose the aspect ratio for readability and verify all names and explanations at a practical viewing size. Split genuinely excessive content into a coherent series rather than shrinking type until unreadable.
+- Place a small, consistent plain-text `LeoGuoLabs` signature at the bottom edge, subordinate to the content. No attached logo, icon, leaves, or extra tagline. Do not import FrontierTechSN's name or logo into LeoGuoLabs assets.
+- Avoid the superseded red/black exam-paper look: no red section headings, distressed paper, rubber stamps, heavy rectangular page frames, default dark tech/neon styling, or checkmarks that imply verified test results. Genuine screenshots retain their original content and colors; apply the identity to surrounding framing or annotations without recoloring evidence.
+
+### Reuse and visual QA
+
+- Start every image-generation prompt with this palette and typography direction. When recreating a source graphic, treat it as a content reference; this identity takes precedence over its colors, fonts, and ornaments.
+- Keep English labels, factual qualifications, versions, and ALT text consistent with the accompanying post. Check spelling, clipping, reading order, contrast, density, and thumbnail readability before delivery.
+- Save the exact prompt and a versioned output under `output/<topic>/`. Preserve previous versions. The current visual reference is `assets/brand/leoguolabs-light-v1/reference-infographic-paper-v2.png`, also saved at `output/agent-benchmarks-field-guide/agent-benchmarks-en-paper-v2.png`; its exact prompt is `output/agent-benchmarks-field-guide/image-prompt-paper-v2.txt`. Use this paper-background reference alongside these rules for future consistency. It supersedes the solid-yellow reference. Written palette and readability rules take precedence over accidental details in a generated reference.
+
+## Browser Use and Publishing
+
+- Publish adapted content as a new standalone LeoGuoLabs post by default only when the user has not requested reposting. An explicit request to “转发” means repost the original using X's native features: use Repost when no added commentary is requested, and Quote Post when the user asks to add a comment. Do not reinterpret an explicit repost request as a standalone post or ask the user to reconfirm this format.
+- When the user says “转发”, the default target is the original source post at the start of the supplied post's quote/repost chain, not the intermediary blogger's post. Follow the chain to its earliest identifiable source and use that source as the native Repost or Quote Post target. If the supplied post is already the original, use it directly. When commentary is requested, add concise English commentary to a Quote Post of that source, retaining its native media. Do not quote the intermediary's commentary or substitute a merely related earlier post. If the original source cannot be identified or accessed, report the concrete limitation rather than silently quoting the intermediary. An explicit request to repost a particular intermediary overrides this default. The final content review requirement below still applies.
+- Whenever a user-supplied source post contains video, freshly download every relevant video file from its actual source as part of the task, including when only preparing a draft. This is the default and does not require a separate request to download. Trace attached or natively embedded videos to their original source; save the actual files and source records under `output/<topic>/`, preserve earlier versions, and inspect the downloaded files for duration, resolution, audio, and playback. Do not substitute a thumbnail, screen recording, source-post link, or a previously downloaded copy for a fresh download unless the user explicitly requests that alternative. If retrieval fails, report the concrete blocker instead of silently omitting the video or treating a text-only draft as complete.
+- For a standalone adaptation of a source post containing video, include the freshly downloaded video as a direct attachment to the new post by default. A quoted source post, source-post link, or linked video is not a substitute. If direct upload fails, report the concrete blocker instead of silently switching to a Quote Post. For an explicitly requested Repost or Quote Post, still download the source video for local preparation and verification, but preserve the original post and its native media in the requested X format; do not change the publishing format merely because a local video copy is available.
+- For X tasks, use Codex's built-in browser by default. The user has confirmed they are signed in to X there. Reuse that session for reading posts, composing, publishing when authorized, and checking published results; do not routinely ask the user to sign in again or switch to Ego Lite.
+- Treat the sign-in as user-confirmed context, not a guarantee that the session will never expire. Check the live session and intended account before publishing. If access is unavailable or the session has expired, report the specific issue and request only the necessary user action.
+- For other websites, also prefer Codex's built-in browser when it is available. The user confirmed this preference on October 2, 2026. Reuse existing signed-in sessions and check their live state when account access matters. Ego Lite is a separate installed browser (`/Applications/ego lite.app`, bundle ID `com.citrolabs.ego.lite`) and is a fallback when needed. Chrome is the user's everyday browser; do not silently switch to it. An explicit browser choice for the current task takes precedence.
+- When using Ego Lite after importing a Chrome profile, browser connections may both be labeled Chrome. Match tabs to the Ego Lite native app rather than selecting by label alone. Do not persist numeric browser IDs across sessions.
+- If the built-in browser is unavailable, report the concrete issue before using Ego Lite as the fallback. If a site requires login, request only the necessary user action; do not assume another browser has the required session.
+- Before every publication, show the user the complete final text and any images or videos to be published, including the selected format (standalone post, Repost, or Quote Post), and wait for explicit approval of that concrete content. An initial request to publish does not replace this final review. If the content changes after approval, show the revised version and obtain approval again before publishing. Once the user approves the final version, publish it without asking for the same confirmation again.
+- Distinguish assets prepared, publication submitted, and public-page verification completed. After publishing, reopen the actual page, check the text and media, and record the real URL. An editor preview is not proof of successful publication.

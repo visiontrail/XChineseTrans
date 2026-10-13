@@ -1,0 +1,3 @@
+Passing tests is only part of the job. AI-generated code also needs to respect the requirements, stay readable, and remain easy to change.
+
+Review the implementation before calling it done.

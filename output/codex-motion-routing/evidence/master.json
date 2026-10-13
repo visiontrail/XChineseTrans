@@ -1,0 +1,24 @@
+{
+  "input": "route-around-failure-v1.mp4",
+  "output": "route-around-failure.mp4",
+  "seconds": 7.268,
+  "filter": "loudnorm=I=-18:TP=-2:LRA=9:measured_I=-25.76:measured_TP=-2.83:measured_LRA=8.90:measured_thresh=-35.94:offset=0.51:linear=false:print_format=json",
+  "videoFormat": "H.264, yuv420p, limited range, BT.709",
+  "audioTarget": {
+    "LUFS": -18,
+    "truePeakDBTP": -2,
+    "LRA": 9
+  },
+  "firstPass": {
+    "input_i": "-25.76",
+    "input_tp": "-2.83",
+    "input_lra": "8.90",
+    "input_thresh": "-35.94",
+    "output_i": "-18.51",
+    "output_tp": "-2.00",
+    "output_lra": "5.90",
+    "output_thresh": "-28.60",
+    "normalization_type": "dynamic",
+    "target_offset": "0.51"
+  }
+}

@@ -1,0 +1,176 @@
+- heading "To view keyboard shortcuts, press question mark View keyboard shortcuts" [level=2]:
+  - generic: To view keyboard shortcuts, press question mark
+  - link "View keyboard shortcuts":
+    - /url: /i/keyboard_shortcuts
+- button "Grok":
+- button "Chat":
+- button "Skip to home timeline"
+- button "Skip to trending"
+- banner:
+  - heading "X" [level=1]:
+    - link "X":
+      - /url: /home
+  - navigation "Primary":
+    - link "Home":
+      - /url: /home
+      - generic: Home
+    - link "Search and explore":
+      - /url: /explore
+      - generic: Explore
+    - link "Notifications":
+      - /url: /notifications
+      - generic: Notifications
+    - link "Follow":
+      - /url: /i/connect_people
+      - generic: Follow
+    - link "Direct Messages":
+      - /url: /i/chat
+      - generic: Chat
+    - link "Grok":
+      - /url: /i/grok
+      - generic: Grok
+    - link "Premium":
+      - /url: /i/premium
+      - generic: Premium
+    - link "History":
+      - /url: /i/history
+      - generic: History
+    - link "Profile":
+      - /url: /LeoGuoLabs
+      - generic: Profile
+    - button "More menu items":
+      - generic: More
+  - link "Post":
+    - /url: /compose/post
+    - generic: Post
+  - button "Account menu":
+    - generic "Leo Guo":
+      - img "Leo Guo"
+    - generic: Leo Guo
+    - img "Verified account"
+    - generic: "@LeoGuoLabs"
+- main:
+  - generic "Home timeline":
+    - button "Back":
+    - heading "Post" [level=2]
+    - status:
+      - button:
+        - generic: See new posts
+    - region "Conversation":
+      - heading "Conversation" [level=1]
+      - 'generic "Timeline: Conversation"':
+        - article:
+          - link [active]:
+            - /url: /LeoGuoLabs
+          - link "Leo Guo Verified account":
+            - /url: /LeoGuoLabs
+            - generic: Leo Guo
+            - img "Verified account"
+          - link "@LeoGuoLabs":
+            - /url: /LeoGuoLabs
+            - generic: "@LeoGuoLabs"
+          - button "Boost":
+            - generic: Boost
+          - button "Grok actions":
+          - button "More":
+          - text: "Same $200/month. Very different usage allowances. In SemiAnalysis's Oct. 5 tests, Claude Max with Opus 5.5 offered about 5.6x the API-equivalent value of ChatGPT Pro with GPT-6.1 Sol. The raw token gap was about 2.8x. The distinction matters: API-equivalent value depends on each model's list price. Their agentic workload was 96.6% cached-input tokens, so these figures don't measure output tokens or completed work. The comparison uses OpenAI's reduced $200 allowance. Subscribers on the old $200 plan keep their limits until Oct. 29; Pro still has no 5-hour cap. Claude looks generous for heavy agent use under these assumptions. I'd still judge a subscription by the useful work it finishes before the limit hits."
+          - link "newsletter.semianalysis.com/p/anthropic-su":
+            - /url: https://t.co/QmXDao13Wl
+            - text: newsletter.semianalysis.com/p/anthropic-su …
+          - navigation:
+            - button "Previous" [disabled]:
+            - tablist:
+              - 'link "SemiAnalysis comparison of estimated monthly API-equivalent value for GPT-6.1 Sol and Claude Opus 5.5 under an agentic workload. At $200 per month: ChatGPT Pro $2,084; Claude Max $11,726. At $100: $1,055 versus $5,725. At $20: $211 versus $1,178. Values assume full monthly usage at first-party API list prices; 96.6% of workload tokens are cached input."':
+                - /url: /LeoGuoLabs/status/2107330632938553773/photo/1
+                - 'generic "SemiAnalysis comparison of estimated monthly API-equivalent value for GPT-6.1 Sol and Claude Opus 5.5 under an agentic workload. At $200 per month: ChatGPT Pro $2,084; Claude Max $11,726. At $100: $1,055 versus $5,725. At $20: $211 versus $1,178. Values assume full monthly usage at first-party API list prices; 96.6% of workload tokens are cached input."':
+                  - 'img "SemiAnalysis comparison of estimated monthly API-equivalent value for GPT-6.1 Sol and Claude Opus 5.5 under an agentic workload. At $200 per month: ChatGPT Pro $2,084; Claude Max $11,726. At $100: $1,055 versus $5,725. At $20: $211 versus $1,178. Values assume full monthly usage at first-party API list prices; 96.6% of workload tokens are cached input."'
+              - button "ALT":
+                - generic: ALT
+              - 'link "SemiAnalysis comparison of total monthly token allowances for GPT-6.1 Sol and Claude Opus 5.5 under the same agentic workload. At $200 per month: ChatGPT Pro 10.2 billion tokens; Claude Max 28.6 billion. At $100: 5.1 billion versus 14.0 billion. At $20: 1.0 billion versus 2.9 billion. Totals include input, cached input, cache writes and output; 96.6% are cached input."':
+                - /url: /LeoGuoLabs/status/2107330632938553773/photo/2
+                - 'generic "SemiAnalysis comparison of total monthly token allowances for GPT-6.1 Sol and Claude Opus 5.5 under the same agentic workload. At $200 per month: ChatGPT Pro 10.2 billion tokens; Claude Max 28.6 billion. At $100: 5.1 billion versus 14.0 billion. At $20: 1.0 billion versus 2.9 billion. Totals include input, cached input, cache writes and output; 96.6% are cached input."':
+                  - 'img "SemiAnalysis comparison of total monthly token allowances for GPT-6.1 Sol and Claude Opus 5.5 under the same agentic workload. At $200 per month: ChatGPT Pro 10.2 billion tokens; Claude Max 28.6 billion. At $100: 5.1 billion versus 14.0 billion. At $20: 1.0 billion versus 2.9 billion. Totals include input, cached input, cache writes and output; 96.6% are cached input."'
+              - button "ALT":
+                - generic: ALT
+            - button "Next" [disabled]:
+          - link "12:42 PM · Oct 6, 2026":
+            - /url: /LeoGuoLabs/status/2107330632938553773
+            - time: 12:42 PM · Oct 6, 2026
+          - generic: ·
+          - link "1 View":
+            - /url: /LeoGuoLabs/status/2107330632938553773/analytics
+            - generic: "1"
+            - generic: View
+          - group "1 view":
+            - button "0 Replies. Reply":
+            - button "0 reposts. Repost":
+            - button "0 Likes. Like":
+            - button "0 Bookmarks. Bookmark":
+            - button "Share post":
+        - link "Leo Guo":
+          - /url: /LeoGuoLabs
+          - generic "Leo Guo":
+            - img "Leo Guo"
+        - generic: Post your reply
+        - textbox "Post text"
+        - button "Reply" [disabled]:
+          - generic: Reply
+  - generic "Trending":
+    - search "Search":
+      - combobox "Search query"
+    - complementary "Relevant people":
+      - heading "Relevant people" [level=2]:
+        - generic: Relevant people
+      - list:
+        - link:
+          - /url: /LeoGuoLabs
+        - link "Leo Guo Verified account":
+          - /url: /LeoGuoLabs
+          - generic: Leo Guo
+          - img "Verified account"
+        - link "@LeoGuoLabs":
+          - /url: /LeoGuoLabs
+          - generic: "@LeoGuoLabs"
+    - region "Trending now":
+      - heading "Trending now" [level=1]
+      - 'generic "Timeline: Trending now"':
+        - heading "What’s happening" [level=2]:
+          - generic: What’s happening
+        - link "Trending Terafab More":
+          - generic: Trending
+          - generic: Terafab
+          - button "More":
+        - link "Politics · Trending Medicare More":
+          - generic: Politics · Trending
+          - generic: Medicare
+          - button "More":
+        - 'link "Trending in Singapore #JoongArchen More"':
+          - generic: Trending in Singapore
+          - generic: "#JoongArchen"
+          - button "More":
+        - link "Trending in Singapore Within Paris Fashion Week More":
+          - generic: Trending in Singapore
+          - generic: Within Paris Fashion Week
+          - button "More":
+        - link "Show more":
+          - /url: /explore/tabs/for-you
+          - generic: Show more
+    - navigation "Footer":
+      - link "Terms":
+        - /url: https://x.com/tos
+      - generic: ·
+      - link "Privacy":
+        - /url: https://x.com/privacy
+      - generic: ·
+      - link "Cookies":
+        - /url: https://support.x.com/articles/20170514
+      - generic: ·
+      - link "Accessibility":
+        - /url: https://help.x.com/resources/accessibility
+      - generic: ·
+      - link "Ads Info":
+        - /url: https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo
+      - generic: ·
+      - button "More":
+        - text: More
+      - generic: © 2026 X Corp.

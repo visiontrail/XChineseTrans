@@ -1,0 +1,28 @@
+{
+  "url": "https://video.twimg.com/amplify_video/2108173580798509056/vid/avc1/1920x1080/cebH34dTsCjOewQr.mp4?tag=29",
+  "status": 206,
+  "headers": {
+    "Connection": "close",
+    "Content-Length": "1048576",
+    "perf": "7402827104",
+    "content-type": "video/mp4",
+    "cache-control": "max-age=604800, must-revalidate",
+    "last-modified": "Thu, 08 Oct 2026 12:30:04 GMT",
+    "x-transaction-id": "f94ffc3812370578",
+    "timing-allow-origin": "https://twitter.com, https://mobile.twitter.com",
+    "x-content-type-options": "nosniff",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Content-Length",
+    "cross-origin-resource-policy": "cross-origin",
+    "strict-transport-security": "max-age=631138519; includeSubdomains",
+    "Accept-Ranges": "bytes",
+    "Content-Range": "bytes 0-1048575/7747870",
+    "Date": "Thu, 08 Oct 2026 14:05:22 GMT",
+    "X-Served-By": "t4_p, cache-nrt-rjaa8190049-NRT",
+    "X-Cache": "MISS",
+    "Vary": "origin",
+    "x-tw-cdn": "FT",
+    "Server-Timing": "x-cache;desc=MISS, x-tw-cdn;desc=FT"
+  },
+  "bytes": 1048576
+}

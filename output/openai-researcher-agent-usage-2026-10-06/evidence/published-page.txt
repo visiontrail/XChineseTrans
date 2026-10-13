@@ -1,0 +1,20 @@
+Leo Guo
+@LeoGuoLabs
+Boost
+Over $7,000 a day in coding-agent usage. That puts “power user” in perspective.
+
+By mid-August 2026, OpenAI reported about $600/day at the median and over $7,000/day at the 90th percentile, valued at API list prices—not its internal costs.
+
+Epoch AI’s analysis found recent doubling times of 34 and 27 days, respectively. The scale is striking. I’d love to see the same curve for useful research completed.
+
+Chart: Yafah Edelman and Luke Emberson / Epoch AI (CC BY).
+
+https://
+epoch.ai/data-insights/
+openai-coding-agent-spending
+…
+ALT
+3:09 PM · Oct 6, 2026
+·
+1
+ View

@@ -1,0 +1,66 @@
+[
+  {
+    "name": "deepseek-context-cache",
+    "url": "https://api-docs.deepseek.com/guides/kv_cache/",
+    "resolved_url": "https://api-docs.deepseek.com/guides/kv_cache/",
+    "bytes": 33018,
+    "retrieved_at": "2026-10-12T14:33:48.101234+00:00",
+    "relevant_text": [
+      "Cache construction takes seconds. Once the cache is no longer in use, it will be automatically cleared, usually within a few hours to a few days."
+    ]
+  },
+  {
+    "name": "openai-prompt-cache",
+    "url": "https://developers.openai.com/api/docs/guides/prompt-caching.md",
+    "resolved_url": "https://developers.openai.com/api/docs/guides/prompt-caching.md",
+    "bytes": 48169,
+    "retrieved_at": "2026-10-12T14:33:48.429132+00:00",
+    "relevant_text": [
+      "Use `prompt_cache_options.ttl` to control the minimum cache lifetime. The only supported value, `30m`, is also the default. A cached prefix remains eligible for reuse for 30 minutes after its most recent write or reuse, though OpenAI may retain it longer.",
+      "- `in_memory`: Entries typically remain active for around 5 to 10 minutes of inactivity, up to one hour.",
+      "- `24h`: Extended retention typically keeps entries available for around 30 minutes and can retain them for up to 24 hours.",
+      "| Cache lifetime             | At least 30 minutes after the latest write or reuse | Typically around 30 minutes, up to 24 hours                 | Typically 5 to 10 minutes inactive for `in_memory`, or up to 24 hours for `24h` |"
+    ]
+  },
+  {
+    "name": "claude-prompt-cache",
+    "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-caching",
+    "resolved_url": "https://claude.com/app-unavailable-in-region",
+    "bytes": 303411,
+    "retrieved_at": "2026-10-12T14:33:54.866381+00:00",
+    "relevant_text": [],
+    "retrieval_status": "redirected_to_region_page_not_used_as_docs",
+    "verification_method": "Official page successfully opened with web tool; verified default 5-minute TTL and optional 1-hour cache."
+  },
+  {
+    "name": "gemini-explicit-cache",
+    "url": "https://ai.google.dev/gemini-api/docs/generate-content/caching",
+    "resolved_url": "https://ai.google.dev/gemini-api/docs/generate-content/caching",
+    "bytes": 195100,
+    "retrieved_at": "2026-10-12T14:33:49.415345+00:00",
+    "relevant_text": [
+      "called the time to live (TTL). If not set, the TTL defaults to 1 hour. The"
+    ]
+  },
+  {
+    "name": "qwen-context-cache",
+    "url": "https://www.alibabacloud.com/help/en/model-studio/context-cache",
+    "resolved_url": "https://www.alibabacloud.com/help/en/model-studio/context-cache",
+    "bytes": 90626,
+    "retrieved_at": "2026-10-12T14:33:48.963852+00:00",
+    "relevant_text": [
+      "Explicit cache: A mode that you enable manually. You create a cache for specific content to ensure a deterministic hit within its 5-minute validity period. Tokens used to create the cache are typically billed at 125% of the standard input token price, while subsequent cache hits are typically billed at only 10% of that price. For specific pricing, see Billing.",
+      "Cache validity period",
+      "Indeterminate. The system periodically clears old, unused cache data.",
+      "If a cache miss occurs, the system creates a new cache block from the content between the start of the messages array and thecache_control marker. The new cache block has a validity period of 5 minutes.",
+      "If a cache hit occurs, the system selects the longest matching prefix and resets the validity period of the corresponding cache block to 5 minutes.",
+      "If there are 20 or fewer \"Other messages,\" the request hits cache block A, resetting its validity period to 5 minutes. The system also creates a new cache block based on A, the other messages, and B.",
+      "The type can only be set to ephemeral, which creates a cache with a 5-minute validity period.",
+      "Reaching the minimum token count does not guarantee a cache hit. Whether a hit occurs is also affected by factors such as cache generation status, cache validity period, and system scheduling. Refer to the cache hit token count in the API response for actual results.",
+      "Q: How long is the context cache retained (validity period)?",
+      "A: The validity period of the context cache depends on the cache type:",
+      "Explicit cache: The validity period is 5 minutes, and each cache hit resets it to another 5 minutes. If the cache block is not hit within 5 minutes, the system automatically clears it.",
+      "Implicit cache: Managed automatically by the system with no fixed validity period. The system periodically clears cache data that has not been used for a long time."
+    ]
+  }
+]

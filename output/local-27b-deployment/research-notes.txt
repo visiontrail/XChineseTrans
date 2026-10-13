@@ -1,0 +1,11 @@
+Source: https://x.com/leo114119/status/2108914445741396390
+Live source read in authenticated Codex built-in browser on 2026-10-10 SGT; @LeoGuoLabs profile link visible.
+Four source graphics freshly retrieved and inspected. No source video. Selected deliverable: original text-only standalone English discussion draft. User requested variables plus a question about actual local model uses; source graphics are reference material, not selected attachments.
+Source graphics contain configuration-specific hardware price and speed claims, a generic 4-5 hours/day break-even claim without a complete input/output mix, and inconsistent electricity arithmetic (0.2 kW x 0.55 yuan/kWh is 0.11 yuan/h). These figures are not generalized in the draft. Qwen 4 27B release prediction is omitted as unnecessary to the requested generic deployment discussion.
+Raw weights arithmetic uses decimal GB: 27e9 x bits / 8 / 1e9. Four-bit number excludes scales, metadata, mixed precision, caches and buffers; no fixed GPU-fit guarantee is made.
+Technical references:
+https://docs.ollama.com/faq — context, concurrency, CPU/GPU placement, local-only mode, cache quantization.
+https://github.com/ggml-org/llama.cpp — quantized inference, hardware backends and hybrid CPU/GPU inference.
+https://github.com/ggml-org/llama.cpp/blob/master/tools/llama-bench/README.md — distinct prompt-processing and token-generation benchmarks.
+No local deployment or task performance was tested. Proposed tasks are suggestions and questions, not claimed personal experience.
+No publication requested or performed in this turn. Composer validation remains for publication preparation after editorial review.

@@ -1,0 +1,19 @@
+AMD's proposed $8.2 billion acquisition of World Labs is a bet on designing compute around where AI models are going next.
+
+
+The all-stock deal is expected to close by the end of 2026, subject to regulatory approvals and other customary conditions. After closing, Fei-Fei Li will become AMD's EVP and chief scientist, reporting to Lisa Su.
+
+
+The engineering logic is straightforward: models shape hardware requirements, while hardware determines which models are practical to train and run. World Labs gets access to AMD's compute and engineering resources; AMD gets a closer view of emerging workloads before committing to future chip and system designs. Li describes this as the co-evolution of AI software and hardware.
+
+
+Spatial intelligence is central to that bet. World models aim to represent and simulate 3D environments, with applications in creation, robotics and physical AI. Those workloads give AMD a broader research agenda across cloud, edge devices and PCs. Su says AMD's business model remains focused on platforms and solutions, with software supporting the hardware.
+
+
+The open-ecosystem argument matters too. Su expects open and proprietary models, large and small, to coexist. Customers want the freedom to choose hardware and software as their needs change. World Labs' announcement also commits to widely accessible open models. That is a direction to watch, rather than a claim that every future model will be open.
+
+
+On safety, both argue for shared responsibility. Secure hardware is one layer; model developers, independent evaluators, regulators and the wider industry also have roles.
+
+
+My takeaway: the strategic value is the feedback between model research and compute design. The test will be whether that produces better systems and more useful, accessible models.

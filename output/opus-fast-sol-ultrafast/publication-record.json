@@ -1,0 +1,76 @@
+{
+  "source": "https://x.com/leo114119/status/2108723129485041932",
+  "quoted_source": "https://x.com/chetaslua/status/2108722464218116115",
+  "format": "standalone",
+  "account": "@LeoGuoLabs",
+  "text": "Opus 5.5 Fast has a clear price edge over GPT-6.1 Sol Ultrafast: $8/$40 vs $12/$60 per million input/output tokens, for global API processing with Sol prompts up to 272K input tokens.\n\nVercel’s latest P50 snapshot puts Opus Fast at 273 tokens/s. A comparable Sol Ultrafast measurement is still missing, so calling this a speed tie is premature.\n\nSol Ultrafast also goes beyond the API: it’s available in Codex and ChatGPT Work on Pro $500 and eligible Enterprise/Edu plans.",
+  "media": [
+    {
+      "path": "comparison-v2.png",
+      "type": "image",
+      "alt": "Comparison of Claude Opus 5.5 Fast and GPT-6.1 Sol Ultrafast. Opus has a Vercel P50 snapshot of 273 tokens per second; a comparable Sol measurement is unavailable. Global API input/output rates per million tokens are $8/$40 versus $12/$60, with Sol prompts up to 272K input tokens. Both have coding-agent access; Sol Ultrafast in Codex and ChatGPT Work requires Pro $500 or eligible Enterprise/Edu plans.",
+      "sha256": "fd448685041bedef0a0b5ffcdd97cdb7d34d46ff513967e323a2aa710f803761"
+    }
+  ],
+  "state": "publicly_verified",
+  "authorization": {
+    "preparation": "Bare X link and AGENTS.md",
+    "publication": true,
+    "approval_text": "确认，请在 15分钟后发布",
+    "received_at": "2026-10-10T02:47:44Z"
+  },
+  "checks": {
+    "source_live_read": true,
+    "relevant_video": false,
+    "primary_sources_checked": true,
+    "generated_image_inspected": true,
+    "composer_full_text_accepted": true,
+    "media_ready": true,
+    "alt_saved": true,
+    "schedule_queue_verified": true,
+    "publication_account_verified": true,
+    "published_text_exact_match": true,
+    "published_media_count": 1,
+    "published_alt_exact_match": true,
+    "authenticated_public_page_verified": true,
+    "standalone_format_verified": true,
+    "published_image_display_verified": true,
+    "published_timestamp_verified": true
+  },
+  "published_url": "https://x.com/LeoGuoLabs/status/2108755146557567400",
+  "composer": {
+    "browser": "Codex In-app Browser",
+    "resume_tab_id": "1",
+    "screenshot": "composer-review.png",
+    "full_text_accepted": true,
+    "remaining_characters": 24527,
+    "post_enabled": true,
+    "submitted": true,
+    "submission_type": "schedule"
+  },
+  "generated_with": "built-in imagegen",
+  "prompts": [
+    "image-prompt-v1.txt",
+    "image-edit-prompt-v2.txt"
+  ],
+  "schedule_requested": {
+    "timezone": "Asia/Singapore",
+    "target": "2026-10-10T11:03:00+08:00",
+    "reason": "15 minutes after approval, rounded up to native scheduler minute"
+  },
+  "scheduled_at": "2026-10-10T11:03:00+08:00",
+  "schedule_timezone": "Asia/Singapore",
+  "scheduler": "X native",
+  "schedule_evidence": "scheduled-queue.png",
+  "public_media_url": "https://pbs.twimg.com/media/HUOzBwTa4AAwqvv.jpg",
+  "verification_automation_id": "opus-sol",
+  "published_at": "2026-10-10T11:03:00+08:00",
+  "verification_automation_status": "PAUSED",
+  "verified_at": "2026-10-10T03:08:20.203767+00:00",
+  "verification_evidence": [
+    "published-post.json",
+    "published-page.png",
+    "published-verification.png"
+  ],
+  "verification_notes": "Ego Lite public page identified the URL while the in-app browser was loading. The authenticated Codex in-app browser recovered and verified the published page, full approved text, image and ALT. Published timestamp is 11:03 AM on Oct 10, 2026, Singapore time. One-shot automation paused."
+}

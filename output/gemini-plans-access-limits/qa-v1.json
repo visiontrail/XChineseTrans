@@ -1,0 +1,19 @@
+{
+  "text_characters": 712,
+  "text_conservative_weighted_upper_bound": 1424,
+  "premium_ceiling_from_project": 25000,
+  "alt_characters": 411,
+  "image_dimensions": [
+    1122,
+    1402
+  ],
+  "image_bytes": 1567709,
+  "sha256": "a454af82d9af597cabaa2433098caa19978fa8e7d6ed1095628ee8af7a042f92",
+  "visual_review": "Text spelling, all four tiers, multiplier baselines, date, paper palette and clipping checked. Pass.",
+  "approval_received": false,
+  "composer_verified": true,
+  "composer_weighted_characters": 684,
+  "composer_remaining": 24316,
+  "attached_images": 1,
+  "alt_readback_matches": true
+}

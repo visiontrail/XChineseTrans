@@ -1,0 +1,35 @@
+{
+  "url": "https://x.com/LeoGuoLabs/status/2108780464593150051",
+  "copyMatches": true,
+  "first": {
+    "articleCount": 1,
+    "texts": [
+      "Alexandr Wang credits much of his progress to two habits: deep focus and going well beyond the minimum.\n\nPick a problem worth solving, give it your full attention, and keep working through the details after the obvious part is done.\n\nI like this as an engineering mindset: reproduce the bug, fix the cause, test the edge cases, and make the handoff easy. That's where extra effort becomes useful."
+    ],
+    "videos": [
+      {
+        "currentSrc": "blob:https://x.com/f2446193-00ee-40f7-9e35-05fbb7f379f4",
+        "currentTime": 10.537107,
+        "duration": 52.633,
+        "error": null,
+        "paused": false,
+        "readyState": 4
+      }
+    ]
+  },
+  "second": {
+    "texts": [
+      "Alexandr Wang credits much of his progress to two habits: deep focus and going well beyond the minimum.\n\nPick a problem worth solving, give it your full attention, and keep working through the details after the obvious part is done.\n\nI like this as an engineering mindset: reproduce the bug, fix the cause, test the edge cases, and make the handoff easy. That's where extra effort becomes useful."
+    ],
+    "videos": [
+      {
+        "currentTime": 17.664184,
+        "duration": 52.633,
+        "error": null,
+        "paused": false,
+        "readyState": 4
+      }
+    ]
+  },
+  "verifiedAt": "2026-10-10T04:45:55.721Z"
+}

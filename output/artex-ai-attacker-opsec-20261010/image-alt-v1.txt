@@ -1,0 +1,1 @@
+Excerpt from CrowdStrike’s October 7, 2026 report. It says exposed directories revealed Claude Code session histories, ARTEX configuration files and Claude memory files associated with a campaign against South Korean financial organizations.

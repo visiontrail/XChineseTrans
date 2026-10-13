@@ -1,0 +1,23 @@
+{
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+    {
+      "codec_name": "h264",
+      "codec_type": "video",
+      "width": 1986,
+      "height": 1080
+    },
+    {
+      "codec_name": "aac",
+      "codec_type": "audio"
+    }
+  ],
+  "format": {
+    "duration": "100.672000",
+    "size": "37687135"
+  },
+  "sha256": "1ad324703e650558dba3f2460b2f578114e53ff496930c1ab08540601bd2aea2",
+  "visual_check": "Ten evenly spaced frames checked: no Chinese captions; conference footage followed by moving Meta Connect 2026 end card.",
+  "audio_check": "AAC audio present; silence detection shows only final 2.58 seconds silent, so full source duration preserved."
+}

@@ -1,0 +1,45 @@
+{
+  "source": "https://x.com/xiaohu/status/2107984153832817125",
+  "original": "https://x.com/bot/status/2107949161878606089",
+  "format": "standalone",
+  "account": "@LeoGuoLabs",
+  "text": "Grok Bot can now search, read, and monitor X. Ask it what people are saying about your app and have it pull the feedback together for you.\n\nYou could even have it keep an eye on Tibo and ping you when he posts a ChatGPT reset announcement. One less reason to keep refreshing the feed.",
+  "media": [
+    "original.mp4"
+  ],
+  "media_url": "https://video.twimg.com/amplify_video/2107948628950298624/vid/avc1/1920x1080/tlGtL_3iQXfm7WuO.mp4?tag=29",
+  "retrieved_at": "2026-10-08T02:13:18.082661+00:00",
+  "bytes": 1647581,
+  "sha256": "6d171f5b02b5c292fc5acd7f0b2ffe04ec09d95e951941e0549a336460e46543",
+  "duration": "12.224000",
+  "decode_errors": "",
+  "checks": [
+    "complete decode passed",
+    "start, middle, end frames and 1 fps contact sheet inspected",
+    "Local browser playback observed at 4.299769 seconds, paused=false, no media error"
+  ],
+  "state": "publicly_verified",
+  "composer_check": "Full approved text accepted, original.mp4 Ready, Post submitted once; successful sent notification",
+  "published_url": "https://x.com/LeoGuoLabs/status/2108040852790779975",
+  "research": [
+    "Original post and embedded official announcement read in live Ego Lite; source chain also recovered via fxtwitter.",
+    "Official video is an announcement/demo, not an independent test.",
+    "No verified claim of all-content coverage, no X account, no connector, or no API fees retained.",
+    "https://x.ai/news/grok-bot-and-x is dated August 29 and describes the older connector integration; do not treat it as proof of October 7 access terms.",
+    "https://x.ai/bot lists eligible paid plans.",
+    "tibo scenario supplied by user; framed as a proposed monitoring task, not independently tested functionality or verified current announcement."
+  ],
+  "revision": "v3: conversational reader-facing Tibo example; generalized voice principle added to AGENTS.md",
+  "authorization": "User confirmed publication of v3 and full original video",
+  "public_verification": {
+    "account": "@LeoGuoLabs",
+    "text": "Full v3 text and paragraph break verified on actual post detail",
+    "format": "standalone",
+    "media_count": 1,
+    "video": "Observed 12-second player, actual playback changing from opening prompt to ending Grok Bot logo without error",
+    "screenshots": [
+      "published.png",
+      "published-playback.png"
+    ]
+  }
+}

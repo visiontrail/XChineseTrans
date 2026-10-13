@@ -1,0 +1,6434 @@
+0.0	
+0.3	Mark, last time we spoke, you called me.
+3.0	
+
+3.0	It was on the weekend. Well, you called
+4.6	
+
+4.6	me through the glasses, which was the
+5.8	
+
+5.8	interesting part.
+6.6	
+
+6.6	>> Was it loud in the background?
+7.9	
+
+7.9	>> You were You were going to fish. I
+9.3	
+
+9.3	wasn't going to say it, but yeah, it was
+10.7	
+
+10.7	on the weekend.
+11.5	
+
+11.5	>> The noise cancellation actually is
+12.9	
+
+13.0	pretty good.
+13.5	
+
+13.5	>> Oh, it's great.
+14.2	
+
+14.2	>> Yeah, it's great.
+14.6	
+
+14.6	>> Yeah. I I mean,
+15.6	
+
+15.6	>> yeah. Um, but you wanted to talk about
+17.8	
+
+17.8	this essay manifesto. I don't know what
+20.0	
+
+20.0	you call it. Manifesto, we'll say,
+22.6	
+
+22.6	>> uh, that you published recently and and
+24.1	
+
+24.2	it's long. I mean, I'll caveat, but
+25.8	
+
+25.8	there's a lot in it. And I wanted to
+27.1	
+
+27.1	start there because there's a lot of big
+28.2	
+
+28.2	ideas in there and they'll connect to
+30.1	
+
+30.2	kind of the main thing we're talking
+31.4	
+
+31.4	about today.
+32.2	
+
+32.2	>> Yeah.
+32.5	
+
+32.6	>> Um I'm curious like why write that
+35.2	
+
+35.2	because it's long. There's a lot in
+37.0	
+
+37.0	there. [laughter]
+37.8	
+
+37.8	>> Well, yeah. Well, I I feel like if
+40.1	
+
+40.1	you're going to invest so much in
+42.5	
+
+42.6	building AI, uh, then it's important
+46.4	
+
+46.4	that people understand what your lab
+48.1	
+
+48.2	stands for and what your values are and
+50.1	
+
+50.1	and basically AI has so many
+53.4	
+
+53.4	opportunities, but there are also all
+55.5	
+
+55.5	these real risks. So, I think it's very
+57.4	
+
+57.4	important that everyone who's working on
+59.3	
+
+59.4	it has a wellthoughtout theory for how
+62.8	
+
+62.8	the work that they're going to do is
+64.9	
+
+64.9	going to lead to a positive future. You
+66.6	
+
+66.6	know, it's interesting because I mean
+67.5	
+
+67.5	the different labs have have some
+69.1	
+
+69.1	different philosophies on this and
+70.5	
+
+70.5	there's, you know, a lot of things that
+71.9	
+
+71.9	I think have become conventional wisdom
+73.8	
+
+73.8	in the industry that I just strongly
+75.6	
+
+75.6	disagree with. And you know, my my view
+78.2	
+
+78.2	on this is that the path to have a
+80.7	
+
+80.7	positive future for everyone is to make
+83.3	
+
+83.3	sure that we distribute the technology
+85.4	
+
+85.4	as widely as possible. And that's based
+87.7	
+
+87.7	on three major principles that that we
+90.3	
+
+90.3	have. One is that empowering people is
+93.7	
+
+93.8	the source of prosperity in the world.
+95.7	
+
+95.8	and it has been throughout history. Two
+98.1	
+
+98.1	is that the primary purpose for AI is
+101.9	
+
+101.9	going to be invention of new things not
+104.1	
+
+104.1	automation. And then the third principle
+107.3	
+
+107.4	is that the foundation for safety for
+110.1	
+
+110.2	the future is basically establishing the
+112.5	
+
+112.5	right checks and balances and balance of
+114.9	
+
+114.9	power rather than restricting access.
+117.9	
+
+117.9	And I think that that's these are all
+119.9	
+
+119.9	things that I think oddly are are kind
+122.0	
+
+122.0	of very different from I think a lot of
+124.2	
+
+124.2	the conventional wisdom um especially in
+126.5	
+
+126.6	Silicon Valley. A lot of people think
+128.0	
+
+128.0	hey this technology is very powerful. We
+130.0	
+
+130.0	must restrict it so that way not that
+131.6	
+
+131.6	many people have access to it. I
+133.1	
+
+133.1	personally am much more worried about a
+135.8	
+
+135.8	small number of labs or people having
+138.4	
+
+138.4	control of of something that is so
+140.7	
+
+140.7	capable. Um, and I think that the
+143.2	
+
+143.2	throughout history, what we found is
+144.7	
+
+144.7	that when you put power in people's
+146.2	
+
+146.2	hands, most advances don't come from the
+149.7	
+
+149.7	incumbents or the establishment. They
+151.5	
+
+151.5	come from people on the on the periphery
+153.9	
+
+153.9	whose ideas aren't taken seriously. But
+155.8	
+
+155.8	when they get enough tools to um to to
+158.2	
+
+158.2	basically be able to prove out what
+160.1	
+
+160.1	they're working on, that ends up being
+161.1	
+
+161.1	very powerful. In western society, the
+163.9	
+
+163.9	way that we've established governance
+165.6	
+
+165.6	and um and basically having a well-
+168.6	
+
+168.6	balanced society is through a set of
+170.3	
+
+170.3	checks and balances, right? And this
+172.1	
+
+172.1	balance of power. Um it's very ingrained
+174.9	
+
+175.0	in in kind of our society that you don't
+178.3	
+
+178.3	want to have, you know, one lab or two
+180.6	
+
+180.6	labs having access to a thing. for some
+182.8	
+
+182.8	of the most recent concerns that have
+184.4	
+
+184.4	come up like some of these cyber
+185.4	
+
+185.4	security concerns. I think the the best
+188.3	
+
+188.3	antidote to someone having an AI that
+190.9	
+
+190.9	could potentially hack into systems is
+193.0	
+
+193.0	having everyone have access to an AI so
+194.8	
+
+194.8	they can harden their own systems first.
+196.6	
+
+196.6	And that that's kind of been the history
+198.5	
+
+198.5	of cyber security over the past several
+200.8	
+
+200.8	decades is that you know open source
+202.6	
+
+202.6	software um because people can can see
+206.4	
+
+206.4	it and can scrutinize it sort of
+208.6	
+
+208.6	counterintuitively by putting it in
+210.3	
+
+210.3	people's hands you end up with a more
+212.4	
+
+212.4	secure and more stable environment. So
+214.6	
+
+214.6	that's what I believe um and and that's
+216.7	
+
+216.7	what I think is the path to to a
+218.6	
+
+218.6	positive future is basically
+219.8	
+
+219.8	distributing the technology that has a
+223.0	
+
+223.0	bunch of different implications for what
+224.3	
+
+224.3	we're going to do. I mean obviously we
+225.5	
+
+225.5	want to build leading um AI models which
+228.3	
+
+228.3	which uh we're doing and Muse Spark 1.3
+231.0	
+
+231.0	which we just released is it's um it's
+233.8	
+
+233.8	advanced but then you know it's actually
+236.6	
+
+236.6	the latest model of a relatively smaller
+239.8	
+
+239.8	pre-train that we did the the internal
+241.6	
+
+241.6	code name avocado
+243.3	
+
+243.3	>> and um
+244.0	
+
+244.0	>> oh we're going to get into the code
+245.0	
+
+245.0	>> oh yeah we'll get into that and and we
+247.3	
+
+247.3	have watermelon coming soon so that's
+249.2	
+
+249.2	going to be a big deal. So obviously
+250.7	
+
+250.7	leading models probably the biggest
+252.9	
+
+253.0	personification of um you know if you
+255.8	
+
+255.8	will or kind of um implementation of
+258.2	
+
+258.2	this vision is um the muse personal
+260.9	
+
+260.9	agent that we're that we're rolling out
+263.2	
+
+263.2	um that basically the idea there is give
+265.4	
+
+265.4	every person in the world a very capable
+268.3	
+
+268.3	personal agent that can understand their
+270.1	
+
+270.2	goals and can just work on their behalf
+271.7	
+
+271.8	247 and then um an important part of
+274.5	
+
+274.5	this is also just getting the technology
+275.7	
+
+275.8	in people's hands. We're we're very kind
+277.7	
+
+277.7	of strong proponents of open source and
+280.2	
+
+280.2	and making sure that that the
+282.3	
+
+282.3	opportunities that I think are going to
+283.6	
+
+283.6	be massive here are not just limited to
+285.8	
+
+285.8	a few to a few people or companies. This
+288.2	
+
+288.2	episode is brought to you by Mercury AI
+290.3	
+
+290.3	native banking that's loved by more than
+292.1	
+
+292.1	300,000 entrepreneurs including me.
+294.6	
+
+294.6	Visit mercury.com to learn more. Mercury
+296.7	
+
+296.7	is a fintech, not a bank. Check the show
+298.4	
+
+298.4	notes for details. Thanks also to
+300.2	
+
+300.2	Granola, the AI notepad for people in
+302.6	
+
+302.6	backtoback meetings. It works everywhere
+304.6	
+
+304.6	you do and lets you focus on what
+306.3	
+
+306.3	matters. Try it at granola.ai/sources
+309.2	
+
+309.2	and use the code sources for three
+311.2	
+
+311.2	months off. This episode is also brought
+313.6	
+
+313.6	to you by Jira by Atlassian where teams
+316.3	
+
+316.3	and agents get the context,
+318.1	
+
+318.1	coordination, and control to move work
+320.6	
+
+320.6	forward. Try it free at jira.com. That's
+323.8	
+
+323.8	jir.com.
+326.2	
+
+326.2	>> I have a bunch of questions about the
+327.9	
+
+327.9	Muse Agent, but staying big picture for
+330.5	
+
+330.5	a second because you said a lot of
+331.6	
+
+331.6	things there. Is open-source the counter
+334.9	
+
+334.9	to the trend you're seeing that you
+336.8	
+
+336.8	described that you're worried about? Is
+338.2	
+
+338.2	that the main way practically that you
+340.8	
+
+340.8	counter that or is it regulation? Is it
+343.2	
+
+343.2	both? Like
+343.9	
+
+343.9	>> No, I actually think probably the most
+345.4	
+
+345.4	important thing is actually just getting
+347.3	
+
+347.3	the technology in individuals hands. So
+349.7	
+
+349.7	I actually think things like the Muse
+351.4	
+
+351.4	personal agent um are perhaps even more
+355.3	
+
+355.3	important. I mean, I think what you're
+356.7	
+
+356.7	starting to see are some of the labs are
+358.6	
+
+358.6	building training more advanced models
+360.9	
+
+360.9	and then not even releasing them. Right.
+362.9	
+
+363.0	>> Right. So, I think that that is quite
+365.7	
+
+365.8	dangerous in the sense that, you know,
+368.1	
+
+368.1	basically when you have scrutiny on
+369.7	
+
+369.7	something, when you put a a system out
+371.5	
+
+371.5	there, first of all, if you put it in a
+373.2	
+
+373.2	lot of people's hands, you get the
+374.3	
+
+374.3	checks and balances, you get broad-based
+376.1	
+
+376.1	prosperity, which I think is important,
+377.7	
+
+377.7	right, for society. We can't just have
+379.5	
+
+379.5	like one or two labs get incredibly
+381.7	
+
+381.7	valuable. Um, you know, I think you you
+383.8	
+
+383.8	want to make it so that billions of
+385.7	
+
+385.7	people can basically have prosperity in
+387.4	
+
+387.4	their own lives, whether it's creating
+389.1	
+
+389.1	small businesses, being more successful
+390.7	
+
+390.7	in their careers, um, being more
+392.6	
+
+392.6	productive and managing their homes,
+394.1	
+
+394.1	saving money in a lot of ways, um, kind
+396.6	
+
+396.6	of advancing their health. Uh, so I
+398.4	
+
+398.4	think you you want the benefits to be
+399.7	
+
+399.7	very broad-based. So that's one piece.
+402.8	
+
+402.8	In terms of the competition, I do think
+405.1	
+
+405.1	that having multiple labs is helpful and
+407.7	
+
+407.8	I think open source is quite helpful for
+409.4	
+
+409.4	that. So I think open source is an
+411.1	
+
+411.1	important part of it. The nature of open
+412.6	
+
+412.6	source is there's a whole community of
+414.1	
+
+414.1	people who do it. So I'm not saying that
+415.2	
+
+415.2	we're going to be the one company that
+416.4	
+
+416.4	does it. I'm also not like a zealot
+419.4	
+
+419.4	about this from the perspective it's,
+420.7	
+
+420.7	you know, it's not that everything we do
+421.9	
+
+421.9	is open source either, right? We we
+423.7	
+
+423.8	release some open models. We do some
+425.5	
+
+425.5	closed work. I think it's important if
+426.9	
+
+426.9	you're building a for-profit company
+428.5	
+
+428.5	that you can build some advanced things
+430.0	
+
+430.0	and you don't necessarily need to share
+431.8	
+
+431.8	every single thing with the world. But I
+433.6	
+
+433.6	think in general uh supporting a robust
+436.7	
+
+436.7	open source ecosystem is going to be key
+439.4	
+
+439.4	to maintaining competition and and
+441.8	
+
+441.8	maintaining kind of transparency and
+444.9	
+
+445.0	understandability of where the
+446.9	
+
+447.0	technology is going in a way that I
+448.9	
+
+448.9	think is actually going to be incredibly
+450.4	
+
+450.4	important for safety. Um you know if we
+452.9	
+
+452.9	have a world where there's just like a
+454.1	
+
+454.2	small number of of really capable models
+457.0	
+
+457.0	um I know just it's it's interesting
+458.9	
+
+458.9	right? Right? I mean if you look at some
+459.7	
+
+459.8	of the cyber stuff for example um the
+462.3	
+
+462.3	instinct which I mean on the one hand I
+464.4	
+
+464.4	I can understand the instinct of like
+465.7	
+
+465.7	all right we have this capable cyber
+466.9	
+
+467.0	model let's release it that only you
+469.2	
+
+469.2	know whatever it is the top hundred
+470.5	
+
+470.5	institutions get it but you I think part
+472.9	
+
+472.9	of the issue is that there's more than
+474.2	
+
+474.2	100 important institutions in the world.
+476.2	
+
+476.2	So you if you look at things like the
+478.6	
+
+478.6	hugging face incident that happened you
+480.5	
+
+480.5	know hugging face is maybe not one of
+481.9	
+
+481.9	the biggest hundred institutions in the
+483.5	
+
+483.5	world but it matters right it's like an
+485.1	
+
+485.1	important thing that people rely on. And
+487.9	
+
+487.9	so what did they do when they started
+489.6	
+
+489.6	detecting that there was this intrusion
+491.5	
+
+491.5	is they turned to open source models
+493.4	
+
+493.4	because they didn't have access to some
+495.1	
+
+495.1	of the closed ones that were causing the
+496.6	
+
+496.6	issues. So um I think that having a
+499.7	
+
+499.8	robust open-source ecosystem is one
+502.6	
+
+502.6	important part of having kind of a safe
+505.0	
+
+505.0	and stable future. But to me the the
+507.6	
+
+507.6	most important thing is just making sure
+509.5	
+
+509.5	that we distribute the technology widely
+511.9	
+
+511.9	rather than hoarding it in a small
+513.4	
+
+513.4	number of people's hands. And I think
+515.0	
+
+515.0	there's also this ongoing debate in
+517.6	
+
+517.6	Silicon Valley about why people feel so
+520.1	
+
+520.2	negatively about AI. I mean, you talk
+521.8	
+
+521.8	about this in your in your recent
+523.7	
+
+523.7	letter, uh, addressing these concerns or
+526.2	
+
+526.2	trying to, but the I mean, the sentiment
+528.5	
+
+528.6	on AI and data centers in particular,
+530.4	
+
+530.4	it's so negative. And it sounds like
+533.4	
+
+533.4	maybe an essence of your argument,
+534.6	
+
+534.6	correct me if I'm wrong, is if we
+536.2	
+
+536.2	diffuse this technology more, if we
+538.2	
+
+538.2	enable more people to access the things
+539.9	
+
+539.9	that are right now gated
+541.4	
+
+541.4	>> by some of the top labs, maybe that
+543.7	
+
+543.7	addresses this kind of I think people
+546.5	
+
+546.5	feel maybe disenfranchised by what's
+548.4	
+
+548.4	happening in AI. Is that what you're
+550.0	
+
+550.0	getting at?
+550.9	
+
+551.0	>> Well, there are many layers to it. It's
+552.5	
+
+552.5	I mean, I think you there's so many
+554.0	
+
+554.0	parts of this is why the essay was so
+556.8	
+
+556.8	long, right? Like 15 pages because I
+558.5	
+
+558.5	mean we want to get through there are
+559.6	
+
+559.6	lots of different questions. I mean,
+560.7	
+
+560.7	people have questions about jobs in the
+562.7	
+
+562.7	economy. They have questions about data
+564.1	
+
+564.2	centers and their local communities and
+566.1	
+
+566.2	the kind of economic and environmental
+568.4	
+
+568.4	impacts of that. There are questions
+570.0	
+
+570.0	about how people might misuse AI, right?
+572.0	
+
+572.0	I mean, there's the cyber questions.
+573.3	
+
+573.3	There's bio risks that are coming up.
+575.5	
+
+575.5	There are questions about how we
+577.8	
+
+577.8	maintain a free society. There are
+579.3	
+
+579.3	questions about American leadership. Um,
+580.8	
+
+580.8	there are questions about maintaining
+582.0	
+
+582.0	control over the technology as it gets
+584.1	
+
+584.1	to be increasingly capable. So, these
+586.5	
+
+586.6	are all important. So it's it's
+587.7	
+
+587.7	important not to um you know just talk
+590.1	
+
+590.2	about this in generalities at the at a
+592.5	
+
+592.5	high level because I think each of these
+594.3	
+
+594.3	has some different nuances. But in
+596.7	
+
+596.7	general, I think one of the things that
+598.3	
+
+598.3	they all have in common is that if you
+600.5	
+
+600.6	create broad-based prosperity, um, and I
+603.8	
+
+603.8	think that one of the better ways to do
+605.4	
+
+605.4	that is by ensuring that there's the
+606.7	
+
+606.7	right balance of power around who has
+608.6	
+
+608.6	access to the technology and generally
+610.4	
+
+610.4	making sure that the greatest balance
+612.1	
+
+612.2	goes towards the kind of general
+614.1	
+
+614.2	population of people as opposed to kind
+616.3	
+
+616.3	of any kind of I don't know insider
+618.3	
+
+618.3	stakeholder or whatever you want to call
+619.7	
+
+619.7	it. Um, I think that that ends up being
+622.5	
+
+622.6	very important. So if you look at the
+623.8	
+
+623.8	data centers, I what we've actually
+626.1	
+
+626.1	found is that when a company like Meta
+628.5	
+
+628.6	goes into a community and makes a
+631.2	
+
+631.2	commitment that we're going to invest
+632.4	
+
+632.4	there for decades, right, which is
+634.1	
+
+634.2	really what we're doing when we're
+635.0	
+
+635.0	building up a data center, we're able to
+637.7	
+
+637.7	make it so that it's very good for the
+640.5	
+
+640.6	community. Um I mean the the the kind of
+642.7	
+
+642.7	the tax revenue that they bring uh from
+644.9	
+
+645.0	that. I mean in in Louisiana, we had
+647.3	
+
+647.3	this example where like the tax revenue
+648.7	
+
+648.7	funded these $50,000 bonuses for
+650.8	
+
+650.8	teachers in the community. we we bring a
+653.4	
+
+653.4	lot of jobs. We we invest in the in the
+655.2	
+
+655.2	local community a lot. Um that I think
+658.3	
+
+658.3	can be good. I think that there's
+659.7	
+
+659.7	there's also a lot of speculation,
+661.6	
+
+661.6	right, where there are companies that
+663.0	
+
+663.0	aren't necessarily planning on running a
+664.6	
+
+664.6	data center for decades. They're just,
+666.6	
+
+666.6	you know, trying to find a plot and um
+669.7	
+
+669.7	and then trying to sell it to one of the
+671.2	
+
+671.2	big labs and they don't really care as
+672.9	
+
+673.0	much about the local community and um
+675.4	
+
+675.4	and they're not invested for the long
+676.7	
+
+676.7	term. So if they don't care to, you
+678.5	
+
+678.6	know, focus on making it work for the
+680.1	
+
+680.1	local community, then of course people
+682.1	
+
+682.1	are going to get upset. So I that's one
+684.2	
+
+684.2	of the things that can be um difficult
+688.3	
+
+688.3	when you have these kind of speculative
+691.0	
+
+691.0	um
+691.9	
+
+691.9	>> I don't I don't even know if I'd call it
+693.4	
+
+693.4	a bubble because that implies that it's
+694.9	
+
+694.9	overvalued or something, but but there's
+696.6	
+
+696.6	certainly a boom, right? So it's so so
+698.7	
+
+698.7	you have that I mean that leads to some
+700.9	
+
+701.0	of these like short-term thinking
+702.6	
+
+702.6	incentives that don't necessarily lead
+705.2	
+
+705.2	towards helping every stakeholder which
+707.1	
+
+707.1	I think is kind of what you need to do
+708.5	
+
+708.5	to make this sustainable over the long
+709.8	
+
+709.8	term. And at the end of the day I mean
+712.1	
+
+712.1	if we're creating a technology that like
+714.2	
+
+714.2	if it doesn't create jobs or doesn't
+716.1	
+
+716.1	create broad-based prosperity or the
+717.8	
+
+717.8	infrastructure that we're building
+718.8	
+
+718.8	doesn't help local communities that's
+720.9	
+
+720.9	not going to be allowed to continue. So
+722.7	
+
+722.7	it's like it has to of course you have
+724.6	
+
+724.6	to design it in a way that um can be
+726.7	
+
+726.7	helpful to people in all these ways
+728.5	
+
+728.6	which is also part of the reason why
+730.3	
+
+730.3	like for people who are you know
+732.0	
+
+732.0	skeptical or have so much doom about the
+734.1	
+
+734.1	whole thing I'm I mean one of the the
+737.0	
+
+737.0	things that I basically think is that if
+739.4	
+
+739.4	we don't end up building it in a way
+740.9	
+
+741.0	that's positive it just effectively
+742.9	
+
+743.0	won't be able to happen. Um, so I I kind
+746.1	
+
+746.2	of think like the actually establishing
+747.6	
+
+747.6	the right checks and balances um and
+750.1	
+
+750.2	distributing the the benefits of this
+751.9	
+
+751.9	widely is sort of a precondition for
+754.5	
+
+754.5	being able to scale in the way that I
+756.3	
+
+756.3	think um would be best for society over
+759.4	
+
+759.4	time.
+759.8	
+
+759.8	>> I haven't heard another tech in your
+762.1	
+
+762.2	position talk about data centers that
+764.2	
+
+764.2	way, like the long-term investment of
+766.6	
+
+766.6	it. Is this something is this how you've
+768.5	
+
+768.6	always thought about it? Is this
+769.8	
+
+769.8	something you feel like there's more
+771.1	
+
+771.1	clarity that's been brought to it for
+772.4	
+
+772.4	you recently? Like have you Yeah,
+774.7	
+
+774.7	>> I mean I think that there's been all
+775.8	
+
+775.8	this anti-data center sentiment that
+777.7	
+
+777.7	you're talking about. So we've dug into
+779.4	
+
+779.4	it because what we're trying to
+781.0	
+
+781.0	understand is
+782.4	
+
+782.4	>> okay like there isn't as much of that
+784.9	
+
+785.0	around our project. So why is that? And
+787.8	
+
+787.8	then so we ask a bunch of people. It's
+789.3	
+
+789.3	like well it looks like there's a pretty
+790.8	
+
+790.8	big dichotomy between these speculators
+793.3	
+
+793.3	and the companies that are focused on it
+795.1	
+
+795.1	for the long term. And that kind of
+797.4	
+
+797.4	makes sense when you think about it. So,
+798.9	
+
+799.0	I mean, one one thing that we're doing,
+800.1	
+
+800.1	I mean, there's this America's Workforce
+801.5	
+
+801.5	Academy project that we we did, which is
+803.5	
+
+803.5	basically, okay, we're going to build
+804.5	
+
+804.5	all these data centers. We're going to
+806.0	
+
+806.0	be doing this for a while. There isn't
+808.2	
+
+808.2	the volume of skilled trades people that
+811.6	
+
+811.6	you need to create this. So, we need
+812.9	
+
+813.0	more like fiber technicians and
+815.2	
+
+815.2	electricians and like advanced carpentry
+817.6	
+
+817.6	and and all of these things. And there
+819.6	
+
+819.6	aren't enough people to do this. We need
+820.8	
+
+820.8	hundreds of thousands, you know, maybe
+822.8	
+
+822.8	maybe millions of more people who can do
+824.9	
+
+825.0	this. And um people aren't trained to do
+827.7	
+
+827.7	that right So we created this training
+829.8	
+
+829.8	program um to to effectively do that
+833.6	
+
+833.6	where we guarantee people who get
+835.6	
+
+835.6	through the training program a job at um
+839.0	
+
+839.0	at at a place that is working on
+840.6	
+
+840.6	building infrastructure for meta.
+842.4	
+
+842.4	>> And why did we do this? I mean it's like
+844.4	
+
+844.4	it's not really philanthropy, right?
+846.5	
+
+846.6	It's like we need those people to be
+848.5	
+
+848.5	skilled and have those skills. So it's
+850.9	
+
+850.9	just it's a win-win. It's an investment
+852.7	
+
+852.7	that I think makes sense if you're in it
+854.7	
+
+854.7	for decades. um but not necessarily
+857.2	
+
+857.2	something that you would do if you were
+858.9	
+
+859.0	building out one site with the intent of
+860.9	
+
+861.0	flipping it to a different company. So I
+863.9	
+
+863.9	think that a lot of problems in the
+866.1	
+
+866.1	world do just naturally get solved by
+869.8	
+
+869.8	incentive alignment when you think about
+871.2	
+
+871.2	them over the long term. Um, so I think
+873.2	
+
+873.2	that that ends up being an important
+874.4	
+
+874.4	part of this. And I guess part of the
+876.1	
+
+876.2	way that I think about this is that I
+877.8	
+
+877.8	just think that there's no way that it's
+879.1	
+
+879.1	going to be kind of permitted for there
+880.8	
+
+880.8	to be a small number of labs that
+883.5	
+
+883.5	control such a important um and capable
+886.1	
+
+886.2	technology and accumulate a lot of
+888.2	
+
+888.2	wealth to themselves. I think it's like
+890.0	
+
+890.0	this has to be a broad-based thing in
+892.4	
+
+892.4	order for it to kind of be able to work.
+894.5	
+
+894.6	It has to work technologically, but it
+896.1	
+
+896.2	also has to work um kind of socially.
+898.9	
+
+898.9	And and I think that those those pieces
+901.0	
+
+901.0	kind of have to have to go hand in hand.
+902.8	
+
+902.8	>> I agree. Well, now we're landing towards
+905.0	
+
+905.0	Amuse. Before we get there, you also
+907.4	
+
+907.4	wrote a year ago your personal super
+909.6	
+
+909.6	intelligence essay. Shorter one.
+911.8	
+
+911.8	>> Uh yeah, that was page. Yeah.
+913.5	
+
+913.5	>> I did write a one-page version of the
+915.3	
+
+915.3	future, too. Yeah. Well, I published it
+917.2	
+
+917.2	in the Wall Street Journal as
+919.8	
+
+919.8	that was kind of
+920.3	
+
+920.3	>> I just read the long one. Okay.
+922.1	
+
+922.1	>> Yeah. So the onepage version and there's
+923.7	
+
+923.7	the 15page version. Well, so this one
+925.9	
+
+925.9	you did about a year ago, personal super
+927.7	
+
+927.7	intelligence, I think a lot of people in
+929.4	
+
+929.4	my world when they saw you write that
+930.7	
+
+930.7	was like, "Oh, wow. Why is Mark writing
+932.7	
+
+932.7	this?" Like, what is the thing he's
+934.9	
+
+934.9	seeing on the other side of this? And I
+936.9	
+
+937.0	think it, correct me if I'm wrong, it
+938.9	
+
+939.0	might be Muse, like what we're going to
+940.4	
+
+940.4	talk about, right? What you guys are
+941.6	
+
+941.6	releasing now.
+942.9	
+
+942.9	>> Um, this is it. So, how did you come to
+945.4	
+
+945.4	that realization that that's what this
+947.1	
+
+947.1	is the next chapter for Meta?
+948.9	
+
+948.9	>> It's interesting. You know, we've never
+951.1	
+
+951.1	really just thought about ourselves as a
+953.3	
+
+953.3	social media company. We've definitely
+955.0	
+
+955.0	thought about ourselves as a company
+957.3	
+
+957.3	about connecting people and about
+959.0	
+
+959.0	empowering people, but I think a lot of
+960.9	
+
+961.0	the values that led us to build the
+962.8	
+
+962.8	things that we built for the first, you
+964.3	
+
+964.3	know, 15, 20 years of the company around
+966.4	
+
+966.4	putting technology and power in
+968.1	
+
+968.1	individuals hands um believing that
+971.6	
+
+971.6	people should be able to decide for
+973.3	
+
+973.3	themselves what is important in their
+974.7	
+
+974.7	lives. And we've gone through a lot of
+976.4	
+
+976.4	social debates around this, right? A lot
+977.9	
+
+977.9	of the the the debates around content
+979.8	
+
+979.8	moderation and things like this have
+981.3	
+
+981.3	kind of been around this question of
+982.3	
+
+982.3	like should people be allowed to kind of
+984.9	
+
+984.9	decide and communicate for themselves
+987.1	
+
+987.1	what matters in their own life. And I
+989.8	
+
+989.8	think through that experience, it has
+992.5	
+
+992.6	sort of sharpened my belief that a lot
+996.9	
+
+996.9	of progress throughout history and
+998.9	
+
+999.0	through this technological age comes
+1001.7	
+
+1001.7	from empowering individuals and that
+1005.2	
+
+1005.2	people really do know best about what
+1007.3	
+
+1007.3	matters in their own lives. So because
+1009.2	
+
+1009.2	of that, I have somewhat of a of an
+1011.2	
+
+1011.2	allergy whenever I hear people talk
+1014.2	
+
+1014.2	about, oh, like we should just have a
+1017.0	
+
+1017.0	small number of experts allocate what AI
+1019.4	
+
+1019.4	does to like big problems. Why should it
+1021.9	
+
+1021.9	do like like these things that people
+1023.6	
+
+1023.6	care about in their lives? Well, people
+1024.9	
+
+1025.0	have a balance of things they care
+1026.0	
+
+1026.0	about. People care about health. They
+1027.9	
+
+1027.9	care about having a better life, but
+1029.6	
+
+1029.6	they also care about their relationships
+1031.8	
+
+1031.8	and like showing up for their friends
+1033.6	
+
+1033.6	and family and um they care about
+1036.1	
+
+1036.1	culture. um you know people care about
+1038.4	
+
+1038.4	things that may not to you know a
+1040.9	
+
+1041.0	scientist or an engineer in the industry
+1043.3	
+
+1043.3	feel like the biggest problems but I
+1045.4	
+
+1045.4	don't know if you ask like billions of
+1046.9	
+
+1047.0	people what they care about if like you
+1049.0	
+
+1049.0	know I think what people's aggregate
+1050.6	
+
+1050.6	answers to that question is kind of is
+1053.4	
+
+1053.4	what the most important things are to be
+1055.2	
+
+1055.2	worked on
+1056.1	
+
+1056.1	>> and um so I've always just kind of
+1058.3	
+
+1058.3	believed that when you build this super
+1061.6	
+
+1061.6	intelligence
+1063.6	
+
+1063.6	>> there's this question of who decides
+1066.1	
+
+1066.1	what it's going to focus on and I think
+1068.2	
+
+1068.2	that people should be able to direct it
+1069.9	
+
+1069.9	towards what matters in their own lives.
+1072.0	
+
+1072.0	It shouldn't just be directed by you
+1074.2	
+
+1074.2	know some like so-called experts um
+1077.0	
+
+1077.0	sitting at a small number of labs. So
+1079.0	
+
+1079.0	this gets back to it's like it's this is
+1081.1	
+
+1081.1	basically the foundation of this overall
+1083.4	
+
+1083.4	philosophy which is that the way to have
+1086.6	
+
+1086.6	a positive future is to empower people
+1089.3	
+
+1089.4	to put the technology in their hands and
+1091.3	
+
+1091.4	let people decide for themselves what
+1093.3	
+
+1093.4	matters and how they want to use it. And
+1095.3	
+
+1095.3	I think that when people do that, it
+1097.8	
+
+1097.8	first of all will prioritize some things
+1100.2	
+
+1100.2	that that are different, right? It's um
+1102.0	
+
+1102.0	you know, like maybe it'll prioritize um
+1105.0	
+
+1105.0	health issues, but maybe instead of
+1106.8	
+
+1106.8	prioritizing, you know, it's like the
+1108.5	
+
+1108.6	most common things, which is kind of
+1109.9	
+
+1109.9	what the the kind of pharma and biotech
+1112.5	
+
+1112.5	industry like at large prioritizes
+1115.4	
+
+1115.4	today. Now, it's like there's a very
+1117.0	
+
+1117.0	long tale of rare diseases and
+1118.5	
+
+1118.6	conditions that people have. So, okay,
+1120.5	
+
+1120.6	if you're if you have if you have a rare
+1122.8	
+
+1122.8	condition, like you're probably going to
+1124.0	
+
+1124.0	want your personal AI to focus on that,
+1125.9	
+
+1125.9	not like just something else just
+1127.5	
+
+1127.5	because it happens to be the most common
+1128.8	
+
+1128.8	thing. So, I think for example, rare
+1130.4	
+
+1130.4	diseases, I think, are under
+1132.2	
+
+1132.2	disproportionately underinvested in. Um,
+1135.0	
+
+1135.0	>> you're doing a lot of investment with
+1136.2	
+
+1136.2	your foundation.
+1136.7	
+
+1136.7	>> We're doing that at Biohub, but but I I
+1138.5	
+
+1138.6	mean, and that's partially informed some
+1140.3	
+
+1140.3	of my views here
+1141.7	
+
+1141.7	>> that I think like yeah, like you want to
+1143.8	
+
+1143.8	put the power in individuals hands um to
+1146.2	
+
+1146.2	determine what matters for them. But a
+1148.3	
+
+1148.3	lot of this is also like it's not
+1150.5	
+
+1150.6	necessarily the things that people would
+1152.9	
+
+1152.9	say are like the big social problems.
+1154.8	
+
+1154.8	Like a lot of it for me, you know, when
+1156.6	
+
+1156.6	I'm using my Muse Agent, I just, you
+1158.8	
+
+1158.8	know, I kind of want to it to help me be
+1161.2	
+
+1161.2	like a better father and, you know, a
+1163.8	
+
+1163.8	better husband and show up better for my
+1165.5	
+
+1165.5	friends and, you know, be able to um
+1168.4	
+
+1168.4	help me connect with people. And that I
+1170.3	
+
+1170.3	think is also partially a through line
+1172.1	
+
+1172.1	between the work that we've done at Meta
+1174.2	
+
+1174.2	so far and this is I think we're the
+1176.4	
+
+1176.4	company that I think just
+1178.0	
+
+1178.0	disproportionately cares about and
+1179.7	
+
+1179.7	believes that there's social value in um
+1182.3	
+
+1182.3	in helping people connect with the
+1183.6	
+
+1183.6	people around them. So I don't know it's
+1184.7	
+
+1184.7	like what are the first things that I
+1186.0	
+
+1186.0	that I kind of set up my my own agent to
+1188.1	
+
+1188.1	do? It's like all right my
+1189.4	
+
+1189.4	three-year-old daughter likes baking. I
+1191.9	
+
+1191.9	don't know anything about baking but
+1193.4	
+
+1193.4	like that's like a a fun project that we
+1195.6	
+
+1195.6	can do. So I basically asked him I'm
+1197.0	
+
+1197.0	like, "All right, set up so that every
+1198.7	
+
+1198.7	weekend um you know like we have a
+1202.4	
+
+1202.4	baking project that is um that is uh
+1206.6	
+
+1206.6	kind of reasonable for a three-year-old
+1208.6	
+
+1208.6	and an adult who knows nothing about
+1210.2	
+
+1210.2	baking and um and use Instacart or
+1213.3	
+
+1213.3	whatever to go get all the ingredients
+1215.2	
+
+1215.2	like just figure out what makes sense
+1217.2	
+
+1217.2	and make sure everything is ready so
+1219.2	
+
+1219.2	that way like when I show up on, you
+1221.2	
+
+1221.2	know, on Sunday with u with my daughter,
+1223.4	
+
+1223.4	we can like go make this thing and Um,
+1225.7	
+
+1225.7	and then I tell it afterwards. I'm like,
+1226.9	
+
+1226.9	"How how did it go?" "Okay, that one was
+1228.3	
+
+1228.3	too hard." Turns out cake pops really
+1230.2	
+
+1230.2	difficult. Surprisingly difficult. Um,
+1233.3	
+
+1233.4	>> nothing about baking.
+1234.3	
+
+1234.3	>> Yeah, I didn't either. I I know I know
+1236.2	
+
+1236.2	something. Yeah, cake. No, no, don't
+1238.4	
+
+1238.4	start with cake pops. That's That's the
+1239.9	
+
+1239.9	problem.
+1240.6	
+
+1240.6	>> Um, yeah. No, there's a lot of things in
+1242.3	
+
+1242.3	baking that are pretty simple.
+1244.3	
+
+1244.3	>> It turns out cake pops is not one of
+1245.9	
+
+1245.9	them. But, um, yeah. Well, you know,
+1247.9	
+
+1247.9	what can I tell you?
+1249.0	
+
+1249.0	>> Um,
+1249.3	
+
+1249.3	>> thank you, Muse.
+1250.3	
+
+1250.3	>> Yeah. Yeah. Thanks. Um, so yeah, it kind
+1253.0	
+
+1253.0	of like so it kind of updates that um
+1256.0	
+
+1256.0	and and helps with that. Um, you know,
+1258.4	
+
+1258.4	my you know, my older daughter has kind
+1260.5	
+
+1260.5	of gotten into climbing mountains and
+1262.5	
+
+1262.5	some of them you need permits for. So I
+1264.2	
+
+1264.2	have it basically like sit and get the
+1266.5	
+
+1266.6	permits when they become available so we
+1268.1	
+
+1268.2	can climb mountains.
+1269.3	
+
+1269.3	>> And um I was just like pretty neat.
+1271.3	
+
+1271.4	Okay, so then like we do that and it
+1272.9	
+
+1272.9	basically tells me it's like all right,
+1274.1	
+
+1274.1	I was able to get a permit for this day.
+1276.1	
+
+1276.2	>> And I was like all right, well I guess
+1277.2	
+
+1277.2	I'm taking that day off from work to go
+1278.5	
+
+1278.6	climb a mountain with my daughter. So,
+1280.1	
+
+1280.2	it's kind of cool,
+1281.4	
+
+1281.4	>> right? It's So, it does that, you know,
+1284.0	
+
+1284.0	but it also helps keep me healthy. It
+1285.8	
+
+1285.8	helps me with my training.
+1287.4	
+
+1287.4	>> Um, you I put cameras up in my in my MMA
+1290.3	
+
+1290.3	gym and I tell it to watch the cameras
+1292.5	
+
+1292.5	and send me feedback and it's like it's
+1295.0	
+
+1295.0	pretty fun. You know, it's good.
+1296.1	
+
+1296.2	>> It's good feedback.
+1297.0	
+
+1297.0	>> Um, sometimes, you know, it's I mean,
+1298.6	
+
+1298.6	it's um sometimes it's funny feedback.
+1300.5	
+
+1300.5	It like it like finds me in
+1303.0	
+
+1303.0	>> it's just like it looks like you really
+1304.5	
+
+1304.5	gave up and and I was like, "Yeah, I
+1306.3	
+
+1306.3	did. I was really tired right there."
+1307.4	
+
+1307.4	[laughter] It's like, why is that the
+1308.3	
+
+1308.3	thing that you're pointing out to me?
+1309.7	
+
+1309.7	Um, but no, [snorts] it's good. Um, and
+1312.2	
+
+1312.2	it's funny like the coaches like laugh
+1314.3	
+
+1314.3	about it. They're like, yeah, no, this
+1315.7	
+
+1315.7	is like
+1316.1	
+
+1316.1	>> this is what we didn't feel like we
+1317.5	
+
+1317.5	could tell you, but your agent's telling
+1318.9	
+
+1318.9	you. [laughter]
+1319.3	
+
+1319.3	>> Yeah. Well, it's um Yeah, that's good.
+1321.9	
+
+1321.9	>> I didn't think about this until hearing
+1323.1	
+
+1323.1	you talk about it, but you you have
+1324.8	
+
+1324.8	people that could obviously do all this
+1326.1	
+
+1326.2	for you, but like how do you use
+1328.6	
+
+1328.6	something like Amuse Agent to like
+1331.0	
+
+1331.0	really test the limits of like how it
+1333.0	
+
+1333.0	can be helpful as an assistant, right?
+1334.7	
+
+1334.7	Yeah. like like are you were you pushing
+1336.9	
+
+1336.9	it like how have you pushed it in a way
+1338.6	
+
+1338.6	that the team is like oh okay we got to
+1340.9	
+
+1340.9	got to fix this or I'm sure
+1343.6	
+
+1343.6	>> part of what's interesting about it
+1345.4	
+
+1345.4	>> is that everyone just has like such
+1347.8	
+
+1347.8	different things that they want to do
+1349.6	
+
+1349.6	with it. So like in the early beta
+1352.1	
+
+1352.1	period, we handed it to a bunch of
+1353.6	
+
+1353.6	people and like it's like I gave it to
+1356.7	
+
+1356.7	someone and like within a day they're
+1358.6	
+
+1358.6	like using it to help run their home
+1360.4	
+
+1360.4	school and then like it's like okay wow
+1362.6	
+
+1362.6	you just like started this within a day
+1364.1	
+
+1364.1	and then like another person within a
+1366.0	
+
+1366.0	day or within 12 hours they're like I
+1367.7	
+
+1367.7	just planned a trip. Um yeah and it's
+1370.0	
+
+1370.0	like it it just like planned this whole
+1371.4	
+
+1371.4	thing for me. Yeah. Yeah. I mean,
+1372.9	
+
+1372.9	someone else I know who's like generally
+1374.3	
+
+1374.3	pretty skeptical about technology, I I
+1376.0	
+
+1376.0	gave it to her and then she was um she
+1378.2	
+
+1378.2	didn't say anything for like a few days.
+1380.1	
+
+1380.1	Then she texted me and was like, "So,
+1381.6	
+
+1381.6	when you do like the general release, do
+1383.9	
+
+1383.9	I get to keep my Muse agent or you going
+1386.0	
+
+1386.0	to reset it?" I was like, "All right,
+1387.0	
+
+1387.0	this is good. This is Yeah, I think it's
+1389.1	
+
+1389.1	like I think this is working well."
+1390.5	
+
+1390.6	>> Everyone I know who's been on the beta
+1392.2	
+
+1392.2	has very, you know, high things to say
+1394.1	
+
+1394.2	about it. High praise. Um
+1395.8	
+
+1395.8	>> but people do different things with it.
+1397.0	
+
+1397.0	>> Yeah. And I think we should just also
+1398.8	
+
+1398.8	say what it is more plainly for people
+1400.4	
+
+1400.4	so they understand because I think
+1401.9	
+
+1401.9	people think of AI as like you know met
+1404.4	
+
+1404.4	AI or chatbt it's like back and forth
+1406.2	
+
+1406.2	prompting the the real unlock here and
+1408.7	
+
+1408.7	this is happening in the industry more
+1410.1	
+
+1410.2	broadly whether it's Grockbot town
+1413.4	
+
+1413.4	instinct I mean there's many products
+1415.7	
+
+1415.7	doing this but it's it's adding a
+1417.7	
+
+1417.7	virtual machine behind the scenes where
+1419.9	
+
+1419.9	like the agent can control a computer
+1422.2	
+
+1422.2	for you and log in and do things and
+1424.5	
+
+1424.6	that's a that's a huge change I think
+1426.1	
+
+1426.2	for people who only know AI for
+1428.1	
+
+1428.1	>> and it's it's longived. So it's um so
+1430.9	
+
+1430.9	basically instead of the model with like
+1434.3	
+
+1434.3	Meta AI or ChatGpt or Gemini or whatever
+1436.9	
+
+1436.9	you use where you send one prompt and
+1439.0	
+
+1439.0	then it gives an answer in this case
+1441.0	
+
+1441.0	what you basically do is you give it
+1442.9	
+
+1442.9	projects or you give it goals
+1445.0	
+
+1445.0	>> and then it just works and it works 24/7
+1447.8	
+
+1447.8	and it like doesn't stop until it's
+1449.8	
+
+1449.8	helped achieve the goals.
+1450.7	
+
+1450.7	>> Team was telling me it studies overnight
+1452.1	
+
+1452.2	is what you guys call it. Oh yeah, it
+1453.8	
+
+1453.8	studies it like it kind of consolidates
+1455.8	
+
+1455.8	its reflections into into memory. It it
+1459.0	
+
+1459.0	basically just works on projects and it
+1461.0	
+
+1461.0	can also suggest new projects. So yeah,
+1464.1	
+
+1464.1	I mean I was like I like play the
+1466.8	
+
+1466.8	computer game Civilization with one of
+1468.4	
+
+1468.4	my daughters and I like I was like,
+1470.3	
+
+1470.3	"Hey, do you want to make like a
+1471.7	
+
+1471.7	strategy guide for her?" I was like,
+1473.0	
+
+1473.0	"Yeah, sure." So I was like, "Okay, um,
+1475.0	
+
+1475.0	now that we have the strategy guide, do
+1476.9	
+
+1476.9	you want me to like expand the strategy
+1479.3	
+
+1479.3	guide so it can also teach historical
+1481.3	
+
+1481.3	lessons about different civilizations?"
+1483.3	
+
+1483.3	I was like, "Yeah, sure. Why not?" So it
+1485.5	
+
+1485.5	so it just kind of like built a new tab
+1486.8	
+
+1486.8	and and the app that it made and um that
+1489.3	
+
+1489.4	would that was that was very cool. So it
+1491.0	
+
+1491.0	can kind of just like expand and
+1492.5	
+
+1492.5	>> it's proactive.
+1493.3	
+
+1493.3	>> Yeah. It suggests things. I mean, one of
+1495.4	
+
+1495.4	the things that I think is interesting
+1497.1	
+
+1497.1	is that it um I think is just going to
+1499.9	
+
+1499.9	be able to like make people money and
+1501.5	
+
+1501.5	save people money.
+1502.3	
+
+1502.3	>> You think?
+1502.8	
+
+1502.8	>> Yeah. I mean, part of the part of what's
+1504.8	
+
+1504.8	interesting here is the economic model
+1506.7	
+
+1506.7	for how we're pricing it. I mean, you
+1508.6	
+
+1508.6	you can pay for a subscription if you
+1510.1	
+
+1510.2	want to if you basically kind of want to
+1511.8	
+
+1511.8	have that that model, but we're also
+1514.7	
+
+1514.7	just making it so that you can get a
+1516.5	
+
+1516.6	very large amount of usage for free. I
+1518.9	
+
+1518.9	think we're we're offering something I
+1520.1	
+
+1520.2	think to start it's like 100 million
+1521.8	
+
+1521.8	tokens a week for for free like and and
+1524.5	
+
+1524.5	you get this virtual machine. So, it's
+1526.7	
+
+1526.7	like a lot of kind of computer.
+1528.9	
+
+1528.9	>> That's a good meme. It's a lot of
+1530.0	
+
+1530.0	computer.
+1530.3	
+
+1530.3	>> It's a lot of computer. Yeah. But the
+1532.8	
+
+1532.8	reason for why we're doing this is we
+1534.6	
+
+1534.6	basically are confident in standing
+1536.3	
+
+1536.3	behind the fact that we think that this
+1538.3	
+
+1538.3	is going to effectively for people who
+1540.8	
+
+1540.8	are going to use it for running a small
+1542.3	
+
+1542.3	business or making money or transactions
+1545.0	
+
+1545.0	or commerce in some way. We actually
+1547.0	
+
+1547.0	just think it's going to make so much
+1548.1	
+
+1548.1	money for people that um that the
+1550.7	
+
+1550.7	business model over time that we expect
+1552.5	
+
+1552.6	is to effectively just take a very small
+1555.4	
+
+1555.4	cut of whatever the transaction is um
+1558.1	
+
+1558.1	>> take great business small. Yeah.
+1559.9	
+
+1559.9	>> Yeah. and not even necessarily the
+1561.2	
+
+1561.2	person paying for it. It'll come from
+1562.4	
+
+1562.4	the businesses that they're working
+1563.5	
+
+1563.5	with. But um
+1564.7	
+
+1564.7	>> and you're working with Stripe on
+1566.1	
+
+1566.1	payments and Yeah.
+1567.8	
+
+1567.8	>> Yeah. So, but my view is like we should
+1569.9	
+
+1569.9	be able to have a service that you make
+1572.9	
+
+1572.9	free for the vast vast majority of
+1575.5	
+
+1575.5	people. Um which again is critical if
+1578.1	
+
+1578.2	you want to build a this future for
+1579.7	
+
+1579.7	everyone where everyone has um has these
+1582.3	
+
+1582.3	powerful super intelligence agents. Um I
+1584.7	
+
+1584.7	think an important part of making
+1585.9	
+
+1585.9	something available to everyone is
+1587.1	
+
+1587.1	making it affordable. So we want to make
+1589.0	
+
+1589.0	it so this is free. So there's this just
+1590.9	
+
+1590.9	this huge amount of usage that you get
+1592.2	
+
+1592.2	and we're basically just standing behind
+1593.8	
+
+1593.8	that and saying we think that this thing
+1595.6	
+
+1595.6	is actually going to make you money and
+1597.3	
+
+1597.4	save you money and that is how you're
+1599.8	
+
+1599.8	it's going to pay for itself.
+1601.0	
+
+1601.0	>> And meta services can connect into it
+1603.5	
+
+1603.5	right so you could theoretically manage
+1605.3	
+
+1605.3	your ad spend on Instagram all that
+1608.5	
+
+1608.5	stuff.
+1608.8	
+
+1608.8	>> Well you have to you connect it you you
+1610.4	
+
+1610.4	can connect it to whatever you want. You
+1611.7	
+
+1611.7	know it does work with meta services if
+1613.5	
+
+1613.5	you want. You obviously don't have to
+1614.9	
+
+1614.9	connect it if you don't want to. Sorry
+1616.5	
+
+1616.6	if you're using it to to run a business.
+1619.6	
+
+1619.6	It can basically just connect to our ad
+1621.3	
+
+1621.3	systems and you can ask it to to make
+1624.1	
+
+1624.1	something for you. It can it can kind of
+1626.0	
+
+1626.0	help you make the product and then it
+1627.3	
+
+1627.3	can help run the business. So um so all
+1629.6	
+
+1629.6	this stuff and it can just do that in a
+1630.9	
+
+1630.9	loop and just do it forever for you know
+1632.8	
+
+1632.8	247. So, and every time we release a new
+1636.3	
+
+1636.3	model, which you know, we've been on
+1637.7	
+
+1637.7	this cadence of shipping a, you know,
+1640.1	
+
+1640.2	meaningful update like every month, it's
+1641.9	
+
+1641.9	just going to get smarter, right? Just
+1643.4	
+
+1643.4	and get more capable and and able to do
+1645.2	
+
+1645.2	more and more stuff.
+1646.1	
+
+1646.1	>> And something your team was telling me
+1647.4	
+
+1647.4	that I haven't heard this approach used
+1649.2	
+
+1649.2	elsewhere is this fleet concept where
+1651.2	
+
+1651.2	you're letting the fleet of Muse agents
+1653.3	
+
+1653.3	learn Yeah. together.
+1654.8	
+
+1654.8	>> That was the ideas and suggestions
+1656.1	
+
+1656.1	thing. So, you open up the app,
+1657.9	
+
+1657.9	>> the main tab is basically your chat with
+1661.8	
+
+1661.8	um with your Muse. there's a tab for
+1664.2	
+
+1664.2	basically ideas
+1666.3	
+
+1666.3	from the things that you've told it how
+1668.0	
+
+1668.0	it can expand those. So that's the thing
+1669.8	
+
+1669.8	that I was saying which is you know
+1671.3	
+
+1671.3	first it helped make the strategy guide
+1672.7	
+
+1672.7	for playing civilization with my
+1673.9	
+
+1673.9	daughter then it helped expand that into
+1675.4	
+
+1675.4	historical lessons that was it came up
+1676.8	
+
+1676.8	with that idea and then I was just like
+1678.3	
+
+1678.3	yeah sure do it right.
+1679.4	
+
+1679.4	>> Um
+1680.3	
+
+1680.3	>> and it it finds all these ways to
+1682.2	
+
+1682.2	basically augment itself. I mean the
+1683.8	
+
+1683.8	like MMA like coaching thing it like
+1687.4	
+
+1687.4	comes up with ideas for how to make it
+1689.1	
+
+1689.1	better. It's like, would you like me to
+1690.8	
+
+1690.8	like get better at um finding the right
+1693.4	
+
+1693.4	frame to send to you? It's like, yeah,
+1694.6	
+
+1694.6	good go do that. So, yeah, the the ideas
+1697.8	
+
+1697.8	thing I think is important because then
+1699.1	
+
+1699.1	you basically across the fleet can find
+1701.0	
+
+1701.0	people who are interested in different
+1702.2	
+
+1702.2	things. I I think I I guess taking a
+1704.4	
+
+1704.4	step back, one of the big issues that I
+1706.2	
+
+1706.2	think exists with AI is a lot of people
+1708.2	
+
+1708.2	don't know what to do with it. Yeah. So
+1709.9	
+
+1709.9	I think if if the if the agent can
+1712.1	
+
+1712.2	itself help you suggest things that it
+1715.0	
+
+1715.0	can do to be helpful for you, then that
+1717.8	
+
+1717.8	solves a huge part of this problem of
+1720.1	
+
+1720.2	making it so that um you can get the
+1723.0	
+
+1723.0	most out of it.
+1723.7	
+
+1723.7	>> When you're introducing like network
+1725.7	
+
+1725.7	effect learning for agents, which no
+1727.8	
+
+1727.8	one's really done, where basically the
+1730.0	
+
+1730.0	agents are learning anonymized insights
+1732.5	
+
+1732.6	from the rest of the fleet.
+1734.5	
+
+1734.6	>> And I mean, you're like the king of
+1735.9	
+
+1735.9	network effects. like I I'm I'm really
+1737.8	
+
+1737.8	interested in this idea cuz I don't
+1739.5	
+
+1739.5	think anyone's doing this.
+1740.7	
+
+1740.7	>> Yeah. No, I think that right now I think
+1743.2	
+
+1743.2	most of the industry is thinking about
+1745.5	
+
+1745.5	agents as like a single player game,
+1748.5	
+
+1748.5	>> right? It's like you have your agent and
+1749.9	
+
+1749.9	and you use it. And there are going to
+1752.1	
+
+1752.2	be all these interesting things that
+1753.7	
+
+1753.7	basically you can do by having the
+1755.9	
+
+1755.9	agents interact with each other. And we
+1757.4	
+
+1757.4	already have all these interesting
+1758.5	
+
+1758.5	examples internally where you know
+1760.2	
+
+1760.2	people have their agents interacting
+1761.5	
+
+1761.5	with each other. This isn't like for the
+1763.6	
+
+1763.6	most part rolling out in this release,
+1765.0	
+
+1765.0	but it's it's going to be like an
+1767.0	
+
+1767.0	important part of how um I think this
+1769.4	
+
+1769.4	works over time is just
+1771.8	
+
+1771.8	>> like as more of the people who you know
+1774.0	
+
+1774.0	start using Muse, it just gets better,
+1775.6	
+
+1775.6	right?
+1776.4	
+
+1776.4	>> And is that the differentiator as you
+1779.5	
+
+1779.5	know you could buy the idea models
+1781.3	
+
+1781.4	continue to like commodify at the
+1782.9	
+
+1782.9	frontier essentially or you know the
+1785.6	
+
+1785.6	products all start to look similar
+1786.9	
+
+1786.9	similar kinds of harnesses. Is the
+1788.4	
+
+1788.4	network effects of that learning the
+1789.9	
+
+1789.9	real edge? Well, I think that there's a
+1792.3	
+
+1792.3	few things that are that are kind of
+1794.5	
+
+1794.5	unique that we're doing. One is we're
+1796.1	
+
+1796.1	designing the models from the ground up,
+1797.8	
+
+1797.8	right, to uh to basically be good for
+1800.0	
+
+1800.0	this use case, which I think really
+1801.3	
+
+1801.4	matters. Two is um is basically I do
+1805.3	
+
+1805.3	think we have this social DNA as a
+1807.0	
+
+1807.0	company. We're helping people use the AI
+1810.3	
+
+1810.3	and agent to like enhance their
+1812.8	
+
+1812.8	relationships and strengthen your
+1815.0	
+
+1815.0	relationships and get more out of like
+1816.5	
+
+1816.5	kind of the the soft but very important
+1818.5	
+
+1818.5	parts of your life. I think that that's
+1819.8	
+
+1819.8	something that we're probably just going
+1821.0	
+
+1821.0	to be more attentive to as a company
+1823.2	
+
+1823.2	than any of the other labs.
+1825.1	
+
+1825.1	>> The third thing that I would say is
+1827.9	
+
+1827.9	actually going to be a major
+1829.1	
+
+1829.1	differentiator for us that I I think um
+1832.4	
+
+1832.4	it might be surprising to some people is
+1835.0	
+
+1835.0	privacy and security. And we're
+1836.6	
+
+1836.6	investing in this just a huge huge
+1838.4	
+
+1838.4	amount. And you know, part of the view
+1841.3	
+
+1841.3	that we have on this is that in order
+1843.3	
+
+1843.3	for this to be useful, it needs to not
+1845.1	
+
+1845.1	just have state-of-the-art intelligence.
+1848.4	
+
+1848.4	it needs to really understand you,
+1850.1	
+
+1850.1	right? So, in order to be able to
+1851.1	
+
+1851.1	understand your goals, so you end up
+1852.9	
+
+1852.9	connecting it to all this stuff, right?
+1854.1	
+
+1854.1	You you talked about, you know,
+1855.1	
+
+1855.1	connecting to your your ad system, but
+1857.3	
+
+1857.4	people connected to messaging and email
+1860.3	
+
+1860.3	and all this all this stuff um health
+1862.3	
+
+1862.3	information, whatever. And um in order
+1864.6	
+
+1864.6	to do that,
+1866.1	
+
+1866.2	>> people need to have a very high degree
+1869.2	
+
+1869.2	of confidence in the system. Yeah. Now
+1871.4	
+
+1871.4	the good news here is that you know Meta
+1874.9	
+
+1874.9	has spent at this point more than 10
+1877.1	
+
+1877.1	years focusing on building WhatsApp into
+1881.9	
+
+1881.9	I think like it is the largest
+1885.4	
+
+1885.4	like global end encrypted system and
+1888.0	
+
+1888.0	we've designed it in a way where even
+1891.0	
+
+1891.0	Meta can't see the messages that people
+1893.7	
+
+1893.7	send and that's been this just really
+1896.5	
+
+1896.6	transformative thing. I think it makes
+1897.7	
+
+1897.7	it so that people trust WhatsApp. It's
+1899.6	
+
+1899.6	also been a very important lesson for
+1901.5	
+
+1901.5	Meta to learn that like that has been
+1904.1	
+
+1904.2	really important to our success with
+1905.5	
+
+1905.5	WhatsApp that we've designed the systems
+1907.2	
+
+1907.2	that even we can't see the content. That
+1909.8	
+
+1909.8	means that whatever people are worried
+1911.4	
+
+1911.4	about, if they're worried about um you
+1913.3	
+
+1913.3	know government getting access to it, a
+1914.7	
+
+1914.7	hacker getting access to it, someone at
+1916.4	
+
+1916.4	Meta doing something bad with it that
+1917.8	
+
+1917.8	they don't want, um all that stuff you
+1919.8	
+
+1919.8	can kind of take off the table if you
+1921.3	
+
+1921.4	design the system so that you can't see
+1923.3	
+
+1923.3	it. So we took that as one of the
+1925.8	
+
+1925.8	foundational lessons when we were
+1927.0	
+
+1927.0	getting started with this. Nat and I
+1929.3	
+
+1929.4	actually, you know, personally recruited
+1931.4	
+
+1931.4	Moxy Marlin Spike,
+1932.7	
+
+1932.7	>> founder of Signal.
+1933.6	
+
+1933.6	>> Yeah. And one of the person, one of the
+1935.3	
+
+1935.4	people who helped us build WhatsApp
+1937.6	
+
+1937.6	encryption back in the day back in 2014.
+1940.4	
+
+1940.4	>> He joined to specifically work on this
+1943.3	
+
+1943.3	confidential VM project which makes it
+1946.1	
+
+1946.2	so that we can you can have your virtual
+1949.5	
+
+1949.5	machine and have all this information in
+1951.3	
+
+1951.4	your muse and we can make the commitment
+1953.8	
+
+1953.8	that even Meta cannot see the content
+1956.1	
+
+1956.2	that is in there. And you can do this
+1957.3	
+
+1957.4	technically like
+1958.2	
+
+1958.2	>> it's it's a it's like an incredible kind
+1960.3	
+
+1960.3	of
+1960.5	
+
+1960.5	>> like the commitment can be technically
+1961.9	
+
+1961.9	verified and yeah
+1963.1	
+
+1963.1	>> so so that and that's something that
+1964.4	
+
+1964.4	we're going to publish more about in the
+1965.8	
+
+1965.8	coming weeks um as as we as we basically
+1969.1	
+
+1969.1	get get closer to rolling this out a lot
+1971.0	
+
+1971.0	more widely um
+1972.5	
+
+1972.5	>> and of out of all these early VM efforts
+1974.5	
+
+1974.6	that these labs are doing with these
+1975.9	
+
+1975.9	agents you think this is unique what
+1977.5	
+
+1977.5	you're doing
+1978.4	
+
+1978.4	>> I don't think anyone is doing
+1979.2	
+
+1979.2	>> I don't think anyone's doing it I mean I
+1980.5	
+
+1980.6	think that there's
+1981.5	
+
+1981.5	>> I mean there's a lot of other security
+1983.6	
+
+1983.6	measures that we're putting in place
+1984.9	
+
+1984.9	that I think are we should talk through
+1987.2	
+
+1987.2	um because I mean you know even before
+1989.0	
+
+1989.0	this is ready like there's there's that
+1990.5	
+
+1990.6	and even people who don't want to use
+1991.6	
+
+1991.6	this there's it's like incredibly secure
+1993.4	
+
+1993.4	because we focused on this from the
+1994.7	
+
+1994.7	beginning
+1995.4	
+
+1995.4	>> but um
+1996.3	
+
+1996.3	>> there's also like the auto approve like
+1997.9	
+
+1997.9	you have to see what it's doing.
+1999.3	
+
+1999.4	>> So let's get into all that stuff in a
+2000.6	
+
+2000.6	second but the
+2001.8	
+
+2001.8	>> but I'm not aware of anyone having
+2005.4	
+
+2005.4	anything close to the confidential VM
+2007.5	
+
+2007.5	system that that Muse has. And it's just
+2010.5	
+
+2010.5	I think it's a very fundamental thing
+2011.8	
+
+2011.8	because you're you're like you want to
+2014.0	
+
+2014.0	know that this is your agent and that
+2016.5	
+
+2016.5	that if you put content in there that um
+2020.5	
+
+2020.5	that basically you can trust that no one
+2022.6	
+
+2022.6	else is going to get access to it. So
+2023.8	
+
+2023.8	what are the two ways to do it? Well, a
+2025.5	
+
+2025.5	lot of people earlier in the year when
+2027.3	
+
+2027.3	stuff like OpenClaw came out, they
+2029.0	
+
+2029.0	started getting Mac Studios and you
+2030.8	
+
+2030.8	know, one way to feel good about it is
+2032.1	
+
+2032.1	well, you literally like you physically
+2033.8	
+
+2033.8	have your device running in your home.
+2036.4	
+
+2036.4	But the other way to do it is you build
+2038.3	
+
+2038.3	a a kind of that's going to be tricky
+2040.1	
+
+2040.2	because there I don't think there are
+2041.2	
+
+2041.2	going to be billions of people who are
+2042.4	
+
+2042.4	going to buy a Mac Studio and configure
+2043.8	
+
+2043.8	it and run it at their home,
+2044.9	
+
+2044.9	>> especially with RAM prices right now.
+2046.3	
+
+2046.3	Yeah.
+2047.0	
+
+2047.0	>> But but it's also just it's like
+2048.1	
+
+2048.2	technically difficult, right? It's like
+2049.9	
+
+2049.9	I mean part of what we were trying to do
+2051.3	
+
+2051.4	with Muse is build a version of that
+2053.7	
+
+2053.7	personal agent experience that just
+2055.2	
+
+2055.2	works that I can like give to everyone
+2056.9	
+
+2056.9	in my family of various levels of
+2058.8	
+
+2058.8	technical literacy. Yeah. And like it
+2060.7	
+
+2060.7	just works and then within a day it's
+2062.3	
+
+2062.3	like doing kind of all the stuff that
+2064.0	
+
+2064.0	they that they want in their life. So
+2065.8	
+
+2065.8	part of that is like you don't want
+2066.7	
+
+2066.7	someone to have to set up their own
+2067.9	
+
+2067.9	computer or VM. you just kind of like
+2070.1	
+
+2070.1	want to be able to provision it in the
+2071.3	
+
+2071.3	cloud, but you wanted to have the
+2073.8	
+
+2073.8	security and confidentiality that you'd
+2076.9	
+
+2076.9	have if you had the box sitting under
+2078.8	
+
+2078.8	your desk like in your house.
+2081.1	
+
+2081.1	>> Um,
+2082.4	
+
+2082.4	>> so I think that's a very fundamental
+2084.4	
+
+2084.4	thing. Um, like you said, there there's
+2086.2	
+
+2086.2	other pieces too because I not everyone
+2087.8	
+
+2087.8	is going to use that. I mean, we built a
+2089.5	
+
+2089.5	secure credential store, right? You're
+2091.4	
+
+2091.4	there's no reason for you to just like
+2094.1	
+
+2094.1	store out in the open like all your your
+2096.6	
+
+2096.6	kind of your credit card and your
+2098.2	
+
+2098.2	password. one time card numbers and
+2100.6	
+
+2100.6	>> so your agent like shouldn't know that
+2102.3	
+
+2102.3	stuff. It should just be able to kind of
+2104.0	
+
+2104.0	access it um when it needs to because
+2106.7	
+
+2106.7	you've asked it to log into a thing and
+2108.2	
+
+2108.2	and no and not otherwise.
+2111.7	
+
+2111.7	>> Um it's actually not a single thing. Um
+2113.8	
+
+2113.8	you have your kind of core agent,
+2116.1	
+
+2116.1	>> but we also built all these sentinel
+2118.6	
+
+2118.6	agents that basically monitor the
+2121.1	
+
+2121.1	incoming and outgoing traffic and data
+2123.6	
+
+2123.6	that your that your agent is sending for
+2125.9	
+
+2125.9	the purpose of flagging to you um when
+2129.1	
+
+2129.1	you might want to review something. So
+2131.3	
+
+2131.4	that's all that the Sentinels do is is
+2133.8	
+
+2133.8	effectively
+2135.3	
+
+2135.3	>> they they kind of look at they they try
+2137.3	
+
+2137.4	to see if someone's trying to do like a
+2138.6	
+
+2138.6	prompt injection. They look at okay, did
+2140.7	
+
+2140.7	your Muse agent
+2142.3	
+
+2142.3	>> share something that that is kind of
+2143.7	
+
+2143.7	going out that um is not something that
+2146.3	
+
+2146.3	you might be comfortable with. If so,
+2148.2	
+
+2148.2	then the Sentinel agent is basically
+2149.9	
+
+2149.9	empowered to
+2151.8	
+
+2151.8	>> trigger this human in the loop review.
+2153.3	
+
+2153.4	So, if you're going to log into
+2154.7	
+
+2154.7	something, if you're going to do a
+2155.6	
+
+2155.6	payment, um if you're going to transfer
+2158.2	
+
+2158.2	um kind of sensitive information, you
+2161.4	
+
+2161.4	basically each time need to to approve
+2163.6	
+
+2163.6	it. And you can tell it I'm I'm good
+2165.3	
+
+2165.4	with with stuff like this in general,
+2166.9	
+
+2166.9	like always allow this kind of thing.
+2168.2	
+
+2168.2	But but in general, the Muse agent can't
+2170.5	
+
+2170.5	kind of make those judgments itself.
+2172.5	
+
+2172.5	It's and that's like built into the
+2173.9	
+
+2173.9	system
+2174.7	
+
+2174.7	>> and the architecture in a pretty deep
+2176.2	
+
+2176.2	way. And then even when we do things
+2178.2	
+
+2178.2	like you know all the connectors you
+2180.2	
+
+2180.2	connect it to your email um you know I I
+2183.2	
+
+2183.2	think some people when they've designed
+2184.6	
+
+2184.6	this they just kind of make it so okay
+2186.9	
+
+2187.0	you connect and now you have access to
+2188.3	
+
+2188.3	everything but the approach that we've
+2190.2	
+
+2190.2	taken is like all right if you connect
+2191.5	
+
+2191.5	to your email like it should start
+2194.6	
+
+2194.6	readon
+2195.8	
+
+2195.8	>> right and then if you want to like be
+2197.0	
+
+2197.0	able to have it send an email then fine
+2199.2	
+
+2199.2	like go ask it for that specifically
+2201.0	
+
+2201.0	right
+2201.4	
+
+2201.4	>> especially most people trying this have
+2202.7	
+
+2202.7	probably never tried a product like this
+2204.2	
+
+2204.2	so it's
+2204.6	
+
+2204.6	>> yeah so so this is like a core design
+2206.8	
+
+2206.8	principle for us is like is basically
+2209.7	
+
+2209.7	least privilege. Yeah. Right. So just
+2211.8	
+
+2211.8	like yes, you're going to ask it to do a
+2213.1	
+
+2213.1	lot of things and each step along the
+2214.4	
+
+2214.4	way get access to the least privilege
+2216.3	
+
+2216.3	that you need and only add to that as
+2218.1	
+
+2218.1	necessary. So I this is like very
+2220.6	
+
+2220.6	fundamental in the design of the
+2222.0	
+
+2222.0	product. And if you look at all the
+2223.1	
+
+2223.1	other agents that are out there, I think
+2224.9	
+
+2224.9	like no one else is anywhere close to
+2226.6	
+
+2226.6	the level of of kind of sophistication
+2228.6	
+
+2228.6	or depth that that we've built into
+2230.6	
+
+2230.6	this. And again, it's sort of informed
+2232.8	
+
+2232.8	by our experience building WhatsApp into
+2235.1	
+
+2235.1	this like state-of-the-art end encrypted
+2238.2	
+
+2238.2	system around the world and the
+2239.4	
+
+2239.4	importance of building a system where
+2240.6	
+
+2240.6	even Meta can't see the content and um
+2242.9	
+
+2242.9	so kind of getting the band back
+2244.1	
+
+2244.1	together and having Moxy like architect
+2246.6	
+
+2246.6	this has been I think one of the
+2248.1	
+
+2248.1	foundational things that in some ways it
+2250.1	
+
+2250.1	may not be what what some people would
+2252.1	
+
+2252.1	would think Meta would focus on but but
+2254.4	
+
+2254.4	like you know we're we're kind of you
+2256.2	
+
+2256.2	know it's interesting we're two things.
+2257.3	
+
+2257.4	I mean, social media is it's like not
+2259.7	
+
+2259.7	you it's inherently about sharing, but
+2261.3	
+
+2261.4	then there's all these other things that
+2262.4	
+
+2262.4	are inherently about kind of privacy and
+2264.8	
+
+2264.8	sensitive context, and we've done well
+2266.6	
+
+2266.6	at both of those. So, I think that this
+2268.2	
+
+2268.2	is this is more the latter. It's going
+2269.5	
+
+2269.5	to be very important to
+2270.7	
+
+2270.7	>> to just um be extremely focused on how
+2273.8	
+
+2273.8	we handle that that content.
+2276.0	
+
+2276.0	>> Mercury is a modern take on banking
+2278.2	
+
+2278.2	built for startups like mine. When I
+2280.0	
+
+2280.0	decided to start my media business,
+2281.5	
+
+2281.5	Mercury was by far the most
+2283.4	
+
+2283.4	straightforward, fullfeatured banking
+2285.5	
+
+2285.5	solution for me to set up quickly. The
+2287.7	
+
+2287.7	interface is intuitive and simple,
+2289.7	
+
+2289.7	saving me valuable time every day. I use
+2291.9	
+
+2291.9	Mercury to track my spending, bills, and
+2294.2	
+
+2294.2	invoicing. I love that I can delegate
+2296.4	
+
+2296.4	permissions to my team so they can keep
+2298.2	
+
+2298.2	things running for me in exactly the way
+2299.9	
+
+2299.9	I want them to. My favorite part is how
+2301.8	
+
+2301.8	forward-looking Mercury is with AI.
+2304.2	
+
+2304.2	Legacy banks are stuck in the past, but
+2306.6	
+
+2306.6	Mercury is built for how modern software
+2308.9	
+
+2309.0	works today. I use its built-in command
+2310.9	
+
+2311.0	assistant to analyze cash flow and help
+2313.1	
+
+2313.1	me move money. And Mercury also connects
+2315.3	
+
+2315.3	to other AI tools like ChatBT and
+2317.6	
+
+2317.6	Claude. I use this feature all the time,
+2319.3	
+
+2319.3	and the folks at Mercury actually let me
+2321.1	
+
+2321.1	know that I'm one of the top users of
+2322.6	
+
+2322.6	it. So, trust me, it's finally easy to
+2325.0	
+
+2325.0	get real time financial data about your
+2327.4	
+
+2327.4	business wherever you need it. Visit
+2329.3	
+
+2329.3	mercury.com to learn more and apply
+2331.5	
+
+2331.5	online in minutes. Mercury is a fintech
+2333.7	
+
+2333.7	company, not a FDIC insured bank.
+2335.6	
+
+2335.6	Banking services provided through Choice
+2337.3	
+
+2337.4	Financial Group and column NA members
+2339.4	
+
+2339.4	FDIC. I spend a lot of time context
+2342.0	
+
+2342.0	switching between meetings, often with
+2343.8	
+
+2343.8	no time to process one before the next
+2345.7	
+
+2345.7	starts. Thankfully, Granola runs in the
+2348.1	
+
+2348.1	background the whole time. It's an
+2349.4	
+
+2349.4	easytouse AI notepad for meetings that
+2351.6	
+
+2351.6	works everywhere, even on phone calls. I
+2353.8	
+
+2353.8	use Granola to recall what was said in
+2355.6	
+
+2355.6	meetings and create helpful summaries. I
+2357.7	
+
+2357.7	use it every day to stay on top of what
+2359.7	
+
+2359.7	I need to get done with my team. It
+2361.7	
+
+2361.7	connects to my email and suggests
+2363.1	
+
+2363.1	follow-ups for me to quickly review and
+2364.9	
+
+2364.9	send, saving me valuable time. Granola
+2367.3	
+
+2367.4	isn't just a core part of my workflow.
+2369.3	
+
+2369.3	It's basically my second brain. Try
+2371.1	
+
+2371.1	Granola at granola.ai/sources
+2374.0	
+
+2374.0	and use the promo code sources for 3
+2376.6	
+
+2376.6	months off. AI is only as useful as the
+2379.0	
+
+2379.0	context it has. But when that context is
+2381.2	
+
+2381.2	scattered across tools, threads, and
+2383.1	
+
+2383.1	DMs, your team and your AI agents are
+2385.8	
+
+2385.8	flying blind. That's the problem Jira by
+2388.1	
+
+2388.1	Atlassian solves. What's the goal tied
+2390.6	
+
+2390.6	to your project? What got decided last
+2392.6	
+
+2392.6	week in Slack DMs? At Lassian's teamwork
+2395.1	
+
+2395.1	graph pulls all of the valuable pieces
+2396.9	
+
+2397.0	together from Jira, Confluence, GitHub,
+2399.4	
+
+2399.4	Slack, and more, so nothing falls
+2401.2	
+
+2401.2	through the cracks. You get 44% more
+2403.3	
+
+2403.4	accurate results with 48% less token
+2406.0	
+
+2406.0	usage. With Jira, you can easily share
+2408.1	
+
+2408.1	your work context with the AI agents you
+2410.4	
+
+2410.4	already love, like Claude, Cursor, and
+2412.7	
+
+2412.7	GitHub Copilot. Assign them work
+2414.4	
+
+2414.4	directly or connect your tools through
+2416.3	
+
+2416.3	MCP. All of this lets you spend less
+2418.6	
+
+2418.6	time digging through endless links and
+2420.6	
+
+2420.6	messages, chasing down what got decided
+2422.8	
+
+2422.8	and by who, and spend more time actually
+2425.2	
+
+2425.2	shipping. Learn more at jira.com. That's
+2428.0	
+
+2428.0	jir.com.
+2430.3	
+
+2430.3	Framer is the AI website builder that
+2432.2	
+
+2432.2	brings agents into the same canvas where
+2434.3	
+
+2434.3	your website is designed, managed, and
+2436.5	
+
+2436.5	published so you can move faster without
+2438.6	
+
+2438.6	giving up your taste or control. Framer
+2440.9	
+
+2440.9	powers the sources podcast website at
+2443.0	
+
+2443.0	podcast.sources.news news where you can
+2445.3	
+
+2445.4	find new episodes, transcripts, and a
+2447.5	
+
+2447.5	lot more. Learn how you can get more out
+2449.5	
+
+2449.5	of your site from a Framer specialist or
+2451.9	
+
+2451.9	get started building for free today at
+2453.9	
+
+2453.9	framer.com/sources
+2456.1	
+
+2456.1	for 30% off a Framer Pro annual plan.
+2458.9	
+
+2459.0	That's framer.com/sources
+2461.3	
+
+2461.3	for 30% off. framer.com/sources.
+2465.0	
+
+2465.0	Rules and restrictions may apply. Do you
+2467.3	
+
+2467.4	think this is a winner take all market,
+2469.2	
+
+2469.2	this personal agent market? I I think
+2472.6	
+
+2472.6	that there's going to be
+2474.2	
+
+2474.2	>> quite a bit. I mean, even things that
+2475.9	
+
+2475.9	people think are winner take all usually
+2478.0	
+
+2478.0	aren't. So, I think it's um I think
+2480.2	
+
+2480.2	that's
+2480.9	
+
+2480.9	>> because you've dealt in this business of
+2482.2	
+
+2482.2	network effects that they're incredibly
+2484.0	
+
+2484.0	durable. It's not winner or take all,
+2485.7	
+
+2485.7	but it ends up being several at real
+2487.8	
+
+2487.8	scale. There's not a ton.
+2489.8	
+
+2489.8	>> Well, there's a lot. I mean, there's
+2491.2	
+
+2491.2	>> Yeah, you could probably count on two
+2492.3	
+
+2492.3	hands how many products have over two
+2493.9	
+
+2493.9	billion users, right? Like, it's the
+2495.4	
+
+2495.4	scale beget scale. And I'm wondering if
+2497.6	
+
+2497.6	how you're thinking about like personal
+2499.4	
+
+2499.4	a agents like is this a totally
+2502.0	
+
+2502.0	different paradigm where it's going to
+2504.1	
+
+2504.1	be many everyone has agent.
+2506.5	
+
+2506.5	>> It's a very deep area to work in.
+2508.6	
+
+2508.6	>> Yeah.
+2509.0	
+
+2509.0	>> So my guess is that there probably
+2511.6	
+
+2511.6	aren't going to be more than a dozen
+2514.2	
+
+2514.2	companies that have the sophistication
+2515.9	
+
+2515.9	to go do state-of-the-art work in that.
+2517.8	
+
+2517.8	So I think you know whether there are
+2519.2	
+
+2519.2	network effects or not there's usually
+2520.6	
+
+2520.6	some kind of power law uh like
+2522.5	
+
+2522.5	distribution around if you're the best
+2525.1	
+
+2525.1	at something usually you end up getting
+2526.7	
+
+2526.7	a a lot of the usage.
+2528.4	
+
+2528.4	>> Um and I think a lot of the nuance ends
+2530.9	
+
+2530.9	up coming from well there are
+2533.2	
+
+2533.2	>> it turns out there there are all these
+2534.4	
+
+2534.4	different uses that people care about.
+2535.7	
+
+2535.7	So you can be the best at different
+2537.1	
+
+2537.1	things. Um and we will try to be the
+2540.2	
+
+2540.2	best at as many of these things as
+2541.9	
+
+2541.9	possible. But, you know, does building
+2545.2	
+
+2545.2	the thing that helps you with your
+2546.4	
+
+2546.4	relationships end up being a somewhat
+2548.6	
+
+2548.6	different thing than the personal agent
+2551.8	
+
+2551.8	that is the best at helping you build a
+2553.3	
+
+2553.3	small business? Maybe.
+2555.0	
+
+2555.0	>> Mhm.
+2555.3	
+
+2555.4	>> I mean, I think that I could argue maybe
+2557.0	
+
+2557.0	Meta's very well positioned to win at
+2559.0	
+
+2559.0	both of those. I mean, we serve hundreds
+2560.2	
+
+2560.2	of millions of small of small businesses
+2562.7	
+
+2562.7	>> and we serve billions of people. So, so
+2565.0	
+
+2565.0	maybe we can be the best at both of
+2566.6	
+
+2566.6	those things, but there are probably
+2568.2	
+
+2568.2	categories that Meta isn't going to be
+2570.0	
+
+2570.0	the best at. And then the question is
+2571.8	
+
+2571.8	just how big are those? I would guess
+2573.8	
+
+2573.8	that even with the ability to have this
+2576.3	
+
+2576.3	like very secure confidential VM in the
+2579.1	
+
+2579.1	cloud, there are probably going to be
+2580.2	
+
+2580.2	some people who still want the the Mac
+2581.8	
+
+2581.8	Studio at home, but but how many is that
+2584.1	
+
+2584.1	going to be, right? It'll be like maybe
+2586.1	
+
+2586.1	it's millions, but I doubt it's
+2587.6	
+
+2587.6	billions. Yeah.
+2588.5	
+
+2588.5	>> So, it's just I think there's just the
+2589.8	
+
+2589.8	question of like
+2590.9	
+
+2590.9	>> what different people optimize for and
+2592.6	
+
+2592.6	we'll try to make this as good as
+2594.0	
+
+2594.0	possible. But I do think that if we
+2596.0	
+
+2596.0	build something that ends up being um
+2599.0	
+
+2599.0	just uh very useful for you know people
+2602.9	
+
+2603.0	generally in their day-to-day lives, one
+2604.9	
+
+2605.0	of the things that I think Meta is the
+2606.3	
+
+2606.3	best at is taking a product that works
+2609.1	
+
+2609.1	for consumers and distributing it to a
+2610.9	
+
+2610.9	lot of people.
+2611.4	
+
+2611.4	>> Sure.
+2611.8	
+
+2611.8	>> So that is is one that I think is um you
+2614.8	
+
+2614.8	know once we get this humming um I think
+2617.6	
+
+2617.6	we will be able to get this in front of
+2619.7	
+
+2619.7	you know many hundreds of millions of
+2621.0	
+
+2621.0	people and eventually billions of
+2622.3	
+
+2622.3	people. And I think that that's
+2623.7	
+
+2623.7	something that that that we can do quite
+2625.2	
+
+2625.2	well
+2625.5	
+
+2625.5	>> and it coexists with meta AI or do you
+2627.7	
+
+2627.7	see those as separate?
+2628.9	
+
+2628.9	>> I think so. Um we'll see over time. I
+2631.8	
+
+2631.8	think right now they have somewhat
+2633.6	
+
+2633.6	different flavors. I mean I use both of
+2635.6	
+
+2635.6	them. I mean Muse is uh you know it's
+2639.6	
+
+2639.6	more conversational and it kind of
+2641.5	
+
+2641.5	interprets the questions that you ask it
+2644.5	
+
+2644.5	more as trying to understand you and
+2647.3	
+
+2647.4	what you might want over the long term.
+2648.9	
+
+2648.9	So it's more likely if you ask it
+2650.2	
+
+2650.2	something for it to just go off and work
+2651.5	
+
+2651.5	on a thing for a long time based on a
+2654.2	
+
+2654.2	thing that you said where sometimes you
+2656.6	
+
+2656.6	you sometimes you're just asking a
+2658.5	
+
+2658.5	question right and you want like a very
+2660.2	
+
+2660.2	like an answer to it and
+2663.0	
+
+2663.0	>> um so I think that's more the type of
+2665.4	
+
+2665.4	thing that I use met Aai for but okay
+2667.5	
+
+2667.5	>> um but we'll see maybe they'll they'll
+2669.3	
+
+2669.3	converge over time but but I'm I'm not
+2671.0	
+
+2671.0	sure
+2671.3	
+
+2671.3	>> sim analysis I'm not sure if you saw it
+2673.0	
+
+2673.0	they had a pretty bullish piece about
+2675.0	
+
+2675.0	you in July um they said that Meta has
+2677.7	
+
+2677.7	the best shot at catching open AI and
+2679.8	
+
+2679.8	anthropic on the frontier in terms of
+2681.3	
+
+2681.3	model progress and um interesting quote
+2683.6	
+
+2683.6	I thought it was like what matters for
+2685.1	
+
+2685.1	MSL is the slope not the intercept and
+2687.9	
+
+2687.9	then I saw there's this recent chart by
+2689.7	
+
+2689.7	artificial analysis which was showing
+2691.9	
+
+2691.9	the latest model you guys have muse
+2693.9	
+
+2693.9	spark behind only claude I think it was
+2696.0	
+
+2696.0	fable 5.1 and opus 5 this was very
+2698.6	
+
+2698.6	recent
+2699.4	
+
+2699.4	>> so the progress you guys are making on
+2701.3	
+
+2701.3	the models is is picking up
+2703.2	
+
+2703.2	>> and we've been talking about this over
+2704.5	
+
+2704.5	the last year
+2705.6	
+
+2705.6	>> and you rebooted the lab last year How
+2707.9	
+
+2707.9	has that practically happened
+2708.9	
+
+2709.0	internally? Like what would you
+2710.1	
+
+2710.1	attribute the the gains you're seeing
+2712.2	
+
+2712.2	to?
+2713.8	
+
+2713.8	>> Has it been culture? Like what what's
+2715.8	
+
+2715.8	>> Yeah, I mean well we rebooted the team
+2717.2	
+
+2717.2	when we created
+2718.8	
+
+2718.8	>> which is was very public. You were
+2720.2	
+
+2720.2	hiring all those people.
+2721.4	
+
+2721.4	>> I mean the way I I thought about this is
+2723.5	
+
+2723.5	you know Meta is it's a company that is
+2727.2	
+
+2727.2	a leader in machine learning for a long
+2729.6	
+
+2729.6	time. If you think about like the feeds
+2731.8	
+
+2731.8	on Facebook or Instagram or our ad
+2733.7	
+
+2733.7	system or the integrity system that like
+2736.1	
+
+2736.1	needs to find all this content that is
+2738.6	
+
+2738.6	that's like unfit to be on the internet.
+2741.0	
+
+2741.0	I mean those are basically all machine
+2742.5	
+
+2742.5	learning systems and we've built kind of
+2744.2	
+
+2744.2	state-of-the-art leading systems in
+2745.7	
+
+2745.7	those areas. So when LLM's started
+2750.6	
+
+2750.6	um gaining traction, we had fair as a
+2753.7	
+
+2753.7	lab that did the early work on llama,
+2755.6	
+
+2755.6	but we needed to kind of productionize
+2757.3	
+
+2757.4	that and build it into these this more
+2759.5	
+
+2759.5	kind of industrial process for um
+2762.6	
+
+2762.6	scaling it to be larger as the scaling
+2764.6	
+
+2764.6	laws predicted would would yield all
+2766.5	
+
+2766.5	these results. And I think at the time I
+2769.2	
+
+2769.2	made this mistake of just kind of
+2772.3	
+
+2772.3	assuming that because we were good at
+2774.6	
+
+2774.6	all these other types of machine
+2775.8	
+
+2775.8	learning the approach of building and
+2778.5	
+
+2778.5	scaling LLMs would be kind of similar to
+2780.5	
+
+2780.5	that.
+2781.2	
+
+2781.2	>> And in practice there are a lot of very
+2784.2	
+
+2784.2	different dynamics. So the first
+2786.4	
+
+2786.4	approach that we took you know through
+2789.3	
+
+2789.3	llama 4 it got us you know so far. I
+2791.8	
+
+2791.8	mean llama 3 was a good model. I was
+2793.7	
+
+2793.7	more optimistic about where Llama 4
+2795.3	
+
+2795.4	would go and then it just it um you know
+2797.3	
+
+2797.4	when we launched that I think it we were
+2799.3	
+
+2799.3	off the trajectory that we needed to be
+2800.8	
+
+2800.8	on. So it's like okay we need to we need
+2802.6	
+
+2802.6	to change something. But that's when I
+2805.4	
+
+2805.4	kind of got more religion around talent
+2809.6	
+
+2809.6	density right it's like this isn't just
+2811.3	
+
+2811.4	a system where you can have you know
+2814.5	
+
+2814.5	like a thousand people working on it
+2816.3	
+
+2816.3	running experiments. like you really
+2817.8	
+
+2817.8	just kind of want in some ways almost
+2819.3	
+
+2819.4	the smallest group of people that you
+2821.4	
+
+2821.4	can who can keep the thing in their head
+2823.8	
+
+2823.8	um who can work together as sort of like
+2825.3	
+
+2825.3	a group science project and you know if
+2827.9	
+
+2827.9	there's only a small number of seats on
+2829.5	
+
+2829.5	the team then you know each seat getting
+2831.5	
+
+2831.5	the very best person is incredibly
+2833.3	
+
+2833.3	important so I ended up spending a huge
+2835.7	
+
+2835.7	amount of my own personal time um doing
+2838.1	
+
+2838.1	that and I also I wanted to be closer
+2841.1	
+
+2841.1	technically to the work um so that way I
+2843.6	
+
+2843.6	could I could understand and help guide
+2845.7	
+
+2845.7	u the company to to do the things that
+2847.6	
+
+2847.6	we need to do more broadly. So, we built
+2849.6	
+
+2849.6	out the lab. I built it out like
+2850.9	
+
+2851.0	literally around where I sit in the the
+2852.9	
+
+2853.0	office. So, it's like the group is kind
+2854.5	
+
+2854.5	of around that. And we've significantly
+2857.3	
+
+2857.4	ramped up um the compute investments as
+2860.2	
+
+2860.2	we've gained confidence in the quality
+2861.6	
+
+2861.6	of the work that we're doing. So, we're
+2862.9	
+
+2862.9	building out you know many many
+2864.4	
+
+2864.4	gigawatts of of of compute and you know
+2866.6	
+
+2866.6	we expect to be leaders on on that
+2868.9	
+
+2869.0	front. Um, and we should be I mean we
+2870.6	
+
+2870.6	have many years of experience um decades
+2872.9	
+
+2873.0	of experience building out data centers
+2875.1	
+
+2875.1	and unlike some of the other labs I mean
+2877.1	
+
+2877.1	we're just like we're extremely
+2879.5	
+
+2879.5	profitable business right so it's um
+2882.2	
+
+2882.2	>> yeah so it's very very helpful for for
+2884.5	
+
+2884.5	kind of making these kind of um
+2886.3	
+
+2886.3	investments so yeah so I mean that's
+2888.7	
+
+2888.7	kind of been the journey and then over
+2890.5	
+
+2890.5	the last year
+2891.8	
+
+2891.9	>> [snorts]
+2892.1	
+
+2892.1	>> um you know we we rebooted the research
+2894.6	
+
+2894.6	effort um some of the larger clusters
+2897.6	
+
+2897.6	like our you know gigawatt cluster in in
+2900.2	
+
+2900.2	Ohio. Prometheus came online and you
+2902.9	
+
+2903.0	know we're using that to now scale the
+2905.1	
+
+2905.1	postwatermelon models. Um
+2907.3	
+
+2907.4	>> we're past watermelon.
+2908.8	
+
+2908.8	>> Watermelon is is basically that's that's
+2910.9	
+
+2910.9	shipping soon. So so we're yeah um I
+2913.3	
+
+2913.4	mean that's come on [laughter]
+2916.2	
+
+2916.2	it's we're uh
+2917.7	
+
+2917.7	>> well watermelon is the code and we were
+2919.3	
+
+2919.3	talking about this earlier code names
+2920.5	
+
+2920.6	like that's the code name you guys that
+2922.0	
+
+2922.0	people know about like this big model
+2923.7	
+
+2923.7	you guys are working on
+2925.3	
+
+2925.3	>> and and and
+2927.2	
+
+2927.2	are coming soon. It is bigger than
+2928.5	
+
+2928.5	avocado.
+2929.0	
+
+2929.0	>> It is bigger than a watermelon is
+2930.9	
+
+2931.0	literally bigger than an avocado.
+2932.2	
+
+2932.2	>> It is literally bigger.
+2933.3	
+
+2933.4	>> Um so I don't know what fruit gets
+2934.7	
+
+2934.7	bigger than a watermelon.
+2935.9	
+
+2935.9	>> Yeah. No, I think we might need to
+2937.4	
+
+2937.4	change conventions.
+2938.4	
+
+2938.4	>> Okay. Um [laughter]
+2940.9	
+
+2940.9	>> so yeah, we maybe didn't have as much
+2942.9	
+
+2943.0	foresight in and name
+2944.5	
+
+2944.5	>> things getting bigger. Um because you
+2946.8	
+
+2946.8	mentioned it watermelon. Are you
+2948.7	
+
+2948.7	expecting full soda like uh Frontier
+2952.9	
+
+2952.9	like what do we
+2954.1	
+
+2954.1	>> I I mean I we feel good about it.
+2955.9	
+
+2955.9	>> Yeah. Um, no, it's it's a very big
+2957.6	
+
+2957.6	advance. It's a it's a significantly
+2959.7	
+
+2959.7	more advanced pre-train and then we're
+2962.2	
+
+2962.2	going to continue doing everything that
+2963.8	
+
+2963.8	we've learned for post-training and um
+2966.3	
+
+2966.3	yeah, well, I mean, you'll see soon.
+2967.8	
+
+2967.8	>> It's good. It's um we we feel we feel
+2969.9	
+
+2969.9	good about it. Um
+2971.8	
+
+2971.8	>> you want the company to be pushing the
+2973.9	
+
+2973.9	frontier. It's very clear like you're
+2975.4	
+
+2975.4	not you're not content being right on
+2977.5	
+
+2977.5	the edge of the frontier or in terms of
+2980.3	
+
+2980.3	>> I think everyone wants to be doing
+2981.7	
+
+2981.7	>> Yeah.
+2982.2	
+
+2982.2	>> interesting. Well, I think some people
+2983.7	
+
+2983.7	will go and look at your cash flow and
+2985.0	
+
+2985.0	look at all the other things you've got
+2986.1	
+
+2986.1	and go like, "Well, do you have to be
+2987.3	
+
+2987.4	like right at the edge? It's so
+2988.5	
+
+2988.5	expensive to do this training." Like
+2990.1	
+
+2990.1	just like be right behind and learn and
+2992.0	
+
+2992.0	adapt quickly and leverage.
+2994.0	
+
+2994.0	>> Well, the way I think about it, no, no,
+2995.7	
+
+2995.7	no. I I mean, that's not that's not
+2997.7	
+
+2997.7	that's not us. Um,
+2999.0	
+
+2999.0	>> I mean, I think that the best way to
+3000.2	
+
+3000.2	think about Meta is that we are an
+3002.0	
+
+3002.0	endto-end technology company, right? So,
+3004.3	
+
+3004.3	even when we were, you know, primarily
+3006.6	
+
+3006.6	just building social apps, you know, we
+3010.5	
+
+3010.6	were never just an app maker, right?
+3011.9	
+
+3011.9	Right? I mean, we built like we built
+3013.7	
+
+3013.7	the data centers, we built the chips, we
+3015.3	
+
+3015.3	built the infrastructure, we built like
+3016.6	
+
+3016.6	all of this stuff was necessary in order
+3019.0	
+
+3019.0	to tune the end experience to be as good
+3022.2	
+
+3022.2	as it is. I think that that's obviously
+3024.1	
+
+3024.1	going to be true here too. And the most
+3026.4	
+
+3026.4	important part of the experience going
+3027.8	
+
+3027.8	forward is the model. And when you talk
+3030.2	
+
+3030.2	about being state-of-the-art,
+3032.1	
+
+3032.1	I think the reality is that
+3034.3	
+
+3034.3	>> there's this is a very multi-dimensional
+3036.3	
+
+3036.3	problem. And I mean, so people publish
+3038.0	
+
+3038.0	all these benchmarks, then you have a
+3039.3	
+
+3039.3	lot more benchmarks even internally. And
+3041.8	
+
+3041.8	um there are different things that your
+3044.0	
+
+3044.0	model can be better and worse at that
+3046.2	
+
+3046.2	you can focus on and that basically
+3047.8	
+
+3047.8	contributes to its personality. And
+3050.3	
+
+3050.3	there are some um capabilities that I
+3053.1	
+
+3053.1	think are pretty universal like the
+3054.5	
+
+3054.6	ability to code I think is very
+3056.1	
+
+3056.1	important because a lot of the things
+3057.6	
+
+3057.6	that you talk about even with the
+3058.9	
+
+3058.9	personal agent kind of reduced to that
+3061.3	
+
+3061.3	like the the kind of MMA coaching visual
+3063.8	
+
+3063.8	pipeline it is a coding project right at
+3065.9	
+
+3065.9	the end of the day right it's like it's
+3066.9	
+
+3067.0	writing code I don't see the code
+3068.9	
+
+3068.9	>> um but it it it does that um you know
+3071.4	
+
+3071.4	it's like uh
+3072.8	
+
+3072.8	>> you know someone I gave it to in beta
+3074.5	
+
+3074.6	just mentioned to me it's like okay she
+3076.9	
+
+3076.9	um had it make a little Jeopardy game
+3079.8	
+
+3079.8	for her friends that she could like cast
+3082.5	
+
+3082.6	from her phone to play and it just okay
+3084.8	
+
+3084.8	that's code right so so there's a bunch
+3086.6	
+
+3086.6	of stuff
+3087.4	
+
+3087.4	>> both for Meta's own internal development
+3090.1	
+
+3090.1	across the company for our own advancing
+3092.1	
+
+3092.1	of our research program and as a core
+3094.3	
+
+3094.3	capability of what it needs to do it
+3095.7	
+
+3095.7	needs to be excellent at things like
+3096.9	
+
+3096.9	that but then there are other things
+3099.3	
+
+3099.3	that I think a model that's going to
+3101.8	
+
+3101.8	focus on personal super intelligence
+3103.5	
+
+3103.5	needs to be the best at that maybe
+3105.3	
+
+3105.4	others don't care as much about so I
+3107.9	
+
+3107.9	mean I'll give you one example
+3109.3	
+
+3109.3	um discretion, right? So, you're going
+3112.0	
+
+3112.0	to tell your Muse agent,
+3114.2	
+
+3114.2	>> it's going to know a bunch about you and
+3116.4	
+
+3116.4	it's going to need to go out into the
+3117.4	
+
+3117.4	world and interact to get stuff done for
+3118.9	
+
+3118.9	you,
+3119.3	
+
+3119.3	>> but not share certain stuff.
+3120.8	
+
+3120.8	>> Exactly.
+3121.3	
+
+3121.4	>> Yeah.
+3121.8	
+
+3121.8	>> So, like let's say you have some kind of
+3123.6	
+
+3123.6	allergy or sensitivity or um you know,
+3127.8	
+
+3127.8	you're pregnant and like okay, fine. So,
+3130.0	
+
+3130.0	you're making a reservation somewhere.
+3131.9	
+
+3131.9	You don't necessarily want to say like
+3133.0	
+
+3133.0	I'm pregnant, but like but maybe you
+3134.5	
+
+3134.5	want a place that has good mocktails.
+3136.5	
+
+3136.6	Like I I don't know what whatever it is,
+3138.1	
+
+3138.1	right? like you you kind of want to be
+3139.9	
+
+3139.9	able to achieve your goals without
+3143.0	
+
+3143.0	having to necessarily reveal a lot about
+3145.6	
+
+3145.6	yourself and it needs to know what is
+3147.8	
+
+3147.8	sensitive without having to like ask you
+3149.5	
+
+3149.5	a million questions.
+3150.5	
+
+3150.5	>> So that's something you put into the
+3151.6	
+
+3151.6	training.
+3152.4	
+
+3152.4	>> That's a specific thing that we care
+3153.6	
+
+3153.6	about. And and then there's all these
+3155.2	
+
+3155.2	reasons why like maybe you know if
+3157.4	
+
+3157.4	you're making clawed code that's less
+3159.4	
+
+3159.4	important, right?
+3160.8	
+
+3160.8	you're like you're working on a coding
+3163.6	
+
+3163.6	project and you're working within a team
+3165.4	
+
+3165.4	and an enterprise and you know
+3167.6	
+
+3167.6	theoretically like if you're within a
+3169.2	
+
+3169.2	company everyone can kind of see the
+3170.4	
+
+3170.4	project. So like it's you don't kind of
+3172.5	
+
+3172.6	have that need to be able to
+3174.7	
+
+3174.7	differentiate between what is sensitive
+3176.4	
+
+3176.4	and what's not. And so there's a lot of
+3178.6	
+
+3178.6	stuff like that that I think are like
+3180.3	
+
+3180.3	pretty deep. And so then it's it's kind
+3182.8	
+
+3182.8	of like just how in order to build the
+3184.5	
+
+3184.5	best Instagram feed, you don't just
+3186.2	
+
+3186.2	build like the app. You build the app
+3188.6	
+
+3188.6	and the infrastructure and the machine
+3190.3	
+
+3190.3	learning research and the chips and the
+3192.2	
+
+3192.2	like all the stuff. I think similarly,
+3194.3	
+
+3194.3	if you want to build the best personal
+3195.6	
+
+3195.6	agent, you're like I just think that
+3198.0	
+
+3198.0	there's no way that another company is
+3200.3	
+
+3200.3	just going to like take something off
+3201.6	
+
+3201.6	the shelf and like post-train it a
+3204.4	
+
+3204.4	little bit and be able to do something
+3205.8	
+
+3205.8	that is as good as if you designed it
+3208.0	
+
+3208.0	from the ground up and put all this data
+3210.1	
+
+3210.1	into pre-training to get the
+3211.4	
+
+3211.4	capabilities that you want. It's just
+3213.0	
+
+3213.0	like it's not going to happen. like
+3214.8	
+
+3214.8	we're gonna like definitely as this
+3216.8	
+
+3216.8	compounds over time over several years
+3219.3	
+
+3219.3	have um models that are way more capable
+3222.6	
+
+3222.6	for those goals. But we're focused on
+3225.3	
+
+3225.4	that. We're also very focused on coding.
+3227.4	
+
+3227.4	We're very focused on on kind of um the
+3230.3	
+
+3230.3	recursive improvement because that's
+3231.8	
+
+3231.8	going to be important to stay at the
+3232.8	
+
+3232.8	frontier. So there are a few areas that
+3235.0	
+
+3235.0	I'd say our research agenda is
+3237.3	
+
+3237.3	overlapping with the other labs. And
+3238.9	
+
+3239.0	then there's a few areas where I think
+3240.9	
+
+3240.9	we will have a unique focus and there
+3242.8	
+
+3242.8	may be some things that the other labs
+3244.2	
+
+3244.2	care about that we don't care about as
+3246.0	
+
+3246.0	much.
+3246.7	
+
+3246.7	>> Um and then there are going to be things
+3247.8	
+
+3247.8	that we care about more that they don't
+3248.9	
+
+3249.0	care about.
+3249.4	
+
+3249.4	>> You started this conversation talking
+3251.0	
+
+3251.0	about I think it's important to put it
+3252.4	
+
+3252.4	in the hands of people. Diffusion is
+3253.9	
+
+3253.9	important as you're seeing better models
+3256.5	
+
+3256.6	on the horizon. watermelon and what
+3258.2	
+
+3258.2	comes after like what Anthropic and
+3261.0	
+
+3261.0	OpenAI are doing which you alluded to
+3262.7	
+
+3262.7	where they're holding things back.
+3264.2	
+
+3264.2	>> Yeah.
+3264.5	
+
+3264.6	>> Um would you feel like you need to do
+3267.1	
+
+3267.1	that if you see certain capabilities
+3268.8	
+
+3268.8	that you're like this is just not safe?
+3271.2	
+
+3271.2	>> How do you think about that?
+3272.2	
+
+3272.2	>> Well, I mean I think you should design
+3273.6	
+
+3273.6	it and train it in order to be safe and
+3276.3	
+
+3276.3	I I think that there's so I think that
+3277.9	
+
+3277.9	that's like a thing that you can focus
+3279.4	
+
+3279.4	on through the process. I mean there's
+3281.8	
+
+3281.8	this anal I mean some of the reward
+3283.3	
+
+3283.4	hacking stuff that all the labs are
+3285.1	
+
+3285.1	seeing it's I mean basically when you're
+3287.8	
+
+3287.8	in the middle of the training process
+3290.1	
+
+3290.1	you give it a goal and I think that the
+3292.2	
+
+3292.2	best way to kind of think about like the
+3295.0	
+
+3295.0	state that the models are at now is that
+3297.5	
+
+3297.5	you know maybe six months ago like
+3299.6	
+
+3299.6	during training you give the the model
+3301.4	
+
+3301.4	some kind of problem that you're trying
+3303.8	
+
+3303.8	to ask it to solve. that's kind of like
+3305.0	
+
+3305.0	its homework and and trying to to kind
+3306.9	
+
+3306.9	of learn as part of the curriculum. And
+3309.5	
+
+3309.5	um you know maybe it would do what the a
+3312.2	
+
+3312.2	person would do of like if you you ask
+3314.9	
+
+3314.9	it you you give it a bunch of code and
+3316.8	
+
+3316.8	you're like hey there's a bug like
+3317.9	
+
+3317.9	somewhere here. The person would
+3319.3	
+
+3319.4	probably like look at the code right
+3321.3	
+
+3321.3	there and you know then maybe like fan
+3323.2	
+
+3323.2	out over time. I think like the new
+3325.2	
+
+3325.2	models are just intelligent enough that
+3327.7	
+
+3327.7	they would do what I think a very wise
+3329.5	
+
+3329.5	person would do which is okay you give
+3332.0	
+
+3332.0	it a problem the first thing it's going
+3334.0	
+
+3334.0	to do is like understand everything
+3335.7	
+
+3335.7	about its environment and then answer
+3339.3	
+
+3339.3	your question but the problem with the
+3341.4	
+
+3341.4	reward hacking that we're seeing and
+3343.5	
+
+3343.5	that that I think everyone is seeing is
+3345.3	
+
+3345.4	that sometimes it ends up being easier
+3347.4	
+
+3347.4	to okay you asked me to like go solve
+3349.3	
+
+3349.3	some coding problem but actually the
+3352.2	
+
+3352.2	easiest way to do that is to I've now
+3355.0	
+
+3355.0	examined the whole environment and the
+3357.1	
+
+3357.1	easiest way to do this is just change
+3358.5	
+
+3358.5	this configuration of like how you have
+3360.3	
+
+3360.3	your VM set up
+3361.4	
+
+3361.4	>> to get out to hack out
+3362.7	
+
+3362.7	>> or or even just to change something
+3364.1	
+
+3364.1	about the environment and it's kind of
+3365.6	
+
+3365.6	like no like that's not
+3367.3	
+
+3367.4	>> that's not aligned
+3368.1	
+
+3368.1	>> that's not that's not the goal like that
+3370.0	
+
+3370.0	we're actually trying to teach you about
+3371.5	
+
+3371.5	how to how to kind of solve a specific
+3373.9	
+
+3373.9	type of problem
+3375.1	
+
+3375.1	>> you guys don't train that way it sounds
+3376.5	
+
+3376.5	like is that is it you do not agree with
+3378.2	
+
+3378.2	that approach
+3378.9	
+
+3378.9	>> no no no I think that that's that's
+3380.2	
+
+3380.2	that's kind of how everyone trains I
+3381.9	
+
+3381.9	guess what I'm saying is that I think
+3382.9	
+
+3383.0	that this sort of it's like I want to be
+3385.4	
+
+3385.4	careful because the the analogy can get
+3387.1	
+
+3387.1	stretched pretty quickly but like there
+3389.0	
+
+3389.0	is sort of like an analogy to parenting
+3391.3	
+
+3391.4	where you need to establish clear and
+3393.5	
+
+3393.5	firm boundaries where like if you're
+3395.9	
+
+3395.9	kind of like security is not strong then
+3398.8	
+
+3398.8	it can do this reward hacking stuff and
+3401.3	
+
+3401.3	not learn the thing that you're trying
+3402.4	
+
+3402.4	to have it learn. Um whereas if you kind
+3404.7	
+
+3404.7	of have good boundaries then in some
+3406.7	
+
+3406.7	ways you're not only teaching it the
+3408.4	
+
+3408.4	curriculum that you want you're I think
+3409.9	
+
+3409.9	also over time teaching it better values
+3412.4	
+
+3412.4	too. M so I I kind of think that that
+3415.3	
+
+3415.4	ends up being an important piece and I
+3417.3	
+
+3417.4	think that there's a way to do this well
+3418.9	
+
+3419.0	but then you end up with this thing at
+3420.9	
+
+3420.9	the end that's very intelligent and then
+3422.8	
+
+3422.8	the question is what is your what is the
+3425.3	
+
+3425.4	vision for for how this ends up being
+3427.2	
+
+3427.2	positive for society and my view for
+3430.9	
+
+3430.9	that is that the best way to do that is
+3432.9	
+
+3433.0	a there's more opportunity so I think
+3435.3	
+
+3435.3	like like having it in people's hands
+3436.9	
+
+3437.0	that they can get uh like capture all
+3438.9	
+
+3438.9	the opportunity from the capabilities is
+3440.5	
+
+3440.5	good and b is having checks and balances
+3443.3	
+
+3443.3	by having this balance of power of
+3444.6	
+
+3444.6	having it widely available is going to
+3446.7	
+
+3446.7	be um uh probably the right way to
+3449.8	
+
+3449.8	handle this rather than just restricting
+3451.8	
+
+3451.8	it. And I mean I gave a bunch of these
+3453.3	
+
+3453.4	analogies in the in the long piece that
+3454.9	
+
+3454.9	I wrote. It's like if one person had a
+3456.7	
+
+3456.7	super intelligent lawyer like maybe they
+3459.4	
+
+3459.4	could win cases that they shouldn't be
+3461.4	
+
+3461.4	able to win right some of the time. But
+3463.8	
+
+3463.8	if everyone had a super intelligent
+3465.3	
+
+3465.4	lawyer, then like it would be kind of it
+3469.3	
+
+3469.4	it would be this very efficient kind of
+3471.8	
+
+3471.8	sparring and no one would be able to let
+3473.9	
+
+3473.9	like a stupid argument get get um get
+3476.9	
+
+3476.9	made and just stand. So you'd think that
+3478.9	
+
+3478.9	in that case like justice would be
+3480.5	
+
+3480.5	served way more efficiently and way more
+3482.3	
+
+3482.3	fairly. So I think that's what you want
+3485.0	
+
+3485.0	to have in the world. You want to avoid
+3487.9	
+
+3487.9	the case where like one person or a
+3489.8	
+
+3489.8	small number of people have the super
+3491.8	
+
+3491.8	intelligent lawyer and everyone else
+3493.2	
+
+3493.2	doesn't because that ends up being like
+3495.6	
+
+3495.6	twisting all of these systems and
+3497.1	
+
+3497.1	institutions in ways that are just going
+3500.2	
+
+3500.2	to advantage the people who have that.
+3501.9	
+
+3501.9	Whereas if you put it in everyone's
+3503.3	
+
+3503.3	hands then I think the the kind of
+3505.2	
+
+3505.2	checks and balances work out so that the
+3507.3	
+
+3507.4	systems work a lot more efficiently and
+3508.8	
+
+3508.8	everyone benefits.
+3509.6	
+
+3509.6	>> Does the government in the US have any
+3511.5	
+
+3511.5	role to play here? Do you think is this?
+3513.4	
+
+3513.4	>> Oh definitely. like but do you want some
+3515.5	
+
+3515.5	kind of national framework? Do you like
+3518.0	
+
+3518.0	what do you think is the right approach
+3519.4	
+
+3519.4	because every the government's very much
+3520.9	
+
+3520.9	dealing with this right now.
+3522.2	
+
+3522.2	>> My theory on this is that I I think one
+3524.5	
+
+3524.6	thing that is interesting and difficult
+3526.3	
+
+3526.3	is that it's evolving so quickly. So I
+3529.1	
+
+3529.1	think any kind of specific rigid
+3531.9	
+
+3531.9	framework that you put in place there is
+3534.1	
+
+3534.1	a very high chance that it is sort of
+3536.8	
+
+3536.8	going to not be sufficient or out of
+3539.3	
+
+3539.3	date in a few months anyway. So our
+3542.6	
+
+3542.6	approach, what we've just done is just
+3544.5	
+
+3544.5	kind of partner pretty closely with the
+3546.0	
+
+3546.0	government, right? I think it's this is
+3547.8	
+
+3547.8	like an important technology. I think
+3549.6	
+
+3549.6	the government should know all the
+3551.1	
+
+3551.1	important training runs that are
+3552.3	
+
+3552.3	happening. Um we should work with the
+3554.7	
+
+3554.7	government proactively um to make sure
+3556.8	
+
+3556.8	that they have an understanding of the
+3558.2	
+
+3558.2	capabilities that are coming and to the
+3560.5	
+
+3560.5	extent that that that we can we kind of
+3562.7	
+
+3562.7	help prepare for it. And from that
+3565.2	
+
+3565.2	perspective, you know, I mean, look,
+3566.6	
+
+3566.6	whether there's a framework in place or
+3568.2	
+
+3568.2	not, I think that's the right thing for
+3569.8	
+
+3569.8	an American company to do is work with
+3571.5	
+
+3571.5	the American government closely. I think
+3573.6	
+
+3573.6	it actually ends up being way more
+3575.7	
+
+3575.7	effective because instead of having this
+3577.9	
+
+3577.9	like rigid framework for how you
+3579.9	
+
+3579.9	interact, it's like the reality is the
+3581.9	
+
+3581.9	challenges just end up being different,
+3583.8	
+
+3583.8	right, over time. It's like, okay, now
+3584.9	
+
+3585.0	we have the cyber security challenges.
+3586.6	
+
+3586.6	Maybe in, you know, six months we'll
+3588.1	
+
+3588.1	have more bioype challenges. Like we
+3590.9	
+
+3590.9	need to make sure that we have the kind
+3592.8	
+
+3592.8	of trust and bandwidth of the
+3594.9	
+
+3594.9	communication that we have with all the
+3597.0	
+
+3597.0	different parts of the government on
+3598.4	
+
+3598.4	that to be able to address those in a
+3600.9	
+
+3601.0	way that is actually the best for people
+3602.8	
+
+3602.8	not just like checking some boxes on a
+3604.9	
+
+3605.0	process. So
+3606.9	
+
+3606.9	>> the incentives that already exist like
+3608.5	
+
+3608.5	if a model a meta model got out and did
+3610.4	
+
+3610.4	a lot of damage like you're going to be
+3611.6	
+
+3611.6	liable for that and like the market's
+3613.2	
+
+3613.2	going to correct you right so there is
+3615.4	
+
+3615.4	that already I think people discount
+3617.2	
+
+3617.2	that
+3617.9	
+
+3617.9	>> yeah I also just think that there's been
+3620.5	
+
+3620.6	I think Silicon Valley for the last
+3622.8	
+
+3622.8	maybe I don't know
+3624.6	
+
+3624.6	>> for a lot of maybe the last 15 years um
+3627.3	
+
+3627.3	has had more of an armslength
+3628.7	
+
+3628.7	relationship with the government and I
+3631.0	
+
+3631.0	just think that this stuff is
+3632.3	
+
+3632.3	intersecting more with
+3634.7	
+
+3634.7	>> the economy with security with with with
+3637.9	
+
+3637.9	a lot of different things that I think
+3639.0	
+
+3639.0	are relevant in ways that that I think
+3641.9	
+
+3641.9	you just want to have a closer
+3643.2	
+
+3643.2	partnership. So that's my that's my own
+3646.1	
+
+3646.1	theory. I think like you could have a
+3647.7	
+
+3647.7	framework for for kind of how this stuff
+3649.8	
+
+3649.8	works or you could not. Um, I'm sure
+3652.3	
+
+3652.3	over time there will be like more and
+3654.3	
+
+3654.3	more specific rules, but my guess is
+3656.8	
+
+3656.8	that whatever that gets whatever there
+3658.6	
+
+3658.6	is. Um, actually, you know, it's kind of
+3661.3	
+
+3661.3	like when you're setting up an org, you
+3663.1	
+
+3663.1	don't really want to like like inside a
+3665.8	
+
+3665.8	company, you're not trying to like ship
+3666.9	
+
+3666.9	the org chart of just having like one
+3668.5	
+
+3668.5	team do what it's supposed to do and
+3669.6	
+
+3669.6	another team do what it's supposed to
+3670.6	
+
+3670.6	do. You kind of want to get the people
+3672.1	
+
+3672.1	to like like each other and work
+3673.3	
+
+3673.4	together so that way you don't have all
+3675.2	
+
+3675.2	these like weird seams in what you're
+3677.0	
+
+3677.0	doing. Mhm.
+3677.7	
+
+3677.7	>> Um, and I would guess that for how
+3680.7	
+
+3680.7	important AI and super intelligence are
+3683.3	
+
+3683.4	going to be for the world, um, you kind
+3686.8	
+
+3686.8	of just want a like good knowledge
+3690.2	
+
+3690.2	exchange and real trusted dialogue more
+3693.4	
+
+3693.4	than you want a specific process is my
+3695.9	
+
+3695.9	guess, but they're not they're not
+3697.1	
+
+3697.1	mutually exclusive. So, and I'm like I I
+3699.4	
+
+3699.4	think that that's but that that's at
+3700.7	
+
+3700.7	least the part that I think we've been
+3702.2	
+
+3702.2	we've been very focused on. Um, and I
+3705.1	
+
+3705.1	think if the other labs did that, which
+3706.4	
+
+3706.4	I think some of them are doing and and
+3707.8	
+
+3707.8	maybe others not as much, but I think
+3709.5	
+
+3709.5	that that would be a very positive
+3710.8	
+
+3710.8	thing.
+3711.2	
+
+3711.2	>> When you think about like what's going
+3712.7	
+
+3712.7	on in the news, one of the things that's
+3715.3	
+
+3715.4	happening is people are starting to see
+3718.8	
+
+3718.8	like the glasses you guys make. They're
+3720.4	
+
+3720.4	going very mainstream. You're selling a
+3722.0	
+
+3722.0	lot of them.
+3722.8	
+
+3722.8	>> And there's this.
+3724.1	
+
+3724.1	>> And there's this growing um I don't know
+3726.6	
+
+3726.6	what it is. I don't know how much depth
+3728.3	
+
+3728.3	there is actually to it, but there's
+3729.6	
+
+3729.6	this growing concern about are people
+3731.4	
+
+3731.4	using them to spy? I'm sure you've seen
+3732.9	
+
+3733.0	some establishments are like banning
+3734.6	
+
+3734.6	people from coming in and wearing the
+3736.5	
+
+3736.6	glasses and and I'm curious like how you
+3739.3	
+
+3739.4	were reacting to that and and if you
+3742.3	
+
+3742.3	think this is a moment in time that will
+3744.4	
+
+3744.4	pass or if you've feel like this is
+3746.4	
+
+3746.4	maybe something that is going to be a
+3747.8	
+
+3747.8	challenge for a while. So I mean my take
+3749.8	
+
+3749.8	on this is that we designed the glasses
+3752.8	
+
+3752.8	from the beginning with these privacy
+3755.2	
+
+3755.2	considerations in mind. I we built the
+3757.2	
+
+3757.2	light into it. So anytime it is
+3758.9	
+
+3758.9	recording it's flashing a very visible
+3760.8	
+
+3760.8	light
+3761.3	
+
+3761.4	>> and some people have tried to tamper
+3762.7	
+
+3762.7	with the light and you guys pushed an
+3764.0	
+
+3764.0	update I think that
+3764.7	
+
+3764.7	>> yeah we've done many things and it's to
+3766.7	
+
+3766.7	basically if you try to mess with the
+3768.0	
+
+3768.0	light
+3768.9	
+
+3768.9	>> we just basically brick the camera on on
+3771.1	
+
+3771.1	your on your device. So that's a really
+3774.5	
+
+3774.6	important part of this is basically we
+3778.1	
+
+3778.1	built we built the product with those
+3781.4	
+
+3781.4	questions in mind from the beginning. So
+3783.5	
+
+3783.5	we actually feel quite good about the
+3784.7	
+
+3784.7	product. I think it if I mean phones
+3786.8	
+
+3786.8	don't have a light but I mean people go
+3788.4	
+
+3788.4	around like recording people all the
+3789.8	
+
+3789.8	time. The glasses are I think way better
+3792.5	
+
+3792.5	on that front than the other types of
+3794.6	
+
+3794.6	technology that people use. My take on
+3796.9	
+
+3796.9	this is that when we launched the
+3798.3	
+
+3798.3	glasses a few years back, we
+3800.3	
+
+3800.3	communicated pretty clearly about these
+3802.0	
+
+3802.0	steps that we put into it. But like you
+3804.9	
+
+3805.0	said, there's now like many many many
+3807.2	
+
+3807.2	millions of people who have gotten the
+3808.6	
+
+3808.6	glasses more than you know had them when
+3811.1	
+
+3811.1	we just started launching the product.
+3812.5	
+
+3812.6	So I think some of that communication
+3814.5	
+
+3814.6	that we did at the beginning a lot of
+3817.8	
+
+3817.8	people either you know maybe they forgot
+3820.2	
+
+3820.2	about or you know they didn't see at the
+3822.0	
+
+3822.0	beginning or they just weren't paying
+3822.9	
+
+3823.0	attention to it because the glasses
+3824.1	
+
+3824.1	weren't a big thing. And now that I
+3826.5	
+
+3826.5	think we've achieved a level of
+3828.2	
+
+3828.2	mainstream, well, at a minimum, I think
+3830.4	
+
+3830.4	we need to kind of go and make sure that
+3833.4	
+
+3833.4	we communicate about what we're doing
+3835.1	
+
+3835.1	and that yes, we think that this is
+3837.1	
+
+3837.1	important and in fact so important that
+3839.1	
+
+3839.1	we designed it into the product from the
+3840.8	
+
+3840.8	very first version that we that we
+3842.3	
+
+3842.3	shipped multiple years ago. And I I
+3844.7	
+
+3844.7	think we I think we just need to make
+3845.8	
+
+3845.8	sure that people understand how like how
+3848.5	
+
+3848.6	fundamentally that's built into the
+3850.0	
+
+3850.0	product. But but I think we let up on
+3852.1	
+
+3852.1	that a little bit and just kind of
+3853.6	
+
+3853.6	focused on okay they're great looking
+3856.0	
+
+3856.0	glasses. Um you know there's there's all
+3858.8	
+
+3858.8	these designs. I mean that's kind of
+3860.2	
+
+3860.2	been more of the focus on like we we
+3862.4	
+
+3862.4	felt like we kind of addressed the that
+3864.3	
+
+3864.3	those set of concerns early on and then
+3865.9	
+
+3865.9	since then have just been increasing the
+3867.3	
+
+3867.3	value and the utility of them and the
+3869.3	
+
+3869.4	designs. But I think we need to make
+3870.9	
+
+3871.0	sure that we communicate this piece
+3872.2	
+
+3872.2	really clearly. But it's something we've
+3873.4	
+
+3873.4	cared about from the beginning and I
+3874.5	
+
+3874.5	think we're in a good we're in a good
+3875.7	
+
+3875.7	position on it. But I mean look people
+3877.5	
+
+3877.5	care about this stuff. So it's important
+3878.9	
+
+3878.9	>> and there's a privacy scare with phones
+3880.2	
+
+3880.2	in the early days, right? And I think
+3881.5	
+
+3881.5	like any new product once it proves that
+3883.3	
+
+3883.3	it's valuable in people's lives, you
+3884.9	
+
+3885.0	know, people will get used to it and and
+3887.8	
+
+3887.8	I think maybe glasses are just early in
+3889.5	
+
+3889.5	that in the sense of like it's a new
+3891.2	
+
+3891.2	product and people need to see the value
+3893.4	
+
+3893.4	for them to get over this mental hurdle
+3895.7	
+
+3895.7	of like a new thing that could
+3896.7	
+
+3896.7	potentially record me because that was
+3898.3	
+
+3898.3	what phones I mean back in the day I
+3899.8	
+
+3899.8	remember people were like what are you
+3901.6	
+
+3901.6	doing with your phone? Like yeah I don't
+3903.8	
+
+3903.8	know.
+3904.1	
+
+3904.1	>> Yeah, I think there's something like
+3905.3	
+
+3905.4	that that's true. I mean, I guess one of
+3908.5	
+
+3908.6	my reflections from building social
+3911.8	
+
+3911.8	media over the last 20 years is that I
+3914.2	
+
+3914.2	don't think we were as direct as we
+3915.8	
+
+3915.8	probably should have been about
+3916.9	
+
+3916.9	addressing some of those concerns. And
+3918.4	
+
+3918.4	it it didn't necessarily stop people
+3920.2	
+
+3920.2	from using the products,
+3921.8	
+
+3921.8	>> but I think it colors how people think
+3923.4	
+
+3923.4	about them today. And I think it would
+3926.5	
+
+3926.5	have been possible to have kind of
+3928.6	
+
+3928.6	explained along the way how seriously we
+3930.5	
+
+3930.6	took those issues. and we just didn't
+3934.7	
+
+3934.7	because we thought okay well people are
+3936.5	
+
+3936.6	showing that by using the product so
+3938.4	
+
+3938.4	much they like are they still like the
+3940.7	
+
+3940.7	products but I actually think it's
+3942.1	
+
+3942.1	possible to get to a better state than
+3943.6	
+
+3943.6	where we've gotten
+3944.8	
+
+3944.8	>> with with um with the social media
+3946.8	
+
+3946.8	products which is both people liking it
+3948.3	
+
+3948.3	and understanding how seriously we take
+3950.7	
+
+3950.7	all of those issues. So that's what I
+3953.2	
+
+3953.2	aspire to. Mhm.
+3954.5	
+
+3954.5	>> Is there a through line from that to the
+3957.4	
+
+3957.4	recent settlement uh on all the youth
+3959.3	
+
+3959.4	safety stuff and it's I think a lot of
+3961.0	
+
+3961.0	people are talking about um is there any
+3963.8	
+
+3963.8	connection from what you just said to
+3964.9	
+
+3965.0	that and like I I would just be curious
+3966.5	
+
+3966.5	to hear you reflect on that and like
+3967.8	
+
+3967.8	what you've learned from this process or
+3969.4	
+
+3969.4	if
+3970.0	
+
+3970.0	>> Yeah. No, I think it's it's another good
+3971.8	
+
+3971.8	example like this. I mean we've taken a
+3973.8	
+
+3973.8	lot of those safety issues seriously for
+3975.5	
+
+3975.5	a while and we've been working on this
+3976.7	
+
+3976.7	teen account work with with Instagram
+3978.8	
+
+3978.8	for for a long time and I think have
+3981.0	
+
+3981.0	have done some leading work there. the
+3982.5	
+
+3982.6	the settlement there is interesting
+3984.2	
+
+3984.2	because what we're really trying to do
+3986.2	
+
+3986.2	is create a standard and framework for
+3988.5	
+
+3988.5	the industry and there's this real issue
+3990.2	
+
+3990.2	which is that I actually think most of
+3992.1	
+
+3992.1	the companies that are building this
+3994.4	
+
+3994.4	these products you know if you basically
+3996.5	
+
+3996.6	said you know limit usage to an hour a
+3998.9	
+
+3999.0	day for teens you know everyone I think
+4001.5	
+
+4001.5	would be okay with that except if like
+4004.7	
+
+4004.7	you have to unilaterally do it
+4007.0	
+
+4007.0	>> then you're saying okay like if if
+4008.9	
+
+4008.9	people don't use Instagram for more than
+4010.5	
+
+4010.5	an hour a day but then they're usage
+4012.4	
+
+4012.4	goes to Tik Tok. Have we really like
+4014.0	
+
+4014.0	helped anyone? And if we and we've just
+4015.7	
+
+4015.7	like hurt ourselves to not help anyone
+4017.7	
+
+4017.7	>> and you guys have that in the piece that
+4019.3	
+
+4019.4	like
+4019.8	
+
+4019.8	>> so basically the structure for what we
+4021.3	
+
+4021.3	did was we basically said we're going to
+4024.0	
+
+4024.0	take the step of unilaterally limiting
+4027.0	
+
+4027.0	the usage of of there's there's some
+4030.0	
+
+4030.0	things around time limits. Um there's
+4031.8	
+
+4031.8	some things around notifications and
+4033.8	
+
+4033.8	time when people can access it when
+4035.1	
+
+4035.1	they're in school, when they should be
+4036.2	
+
+4036.2	sleeping, like different restrictions.
+4038.3	
+
+4038.3	And we basically said we will take the
+4040.2	
+
+4040.2	first step and when YouTube and Tik Tok
+4044.9	
+
+4045.0	sign on to the same terms then we can
+4047.8	
+
+4047.8	all as an industry lock in and take the
+4049.8	
+
+4049.8	next step together. So hopefully I'm
+4052.3	
+
+4052.3	very hopeful that this settlement will
+4055.3	
+
+4055.4	serve as a sort of legally binding
+4058.6	
+
+4058.6	framework to bring the whole industry
+4061.2	
+
+4061.2	into alignment on some of these things
+4063.9	
+
+4063.9	and make it so that it doesn't kind of
+4067.3	
+
+4067.3	disadvantage any one company for taking
+4069.3	
+
+4069.3	that step. Now I mean we're we're
+4070.7	
+
+4070.7	basically putting ourselves a little bit
+4071.8	
+
+4071.8	out there by going first, but um but I I
+4076.1	
+
+4076.1	think it will be better for everyone if
+4078.1	
+
+4078.1	these other companies come in too. Last
+4080.3	
+
+4080.3	question. You're posting on X again.
+4082.5	
+
+4082.6	>> Yeah.
+4083.0	
+
+4083.0	>> You did everywhere. You're everywhere,
+4085.1	
+
+4085.1	but just curious to know like you're
+4087.2	
+
+4087.2	thinking of like posting there like the
+4089.7	
+
+4089.7	bragging like is it just part of the
+4091.9	
+
+4091.9	>> part of the thing now? Like because
+4093.2	
+
+4093.2	you've got Threads, you're on Threads.
+4094.5	
+
+4094.5	>> Yeah, I mean I'm on Threads. I think I
+4096.0	
+
+4096.0	mean obviously Threads is doing great. I
+4097.9	
+
+4097.9	think it's actually it either I think
+4100.4	
+
+4100.4	it's either bigger than X at this point
+4102.0	
+
+4102.0	or is like very soon about to be. But I
+4104.5	
+
+4104.5	mean look there there there are
+4105.4	
+
+4105.4	different communities in the different
+4106.4	
+
+4106.4	places. There's a lot of AI folks are on
+4108.5	
+
+4108.5	X. And
+4109.4	
+
+4109.4	>> um I think part of what you try to do
+4111.2	
+
+4111.2	with social media
+4112.9	
+
+4113.0	>> is just communicate where people are,
+4114.9	
+
+4114.9	right? It's kind of like and when you do
+4116.4	
+
+4116.4	a podcast or when you post, you probably
+4118.0	
+
+4118.0	just post in one place, you put it
+4119.3	
+
+4119.3	everywhere. So
+4120.2	
+
+4120.2	>> like I mean I post the same things on
+4121.7	
+
+4121.8	threads and X and some people are like
+4123.6	
+
+4123.6	why are you posting this on X? It's like
+4125.0	
+
+4125.0	well and I post it there too, right?
+4126.6	
+
+4126.6	It's like and I'll engage there too. So
+4128.7	
+
+4128.7	>> I guess I think it's all good but I I do
+4130.6	
+
+4130.6	think that the to some degree some of
+4133.0	
+
+4133.0	the community is on X and we want to be
+4134.7	
+
+4134.7	able to engage where people are. Yeah.
+4136.1	
+
+4136.1	And that's like a lot of what uh you
+4137.7	
+
+4137.8	know yeah what what what this is about
+4139.7	
+
+4139.7	is going where where where people are
+4141.3	
+
+4141.4	and being able to kind of have that
+4142.8	
+
+4142.8	dialogue.
+4143.3	
+
+4143.3	>> Yeah. Well, thanks Mark. Thanks for this
+4144.6	
+
+4144.6	conversation.
+4145.2	
+
+4145.2	>> Yeah, happy to.
+4148.5	
+
+4148.5	>> Banking should feel like modern
+4150.0	
+
+4150.0	software. Get everything you need in one
+4152.1	
+
+4152.2	place. Visit mercury.com to learn more
+4154.1	
+
+4154.2	and apply online in minutes. Mercury is
+4156.3	
+
+4156.3	a fintech, not a bank. Check the show
+4157.9	
+
+4157.9	notes for details. Granola is the best
+4160.1	
+
+4160.1	AI notepad I've tried. It works
+4161.9	
+
+4161.9	everywhere on a video or phone call in
+4164.3	
+
+4164.3	person or an Apple Watch. Try it now at
+4166.5	
+
+4166.5	granola.ai/sources
+4168.3	
+
+4168.3	and use the promo code sources at
+4170.3	
+
+4170.3	checkout for 3 months off.
+4172.1	
+
+4172.2	Jiraabiadlassing is where your team and
+4174.1	
+
+4174.2	your agents work from the same context.
+4176.6	
+
+4176.6	Try it free at jira.com. That's jir.com.
+4181.0	
+
+4181.0	Framer is the AI native website builder
+4183.4	
+
+4183.4	that lets you build faster without
+4185.1	
+
+4185.1	giving up control. Visit
+4186.3	
+
+4186.3	framer.com/sources
+4188.0	
+
+4188.0	for 30% off. Rules and restrictions may
+4190.3	
+
+4190.3	apply.

@@ -1,0 +1,61 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/lijigang/status/2106580939489054978",
+    "id": "2106580939489054978",
+    "text": "回看 Agent 的发展，基本是一路补短板：\n\n- 缺少当前事实，就加检索和数据接口\n- 长任务容易丢信息，就加状态保存和上下文管理\n- 工具调用会失败，就加重试、检查和恢复\n- 行动可能越权，就加权限隔离和审批\n- 结果看着对但不达标，就加测试和验收\n\n这些「支撑技术」决定了模型的原始能力能不能真正落进现实场景。\n\n但它们也带来自己的代价：延迟、维护成本、错误传播、协调开销。\n\n于是形成两股力量：外围不断加支撑系统来兜底，模型进步又把其中一部分能力吸收进去，让结构重新变简单。\n\n哪些留在模型里，哪些留在外面，会一直变。",
+    "raw_text": {
+      "text": "回看 Agent 的发展，基本是一路补短板：\n\n- 缺少当前事实，就加检索和数据接口\n- 长任务容易丢信息，就加状态保存和上下文管理\n- 工具调用会失败，就加重试、检查和恢复\n- 行动可能越权，就加权限隔离和审批\n- 结果看着对但不达标，就加测试和验收\n\n这些「支撑技术」决定了模型的原始能力能不能真正落进现实场景。\n\n但它们也带来自己的代价：延迟、维护成本、错误传播、协调开销。\n\n于是形成两股力量：外围不断加支撑系统来兜底，模型进步又把其中一部分能力吸收进去，让结构重新变简单。\n\n哪些留在模型里，哪些留在外面，会一直变。",
+      "display_text_range": [
+        0,
+        263
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "lijigang",
+      "url": "https://x.com/lijigang",
+      "id": "1474067654",
+      "followers": 55470,
+      "following": 38,
+      "likes": 463,
+      "media_count": 182,
+      "name": "李继刚",
+      "description": "我与 AI 周旋久，宁做我",
+      "raw_description": {
+        "text": "我与 AI 周旋久，宁做我",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1474067654/1775727474",
+      "avatar_url": "https://pbs.twimg.com/profile_images/599778700943446016/N-a6Jbep_200x200.jpg",
+      "joined": "Sat Jun 01 07:32:24 +0000 2013",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 32,
+    "retweets": 2,
+    "likes": 55,
+    "bookmarks": 42,
+    "quotes": 1,
+    "created_at": "Sun Oct 04 03:03:29 +0000 2026",
+    "created_timestamp": 1791083009,
+    "views": 7982,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

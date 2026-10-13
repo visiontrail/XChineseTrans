@@ -1,0 +1,25 @@
+{
+  "articles": [
+    {
+      "rect": {
+        "height": 954,
+        "width": 598,
+        "x": 276,
+        "y": 53
+      },
+      "text": "Leo Guo\n@LeoGuoLabs\nBoost\nAtlas’s new GR3 hand has four fingers and 13 degrees of freedom, up from seven. The missing pinky is an engineering tradeoff.\n\nBoston Dynamics decided its added dexterity did not justify three more actuators, extra size, power consumption and failure points. The team even spent a day with their pinkies taped to their ring fingers to test the idea.\n\nThe upgrade is in what happens after a grasp: reorienting an object, adjusting a pinch, or holding a tool while operating its trigger. The thumb has four degrees of freedom; each other finger has three.\n\nPressure sensors cover the fingertips and palm. Backdrivable joints can yield under impact, while enclosed actuators avoid fragile cables crossing the joints.\n\nThe design also supports accurate simulation for reinforcement learning. Useful robot hands need dexterity, durability and hardware that can be manufactured and repaired at scale.\n5:11\n4:01 PM · Oct 2, 2026"
+    }
+  ],
+  "url": "https://x.com/LeoGuoLabs/status/2105931202385608979",
+  "videos": [
+    {
+      "duration": 324.208,
+      "error": null,
+      "height": 270,
+      "paused": false,
+      "readyState": 4,
+      "time": 12.583768,
+      "width": 480
+    }
+  ]
+}

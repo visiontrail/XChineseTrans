@@ -1,0 +1,32 @@
+{
+  "accountLinks": [
+    {
+      "href": "https://x.com/LeoGuoLabs",
+      "text": ""
+    },
+    {
+      "href": "https://x.com/LeoGuoLabs",
+      "text": "Leo Guo"
+    },
+    {
+      "href": "https://x.com/LeoGuoLabs",
+      "text": "@LeoGuoLabs"
+    },
+    {
+      "href": "https://x.com/LeoGuoLabs/status/2109845840227660027",
+      "text": "11:17 AM · Oct 13, 2026"
+    },
+    {
+      "href": "https://x.com/LeoGuoLabs/status/2109845840227660027/analytics",
+      "text": "2\n Views"
+    }
+  ],
+  "photoCount": 0,
+  "quoteCount": 0,
+  "text": "China doesn't have to lead in HBM to change the economics of memory.\n\nCXMT is reportedly targeting a DDR5 server-memory product using its denser 4F² cell architecture by the end of 2026. The real test is qualified parts, competitive yields and costs, and enough volume to matter.\n\nMusk's warning is about what happens after the process works: China can scale manufacturing quickly. He points to batteries and solar, while leaving room for DRAM to play out differently.\n\nI'd separate mainstream DDR/LPDDR supply from advanced HBM and memory stacked tightly with compute. Musk sees the latter as harder, especially when integration and cooling come into play. Catching up in one market doesn't establish leadership in the other.\n\nIf CXMT can deliver competitive memory at scale, buyers get another option and incumbents could lose some pricing power, even while retaining an HBM lead. How much that matters also depends on demand.\n\nToday's shortage is only half the story. The other half is how long today's pricing power can last.",
+  "time": "2026-10-13T03:17:02.000Z",
+  "videoCount": 0,
+  "url": "https://x.com/LeoGuoLabs/status/2109845840227660027",
+  "copyMatches": true,
+  "verifiedAt": "2026-10-13T03:18:14.830Z"
+}

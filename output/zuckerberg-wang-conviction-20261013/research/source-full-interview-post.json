@@ -1,0 +1,408 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/Michaelzsguo/status/2109756809993163051",
+    "id": "2109756809993163051",
+    "text": "三个超级大脑坐进一家酒吧，聊了两个多小时。这可能是今年最值得看的一场 AI 访谈。\n\n借着 Meta 发布新一代模型 Muse Wonder，小扎和亚历山大·王难得同框。采访者同样大有来头：Stripe 联合创始人 John Collison。Stripe 一直是我心目中美国最有创造力的公司之一。\n\n三个人从 AI 模型、个人智能体，一路聊到产品、公司管理，以及如何做判断和决策。信息密度极高。\n\n我给全片加上了中文字幕，值得找个时间慢慢看。",
+    "raw_text": {
+      "text": "三个超级大脑坐进一家酒吧，聊了两个多小时。这可能是今年最值得看的一场 AI 访谈。\n\n借着 Meta 发布新一代模型 Muse Wonder，小扎和亚历山大·王难得同框。采访者同样大有来头：Stripe 联合创始人 John Collison。Stripe 一直是我心目中美国最有创造力的公司之一。\n\n三个人从 AI 模型、个人智能体，一路聊到产品、公司管理，以及如何做判断和决策。信息密度极高。\n\n我给全片加上了中文字幕，值得找个时间慢慢看。",
+      "display_text_range": [
+        0,
+        222
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            159,
+            182
+          ],
+          "id": "2109755902991519744",
+          "display": "pic.x.com/TleuzAzBmm",
+          "original": "https://t.co/TleuzAzBmm",
+          "replacement": "https://x.com/Michaelzsguo/status/2109756809993163051/video/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "Michaelzsguo",
+      "url": "https://x.com/Michaelzsguo",
+      "id": "1479852652150337542",
+      "followers": 10083,
+      "following": 430,
+      "likes": 5594,
+      "media_count": 2934,
+      "name": "Michael Guo",
+      "description": "Building AI agents and AI-native orgs. Demystifying AI in practice.  EN/中文 (Selected build notes, experiments, and practical tips at the website link.)",
+      "raw_description": {
+        "text": "Building AI agents and AI-native orgs. Demystifying AI in practice.  EN/中文 (Selected build notes, experiments, and practical tips at the website link.)",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1479852652150337542/1775606215",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1484637162108825608/755rQsty_200x200.jpg",
+      "joined": "Sat Jan 08 16:29:42 +0000 2022",
+      "protected": false,
+      "website": {
+        "url": "https://michaelguo.vercel.app/xposts.html",
+        "display_url": "michaelguo.vercel.app/xposts.html"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 12,
+    "retweets": 110,
+    "likes": 373,
+    "bookmarks": 479,
+    "quotes": 5,
+    "created_at": "Mon Oct 12 21:23:15 +0000 2026",
+    "created_timestamp": 1791840195,
+    "possibly_sensitive": false,
+    "views": 69886,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "id": "2109755902991519744",
+          "url": "https://video.twimg.com/amplify_video/2109755902991519744/vid/avc1/1280x720/VSTJ_yzfmPib8Dx1.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109755902991519744/img/w7xv-hWuCCJZ2kar.jpg",
+          "duration": 8058.197,
+          "width": 1280,
+          "height": 720,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2109755902991519744/pl/XBUFqOVql10Rv4UX.m3u8?tag=29",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2109755902991519744/vid/avc1/480x270/OAnUHz1c1QzdDUcP.mp4?tag=29",
+              "bitrate": 256000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2109755902991519744/vid/avc1/640x360/zIEJSMEKYnIxe2ak.mp4?tag=29",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2109755902991519744/vid/avc1/1280x720/VSTJ_yzfmPib8Dx1.mp4?tag=29",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": null,
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2109755902991519744/pl/XBUFqOVql10Rv4UX.m3u8?tag=29",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2109755902991519744/vid/avc1/480x270/OAnUHz1c1QzdDUcP.mp4?tag=29",
+              "bitrate": 256000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2109755902991519744/vid/avc1/640x360/zIEJSMEKYnIxe2ak.mp4?tag=29",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2109755902991519744/vid/avc1/1280x720/VSTJ_yzfmPib8Dx1.mp4?tag=29",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "id": "2109755902991519744",
+          "url": "https://video.twimg.com/amplify_video/2109755902991519744/vid/avc1/1280x720/VSTJ_yzfmPib8Dx1.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109755902991519744/img/w7xv-hWuCCJZ2kar.jpg",
+          "duration": 8058.197,
+          "width": 1280,
+          "height": 720,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2109755902991519744/pl/XBUFqOVql10Rv4UX.m3u8?tag=29",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2109755902991519744/vid/avc1/480x270/OAnUHz1c1QzdDUcP.mp4?tag=29",
+              "bitrate": 256000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2109755902991519744/vid/avc1/640x360/zIEJSMEKYnIxe2ak.mp4?tag=29",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2109755902991519744/vid/avc1/1280x720/VSTJ_yzfmPib8Dx1.mp4?tag=29",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": null,
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2109755902991519744/pl/XBUFqOVql10Rv4UX.m3u8?tag=29",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2109755902991519744/vid/avc1/480x270/OAnUHz1c1QzdDUcP.mp4?tag=29",
+              "bitrate": 256000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2109755902991519744/vid/avc1/640x360/zIEJSMEKYnIxe2ak.mp4?tag=29",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2109755902991519744/vid/avc1/1280x720/VSTJ_yzfmPib8Dx1.mp4?tag=29",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ]
+    },
+    "quote": {
+      "url": "https://x.com/collision/status/2109714250226905248",
+      "id": "2109714250226905248",
+      "text": "Cheeky Pint is back! Mark Zuckerberg @finkd and Alexandr Wang @alexandr_wang came to the pub to discuss their new frontier model, Muse Wonder.\n\n00:00:24 Muse’s breakout use cases\n00:07:28 The model is the product\n00:14:35 Muse Wonder\n00:24:56 How frontier models are built\n00:48:26 Betting $100B\n01:07:21 Agentic commerce\n01:19:34 OpenRouter \n01:20:06 Beyond the smartphone\n01:27:00 Funding\n01:34:06 Why AI won’t be winner-take-all\n01:40:46 Meta Superintelligence Labs (MSL)\n02:08:11 Working for Mark Zuckerberg",
+      "raw_text": {
+        "text": "Cheeky Pint is back! Mark Zuckerberg @finkd and Alexandr Wang @alexandr_wang came to the pub to discuss their new frontier model, Muse Wonder.\n\n00:00:24 Muse’s breakout use cases\n00:07:28 The model is the product\n00:14:35 Muse Wonder\n00:24:56 How frontier models are built\n00:48:26 Betting $100B\n01:07:21 Agentic commerce\n01:19:34 OpenRouter \n01:20:06 Beyond the smartphone\n01:27:00 Funding\n01:34:06 Why AI won’t be winner-take-all\n01:40:46 Meta Superintelligence Labs (MSL)\n02:08:11 Working for Mark Zuckerberg",
+        "display_text_range": [
+          0,
+          511
+        ],
+        "facets": [
+          {
+            "type": "mention",
+            "indices": [
+              37,
+              43
+            ],
+            "original": "finkd",
+            "id": "20749410"
+          },
+          {
+            "type": "mention",
+            "indices": [
+              62,
+              76
+            ],
+            "original": "alexandr_wang",
+            "id": "615818451"
+          },
+          {
+            "type": "media",
+            "indices": [
+              273,
+              296
+            ],
+            "id": "2109713206524641280",
+            "display": "pic.x.com/X3lrKFIaPs",
+            "original": "https://t.co/X3lrKFIaPs",
+            "replacement": "https://x.com/collision/status/2109714250226905248/video/1"
+          }
+        ]
+      },
+      "author": {
+        "screen_name": "collision",
+        "url": "https://x.com/collision",
+        "id": "5418912",
+        "followers": 247684,
+        "following": 1436,
+        "likes": 36186,
+        "media_count": 168,
+        "name": "John Collison",
+        "description": "Co-founder of @stripe.",
+        "raw_description": {
+          "text": "Co-founder of @stripe.",
+          "facets": []
+        },
+        "location": "California / Ireland",
+        "banner_url": "https://pbs.twimg.com/profile_banners/5418912/1392613775",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2464132281/jbbxl9p7ratdyuposrif_200x200.jpeg",
+        "joined": "Mon Apr 23 02:53:59 +0000 2007",
+        "protected": false,
+        "website": {
+          "url": "http://johncollison.ie",
+          "display_url": "johncollison.ie"
+        },
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "individual"
+        },
+        "avatar_color": null
+      },
+      "replies": 223,
+      "retweets": 498,
+      "likes": 6281,
+      "bookmarks": 6913,
+      "quotes": 155,
+      "created_at": "Mon Oct 12 18:34:08 +0000 2026",
+      "created_timestamp": 1791830048,
+      "possibly_sensitive": false,
+      "views": 761106,
+      "is_note_tweet": true,
+      "community_note": null,
+      "lang": "en",
+      "replying_to": null,
+      "replying_to_status": null,
+      "media": {
+        "all": [
+          {
+            "id": "2109713206524641280",
+            "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/1280x720/Tl5821LG0dqNvs46.mp4?tag=29",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109713206524641280/img/dSwPxL0MtN_3z3Ht.jpg",
+            "duration": 8058.155,
+            "width": 1280,
+            "height": 720,
+            "format": "video/mp4",
+            "type": "video",
+            "formats": [
+              {
+                "url": "https://video.twimg.com/amplify_video/2109713206524641280/pl/mJXVr6audjRYKf1Q.m3u8?tag=29&v=e20",
+                "container": "m3u8"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/480x270/4jy6zOvTL4E8yzUA.mp4?tag=29",
+                "bitrate": 256000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/640x360/eM6zaRma9XUsazdJ.mp4?tag=29",
+                "bitrate": 832000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/1280x720/Tl5821LG0dqNvs46.mp4?tag=29",
+                "bitrate": 2176000,
+                "container": "mp4",
+                "codec": "h264"
+              }
+            ],
+            "publisher": null,
+            "variants": [
+              {
+                "url": "https://video.twimg.com/amplify_video/2109713206524641280/pl/mJXVr6audjRYKf1Q.m3u8?tag=29&v=e20",
+                "bitrate": 0,
+                "content_type": "application/x-mpegURL"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/480x270/4jy6zOvTL4E8yzUA.mp4?tag=29",
+                "bitrate": 256000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/640x360/eM6zaRma9XUsazdJ.mp4?tag=29",
+                "bitrate": 832000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/1280x720/Tl5821LG0dqNvs46.mp4?tag=29",
+                "bitrate": 2176000,
+                "content_type": "video/mp4"
+              }
+            ]
+          }
+        ],
+        "videos": [
+          {
+            "id": "2109713206524641280",
+            "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/1280x720/Tl5821LG0dqNvs46.mp4?tag=29",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109713206524641280/img/dSwPxL0MtN_3z3Ht.jpg",
+            "duration": 8058.155,
+            "width": 1280,
+            "height": 720,
+            "format": "video/mp4",
+            "type": "video",
+            "formats": [
+              {
+                "url": "https://video.twimg.com/amplify_video/2109713206524641280/pl/mJXVr6audjRYKf1Q.m3u8?tag=29&v=e20",
+                "container": "m3u8"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/480x270/4jy6zOvTL4E8yzUA.mp4?tag=29",
+                "bitrate": 256000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/640x360/eM6zaRma9XUsazdJ.mp4?tag=29",
+                "bitrate": 832000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/1280x720/Tl5821LG0dqNvs46.mp4?tag=29",
+                "bitrate": 2176000,
+                "container": "mp4",
+                "codec": "h264"
+              }
+            ],
+            "publisher": null,
+            "variants": [
+              {
+                "url": "https://video.twimg.com/amplify_video/2109713206524641280/pl/mJXVr6audjRYKf1Q.m3u8?tag=29&v=e20",
+                "bitrate": 0,
+                "content_type": "application/x-mpegURL"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/480x270/4jy6zOvTL4E8yzUA.mp4?tag=29",
+                "bitrate": 256000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/640x360/eM6zaRma9XUsazdJ.mp4?tag=29",
+                "bitrate": 832000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/1280x720/Tl5821LG0dqNvs46.mp4?tag=29",
+                "bitrate": 2176000,
+                "content_type": "video/mp4"
+              }
+            ]
+          }
+        ]
+      },
+      "twitter_card": "player",
+      "color": null,
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    "twitter_card": "player",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

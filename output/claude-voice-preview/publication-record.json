@@ -1,0 +1,58 @@
+{
+  "state": "publicly_verified",
+  "approval": {
+    "text": "确认发布。",
+    "approved_at": "2026-10-11T02:31:56.862585+00:00",
+    "scope": "Exact reviewed English copy, one image, ALT; standalone @LeoGuoLabs post"
+  },
+  "account": "@LeoGuoLabs",
+  "format": "standalone",
+  "source": "https://x.com/leo114119/status/2108986671479889971",
+  "original_target": "https://x.com/testingcatalog/status/2108940487658807525",
+  "final_text": "Claude may be getting a new voice experience. A hidden “Voice” tab marked “Preview” has surfaced in its web interface.\n\nClaude already supports two-way voice conversations. What this new interface adds, when it ships, and whether Anthropic is building its own speech models are still unconfirmed.\n\nWhat I’d like: talk through an idea, change direction mid-sentence, and keep a coding session moving without reaching for the keyboard. Voice could make that feel much more natural.",
+  "media": [
+    {
+      "path": "output/claude-voice-preview/source/voice-preview-original.jpeg",
+      "url": "https://pbs.twimg.com/media/HUR2B-OXYAAkbuN?format=jpg&name=4096x4096",
+      "retrieved_at": "2026-10-11T02:29:39.770382+00:00",
+      "bytes": 175759,
+      "sha256": "fd2e7bb5a399049f3d88e29f65a412c8dcfe5ecc12f2e5e1947836e284337506",
+      "alt": "Screenshot of Claude’s web interface with a Voice item labeled Preview in the left sidebar. The main area shows a chat input and a temporary capacity notice. A TestingCatalog watermark appears at the upper right.",
+      "type": "authentic third-party interface screenshot",
+      "modified": false
+    }
+  ],
+  "video": "No video in supplied or relevant original post",
+  "verification": {
+    "source_read_live": true,
+    "original_language_read": true,
+    "account_verified_live": true,
+    "official_voice_doc": "https://support.claude.com/en/articles/11101966-use-voice-mode",
+    "discovery_article": "https://www.testingcatalog.com/anthropic-might-be-developing-its-own-voice-models/",
+    "limitations": "Hidden Preview label is evidence of an interface entry, not public availability. Own speech model and robot claims unconfirmed. Voice-training toggle omitted because current official documentation did not establish its scope."
+  },
+  "preparation_checks": {
+    "full_text_accepted": true,
+    "characters_remaining": 24521,
+    "image_ready": true,
+    "alt_saved": true,
+    "post_button_enabled": true,
+    "submitted": false,
+    "composer_screenshot": "output/claude-voice-preview/composer-review.png"
+  },
+  "url": "https://x.com/LeoGuoLabs/status/2109109746703704201",
+  "submitted_at": "2026-10-11T02:32:15.621422+00:00",
+  "public_verification": {
+    "verified_at": "2026-10-11T02:32:37.850035+00:00",
+    "account": "@LeoGuoLabs",
+    "full_text_matches_approved": true,
+    "format": "standalone",
+    "media_count": 1,
+    "image_visible": true,
+    "alt_matches": true,
+    "evidence": [
+      "output/claude-voice-preview/public-verification.txt",
+      "output/claude-voice-preview/published.png"
+    ]
+  }
+}

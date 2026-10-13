@@ -1,0 +1,45 @@
+LeoGuoLabs Light v1: warm ivory #FDFBF7 with delicate low-contrast natural paper fiber, forest green #1A4A3A typography, muted green #426454 supporting text, sparse dark gold #80601B section numbers and meaningful emphasis. Use one clean modern sans-serif family with a Geist/Inter feel, regular body, medium labels, semibold headings. About 90% of the canvas remains light. No serif fonts, leaves, icons, gradients, shadows, rounded cards, decorations, yellow background field, or heavy frame.
+
+Use case: infographic-diagram.
+Generate one polished English benchmark comparison infographic. Use the first two reference images ONLY as references for the grouped editorial table, alignment, thin rules and restrained visual hierarchy; use the third reference for barely visible soft paper texture. Replace all old data with the exact data below. Do not copy the old two-column results or old max-effort subtitle.
+Portrait 2:3, ideally 1536 x 2304 or a similarly high resolution. Generous 5-6% margins. Crisp legible text. Information should fill the page without crowding. Headline must be proportionate, not oversized. Four aligned columns: benchmark about 43% width, and three numeric columns about 19% each. Keep all percentages right-aligned or centered consistently. Model headers can wrap to two lines. No bars, combined scores, total winner counts, or overall-winner labels. All score numerals must be exact, with one decimal and percent sign. Scores are different metrics; never combine them. The two dagger marks belong only to Opus Terminal-Bench and Opus AutomationBench, as explicitly listed. Do not add daggers to other values.
+
+Top text verbatim:
+"Gemini 4 Argon"
+"vs GPT-6 Astra & Claude Opus 5.5"
+"12 selected benchmarks · Published configurations"
+"Checked 01 Oct 2026"
+
+Table header:
+"Benchmark" | "Gemini 4 Argon" | "GPT-6 Astra" | "Claude Opus 5.5"
+Use dark green for model headers; subtle dark gold for the Argon header only if readable. Scores should generally be semibold forest green, with no winner highlighting.
+
+Group "01 / Code & software engineering"
+"DeepSWE v1.1" / "Long-horizon software engineering" | "77.9%" | "74.1%" | "74.2%"
+"FrontierSWE v2" / "Complex software engineering" | "55.0%" | "65.5%" | "62.3%"
+"Terminal-Bench 4.0" / "Terminal tasks" | "57.4%" | "58.2%" | "66.4%†"
+"PostTrainBench v1.1" / "ML engineering" | "45.3%" | "44.3%" | "49.3%"
+
+Group "02 / Knowledge work & business workflows"
+"Vals Index" / "GDP-weighted professional tasks" | "68.9%" | "63.1%" | "67.0%"
+"Vals Finance Agent v2" / "Financial research" | "65.4%" | "53.5%" | "58.6%"
+"Harvey's Legal Agent Benchmark" / "Legal research & drafting" | "19.6%" | "5.4%" | "3.8%"
+"AutomationBench 1.0.6" / "Strict workflow completion" | "51.3%" | "41.4%" | "42.5%†"
+The long Harvey label may wrap to two short lines; preserve its full name.
+
+Group "03 / Science & cybersecurity"
+"Terminal-Bench-Science 0.1" / "Scientific workflows" | "57.6%¹" | "68.1%" | "63.3%"
+"CWE-bench v1" / "Security vulnerability patching" | "68.0%" | "68.0%" | "67.0%"
+
+Group "04 / Long context & video"
+"GraphWalks" / "256k-1M tokens · BFS F1" | "84.2%" | "71.8%" | "66.8%"
+"LVBench²" / "Long-video understanding" | "91.7%" | "87.5%" | "83.7%"
+
+Footer exact, in readable dark green, wrapping naturally if required:
+"Google-published comparison; effort settings and agent harnesses vary."
+"† Fallback enabled: some tasks may be handled by other Claude models."
+"Unmarked Claude scores do not confirm fallback was disabled."
+"¹ Argon Science: verifier timeout increased 6x."
+"² LVBench: Argon 1 fps; Astra 800 frames; Opus 600 frames."
+
+Small plain-text signature "LeoGuoLabs" at the bottom edge, aligned right, subordinate. No logo or tagline. Exactly 12 rows, four groups, three model columns, 36 values, TWO daggers, and the two numbered footnote markers. Do not add prices or any extra claims. Ensure all names, numbers, footnotes and margins are legible and unclipped.

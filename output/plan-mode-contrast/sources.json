@@ -1,0 +1,26 @@
+{
+  "retrievedAt": "2026-09-27T10:39:39.176Z",
+  "account": "@LeoGuoLabs",
+  "sources": [
+    {
+      "kind": "antigravity_announcement",
+      "url": "https://x.com/antigravity/status/2103611698800140697",
+      "text": "Google Antigravity\n@antigravity\nAntigravity 2.0 now features a dedicated planning mode, just like the Antigravity CLI.\n\nType /plan and the agent steps back to think through the task, and conduct extensive research, before generating an implementation plan for your review. The agent will ask for your approval before it begins executing on the task. \n\nYou can also ask for a plan naturally in your prompt, for a lighter version of a plan.\n0:17\n6:24 AM · Sep 26, 2026\n·\n1.7M\n Views\n540\n647\n3K\n715\nRelevant\nView quotes"
+    },
+    {
+      "kind": "claude_original",
+      "url": "https://x.com/trq212/status/2102813194196758746",
+      "text": "Thariq\n@trq212\nwe’re thinking of killing plan mode and using the shift+tab hotkey to adjust effort levels\n\nI don’t think the models need plan mode anymore, but if you’re a plan mode diehard would love to get your feedback on why\n1:31 AM · Sep 24, 2026\n·\n1.6M\n Views\n3.1K\n604\n11K\n1.2K\nRelevant\nView quotes"
+    },
+    {
+      "kind": "google_context",
+      "url": "https://x.com/_mohansolo/status/2103963138039357815",
+      "text": "Varun Mohan\n@_mohansolo\nlol, get that we’re getting memed for this but a bit of context.\n\nWe added planning mode in 2025 and deleted it from the product earlier this year. Users wanted a way to explicitly plan with the model so we added this opt in slash command.\n\nUnderstood that the timing couldn’t be worse since it appears like we’re adding this for the first time. Have a great weekend folks, lots more to come in the coming weeks!\nQuote\nGoogle Antigravity\n@antigravity\n·\nSep 26\nAntigravity 2.0 now features a dedicated planning mode, just like the Antigravity CLI.\n\nType /plan and the agent steps back to think through the task, and conduct extensive research, before generating an implementation plan for your review. The agent will ask for your approval\nWatch again\n1:33\n5:41 AM · Sep 27, 2026\n·\n107.8K\n Views\n125\n45\n837\n68\nRelevant\nView quotes"
+    },
+    {
+      "kind": "claude_followup",
+      "url": "https://x.com/trq212/status/2103212051065921632",
+      "text": "Thariq\n@trq212\nlots feedback here, many of you are planning yourself & don't need plan mode\n\nothers prefer the UX of entering a mode where Claude is just thinking & brainstorming with you\n\nmy plan is to:\n- make plan mode into a built-in mod\n- allow mods to add new modes or override shift+tab\nQuote\nThariq\n@trq212\n·\nSep 24\nwe’re thinking of killing plan mode and using the shift+tab hotkey to adjust effort levels\n\nI don’t think the models need plan mode anymore, but if you’re a plan mode diehard would love to get your feedback on why\n3:56 AM · Sep 25, 2026\n·\n330K\n Views\n270\n68\n2.1K\n281\nRelevant\nView quotes"
+    }
+  ]
+}

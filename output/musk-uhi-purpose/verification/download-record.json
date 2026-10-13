@@ -1,0 +1,80 @@
+{
+  "source_post": "https://x.com/GeniusGTX/status/2108724471792382279",
+  "supplied_post": "https://x.com/0x404page/status/2109510762771407042",
+  "url": "https://video.twimg.com/amplify_video/2108724446420975616/vid/avc1/640x360/ACFb078rmXx9gsX3.mp4?tag=16",
+  "retrieved_at": "2026-10-13T01:56:10.862261+00:00",
+  "bytes": 640282,
+  "sha256": "b48950b91e58d60dba7e60f9a94f76b19fb6d098ee626a111bec668e58151c99",
+  "ranges": [
+    {
+      "part": 0,
+      "start": 0,
+      "end": 65535,
+      "bytes": 65536,
+      "content_range": "bytes 0-65535/640282"
+    },
+    {
+      "part": 1,
+      "start": 65536,
+      "end": 131071,
+      "bytes": 65536,
+      "content_range": "bytes 65536-131071/640282"
+    },
+    {
+      "part": 2,
+      "start": 131072,
+      "end": 196607,
+      "bytes": 65536,
+      "content_range": "bytes 131072-196607/640282"
+    },
+    {
+      "part": 3,
+      "start": 196608,
+      "end": 262143,
+      "bytes": 65536,
+      "content_range": "bytes 196608-262143/640282"
+    },
+    {
+      "part": 4,
+      "start": 262144,
+      "end": 327679,
+      "bytes": 65536,
+      "content_range": "bytes 262144-327679/640282"
+    },
+    {
+      "part": 5,
+      "start": 327680,
+      "end": 393215,
+      "bytes": 65536,
+      "content_range": "bytes 327680-393215/640282"
+    },
+    {
+      "part": 6,
+      "start": 393216,
+      "end": 458751,
+      "bytes": 65536,
+      "content_range": "bytes 393216-458751/640282"
+    },
+    {
+      "part": 7,
+      "start": 458752,
+      "end": 524287,
+      "bytes": 65536,
+      "content_range": "bytes 458752-524287/640282"
+    },
+    {
+      "part": 8,
+      "start": 524288,
+      "end": 589823,
+      "bytes": 65536,
+      "content_range": "bytes 524288-589823/640282"
+    },
+    {
+      "part": 9,
+      "start": 589824,
+      "end": 640281,
+      "bytes": 50458,
+      "content_range": "bytes 589824-640281/640282"
+    }
+  ]
+}

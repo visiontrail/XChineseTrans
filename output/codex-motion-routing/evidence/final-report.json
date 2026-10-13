@@ -1,0 +1,50 @@
+{
+  "file": "route-around-failure.mp4",
+  "sha256": "ba087f82467d4ca62f2d95ae851f1092e9bf72c16015d2744a6a5f6e1d607e55",
+  "bytes": 2838598,
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 60,
+    "frames": 1440,
+    "duration": 24,
+    "codec": "h264",
+    "pixelFormat": "yuv420p",
+    "colorRange": "tv",
+    "colorSpace": "bt709"
+  },
+  "audio": {
+    "codec": "aac",
+    "sampleRate": 48000,
+    "channels": 2,
+    "integratedLUFS": -18.43,
+    "truePeakDBTP": -1.99,
+    "loudnessRangeLU": 6.7
+  },
+  "checks": {
+    "1440_frames": true,
+    "60_fps": true,
+    "1080p": true,
+    "duration_24": true,
+    "h264_yuv420p_bt709": true,
+    "aac_stereo_48k": true,
+    "full_decode_no_errors": true,
+    "true_peak_below_minus1": true,
+    "audio_near_minus18_lufs": true,
+    "browser_completed": true,
+    "frame_step_observed": true,
+    "motion_numeric_pass": true,
+    "local_links_pass": true,
+    "faststart": true
+  },
+  "passed": true,
+  "notes": [
+    "Visual inspection of key frames, beat contact sheet and final encoded opening frame performed.",
+    "Browser playback and frame stepping verified in Codex in-app browser after disclosed Ego Lite access errors.",
+    "No claim of expert subjective audio audition or real network simulation."
+  ],
+  "publication": {
+    "submitted": false,
+    "publicUrl": null
+  }
+}

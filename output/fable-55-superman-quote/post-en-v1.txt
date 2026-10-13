@@ -1,0 +1,5 @@
+A web animation reportedly built with Fable 5.5: Superman keeps flying as the scene moves through different art styles, with the character and surroundings changing together.
+
+What stands out is the continuity of the motion across each style transition. The model attribution remains unverified.
+
+Live demo: https://claude.ai/artifact/7F2XhpmgiuyxHKgQ9Vgr9Q

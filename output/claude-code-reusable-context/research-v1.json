@@ -1,0 +1,23 @@
+{
+  "checked_at_local_date": "2026-10-06",
+  "source": "https://x.com/huxlab/status/2107113690818584608",
+  "linked_video_post": "https://x.com/txbrraa/status/2106712905001365608/video/1",
+  "observed": [
+    "Authenticated built-in X browser displayed source Chinese text.",
+    "Source and linked video page show runtime 27:52.",
+    "Video thumbnail inspected. Full video content and presenter identity not verified."
+  ],
+  "official_fact_checks": [
+    "https://code.claude.com/docs/en/memory",
+    "https://code.claude.com/docs/en/best-practices"
+  ],
+  "editorial_decisions": [
+    "Omit unsupported 300 percent value claim.",
+    "Do not assign source author paid-course experience to user.",
+    "Do not frame video as a new release or claim entire video was watched.",
+    "Standalone text draft; no media requested or prepared."
+  ],
+  "publication": "Not submitted; user provided only source URL.",
+  "characters_including_line_breaks": 538,
+  "format": "Single Premium post draft; ASCII text, no links or hashtags; fewer than 25000 characters."
+}

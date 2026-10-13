@@ -1,0 +1,12 @@
+{
+  "status": "published_and_public_page_verified",
+  "url": "https://x.com/LeoGuoLabs/status/2106781208294359176",
+  "account": "@LeoGuoLabs",
+  "format": "standalone",
+  "text_file": "post-v1.txt",
+  "characters": 361,
+  "composer_characters_remaining": 24639,
+  "media_count": 0,
+  "verification": "Opened actual status URL in the authenticated built-in browser; full text matched and screenshot inspected.",
+  "screenshot": "published-post.jpg"
+}

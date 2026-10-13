@@ -1,0 +1,82 @@
+{
+  "state": "publicly_verified",
+  "account": "@LeoGuoLabs",
+  "format": "standalone",
+  "source": "https://x.com/huxlab/status/2108901437145293090",
+  "original_source": "https://x.com/cleoabram/status/2107989027223736462",
+  "text": "AI safety has a very human coordination problem.\n\nAlexandr Wang tells Cleo Abram that personal feuds and mistrust among AI leaders are shaping how the technology gets built. He points to internal controls, external audits, and board-level oversight as practical steps toward rebuilding trust.\n\nThat’s the part I find useful. Safety needs processes that hold up even when lab leaders don’t like—or trust—one another. Brilliant people aren’t a substitute for a system others can verify.",
+  "text_path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/alexandr-wang-ai-safety/post.txt",
+  "media": [
+    {
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/alexandr-wang-ai-safety/original-full-720p.mp4",
+      "duration_seconds": 282.922667,
+      "width": 1280,
+      "height": 720,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    }
+  ],
+  "checks": {
+    "download_ranges_verified": true,
+    "full_decode": "passed",
+    "frames": "inspected",
+    "primary_source": "read_live",
+    "transcript": "local_ASR_from_original_media",
+    "composer": {
+      "status": "Ready",
+      "full_text_accepted": true,
+      "post_enabled": true,
+      "submitted": false
+    },
+    "composer_playback": {
+      "duration": 282.922667,
+      "time_start": 0,
+      "time_later": 7.511234,
+      "readyState": 4,
+      "paused": false,
+      "error": null
+    },
+    "public_page": {
+      "account": "@LeoGuoLabs",
+      "full_text_matches": true,
+      "format": "standalone",
+      "video_count": 1,
+      "video_duration_seconds": 282.92,
+      "playback_advanced": true,
+      "start_seconds": 39.082012,
+      "later_seconds": 56.276557,
+      "readyState": 4,
+      "error": null,
+      "evidence": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/alexandr-wang-ai-safety/public-verification.json",
+      "screenshot": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/alexandr-wang-ai-safety/public-verified.png"
+    }
+  },
+  "approval": {
+    "user_message": "确认，20分钟后发布",
+    "approved_at": "2026-10-10T13:57:55.848083+00:00",
+    "scope": "exact reviewed text and full original video; schedule after 20 minutes"
+  },
+  "actual_url": "https://x.com/LeoGuoLabs/status/2108924763767026089",
+  "updated_at": "2026-10-10T14:22:22.563931+00:00",
+  "review_screenshot": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/alexandr-wang-ai-safety/composer-review.png",
+  "schedule": {
+    "scheduled_at": "2026-10-10T22:17:00+08:00",
+    "timezone": "Asia/Singapore",
+    "native_x": true,
+    "status": "published_at_scheduled_time",
+    "queue_confirmation": "Will send on Sat, Oct 10, 2026 at 10:17 PM",
+    "queue_screenshot": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/alexandr-wang-ai-safety/scheduled-queue.png",
+    "post_verification": {
+      "automation_id": "wang-ai-safety",
+      "scheduled_for": "2026-10-10T22:18:00+08:00",
+      "one_time": true,
+      "status": "completed",
+      "automation_status": "PAUSED",
+      "closed_at": "2026-10-11T14:18:42.382307+00:00",
+      "closure_reason": "One-time verification completed on 2026-10-10; disabled automation after duplicate heartbeat on 2026-10-11."
+    }
+  },
+  "published_at": "2026-10-10T22:17:00+08:00",
+  "verified_at": "2026-10-10T14:22:04.903Z",
+  "verification_browser_note": "Codex in-app account page remained on loading screen and displayed lost-connectivity notice. Verified public post in Ego Lite using native app and matching browser tabs. No repost, edit, deletion, or duplicate submission."
+}

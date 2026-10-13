@@ -1,0 +1,20 @@
+{
+  "format": "Quote Post",
+  "account": "LeoGuoLabs",
+  "source_url": "https://x.com/blankspeaker/status/2104622394635899003",
+  "body": "Okay, I’d be pretty happy about this 😄 Cursor, Grok and X in one subscription would mean fewer plans to juggle. Just hoping the pricing and usage limits make it a good deal.",
+  "user_approved": true,
+  "publication_submitted": true,
+  "submission_confirmation": "Your post was sent. You have 1 hour to make any edits.",
+  "public_page_verified": true,
+  "public_url": "https://x.com/LeoGuoLabs/status/2105098814273253711",
+  "profile_verified": true,
+  "approved_body_matches": true,
+  "quote_target_verified": true,
+  "source_chain_verified": true,
+  "media_verified": [
+    "quoted source video",
+    "quoted source image"
+  ],
+  "evidence": "published-quote.png"
+}

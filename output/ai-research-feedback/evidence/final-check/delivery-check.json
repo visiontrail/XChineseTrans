@@ -1,0 +1,529 @@
+{
+  "video": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/ai-research-feedback/when-ai-becomes-the-research-team.mp4",
+  "checks_passed": true,
+  "visual_review": "not performed by this script",
+  "audio_listening": "not performed by this script",
+  "timestamp_cadence": {
+    "checked_frames": 6554,
+    "max_error_seconds": 3.333333467026023e-07,
+    "tolerance_seconds": 6.610416666666666e-05,
+    "origin_seconds": 0.0
+  },
+  "full_decode_passed": true,
+  "decoded_frames": 6554,
+  "fps": 30.0,
+  "width": 1920,
+  "height": 1080,
+  "streams": [
+    {
+      "index": 0,
+      "codec_name": "h264",
+      "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+      "profile": "High",
+      "codec_type": "video",
+      "codec_tag_string": "avc1",
+      "codec_tag": "0x31637661",
+      "mime_codec_string": "avc1.640028",
+      "width": 1920,
+      "height": 1080,
+      "coded_width": 1920,
+      "coded_height": 1088,
+      "has_b_frames": 2,
+      "sample_aspect_ratio": "1:1",
+      "display_aspect_ratio": "16:9",
+      "pix_fmt": "yuv420p",
+      "level": 40,
+      "color_range": "tv",
+      "color_space": "bt709",
+      "chroma_location": "left",
+      "field_order": "progressive",
+      "refs": 4,
+      "is_avc": "true",
+      "nal_length_size": "4",
+      "id": "0x1",
+      "r_frame_rate": "30/1",
+      "avg_frame_rate": "30/1",
+      "time_base": "1/15360",
+      "start_pts": 0,
+      "start_time": "0.000000",
+      "duration_ts": 3355638,
+      "duration": "218.466016",
+      "bit_rate": "292284",
+      "bits_per_raw_sample": "8",
+      "nb_frames": "6554",
+      "nb_read_frames": "6554",
+      "extradata_size": 51,
+      "disposition": {
+        "default": 1,
+        "dub": 0,
+        "original": 0,
+        "comment": 0,
+        "lyrics": 0,
+        "karaoke": 0,
+        "forced": 0,
+        "hearing_impaired": 0,
+        "visual_impaired": 0,
+        "clean_effects": 0,
+        "attached_pic": 0,
+        "timed_thumbnails": 0,
+        "non_diegetic": 0,
+        "captions": 0,
+        "descriptions": 0,
+        "metadata": 0,
+        "dependent": 0,
+        "still_image": 0,
+        "multilayer": 0
+      },
+      "tags": {
+        "language": "und",
+        "handler_name": "VideoHandler",
+        "encoder": "Lavc62.28.101 libx264"
+      },
+      "side_data_list": [
+        {
+          "side_data_type": "ICC Profile"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "codec_name": "aac",
+      "codec_long_name": "AAC (Advanced Audio Coding)",
+      "profile": "LC",
+      "codec_type": "audio",
+      "codec_tag_string": "mp4a",
+      "codec_tag": "0x6134706d",
+      "mime_codec_string": "mp4a.40.2",
+      "sample_fmt": "fltp",
+      "sample_rate": "48000",
+      "channels": 2,
+      "channel_layout": "stereo",
+      "bits_per_sample": 0,
+      "initial_padding": 0,
+      "id": "0x2",
+      "r_frame_rate": "0/0",
+      "avg_frame_rate": "0/0",
+      "time_base": "1/48000",
+      "start_pts": 0,
+      "start_time": "0.000000",
+      "duration_ts": 10486368,
+      "duration": "218.466000",
+      "bit_rate": "178449",
+      "nb_frames": "10238",
+      "nb_read_frames": "10237",
+      "extradata_size": 5,
+      "disposition": {
+        "default": 1,
+        "dub": 0,
+        "original": 0,
+        "comment": 0,
+        "lyrics": 0,
+        "karaoke": 0,
+        "forced": 0,
+        "hearing_impaired": 0,
+        "visual_impaired": 0,
+        "clean_effects": 0,
+        "attached_pic": 0,
+        "timed_thumbnails": 0,
+        "non_diegetic": 0,
+        "captions": 0,
+        "descriptions": 0,
+        "metadata": 0,
+        "dependent": 0,
+        "still_image": 0,
+        "multilayer": 0
+      },
+      "tags": {
+        "language": "und",
+        "handler_name": "SoundHandler"
+      }
+    }
+  ],
+  "format": {
+    "filename": "output/ai-research-feedback/when-ai-becomes-the-research-team.mp4",
+    "nb_streams": 2,
+    "nb_programs": 0,
+    "nb_stream_groups": 0,
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "format_long_name": "QuickTime / MOV",
+    "start_time": "0.000000",
+    "duration": "218.466016",
+    "size": "13096592",
+    "bit_rate": "479583",
+    "probe_score": 100,
+    "tags": {
+      "major_brand": "isom",
+      "minor_version": "512",
+      "compatible_brands": "isomiso2avc1mp41",
+      "encoder": "Lavf62.12.101"
+    }
+  },
+  "timeline_comparison": {
+    "timestamp_cadence": true,
+    "frames": true,
+    "fps": true,
+    "duration": true
+  },
+  "review_frame_indices": [
+    0,
+    1,
+    14,
+    15,
+    16,
+    230,
+    461,
+    462,
+    463,
+    476,
+    477,
+    478,
+    867,
+    1273,
+    1274,
+    1275,
+    1288,
+    1289,
+    1290,
+    1570,
+    1867,
+    1868,
+    1869,
+    1882,
+    1883,
+    1884,
+    2207,
+    2547,
+    2548,
+    2549,
+    2562,
+    2563,
+    2564,
+    2900,
+    3253,
+    3254,
+    3255,
+    3268,
+    3269,
+    3270,
+    3577,
+    3900,
+    3901,
+    3902,
+    3915,
+    3916,
+    3917,
+    4261,
+    4621,
+    4622,
+    4623,
+    4636,
+    4637,
+    4638,
+    4928,
+    5235,
+    5236,
+    5237,
+    5250,
+    5251,
+    5252,
+    5552,
+    5868,
+    5869,
+    5870,
+    5883,
+    5884,
+    5885,
+    6211,
+    6553
+  ],
+  "audio_present": true,
+  "audio_measurement": {
+    "input_i": "-16.15",
+    "input_tp": "-1.49",
+    "input_lra": "4.50",
+    "input_thresh": "-26.68"
+  },
+  "audio_measurement_note": "First audio stream; LUFS integrated and dBTP true peak; report only, no universal target.",
+  "extracted_frames": [
+    {
+      "file": "frames/000001.jpg",
+      "frame": 0
+    },
+    {
+      "file": "frames/000002.jpg",
+      "frame": 1
+    },
+    {
+      "file": "frames/000003.jpg",
+      "frame": 14
+    },
+    {
+      "file": "frames/000004.jpg",
+      "frame": 15
+    },
+    {
+      "file": "frames/000005.jpg",
+      "frame": 16
+    },
+    {
+      "file": "frames/000006.jpg",
+      "frame": 230
+    },
+    {
+      "file": "frames/000007.jpg",
+      "frame": 461
+    },
+    {
+      "file": "frames/000008.jpg",
+      "frame": 462
+    },
+    {
+      "file": "frames/000009.jpg",
+      "frame": 463
+    },
+    {
+      "file": "frames/000010.jpg",
+      "frame": 476
+    },
+    {
+      "file": "frames/000011.jpg",
+      "frame": 477
+    },
+    {
+      "file": "frames/000012.jpg",
+      "frame": 478
+    },
+    {
+      "file": "frames/000013.jpg",
+      "frame": 867
+    },
+    {
+      "file": "frames/000014.jpg",
+      "frame": 1273
+    },
+    {
+      "file": "frames/000015.jpg",
+      "frame": 1274
+    },
+    {
+      "file": "frames/000016.jpg",
+      "frame": 1275
+    },
+    {
+      "file": "frames/000017.jpg",
+      "frame": 1288
+    },
+    {
+      "file": "frames/000018.jpg",
+      "frame": 1289
+    },
+    {
+      "file": "frames/000019.jpg",
+      "frame": 1290
+    },
+    {
+      "file": "frames/000020.jpg",
+      "frame": 1570
+    },
+    {
+      "file": "frames/000021.jpg",
+      "frame": 1867
+    },
+    {
+      "file": "frames/000022.jpg",
+      "frame": 1868
+    },
+    {
+      "file": "frames/000023.jpg",
+      "frame": 1869
+    },
+    {
+      "file": "frames/000024.jpg",
+      "frame": 1882
+    },
+    {
+      "file": "frames/000025.jpg",
+      "frame": 1883
+    },
+    {
+      "file": "frames/000026.jpg",
+      "frame": 1884
+    },
+    {
+      "file": "frames/000027.jpg",
+      "frame": 2207
+    },
+    {
+      "file": "frames/000028.jpg",
+      "frame": 2547
+    },
+    {
+      "file": "frames/000029.jpg",
+      "frame": 2548
+    },
+    {
+      "file": "frames/000030.jpg",
+      "frame": 2549
+    },
+    {
+      "file": "frames/000031.jpg",
+      "frame": 2562
+    },
+    {
+      "file": "frames/000032.jpg",
+      "frame": 2563
+    },
+    {
+      "file": "frames/000033.jpg",
+      "frame": 2564
+    },
+    {
+      "file": "frames/000034.jpg",
+      "frame": 2900
+    },
+    {
+      "file": "frames/000035.jpg",
+      "frame": 3253
+    },
+    {
+      "file": "frames/000036.jpg",
+      "frame": 3254
+    },
+    {
+      "file": "frames/000037.jpg",
+      "frame": 3255
+    },
+    {
+      "file": "frames/000038.jpg",
+      "frame": 3268
+    },
+    {
+      "file": "frames/000039.jpg",
+      "frame": 3269
+    },
+    {
+      "file": "frames/000040.jpg",
+      "frame": 3270
+    },
+    {
+      "file": "frames/000041.jpg",
+      "frame": 3577
+    },
+    {
+      "file": "frames/000042.jpg",
+      "frame": 3900
+    },
+    {
+      "file": "frames/000043.jpg",
+      "frame": 3901
+    },
+    {
+      "file": "frames/000044.jpg",
+      "frame": 3902
+    },
+    {
+      "file": "frames/000045.jpg",
+      "frame": 3915
+    },
+    {
+      "file": "frames/000046.jpg",
+      "frame": 3916
+    },
+    {
+      "file": "frames/000047.jpg",
+      "frame": 3917
+    },
+    {
+      "file": "frames/000048.jpg",
+      "frame": 4261
+    },
+    {
+      "file": "frames/000049.jpg",
+      "frame": 4621
+    },
+    {
+      "file": "frames/000050.jpg",
+      "frame": 4622
+    },
+    {
+      "file": "frames/000051.jpg",
+      "frame": 4623
+    },
+    {
+      "file": "frames/000052.jpg",
+      "frame": 4636
+    },
+    {
+      "file": "frames/000053.jpg",
+      "frame": 4637
+    },
+    {
+      "file": "frames/000054.jpg",
+      "frame": 4638
+    },
+    {
+      "file": "frames/000055.jpg",
+      "frame": 4928
+    },
+    {
+      "file": "frames/000056.jpg",
+      "frame": 5235
+    },
+    {
+      "file": "frames/000057.jpg",
+      "frame": 5236
+    },
+    {
+      "file": "frames/000058.jpg",
+      "frame": 5237
+    },
+    {
+      "file": "frames/000059.jpg",
+      "frame": 5250
+    },
+    {
+      "file": "frames/000060.jpg",
+      "frame": 5251
+    },
+    {
+      "file": "frames/000061.jpg",
+      "frame": 5252
+    },
+    {
+      "file": "frames/000062.jpg",
+      "frame": 5552
+    },
+    {
+      "file": "frames/000063.jpg",
+      "frame": 5868
+    },
+    {
+      "file": "frames/000064.jpg",
+      "frame": 5869
+    },
+    {
+      "file": "frames/000065.jpg",
+      "frame": 5870
+    },
+    {
+      "file": "frames/000066.jpg",
+      "frame": 5883
+    },
+    {
+      "file": "frames/000067.jpg",
+      "frame": 5884
+    },
+    {
+      "file": "frames/000068.jpg",
+      "frame": 5885
+    },
+    {
+      "file": "frames/000069.jpg",
+      "frame": 6211
+    },
+    {
+      "file": "frames/000070.jpg",
+      "frame": 6553
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "bodyMatches": true,
+  "postEnabled": true,
+  "video": [
+    {
+      "currentTime": 9.002667,
+      "duration": 1685.25,
+      "height": 270,
+      "paused": true,
+      "readyState": 4,
+      "width": 480
+    },
+    {
+      "currentTime": 8.96,
+      "duration": 1685.25,
+      "height": 720,
+      "paused": true,
+      "readyState": 2,
+      "width": 1280
+    },
+    {
+      "currentTime": 0.00101,
+      "duration": 302.666,
+      "height": 360,
+      "paused": true,
+      "readyState": 4,
+      "width": 640
+    },
+    {
+      "currentTime": 0,
+      "duration": 50.866,
+      "height": 810,
+      "paused": true,
+      "readyState": 4,
+      "width": 720
+    },
+    {
+      "currentTime": 0,
+      "duration": 6.037333,
+      "height": 1080,
+      "paused": true,
+      "readyState": 4,
+      "width": 1080
+    }
+  ]
+}

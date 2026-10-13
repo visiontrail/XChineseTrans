@@ -1,0 +1,40 @@
+{
+  "source_url": "https://x.com/leo114119/status/2108904379290108395",
+  "original_target": "https://x.com/imjustnewatai/status/2108662320708698289",
+  "format": "native_quote",
+  "destination": "@LeoGuoLabs",
+  "text": "Still rumors, but AI getting better at building its own successors is worth watching. If that loop starts compounding, the pace could get wild.",
+  "media": [],
+  "source_media": [],
+  "checks": {
+    "live_source_read": true,
+    "quote_chain_root_read": true,
+    "source_contains_media": false,
+    "account_verified": "@LeoGuoLabs",
+    "composer_full_text_accepted": true,
+    "quote_card_verified": true
+  },
+  "research_notes": "Original post is a self-described rumor roundup, with no quoted post or media. Search of official sources did not establish the specific Fable 6 / Bel / cracked RSI rumors. Final commentary is qualified and conditional. Author replies describe fewer humans in the loop, not demonstrated autonomous RSI.",
+  "state": "publicly_verified",
+  "approval": {
+    "user_message": "确认发布",
+    "approved_text": "Still rumors, but AI getting better at building its own successors is worth watching. If that loop starts compounding, the pace could get wild.",
+    "approved_format": "native_quote",
+    "approved_target": "https://x.com/imjustnewatai/status/2108662320708698289",
+    "recorded_at": "2026-10-10T13:54:43.411004+00:00"
+  },
+  "published_url": "https://x.com/LeoGuoLabs/status/2108919207023046826",
+  "review_screenshot": "output/rsi-rumors-original-quote/quote-review.png",
+  "updated_at": "2026-10-10T13:48:13.307098+00:00",
+  "submitted_at": "2026-10-10T13:54:59.800151+00:00",
+  "public_verification": {
+    "account": "@LeoGuoLabs",
+    "complete_text_matches_approved": true,
+    "format": "native_quote",
+    "quote_target_url": "https://x.com/imjustnewatai/status/2108662320708698289",
+    "quote_target_verified_by_click": true,
+    "media_count": 0,
+    "screenshot": "output/rsi-rumors-original-quote/published-verified.png",
+    "verified_at": "2026-10-10T13:55:58.025592+00:00"
+  }
+}

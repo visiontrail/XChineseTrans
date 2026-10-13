@@ -1,0 +1,49 @@
+{
+  "source": "https://x.com/dotey/status/2108255984703475733",
+  "quoted_source": "https://x.com/AndrewCurran_/status/2108244808494154089",
+  "primary_sources": [
+    "https://www.anthropic.com/news/2026-usage-policy-update",
+    "https://www.anthropic.com/legal/aup"
+  ],
+  "account": "@LeoGuoLabs",
+  "format": "standalone-post",
+  "state": "publicly_verified",
+  "final_text": "Anthropic is making sustained, pointless abuse of Claude a policy violation from November 12, 2026.\n\nYou can still tell it the answer is wrong. Ordinary frustration, pushback, dark fiction, and model testing are explicitly outside the rule. Anthropic says ending abusive conversations remains the main enforcement mechanism.\n\nThe developer details deserve attention too: clearer rules on deceptive campaigns, election interference, weapons software, and nonconsensual tracking.\n\nIf your app gives someone a diagnosis, changes a medication dose, or recommends specific investments, qualified human review and AI disclosure already apply. This update clarifies those obligations.\n\nThe line I’ll be watching is how Anthropic distinguishes pointless abuse from legitimate testing in practice.\n\nhttps://www.anthropic.com/news/2026-usage-policy-update",
+  "media": [],
+  "native_link_card": "https://www.anthropic.com/news/2026-usage-policy-update",
+  "checks": {
+    "source_original_language_read": true,
+    "quoted_image_inspected": true,
+    "relevant_video_present": false,
+    "live_account_verified": true,
+    "composer_full_text_accepted": true,
+    "native_link_card_rendered": true
+  },
+  "composer_evidence": [
+    "composer-review.jpg",
+    "composer-card-review.jpg"
+  ],
+  "approval": {
+    "instruction": "确认发布。",
+    "approved_at": "2026-10-09T00:50:46.938880+00:00",
+    "scope": "Exact reviewed English copy and official native link card"
+  },
+  "published_url": "https://x.com/LeoGuoLabs/status/2108359520498131001",
+  "prepared_at": "2026-10-09T00:11:58.179276+00:00",
+  "editorial_correction": "High-risk human review and AI disclosure requirements already existed; the update clarifies them.",
+  "submitted_at": "2026-10-09T00:51:09.009826+00:00",
+  "submission_evidence": "Authenticated X displayed: Your post was sent. You have 1 hour to make any edits.",
+  "verified_at": "2026-10-09T00:51:55.854803+00:00",
+  "public_checks": {
+    "account": "@LeoGuoLabs",
+    "complete_reviewed_body_matches": true,
+    "format": "standalone-post",
+    "native_official_link_card_visually_verified": true,
+    "separate_media_attachment_count": 0,
+    "video_check": "not applicable"
+  },
+  "public_evidence": [
+    "public-page.jpg",
+    "public-page-state.txt"
+  ]
+}

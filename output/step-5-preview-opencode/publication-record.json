@@ -1,0 +1,46 @@
+{
+  "source": "https://x.com/leo114119/status/2108361410141179929",
+  "official_source": "https://x.com/opencode/status/2108206631859454383",
+  "format": "standalone",
+  "destination_account": "@LeoGuoLabs",
+  "state": "publicly_verified",
+  "text_path": "post.en.txt",
+  "media": [],
+  "prepared_on": "2026-10-09",
+  "checks": {
+    "source": "Read original post and its complete official Quote on live Ego Lite page; recovered metadata through read-only FxTwitter.",
+    "media": "Neither supplied post nor quoted official announcement contains image or video.",
+    "verified_claims": [
+      "Official announcement says free for one week",
+      "Official announcement and OpenCode catalog specify 1M context and multimodal inputs",
+      "OpenCode Zen documentation lists Step 5 Preview Free with free input/output/cache-read pricing and a provider zero-retention policy"
+    ],
+    "primary_urls": [
+      "https://x.com/opencode/status/2108206631859454383",
+      "https://opencode.ai/docs/zen/",
+      "https://stats.opencode.ai/data/stepfun/step-5-preview"
+    ],
+    "omitted_claim": "Same tier as DeepSeek V4.1 Flash: unsupported source-author assessment, omitted rather than presented as tested performance.",
+    "browser": "Built-in browser eventually recovered. Live source and @LeoGuoLabs authenticated session verified there. Ego Lite fallback also showed original source while logged out.",
+    "composer": "Full final text accepted in empty built-in browser composer; Post enabled; standard-post counter shows 6 remaining, total 24726. Official documentation link renders a native Zen card. Not submitted."
+  },
+  "authorization": "User explicitly approved exact reviewed version with 确认发布.",
+  "published_url": "https://x.com/LeoGuoLabs/status/2108371121984921906",
+  "final_text": "Step 5 Preview is free on OpenCode for a week: a 1M-token context window, multimodal support, and a zero-data-retention policy.\n\nA good excuse to try it on a repo you know well. Give it a bug fix or a refactor, then check the diff and run the tests.\n\nhttps://opencode.ai/docs/zen/",
+  "review_screenshot": "composer-review.png",
+  "browser_handoff": {
+    "browser": "Codex In-app Browser",
+    "tab_id": "1",
+    "note": "Volatile current-task tab only; rediscover if unavailable."
+  },
+  "submission_evidence": "Clicked Post once; X showed Your post was sent. You have 1 hour to make any edits. Awaiting actual status page verification.",
+  "verified_at": "2026-10-09T01:38:19.321410+00:00",
+  "verification": {
+    "account": "@LeoGuoLabs",
+    "format": "standalone",
+    "text": "Both approved paragraphs match visible public post; no additions or truncation.",
+    "link_card": "OpenCode Docs Zen card renders visibly on actual status page.",
+    "screenshot": "published-verified.png",
+    "media": "No attached image or video; official link card retained."
+  }
+}

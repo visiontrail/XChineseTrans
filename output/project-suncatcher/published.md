@@ -1,0 +1,23 @@
+# Published
+
+URL: https://x.com/LeoGuoLabs/status/2103405821011063018
+
+Account: @LeoGuoLabs
+
+Standalone English Premium post with directly uploaded 58.56-second original 1080x1920 video. Full text verified on the actual status page. Media upload reached Ready.
+
+Google is sending TPUs into orbit. The engineering question is how much useful compute a satellite can sustain.
+
+Project Suncatcher's first prototype, built with Planet, is scheduled to fly on SpaceX's Transporter-18 mission. It will test how Google's AI hardware handles launch vibration, radiation and the thermal conditions of space.
+
+Solar power is the attraction. Heat rejection is a major constraint. In a vacuum, there is no surrounding air to carry heat away. Google is testing heat pipes that move heat from the chips to radiators, which release it into space. The cooling system sets a limit on how much compute can run, and for how long.
+
+Google says its Trillium TPUs withstood a cumulative radiation dose above its estimate for a five-year mission in ground tests. That's encouraging evidence; sustained operation and workload reliability still need to be measured in orbit.
+
+Then comes the network. Google plans a two-satellite test in 2027 to evaluate the high-bandwidth laser links that a larger cluster would need.
+
+What I'd watch: sustained throughput, thermal duty cycle, error recovery and usable interconnect bandwidth. Launch and replacement costs also have to work. Those measurements will tell us how far this can scale.
+
+An early flight is valuable because it gives the next design real operating data.
+
+Public playback verified: duration=58.566, currentTime=7.841334, paused=false, readyState=4, no media error. Screenshot showed original footage; downloaded contact sheet shows English captions without Chinese overlays.

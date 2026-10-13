@@ -1,0 +1,597 @@
+0.2	AMD is acquiring World Labs. Um,
+2.7	congratulations to you both.
+5.0	>> Thank you.
+5.6	>> Lisa, I think a pretty obvious place to
+7.2	start is why?
+8.4	>> Absolutely.
+8.8	>> Why is AMD acquiring World Labs?
+11.0	>> Well, first Ed, thanks for having us and
+13.2	today's a super exciting day. I can tell
+15.4	you that um, you know, we are super
+17.4	excited to be acquiring World Labs. I
+19.4	have uh, known Fay for a long time. I've
+21.9	had tremendous respect uh, you know, for
+24.2	her as a researcher and as a visionary.
+26.9	And if you think about where AI is
+28.9	today, I mean, we are, you know, I've
+30.4	said often, Ed, that we're still in the
+32.5	very early innings of AI. And I truly
+34.6	believe that. And what's becoming more
+36.4	and more clear is that, um, the
+39.0	interaction between, you know, the
+40.9	hardware and the software and the
+42.4	systems and the model layer are such
+44.6	that the more you understand end to end,
+47.6	um, the better system you're going to
+49.3	build. And so that's why we're acquiring
+51.1	World Labs really is uh to have access
+53.6	to the worldclass talent that VFE has
+56.2	brought together and uh really bring it
+58.2	together with um AMD's uh complete
+60.9	capabilities around you know hardware,
+62.6	software and systems and um you know
+65.0	build the future of AI.
+66.8	>> I think we should get to the backstory
+68.9	uh with both of you but I would you talk
+70.9	a little bit Lisa how it came about you
+73.4	know the catalyst for doing the actual
+75.7	transaction? Well, um, as I said, I've
+78.0	had a tremendous respect for Fay Fay. I
+80.4	mean, you know, everyone knows just how
+82.2	much she has contributed to AI over, uh,
+84.7	the last actually couple of decades and
+86.8	from, you know, our personal
+88.0	relationship, we've always had, uh,
+90.1	that, you know, both mutual respect and
+91.9	trust. But what we saw is, uh, you know,
+94.4	AMD was an early investor in World Labs.
+96.7	So you know we saw Fay build when there
+99.0	were only you know just a very few
+100.8	researchers and really building to the
+102.8	team uh with Marble and then with now
+105.0	the release of Atlas and what we see is
+107.9	just a tremendous nucleus of capability
+110.7	uh that would be a huge addition to you
+113.8	know already our very talented you know
+115.5	AMD workforce. So um I was thrilled
+118.0	thrilled that uh you know Fay and her
+120.8	founders uh were uh excited about
+123.2	joining AMD
+124.2	>> and Fay reflect on that. I mean you and
+127.0	I have spoken very recently.
+128.8	>> Uh this of course did not come up but um
+131.6	I I suppose you know a good starting
+133.9	point other than how this came together
+135.6	is what opportunity did you see for your
+138.6	work and the team at World Labs work to
+141.0	be a part of AMD?
+142.4	>> Yes. So just to echo Lisa, this
+145.8	relationship has been going for many,
+148.2	many years. It started with mutual
+150.6	respect and really a genuine friendship
+153.8	at the personal and professional level.
+155.9	We're very grateful when AMD uh was an
+159.1	early believer and supporter of World
+161.4	Labs. But really what's most fundamental
+164.5	and important and exciting about this uh
+167.4	merger is the shared vision for the
+170.1	future of AI. Orlabs has been a frontier
+173.9	um model building company. We have been
+176.4	running as fast as we can to build the
+178.8	next generation uh multimodel um
+181.8	omnimodel for uh spatial and physical
+184.7	intelligence. And as our company grows,
+187.8	so is our ambition. So is our need for
+190.4	compute. And at this point, if we can
+193.9	join force with AMD, we really are um
+198.3	giving ourselves and and AMD and the
+200.7	ecosystem an opportunity to accelerate
+204.0	this flywheel between software and
+206.6	hardware development, which is critical
+209.3	critical for today's AI development.
+211.8	>> Lisa, I think we let's get into how that
+213.3	would work in practice. This isn't an $
+214.9	8.2 2 billion all stock transaction. But
+217.8	I I I kind of see two distinct things
+219.8	that AMD is is acquiring. There is the
+222.8	insight into the development of models
+225.9	and what the future of AI looks like
+227.6	that helps you inform future generations
+229.8	of hardware. Um separate from just
+232.8	getting a great team of researchers who
+235.4	can also then offer models. Let's start
+237.5	with the hardware piece. What was your
+239.2	thinking there?
+239.8	>> Yeah. Well, I think if you take a step
+241.4	back and just look at what we're trying
+243.4	to achieve, you know, across this AI
+245.8	ecosystem, I mean, it's a tremendous
+247.8	opportunity. Um, a lot of the focus
+249.8	today has been on, you know, large
+251.4	language models. Um, you know, really,
+253.7	uh, the large foundational model labs.
+255.7	You know, we have a a very deep and
+257.8	special relationship with, you know,
+259.7	folks like OpenAI and Anthropic and
+261.7	Meta. Um and then you have labs like
+263.8	what you know FE has built with world
+265.5	labs which is actually you know pushing
+267.4	the envelope on sort of the next big
+269.3	thing around world models and physical
+271.4	intelligence. Um we think that's
+273.2	extremely important as well. So uh the
+275.4	foundational work that um you know Feay
+277.9	and her team have done um in this area
+280.2	are things that we will continue. Uh but
+282.4	I also see it as a nucleus for you know
+284.8	as you know for the size and scope of
+287.0	our ambition at AMD. um having a
+289.4	world-class research team and you know
+291.8	Fay's team will be the nucleus of our um
+294.6	you know AI models team um I think is
+296.7	absolutely critical when we think about
+298.5	all of the innovation that is to be done
+301.8	um over the next decade um I think we
+304.1	want to do it uh really with innovation
+306.1	across the entire stack and so I I view
+308.5	this as you know both um you know a big
+311.8	uh vote of confidence for you know just
+313.6	the work that's already been done but
+315.1	even more importantly what we will do
+316.7	together uh across across the entire you
+319.1	know AI ecosystem.
+320.8	>> A lot of people would not have seen this
+322.7	coming. Fay, I actually think there's a
+324.8	lot of value in saying where did World
+326.4	Labs get to to date, you know, from
+328.6	founding to to present day. Um you've
+331.5	been through some of your own M&A
+332.9	activity to grow the team.
+334.9	>> So So where do we we sit today with
+336.5	World Labs? What what is what is the
+338.2	specialism and the work you're focused
+340.2	on?
+340.6	>> So World Labs is a frontier model
+342.8	company specializing in uh spatial and
+345.6	physical intelligence. I was just here
+348.2	talking about our latest model called
+350.6	Atlas. Yes. Which is a first of its kind
+353.2	multimodel omnimodel that uh that can
+356.2	generate uh beautiful pixels but also
+359.0	have the uh incredible 3D 4D consistency
+362.2	and allows cameras and agents to
+364.7	interact within these worlds. So we uh
+367.7	we were founded in 20 uh 20
+371.4	>> 2024. Yes. So we're a little more than
+374.2	two years old. uh with really the
+376.8	founding principle that AI is a
+378.8	civilizational technology. We really
+381.1	believe in the positive impact of AI and
+384.6	want to push the envelope beyond just
+387.3	the language modeling and going into uh
+390.2	spatial and physical because we're
+392.1	seeing the needs for human creators
+395.1	design uh designers for uh education
+398.4	health care but also the eminent
+400.6	revolution of robotics. So all this is
+403.4	the foundation of world models. Over the
+405.9	past two years we have built models and
+407.8	we have built team. We built we started
+410.2	with you know the kernel of computer
+412.6	vision deep learning uh large models as
+415.6	you said. Um we also have rolled out a
+419.1	couple of gen generations of models by
+421.8	now Marvel first and atlas and we also
+425.0	expanded our team with robotics talents.
+427.7	Uh we recently acquired Scenix where uh
+430.8	the the technologists there have built
+433.3	the firstofits-kind
+435.4	uh robotic simulation workflow and uh
+438.8	cutting edge robotic policy training um
+441.6	models. So, so World Lab is a very still
+445.8	a startup small team very ambitious like
+448.9	Lisa said we are focusing on building
+451.6	the next generation u technology and we
+455.2	cannot be more thrilled to join force
+457.7	with AMD because as I said I really
+460.9	believe that the future of AI is this
+463.8	co-evolution of AI software and AI
+467.0	hardware models will gain so much by
+469.7	using the most cutting edge hardware to
+471.8	accelerate the training, the inference,
+474.2	the servicing. But in the meantime,
+476.3	hardware would benefit so much from the
+478.4	insight and the the the the peak into
+481.6	the future of the workflows and and
+483.8	needs of uh of hardware.
+486.5	>> Lisa, is it as simple as AMD taking that
+489.1	work and and selling models um offering
+492.5	uh software as a product? Can I first
+496.2	say like ditto to everything that she
+498.3	just said because I think she described
+500.0	perfectly uh both the um tremendous work
+504.1	and the opportunity. But look um you
+506.4	know from our standpoint AMD continues
+508.3	to be a you know platform and solutions
+510.6	company. It's hardware, we have software
+513.1	as an enabling uh capability. We have
+515.4	systems work. We're bringing that all
+517.0	together. We work very very closely with
+519.3	our customers who are some of the
+520.9	leading uh model labs out there. So I
+523.4	wouldn't necessarily say that you know
+525.0	we're we're changing our model to be
+527.1	selling software. Um I really view this
+529.4	as uh you know first of all a tremendous
+531.7	foundation that uh World Labs has built.
+534.7	Um I think we've always said we believe
+536.6	in the open ecosystem and I continue to
+539.0	believe that that's uh one of the
+540.4	foundations um of the AI innovation race
+543.5	going forward is you're going to have
+544.7	both open as well as proprietary models.
+547.0	Um AMD has been a contributor there. I
+549.0	think we are going to expand that
+550.5	contribution uh with world labs as part
+553.4	of the equation and the ultimate goal is
+555.9	you know with world labs we build better
+558.2	AI. I mean that is AMD's goal right our
+560.8	our goal is uh our ambition is really to
+563.8	define the future of AI compute and be
+565.9	you know the best partner to the largest
+568.6	uh consumers out there and I think AI uh
+570.8	world labs will make us much much better
+573.4	um at that because of the insights and
+575.4	the opportunity uh to offer uh
+577.9	tremendous innovation across the stack.
+580.2	>> This deal is expected to close by the
+581.8	end of the year which isn't too far away
+583.7	subject to to regulatory approvals.
+586.5	How is uh is Dr. going to be integrated
+590.0	into the AMD team. What will her role
+592.1	be? Uh that that you you what did you
+594.2	pitch her on?
+595.3	>> Well, I pitched her on, you know, join
+597.4	the most exciting AI company in the
+599.3	world. That's what I pitched her on. But
+600.9	look, Fay um in addition to the World
+603.8	Labs team. I think Fay has a tremendous
+606.7	portfolio and ability to add across AMD.
+609.4	So, I'm very happy to say uh that she
+611.7	will be um AMD's chief scientist. So
+614.7	executive price uh vice president and
+616.4	chief scientist reporting to me and uh
+618.6	we will um you know really want and
+621.4	welcome you know the contributions of uh
+623.7	FE and the world's labs team across the
+626.6	AMD uh roadmap and if you think about
+629.5	everything that we do Ed one of the
+631.5	things I've always said is there's no
+633.0	oneizefits-all when it comes to AI right
+635.3	I mean we talk a lot about the big cloud
+638.3	compute and what we're doing in terms of
+640.5	CPUs and GPUs um but the physical AI I
+644.2	world, the opportunity in robotics, the
+646.5	end-to-end AI capability across cloud,
+649.8	edge, and client, you know, those
+651.1	continue to be um places where I believe
+654.1	we're going to grow a lot over the next,
+655.8	you know, 3, five, 10 years. And and
+657.6	those are all places that the world labs
+660.1	expertise is is really in our sweet
+662.2	spot.
+662.6	>> Fe, I do need to ask, you know, the
+664.6	World Labs had raised significant money
+666.6	earlier in the year. Um, you have had a
+669.4	lot of momentum.
+671.2	What options did you have? you know, was
+673.3	it always uh a path towards joining AMD?
+676.5	What did you consider?
+678.0	>> I think from the get-go, we built a
+679.8	company to really uh stick to our
+682.4	mission. We're very missiondriven and
+684.6	our mission is really to make a positive
+687.0	impact with the technology that we
+688.8	believe in. Yes.
+689.8	>> So it's not a matter of option, it's a
+692.0	matter of belief. And having taken this
+695.4	journey with AMD since the beginning,
+698.2	them being our investor as well as uh
+700.7	chip provider and then gradually talking
+704.2	to um Lisa about our shared vision. It
+707.5	truly is the merging of uh of of the
+711.8	shared uh vision and mission. So it's
+714.5	not about option, it's about what we can
+716.3	do in the future. And I genuinely
+718.2	believe this is uh um this is going to
+722.0	be um one plus one bigger than two.
+724.4	Well, to be fair, you're you're bigger
+725.9	than one compared to World Wars, but
+728.6	it's really going to be a a very very
+731.7	exciting journey together.
+733.1	>> In that shared vision, uh clearly uh
+737.1	emphasis on open source and uh is a
+742.2	non-negotiable in in the direction of
+744.1	travel for AI. Let's speak a little bit
+745.8	more about that, Lisa. I mean why is it
+748.3	important for AMD from the company's
+750.4	perspective to advocate for for an open-
+753.2	source market and environment but also
+756.1	you some of the models that the world
+757.6	labs have worked on have been open some
+759.5	have been closed or proprietary and how
+761.6	you balance that going forward. Yeah, I
+764.0	think uh the key is what FE said. It is
+766.9	about shared vision for what we're
+768.6	trying to accomplish and we are trying
+771.0	to be a um a very big contributor to the
+775.7	expansion, the acceleration, the
+777.6	innovation in the AI ecosystem.
+779.5	>> Yes.
+780.0	>> And to do that, I think you're going to
+782.0	have um open models, you're going to
+784.1	have uh proprietary models, you're going
+785.8	to have large models, you're going to
+787.4	have small models. Uh they're going to
+789.1	run on different hardware. And uh that's
+791.8	been a premise for AMD in our uh entire
+795.4	high performance computing and AI
+796.8	roadmap going forward. So I think what
+798.7	you're going to see is more emphasis on
+801.5	having optionality. Um enterprises want
+804.3	optionality. You know when I talk to
+806.0	enterprise CEOs and CIOS, nobody wants
+808.9	to be locked into either, you know, one
+811.5	hardware ecosystem or one software
+813.5	ecosystem. People want to be able to
+815.1	choose what's best at a given time. And
+817.6	we also want to en enable all of these
+819.5	entrepreneurs and you know new companies
+822.1	out there that are coming up with great
+823.5	ideas. So you're going to see us
+824.8	continue to lean into open ecosystems as
+828.2	a a key way of enabling uh the entire
+831.0	you know AI ecosystem. And with that um
+833.5	you know I do think you know part of
+834.8	what FY and I have talked about is how
+836.7	to leverage some of the great work that
+838.4	worldaps has already done uh to actually
+840.8	you know accelerate some of the open
+842.3	ecosystem going forward. the please
+845.0	>> can I add? So the history of modern AI
+849.0	cannot be possible without open
+851.7	ecosystem from the open sharing of uh
+856.0	neuronet network algorithms through
+857.8	scientific communities to my own work
+860.2	imageet right we imageet was the first
+863.3	open-source data set that was part of
+865.9	the the driving force for modern AI
+868.6	revolution so I think just to add on to
+871.4	what Lisa said we need optionality and
+874.1	it's so important that an open ecosystem
+877.0	helped to cross-pollinate discovery,
+880.1	innovation, entrepreneurship, business
+882.6	opportunities. This is the meaning uh
+885.8	and and impact of an open ecosystem. I
+888.6	think a lot of people will say Fay um
+890.7	World Labs has focused on what we've
+892.4	called spatial intelligence uh a focus
+895.3	on physical AI but other um
+900.3	areas of the market where a world model
+902.7	is more appropriate than than text and
+905.0	large language model. Do you now go
+907.6	broader in your work within AMD? Um and
+910.8	and have not such a a narrow is a
+913.4	strange way to put it, but um yes, a
+916.1	broader field of work across model
+918.2	types.
+919.0	>> Yeah, look um we have a lot to look
+921.4	forward to in the future. Lisa and I
+923.3	barely got time to talk about all the
+925.9	plans. Obviously, this is going to
+928.1	accelerate and expand our road map,
+930.2	right? We are going to have a lot of
+931.9	conversations. We're definitely going to
+933.9	keep doing some of the most exciting
+935.9	work that we're lab is already doing,
+937.8	but I do envision that we will be
+940.1	expanding and accelerating.
+941.9	>> Lisa, this is the first opportunity I've
+943.8	had to speak to you um in the era of uh
+947.8	debate around AI safety.
+949.9	>> It's hard to make it succinct, but the
+952.2	argument that the capabilities of models
+954.6	are advancing at a pace greater than
+957.0	safety and alignment are advancing to
+958.6	keep up with that development. what what
+960.8	is AMD and your position on how best to
+963.8	to address all of the concerns that that
+966.5	are out in the world at the moment?
+968.0	>> Yes, Ed, um this is an extremely
+969.8	important point. So, I'm actually glad
+971.8	uh you brought it up because uh it is
+973.6	one that we have to be super clear about
+975.5	as an industry. I mean, there is no
+977.8	optionality in this. This is uh we must
+980.6	have great technology and it must be
+982.5	safe and you know that's just
+984.7	unequivocal. And when I look at you know
+987.8	just history of you know how we develop
+991.4	technologies um it is one of those
+993.4	things where you know safety has to
+995.4	become a first class citizen uh when
+997.5	you're doing development and you know
+999.0	we've seen that in our own work when we
+1000.9	think about all of the uh security and
+1003.2	the confidentiality things that you have
+1004.9	to do around highest the highest
+1006.6	performing processors. I think we're
+1008.4	going to have to bring that into the AI
+1010.4	ecosystem and I know that that's you
+1012.0	know front and center in the
+1013.3	conversation. Um I am actually an AI
+1015.7	optimist. I believe that we will put the
+1019.4	right procedures, processes, guard
+1022.1	rails. Um I think an industry-wide
+1024.6	effort where uh we actually share best
+1027.3	practices and um that's one of the
+1029.9	things that we do on the hardware side
+1031.3	today for example around security. Uh
+1033.4	those are all important aspects of it.
+1035.2	But I think we need to be unequivocal to
+1037.1	those who are the users of AI. uh we
+1039.6	absolutely are going to deliver great
+1041.6	technology um that is safe that is
+1043.8	aligned with its purposes and it
+1045.8	requires a tremendous amount of work. So
+1048.0	it's not going to be uh easy but it is
+1051.2	uh definitely something that you know we
+1052.8	are committed to as an industry and we
+1054.5	must work together to make that happen.
+1056.2	>> When we spoke last week Fay um I listed
+1059.9	to you regulation, third party
+1062.8	evaluation, the frontier labs taking
+1065.1	responsibility and your your response
+1066.8	was all of the above. Um, but how do you
+1069.2	you see your work within AMD on on this
+1072.3	issue of AI safety? Also bearing in mind
+1075.0	your long history with this industry and
+1077.3	this field of research.
+1078.9	>> Yeah, first of all, totally agree with
+1080.6	Lisa and like I said, this entire
+1083.8	happening is because of the shared uh
+1085.9	shared vision and shared mission. So
+1088.6	safety is shared responsibility. AI is a
+1092.2	civilizational technology and like all
+1094.6	civilizational technologies we start
+1097.4	with the intention of making human lives
+1099.8	and work better but along the way we
+1102.2	learn that we have to use it develop it
+1105.1	and deploy it responsibly because every
+1108.1	technology is a double-edged sword. So I
+1110.7	do think whether it was at Warlaps or
+1113.4	Stanford or now joining AMD, I really
+1116.8	want to work with Lisa, her team and the
+1118.8	rest of the ecosystem to see how we can
+1121.8	bring out this shared responsibility at
+1124.2	individual level in individual company
+1126.9	level, industry level as well as
+1129.5	societal level. I find this fascinating
+1131.7	because I want to go back to okay AMD's
+1134.2	acquiring world labs that gives deep
+1136.1	insight into the development of industry
+1139.0	and and the models the capabilities of
+1141.8	the models and training runs improve
+1144.4	also because the compute its
+1146.0	capabilities is improving generation to
+1148.5	generation. I guess the the the root of
+1151.4	the question is you know what
+1152.8	responsibility then the compute platform
+1155.4	providers take for how that training is
+1158.4	conducted safely and then on the
+1160.1	inference side the running of those
+1161.8	models that they are aligned they behave
+1164.6	as we intended them to to to do
+1166.5	>> well it's a great point Ed one of us in
+1169.6	the ecosystem has a responsibility and
+1172.0	we're accountable for um our our actions
+1175.4	so from from us as a hardware platform
+1178.1	we need to make sure that our hardware
+1180.1	is secure that um you know it's it does
+1183.3	what it's meant to do that when models
+1185.4	run on it um that the data is secure
+1188.9	that is something that is very much
+1190.4	front and center center in what we do uh
+1192.9	we need to work with the model companies
+1194.7	in terms of you know how the hardware
+1196.7	and software interact um I think you
+1198.9	know fe's point here is you know the the
+1201.8	thought leadership aspect of it is we
+1204.5	must step up as an industry and you know
+1207.0	I do think this is an industry led thing
+1209.9	in terms of uh you know we have the
+1211.9	accountability to put out safe
+1213.2	technology but there are ways for us to
+1215.6	work more cohesively across the industry
+1218.9	because this is kind of new and whenever
+1220.8	you have something that's kind of new
+1222.3	you're actually learning each party
+1224.1	might be learning uh at a a different
+1226.3	pace and so what I really welcome is the
+1229.1	opportunity uh for more industry
+1231.2	collaboration as well as some third
+1233.0	party um evaluation to ensure that every
+1236.0	part of the stack is uh working together
+1238.7	towards this objective of, you know,
+1240.9	phenomenal technology that is safe and
+1243.1	aligned to um its objectives.
+1245.7	>> Lisa, this is a massive moment for for
+1248.0	AMD. Actually, it it's a a moment after
+1252.2	some sustained momentum, $1 trillion of
+1255.4	market cap, a big moment for the
+1258.1	company. You have been very visible uh
+1261.3	alongside the president of the United
+1263.0	States, a leader in industry.
+1266.3	what happens next for AMD. I appreciate
+1268.8	that that World Labs is still to close,
+1271.0	but but what you see as as AMD in the
+1273.7	future.
+1274.4	>> Well, uh, first I'd like to say, Ed, I
+1276.6	love this industry. I love what we're
+1278.4	able to do. You know, I love the
+1279.8	comments that Fay made about, you know,
+1281.9	first and foremost, uh, we're here to
+1284.0	make technology, you know, better for
+1286.0	society, better for people, and that's
+1288.5	what I get excited about every day. So
+1290.6	the fact that um you know our execution
+1293.1	has been strong that we've continued to
+1296.1	uh really work with the leaders of the
+1297.7	industry uh both large companies as well
+1300.2	as you know we've done a number of
+1302.0	acquisitions that have made a large
+1303.7	difference to AMD and and World Labs
+1305.8	will be uh the next and an extremely uh
+1308.5	strategic and important one. I think
+1310.3	this is all part of recognizing that
+1312.9	technology is such an important part of
+1315.8	society today. whether we're you're
+1317.7	talking about the economy or you're
+1319.1	talking about national security and AMD
+1321.8	has a chance to uh you know truly
+1324.3	influence and direct where you know the
+1326.6	future of computing is going. So, no
+1328.7	better place to be.
+1330.0	>> And Fay, to finish our conversation with
+1332.5	you,
+1334.1	what happens next? Um, you know, you and
+1337.4	I have discussed this in various
+1339.6	mediums. The idea that you're the
+1341.4	godmother of AI.
+1343.1	>> I'm going to keep her very busy.
+1346.2	>> You you know, you have been researching
+1349.1	in the space for a long time. Now, this
+1351.0	is the next phase for World Labs as part
+1352.6	of AMD. But I I want that that sort of
+1355.4	crystal ball of what you think will the
+1358.3	next major development in AI will be
+1361.1	something that you stay up late thinking
+1363.8	about that you're writing about that you
+1365.8	pitch Lisa back on saying I think this
+1367.8	is what's going to happen. What happened
+1369.3	next is Lisa and I AMD and World Labs
+1372.6	will build the future together and I
+1375.5	believe so strongly this future has to
+1378.0	be
+1379.6	benevolent to the human society and
+1381.8	human lives and this is our shared
+1384.1	responsibility and it's what makes us so
+1386.9	excited.
+1388.8	AMD CEO Lisa Sue, World Labs founder,
+1392.8	CEO
+1394.3	Fe Lee, soon to be chief scientist of
+1398.0	AMD and a part of the models teams at
+1400.5	AMD, among other things. Thank you both
+1402.2	very much and congratulations.
+1404.7	>> Thank you.
+1405.3	>> Thank you.

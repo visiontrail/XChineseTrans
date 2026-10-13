@@ -1,0 +1,18 @@
+Selected new series: 1 configurations, 2 concurrency, 3 populated context speed. All three replace prior illustrative images. Rendered from data with matplotlib/Pillow, no generated UI or hardware illustration.
+Model example: Qwen3.6-27B, not a Qwen 4 release prediction.
+Configuration recommendations are planning targets/inferences from measured file sizes, public hardware specs and supported runtime behavior, not our measured installations or guarantees. A 16GB GPU can be tight for Q4 plus cache; smaller quant/CPU offload is a possible path. 24/32GB dedicated GPU capacities are distinct from host RAM. Apple unified memory is shared with OS/applications. 64GB host RAM is an editorial headroom target, not a measured minimum. Runtime cache allocations and GPU-resident extras depend on architecture, quantizer, context, backend and vision/speculative features.
+Unsloth file sizes freshly checked via publisher tree/API; actual bytes retained in unsloth-file-metadata.json. Different GGUF publishers have different quantized sizes, so data is publisher-specific.
+Dual RTX3090 concurrency report: primary author repository, 2026-05-26; Qwen3.6-27B AWQ BF16 INT4, vLLM0.21.0, MTP2, FP8 KV; Ryzen79800X3D+64GBDDR5-5200, PCIe4 x8/x8, noNVLink; structuredJSON ~25 input tokens/~1024 output cap, thinkingoff. Perstream throughput average is not simply aggregate divided by concurrency because timing/averaging differs; retain exact reported values. Output quality checked only within that test. No claim of general 256tps chat speed.
+Apple context report: primary tester jyxjjj, posted2026-08-18 in llama.cpp discussion12985. M5Max128GB, Qwen3.6-27B Q8_0, Q8_0KV, GPUlayers99, FAon,6threads,3reps, PP512/TG256, context depths already populated. llama.cpp build not specified. Each panel has its own yscale and uses reported error bars. These figures cannot directly rank Apple against the other runtime/quant/workload.
+Excluded outsourc-e RTX4090 recipe data: its raw c1 run lists duration errors for every task but later appends an aggregate, so it does not provide clean supporting evidence. No figures from it are published.
+No local model inference was run in this task. Images show publicly reported tests, clearly labeled.
+Sources:
+https://huggingface.co/unsloth/Qwen3.6-27B-GGUF/tree/main
+https://github.com/Ruashots/qwen3.6-27b-dual-3090-vllm-lxc/blob/main/bench/results.md
+https://github.com/Ruashots/qwen3.6-27b-dual-3090-vllm-lxc
+https://github.com/ggml-org/llama.cpp/discussions/12985
+https://docs.ollama.com/faq
+https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/
+https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/
+https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4090/
+https://www.amd.com/en/products/graphics/desktops/radeon/7000-series/amd-radeon-rx-7900xtx.html

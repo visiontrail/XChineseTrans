@@ -1,0 +1,14 @@
+[
+  {
+    "level": "error",
+    "message": "n: ApiError: https://api.x.com/1.1/account/settings.json HTTP-0 codes:[1004]\n    at u (https://abs.twimg.com/responsive-web/client-web/main.6a9f1a030355136ba.js:17:19342)\n    at https://abs.twimg.com/responsive-web/client-web/main.6a9f1a030355136ba.js:17:19799",
+    "timestamp": "2026-10-13T01:40:40.321Z",
+    "url": "https://abs.twimg.com/responsive-web/client-web/main.6a9f1a030355136ba.js"
+  },
+  {
+    "level": "error",
+    "message": "MediaError: POST https://upload.x.com/i/media/upload2.json?command=INIT&total_bytes=25582438&media_type=video%2Fmp4&video_duration_ms=154666.667&media_category=amplify_video\n    at Object._ [as error] (https://abs.twimg.com/responsive-web/client-web/shared~JetfuelWrapper~bundle.AccountVerification~bundle.AudioSpaceAnalytics~bundle.AudioSpaceDetail~bundle.Au.5f4abfd3d9fa5ae6a.js:4:46674)\n    at https://abs.twimg.com/responsive-web/client-web/shared~JetfuelWrapper~bundle.AccountVerification~bundle.AudioSpaceAnalytics~bundle.AudioSpaceDetail~bundle.Au.5f4abfd3d9fa5ae6a.js:4:18311",
+    "timestamp": "2026-10-13T01:58:51.926Z",
+    "url": "https://abs.twimg.com/responsive-web/client-web/shared~JetfuelWrapper~bundle.AccountVerification~bundle.AudioSpaceAnalytics~bundle.AudioSpaceDetail~bundle.Au.5f4abfd3d9fa5ae6a.js"
+  }
+]

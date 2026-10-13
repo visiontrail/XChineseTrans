@@ -1,0 +1,46 @@
+Frank Wang 玉伯
+@lifesinger
+Show translation
+小扎谈 Muse 的三个差异化
+
+小扎在近期访谈里谈到 Muse 的三个核心差异化，非常有意思。
+
+一、从底层为场景设计模型
+
+不是拿通用模型套个壳，是从底层就冲着个人 agent 来设计模型。差不多每个月发一次新模型，一次比一次聪明，能做的事也越来越多。
+
+二、社交基因
+
+Meta 擅长连接人，Muse 也不只替人干活，还要帮人照顾家人、维系朋友关系。
+
+访谈里提到一个词，fleet，原意是舰队，这里指所有用户的 Muse agent 组成的群体。思路是让 agent 从群体中学习匿名经验，再结合各自用户的需求，提出新建议。app 里的 ideas 标签就用来推荐还能替你做的事。
+
+小扎认为，行业大多把 agent 当成单机游戏，各用各的。让 agent 互相配合，才有更多可能。相关功能大多还没在这次发布中推出，但方向很明确，你认识的人里，用 Muse 的越多，Muse 就越好用。
+
+三、隐私与安全
+
+隐私与安全，可能是最让人意外的差异化。Muse 要懂你，就得接触消息、邮件、健康信息。没有信任，这些都无从谈起。
+
+Meta 从 WhatsApp 十多年的加密经验中学到，保护隐私不能只靠承诺，系统得做到连 Meta 自己也看不到内容。为此，团队请来 Signal 创始人 Moxie Marlinspike 开发 confidential VM，也就是保密虚拟机。目标是让云端的个人信息连 Meta 也无法查看，还能通过技术验证这一点。访谈时，更多细节仍待公布。
+
+密码和支付凭证单独保管，按需调用，还支持一次性卡号。sentinel agents 相当于安全哨兵，检查进出的信息，发现可疑指令或敏感内容外发，就请用户确认。登录、付款、传敏感信息，通常都要先点头，也可以预先授权。接邮件默认只读，需要发信再单独授权。
+
+在小扎看来，这套防护的细致程度，是 Muse 的重要优势。
+
+定价上，Muse 起步提供每周 1 亿 tokens 的免费额度，还带台虚拟机。长期计划从交易中收取少量佣金，费用可以由商家承担，支付与 Stripe 合作。
+
+出处：以上内容来自 Mark Zuckerberg on how Meta's Muse AI agent will make people money，Sources 播客，主持人 Alex Heath，2026 年 9 月。
+
+原视频：
+Mark Zuckerberg on how Meta's Muse AI agent will make people money
+From youtube.com
+11:18 PM · Sep 26, 2026
+·
+29.8K
+ Views
+8
+16
+35
+49
+Relevant
+View quotes

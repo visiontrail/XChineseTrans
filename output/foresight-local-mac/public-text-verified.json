@@ -1,0 +1,10 @@
+{
+  "publicTextMatch": true,
+  "normalization": "Remove rendered line break inside the URL and collapse an extra display newline before it.",
+  "publicText": "Google made a free meeting assistant for Mac, and the part I like is that the AI runs on your own machine.\n\nForesight is an experimental app optimized for Apple Silicon. Jot down a few rough bullets and it uses the live transcript to fill in the details. Add your project files and it can surface relevant answers with citations while you're still in the meeting.\n\nEmbeddingGemma 2 handles retrieval; Gemma 4 generates the answers. Google says the AI works offline and keeps meeting audio, notes and imported files on your Mac, with no cloud subscription.\n\nBeing able to pull up the right project detail mid-call could save a lot of awkward “I'll get back to you” moments. That's a use of local AI I can get behind.\n\n\nhttps://\ndevelopers.google.com/edge/foresight",
+  "publicLink": {
+    "href": "https://t.co/9UCAA0DUna",
+    "text": "https://developers.google.com/edge/foresight",
+    "title": null
+  }
+}

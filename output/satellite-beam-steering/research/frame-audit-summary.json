@@ -1,0 +1,103 @@
+{
+  "source_url": "https://x.com/andyl5cc/status/2104437066755125601?s=46",
+  "reference": "reference-sample-720.mp4",
+  "sha256": "d5af627612e9a4a9532b3678b362d4fb97201bf7a7e5b2a86b32097be709b82f",
+  "width": 1280,
+  "height": 720,
+  "fps": 59.99999712987337,
+  "decoded_frames": 12543,
+  "video_duration_seconds": 209.05001,
+  "inspection": {
+    "all_frames_automatically_decoded": true,
+    "human_visual_unique_sampled_frames": 67,
+    "overview_samples": 42,
+    "dense_samples": 28,
+    "duplicates": 3,
+    "frame_numbering": "zero_based",
+    "metrics_resolution": [
+      480,
+      270
+    ],
+    "audio_listening_claim": false,
+    "native_1080_rechecked_frames": [
+      1800,
+      2100,
+      8400,
+      9600
+    ]
+  },
+  "audio_measurements": {
+    "integrated_lufs": -14.1,
+    "loudness_range_lu": 2.2,
+    "true_peak_dbtp": -1.1
+  },
+  "findings": [
+    {
+      "id": "scale_and_structure",
+      "evidence_frames": [
+        0,
+        300,
+        499,
+        500,
+        600,
+        900,
+        1500,
+        2100
+      ],
+      "finding": "尺度变化和真实部件结构共同组织镜头，而不是单一平面图持续换标题",
+      "action": "卫星全景→阵面微距→相位与波前→地面目标→卫星结果"
+    },
+    {
+      "id": "causal_same_shot",
+      "evidence_frames": [
+        1780,
+        1800,
+        1820,
+        1840,
+        2640,
+        2670
+      ],
+      "finding": "输入、器件、输出在同一镜头可见，状态变化先于数量扩展",
+      "action": "一个状态变量同步驱动阵元相位、波前方向、主瓣角，不做独立数字动画"
+    },
+    {
+      "id": "restrain_flash",
+      "evidence_frames": [
+        9665,
+        9666,
+        9667,
+        9668,
+        10187,
+        10188,
+        10563,
+        10564
+      ],
+      "finding": "参考的强白闪/亮度跳变几乎改变全画面，可能暂时遮掉结构",
+      "action": "将亮度强调限制在活动阵元/波束；避免全屏白闪打断因果"
+    },
+    {
+      "id": "readability",
+      "evidence_frames": [
+        1800,
+        2100,
+        8400,
+        8700,
+        9600
+      ],
+      "finding": "大量微小注释和双语字幕在手机尺度难读",
+      "action": "机制镜头一个主标签和一个必要读数；字幕区域避开主体"
+    },
+    {
+      "id": "render_tool_boundary",
+      "evidence_frames": [],
+      "finding": "成片像素能说明视觉表现，不能确认作者实际软件链",
+      "action": "文章明确写我们采用的复现技术，不声称参考也用相同工具"
+    }
+  ],
+  "contact_sheets": [
+    "reference-contact-overview-1.jpg",
+    "reference-contact-overview-2.jpg",
+    "reference-contact-detail.jpg"
+  ],
+  "report": "frame-audit-zh.md"
+}

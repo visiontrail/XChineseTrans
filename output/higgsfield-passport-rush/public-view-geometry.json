@@ -1,0 +1,28 @@
+{
+  "article": {
+    "height": 1302,
+    "width": 598,
+    "x": 276,
+    "y": 53
+  },
+  "frames": [
+    {
+      "scrollY": 0,
+      "viewportHeight": 720,
+      "viewportWidth": 1280,
+      "file": "public-view-0.png"
+    },
+    {
+      "scrollY": 576,
+      "viewportHeight": 720,
+      "viewportWidth": 1280,
+      "file": "public-view-1.png"
+    },
+    {
+      "scrollY": 920,
+      "viewportHeight": 720,
+      "viewportWidth": 1280,
+      "file": "public-view-2.png"
+    }
+  ]
+}

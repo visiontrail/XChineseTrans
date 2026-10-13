@@ -1,0 +1,18 @@
+Gemini 4 Argon, GPT-6.1 Sol and Claude Opus 5.5 show different strengths across coding, business workflows and scientific tasks.
+
+Selected published scores, in the order Argon / Sol / Opus 5.5:
+• DeepSWE v1.1: 77.9% / 75.2% / 74.2%
+• Vals Finance Agent v2: 65.4% / 52.0% / 58.6%
+• Harvey’s Legal Agent Benchmark: 19.6% / 5.4% / 3.8%
+• AutomationBench 1.0.6: 51.3% / 36.1% / 42.5%†
+• Terminal-Bench Science 0.1: 57.6% / 57.0% / 63.3%
+
+Argon has the highest reported scores here on finance, legal work and business automation. Sol is close on DeepSWE; Opus has the highest Science score of the three. These results combine published configurations, with different reasoning settings and agent harnesses. Sol’s DeepSWE result uses high effort; its AutomationBench and Science results use max. Argon’s Science run uses a 6× longer verifier timeout, so the 0.6-point gap is not a clean head-to-head result.
+
+Sol’s standard API rates are $2 input / $10 output per million tokens for prompts up to 272K input tokens. That matches Argon’s announced introductory rates; Argon’s announced post-promotion rates are $4 / $20. Equal token prices still do not mean equal cost per completed task.
+
+A dash marks a Sol result not verified in the reviewed sources. There is no basis here to rank Sol on FrontierSWE, PostTrainBench, CWE-bench, GraphWalks or LVBench.
+
+For deployment, I would compare successful task completion, retries, latency and total spend on the actual workload.
+
+† Fallback enabled: some tasks may be handled by other Claude models.

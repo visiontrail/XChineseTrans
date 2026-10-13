@@ -1,0 +1,63 @@
+{
+  "sources": [
+    "https://x.com/Lonely__MH/status/2108177893239247095",
+    "https://x.com/Lonely__MH/status/2108178258923852177"
+  ],
+  "primary_model_card": "https://huggingface.co/Noctaluna/Noct-Q-Uncensored-Qwen-Image-2.1",
+  "followup_link_actual_target": "https://huggingface.co/ausboss/Qwen-Image-2.1-Outfit-Swap-Consistency-LoRA",
+  "format": "standalone",
+  "account": "LeoGuoLabs",
+  "text": "Noct Q is a community take on Qwen Image 2.1, focused on photorealism and described by its developer as uncensored.\n\nThe practical appeal is local experimentation: the V4 INT8 checkpoint is about 7.3 GB, with the developer listing 8–12 GB GPUs. It supports generation and editing in ComfyUI, though the text encoder and VAE are separate downloads.\n\nThis is what makes an open-weight ecosystem interesting to me: people can specialize a model around different creative priorities.\n\nOne constraint to keep in mind: the release is for non-commercial use under the Qwen Research License.\n\nhttps://huggingface.co/Noctaluna/Noct-Q-Uncensored-Qwen-Image-2.1",
+  "media": [
+    {
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/noct-q-qwen-image-21/camping-source-1.jpeg",
+      "source_post": "2108177893239247095",
+      "source_image": 1,
+      "retrieved_at_utc": "2026-10-08T13:33:11.304481+00:00",
+      "bytes": 124162,
+      "sha256": "a450f8c4131a78b92ef119ce613e267a0047eb6210641d0f37bc3d5111bd4b4f",
+      "alt": "A woman wearing a cream sweater, shorts and a knit hat sits at the entrance of a warmly lit tent, holding a mug beneath a star-filled night sky."
+    }
+  ],
+  "state": "publicly_verified",
+  "authorization": "User confirmed publication after review and discussion of adding the correct model link.",
+  "published_url": "https://x.com/LeoGuoLabs/status/2108190280897974531",
+  "notes": [
+    "Source image 1 inspected; clothed adult camping illustration. No claim of independently verifying the generator.",
+    "Image 2 contains pixelated exposed breast; not selected.",
+    "Unrelated quoted Fotor 78-second video excluded; no relevant video for Noct Q.",
+    "Followup links a different outfit consistency LoRA; do not conflate models.",
+    "No controlled superiority or complete safety-removal claim included. Developer-stated GPU range, not independently tested.",
+    "No model downloaded or executed."
+  ],
+  "composer_checks": {
+    "account_profile_observed": "https://x.com/LeoGuoLabs",
+    "complete_text_accepted": true,
+    "characters": 583,
+    "characters_remaining": 24417,
+    "image_count": 1,
+    "alt_saved": true,
+    "post_button_enabled": true,
+    "submitted": true,
+    "screenshot": "composer-review.jpg",
+    "final_weighted_characters": 608
+  },
+  "approved_at_utc": "2026-10-08T13:38:19.419471+00:00",
+  "submitted_at_utc": "2026-10-08T13:38:48.693070+00:00",
+  "submission_evidence": "X displayed: Your post was sent.",
+  "verified_at_utc": "2026-10-08T13:44:06.116418+00:00",
+  "published_time_display": "2026-10-08 21:38 Asia/Singapore",
+  "public_checks": {
+    "account": "LeoGuoLabs",
+    "complete_text": true,
+    "standalone": true,
+    "image_count": 1,
+    "image_rendered": true,
+    "alt_present": true,
+    "model_link_visible": true,
+    "model_link_short_url": "https://t.co/B429UFCNah",
+    "screenshot": "published-page.jpg",
+    "browser": "authenticated Codex built-in browser; also observed on Ego Lite public page",
+    "model_link_resolved_url": "https://huggingface.co/Noctaluna/Noct-Q-Uncensored-Qwen-Image-2.1"
+  }
+}

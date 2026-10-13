@@ -1,0 +1,42 @@
+{
+  "url": "https://x.com/LeoGuoLabs/status/2109844646881083801",
+  "account": "@LeoGuoLabs",
+  "textMatchesApproved": true,
+  "approvedCharacters": 398,
+  "videoCount": 1,
+  "quoteCardCount": 0,
+  "first": {
+    "currentTime": 10.681181,
+    "duration": 20.201359,
+    "ended": false,
+    "error": null,
+    "paused": false,
+    "readyState": 4,
+    "videoHeight": 270,
+    "videoWidth": 480
+  },
+  "second": {
+    "currentTime": 8.132206,
+    "duration": 20.201359,
+    "ended": false,
+    "error": null,
+    "paused": false,
+    "readyState": 4,
+    "videoHeight": 270,
+    "videoWidth": 480
+  },
+  "observedPublishedTime": "11:12 AM · Oct 13, 2026",
+  "continuousStart": {
+    "currentTime": 14.809156,
+    "error": null,
+    "paused": false,
+    "readyState": 4
+  },
+  "continuousEnd": {
+    "currentTime": 14.938373,
+    "error": null,
+    "paused": false,
+    "readyState": 4
+  },
+  "playbackAdvanced": true
+}

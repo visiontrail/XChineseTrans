@@ -1,0 +1,8 @@
+{
+  "notes": [
+    "git switch -c creates and selects a branch; git switch changes the current checkout.",
+    "git worktree add creates another checkout. Uncommitted edits are not copied automatically.",
+    "Branch creation is not a commit. The chosen starting revision still matters."
+  ],
+  "headings": []
+}

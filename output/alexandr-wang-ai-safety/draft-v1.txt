@@ -1,0 +1,5 @@
+AI safety has a very human coordination problem.
+
+In his conversation with Cleo Abram, Alexandr Wang argues that personal feuds and mistrust among AI leaders are shaping how the technology gets built. Companies can call for caution while still racing because they don’t trust anyone else to slow down.
+
+My takeaway: safety needs rules that survive a bad relationship between founders. Shared tests, independent scrutiny, and clear procedures for acting on risks would be a useful place to start. Brilliant people aren’t a substitute for a process everyone can verify.

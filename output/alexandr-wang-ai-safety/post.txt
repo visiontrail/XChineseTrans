@@ -1,0 +1,5 @@
+AI safety has a very human coordination problem.
+
+Alexandr Wang tells Cleo Abram that personal feuds and mistrust among AI leaders are shaping how the technology gets built. He points to internal controls, external audits, and board-level oversight as practical steps toward rebuilding trust.
+
+That’s the part I find useful. Safety needs processes that hold up even when lab leaders don’t like—or trust—one another. Brilliant people aren’t a substitute for a system others can verify.

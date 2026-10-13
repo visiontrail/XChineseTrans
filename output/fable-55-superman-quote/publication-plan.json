@@ -1,0 +1,51 @@
+{
+  "state": "published_public_page_verified",
+  "account": "LeoGuoLabs",
+  "format": "Quote Post with directly uploaded source video",
+  "quote_target": "https://x.com/chetaslua/status/2105733677003292983",
+  "video_source": "https://x.com/chetaslua/status/2105757136219504862",
+  "supplied_post": "https://x.com/dotey/status/2105780532571496671",
+  "demo_url": "https://claude.ai/artifact/7F2XhpmgiuyxHKgQ9Vgr9Q",
+  "video_file": "superman-art-styles-original.mp4",
+  "plain_characters": 346,
+  "approval": {
+    "user_message": "确认发布",
+    "approved_copy_file": "post-en-v2.txt",
+    "approved_video_file": "superman-art-styles-original.mp4",
+    "approved_quote_target": "https://x.com/chetaslua/status/2105733677003292983",
+    "recorded_at": "2026-10-02T07:32:09.083637+00:00"
+  },
+  "copy_file": "post-en-v2.txt",
+  "video_bytes": 25456125,
+  "video_sha256": "050212b01141a3ffa3f8a5b772bbbc28aaad8f9ca2d74dc4300f12570c78c67d",
+  "quote_target_verified_live": true,
+  "video_decode_check": "full video and audio decode passed with ffmpeg -xerror",
+  "browser": "Codex in-app browser",
+  "handoff_tab_id": "3",
+  "media_upload_status": "Ready",
+  "uploaded_video_playback": {
+    "duration": 40.042667,
+    "current_time_progression": [
+      0.315865,
+      24.273243
+    ],
+    "paused_during_playback": false,
+    "readyState": 4,
+    "width": 1920,
+    "height": 1080
+  },
+  "composer_accepts_premium_length": true,
+  "composer_remaining_characters": 24680,
+  "publication_url": "https://x.com/LeoGuoLabs/status/2105923822474187046",
+  "published_text_matches_approved": true,
+  "published_quote_target_verified": "https://x.com/chetaslua/status/2105733677003292983",
+  "public_video_duration_seconds": 40,
+  "public_video_playback_verified": true,
+  "public_video_time_progression": [
+    0.021333,
+    3.549753
+  ],
+  "public_video_readyState": 4,
+  "verified_at": "2026-10-02T07:37:36.068945+00:00",
+  "public_screenshot": "published-post.png"
+}

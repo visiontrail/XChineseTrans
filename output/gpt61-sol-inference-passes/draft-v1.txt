@@ -1,0 +1,7 @@
+Cheaper inference doesn’t automatically mean faster answers.
+
+A circulating Azure screenshot describes GPT-6.1 Sol as using two inference passes instead of three. That wording isn’t in the current model card, so the architecture claim still needs confirmation.
+
+Even if accurate, it wouldn’t establish that Sol should be faster than Astra. End-to-end latency also depends on token generation, serving conditions and tool calls.
+
+I’d compare quality, time to complete the task and total cost. A lower token price loses its appeal if retries eat up the savings.

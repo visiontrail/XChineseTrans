@@ -1,0 +1,18 @@
+{
+  "status": "prepared_not_published",
+  "account": "LeoGuoLabs",
+  "format": "standalone post with one image",
+  "checked": "2026-10-02",
+  "image_tool": "built-in image_gen",
+  "image_sha256": "7e75206bbd7ba8101bd2cdd70659293a4775f78019b4625de429fe7c0d414e0a",
+  "post_chars": 1536,
+  "alt_chars": 846,
+  "visual_qa": "All 12 rows, 31 numeric cells, 5 missing Sol cells, 2 fallback daggers, names, date and footnotes checked visually. No clipping found. Original image preserved.",
+  "publication_approval": "not requested or granted for this final content",
+  "composer_checked": false,
+  "image_dimensions": [
+    1024,
+    1536
+  ],
+  "long_post_limit_verified": "2026-10-02: https://help.x.com/en/using-x/types-of-posts, 25000 characters"
+}

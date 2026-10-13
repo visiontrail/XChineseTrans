@@ -1,0 +1,8 @@
+{
+  "notes": [
+    "stash list inspects saved entries. -u includes untracked files, but not ignored files.",
+    "restore changes selected content; reset can also reposition the current branch.",
+    "Revert preserves history. It does not remove a leaked secret from older commits."
+  ],
+  "headings": []
+}

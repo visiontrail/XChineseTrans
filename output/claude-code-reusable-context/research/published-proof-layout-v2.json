@@ -1,0 +1,12 @@
+{
+  "sources": [
+    "research/published-top-native-v2.jpg",
+    "research/published-bottom-native-v3.jpg"
+  ],
+  "transform": "Crop post column, combine text/identity above video with complete media/timestamp capture. No video frame mixed across captures.",
+  "split_document_y": 409,
+  "image_size": [
+    591,
+    777
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "source": "https://x.com/dotey/status/2107226878931067054",
+  "original_source": "https://x.com/SemiAnalysis_/status/2107204965710053510",
+  "primary_report": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+  "format": "standalone",
+  "account": "@LeoGuoLabs",
+  "text_path": "post-en-v1.txt",
+  "media": [
+    "media/api-equivalent-value.png",
+    "media/raw-token-volume.png"
+  ],
+  "alt_path": "alt-en.json",
+  "state": "publicly_verified",
+  "review": "User approved the complete shown version: 确认发布。",
+  "public_url": "https://x.com/LeoGuoLabs/status/2107330632938553773",
+  "updated_at": "2026-10-06T04:40:46.341572+00:00",
+  "composer_verified": true,
+  "composer_checks": {
+    "account": "@LeoGuoLabs",
+    "format": "standalone",
+    "full_text_accepted": true,
+    "image_count": 2,
+    "image_order": [
+      "API-equivalent value",
+      "Total token volume"
+    ],
+    "alt_count": 2,
+    "post_button_enabled": true,
+    "submitted": false
+  },
+  "evidence": [
+    "composer-review.jpg",
+    "composer-ready.jpg",
+    "public-page-snapshot.txt",
+    "published-page.jpg",
+    "published-photo-1.jpg",
+    "published-photo-2.jpg"
+  ],
+  "approved_at": "2026-10-06T04:42:24.563260+00:00",
+  "submitted_at": "2026-10-06T04:42:42.497742+00:00",
+  "verified_at": "2026-10-06T04:43:47.362937+00:00",
+  "verification": {
+    "account": "@LeoGuoLabs",
+    "format": "standalone",
+    "complete_approved_text": true,
+    "image_count": 2,
+    "image_order": [
+      "API-equivalent value",
+      "Total token volume"
+    ],
+    "alt_count": 2,
+    "both_images_loaded_full_resolution": true,
+    "source_link_present": true,
+    "reopened_actual_public_url": true
+  }
+}

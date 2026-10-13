@@ -1,0 +1,101 @@
+{
+  "source": "https://x.com/huxlab/status/2108558682317537437",
+  "source_video_chain": [
+    "https://x.com/KaitoEtLIA/status/2108201285895836141",
+    "https://x.com/KaitoEtLIA/status/2108201296922554759",
+    "https://x.com/KaitoEtLIA/status/2108201300320018861"
+  ],
+  "official_source": "https://www.youtube.com/watch?v=ysPbXH0LpIE",
+  "format": "standalone",
+  "destination": "@LeoGuoLabs",
+  "text": "Claude initially mistook a car-insurance claim for a skiing accident. The fix was to give it the context it was missing.\n\nAnthropic’s Prompting 101 walks through a Swedish accident form and a handwritten sketch. The useful lessons:\n\n• Explain the form and messy human markings.\n• Read the form first, then cross-check the sketch.\n• Ask it to flag unclear evidence instead of guessing.\n• Define the output your application actually needs.\n\nIt’s a 2025 session, so check model-specific advice: newer Claude models no longer support assistant-response prefill.\n\nIf you’re building document workflows, this is a useful reminder: turn the judgment you take for granted into clear instructions, then test them on difficult cases.",
+  "selected_media": [
+    "official-full-h264-30fps.mp4"
+  ],
+  "state": "pending_approval",
+  "review_authorization": null,
+  "public_url": null,
+  "checks": {
+    "live_account": "@LeoGuoLabs",
+    "composer_accepts_full_text": true,
+    "source_video_full_decode_transcoding_exit": 0,
+    "audio_decode_transcoding_exit": 0,
+    "frame_inspection": [
+      "frame-start.jpg",
+      "frame-middle.jpg",
+      "frame-end.jpg"
+    ],
+    "final_metadata": {
+      "filename": "output/anthropic-prompting-101/official-full-h264-30fps.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "1492.266000",
+      "size": "93881650",
+      "bit_rate": "503297",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf62.12.101"
+      }
+    },
+    "all_source_download_byte_ranges_verified": true,
+    "final_full_decode_exit": 0,
+    "final_full_decode_log_empty": true,
+    "preview_playback": {
+      "initial_time": 0.080584,
+      "later_time": 42.472649,
+      "duration": 1492.266,
+      "readyState": 4,
+      "error": null
+    },
+    "lan_endpoint_checked": true,
+    "final_frame_rate": "30000/1001",
+    "final_30fps_transcode_exit": 0,
+    "final_30fps_full_decode_exit": 0,
+    "final_30fps_decode_log_empty": true,
+    "preview_screenshot": "review-playback-30fps.jpg",
+    "composer_media_state": "Ready",
+    "composer_attachment_count": 1,
+    "composer_full_copy_matches_after_dom_paragraph_normalization": true,
+    "post_button_enabled": true,
+    "composer_screenshot": "composer-ready.jpg"
+  },
+  "editorial_notes": [
+    "Official session presented May 22 2025, published July 31 2025.",
+    "The X intermediary splits the recording into 16:00, 5:01 and 3:48 segments; it inaccurately describes Claude Code features.",
+    "Official transcript confirms form context, messy annotations, analysis order, grounded uncertainty and output formatting. Form-first is scenario-specific, not a universal multimodal rule.",
+    "The official transcript suggests using extended thinking to improve prompts but provides no 80 percent saving guarantee.",
+    "Current official docs say prefills are unsupported starting Claude 4.6; use structured outputs or explicit formatting instructions.",
+    "Selected video is the full official publication, acquired freshly for this task. Partial intermediary downloads are not accepted assets."
+  ],
+  "asset_integrity": [
+    {
+      "path": "official-original.mkv",
+      "bytes": 61175546,
+      "sha256": "19a297c9d0bc8ea5b6765fe2ecc008a0617160e8f0329417406d29116dc3e7bc"
+    },
+    {
+      "path": "official-full-h264-30fps.mp4",
+      "bytes": 93881650,
+      "sha256": "ec71ba63c38834ebac0134624140de9b41a0a8907345708e5bc52ebf81e0b71f"
+    }
+  ],
+  "review_preview": "http://172.16.10.59:8877/",
+  "upload_attempts": [
+    {
+      "media_id": "2108593527445999619",
+      "file": "official-full-h264-60fps.mp4",
+      "result": "Something went wrong during media STATUS; not published"
+    },
+    {
+      "file": "official-full-h264-30fps.mp4",
+      "result": "Ready"
+    }
+  ]
+}

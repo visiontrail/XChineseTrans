@@ -1,0 +1,19 @@
+Rechecked 2026-10-10 (Asia/Singapore). Source https://x.com/xiax0603/status/2108459615759319389, read live original Chinese and both images. No relevant video: embedded video in replies was an unrelated ad.
+Selected format: standalone @LeoGuoLabs, one freshly authored English infographic.
+Verified:
+- DeepSeek global KV cache 890 bytes/token in HBM; about 437x smaller than DeepSeek V1; about 4x smaller than V4 Flash. Persistent KV roughly 8x smaller than V4 Flash. These figures refer to different cache tiers; neither is all inference GPU memory.
+https://arxiv.org/html/2609.19969v1 (abstract, Figure 1)
+https://deepseek.com/news/deepseek-v4-1-flash/
+- Opus 5.5 cached read $0.20/M vs Opus 5 $0.50/M, 60% lower.
+- Sonnet 5.5 currently $0.10/M vs launch $0.20/M, 50% lower. Later Haiku announcement supersedes Sonnet launch page.
+https://platform.claude.com/docs/en/about-claude/pricing
+https://www.anthropic.com/claude-haiku-5-5
+- GPT-6.1 Sol input $2/M, cache read $0.10/M, writes $2.50/M, output $10/M.
+- GPT-6 Sol cache read $0.20/M; reduction 50%.
+- GPT-5.6 Sol current promotional cached-input rate $0.40/M; reduction 75%. Source image compared with alleged July $0.50/M; that historical rate was not confirmed in this task. Do not call current reduction 80%. GPT-5.5 has $0.50/M but is a different model; do not relabel.
+https://developers.openai.com/api/docs/models/gpt-6.1-sol
+https://developers.openai.com/api/docs/models/gpt-6-sol
+https://developers.openai.com/api/docs/models/gpt-5.6-sol
+All graphic API rates are standard direct API USD, GPT input <=272K tokens; cache-write/output separate. Cross-model tokenization and total tasks can differ; this is a unit price comparison, not a claimed end-to-end cost estimate.
+The supplied images do not identify the foreign commentator. No verified original attribution for allegation. Reviewed official docs establish architecture results and prices, not vendor adoption; no claim of secret use or no thanks included.
+

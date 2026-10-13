@@ -1,0 +1,11 @@
+Imagine spending years building your PhD around a problem, then waking up to an email saying AI may have solved it.
+
+That happened to Tristan Humbert after OpenAI’s latest math release. He spent the morning rewriting his research plans, then opened the claimed proof and found it barely readable. Fields Medalist Hugo Duminil-Copin said every major open problem he’d publicly discussed was covered by a claimed proof. “I am paralysed,” he wrote.
+
+These results are still being checked; some papers have already been withdrawn. But I can understand the shock.
+
+I’m excited by the discoveries AI could unlock. I also wonder how we train the next generation when years of planned research can be upended overnight.
+
+We keep telling people to move up to harder, more creative work. What happens when the people already at that frontier are asking where to go next?
+
+https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/

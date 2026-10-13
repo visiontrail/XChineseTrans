@@ -1,0 +1,61 @@
+Re-layout this comparison infographic into the SAME THREE CATEGORIES as the earlier 8-benchmark field guide. Keep every score, model name, unit, source label and caveat factually unchanged. This is a structural layout edit, not new research.
+
+Style stays: restrained technical editorial typography, clean Geist/Inter-like modern sans-serif, forest green #1A4A3A, dark gold #80601B, warm ivory #FDFBF7 with delicate natural paper texture. No gradient/glow, leaves, icons, cards, panels, rounded containers, shadows, decorative badges, page frames, charts or winning symbols. Use clear whitespace, alignment and a few thin straight rules.
+
+Portrait 2:3, high resolution ideally1536x2304. Reduce the oversized current headline enough to make room for three clear section headings without shrinking the score text. Main title may be two lines. A single pair of aligned model columns extends across all sections. Each section has its full category label in a modest bold green heading with a dark-gold plain section number. Use a subtle straight rule above each category; no boxes. Under the heading, show the relevant benchmark rows with their two score columns. First section FOUR rows, second TWO rows, third TWO rows. Preserve source/metric labels under each benchmark in smaller type. Long benchmark names can wrap to two lines. Keep readable open margins and the footnotes below all data.
+
+Exact title: "GPT-6 Sol vs Claude Opus 5.5"
+Subtitle: "8 benchmarks · Published scores at max effort"
+Date: "Checked 28 Sep 2026"
+Aligned column headings: "Benchmark" | "GPT-6 Sol" | "Opus 5.5"
+
+SECTION 1 heading:
+"01 / Code & software engineering"
+Rows, in order:
+"Terminal-Bench 4.0"
+"Artificial Analysis · pass@1"
+"43.9%" | "59.6%†"
+
+"FrontierCode v1.1 Main"
+"Cognition · weighted score"
+"49.3%" | "54.4%"
+
+"CursorBench 4.0"
+"Cursor · task score"
+"—" | "57.8%"
+
+"DeepSWE v1.1"
+"OpenAI-reported"
+"68.8%" | "—"
+
+SECTION 2 heading:
+"02 / Computer use & business workflows"
+Rows:
+"OSWorld 2.0*"
+"Vendor reports · partial reward"
+"64.4%" | "81.8%†"
+
+"AutomationBench 1.0.6"
+"Zapier · strict completion"
+"32.0%" | "42.5%†"
+
+SECTION 3 heading:
+"03 / Knowledge work & science"
+Rows:
+"GDPval-AA v2.1"
+"Artificial Analysis · Elo"
+"1487 Elo" | "1846 Elo†"
+
+"Terminal-Bench-Science 0.1"
+"Artificial Analysis · pass@1"
+"30.0%" | "59.0%†"
+
+Footnotes, readable and exact:
+"— No public score found in checked sources."
+"† Default fallback configuration; may use other models."
+"* OSWorld is not a matched comparison: Sol uses offline v2026.08.08; Opus subset/version is unconfirmed."
+"Max effort does not mean equal compute. Agent setups differ; FrontierCode uses Codex vs Claude Code."
+
+Bottom-right small signature: "LeoGuoLabs"
+
+Critical: exactly 8 rows distributed 4/2/2, all eight score pairs and † marks retained, missing values remain em dashes. Both Elo values include Elo. No overall winner, no composite score, no extra claims. Make these three categories obvious at a glance, with aligned numeric columns so the user can compare within each type of work.

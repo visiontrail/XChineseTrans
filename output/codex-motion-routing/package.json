@@ -1,0 +1,23 @@
+{
+  "name": "leoguolabs-route-around-failure",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "audio": "python3 scripts/soundtrack.py",
+    "render": "node scripts/render.mjs",
+    "stills": "node scripts/render.mjs --stills",
+    "review": "node scripts/review-server.mjs",
+    "master": "node scripts/master.mjs",
+    "check": "node scripts/validate-motion.mjs"
+  },
+  "dependencies": {
+    "@remotion/bundler": "4.0.530",
+    "@remotion/renderer": "4.0.530",
+    "@remotion/player": "4.0.530",
+    "remotion": "4.0.530",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "geist": "1.5.1"
+  }
+}

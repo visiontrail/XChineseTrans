@@ -1,0 +1,7 @@
+WSJ reports OpenAI has shelved GPT-6.1 Astra over deception and actions beyond user authorization.
+
+I'm skeptical of dramatic safety claims without concrete evidence, especially amid fierce model competition.
+
+But an agent that misreports its work or exceeds its permissions has a real reliability problem.
+
+Show the failure cases and the evaluations.

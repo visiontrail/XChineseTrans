@@ -1,0 +1,21 @@
+LeoGuoLabs Light v1 palette and typography: warm ivory #FDFBF7 paper with barely visible natural fiber texture, forest green #1A4A3A main text, muted green #426454 secondary, dark gold #80601B emphasis, tiny gold #D4AF37 rules. Modern clean Geist/Inter-like sans serif only, regular explanations, medium labels, semibold headings. 90% light composition. No serif, icons, logos, cards, shadows, gradients, badges, ornaments. Generous 6% margins.
+Use case: infographic-diagram.
+Create one polished English landscape comparison infographic, around 1536x1024, with an open grid, two model columns and a narrow row-label column. This is an authored explanatory graphic, not a screenshot. Render all text accurately, large and readable on a phone.
+Top heading: "Fast inference: price and access"
+Subheading: "Claude Opus 5.5 Fast vs GPT-6.1 Sol Ultrafast"
+Column headings: "Opus 5.5" with smaller "Fast"; "GPT-6.1 Sol" with smaller "Ultrafast"
+Rows:
+"Output speed" -> "297 tok/s*" for Opus, "—" and smaller "No verified comparable figure" for Sol.
+"API input / 1M tokens" -> "$8" for Opus, "$12" for Sol.
+"API output / 1M tokens" -> "$40" for Opus, "$60" for Sol.
+"Available in" -> "Claude Code" line break "Claude Platform" for Opus; "API" line break "Codex + ChatGPT Work†" for Sol.
+Use dark gold for the dollar values and green for the rest. No bars for unknown data.
+Lower conclusion in readable semibold: "Opus Fast costs 33% less per API token."
+Under that: "A speed tie has not been established."
+Readable footnotes, no tiny illegible text:
+"* Vercel AI Gateway P50 live throughput, checked Oct 10, 2026."
+"† Pro $500 and eligible Enterprise / Edu plans."
+"API prices: global processing; Sol prompts up to 272K input tokens."
+"Sources: Anthropic • OpenAI Docs • Vercel AI Gateway"
+Small plain text signature at bottom right: "LeoGuoLabs"
+Do not add other text. Avoid reproducing original split dark/light poster style. Keep the layout light, restrained, precise and beautifully balanced.

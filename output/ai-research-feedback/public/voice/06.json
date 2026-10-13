@@ -1,0 +1,296 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 1030830,
+    "duration": 1288750,
+    "text": "There"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 2319580,
+    "duration": 1030830,
+    "text": "are"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3479580,
+    "duration": 4767910,
+    "text": "four"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8376250,
+    "duration": 4123750,
+    "text": "broad"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 12628750,
+    "duration": 4897080,
+    "text": "sources"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 17525830,
+    "duration": 644160,
+    "text": "of"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18299160,
+    "duration": 5283330,
+    "text": "friction"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 28092910,
+    "duration": 5799160,
+    "text": "diminishing"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34020410,
+    "duration": 6572080,
+    "text": "returns"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 44458750,
+    "duration": 3479580,
+    "text": "limits"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 47938330,
+    "duration": 902080,
+    "text": "on"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 48969160,
+    "duration": 6185410,
+    "text": "experimental"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 55283330,
+    "duration": 5283330,
+    "text": "compute"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 60695830,
+    "duration": 1160000,
+    "text": "and"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 61984580,
+    "duration": 4381250,
+    "text": "data"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 70618750,
+    "duration": 4123330,
+    "text": "tasks"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 74742080,
+    "duration": 1160000,
+    "text": "that"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 75902080,
+    "duration": 3221660,
+    "text": "remain"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 79123750,
+    "duration": 3865830,
+    "text": "hard"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 82989580,
+    "duration": 1160000,
+    "text": "to"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 84278330,
+    "duration": 5670000,
+    "text": "automate"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 93943330,
+    "duration": 515409,
+    "text": "and"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 94458750,
+    "duration": 7345410,
+    "text": "processes"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 101804160,
+    "duration": 1288750,
+    "text": "that"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 103221660,
+    "duration": 4639160,
+    "text": "simply"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 107989580,
+    "duration": 2577500,
+    "text": "take"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 110567080,
+    "duration": 3608330,
+    "text": "time"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 118298750,
+    "duration": 515409,
+    "text": "A"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 118943330,
+    "duration": 5412500,
+    "text": "thousand"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 124355830,
+    "duration": 4252500,
+    "text": "proposed"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 128608330,
+    "duration": 6830000,
+    "text": "experiments"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 136855830,
+    "duration": 1546250,
+    "text": "are"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 138530830,
+    "duration": 3479580,
+    "text": "not"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 143041250,
+    "duration": 386659,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 143556660,
+    "duration": 7087500,
+    "text": "thousand"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 150644160,
+    "duration": 5927910,
+    "text": "validated"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 156572080,
+    "duration": 8891660,
+    "text": "discoveries"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 169587500,
+    "duration": 2577500,
+    "text": "More"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 172293750,
+    "duration": 3479580,
+    "text": "agents"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 175773330,
+    "duration": 5154580,
+    "text": "cannot"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 183247500,
+    "duration": 1804160,
+    "text": "by"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 185051660,
+    "duration": 7216660,
+    "text": "themselves"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 194845410,
+    "duration": 1546250,
+    "text": "make"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 196391660,
+    "duration": 386659,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 196778330,
+    "duration": 4381250,
+    "text": "long"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 201159580,
+    "duration": 5541250,
+    "text": "training"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 207602910,
+    "duration": 4123750,
+    "text": "run"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 212886660,
+    "duration": 4639160,
+    "text": "finish"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 217654580,
+    "duration": 6185410,
+    "text": "instantly"
+  }
+]

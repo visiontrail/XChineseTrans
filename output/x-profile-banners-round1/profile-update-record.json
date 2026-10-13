@@ -1,0 +1,11 @@
+{
+  "state": "publicly_verified",
+  "account": "@LeoGuoLabs",
+  "profileUrl": "https://x.com/LeoGuoLabs",
+  "asset": "02-orbits-mars-no-text-v3.png",
+  "authorization": "User requested installing the reviewed Mars banner on their X profile.",
+  "verification": "Saved via Edit profile, then reloaded profile and visually confirmed satellite, Mars and orbital curves with no text; X CDN banner rendered at 1500x500.",
+  "bannerUrl": "https://pbs.twimg.com/profile_banners/2089926964954144768/1791775643/1500x500",
+  "evidence": "x-profile-mars-installed.jpg",
+  "date": "2026-10-12"
+}

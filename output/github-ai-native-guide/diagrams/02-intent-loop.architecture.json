@@ -1,0 +1,153 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {
+    "title": "Intent becomes an observable result",
+    "subtitle": "The agent operates the tools; the state changes stay visible.",
+    "viewBox": [
+      1000,
+      470
+    ]
+  },
+  "components": [
+    {
+      "id": "goal",
+      "label": "Describe the result",
+      "sublabel": "Goal + location + boundary",
+      "pos": [
+        50,
+        80
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "frontend"
+    },
+    {
+      "id": "inspect",
+      "label": "Agent inspects",
+      "sublabel": "Files, history, access",
+      "pos": [
+        375,
+        80
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "backend"
+    },
+    {
+      "id": "act",
+      "label": "Agent executes",
+      "sublabel": "Only the authorized work",
+      "pos": [
+        700,
+        80
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "backend"
+    },
+    {
+      "id": "evidence",
+      "label": "Observe the result",
+      "sublabel": "Diff, checks, real page",
+      "pos": [
+        700,
+        300
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "security"
+    },
+    {
+      "id": "record",
+      "label": "Return an evidence record",
+      "sublabel": "Before / after / unknowns",
+      "pos": [
+        375,
+        300
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "database"
+    },
+    {
+      "id": "decide",
+      "label": "Choose the next result",
+      "sublabel": "Continue from known state",
+      "pos": [
+        50,
+        300
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "frontend"
+    }
+  ],
+  "connections": [
+    {
+      "from": "goal",
+      "to": "inspect",
+      "variant": "emphasis",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "from": "inspect",
+      "to": "act",
+      "variant": "emphasis",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "from": "act",
+      "to": "evidence",
+      "variant": "emphasis",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "from": "evidence",
+      "to": "record",
+      "variant": "emphasis",
+      "fromSide": "left",
+      "toSide": "right"
+    },
+    {
+      "from": "record",
+      "to": "decide",
+      "variant": "emphasis",
+      "fromSide": "left",
+      "toSide": "right"
+    },
+    {
+      "from": "decide",
+      "to": "goal",
+      "fromSide": "left",
+      "toSide": "left",
+      "via": [
+        [
+          25,
+          339
+        ],
+        [
+          25,
+          119
+        ]
+      ],
+      "variant": "dashed"
+    }
+  ],
+  "cards": []
+}

@@ -1,0 +1,3 @@
+Grok Bot can now search, read, and monitor X. Ask it what people are saying about your app and have it pull the feedback together for you.
+
+You could even have it keep an eye on Tibo and ping you when he posts a ChatGPT reset announcement. One less reason to keep refreshing the feed.

@@ -1,0 +1,212 @@
+- link "Skip to main content":
+  - /url: "#main-content"
+- link "Skip to content":
+  - /url: "#main-content"
+  - generic: Skip to content
+- banner "Main":
+  - navigation "Header logo and title":
+    - list:
+      - link "Github Home":
+        - /url: /en
+      - link "Docs home":
+        - /url: /en
+        - generic: GitHub Docs
+  - generic: "Select your plan:"
+  - 'button "Select your plan: Free, Pro, & Team"':
+    - generic: Free, Pro, & Team
+  - button "Search or ask Copilot":
+    - generic: Search or ask Copilot
+    - generic: /
+  - 'button "Select language: current language is English"':
+    - generic: English
+- button "Collapse sidebar" [expanded]:
+- navigation "Breadcrumb":
+  - list:
+    - link "Home":
+      - /url: /en
+    - link "GitHub Pages":
+      - /url: /en/pages
+    - link "Get started":
+      - /url: /en/pages/getting-started-with-github-pages
+    - generic "What is GitHub Pages?"
+- navigation "GitHub Pages":
+  - heading "GitHub Pages" [level=2]:
+    - link "GitHub Pages":
+      - /url: /en/pages
+  - region "Page navigation content":
+    - navigation "Product sidebar":
+      - list:
+        - link "Quickstart":
+          - /url: /en/pages/quickstart
+          - generic: Quickstart
+        - button "Get started" [expanded]:
+          - generic: Get started
+        - list "Get started":
+          - link "What is GitHub Pages?":
+            - /url: /en/pages/getting-started-with-github-pages/what-is-github-pages
+            - generic: What is GitHub Pages?
+          - link "Create a GitHub Pages site":
+            - /url: /en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+            - generic: Create a GitHub Pages site
+          - link "GitHub Pages limits":
+            - /url: /en/pages/getting-started-with-github-pages/github-pages-limits
+            - generic: GitHub Pages limits
+          - link "Use custom workflows":
+            - /url: /en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages
+            - generic: Use custom workflows
+          - link "Configure publishing source":
+            - /url: /en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
+            - generic: Configure publishing source
+          - link "Delete a GitHub Pages site":
+            - /url: /en/pages/getting-started-with-github-pages/deleting-a-github-pages-site
+            - generic: Delete a GitHub Pages site
+          - link "Unpublish Pages site":
+            - /url: /en/pages/getting-started-with-github-pages/unpublishing-a-github-pages-site
+            - generic: Unpublish Pages site
+          - link "Create custom 404 page":
+            - /url: /en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site
+            - generic: Create custom 404 page
+          - link "Secure site with HTTPS":
+            - /url: /en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https
+            - generic: Secure site with HTTPS
+          - link "Use submodules with Pages":
+            - /url: /en/pages/getting-started-with-github-pages/using-submodules-with-github-pages
+            - generic: Use submodules with Pages
+          - link "Troubleshoot 404 errors":
+            - /url: /en/pages/getting-started-with-github-pages/troubleshooting-404-errors-for-github-pages-sites
+            - generic: Troubleshoot 404 errors
+        - button "Set up site with Jekyll":
+          - generic: Set up site with Jekyll
+        - button "Configure a custom domain":
+          - generic: Configure a custom domain
+- main:
+  - button "In this article":
+    - generic: In this article
+  - heading "What is GitHub Pages?" [level=1]
+  - paragraph: You can use GitHub Pages to host a website about yourself, your organization, or your project directly from a repository on GitHub.
+  - button "Copy markdown":
+    - generic: Copy markdown
+  - button "More Markdown options":
+  - heading "Who can use this feature?" [level=2]
+  - paragraph:
+    - text: GitHub Pages is available in public repositories with GitHub Free and GitHub Free for organizations, and in public and private repositories with GitHub Pro, GitHub Team, GitHub Enterprise Cloud, and GitHub Enterprise Server. See
+    - link "GitHub's plans":
+      - /url: /en/get-started/learning-about-github/githubs-plans
+    - text: .
+  - heading "About GitHub Pages" [active] [level=2]:
+    - link "About GitHub Pages":
+      - /url: "#about-github-pages"
+      - text: About GitHub Pages
+  - paragraph:
+    - text: GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website. You can see examples of GitHub Pages sites in the
+    - link "GitHub Pages examples collection":
+      - /url: https://github.com/collections/github-pages-examples
+    - text: .
+  - heading "Types of GitHub Pages sites" [level=2]:
+    - link "Types of GitHub Pages sites":
+      - /url: "#types-of-github-pages-sites"
+      - text: Types of GitHub Pages sites
+  - paragraph: There are two types of GitHub Pages sites. Sites associated with a user or organization account, and sites for a specific project.
+  - table "Types of GitHub Pages sites":
+    - rowgroup:
+      - row "Property User and organization sites Project sites":
+        - columnheader "Property"
+        - columnheader "User and organization sites"
+        - columnheader "Project sites"
+    - rowgroup:
+      - row "Source files Must be stored in a repository named <owner>.github.io, where <owner> is the personal or organization account name Stored in a folder within the repository that contains the project's code":
+        - rowheader "Source files"
+        - cell "Must be stored in a repository named <owner>.github.io, where <owner> is the personal or organization account name":
+          - text: Must be stored in a repository named
+          - code: <owner>.github.io
+          - text: ", where"
+          - code: <owner>
+          - text: is the personal or organization account name
+        - cell "Stored in a folder within the repository that contains the project's code"
+      - row "Limits Maximum of one pages site per account Maximum of one pages site per repository":
+        - rowheader "Limits"
+        - cell "Maximum of one pages site per account"
+        - cell "Maximum of one pages site per repository"
+      - row "Default site location http(s)://<owner>.github.io http(s)://<owner>.github.io/<repositoryname>":
+        - rowheader "Default site location"
+        - cell "http(s)://<owner>.github.io":
+          - code:
+            - text: http(s):/
+            - text: /
+            - text: <owner>.github.io
+        - cell "http(s)://<owner>.github.io/<repositoryname>":
+          - code:
+            - text: http(s):/
+            - text: /
+            - text: <owner>.github.io/
+            - text: <repositoryname>
+  - heading "Hosting on your own custom domain" [level=3]:
+    - link "Hosting on your own custom domain":
+      - /url: "#hosting-on-your-own-custom-domain"
+      - text: Hosting on your own custom domain
+  - paragraph:
+    - text: You can host your site on GitHub's
+    - code: github.io
+    - text: domain or your own custom domain. See
+    - link "Configuring a custom domain for your GitHub Pages site":
+      - /url: /en/pages/configuring-a-custom-domain-for-your-github-pages-site
+    - text: .
+  - heading "Data collection" [level=2]:
+    - link "Data collection":
+      - /url: "#data-collection"
+      - text: Data collection
+  - paragraph:
+    - text: When a GitHub Pages site is visited, the visitor's IP address is logged and stored for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub's security practices, see
+    - link "GitHub Privacy Statement":
+      - /url: /en/site-policy/privacy-policies/github-general-privacy-statement
+    - text: .
+  - heading "Further reading" [level=2]:
+    - link "Further reading":
+      - /url: "#further-reading"
+      - text: Further reading
+  - list:
+    - link "GitHub Pages":
+      - /url: https://github.com/skills/github-pages
+    - text: on GitHub Skills
+    - link "REST API endpoints for repositories":
+      - /url: /en/rest/repos#pages
+    - link "Configuring a publishing source for your GitHub Pages site":
+      - /url: /en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
+    - link "About custom domains and GitHub Pages":
+      - /url: /en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages#using-a-custom-domain-across-multiple-repositories
+- contentinfo:
+  - link "GitHub":
+    - /url: https://github.com
+  - button "Back to top":
+    - generic: Back to top
+  - heading "Help and support" [level=2]
+  - heading "Was this Doc helpful?" [level=3]
+  - radiogroup "Was this Doc helpful?":
+    - radio "Yes"
+    - generic: "Yes"
+    - radio "No"
+    - generic: "No"
+  - heading "Help us make GitHub Docs great!" [level=3]
+  - paragraph: All Docs are open source. See something that's wrong or unclear? Submit a pull request.
+  - link "Make a contribution":
+    - /url: https://github.com/github/docs/blob/main/content/pages/getting-started-with-github-pages/what-is-github-pages.md
+  - heading "Still need help?" [level=3]
+  - link "Ask the GitHub community":
+    - /url: https://github.com/orgs/community/discussions
+  - link "Contact support":
+    - /url: https://support.github.com
+  - link "Expert services":
+    - /url: https://services.github.com
+  - link "Blog":
+    - /url: https://github.blog
+  - paragraph:
+    - generic: GitHub Inc. © 2026
+    - link "Terms":
+      - /url: /en/site-policy/github-terms/github-terms-of-service
+    - link "Privacy":
+      - /url: /en/site-policy/privacy-policies/github-privacy-statement
+    - link "Status":
+      - /url: https://www.githubstatus.com/
+    - link "Pricing":
+      - /url: https://github.com/pricing
+- alert

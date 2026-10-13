@@ -1,0 +1,5 @@
+Step 5 Preview is free on OpenCode for a week: a 1M-token context window, multimodal support, and a zero-data-retention policy.
+
+A good excuse to try it on a repo you know well. Give it a bug fix or a refactor, then check the diff and run the tests.
+
+https://opencode.ai/docs/zen/

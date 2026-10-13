@@ -1,0 +1,5 @@
+Two pizzas used to define a small software team. Dan Shipper's AI-era heuristic for an exploratory lab is two slices: one or two people.
+
+His ideal pairing is a pirate and an architect. The pirate uses AI to try ideas fast, discard the duds, and find something useful. The architect turns the promising mess into a coherent system you can maintain and extend.
+
+I like this pairing. When prototypes get cheaper, judgment matters more: what deserves to survive, and what needs proper engineering before anyone relies on it?

@@ -1,0 +1,29 @@
+{
+  "start": [
+    {
+      "currentTime": 0.062149,
+      "duration": 47.466,
+      "error": null,
+      "paused": false,
+      "readyState": 4
+    }
+  ],
+  "end": [
+    {
+      "currentTime": 17.404744,
+      "duration": 47.466,
+      "error": null,
+      "paused": false,
+      "readyState": 4
+    }
+  ],
+  "earlier": [
+    {
+      "currentTime": 18.888874,
+      "duration": 47.466,
+      "error": null,
+      "paused": false,
+      "readyState": 4
+    }
+  ]
+}

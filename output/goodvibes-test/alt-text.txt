@@ -1,0 +1,3 @@
+Image 1: Real screenshot of X’s Following feed in Chrome. GoodVibes has collapsed a Google post into a row reading “Hidden · Posts about satellites and space-based computing · from @Google,” with a Show button. Nearby posts about DevDay and Tesla remain visible. The Following tab is selected.
+
+Image 2: Real screenshot of the same Google post restored in X’s Following feed after clicking Show. GoodVibes displays “You chose to see this” and the satellite and space-based computing rule, plus a Hide again button. The Google post begins “We’re sending TPUs to space (yes, really)” and describes Project Suncatcher. Its original media are visible below.

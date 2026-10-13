@@ -1,0 +1,93 @@
+Browser tab: 2, Title: "Leo Guo on X: \"Just started trying Dot. Meet Nova. First question: what kind of computer does it have? Next up: exploring how it can work with my Mac Mini. https://t.co/iCRe6qEnUB\" / X", URL: "https://x.com/LeoGuoLabs/status/2105152860531130778".
+0 AXWebArea URL: x.com/LeoGuoLabs/status/2105152860531130778, Leo Guo on X: "Just started trying Dot. Meet Nova. First question: what kind of computer does it have? Next up: exploring how it can work with my Mac Mini. https://t.co/iCRe6qEnUB" / X
+	1 container
+		2 heading To view keyboard shortcuts, press question mark View keyboard shortcuts, Value: 2
+			3 text To view keyboard shortcuts, press question mark
+			4 link Description: View keyboard shortcuts, Value: x.com/i/keyboard_shortcuts
+		32 button Skip to home timeline
+		33 button Skip to trending
+		9 container
+			10 heading X, Value: 1
+				11 link Description: X, Value: x.com/home
+			12 container Primary
+				13 link Description: Home, Value: x.com/home
+				14 link Description: Search and explore, Value: x.com/explore
+				15 link Description: Notifications, Value: x.com/notifications
+				16 link Description: Follow, Value: x.com/i/connect_people
+				17 link Description: Direct Messages, Value: x.com/i/chat
+				18 link Description: Grok, Value: x.com/i/grok
+				19 link Description: Premium, Value: x.com/i/premium
+				20 link Description: History, Value: x.com/i/history
+				21 link Description: Creator Studio, Value: x.com/i/jf/creators/studio
+				22 link Description: Articles, Value: x.com/compose/articles
+				23 link Description: Profile, Value: x.com/LeoGuoLabs
+				24 pop up button (collapsed) Description: More menu items, Secondary Actions: Expand
+			25 link Description: Post, Value: x.com/compose/post
+			26 button Account menu
+				27 container
+					28 container
+						29 container Leo Guo
+							30 image Leo Guo
+					31 container undefined unread items
+		34 container Home timeline
+			35 container
+				36 container
+					37 button Back
+					38 heading Post, Value: 2
+						39 text Post
+			40 container Conversation
+				41 heading Conversation, Value: 1, ID: accessible-list-3
+					42 text Conversation
+				43 container Timeline: Conversation
+					44 container
+						45 container
+							46 container Leo Guo Verified account @LeoGuoLabs Just started trying Dot. Meet Nova. First question: what kind of computer does it have? Next up: exploring how it can work with my Mac Mini. Previous Dot's onboarding screen titled 'Create your dot,' describing an always-on agent, complex work, proactive help, and data controls. ALT A conversation with Nova, a blue character with glasses. Nova describes the resources visible in its cloud sandbox, then discusses connecting a Mac Mini or cloning an accessible repository. The final question asks how to connect the Mac Mini. ALT Next
+								47 container
+									48 link x.com/LeoGuoLabs
+									49 container
+										50 container id__qi16eyj2gq
+											51 link Description: Leo Guo Verified account, Value: x.com/LeoGuoLabs
+											52 link Description: @LeoGuoLabs, Value: x.com/LeoGuoLabs
+										53 container
+											54 button Boost
+												55 text Boost
+											56 button Grok actions
+											57 pop up button (collapsed) Description: More, Secondary Actions: Expand
+									58 text Just started trying Dot. Meet Nova.
+
+First question: what kind of computer does it have? Next up: exploring how it can work with my Mac Mini.
+									59 container
+										60 button (disabled) Previous
+										61 tab group
+											62 container
+												63 link Value: x.com/LeoGuoLabs/status/2105152860531130778/photo/1, Description: Dot's onboarding screen titled 'Create your dot,' describing an always-on agent, complex work, proactive help, and data controls.
+												64 button ALT
+													65 text ALT
+											66 container
+												67 link Value: x.com/LeoGuoLabs/status/2105152860531130778/photo/2, Description: A conversation with Nova, a blue character with glasses. Nova describes the resources visible in its cloud sandbox, then discusses connecting a Mac Mini or cloning an accessible repository. The final question asks how to connect the Mac Mini.
+												68 button ALT
+													69 text ALT
+										70 button (disabled) Next
+									71 container
+										72 container
+											73 link Description: 12:28 PM · Sep 30, 2026, Value: x.com/LeoGuoLabs/status/2105152860531130778
+											74 link Description: 2 Views, Value: x.com/LeoGuoLabs/status/2105152860531130778/analytics
+									75 container Description: 2 views, ID: id__z5wruaei4qb
+										76 button 0 Replies. Reply
+										77 pop up button (collapsed) Description: 0 reposts. Repost, Secondary Actions: Expand
+										78 button 0 Likes. Like
+										79 button 0 Bookmarks. Bookmark
+										80 pop up button (collapsed) Description: Share post, Secondary Actions: Expand
+							81 container
+								82 container
+									83 link Description: Leo Guo, Value: x.com/LeoGuoLabs
+									84 container
+										85 container
+											86 container
+												87 text Post your reply
+												88 text entry area (settable) Description: Post text, Value: 
+
+										89 button (disabled) Reply
+											90 text Reply
+
+The focused UI element is 48 link x.com/LeoGuoLabs

@@ -1,0 +1,154 @@
+{
+  "checked": "2026-10-01",
+  "format": "standalone",
+  "account": "LeoGuoLabs",
+  "sourcePost": "https://x.com/dotey/status/2105396970772942935",
+  "models": [
+    "Gemini 4 Argon",
+    "GPT-6 Astra",
+    "Claude Opus 5.5"
+  ],
+  "table": "https://deepmind.google/models/gemini/",
+  "methodology": "https://deepmind.google/models/evals-methodology/gemini-4-argon",
+  "announcement": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+  "astraDocs": "https://developers.openai.com/api/docs/models/gpt-6-astra",
+  "opusAnnouncement": "https://www.anthropic.com/claude-opus-5-5",
+  "opusSystemCard": "https://anthropic.com/claude-opus-5-5-system-card",
+  "automation": "https://zapier.com/benchmarks",
+  "independentAnalysis": "https://artificialanalysis.ai/articles/gemini-4-argon-google-top-three-labs",
+  "fallbackPolicy": "Only mark configurations positively evidenced. Terminal66.4 confirmed by the exact Anthropic system-card66.36 result, page178; Automation42.5 confirmed by Zapier default-fallback42.47. Other source results lack current row-specific fallback confirmation; no dagger does not imply fallback disabled.",
+  "rows": [
+    {
+      "group": "Code & software engineering",
+      "benchmark": "DeepSWE v1.1",
+      "description": "Long-horizon software engineering",
+      "scores": [
+        77.9,
+        74.1,
+        74.2
+      ],
+      "note": null
+    },
+    {
+      "group": "Code & software engineering",
+      "benchmark": "FrontierSWE v2",
+      "description": "Complex software engineering",
+      "scores": [
+        55,
+        65.5,
+        62.3
+      ],
+      "note": null
+    },
+    {
+      "group": "Code & software engineering",
+      "benchmark": "Terminal-Bench 4.0",
+      "description": "Terminal tasks",
+      "scores": [
+        57.4,
+        58.2,
+        66.4
+      ],
+      "note": "opus_terminal_fallback"
+    },
+    {
+      "group": "Code & software engineering",
+      "benchmark": "PostTrainBench v1.1",
+      "description": "ML engineering",
+      "scores": [
+        45.3,
+        44.3,
+        49.3
+      ],
+      "note": null
+    },
+    {
+      "group": "Knowledge work & business workflows",
+      "benchmark": "Vals Index",
+      "description": "GDP-weighted professional tasks",
+      "scores": [
+        68.9,
+        63.1,
+        67
+      ],
+      "note": null
+    },
+    {
+      "group": "Knowledge work & business workflows",
+      "benchmark": "Vals Finance Agent v2",
+      "description": "Financial research",
+      "scores": [
+        65.4,
+        53.5,
+        58.6
+      ],
+      "note": null
+    },
+    {
+      "group": "Knowledge work & business workflows",
+      "benchmark": "Harvey's Legal Agent Benchmark",
+      "description": "Legal research & drafting",
+      "scores": [
+        19.6,
+        5.4,
+        3.8
+      ],
+      "note": null
+    },
+    {
+      "group": "Knowledge work & business workflows",
+      "benchmark": "AutomationBench 1.0.6",
+      "description": "Strict workflow completion",
+      "scores": [
+        51.3,
+        41.4,
+        42.5
+      ],
+      "note": "opus_automation_fallback"
+    },
+    {
+      "group": "Science & cybersecurity",
+      "benchmark": "Terminal-Bench-Science 0.1",
+      "description": "Scientific workflows",
+      "scores": [
+        57.6,
+        68.1,
+        63.3
+      ],
+      "note": "science_timeout"
+    },
+    {
+      "group": "Science & cybersecurity",
+      "benchmark": "CWE-bench v1",
+      "description": "Security vulnerability patching",
+      "scores": [
+        68,
+        68,
+        67
+      ],
+      "note": null
+    },
+    {
+      "group": "Long context & video",
+      "benchmark": "GraphWalks",
+      "description": "256k-1M tokens · BFS F1",
+      "scores": [
+        84.2,
+        71.8,
+        66.8
+      ],
+      "note": null
+    },
+    {
+      "group": "Long context & video",
+      "benchmark": "LVBench",
+      "description": "Long-video understanding",
+      "scores": [
+        91.7,
+        87.5,
+        83.7
+      ],
+      "note": "video_sampling"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+    {
+      "index": 0,
+      "codec_name": "h264",
+      "codec_type": "video",
+      "width": 1920,
+      "height": 1080,
+      "r_frame_rate": "30000/1001",
+      "duration": "4210.306100"
+    },
+    {
+      "index": 1,
+      "codec_name": "aac",
+      "codec_type": "audio",
+      "sample_rate": "44100",
+      "channels": 2,
+      "r_frame_rate": "0/0",
+      "duration": "4210.381497"
+    }
+  ],
+  "format": {
+    "duration": "4210.381497",
+    "size": "452922712"
+  },
+  "sha256": "0c1afdf047d249540d6b63c10b40e4834d581ae53498678f055b2713ac4a2f71",
+  "verification": {
+    "complete_video_decode": "passed",
+    "sampled_frames_seconds": [
+      30,
+      1835,
+      4200
+    ],
+    "mux": "stream copy, no editorial changes",
+    "source_video_id": "Lx8lrn-cytc",
+    "complete_audio_decode": "passed"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version":1,"diagram_type":"workflow",
+  "meta":{"title":"A change needs evidence at every handoff","subtitle":"Example: a small documentation change in a repository you own."},
+  "lanes":[{"id":"local","label":"01 / LOCAL WORK"},{"id":"github","label":"02 / GITHUB REVIEW"},{"id":"delivery","label":"03 / DELIVERY"}],
+  "nodes":[
+    {"id":"branch","lane":"local","col":0,"type":"frontend","label":"Branch","sublabel":"one change"},
+    {"id":"edit","lane":"local","col":2,"type":"frontend","label":"Edit + check","sublabel":"inspect the diff","width":115},
+    {"id":"commit","lane":"local","col":5,"type":"database","label":"Commit","sublabel":"local snapshot"},
+    {"id":"push","lane":"github","col":5,"type":"cloud","label":"Push + PR","sublabel":"correct base"},
+    {"id":"review","lane":"github","col":2,"type":"security","label":"Review + CI","sublabel":"latest revision","width":115},
+    {"id":"merge","lane":"github","col":0,"type":"backend","label":"Merge","sublabel":"integration"},
+    {"id":"deploy","lane":"delivery","col":0,"type":"cloud","label":"Deploy","sublabel":"release artifact"},
+    {"id":"verify","lane":"delivery","col":2,"type":"security","label":"Open live URL","sublabel":"test the behavior","width":115},
+    {"id":"record","lane":"delivery","col":5,"type":"database","label":"Record","sublabel":"URL + revision"}
+  ],
+  "edges":[
+    {"from":"branch","to":"edit","variant":"emphasis"},{"from":"edit","to":"commit","variant":"emphasis"},
+    {"from":"commit","to":"push","fromSide":"bottom","toSide":"top","variant":"emphasis"},
+    {"from":"push","to":"review","fromSide":"left","toSide":"right","variant":"emphasis"},
+    {"from":"review","to":"merge","fromSide":"left","toSide":"right","variant":"emphasis"},
+    {"from":"merge","to":"deploy","fromSide":"bottom","toSide":"top","variant":"emphasis"},
+    {"from":"deploy","to":"verify","variant":"emphasis"},{"from":"verify","to":"record","variant":"emphasis"}
+  ],
+  "cards":[
+    {"dot":"cyan","title":"Small scope","items":["One coherent change is easier to inspect.","Review the staged diff before committing."]},
+    {"dot":"rose","title":"If checks fail","items":["Read the first useful error in the failing job.","Fix and push to the same PR branch.","Evaluate the checks on the updated revision."]},
+    {"dot":"emerald","title":"Finish with evidence","items":["A green check covers the checks that ran.","Open the deployed page and exercise the result.","Record limitations alongside the result."]}
+  ]
+}

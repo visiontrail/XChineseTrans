@@ -1,0 +1,495 @@
+- heading "To view keyboard shortcuts, press question mark View keyboard shortcuts" [level=2]:
+  - generic: To view keyboard shortcuts, press question mark
+  - link "View keyboard shortcuts":
+    - /url: /i/keyboard_shortcuts
+- button "Grok":
+- button "Chat":
+- dialog:
+  - dialog:
+    - progressbar
+    - button "Close":
+    - button "Drafts":
+      - generic: Drafts
+    - generic "Leo Guo":
+      - img "Leo Guo"
+    - textbox "Post text" [active]:
+      - generic: We keep debating “AI” as if everyone is using the same thing. A free chatbot, a coding agent on a serious project, and an internal frontier system can feel like different technologies.
+    - 'group "A four-level funnel illustrating different experiences of AI: roughly 6 billion people with little or no LLM exposure; 1–2 billion casual free-tier users; 20 million using frontier tools for math and code; and 5,000 with internal frontier systems. Karpathy''s rough estimates, shown schematically rather than to scale. Task size, domain, and access shape the gap."':
+      - button "ALT":
+        - generic: ALT
+      - button "Flag sensitive media":
+      - button "Edit media":
+        - generic: Edit
+      - button "Remove media":
+    - link "Tag people":
+      - /url: /compose/post/tags
+      - text: Tag people
+    - link "Add description":
+      - /url: /compose/post/media
+      - text: "A four-level funnel illustrating different experiences of AI: roughly 6 billion people with little or no LLM exposure; 1–2 billion casual free-tier users; 20 million using frontier tools for math and code; and 5,000 with internal frontier systems. Karpathy's rough estimates, shown schematically rather than to scale. Task size, domain, and access shape the gap."
+    - generic: Quote
+    - button "Andrej Karpathy Verified account @karpathy 6 hours ago Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel. - Napkin math somewhere around 6B people (~75% of the population) have barely come x.com/karpathy/statu…":
+      - generic: Andrej Karpathy
+      - img "Verified account"
+      - generic: "@karpathy"
+      - generic: ·
+      - generic "6 hours ago":
+        - time: 6h
+      - generic: Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less "two groups of people speaking past each other" and more a sharp funnel. - Napkin math somewhere around 6B people (~75% of the population) have barely come x.com/karpathy/statu…
+    - text: Made with AI
+    - button "Everyone can reply":
+      - generic: Everyone can reply
+    - navigation:
+      - button "Previous" [disabled]:
+      - tablist:
+        - button "Choose File"
+        - button "Add media":
+        - button "Add a GIF":
+        - button "Add poll" [disabled]:
+        - button "Add emoji":
+        - button "Schedule post":
+        - button "Tag location" [disabled]:
+        - button "Content disclosure":
+      - button "Next" [disabled]:
+    - progressbar:
+    - button "Add post":
+    - button "Post":
+      - generic: Post
+- button
+- button
+- banner:
+  - heading [level=1]:
+    - link:
+      - /url: /home
+  - navigation:
+    - link:
+      - /url: /home
+      - generic: Home
+    - link:
+      - /url: /explore
+      - generic: Explore
+    - link:
+      - /url: /notifications
+      - generic: Notifications
+    - link:
+      - /url: /i/connect_people
+      - generic: Follow
+    - link:
+      - /url: /i/chat
+      - generic: Chat
+    - link:
+      - /url: /i/calls
+      - generic: Calls
+    - link:
+      - /url: /i/grok
+      - generic: Grok
+    - link:
+      - /url: /i/history
+      - generic: History
+    - link:
+      - /url: /LeoGuoLabs
+      - generic: Profile
+    - button:
+      - generic: More
+  - link:
+    - /url: /compose/post
+    - generic: Post
+  - button:
+    - generic: Leo Guo
+    - generic: "@LeoGuoLabs"
+- main:
+  - button:
+  - heading [level=2]: Post
+  - status:
+    - button:
+      - generic: See new posts
+  - region:
+    - heading [level=1]: Conversation
+    - article:
+      - link:
+        - /url: /karpathy
+      - link:
+        - /url: /karpathy
+        - generic: Andrej Karpathy
+      - link:
+        - /url: /karpathy
+        - generic: "@karpathy"
+      - button:
+      - button:
+      - generic: "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel. - Napkin math somewhere around 6B people (~75% of the population) have barely come in contact with LLMs at all. - Around 1-2B (~20%) are casual and infrequent users of free-tier ChatGPT-like products. This group sees derpy chatbots and treats them a bit like a better Google search, a writing aid, or etc. Maybe an agent tries to book you a flight. I have non-tech friends who (reasonably, imo) say they have not much use for it at all. Even many professionals outside of math&code are in this tier. For example, execs and many other functions spend a lot of their time talking to other people, so while they understand what is happening intellectually, it is still second-hand and a bit abstract. - Now we get to professional use of frontier-grade LLMs in math&code. Somewhere around 20M people (0.2%) see first-hand that large, complex projects that used to take them weeks/months can now be completed by agents with a prompt. Building apps, copying apps, translating apps, decompiling apps from binaries... This has all happened very quickly and recently - less than 1 year ago, I was writing code manually by hand, typing memorized computer code commands into a code editor character by character, occasionally pressing Tab to autocomplete a little chunk of code. - And finally we get to the ~5,000 people (~0.00006%) with access to frontier-grade systems internally. The external world has seen the preview. It looks like swarms of thousands of agents collaborating over weeks on software mega projects: minting zero days, running cyber attacks and defenses at machine speeds, discovering new science, advancing the frontier of mathematics. Things that would have taken top professionals in the industry years of work. Meanwhile, human review and comprehension are starting to fall behind. For example, people are still involved in the \"archeology\" of the OpenAI-HF incident from many months ago. Mathematicians may be poring over the 722 manuscripts on frontier mathematics for a while. The funnel is driven by a combination of factors: 1. The impact scales with ambition, problem size, and horizon. A question with a paragraph answer barely stresses the system. You need a reservoir of big, difficult problems that you really care about. This aspect drives the consumer / professional dimension of the funnel. 2. The jaggedness of the system (which I have written about a lot separately). Capability peaks in domains that are digital, verifiable and economically valuable. This is because LLM capability emerges from reinforcement learning on verifiable rewards on a curated environment mixture driven by revenue potential. This aspect primarily drives the area (e.g. math&code) dimension of the funnel. 3. Access. Free-tier, paid-tier, internal. So this is the weirdness of the moment. The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time."
+      - generic: Quote
+      - link:
+        - generic: Andrej Karpathy
+        - generic: "@karpathy"
+        - generic: ·
+        - time: Apr 10
+        - generic: Judging by my tl there is a growing gap in understanding of AI capability. The first issue I think is around recency and tier of use. I think a lot of people tried the free tier of ChatGPT somewhere last year and allowed it to inform their views on AI a little too much. This is x.com/staysaasy/stat…
+      - link:
+        - /url: /karpathy/status/2109361546505966046/history
+        - generic: Last edited
+        - time: 3:12 AM · Oct 12, 2026
+      - generic: ·
+      - link:
+        - /url: /karpathy/status/2109361546505966046/analytics
+        - generic: 1.9M
+        - generic: Views
+      - button:
+        - generic: "978"
+      - button:
+        - generic: 3.6K
+      - button:
+        - generic: 21K
+      - button:
+        - generic: 15K
+      - button:
+      - button:
+        - text: Relevant
+      - link:
+        - /url: /karpathy/status/2109361546505966046/quotes
+        - text: View quotes
+    - link:
+      - /url: /LeoGuoLabs
+    - generic: Post your reply
+    - textbox
+    - button [disabled]:
+      - generic: Reply
+    - article:
+      - link:
+        - /url: /rileybrown
+      - link:
+        - /url: /rileybrown
+        - generic: Riley Brown
+        - link
+      - link:
+        - /url: /rileybrown
+        - generic: "@rileybrown"
+      - generic: ·
+      - link:
+        - /url: /rileybrown/status/2109427382926844165
+        - time: 2h
+      - button:
+      - button:
+      - generic: Quote
+      - link:
+        - generic: Riley Brown
+        - link
+        - generic: "@rileybrown"
+        - generic: ·
+        - time: 2h
+        - generic: Here's Opus 5.5 with a visual reading of Karpathy's latest tweet. Watch on 2x speed. (one prompt btw) x.com/karpathy/statu…
+        - button:
+      - button:
+      - button:
+      - button:
+        - generic: "17"
+      - link:
+        - /url: /rileybrown/status/2109427382926844165/analytics
+        - generic: 4.5K
+      - button:
+      - button:
+    - article:
+      - link:
+        - /url: /SarathNair82
+      - link:
+        - /url: /SarathNair82
+        - generic: Sarath Nair
+      - link:
+        - /url: /SarathNair82
+        - generic: "@SarathNair82"
+      - generic: ·
+      - link:
+        - /url: /SarathNair82/status/2109454512901804446
+        - time: 14m
+      - button:
+      - button:
+      - generic: I think the tiers are also about how we use AI, not just what we have access to. Even on paid frontier models, many of us still use them like a better search box. The real shift seems to happen when we start handing over entire tasks and focus on reviewing the results. That
+      - button: Show more
+      - button:
+      - button:
+      - button:
+      - link:
+        - /url: /SarathNair82/status/2109454512901804446/analytics
+        - generic: "42"
+      - button:
+      - button:
+    - article:
+      - link:
+        - /url: /Siheadsky
+      - link:
+        - /url: /Siheadsky
+        - generic: Sihead233
+      - link:
+        - /url: /Siheadsky
+        - generic: "@Siheadsky"
+      - generic: ·
+      - link:
+        - /url: /Siheadsky/status/2109456155798012073
+        - time: 10m
+      - button:
+      - button:
+      - generic: "The missing piece for most people: they never hit a problem big enough to see what models can do. The bridge probably isn't a better chatbot, it's agents doing real work on things people already care about, like their course, their portfolio, their codebase."
+      - button:
+      - button:
+      - button:
+      - link:
+        - /url: /Siheadsky/status/2109456155798012073/analytics
+        - generic: "19"
+      - button:
+      - button:
+    - article:
+      - link:
+        - /url: /tokendudu
+      - link:
+        - /url: /tokendudu
+        - generic: tokendudu
+      - link:
+        - /url: /tokendudu
+        - generic: "@tokendudu"
+      - generic: ·
+      - link:
+        - /url: /tokendudu/status/2109424842391101641
+        - time: 2h
+      - button:
+      - button:
+      - generic: The funnel gets even narrower once you notice the 0.2% tier is mostly coders and mathematicians, so most knowledge workers are still judging AI by whatever free model they tried once
+      - button:
+      - button:
+      - button:
+      - link:
+        - /url: /tokendudu/status/2109424842391101641/analytics
+        - generic: "205"
+      - button:
+      - button:
+    - article:
+      - link:
+        - /url: /guyalexhamilton
+      - link:
+        - /url: /guyalexhamilton
+        - generic: Guy Hamilton
+      - link:
+        - /url: /guyalexhamilton
+        - generic: "@guyalexhamilton"
+      - generic: ·
+      - link:
+        - /url: /guyalexhamilton/status/2109447480739844470
+        - time: 44m
+      - button:
+      - button:
+      - generic: And then there’s builders circle, the elite of the vibecoding community building things the world has never seen and winning hackathons 🫡 big things ahead
+      - button:
+      - button:
+      - button:
+      - link:
+        - /url: /guyalexhamilton/status/2109447480739844470/analytics
+        - generic: "25"
+      - button:
+      - button:
+    - article:
+      - link:
+        - /url: /gwlthr
+      - link:
+        - /url: /gwlthr
+        - generic: Georg
+      - link:
+        - /url: /gwlthr
+        - generic: "@gwlthr"
+      - generic: ·
+      - link:
+        - /url: /gwlthr/status/2109427947484385678
+        - time: 2h
+      - button:
+      - button:
+      - generic: What’s needed for the jump from second to last to the last group outside of better models? Formulating my business problem as trainable RL environment? Running more bots in one of those loop patterns?
+      - button:
+      - button:
+      - button:
+      - link:
+        - /url: /gwlthr/status/2109427947484385678/analytics
+        - generic: "176"
+      - button:
+      - button:
+    - article:
+      - link:
+        - /url: /AIQuickFindings
+      - link:
+        - /url: /AIQuickFindings
+        - generic: AI Quick Findings
+      - link:
+        - /url: /AIQuickFindings
+        - generic: "@AIQuickFindings"
+      - generic: ·
+      - link:
+        - /url: /AIQuickFindings/status/2109434265662640340
+        - time: 1h
+      - button:
+      - button:
+      - generic: Karpathy's funnel is also a governance trap, and the archeology point explains why it's structural rather than transient. There's a computational asymmetry here that inverts the one we're used to. In cryptography, verification is cheap and
+      - button:
+      - button:
+      - button:
+      - link:
+        - /url: /AIQuickFindings/status/2109434265662640340/analytics
+        - generic: "230"
+      - button:
+      - button:
+    - article:
+      - link:
+        - /url: /talemi
+      - link:
+        - /url: /talemi
+        - generic: John Moore
+      - link:
+        - /url: /talemi
+        - generic: "@talemi"
+      - generic: ·
+      - link:
+        - /url: /talemi/status/2109433158810919284
+        - time: 1h
+      - button:
+      - button:
+      - generic: Jaggedness is doing the heavy lifting here. The same model reads as derpy or superhuman depending on which layer of the funnel you're standing in.
+      - button:
+      - button:
+      - button:
+      - link:
+        - /url: /talemi/status/2109433158810919284/analytics
+        - generic: "35"
+      - button:
+      - button:
+    - article:
+      - link:
+        - /url: /gogojongo
+      - link:
+        - /url: /gogojongo
+        - generic: Jonathan Gordon
+      - link:
+        - /url: /gogojongo
+        - generic: "@gogojongo"
+      - generic: ·
+      - link:
+        - /url: /gogojongo/status/2109453824670961839
+        - time: 19m
+      - button:
+      - button:
+      - generic: Tier 3 also splits into people who love the vertigo, and people who realize the part they loved was the part that got automated away. Software automation strikes again.
+      - button:
+      - button:
+      - button:
+      - link:
+        - /url: /gogojongo/status/2109453824670961839/analytics
+        - generic: "7"
+      - button:
+      - button:
+    - article:
+      - link:
+        - /url: /AIGryffindor
+      - link:
+        - /url: /AIGryffindor
+        - generic: Kamal Bisht 🔴 AI Marketer
+      - link:
+        - /url: /AIGryffindor
+        - generic: "@AIGryffindor"
+      - generic: ·
+      - link:
+        - /url: /AIGryffindor/status/2109455698996375983
+        - time: 11m
+      - button:
+      - button:
+      - generic: i love the point, but the real bottleneck isn't access, it's the shortage of interdisciplinary teams that can turn those models into tangible products.
+      - button:
+      - button:
+      - button:
+      - link:
+        - /url: /AIGryffindor/status/2109455698996375983/analytics
+        - generic: "4"
+      - button:
+      - button:
+    - article:
+      - link:
+        - /url: /scott___ttocs
+      - link:
+        - /url: /scott___ttocs
+        - generic: Scott
+      - link:
+        - /url: /scott___ttocs
+        - generic: "@scott___ttocs"
+      - generic: ·
+      - link:
+        - /url: /scott___ttocs/status/2109450460742504503
+        - time: 32m
+      - button:
+      - button:
+      - generic: The experience gap is obvious. But who cares? If the systems are already past the capability of almost everyone on the planet in the domains they care about, and ordinary life still looks mostly the same, that says more about the current narrowness and productization of the tech
+      - button: Show more
+      - button:
+      - button:
+      - button:
+        - generic: "1"
+      - link:
+        - /url: /scott___ttocs/status/2109450460742504503/analytics
+        - generic: "32"
+      - button:
+      - button:
+  - search:
+    - combobox
+  - complementary:
+    - heading [level=2]:
+      - generic: Relevant people
+    - list:
+      - link:
+        - /url: /karpathy
+      - link:
+        - /url: /karpathy
+        - generic: Andrej Karpathy
+      - link:
+        - /url: /karpathy
+        - generic: "@karpathy"
+      - button:
+        - generic: Following
+  - region:
+    - heading [level=1]: Trending now
+    - heading [level=2]:
+      - generic: What’s happening
+    - link:
+      - generic: Music · Trending
+      - generic: Lana
+      - button:
+    - link:
+      - generic: Business & finance · Trending
+      - generic: $IREN
+      - button:
+    - link:
+      - generic: Only on X · Trending
+      - generic: "#แฟนบอยบัสกิ้ง"
+      - button:
+    - link:
+      - generic: Trending in Singapore
+      - generic: GLOWING WITH NGERN OAT
+      - button:
+    - link:
+      - /url: /explore/tabs/for-you
+      - generic: Show more
+  - navigation:
+    - link:
+      - /url: https://x.com/tos
+      - text: Terms
+    - generic: ·
+    - link:
+      - /url: https://x.com/privacy
+      - text: Privacy
+    - generic: ·
+    - link:
+      - /url: https://support.x.com/articles/20170514
+      - text: Cookies
+    - generic: ·
+    - link:
+      - /url: https://help.x.com/resources/accessibility
+      - text: Accessibility
+    - generic: ·
+    - link:
+      - /url: https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo
+      - text: Ads Info
+    - generic: ·
+    - button:
+      - text: More
+    - generic: © 2026 X Corp.

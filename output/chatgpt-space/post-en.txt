@@ -1,0 +1,5 @@
+Update ChatGPT to the latest version and check for Space. If it's enabled for your account, you'll find a shared workspace for pages, files, and collaboration with ChatGPT.
+
+It feels a lot like Notion, with ChatGPT built in.
+
+The pressure is on, Notion.

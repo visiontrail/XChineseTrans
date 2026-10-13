@@ -1,0 +1,56 @@
+{
+  "source_url": "https://x.com/dotey/status/2109401538279977114",
+  "quote_target": "https://x.com/karpathy/status/2109361546505966046",
+  "format": "native_quote_with_image",
+  "account": "LeoGuoLabs",
+  "state": "publicly_verified",
+  "approval": {
+    "user_text": "确认发布",
+    "approved_version": "post-en-v3.txt + funnel-proportional-v3.png; Quote AK 2109361546505966046",
+    "recorded_at": "2026-10-12T02:16:05.813533+00:00"
+  },
+  "publication_submitted": true,
+  "copy_path": "post-en.txt",
+  "media": [
+    {
+      "path": "funnel-proportional-v3.png",
+      "sha256": "f15223ec6b41668ed54c3c7d735ab6a373fad13b09be94e19ccd2f11efc5c49a",
+      "alt_path": "alt-en-v3.txt"
+    }
+  ],
+  "checks": {
+    "source_read": "AK latest edited post read live in authenticated browser",
+    "numbers": "AK rough estimates, not an independent survey; percentages omitted",
+    "duplicate_check": "no matching local record or live account search result",
+    "source_video": "none in selected AK source post",
+    "image_inspection": "four labels unclipped; 20M line visible and 5,000 below one pixel; midpoint and estimate caveats readable",
+    "composer": "revised image uploaded; AK quote retained; Post enabled; exact revised copy matches local file",
+    "alt": "new proportional chart ALT saved in accessibility field",
+    "composer_text": "full exact text read back after upload and ALT save",
+    "proportion": "all four equal-height trapezoid areas scale exactly by count, verified in proportion-check.json",
+    "public_result": "Actual published permalink reopened: correct @LeoGuoLabs account, exact full approved text, one loaded proportional image with ALT, native quote clicked and verified as AK 2109361546505966046."
+  },
+  "image_generation": {
+    "final": "deterministic SVG chart rendered to PNG",
+    "source": "render-proportional.mjs",
+    "previous_version": "imagegen v1; no proportionality claim for v1"
+  },
+  "evidence": [
+    "composer-check-v3.txt",
+    "composer-top-v3.png",
+    "composer-quote-v3.png",
+    "proportion-check.json",
+    "public-post-check.txt",
+    "public-post-top.png",
+    "public-post-quote.png",
+    "public-verification.json"
+  ],
+  "revision_notes": [
+    "Caption now focuses on 6B people with little LLM contact versus agent project users.",
+    "Free-tier descriptor retained by latest explicit user request.",
+    "Chart redrawn deterministically with linear area ratios; old schematic and unused v2 preserved."
+  ],
+  "submitted_at": "2026-10-12T02:16:40.023068+00:00",
+  "published_url": "https://x.com/LeoGuoLabs/status/2109468169182334991",
+  "verified_at": "2026-10-12T02:18:02.406758+00:00"
+}

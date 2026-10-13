@@ -1,0 +1,430 @@
+{
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "duration_frames": 6554,
+  "shots": [
+    {
+      "id": "question",
+      "title": "When AI becomes\nthe research team",
+      "kicker": "THE FEEDBACK LOOP",
+      "lines": [
+        "What changes when AI starts doing the research that builds the next generation of AI?",
+        "The important shift is a feedback loop: better systems can help produce better successors, which can then accelerate the work again."
+      ],
+      "start": 0,
+      "end": 462,
+      "voiceStart": 18,
+      "voiceFrames": 425,
+      "voice": "voice/00.mp3"
+    },
+    {
+      "id": "evidence",
+      "title": "Two numbers. Two different measures.",
+      "kicker": "THE STARTING POINT",
+      "lines": [
+        "The evidence already shows substantial automation, but the numbers need care.",
+        "The paper cites Anthropic reporting that AI wrote more than eighty percent of approved code by May twenty twenty-six.",
+        "Separately, twenty-six percent of research and development work was completed autonomously, with high-level human supervision, by August.",
+        "Writing code and owning a research workflow are different measures."
+      ],
+      "start": 462,
+      "end": 1274,
+      "voiceStart": 480,
+      "voiceFrames": 774,
+      "voice": "voice/01.mp3"
+    },
+    {
+      "id": "pipeline",
+      "title": "Research is more than code.",
+      "kicker": "FOLLOW THE WHOLE PROCESS",
+      "lines": [
+        "A research cycle needs an idea, an implementation, an experiment, and a judgment about the result.",
+        "Making the implementation faster helps. But an idea still has to survive testing, and somebody has to decide whether the apparent improvement is real."
+      ],
+      "start": 1274,
+      "end": 1868,
+      "voiceStart": 1292,
+      "voiceFrames": 556,
+      "voice": "voice/02.mp3"
+    },
+    {
+      "id": "loop",
+      "title": "The output becomes an input.",
+      "kicker": "RECURSIVE IMPROVEMENT",
+      "lines": [
+        "Now close the loop. A stronger model helps run that research cycle.",
+        "If the cycle produces a more capable or more efficient successor, that successor can join the research team.",
+        "The team may then do more useful work on the same hardware. That is the mechanism behind a possible software-driven intelligence explosion."
+      ],
+      "start": 1868,
+      "end": 2548,
+      "voiceStart": 1886,
+      "voiceFrames": 643,
+      "voice": "voice/03.mp3"
+    },
+    {
+      "id": "condition",
+      "title": "Can the gains outrun the friction?",
+      "kicker": "THE CRITICAL CONDITION",
+      "lines": [
+        "The key question is whether expanding research capacity can overcome diminishing returns.",
+        "The paper calls this balance returns to research effort, represented by r.",
+        "In its simplified model, values above one support acceleration while that condition holds. This is an assumption to investigate, not a universal law."
+      ],
+      "start": 2548,
+      "end": 3254,
+      "voiceStart": 2566,
+      "voiceFrames": 669,
+      "voice": "voice/04.mp3"
+    },
+    {
+      "id": "scenario",
+      "title": "A scenario, not a countdown.",
+      "kicker": "READ THE ASSUMPTIONS",
+      "lines": [
+        "One calculation suggests a tenfold increase in the pace of progress within about one and a half years after full automation.",
+        "That result assumes research returns stay at the estimated levels and no other bottlenecks emerge.",
+        "It is not a prediction that a tenfold speedup will arrive eighteen months from today."
+      ],
+      "start": 3254,
+      "end": 3901,
+      "voiceStart": 3272,
+      "voiceFrames": 610,
+      "voice": "voice/05.mp3"
+    },
+    {
+      "id": "friction",
+      "title": "Four forces can slow the loop.",
+      "kicker": "WHERE TIME STILL GOES",
+      "lines": [
+        "There are four broad sources of friction: diminishing returns, limits on experimental compute and data, tasks that remain hard to automate, and processes that simply take time.",
+        "A thousand proposed experiments are not a thousand validated discoveries.",
+        "More agents cannot, by themselves, make a long training run finish instantly."
+      ],
+      "start": 3901,
+      "end": 4622,
+      "voiceStart": 3919,
+      "voiceFrames": 683,
+      "voice": "voice/06.mp3"
+    },
+    {
+      "id": "stakes",
+      "title": "Benefits and risks can arrive together.",
+      "kicker": "WHY THE PACE MATTERS",
+      "lines": [
+        "Faster research could bring useful scientific and medical advances closer.",
+        "But the same acceleration can leave less time to evaluate systems, preserve human control, and adapt institutions.",
+        "The paper also warns that concentrating research capability could weaken checks on power."
+      ],
+      "start": 4622,
+      "end": 5236,
+      "voiceStart": 4640,
+      "voiceFrames": 576,
+      "voice": "voice/07.mp3"
+    },
+    {
+      "id": "control",
+      "title": "Keep oversight inside the loop.",
+      "kicker": "A PRACTICAL DESIGN QUESTION",
+      "lines": [
+        "Consider a research loop with an explicit checkpoint before each successor is deployed.",
+        "The checkpoint asks what improved, what failed, and whether the evidence justifies expanding access.",
+        "If generating the next model becomes fast, these checks become more consequential, not optional overhead."
+      ],
+      "start": 5236,
+      "end": 5869,
+      "voiceStart": 5254,
+      "voiceFrames": 596,
+      "voice": "voice/08.mp3"
+    },
+    {
+      "id": "response",
+      "title": "Measure. Constrain. Prepare.",
+      "kicker": "WHAT TO BUILD NOW",
+      "lines": [
+        "The authors propose three priorities: clearer reporting on research automation, ways to steer or pause risky development, and preparation for wider impacts.",
+        "The practical takeaway is to track the whole loop: useful research output, the bottlenecks that remain, and whether people can still understand and control what happens next."
+      ],
+      "start": 5869,
+      "end": 6554,
+      "voiceStart": 5887,
+      "voiceFrames": 647,
+      "voice": "voice/09.mp3"
+    }
+  ],
+  "captions": [
+    {
+      "start": 21,
+      "end": 173,
+      "text": "What changes when AI starts doing the research that builds the next generation of AI?"
+    },
+    {
+      "start": 183,
+      "end": 303,
+      "text": "The important shift is a feedback loop: better systems can"
+    },
+    {
+      "start": 303,
+      "end": 433,
+      "text": "help produce better successors, which can then accelerate the work again."
+    },
+    {
+      "start": 483,
+      "end": 634,
+      "text": "The evidence already shows substantial automation, but the numbers need care."
+    },
+    {
+      "start": 645,
+      "end": 764,
+      "text": "The paper cites Anthropic reporting that AI wrote more than"
+    },
+    {
+      "start": 764,
+      "end": 862,
+      "text": "eighty percent of approved code by May twenty twenty-six."
+    },
+    {
+      "start": 873,
+      "end": 976,
+      "text": "Separately, twenty-six percent of research and development work"
+    },
+    {
+      "start": 977,
+      "end": 1121,
+      "text": "was completed autonomously, with high-level human supervision, by August."
+    },
+    {
+      "start": 1131,
+      "end": 1244,
+      "text": "Writing code and owning a research workflow are different measures."
+    },
+    {
+      "start": 1295,
+      "end": 1407,
+      "text": "A research cycle needs an idea, an implementation,"
+    },
+    {
+      "start": 1418,
+      "end": 1504,
+      "text": "an experiment, and a judgment about the result."
+    },
+    {
+      "start": 1514,
+      "end": 1589,
+      "text": "Making the implementation faster helps."
+    },
+    {
+      "start": 1599,
+      "end": 1747,
+      "text": "But an idea still has to survive testing, and somebody"
+    },
+    {
+      "start": 1747,
+      "end": 1838,
+      "text": "has to decide whether the apparent improvement is real."
+    },
+    {
+      "start": 1889,
+      "end": 1919,
+      "text": "Now close the loop."
+    },
+    {
+      "start": 1929,
+      "end": 2028,
+      "text": "A stronger model helps run that research cycle."
+    },
+    {
+      "start": 2039,
+      "end": 2133,
+      "text": "If the cycle produces a more capable or more"
+    },
+    {
+      "start": 2133,
+      "end": 2254,
+      "text": "efficient successor, that successor can join the research team."
+    },
+    {
+      "start": 2265,
+      "end": 2362,
+      "text": "The team may then do more useful work on the same hardware."
+    },
+    {
+      "start": 2372,
+      "end": 2518,
+      "text": "That is the mechanism behind a possible software-driven intelligence explosion."
+    },
+    {
+      "start": 2569,
+      "end": 2744,
+      "text": "The key question is whether expanding research capacity can overcome diminishing returns."
+    },
+    {
+      "start": 2755,
+      "end": 2904,
+      "text": "The paper calls this balance returns to research effort, represented by r."
+    },
+    {
+      "start": 2914,
+      "end": 3106,
+      "text": "In its simplified model, values above one support acceleration while that condition holds."
+    },
+    {
+      "start": 3116,
+      "end": 3224,
+      "text": "This is an assumption to investigate, not a universal law."
+    },
+    {
+      "start": 3275,
+      "end": 3394,
+      "text": "One calculation suggests a tenfold increase in the pace of"
+    },
+    {
+      "start": 3394,
+      "end": 3519,
+      "text": "progress within about one and a half years after full automation."
+    },
+    {
+      "start": 3529,
+      "end": 3625,
+      "text": "That result assumes research returns stay at the"
+    },
+    {
+      "start": 3625,
+      "end": 3724,
+      "text": "estimated levels and no other bottlenecks emerge."
+    },
+    {
+      "start": 3734,
+      "end": 3872,
+      "text": "It is not a prediction that a tenfold speedup will arrive eighteen months from today."
+    },
+    {
+      "start": 3922,
+      "end": 4105,
+      "text": "There are four broad sources of friction: diminishing returns, limits on experimental compute and"
+    },
+    {
+      "start": 4105,
+      "end": 4264,
+      "text": "data, tasks that remain hard to automate, and processes that simply take time."
+    },
+    {
+      "start": 4274,
+      "end": 4417,
+      "text": "A thousand proposed experiments are not a thousand validated discoveries."
+    },
+    {
+      "start": 4428,
+      "end": 4593,
+      "text": "More agents cannot, by themselves, make a long training run finish instantly."
+    },
+    {
+      "start": 4645,
+      "end": 4790,
+      "text": "Faster research could bring useful scientific and medical advances closer."
+    },
+    {
+      "start": 4800,
+      "end": 4883,
+      "text": "But the same acceleration can leave less time"
+    },
+    {
+      "start": 4883,
+      "end": 5037,
+      "text": "to evaluate systems, preserve human control, and adapt institutions."
+    },
+    {
+      "start": 5048,
+      "end": 5206,
+      "text": "The paper also warns that concentrating research capability could weaken checks on power."
+    },
+    {
+      "start": 5257,
+      "end": 5420,
+      "text": "Consider a research loop with an explicit checkpoint before each successor is deployed."
+    },
+    {
+      "start": 5431,
+      "end": 5525,
+      "text": "The checkpoint asks what improved, what failed,"
+    },
+    {
+      "start": 5532,
+      "end": 5624,
+      "text": "and whether the evidence justifies expanding access."
+    },
+    {
+      "start": 5634,
+      "end": 5722,
+      "text": "If generating the next model becomes fast, these"
+    },
+    {
+      "start": 5722,
+      "end": 5840,
+      "text": "checks become more consequential, not optional overhead."
+    },
+    {
+      "start": 5890,
+      "end": 6064,
+      "text": "The authors propose three priorities: clearer reporting on research automation, ways"
+    },
+    {
+      "start": 6064,
+      "end": 6207,
+      "text": "to steer or pause risky development, and preparation for wider impacts."
+    },
+    {
+      "start": 6218,
+      "end": 6387,
+      "text": "The practical takeaway is to track the whole loop: useful research output, the bottlenecks"
+    },
+    {
+      "start": 6387,
+      "end": 6524,
+      "text": "that remain, and whether people can still understand and control what happens next."
+    }
+  ],
+  "events": [
+    {
+      "id": "question-reveal",
+      "frame": 15
+    },
+    {
+      "id": "evidence-reveal",
+      "frame": 477
+    },
+    {
+      "id": "pipeline-reveal",
+      "frame": 1289
+    },
+    {
+      "id": "loop-reveal",
+      "frame": 1883
+    },
+    {
+      "id": "condition-reveal",
+      "frame": 2563
+    },
+    {
+      "id": "scenario-reveal",
+      "frame": 3269
+    },
+    {
+      "id": "friction-reveal",
+      "frame": 3916
+    },
+    {
+      "id": "stakes-reveal",
+      "frame": 4637
+    },
+    {
+      "id": "control-reveal",
+      "frame": 5251
+    },
+    {
+      "id": "response-reveal",
+      "frame": 5884
+    }
+  ]
+}

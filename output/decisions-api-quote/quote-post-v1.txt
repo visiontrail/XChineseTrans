@@ -1,0 +1,7 @@
+A lot of useful AI automation comes down to choosing the next branch.
+
+Decisions API lets you define a question and a finite set of answers, using text or images as context. OpenAI’s routing demo shows about 150 ms per request versus 1.6 s with the Responses API. It’s currently in limited preview.
+
+I like the engineering direction: use a focused model for frequent, narrow decisions, and reserve deeper reasoning for harder steps. Ticket triage, content classification, and tool selection are natural fits. A valid answer can still be the wrong choice, so accuracy and confidence calibration matter.
+
+TypeSafe’s Jev is pursuing a similar idea. That competition should be judged on real workloads: decision quality, latency under load, and cost per completed task. Faster decisions are useful when they make the whole workflow work better.

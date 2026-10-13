@@ -1,0 +1,18 @@
+Use case: infographic-diagram.
+Create one original English editorial infographic for the new X account LeoGuoLabs, landscape 1536x1024. The provided image is a content reference only, not a layout to copy. Reinterpret its whole-task / finish-line / stop-condition idea, and add a clear engineering acceptance perspective. This is independent commentary, not an official Anthropic graphic.
+Design: crisp premium technical editorial typography, deep midnight blue background, warm white main text, restrained cyan and amber accents, generous margins. Flat precise line icons, no robots, brains, gradients or stock photos. All text must be highly legible on a phone. Use a big headline, three roomy columns with short text, and a separate bottom evidence band. Avoid tiny decorative labels. No terminal-window imitation. Brand text LeoGuoLabs in the upper left.
+Render this exact English copy, no additional prose:
+Brand: "LeoGuoLabs"
+Small topic line: "CLAUDE OPUS 5.5"
+Headline: "Define done. Let it work. Verify."
+Column 1 heading: "BRIEF THE WHOLE TASK"
+Column 1 body: "State the goal, constraints and acceptance checks. Define when to stop and ask."
+Column 2 heading: "CUT LOW-VALUE INTERVENTIONS"
+Column 2 body: "Replace vague thinking prompts with specific requirements. Add new constraints as needed."
+Column 3 heading: "REVIEW THE HANDOFF"
+Column 3 body: "Check blockers first. Then inspect changes, test results and unresolved claims."
+Bottom band label: "THE ENGINEERING CHECK"
+Bottom band main text: "Tests passed. Deployment confirmed. Live behavior verified."
+Bottom band supporting text: "Three separate claims. Each needs evidence."
+Footer: "Independent interpretation | Inspired by @xiaohu and Anthropic guidance"
+Use three simple line icons above the column headings: target/checklist, adjustment sliders, magnifier over report. Ensure no claim that the model was personally benchmarked. Accurate spelling and roomy typesetting are essential.

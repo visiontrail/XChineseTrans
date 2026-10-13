@@ -1,0 +1,60 @@
+{
+  "source_url": "https://x.com/xiax0603/status/2108459615759319389",
+  "source_post_id": "2108459615759319389",
+  "account": "@LeoGuoLabs",
+  "format": "standalone",
+  "state": "published_verified_with_alt_issue",
+  "publication_submitted": true,
+  "published_url": "https://x.com/LeoGuoLabs/status/2108774775413981246",
+  "final_text": "Keeping an AI agent supplied with context is getting cheaper.\n\nDeepSeek reports that V4.1 Flash needs just 890 bytes per token for its global KV cache in GPU memory: about 437× smaller than V1 and 4× smaller than V4 Flash. That is a substantial engineering result—and publishing the design gives everyone something concrete to study.\n\nAPI prices are moving too. Cached input now costs $0.20 per million tokens on Opus 5.5, and $0.10 on both Sonnet 5.5 and GPT-6.1 Sol, at standard rates.\n\nDeepSeek deserves credit for its open research. Lower prices alone don't prove that OpenAI or Anthropic adopted its methods.\n\nIf your agent keeps revisiting the same codebase or documents, cheaper cached context can make a real difference to the bill.",
+  "final_text_file": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/kv-cache-costs-rechecked-2026-10-10/draft-v2.txt",
+  "media": [
+    {
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/kv-cache-costs-rechecked-2026-10-10/infographic-v1.png",
+      "sha256": "b32d17c115f878c5ccce953ff4fff15a5c693e5d24aa2b772d1f1907db97a84f",
+      "type": "image/png",
+      "created_by": "built-in imagegen",
+      "prompt_file": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/kv-cache-costs-rechecked-2026-10-10/image-prompt-v1.txt",
+      "visual_check": "All numeric values, baseline labels, spelling and margins inspected; no clipping.",
+      "alt": "Entered and saved in X accessibility field; 741 characters.",
+      "public_alt_verified": false,
+      "public_alt_observed": "Image"
+    }
+  ],
+  "checks": {
+    "source_read": "Live original Chinese and both original images inspected",
+    "relevant_video": "none",
+    "primary_sources": "research.txt and verified-data.json",
+    "account": "Live source page linked profile @LeoGuoLabs; composer Leo Guo matches avatar",
+    "composer": "Complete 740-character copy accepted, 24,260 remaining; 1 image and ALT; Post enabled"
+  },
+  "review_screenshot": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/kv-cache-costs-rechecked-2026-10-10/composer-review.png",
+  "authorization": "User approved reviewed final text and image with: 请在15分钟后发布",
+  "prepared_on": "2026-10-10",
+  "timezone": "Asia/Singapore",
+  "scheduled_at": "2026-10-10T12:21:00+08:00",
+  "scheduling_method": "X native Schedule",
+  "scheduled_queue_verified": true,
+  "schedule_submitted": true,
+  "queue_media_url": "https://pbs.twimg.com/media/HUPcOzoaIAATSDh.jpg",
+  "queue_evidence": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/kv-cache-costs-rechecked-2026-10-10/scheduled-queue.png",
+  "verification_automation_id": "leoguolabs",
+  "published_at": "2026-10-10T12:21:00+08:00",
+  "public_verified_at": "2026-10-10T12:25:21+08:00",
+  "publication_verified": true,
+  "one_time_verification_complete": true,
+  "public_checks": {
+    "account": "@LeoGuoLabs verified on actual public status",
+    "text": "Exact equality to draft-v2.txt, 740 characters",
+    "format": "standalone",
+    "image_count": 1,
+    "image": "Correct infographic visually inspected in post and photo detail; same queued media ID",
+    "alt": "Expected English ALT absent after reload and photo-detail inspection; public img alt is Image and no ALT button",
+    "timestamp": "12:21 PM · Oct 10, 2026"
+  },
+  "public_evidence": [
+    "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/kv-cache-costs-rechecked-2026-10-10/public-verification.json",
+    "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/kv-cache-costs-rechecked-2026-10-10/public-post.png",
+    "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/kv-cache-costs-rechecked-2026-10-10/public-image-detail.png"
+  ]
+}

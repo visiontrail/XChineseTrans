@@ -1,0 +1,5 @@
+Four personal AI agents, compared: Meta Muse, OpenAI dot, Grok Bot, and Manus Cue.
+
+The useful differences are in background work, memory, access, identity, parallel tasks, and pricing.
+
+I’d start with where the work runs, what context persists, and which actions need approval. Availability and usage limits still matter.

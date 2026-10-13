@@ -1,0 +1,52 @@
+{
+  "verified_on": "2026-10-10",
+  "timezone": "Asia/Singapore",
+  "deepseek": {
+    "model": "DeepSeek V4.1 Flash",
+    "global_kv_bytes_per_token": 890,
+    "ratio_vs_v1": 437,
+    "ratio_vs_v4_flash": 4,
+    "persistent_kv_ratio_vs_v4_flash": 8,
+    "source": "https://arxiv.org/html/2609.19969v1"
+  },
+  "pricing": {
+    "currency": "USD",
+    "unit": "per 1M cached input tokens",
+    "mode": "Standard direct API",
+    "gpt_prompt_scope": "<=272K input tokens",
+    "rows": [
+      {
+        "model": "Claude Opus 5.5",
+        "before_model": "Claude Opus 5",
+        "before": 0.5,
+        "after": 0.2,
+        "reduction_pct": 60,
+        "source": "https://platform.claude.com/docs/en/about-claude/pricing"
+      },
+      {
+        "model": "Claude Sonnet 5.5",
+        "before_model": "Claude Sonnet 5.5 launch rate",
+        "before": 0.2,
+        "after": 0.1,
+        "reduction_pct": 50,
+        "source": "https://www.anthropic.com/claude-haiku-5-5"
+      },
+      {
+        "model": "GPT-6.1 Sol",
+        "before_model": "GPT-6 Sol",
+        "before": 0.2,
+        "after": 0.1,
+        "reduction_pct": 50,
+        "source": "https://developers.openai.com/api/docs/models/gpt-6.1-sol"
+      }
+    ],
+    "additional_baseline": {
+      "model": "GPT-5.6 Sol",
+      "rate": 0.4,
+      "status": "current promotional",
+      "reduction_to_gpt61_pct": 75,
+      "source": "https://developers.openai.com/api/docs/models/gpt-5.6-sol"
+    }
+  },
+  "allegation_status": "No reviewed primary source establishes OpenAI or Anthropic adopted these DeepSeek techniques."
+}

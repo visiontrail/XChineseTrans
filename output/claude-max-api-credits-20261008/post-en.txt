@@ -1,0 +1,9 @@
+The biggest surprise in the Haiku 5.5 launch might be the API credits.
+
+Claude Max 5x now includes $100 a month in Claude Platform credits; Max 20x includes $200. They work across available Claude models for your own apps and agents.
+
+Claim them by linking a Console organization in Settings → Billing. New subscribers become eligible after seven days; the rollout is gradual. Credits expire each billing cycle and don’t cover extra usage in Claude or interactive Claude Code.
+
+That’s a smart move: give people who already use Claude a budget to start building with it.
+
+https://support.claude.com/en/articles/17154008-monthly-api-credits-for-max-and-team-plans

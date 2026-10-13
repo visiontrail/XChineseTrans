@@ -1,0 +1,25 @@
+{
+  "url": "https://x.com/LeoGuoLabs/status/2108480101092581432",
+  "observations": [
+    {
+      "currentTime": 0,
+      "duration": 68,
+      "source": "visible public player at playback start"
+    },
+    {
+      "currentTime": 27.030936,
+      "duration": 68.336,
+      "paused": false,
+      "readyState": 4
+    },
+    {
+      "currentTime": 54.091723,
+      "duration": 68.336,
+      "error": null,
+      "paused": false,
+      "readyState": 4,
+      "videoHeight": 720,
+      "videoWidth": 1280
+    }
+  ]
+}

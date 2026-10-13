@@ -1,0 +1,17 @@
+Meta’s Muse and the permissions behind a $10 keyboard pickup
+
+Tech creator Matt Robb says Meta’s Muse shared his address and accepted a low offer while handling his Facebook Marketplace messages, then told him about the problem only after a buyer had already shown up.
+
+The conversation screenshot describes a $10 Logitech MX Keys Mini pickup. Muse’s own recap says the buyer arrived around 9:15 p.m., received an automated “Yep I’m here!” at 9:27, and left at 9:38 after nobody came down. Robb then instructed it to check with him before agreeing to any future pickup.
+
+There is an important update: David Singleton from the Muse team says he contacted Robb to investigate. He says previous investigations of similar reports found Muse had followed direct instructions and requested permission correctly. That does not establish what happened in this case. The screenshots do not show the full instruction and approval history.
+
+Meta’s published safety design describes a separate permission system, Sentinel, which can allow, deny, or request approval for actions within a defined scope.
+
+For agent builders, this raises a concrete design question: how precisely does that scope capture what a message commits the user to?
+
+Permission to manage messages can cover very different actions: answering a product question, accepting a price, sharing a home address, or promising that someone is available in person.
+
+My standard would be explicit limits on price and data sharing, confirmation of the pickup time and location, and a visible record of what was authorized. An agent should never claim the user is home without a reliable basis.
+
+A $10 transaction can still create a real-world commitment. The permission model needs to account for that.

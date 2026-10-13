@@ -1,0 +1,8 @@
+1/4
+My takeaway from the Claude Opus 5.5 guidance:
+
+Better AI delegation starts with a clear definition of done.
+
+Give the agent the whole task, set boundaries and specify how success will be verified.
+
+More autonomy calls for stronger acceptance checks.

@@ -1,0 +1,48 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>用 Codex 制作视频的一套可复用流程</title><style>@font-face{font-family:Geist;src:url(public/Geist-Regular.woff2)}@font-face{font-family:Geist;src:url(public/Geist-Medium.woff2);font-weight:500}*{box-sizing:border-box}body{margin:0;background:#FDFBF7;color:#1A4A3A;font-family:Geist,sans-serif}nav{max-width:1120px;margin:auto;padding:30px 28px 20px;display:flex;justify-content:space-between;font-size:12px;border-bottom:1px solid #d6ddcf}a{color:#1a4a3a;text-underline-offset:4px}header{max-width:1000px;margin:68px auto 42px;padding:0 28px}.eyebrow{font-size:12px;letter-spacing:.14em;color:#80601b}h1{font-weight:500;font-size:clamp(36px,5.5vw,65px);line-height:1.1;letter-spacing:-.045em;margin:20px 0}.deck{color:#426454;font-size:19px;line-height:1.6;max-width:710px}article{max-width:790px;margin:auto;padding:0 28px 70px;font-size:17px;line-height:1.8}p{margin:0 0 22px}h2{font-size:29px;font-weight:500;line-height:1.25;letter-spacing:-.035em;margin:53px 0 23px}pre{background:#f2f1e9;padding:23px;font-size:13px;line-height:1.8;overflow-x:auto}code{font-family:ui-monospace,monospace;font-size:.88em}.table-wrap{overflow-x:auto;margin:30px 0}table{border-collapse:collapse;width:100%;font-size:13px;line-height:1.65}td,th{padding:15px 10px;text-align:left;border-bottom:1px solid #d6ddcf;min-width:100px}th{font-weight:500;color:#80601b}blockquote{margin:30px 0;padding:8px 0 8px 23px;border-left:2px solid #80601b;color:#426454;font-size:17px}.wide{width:calc(100% + 120px);margin:40px -60px}video,img{width:100%;display:block}figcaption{font-size:12px;color:#426454;margin-top:12px;line-height:1.6}.compare>div{display:grid;grid-template-columns:1fr 1fr;gap:10px}footer{border-top:1px solid #d6ddcf;padding-top:25px;margin-top:50px;font-size:13px;display:flex;justify-content:space-between;gap:24px}@media(max-width:900px){.wide{width:100%;margin:32px 0}}@media(max-width:560px){header{margin:40px auto 30px}article{font-size:16px}.compare>div{grid-template-columns:1fr}h2{font-size:25px}.deck{font-size:17px}pre{padding:15px;font-size:11px}}ul{padding-left:1.25em;margin:0 0 24px}li{margin:7px 0}footer{flex-wrap:wrap}body{overflow-wrap:break-word}h1:lang(zh-CN){letter-spacing:-.025em;line-height:1.25}article:lang(zh-CN){line-height:1.95}nav{gap:20px;flex-wrap:wrap}</style></head><body><nav><span>LeoGuoLabs</span><a href="article.html">English article →</a></nav><header><p class="eyebrow">中文审查稿 · 仅用于内容审查</p><h1>用 Codex 制作视频的一套可复用流程</h1><p class="deck">从导演 Brief 到成片验证：用一段 36 秒卫星短片说明六步流程，并将方法提炼为独立 Skill。</p></header><article><figure class="wide"><video controls playsinline preload="metadata" poster="frames/frame-0150.png" src="steering-without-turning.mp4"></video><figcaption>Steering without turning · 36 s · 1920 × 1080 · 60 fps</figcaption></figure><blockquote>中文审查稿，对应英文文章 <code>article.md</code>，供核对内容与表达。</blockquote>
+<p>用 Codex 制作视频时，可以把工作分成六步：导演 Brief、分镜、共享时间线、运动与声音、检查修正、成片验证。这样更容易控制制作过程，也方便修改。</p>
+<p>我用下面这套六步流程制作了《Steering without turning》（《阵面不转，波束转向》），一段 36 秒的卫星科普短片。镜头从完整卫星进入天线阵列，展示相对相位如何改变波束方向，再回到指向地面终端的例子。成片只是这套流程的一次应用。同样的决策顺序，也可以用于产品演示、科学讲解或简短的视觉故事。</p>
+<h2>1. 写一份导演 Brief</h2>
+<p>先定义观众，以及他们看完后应该理解或感受到的那一件事，再明确内容范围、视觉方向和交付要求。给 Codex 足够的信息，让它的各项选择都服务于同一个目标。</p>
+<p>一份有用的 Brief 应回答五个问题：</p>
+<ul><li>谁会看这段视频，可以假定他们已经知道什么？</li><li>看完之后，希望他们记住哪一个核心观点或动作？</li><li>哪些事实或事件必须出现，哪些内容不在这次的范围内？</li><li>画面、字体、运动和声音应该给人什么感觉？</li><li>需要交付什么：时长、画幅比例、分辨率、语言、音频、可编辑源码，以及审查文件？</li></ul>
+<p>卫星样片的目标，是解释当天线面板相对于卫星保持固定时，电子指向如何工作。链路预算、调度和切换不在这次范围内。视觉方向则是暖象牙白、森林绿、少量金色，以及清晰的无衬线标签。</p>
+<p>Brief 应足够简短，方便在修改时随时查阅。当某个效果干扰了核心表达，它就能帮助你判断为什么应当删掉这个效果。</p>
+<h2>2. 把 Brief 转成分镜表</h2>
+<p>为每个镜头安排一项表达任务。明确它的主体、景别与构图、动作、文字、转场方式，以及观众应该带入下一个镜头的信息。镜头数量和时长应围绕这些任务安排。</p>
+<p>下面是已完成样片使用的分镜表：</p>
+<div class="table-wrap"><table><thead><tr><th>时间</th><th>镜头</th><th>表达任务</th></tr></thead><tbody><tr><td>0–6 秒</td><td>完整卫星</td><td>找到平面天线的位置</td></tr><tr><td>6–12 秒</td><td>阵面近景</td><td>识别重复排列的辐射阵元</td></tr><tr><td>12–18 秒</td><td>分离后的结构层</td><td>展示经过简化的馈电结构</td></tr><tr><td>18–24 秒</td><td>相位曲线与阵列因子</td><td>将相对相位与波束方向联系起来</td></tr><tr><td>24–30 秒</td><td>卫星与固定地面终端</td><td>展示为什么需要改变指向</td></tr><tr><td>30–36 秒</td><td>回到完整卫星</td><td>将工作机制重新放回系统中理解</td></tr></tbody></table></div>
+<p>每段六秒的等长安排只属于这段样片。其他主题可能需要一段较长的演示，再配上几个较短的衔接镜头。</p>
+<p>转场应保留一种有用的联系，比如同一个物体、位置、方向或因果关系。例如，阵面近景保留了面板的朝向和重复贴片，让观众认得相机进入了哪个部位。</p>
+<p>先确定镜头需要什么，再选择渲染工具。本项目用 Three.js 和 React Three Fiber 处理几何体与相机，用 Remotion 组织按帧控制的画面，用 HTML/SVG 呈现标签和图形。Remotion 的 <a href="https://www.remotion.dev/docs/three">Three.js 集成</a>支持这种组合。换一份分镜表，也可能需要实拍素材、平面图形或其他渲染工具。</p>
+<figure class="wide"><img loading="lazy" src="frames/frame-0870.png" alt="将同一个阵面用于卫星全景、近景和结构分层镜头。"><figcaption>将同一个阵面用于卫星全景、近景和结构分层镜头。</figcaption></figure>
+<h2>3. 建立共享时间线</h2>
+<p>给重要动作设置有名称的事件和明确的帧号，让相机运动、物体动作、文字与声音都可以引用同一份安排。构建可复用实现时，应把时间定义集中到唯一的权威位置；各个脚本读取或接收这份定义，避免分别维护自己的副本。</p>
+<p>下面这段精简表示，对应卫星样片实际使用的时间安排：</p>
+<pre><code>const fps = 60;
+const totalFrames = 2160;
+const shotStarts = [0, 360, 720, 1080, 1440, 1800];
+const events = {
+  phaseScene: 1080, // 18 秒：引入工作机制
+  sweepStart: 1140, // 19 秒：开始改变角度
+  sweepEnd: 1320,   // 22 秒：达到 30 度
+  tracking: 1440,   // 24 秒：结束 30 度保持，进入跟踪镜头
+};</code></pre>
+<p>进入镜头和开始动作，是两个不同的时刻。相位镜头先留一秒，让观众看清画面；接着用三秒改变角度，最后保持结果两秒。</p>
+<p>对于程序生成的动画，应直接根据请求的帧号推导状态。本例中的相机位置、层间分离、相位和指向，都是镜头局部时间的函数。因此，单独渲染某一帧不需要先播放之前的全部帧。这让局部修改和重复检查更容易完成。</p>
+<h2>4. 围绕事件制作运动与声音</h2>
+<p>决定什么先动、什么随后发生、在哪里加速，以及在哪里收稳。动作前的预备或短暂停留，都应帮助观众看懂动作。在让视线追踪另一件事之前，先给标签足够的阅读时间。</p>
+<p>讲解机制的镜头中，画面和数值读数应由同一个底层状态驱动。样片中的相位曲线、波束角标签、波前朝向和阵列因子，都跟随同一个扫描角变化。演示采用理想的八阵元阵列，阵元间距为半波长，所有阵元始终同时工作。模型保留了旁瓣，也明确了适用边界。<a href="https://www.analog.com/en/resources/analog-dialogue/articles/phased-array-antenna-patterns-part1.html">Analog Devices 的相控阵教程</a>介绍了相关几何原理。</p>
+<p>声音也需要明确的主次。音乐负责连贯感，有选择地使用事件音来强调重点。确定声音是与动作同时开始、提前引入动作，还是在动作结束后收束。仅仅共用一个时间戳，还没有考虑声音的起音和衰减过程。</p>
+<p>样片使用 Python/NumPy 合成的原创配乐，节拍为 100 BPM，并在镜头切换附近安排简短声音提示。这个速度只是本例的选择。节拍网格可以帮助组织重点，但不意味着每个物体都必须在每一拍上运动。样片没有旁白，因此静音观看时，字幕和画面承担解释任务。</p>
+<figure class="wide"><img loading="lazy" src="frames/frame-1320.png" alt="同一个扫描角驱动相位曲线、波前朝向和归一化方向图。"><figcaption>同一个扫描角驱动相位曲线、波前朝向和归一化方向图。</figcaption></figure>
+<h2>5. 检查、定位问题并修改</h2>
+<p>在完整导出视频之前，先渲染有代表性的画面。检查每个镜头的开头、最能表达含义的时刻，以及结束位置。在快速运动、重叠、转场和状态变化附近，增加相邻帧采样。用全尺寸图片检查细节，用缩略图总览检查整段顺序。</p>
+<p>检查应落在具体问题上：能否认出主体，标签是否指向正确对象，文字在目标观看尺寸下是否可读，画面结果是否与底层状态一致？</p>
+<p>卫星样片的第一批静帧中，部分贴片被埋进了带倒角的面板。把贴片几何体向前移动，解决了这个问题。一个微距镜头还让太阳翼与标题和侧边说明重叠；围绕阵面重新构图后，恢复了必要的间距。这些都能直接执行，比笼统地要求“提高质量”更有用。</p>
+<p>记录问题、修改内容，以及用于验证的帧。然后重新查看修改过的镜头和前后相邻镜头。数值检查可以补充视觉审查：本例核对阵列因子峰值是否对应设定角度，以及指向线是否经过固定终端。这类检查证明的是内部一致性，并不等于验证了完整的无线系统。</p>
+<h2>6. 验证最终交付视频</h2>
+<p>检查实际编码完成的文件，确认时长、尺寸、帧数、编码格式、色彩元数据和音频流。完整解码文件，以发现抽样画面之外的错误。对这个文件测量响度，再在实际播放器中带声音播放并测试跳转。</p>
+<p>卫星样片的最终文件为 1920 × 1080、60 fps：36.000 秒内完整解码得到 2,160 帧。H.264 视频采用 4:2:0 采样和有限范围 BT.709 色彩，音频为 48 kHz 立体声 AAC。最终 MP4 的综合响度实测为 −18.00 LUFS，真峰值为 −2.86 dBTP。在本地浏览器中，视频播放至结束，没有报告媒体错误；审片控件也在连续的第 1,320 帧和第 1,321 帧完成了检查。</p>
+<p>这些结果描述的是这一个文件，并不意味着所有项目都应使用同一种帧率、响度或编码格式。根据视频的目标用途设定交付要求，并保留足够证据，区分“要求采用的设置”和“最终测得的结果”。</p>
+<p>将视频连同 Brief、分镜表、时间定义、可编辑源码和简短审查记录一起交付，下一次修改就有了可靠的起点。</p>
+<p>配套的 <strong><code>$video-director</code> Skill</strong> 将这六步封装为一套独立、可用于不同主题的工作流程。它是在完成制作之后提炼出来的，卫星短片是其中的实际案例。可复用的是从明确 Brief 到验证成片的过程，以及让每一项创意决策都有一个可以检查和修改的落点。</p><footer><a href="steering-without-turning.mp4" download>下载视频</a><a href="article-review-zh.md">文章文本</a><a href="video-director.zip" download>下载 Video Director Skill</a></footer></article></body></html>

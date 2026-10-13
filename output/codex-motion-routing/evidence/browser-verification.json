@@ -1,0 +1,41 @@
+{
+  "browser": "Codex in-app browser",
+  "egoLimitation": "Native window reads timed out and extension connections were unavailable; fallback disclosed in conversation.",
+  "fullPlayback": {
+    "currentTime": 24,
+    "duration": 24,
+    "ended": true,
+    "error": null,
+    "height": 1080,
+    "paused": true,
+    "readyState": 4,
+    "src": "http://127.0.0.1:8743/route-around-failure.mp4",
+    "width": 1920
+  },
+  "frameInput": {
+    "currentTime": 9.0001,
+    "duration": 24,
+    "error": null,
+    "height": 1080,
+    "paused": true,
+    "presentedFrame": 540,
+    "readyState": 4,
+    "width": 1920
+  },
+  "nextFrame": {
+    "currentTime": 9.0168,
+    "duration": 24,
+    "error": null,
+    "height": 1080,
+    "paused": true,
+    "presentedFrame": 541,
+    "readyState": 4,
+    "width": 1920
+  },
+  "article": {
+    "desktopInspected": true,
+    "mobileWidth": 390,
+    "mobileScrollWidth": 375,
+    "imagesLoaded": true
+  }
+}

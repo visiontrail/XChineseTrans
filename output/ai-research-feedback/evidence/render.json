@@ -1,0 +1,22 @@
+{
+  "composition": {
+    "id": "AIResearchFeedback",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "durationInFrames": 6554,
+    "props": {},
+    "defaultProps": {},
+    "defaultCodec": null,
+    "defaultOutName": null,
+    "defaultVideoImageFormat": null,
+    "defaultPixelFormat": null,
+    "defaultProResProfile": null,
+    "defaultSampleRate": null
+  },
+  "seconds": 125.046,
+  "finishedAt": "2026-10-03T00:21:48.111Z",
+  "codec": "h264",
+  "crf": 19,
+  "concurrency": 4
+}

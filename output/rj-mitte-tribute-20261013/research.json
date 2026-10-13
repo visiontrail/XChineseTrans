@@ -1,0 +1,48 @@
+{
+  "supplied_source": "https://x.com/alanchen/status/2109752653060390951",
+  "quoted_source": "https://x.com/PopCrave/status/2109743825946132937",
+  "checked_date": "2026-10-13",
+  "source_original_language_read": true,
+  "source_media": {
+    "images": 1,
+    "videos": 0
+  },
+  "selected_media": [
+    "rj-mitte-portrait.jpg"
+  ],
+  "image_source": "https://pbs.twimg.com/media/HUdQ1DIXwAAHOQq?format=jpg&name=small",
+  "facts": [
+    {
+      "claim": "RJ Mitte's death at age 34 was confirmed by his representative",
+      "source": "https://www.cbsnews.com/news/rj-mitte-breaking-bad-actor-dies-age-34/",
+      "note": "CBS directly received confirmation. AP also reported confirmation by authorities and representatives."
+    },
+    {
+      "claim": "The cause of death remains unspecified in the AP/CBS report, while TMZ reports suicide",
+      "source": "https://www.cbsnews.com/news/rj-mitte-breaking-bad-actor-dies-age-34/",
+      "decision": "Omit cause of death from public copy."
+    },
+    {
+      "claim": "Walter Jr. built SaveWalterWhite.com to seek donations for his father’s cancer treatment",
+      "source": "http://www.savewalterwhite.com/",
+      "note": "The original AMC site loaded in the authenticated built-in browser after the initial navigation timeout. Its text describes lung cancer, the operation fund, medical bills, and helping his dad. Footer identifies AMC Network Entertainment LLC."
+    },
+    {
+      "claim": "A comparable simple webpage could be built from one AI prompt and published in minutes",
+      "source": "https://v0.app/solutions/ai-website-builder",
+      "note": "Primary product documentation supports prompt-to-live-site workflows. This is a possibility, not a personally performed test or a claim about a fully configured donation service."
+    }
+  ],
+  "editorial": "Short memorial with one sentence about the website and restrained grief emojis. No invented rewatching experience, source-blogger attribution, or public production notes.",
+  "media_integrity": {
+    "file": "rj-mitte-portrait.jpg",
+    "bytes": 16276,
+    "dimensions": [
+      619,
+      387
+    ],
+    "sha256": "3c792886daffa0cedfba30860230ffcd170c2ef556de4758e39adf25381f85d9",
+    "retrieved_at": "2026-10-13T02:01:20.063726+00:00",
+    "visual_inspection": "Real portrait in source photo viewer; no text overlay or watermark cropped."
+  }
+}

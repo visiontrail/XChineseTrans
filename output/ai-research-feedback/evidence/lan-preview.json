@@ -1,0 +1,16 @@
+{
+  "checked_at": "2026-10-03T03:10:58.054060+00:00",
+  "host": "172.16.10.59",
+  "port": 8753,
+  "review_url": "http://172.16.10.59:8753/review.html",
+  "video_url": "http://172.16.10.59:8753/when-ai-becomes-the-research-team.mp4",
+  "checks_from_mac": {
+    "/review.html": 200,
+    "/poster.jpg": 200,
+    "/public/Geist-Regular.woff2": 200,
+    "/post.txt": 200
+  },
+  "video_range_status": 206,
+  "phone_verified": false,
+  "publication_submitted": false
+}

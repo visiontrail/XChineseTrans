@@ -1,0 +1,8 @@
+{
+  "provider": "Microsoft Edge speech service via edge-tts",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-3%",
+  "edge_tts": "7.2.8",
+  "text": "narration.txt",
+  "cloned_voice": false
+}

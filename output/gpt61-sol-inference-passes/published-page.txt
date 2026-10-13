@@ -1,0 +1,18 @@
+Leo Guo
+@LeoGuoLabs
+Cheaper inference doesn’t automatically mean faster answers.
+
+A circulating Azure screenshot describes GPT-6.1 Sol as using two inference passes instead of three. That wording isn’t in the current model card, so the architecture claim still needs confirmation.
+
+Even if accurate, it wouldn’t establish that Sol should be faster than Astra. End-to-end latency also depends on token generation, serving conditions and tool calls.
+
+I’d compare quality, time to complete the task and total cost. A lower token price loses its appeal if retries eat up the savings.
+Quote
+algorithon
+@Algorithon
+·
+6h
+🚨 BREAKING: Microsoft confirms on publicly accessible web page that OpenAI has been using Looped Transformers in the GPT-6 series, proving The Information's reporting was correct all along‼️
+
+GPT-6.1 Sol uses 2 inference passes, with a passing mention of "instead of three" 👀
+4:05 PM · Oct 6, 2026

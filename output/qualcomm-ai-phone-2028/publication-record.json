@@ -1,0 +1,73 @@
+{
+  "state": "publicly_verified",
+  "prepared": true,
+  "submitted": true,
+  "publicly_verified": true,
+  "account": "@LeoGuoLabs",
+  "format": "standalone",
+  "source": "https://x.com/leo114119/status/2109185733198319860",
+  "clip_source": "https://x.com/firesidealpha/status/2108930562794864912",
+  "original_interview": "https://x.com/alexeheath/status/2108275202174157044",
+  "primary_source": "https://sources.news/p/qualcomm-ceo-ai-phone",
+  "text": "AI companies want 100B-parameter models running on phones all day by 2028, according to Qualcomm CEO Cristiano Amon. That's a customer target, with no delivery commitment announced.\n\nThe interesting part is what you could do with it: an assistant that understands your context, works across apps, and handles more tasks locally.\n\nI'd love to see my phone quietly take care of the boring admin. The hard part is making that reliable while keeping my data under my control—and leaving enough battery for the rest of the day.",
+  "media": [
+    {
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/qualcomm-ai-phone-2028/source-clip-verified.mp4",
+      "duration_seconds": 28.608,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "bytes": 9125375,
+      "sha256": "f1c2875bbecb1610fa8eb39de3963e0b692a71797f3cebc359989305ceb4bec0"
+    }
+  ],
+  "checks": {
+    "source_read_original_language": true,
+    "primary_source_verified": true,
+    "full_clip_decode": "passed",
+    "beginning_middle_end_frames": "inspected",
+    "composer_text_complete": true,
+    "composer_media_ready": true,
+    "local_video_playback": {
+      "currentTime_observations": [
+        0.125243,
+        8.963409
+      ],
+      "duration": 28.608,
+      "readyState": 4,
+      "error": null
+    },
+    "public_page": {
+      "account": "@LeoGuoLabs",
+      "exact_text_matches_approved": true,
+      "format": "standalone",
+      "video_count": 1,
+      "playback_progress_seconds": [
+        9.80219,
+        16.956268
+      ],
+      "duration_seconds": 28.650666,
+      "readyState": 4,
+      "error": null,
+      "screenshot": "verification/published.png"
+    }
+  },
+  "review_url": "http://172.16.10.59:8887/",
+  "review_url_scope": "same LAN; endpoint and desktop playback verified; phone playback not tested",
+  "authorization": "User approved the exact reviewed English copy and 28.6-second video: 确认发布。",
+  "archive_status": "Complete primary interview downloaded, all byte ranges validated, full decode passed.",
+  "updated_at": "2026-10-11T11:10:38.522272+00:00",
+  "published_url": "https://x.com/LeoGuoLabs/status/2109239591782035674",
+  "approved_at": "2026-10-11T11:07:56.111350+00:00",
+  "submitted_at": "2026-10-11T11:08:11.031180+00:00",
+  "verified_at": "2026-10-11T11:09:53.930983+00:00",
+  "archive": {
+    "path": "source/interview-full-720p-verified.mp4",
+    "duration_seconds": 2808.021333,
+    "bytes": 227499965,
+    "sha256": "8b7866d50e1f1e935f0ef38f15e421000fb57bec95009408f14dc7cd1738ab93",
+    "source_post": "https://x.com/alexeheath/status/2108275202174157044",
+    "full_decode": "passed"
+  }
+}

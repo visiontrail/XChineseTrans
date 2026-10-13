@@ -1,0 +1,7 @@
+Noct Q is a community take on Qwen Image 2.1, focused on photorealism and described by its developer as uncensored.
+
+The practical appeal is local experimentation: the V4 INT8 checkpoint is about 7.3 GB, with the developer listing 8–12 GB GPUs. It supports generation and editing in ComfyUI, though the text encoder and VAE are separate downloads.
+
+This is what makes an open-weight ecosystem interesting to me: people can specialize a model around different creative priorities.
+
+One constraint to keep in mind: the release is for non-commercial use under the Qwen Research License.

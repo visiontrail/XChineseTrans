@@ -1,0 +1,47 @@
+{
+  "source": "https://x.com/Lonely__MH/status/2109434120095056037",
+  "original_target": "https://github.com/remotion-dev/remotion",
+  "format": "standalone",
+  "account": "@LeoGuoLabs",
+  "state": "publicly_verified",
+  "final_text_file": "post-en.txt",
+  "text": "Just came across Remotion on GitHub, and the idea caught my eye: build videos as reusable React projects. It's already passed 63k stars.\n\nYou could build a product demo, swap the text or assets, and render a batch of variations. A coding agent can help with the React code, while you keep control down to the frame.\n\nI haven't used it yet. I'll try it out and share a hands-on report afterward.\n\nIt's free for individuals and companies of up to three people, subject to its license terms. Larger teams need a paid license, and AWS Lambda rendering still has cloud costs.\n\nhttps://github.com/remotion-dev/remotion",
+  "media": [],
+  "link_card": "https://github.com/remotion-dev/remotion",
+  "checks": {
+    "source_read_live": true,
+    "source_video_present": false,
+    "primary_claims_verified": true,
+    "full_text_accepted_by_composer": true,
+    "github_card_rendered": true,
+    "account_verified_live": true
+  },
+  "review_authorization": {
+    "user_message": "确认，10分钟以后发布",
+    "approved_at": "2026-10-12T01:06:07Z",
+    "approved_version": "post-en.txt"
+  },
+  "published_url": "https://x.com/LeoGuoLabs/status/2109453245970039257",
+  "composer_screenshot": "composer-review-v3.png",
+  "updated_at": "2026-10-12T01:01:10.104566+00:00",
+  "revision_note": "User clarified this is only discovery of the GitHub project, not a hands-on endorsement; explicitly no use yet and future hands-on report.",
+  "requested_publish_at": "2026-10-12T01:16:07Z",
+  "scheduled_publish_at": "2026-10-12T01:17:00Z",
+  "schedule_timezone": "Asia/Singapore",
+  "schedule_method": "X native scheduler",
+  "schedule_queue_verified": true,
+  "schedule_evidence": "scheduled-queue.png",
+  "submitted_via": "X native scheduled post",
+  "published_at": "2026-10-12T01:17:00Z",
+  "verified_at": "2026-10-12T01:18:18.539053+00:00",
+  "public_evidence": "public-post.png",
+  "public_checks": {
+    "actual_permalink_opened": true,
+    "account": "@LeoGuoLabs",
+    "full_approved_body_present": true,
+    "standalone_format": true,
+    "github_link_card_present": true,
+    "video_required": false,
+    "visible_timestamp": "9:17 AM · Oct 12, 2026"
+  }
+}

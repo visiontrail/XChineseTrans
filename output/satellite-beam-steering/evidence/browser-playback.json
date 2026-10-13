@@ -1,0 +1,61 @@
+{
+  "fullPlayback": {
+    "startTime": 0.161059,
+    "currentTime": 36,
+    "duration": 36,
+    "ended": true,
+    "error": null,
+    "paused": true,
+    "readyState": 4
+  },
+  "seek": {
+    "targetFrame": 1320,
+    "currentTime": 22.0001,
+    "presentedFrame": 1320
+  },
+  "step": {
+    "targetFrame": 1321,
+    "currentTime": 22.0168,
+    "presentedFrame": 1321
+  },
+  "articleDesktop": {
+    "images": [
+      {
+        "loaded": true,
+        "src": "frames/frame-0870.png"
+      },
+      {
+        "loaded": true,
+        "src": "frames/frame-1320.png"
+      }
+    ],
+    "overflow": false,
+    "placeholder": false,
+    "scrollWidth": 1265,
+    "video": {
+      "duration": 36,
+      "error": null
+    },
+    "width": 1280
+  },
+  "articleMobile": {
+    "images": [
+      {
+        "loaded": true,
+        "src": "frames/frame-0870.png"
+      },
+      {
+        "loaded": true,
+        "src": "frames/frame-1320.png"
+      }
+    ],
+    "overflow": false,
+    "scrollWidth": 375,
+    "video": {
+      "duration": 36,
+      "error": null,
+      "width": 319
+    },
+    "width": 390
+  }
+}

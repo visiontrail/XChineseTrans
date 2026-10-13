@@ -1,0 +1,34 @@
+{
+  "source_url": "https://x.com/TJwithAI/status/2107320757202420162",
+  "quote_target": "https://x.com/thsottiaux/status/2107311729768353844",
+  "quote_target_text": "This might have been my best day so far at oai. Ridiculous amounts of fun and intensity. Future is bright",
+  "format": "native_quote",
+  "destination": "@LeoGuoLabs",
+  "final_text": "I want to share the optimism, Tibo 😅 But I'd be a lot more excited about better models and better value than another subscription tier.\n\nIf the future's that bright, let us see it.",
+  "media": [],
+  "state": "publicly_verified",
+  "authorization": "User approved the exact previously reviewed English Quote with 确认发布.",
+  "checks": {
+    "original_chinese_read": true,
+    "quote_target_read_live": true,
+    "account_verified_live": true,
+    "no_source_media": true,
+    "live_composer_text_and_target_verified": true,
+    "submitted": true,
+    "public_url_reopened": true,
+    "public_account_verified": true,
+    "complete_approved_text_verified": true,
+    "native_quote_target_verified": true
+  },
+  "editorial_note": "Personal judgment on model quality and value. Exact prices, comparative model rankings, and quota assertions from TJ omitted; no user experience invented.",
+  "preview": "quote-composer.png",
+  "prepared_at": "2026-10-06T08:10:35.586817+00:00",
+  "published_url": "https://x.com/LeoGuoLabs/status/2107383896463884657",
+  "approved_at": "2026-10-06T08:14:02.870457+00:00",
+  "submitted_at": "2026-10-06T08:14:34.906759+00:00",
+  "verified_at": "2026-10-06T08:14:51.128553+00:00",
+  "evidence": [
+    "published.png",
+    "published-dom.txt"
+  ]
+}

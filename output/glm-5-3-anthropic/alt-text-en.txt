@@ -1,0 +1,5 @@
+01-article-intro-v1.png
+Title, date, authors, and opening paragraphs of Anthropic’s September 29, 2026 research article, “GLM-5.3 and the spread of advanced cyber capabilities.” The introduction compares GLM-5.3’s exploit-development capabilities with Claude Mythos Preview and discusses safeguards and benefits for defenders.
+
+02-benchmarks-v1.png
+Anthropic’s Figure 2 compares exploit-development success rates: GLM-5.3 reaches 12% on ExploitBench and 4% on the internal Binary Exploitation benchmark; Claude Mythos Preview reaches 14% and 6%. Tests ran in isolated sandboxes. The caption states that the Claude models were evaluated with safeguards disabled.

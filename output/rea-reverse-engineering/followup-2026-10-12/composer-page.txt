@@ -1,0 +1,246 @@
+- heading "To view keyboard shortcuts, press question mark View keyboard shortcuts" [level=2]:
+  - generic: To view keyboard shortcuts, press question mark
+  - link "View keyboard shortcuts":
+    - /url: /i/keyboard_shortcuts
+- button "Grok":
+- button "Chat":
+- button "Skip to home timeline"
+- button "Skip to trending"
+- banner:
+  - heading "X" [level=1]:
+    - link "X":
+      - /url: /home
+  - navigation "Primary":
+    - link "Home":
+      - /url: /home
+      - generic: Home
+    - link "Search and explore":
+      - /url: /explore
+      - generic: Explore
+    - link "Notifications":
+      - /url: /notifications
+      - generic: Notifications
+    - link "Follow":
+      - /url: /i/connect_people
+      - generic: Follow
+    - link "Direct Messages":
+      - /url: /i/chat
+      - generic: Chat
+    - link "Calls":
+      - /url: /i/calls
+      - generic: Calls
+    - link "Grok":
+      - /url: /i/grok
+      - generic: Grok
+    - link "History":
+      - /url: /i/history
+      - generic: History
+    - link "Profile":
+      - /url: /LeoGuoLabs
+      - generic: Profile
+    - button "More menu items":
+      - generic: More
+  - link "Post":
+    - /url: /compose/post
+    - generic: Post
+  - button "Account menu":
+    - generic "Leo Guo":
+      - img "Leo Guo"
+    - generic: Leo Guo
+    - img "Verified account"
+    - generic: "@LeoGuoLabs"
+    - generic "undefined unread items"
+- main:
+  - generic "Home timeline":
+    - button "Back":
+    - heading "Post" [level=2]
+    - status:
+      - button:
+        - generic: See new posts
+    - region "Conversation":
+      - heading "Conversation" [level=1]
+      - 'generic "Timeline: Conversation"':
+        - article:
+          - link:
+            - /url: /LeoGuoLabs
+          - link "Leo Guo Verified account":
+            - /url: /LeoGuoLabs
+            - generic: Leo Guo
+            - img "Verified account"
+          - link "@LeoGuoLabs":
+            - /url: /LeoGuoLabs
+            - generic: "@LeoGuoLabs"
+          - button "Boost":
+            - generic: Boost
+          - button "Grok actions":
+          - button "More":
+          - generic: "Want to know how an app feature actually works? REA lets you ask a coding agent to investigate the code behind it. This MIT-licensed project gives Claude Code and Codex an MCP toolkit to inspect JavaScript/Electron apps, decompile Android APK methods, and trace functions, strings and assembly in native binaries. Its Notion case study follows a copy operation through Electron's preload and IPC into the system clipboard, then explains how copied blocks retain their structure. I like being able to start with one concrete behavior and follow the evidence. That could be useful when you're maintaining unfamiliar software or learning how another app solves a problem. Setup with a supported Node.js version and npm: npx rea-agents@latest setup Choose your agent, review the configuration changes, then restart it. Native analysis needs Ghidra, Hopper or IDA; Android analysis needs JADX and a JDK."
+          - 'generic "github.com GitHub - morluto/rea: Reverse engineer anything with agents, from app behavior down to native..."':
+            - 'generic "github.com GitHub - morluto/rea: Reverse engineer anything with agents, from app behavior down to native..."':
+              - 'link "github.com GitHub - morluto/rea: Reverse engineer anything with agents, from app behavior down to native..."':
+                - /url: https://t.co/kZ5Vk1ktTw
+                - generic: "GitHub - morluto/rea: Reverse engineer anything with agents, from app behavior down to native..."
+            - link "From github.com":
+              - /url: https://t.co/kZ5Vk1ktTw
+          - link "10:03 AM · Oct 9, 2026":
+            - /url: /LeoGuoLabs/status/2108377804090101857
+            - time: 10:03 AM · Oct 9, 2026
+          - generic: ·
+          - link "106 Views":
+            - /url: /LeoGuoLabs/status/2108377804090101857/analytics
+            - generic: "106"
+            - generic: Views
+          - group "1 reply, 106 views":
+            - button "1 Reply. Reply":
+              - generic: "1"
+            - button "0 reposts. Repost":
+            - button "0 Likes. Like":
+            - button "0 Bookmarks. Bookmark":
+            - button "Share post":
+        - button "Replying to @LeoGuoLabs":
+          - text: Replying to
+          - generic: "@LeoGuoLabs"
+        - link "Leo Guo":
+          - /url: /LeoGuoLabs
+          - generic "Leo Guo":
+            - img "Leo Guo"
+        - textbox "Post text" [active]:
+          - generic: "Quick update to my REA post: I'd be more cautious about my earlier suggestion to use spare Codex quota to explore apps."
+          - generic: A user reports being banned after trying REA with Codex. The screenshot shows an OpenAI workspace suspension for policy violations, but no specific request or confirmed trigger.
+          - generic: OpenAI prohibits malicious or abusive cyber activity and IP infringement. Its reverse-engineering clause concerns OpenAI's own services; I wouldn't read that as a blanket ban on analyzing every app.
+          - generic: Still, REA's MIT licence doesn't give you rights over the software you examine. The project itself says to use it only for lawful, authorized analysis and not to evade model providers' safeguards.
+          - generic: I still find the tooling interesting. But before giving an agent a target, check the target's licence, your permission to analyze it, and the provider's rules. Spare quota isn't a good reason to skip that.
+          - generic: https://openai.com/policies/usage-policies/
+          - generic: https://openai.com/policies/terms-of-use/
+        - generic: Only the first 280 characters will be visible on the timeline.
+        - button "Close":
+        - navigation:
+          - button "Previous" [disabled]:
+          - tablist:
+            - button "Choose File"
+            - button "Add photos or video":
+            - button "Add a GIF":
+            - button "Add emoji":
+            - button "Tag location" [disabled]:
+            - button "Content disclosure":
+          - button "Next" [disabled]:
+        - generic: 24,048 characters remaining
+        - progressbar:
+        - button "Reply":
+          - generic: Reply
+        - article "SimonLin Verified account @simonlin Oct 9 Being able to follow a function back to the app's behaviour gives the decompiled code some context. That seems like a useful place for a coding agent to help. 1 reply, 35 views":
+          - link:
+            - /url: /simonlin
+          - link "SimonLin Verified account":
+            - /url: /simonlin
+            - generic: SimonLin
+            - img "Verified account"
+          - link "@simonlin":
+            - /url: /simonlin
+            - generic: "@simonlin"
+          - generic: ·
+          - link "Oct 9":
+            - /url: /simonlin/status/2108478385559314643
+            - time: Oct 9
+          - button "Grok actions":
+          - button "More":
+          - generic: Being able to follow a function back to the app's behaviour gives the decompiled code some context. That seems like a useful place for a coding agent to help.
+          - group "1 reply, 35 views":
+            - button "1 Reply. Reply":
+              - generic: "1"
+            - button "0 reposts. Repost":
+            - button "0 Likes. Like":
+            - link "35 views. View post analytics":
+              - /url: /simonlin/status/2108478385559314643/analytics
+              - generic: "35"
+            - button "Bookmark":
+            - button "Share post":
+        - article "Leo Guo Verified account @LeoGuoLabs Oct 9 Yeah, it seems useful for learning how apps work. And if you have some usage left on your plan, it’s a fun way to put it to use. 1 reply, 20 views":
+          - link:
+            - /url: /LeoGuoLabs
+          - link "Leo Guo Verified account":
+            - /url: /LeoGuoLabs
+            - generic: Leo Guo
+            - img "Verified account"
+          - link "@LeoGuoLabs":
+            - /url: /LeoGuoLabs
+            - generic: "@LeoGuoLabs"
+          - generic: ·
+          - link "Oct 9":
+            - /url: /LeoGuoLabs/status/2108522695839371697
+            - time: Oct 9
+          - button "Grok actions":
+          - button "More":
+          - generic: Yeah, it seems useful for learning how apps work. And if you have some usage left on your plan, it’s a fun way to put it to use.
+          - group "1 reply, 20 views":
+            - button "1 Reply. Reply":
+              - generic: "1"
+            - button "0 reposts. Repost":
+            - button "0 Likes. Like":
+            - link "20 views. View post analytics":
+              - /url: /LeoGuoLabs/status/2108522695839371697/analytics
+              - generic: "20"
+            - button "Bookmark":
+            - button "Share post":
+        - button "Show replies":
+          - generic: Show replies
+  - generic "Trending":
+    - search "Search":
+      - combobox "Search query"
+    - complementary "Relevant people":
+      - heading "Relevant people" [level=2]:
+        - generic: Relevant people
+      - list:
+        - link:
+          - /url: /LeoGuoLabs
+        - link "Leo Guo Verified account":
+          - /url: /LeoGuoLabs
+          - generic: Leo Guo
+          - img "Verified account"
+        - link "@LeoGuoLabs":
+          - /url: /LeoGuoLabs
+          - generic: "@LeoGuoLabs"
+        - generic: Previously a senior C/C++ engineer in telecom. Now exploring AI and emerging tech, sharing useful tools and an engineering perspective.
+    - region "Trending now":
+      - heading "Trending now" [level=1]
+      - 'generic "Timeline: Trending now"':
+        - heading "What’s happening" [level=2]:
+          - generic: What’s happening
+        - link "Politics · Trending Rahul Gandhi More":
+          - generic: Politics · Trending
+          - generic: Rahul Gandhi
+          - button "More":
+        - link "Trending in Singapore YOUR THIRD SERIES FINAL EP More":
+          - generic: Trending in Singapore
+          - generic: YOUR THIRD SERIES FINAL EP
+          - button "More":
+        - link "Motorsport · Trending Leclerc More":
+          - generic: Motorsport · Trending
+          - generic: Leclerc
+          - button "More":
+        - 'link "Trending in Singapore #TeshowPromsakha More"':
+          - generic: Trending in Singapore
+          - generic: "#TeshowPromsakha"
+          - button "More":
+        - link "Show more":
+          - /url: /explore/tabs/for-you
+          - generic: Show more
+    - navigation "Footer":
+      - link "Terms":
+        - /url: https://x.com/tos
+      - generic: ·
+      - link "Privacy":
+        - /url: https://x.com/privacy
+      - generic: ·
+      - link "Cookies":
+        - /url: https://support.x.com/articles/20170514
+      - generic: ·
+      - link "Accessibility":
+        - /url: https://help.x.com/resources/accessibility
+      - generic: ·
+      - link "Ads Info":
+        - /url: https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo
+      - generic: ·
+      - button "More":
+        - text: More
+      - generic: © 2026 X Corp.

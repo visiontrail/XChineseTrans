@@ -1,0 +1,5 @@
+Qwen 4 is shaping up as a family: Max, Flash, Plus and 27B, previewed at Apsara.
+
+The 27B is the one I’m watching. If it ships with open weights and a meaningful capability jump, that could give builders a much stronger option for running AI locally.
+
+For now, this is a preview. Alibaba says Qwen 4 is in training; release timing, pricing and performance still need official details.

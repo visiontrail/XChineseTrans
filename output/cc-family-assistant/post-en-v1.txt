@@ -1,0 +1,11 @@
+Google’s CC is becoming a shared AI agent for household admin.
+
+Up to six people can work with one agent, which has its own verified Google account. Each person chooses which emails, files and calendars to share.
+
+The useful part is connecting information to action. In Google’s demos, CC turns a swimming lesson email into a calendar event with the location, equipment and waiver reminder. It also pre-fills a camp registration PDF, asks the family for a missing emergency contact, then returns the updated form for review before sending.
+
+That targets a familiar bottleneck: the repeated forwarding, follow-ups and confirmations needed to get a household task finished.
+
+The permission boundary matters. Google says CC will not act or share information outside the group without permission.
+
+Still an early Google Labs experiment: U.S., 18+, personal Google accounts, with a waitlist for new users.

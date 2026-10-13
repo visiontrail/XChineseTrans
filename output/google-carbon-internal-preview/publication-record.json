@@ -1,0 +1,54 @@
+{
+  "source": "https://x.com/dotey/status/2108712677971206387",
+  "original_reporting": "https://www.businessinsider.com/google-employees-test-new-gemini-4-model-argon-barium-carbon-2026-10",
+  "official_context": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+  "format": "standalone",
+  "account": "@LeoGuoLabs",
+  "text": "Google is testing a newer Gemini 4 build while most developers are still waiting for Argon.\n\nBusiness Insider reports that “Carbon” is running inside Jetski, Google’s internal coding tool. One employee said it “feels like Opus 5.5” for coding, but also said they needed to test it more.\n\nEncouraging, but still an early impression. It’s unclear whether Carbon will ship as an Argon update or a separate model.\n\nMore competition in coding agents is welcome. I care about the patch that passes the tests and needs less cleanup.\n\nhttps://www.businessinsider.com/google-employees-test-new-gemini-4-model-argon-barium-carbon-2026-10",
+  "media": [
+    {
+      "path": "business-insider-headline.jpg",
+      "type": "image",
+      "sha256": "5f8393096de95e4ec75489a7276f7f7acd6df023fbfb81bdeefa682185cb1381",
+      "alt": "Business Insider headline by Hugh Langley reporting that Google employees are testing a newer AI model they consider better than the model awaiting public rollout."
+    }
+  ],
+  "checks": {
+    "source_original_language_read": true,
+    "source_relevant_video": false,
+    "primary_reporting_read_in_authenticated_browser": true,
+    "official_argon_announcement_read": true,
+    "composer_complete_text_accepted": true,
+    "composer_image_uploaded": true,
+    "alt_saved": true
+  },
+  "notes": [
+    "Carbon is an internal codename; the public product name and release are uncertain.",
+    "Anonymous employee comparison is subjective and the employee said more testing was needed.",
+    "No benchmark figures retained. No claim that Carbon was pretrained after Barium-B; the reporting does not establish that.",
+    "Fresh source headline screenshot; full original retained."
+  ],
+  "status": "publicly_verified",
+  "authorization": "User confirmed publication if the image remains attached; verified the existing image, ALT and news link in the live composer.",
+  "prepared_at": "2026-10-10T00:34:59.196724+00:00",
+  "published_url": "https://x.com/LeoGuoLabs/status/2108719574883659948",
+  "required_links": [
+    "https://www.businessinsider.com/google-employees-test-new-gemini-4-model-argon-barium-carbon-2026-10"
+  ],
+  "revision_note": "User requested the news link corresponding to the attached Business Insider screenshot.",
+  "verification": {
+    "account": "@LeoGuoLabs",
+    "format": "standalone",
+    "complete_text": true,
+    "image_count": 1,
+    "image_opened_readable": true,
+    "alt_verified": true,
+    "news_link_present": true,
+    "news_link_destination": "https://www.businessinsider.com/google-employees-test-new-gemini-4-model-argon-barium-carbon-2026-10",
+    "evidence": [
+      "public-post.jpg",
+      "public-image-and-text.jpg"
+    ]
+  },
+  "verified_at": "2026-10-10T00:42:32.809Z"
+}

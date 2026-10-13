@@ -1,0 +1,225 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {
+    "title": "Recover the layer that contains the mistake",
+    "subtitle": "The desired remaining state determines the operation.",
+    "viewBox": [
+      1000,
+      765
+    ]
+  },
+  "components": [
+    {
+      "id": "a0",
+      "label": "Staged edit",
+      "sublabel": "Working file should survive",
+      "pos": [
+        50,
+        75
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "frontend"
+    },
+    {
+      "id": "b0",
+      "label": "git restore --staged",
+      "sublabel": "Reset selected index content",
+      "pos": [
+        375,
+        75
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "messagebus"
+    },
+    {
+      "id": "c0",
+      "label": "Edit remains in files",
+      "sublabel": "Removed from next commit",
+      "pos": [
+        700,
+        75
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "messagebus"
+    },
+    {
+      "id": "a1",
+      "label": "Unfinished local work",
+      "sublabel": "Pause, then resume",
+      "pos": [
+        50,
+        230
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "frontend"
+    },
+    {
+      "id": "b1",
+      "label": "git stash push -u / apply",
+      "sublabel": "Save, then restore changes",
+      "pos": [
+        375,
+        230
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "database"
+    },
+    {
+      "id": "c1",
+      "label": "Work restored locally",
+      "sublabel": "Apply keeps the saved entry",
+      "pos": [
+        700,
+        230
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "database"
+    },
+    {
+      "id": "a2",
+      "label": "A \u2192 B \u2192 C",
+      "sublabel": "History already shared",
+      "pos": [
+        50,
+        385
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "frontend"
+    },
+    {
+      "id": "b2",
+      "label": "git revert B",
+      "sublabel": "Apply the inverse as a commit",
+      "pos": [
+        375,
+        385
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "backend"
+    },
+    {
+      "id": "c2",
+      "label": "A \u2192 B \u2192 C \u2192 R",
+      "sublabel": "Earlier commits remain",
+      "pos": [
+        700,
+        385
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "backend"
+    },
+    {
+      "id": "a3",
+      "label": "Content to replace",
+      "sublabel": "Explicit target and scope",
+      "pos": [
+        50,
+        540
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "frontend"
+    },
+    {
+      "id": "b3",
+      "label": "restore / reset --hard",
+      "sublabel": "Can overwrite local content",
+      "pos": [
+        375,
+        540
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "security"
+    },
+    {
+      "id": "c3",
+      "label": "Selected state replaces it",
+      "sublabel": "Preserve needed work first",
+      "pos": [
+        700,
+        540
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "security"
+    }
+  ],
+  "connections": [
+    {
+      "from": "a0",
+      "to": "b0",
+      "variant": "emphasis"
+    },
+    {
+      "from": "b0",
+      "to": "c0",
+      "variant": "emphasis"
+    },
+    {
+      "from": "a1",
+      "to": "b1",
+      "variant": "emphasis"
+    },
+    {
+      "from": "b1",
+      "to": "c1",
+      "variant": "emphasis"
+    },
+    {
+      "from": "a2",
+      "to": "b2",
+      "variant": "emphasis"
+    },
+    {
+      "from": "b2",
+      "to": "c2",
+      "variant": "emphasis"
+    },
+    {
+      "from": "a3",
+      "to": "b3",
+      "variant": "emphasis"
+    },
+    {
+      "from": "b3",
+      "to": "c3",
+      "variant": "emphasis"
+    }
+  ],
+  "cards": []
+}

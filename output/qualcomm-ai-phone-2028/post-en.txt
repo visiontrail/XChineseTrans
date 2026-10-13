@@ -1,0 +1,5 @@
+AI companies want 100B-parameter models running on phones all day by 2028, according to Qualcomm CEO Cristiano Amon. That's a customer target, with no delivery commitment announced.
+
+The interesting part is what you could do with it: an assistant that understands your context, works across apps, and handles more tasks locally.
+
+I'd love to see my phone quietly take care of the boring admin. The hard part is making that reliable while keeping my data under my control—and leaving enough battery for the rest of the day.

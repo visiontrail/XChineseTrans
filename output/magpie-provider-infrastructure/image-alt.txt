@@ -1,0 +1,1 @@
+Magpie’s Add a Provider screen, with separate sections for subscription sign-ins, API vendors, relay services and local model servers such as Ollama and LM Studio.

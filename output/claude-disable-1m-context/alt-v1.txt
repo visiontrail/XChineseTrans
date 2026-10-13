@@ -1,0 +1,1 @@
+Claude Code tip: keep the context window available and compact earlier with /autocompact 400k. Keep auto-compaction enabled and remove the old 1M-disable flag to use more than 200K. Choose a threshold for your task; savings vary.

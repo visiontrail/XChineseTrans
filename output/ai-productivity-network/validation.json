@@ -1,0 +1,57 @@
+{
+  "article_words": 816,
+  "article_characters": 5097,
+  "images": [
+    {
+      "file": "images/01-cover.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "bytes": 2801905,
+      "sha256": "fecab334b3306e342c4b67c9389ee80d4e8d764ccb91cf512760fd1cc72f2466",
+      "embedded_matches": true,
+      "alt_matches": true
+    },
+    {
+      "file": "images/02-bottleneck.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "bytes": 2633667,
+      "sha256": "8e2ffab8de40827737f687544e8b126c55cf90b26f1e0200091ca3eede49afce",
+      "embedded_matches": true,
+      "alt_matches": true
+    },
+    {
+      "file": "images/03-connections.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "bytes": 3229295,
+      "sha256": "5ccd8cc5168a756a119ee15960aadce839ea94fff116ac40d6dfd21c29428f18",
+      "embedded_matches": true,
+      "alt_matches": true
+    },
+    {
+      "file": "images/04-ai-coordination.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "bytes": 2807707,
+      "sha256": "aa66259067c77c810807307ba9df80f8a315ba81504c7fc49b65fc74b1a1fb4e",
+      "embedded_matches": true,
+      "alt_matches": true
+    }
+  ],
+  "links": [
+    "https://ethereum.org/developers/docs/oracles/"
+  ],
+  "static_checks": "passed",
+  "image_visual_review": "All four generation outputs inspected; main titles, stage labels and concepts match article.",
+  "desktop_mobile_browser_review": "Blocked: Ego Lite native window timed out twice; browser discovery returned a request-header-policy error. Responsive CSS present but not visually verified.",
+  "publication": "not submitted; composer acceptance not tested"
+}

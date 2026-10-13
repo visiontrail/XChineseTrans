@@ -1,0 +1,29 @@
+{
+  "photos": [
+    {
+      "images": [
+        {
+          "alt": "Benchmark scores (%) in the order Gemini 4 Argon / GPT-6 Astra / Claude Opus 5.5. DeepSWE v1.1: 77.9/74.1/74.2. FrontierSWE v2: 55.0/65.5/62.3. Terminal-Bench 4.0: 57.4/58.2/66.4†. PostTrainBench v1.1: 45.3/44.3/49.3. Vals Index: 68.9/63.1/67.0. Vals Finance Agent v2: 65.4/53.5/58.6. Harvey's Legal Agent Benchmark: 19.6/5.4/3.8. AutomationBench 1.0.6: 51.3/41.4/42.5†. Terminal-Bench-Science 0.1: 57.6/68.1/63.3. CWE-bench v1: 68.0/68.0/67.0. GraphWalks, 256k-1M tokens, BFS F1: 84.2/71.8/66.8. LVBench: 91.7/87.5/83.7. Google-published configurations; effort and agent harnesses vary. † Fallback enabled: some tasks may be handled by other Claude models. Unmarked scores do not confirm fallback is off. Argon Science uses 6x verifier timeout. LVBench sampling: Argon 1 fps, Astra 800 frames, Opus 600 frames.",
+          "complete": true,
+          "height": 1200,
+          "src": "https://pbs.twimg.com/media/HTnBZXjbQAA1p-C?format=jpg&name=medium",
+          "width": 800
+        }
+      ],
+      "url": "https://x.com/LeoGuoLabs/status/2105928046918476177/photo/1"
+    }
+  ],
+  "rect": {
+    "height": 1915.75,
+    "width": 598,
+    "x": 276,
+    "y": 53
+  },
+  "text": "Gemini 4 Argon gives Google a stronger position in frontier AI, especially in professional workflows and long-context understanding.\n\nIn Google's published comparison, Argon leads GPT-6 Astra and Claude Opus 5.5 on financial research, legal research and drafting, business automation, and long-video understanding.\n\nA few useful reference points, in the order Argon / Astra / Opus 5.5:\n• DeepSWE v1.1: 77.9% / 74.1% / 74.2%\n• AutomationBench: 51.3% / 41.4% / 42.5%†\n• GraphWalks, 256k–1M tokens: 84.2% / 71.8% / 66.8%\n\nThe coding picture is mixed. Astra leads on FrontierSWE v2 and Terminal-Bench-Science; Opus 5.5 leads on Terminal-Bench 4.0 and PostTrainBench. On vulnerability patching in CWE-bench v1, Argon and Astra both score 68%, versus 67% for Opus.\n\nThe engineering examples are also interesting. Google reports that deployed Argon-driven optimizations freed over 300 TiB of data-center memory. In libgav1, agents replaced 32,000 lines of SIMD code in an existing Rust port with safe Rust that the compiler could vectorize, achieving 2.7× that port's speed with identical video output. Larger C/C++-to-Rust migrations are still undergoing automated and manual review before deployment.\n\nArgon supports reasoning trajectories of up to 1M output tokens. Artificial Analysis tested this with Long Decode Continuation, which pauses and resumes long responses across follow-up API calls.\n\nAnnounced API pricing is $2 input / $10 output per million tokens during the introductory period, then $4 / $20. That is 20% of Astra's token pricing at launch and 40% afterward, matching Opus 5.5's standard rates. Cached input is discounted 95%.\n\nToken price alone does not determine task cost. Artificial Analysis measured Argon at $1.99 per Intelligence Index task during the promotion versus Astra's $3.26; Argon used substantially more output tokens.\n\nAccess is still limited to trusted cyber defenders through Fairwind. Paid API customers and Google AI Ultra subscribers are planned next, with no broad-release date announced.\n\nThese are published configurations with different effort settings and agent harnesses. Argon's Science result uses a longer verifier timeout, and LVBench uses different video sampling across models. Match the benchmark to your workload, then measure completed work and total cost.\n\n† Fallback enabled: some tasks may be handled by other Claude models.",
+  "times": [
+    {
+      "datetime": "2026-10-02T07:49:07.000Z",
+      "text": "3:49 PM · Oct 2, 2026"
+    }
+  ]
+}

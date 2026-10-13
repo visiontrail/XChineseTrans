@@ -1,0 +1,11 @@
+Leo Guo
+@LeoGuoLabs
+·
+27s
+Getting useful work out of Codex starts with a clear brief: the outcome, context, boundaries, and proof of success.
+
+I put together a practical guide to the first task, project instructions, tools, and verification.
+ Article
+Codex: A Practical Guide to Getting Real Work Done
+A useful Codex task ends with something you can inspect: a working page, a fixed bug, a clean dataset, or a document that answers the brief.
+My starting point is simple: define the result, give the...

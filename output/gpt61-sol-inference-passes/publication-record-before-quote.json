@@ -1,0 +1,49 @@
+{
+  "account": "@LeoGuoLabs",
+  "format": "standalone",
+  "state": "pending_review",
+  "source": "https://x.com/leo114119/status/2107346111362949329",
+  "original_evidence_post": "https://x.com/Algorithon/status/2107287650881208694",
+  "followup": "https://x.com/Algorithon/status/2107318545529065613",
+  "official_page": "https://ai.azure.com/catalog/models/gpt-6.1-sol",
+  "draft": "draft-v1.txt",
+  "media": [
+    {
+      "path": "source-screenshot.png",
+      "role": "third-party screenshot from the linked source chain, not independently captured historical Azure page",
+      "url": "https://pbs.twimg.com/media/HT6WgFLWoAAelfQ?format=png&name=medium",
+      "retrieved_at_utc": "2026-10-06T06:59:47.631996+00:00",
+      "bytes": 15887,
+      "sha256": "e18712e14a59d3d0cb200119f79b21416ff1228cfbfd13f2e66b676aee6c9251",
+      "alt": "Circulating screenshot headed “Model architecture,” claiming GPT-6.1 Sol shares base model weights with GPT-6 Sol and uses two inference passes rather than three. This wording is absent from the current Azure model card."
+    }
+  ],
+  "video": "No relevant video in source or quoted post. Unrelated recommended videos excluded.",
+  "authorization": "Final content review required; no direct-publish waiver",
+  "public_url": null,
+  "checks": {
+    "source_read_in_original_chinese": true,
+    "logged_in_account_verified": true,
+    "current_azure_model_card_read": true,
+    "current_azure_two_three_pass_wording_found": false,
+    "historical_azure_wording_independently_verified": false,
+    "architecture_claim": "Unconfirmed; screenshot alone cannot establish looped transformers across GPT-6 family",
+    "latency_comparison": "No controlled Sol versus Astra measurement performed",
+    "composer_full_text_accepted": true,
+    "media_count": 1,
+    "media_ready": true,
+    "alt_entered": true,
+    "post_button_enabled": true
+  },
+  "supporting_sources": [
+    "https://developers.openai.com/api/docs/models/gpt-6.1-sol",
+    "https://developers.openai.com/api/docs/guides/fast-mode",
+    "https://developers.openai.com/api/docs/guides/latency-optimization"
+  ],
+  "updated_at_utc": "2026-10-06T07:02:58.512Z",
+  "review_screenshot": "composer-review.jpg",
+  "review_screenshots": [
+    "composer-review.jpg",
+    "composer-media-review.jpg"
+  ]
+}

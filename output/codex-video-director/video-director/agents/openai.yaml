@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Director"
+  short_description: "Turn a brief into an editable, verified video"
+  default_prompt: "Use $video-director to turn my topic into a finished video with a director brief, shot plan, shared timeline, synchronized motion and sound, and verified delivery."

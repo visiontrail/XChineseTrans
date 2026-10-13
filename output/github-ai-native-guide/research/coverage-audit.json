@@ -1,0 +1,96 @@
+{
+  "original_sections_to_new_prompts": {
+    "Know where your work lives": [
+      "01",
+      "02"
+    ],
+    "Set up identity and access once": [
+      "03"
+    ],
+    "Read a repository before installing it": [
+      "04",
+      "25",
+      "26"
+    ],
+    "Search for a question, not just a keyword": [
+      "05"
+    ],
+    "Follow one behavior through the code": [
+      "06",
+      "08",
+      "27"
+    ],
+    "Make your first change in a small project": [
+      "07",
+      "09",
+      "10",
+      "11",
+      "12",
+      "28"
+    ],
+    "Push to GitHub and open a reviewable PR": [
+      "13",
+      "14",
+      "17"
+    ],
+    "Learn to read a diff and resolve a disagreement": [
+      "15",
+      "16",
+      "19"
+    ],
+    "Automate a check you already understand": [
+      "18"
+    ],
+    "Put a static site online with Pages": [
+      "20"
+    ],
+    "Use the free tier with the right expectations": [
+      "27"
+    ],
+    "Recover from mistakes by identifying what changed": [
+      "21",
+      "22",
+      "23"
+    ],
+    "Keep collaboration simple enough to follow": [
+      "24"
+    ],
+    "Give AI a clear task and a clear stopping point": [
+      "01",
+      "28"
+    ],
+    "Keep a small command card beside the project": [
+      "02",
+      "06",
+      "10",
+      "16",
+      "21"
+    ]
+  },
+  "original_git_command_families": [
+    "add",
+    "blame",
+    "clone",
+    "commit",
+    "config",
+    "diff",
+    "fetch",
+    "init",
+    "log",
+    "merge",
+    "push",
+    "remote",
+    "reset",
+    "restore",
+    "rev-parse",
+    "revert",
+    "show",
+    "stash",
+    "status",
+    "switch"
+  ],
+  "unmapped_command_families": [],
+  "new_worktree_and_rebase_diagrams": true,
+  "article_shell_recipe_blocks": 0,
+  "companion_readme_prompt_driven": true
+}

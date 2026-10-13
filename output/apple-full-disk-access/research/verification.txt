@@ -1,0 +1,10 @@
+Apple primary statement: https://developer.apple.com/news/?id=p6zjojqw
+Title: Updates to Full Disk Access in macOS
+Statement date: October 2, 2026
+Verified live in Apple Developer page and web retrieval on October 5, 2026, Asia/Singapore.
+User-supplied post: https://x.com/xiaohu/status/2106560753402802333
+The supplied post was retrieved through a public mirror, then verified in X's signed-in browser page. Its reply links to the same Apple statement. The attached image is a screenshot of the Apple statement.
+Editorial boundaries: planned controls, not shipped; no rollout date, OS release or implementation specified. Apple does not identify a particular app. The closing paragraph is an editorial takeaway, not an Apple implementation requirement.
+Publication format: new standalone English post by @LeoGuoLabs, with direct Apple link; no intermediary attribution, no Repost or Quote Post, no uploaded media.
+Authorization: user explicitly requested direct publication without confirmation in the current message, overriding the project default review gate.
+X limit checked at https://help.x.com/en/using-x/types-of-posts: Premium longer posts allow up to 25,000 characters. Live composer acceptance must also be verified.

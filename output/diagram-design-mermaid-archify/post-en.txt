@@ -1,0 +1,8 @@
+The diagrams from diagram-design are gorgeous. This open-source agent skill produces self-contained HTML + SVG—a strong choice for the final visuals in a report, deck, or article.
+
+I’m still keeping Mermaid, though. Its syntax is intuitive, edits are quick, and it’s easy to maintain as the design changes. I’d work out the structure in Mermaid, then use something like diagram-design when it’s time to polish the deliverable.
+
+Another one I’d recommend is Archify: interactive HTML diagrams you can also export as images or SVG.
+
+diagram-design: https://github.com/cathrynlavery/diagram-design
+Archify: https://archify.si/

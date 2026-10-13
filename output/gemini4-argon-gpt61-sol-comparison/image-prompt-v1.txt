@@ -1,0 +1,48 @@
+LeoGuoLabs Light v1: warm ivory #FDFBF7 background with delicate low-contrast natural paper fiber, forest green #1A4A3A text, muted green #426454 descriptions, sparse dark gold #80601B section numbers. Simple modern Geist/Inter-like sans-serif throughout, regular body, medium labels, semibold headings. 85-90% light. No leaves, icons, cards, gradients, shadows, frames, stamps or ornaments.
+
+Edit the attached existing Gemini 4 Argon comparison infographic into a NEW version that compares GPT-6.1 Sol instead of GPT-6 Astra. Image 1 is the edit target and layout reference. Image 2 is only the reference for subtle paper feel and sans-serif typography. Preserve the clean 12-row, four-group structure, open layout, generous margins, exact Argon and Opus numbers. Update the OpenAI model NAME AND VALUES exactly as specified below. Do not copy any old Astra values. Make the headline slightly more compact to give footnotes ample room. Produce a high-resolution portrait 2:3 infographic, ideally 1536 x 2304 or larger, sharp enough for mobile zoom.
+
+Exact headline, in two lines:
+"Gemini 4 Argon"
+"vs GPT-6.1 Sol & Claude Opus 5.5"
+Subtitle: "12 selected benchmarks · Published configurations"
+Date: "Checked 02 Oct 2026"
+
+Table headers: "Benchmark" | "Gemini 4 Argon" | "GPT-6.1 Sol" | "Claude Opus 5.5"
+Allow headers to wrap onto two lines. Three numerical columns evenly aligned, enough room for the longer Sol header. All score text in forest green, not bright gold.
+
+Four section headers and all rows, exact values:
+"01 / Code & software engineering"
+"DeepSWE v1.1" / "Long-horizon software engineering" | 77.9% | 75.2% | 74.2%
+"FrontierSWE v2" / "Complex software engineering" | 55.0% | — | 62.3%
+"Terminal-Bench 4.0" / "Terminal tasks" | 57.4% | 55.1% | 66.4%†
+"PostTrainBench v1.1" / "ML engineering" | 45.3% | — | 49.3%
+
+"02 / Knowledge work & business workflows"
+"Vals Index" / "GDP-weighted professional tasks" | 68.9% | 61.2% | 67.0%
+"Vals Finance Agent v2" / "Financial research" | 65.4% | 52.0% | 58.6%
+"Harvey’s Legal Agent Benchmark" / "Legal research & drafting" | 19.6% | 5.4% | 3.8%
+"AutomationBench 1.0.6" / "Strict workflow completion" | 51.3% | 36.1% | 42.5%†
+
+"03 / Science & cybersecurity"
+"Terminal-Bench Science 0.1" / "Scientific workflows" | 57.6%¹ | 57.0% | 63.3%
+"CWE-bench v1" / "Security vulnerability patching" | 68.0% | — | 67.0%
+
+"04 / Long context & video"
+"GraphWalks" / "256k–1M tokens · BFS F1" | 84.2% | — | 66.8%
+"LVBench²" / "Long-video understanding" | 91.7% | — | 83.7%
+
+Use em dashes alone for the FIVE missing Sol values, never zero or percentages. Exactly 31 numeric scores and five missing-value dashes. Exactly TWO score daggers, only for Opus Terminal and Opus Automation. Superscript 1 on Argon Science and superscript 2 on LVBench name.
+
+Footnotes, small but comfortably readable, exact sentences, may wrap without clipping. Give the bottom area enough space:
+"Published configurations; sources, effort settings and agent harnesses vary."
+"Argon/Opus: Google comparison. Sol: OpenAI and Vals AI."
+"Sol: high effort on DeepSWE; max on other filled rows."
+"Terminal: Sol uses mini-swe-agent; Opus uses Claude Code."
+"— No verified Sol result found in reviewed sources; not zero."
+"† Fallback enabled: some tasks may be handled by other Claude models."
+"Unmarked Claude scores do not confirm fallback was disabled."
+"¹ Argon Science: verifier timeout increased 6×."
+"² LVBench: Argon 1 fps; Opus 600 frames."
+
+Small plain-text signature "LeoGuoLabs" at bottom right, separate from footnote lines. No production disclaimers, extra claims, price panel, winner highlights, medals, or added scores. Check exact spelling GPT-6.1 Sol in both title and column, keep every row and footnote fully inside the margins.

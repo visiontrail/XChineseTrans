@@ -1,0 +1,12 @@
+{
+  "window_start_seconds": 6210,
+  "clip_start_offset_seconds": 20.908,
+  "official_start_seconds": 6230.908,
+  "duration_seconds": 154.645,
+  "full_audio_correlation": 0.849291845398098,
+  "head_match": 20.908,
+  "head_score": 0.8517106117660314,
+  "tail_match": 155.553,
+  "tail_score": 0.8695880192297322,
+  "end_to_end_alignment_error_seconds": -2.842170943040401e-14
+}

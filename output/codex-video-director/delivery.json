@@ -1,0 +1,24 @@
+{
+  "artifact": "video-director",
+  "version": "1.0",
+  "files": [
+    "video-director/SKILL.md",
+    "video-director/agents/openai.yaml",
+    "video-director/references/timeline.md",
+    "video-director/scripts/check_delivery.py"
+  ],
+  "zip_bytes": 9147,
+  "zip_sha256": "958dcb1cb780fc771c466288df3700ad2c17b289aa2f9e8e08f032dca289b535",
+  "installed_path": "/Users/leoguo/.codex/skills/video-director",
+  "external_publication": false,
+  "validation": {
+    "skill_format": "passed",
+    "satellite_2160_frame_check": "passed",
+    "silent_file_check": "passed",
+    "invalid_timeline": "rejected as expected",
+    "mismatched_timeline": "rejected as expected",
+    "variable_timestamps": "rejected as expected",
+    "independent_domain_check": "preproduction only; 12-second silent portrait coffee film; no second full render",
+    "html_visual_review": "not completed: Ego CLI SDK unavailable and native connection timed out"
+  }
+}

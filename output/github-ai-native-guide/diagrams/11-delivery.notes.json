@@ -1,0 +1,7 @@
+{
+  "notes": [
+    "Only the first stage here is git push. PRs, hosting settings, and browser checks use other tools.",
+    "Pages serves static files. A project subpath can change how internal URLs resolve."
+  ],
+  "headings": []
+}

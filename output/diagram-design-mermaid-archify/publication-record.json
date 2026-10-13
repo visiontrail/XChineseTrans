@@ -1,0 +1,38 @@
+{
+  "prepared_at_utc": "2026-10-12T07:54:09.801969+00:00",
+  "review_timezone": "Asia/Singapore",
+  "source_post": "https://x.com/Zacharyzcom/status/2109537873083134335",
+  "original_project": "https://github.com/cathrynlavery/diagram-design",
+  "additional_recommendation": "https://archify.si/",
+  "format": "standalone",
+  "account": "@LeoGuoLabs",
+  "state": "pending_approval",
+  "final_text_path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/diagram-design-mermaid-archify/post-en.txt",
+  "final_text": "The diagrams from diagram-design are gorgeous. This open-source agent skill produces self-contained HTML + SVG—a strong choice for the final visuals in a report, deck, or article.\n\nI’m still keeping Mermaid, though. Its syntax is intuitive, edits are quick, and it’s easy to maintain as the design changes. I’d work out the structure in Mermaid, then use something like diagram-design when it’s time to polish the deliverable.\n\nAnother one I’d recommend is Archify: interactive HTML diagrams you can also export as images or SVG.\n\ndiagram-design: https://github.com/cathrynlavery/diagram-design\nArchify: https://archify.si/",
+  "media_paths": [],
+  "native_link_card": {
+    "url": "https://archify.si/",
+    "title": "Archify — Interactive Maps from Plain Words",
+    "verified_in_composer": true
+  },
+  "checks": {
+    "source_live_read": true,
+    "primary_sources_checked": true,
+    "existing_output_checked": true,
+    "relevant_source_video_present": false,
+    "source_image_attachment_present": false,
+    "live_account_profile_link": "https://x.com/LeoGuoLabs",
+    "empty_composer_before_fill": true,
+    "complete_text_accepted": true,
+    "post_button_enabled": true,
+    "remaining_characters": 24397,
+    "personal_test_claims": false
+  },
+  "evidence_path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/diagram-design-mermaid-archify/composer-preview.png",
+  "authorization": {
+    "preparation": "User requested an English tweet based on their stated opinion",
+    "publication": null
+  },
+  "submitted": false,
+  "published_url": null
+}

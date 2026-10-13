@@ -1,0 +1,7 @@
+{
+  "notes": [
+    "python check_site.py checks local content. An HTTP preview serves files to this computer.",
+    "Neither operation creates a commit, opens a PR, or proves a public deployment."
+  ],
+  "headings": []
+}

@@ -1,0 +1,9 @@
+Codex on your laptop, hands on your iPhone.
+
+iPhone Use is an open-source plugin that connects Codex to a real iPhone over USB. Ask it to open an app, read a screen, tap, scroll, enter text, or collect a list. You can watch the phone in a live sidebar preview.
+
+The practical detail I like: it uses UI elements when available, then falls back to a screenshot so the model can inspect the screen and choose coordinates. WebDriverAgent handles the phone side; a local MCP server exposes 17 tools to the model.
+
+You could ask it to draft a note or gather search results from an app. The README includes an installation prompt for Codex to help with setup, but the first run still needs a Mac, full Xcode, and your own Apple account to sign and launch WDA Runner. No jailbreak required. Passwords, verification codes, and Face ID stay with you.
+
+MIT-licensed: https://github.com/zhongerxin/iPhone-use

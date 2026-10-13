@@ -1,0 +1,17 @@
+{
+  "url": "https://x.com/LeoGuoLabs/status/2104408801688629693",
+  "reading_url": "https://x.com/LeoGuoLabs/article/2104408801688629693",
+  "verified_at": "2026-09-28T04:04:07.827Z",
+  "titleMatches": true,
+  "removedTextAbsent": true,
+  "onlyRequestedParagraphRemoved": true,
+  "textAndOrderMatch": true,
+  "paragraphs": 160,
+  "headings": 16,
+  "prompts": 28,
+  "images": 12,
+  "allImagesLoaded": true,
+  "allInlineAltTextsMatch": true,
+  "primaryLinks": 25,
+  "linksMatch": true
+}

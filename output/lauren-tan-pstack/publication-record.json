@@ -1,0 +1,82 @@
+{
+  "source": "https://x.com/huxlab/status/2107333902654460173",
+  "video_repost": "https://x.com/0xCodez/status/2107155830093078557",
+  "session_date": "2026-08-12",
+  "official_plugin": "https://github.com/cursor/plugins/tree/main/pstack",
+  "format": "standalone",
+  "account": "@LeoGuoLabs",
+  "copy_file": "post-en-final.txt",
+  "state": "publicly_verified",
+  "review_required": true,
+  "published_url": "https://x.com/LeoGuoLabs/status/2107364417243611494",
+  "verified_facts": [
+    "Official Maven session identifies Lauren Tan and Colin Matthews; topics cover verification, feature maps, evals, cloud agents and CI constraints.",
+    "Official cursor/plugins pstack README confirms Lauren as author, verification-first parallelism, setup-pstack and poteto-mode commands.",
+    "Authenticated X source and @LeoGuoLabs identity read live.",
+    "X video author reply by @poteto confirms changed office backdrop; uploader acknowledges redesign."
+  ],
+  "excluded_claims": [
+    "250 job applications and a $700,000 offer: no primary evidence found.",
+    "30+ agents and 1000 PR claims omitted to focus on verifiable workflow.",
+    "/pstack omitted: official entry point is /poteto-mode."
+  ],
+  "media_caveat": "Current X version has modified background, 65m00.627s. Original Maven recording is behind email sign-up / login. No account was created. User asked to choose official original after login or altered reupload with explicit disclosure.",
+  "updated_at": "2026-10-06T06:42:16.474495+00:00",
+  "prepared_video": "media/lauren-tan-session-65m-720p.mp4",
+  "media_approved": true,
+  "publication_approved": true,
+  "verification": {
+    "bytes": 331202087,
+    "sha256": "d4f8a63b67a4f933779c13b33b590d5e38a88d2b72b20b5159e95aee34388216",
+    "duration_seconds": 3900.627302,
+    "resolution": "1280x720",
+    "video_codec": "H.264",
+    "audio_codec": "AAC stereo 44100 Hz",
+    "all_ranges_validated": 316,
+    "full_decode_exit": 0,
+    "decode_error_bytes": 0,
+    "frames_reviewed_seconds": [
+      5,
+      30,
+      600,
+      1950,
+      3300,
+      3895
+    ],
+    "browser_playback_observed_seconds": [
+      0.001054,
+      64.40619
+    ],
+    "browser_video_error": null,
+    "composer_text_accepted": true,
+    "video_uploaded": true,
+    "publicly_published": true,
+    "public_copy_matches": true,
+    "public_video_count": 1,
+    "public_video_duration_seconds": 3900.633,
+    "public_playback_progress_seconds": [
+      19.312694,
+      58.32799
+    ],
+    "public_video_error": null,
+    "public_evidence": [
+      "verification/public-post.jpg",
+      "verification/public-verification.json",
+      "verification/public-post-snapshot.txt"
+    ]
+  },
+  "supporting_primary_session": "https://maven.com/p/e23d9c/how-cursor-turned-ai-agents-into-better-engineers",
+  "footage_provenance": "X video is an edited repost, acknowledged by Lauren in a reply. Related Maven primary talk found, but recording is gated and exact footage identity was not established.",
+  "review_url": "http://172.16.10.59:58587/",
+  "authorization": {
+    "user_message": "确认",
+    "scope": "Publication of reviewed standalone English post with the disclosed modified-background X video",
+    "disclosure": "Video: reposted edit with an altered background.",
+    "at": "2026-10-06T06:45:36.401035+00:00"
+  },
+  "upload_started_at": "2026-10-06T06:46:35.971202+00:00",
+  "upload_completed_at": "2026-10-06T06:55:13.829274+00:00",
+  "submit_clicked_at": "2026-10-06T06:56:58.237249+00:00",
+  "published_at_observed": "2026-10-06T06:57:24.852514+00:00",
+  "verified_at": "2026-10-06T06:59:21.982862+00:00"
+}

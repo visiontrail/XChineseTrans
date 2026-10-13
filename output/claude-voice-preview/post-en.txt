@@ -1,0 +1,5 @@
+Claude may be getting a new voice experience. A hidden “Voice” tab marked “Preview” has surfaced in its web interface.
+
+Claude already supports two-way voice conversations. What this new interface adds, when it ships, and whether Anthropic is building its own speech models are still unconfirmed.
+
+What I’d like: talk through an idea, change direction mid-sentence, and keep a coding session moving without reaching for the keyboard. Voice could make that feel much more natural.

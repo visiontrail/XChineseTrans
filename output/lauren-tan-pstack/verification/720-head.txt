@@ -1,0 +1,23 @@
+HTTP/2 206 
+perf: 7402827104
+content-type: video/mp4
+cache-control: max-age=604800, must-revalidate
+last-modified: Mon, 05 Oct 2026 16:57:56 GMT
+x-transaction-id: d9c5909cd12a58ea
+timing-allow-origin: https://twitter.com, https://mobile.twitter.com
+x-content-type-options: nosniff
+access-control-allow-origin: *
+access-control-expose-headers: Content-Length
+cross-origin-resource-policy: cross-origin
+origin-cf-ray: a45e227b4ffc29a2-MEL
+strict-transport-security: max-age=631138519; includeSubdomains
+accept-ranges: bytes
+content-range: bytes 0-1048575/331202087
+date: Tue, 06 Oct 2026 06:26:35 GMT
+x-served-by: t4_p, cache-nrt-rjaa8190069-NRT
+x-cache: HIT
+vary: origin
+x-tw-cdn: FT
+server-timing: x-cache;desc=HIT, x-tw-cdn;desc=FT
+content-length: 1048576
+

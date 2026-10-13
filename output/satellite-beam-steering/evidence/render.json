@@ -1,0 +1,23 @@
+{
+  "composition": {
+    "id": "SteeringWithoutTurning",
+    "width": 1920,
+    "height": 1080,
+    "fps": 60,
+    "durationInFrames": 2160,
+    "props": {},
+    "defaultProps": {},
+    "defaultCodec": null,
+    "defaultOutName": null,
+    "defaultVideoImageFormat": null,
+    "defaultPixelFormat": null,
+    "defaultProResProfile": null,
+    "defaultSampleRate": null
+  },
+  "seconds": 63.948,
+  "finishedAt": "2026-09-30T16:25:10.137Z",
+  "codec": "h264",
+  "crf": 17,
+  "concurrency": 3,
+  "renderer": "Three.js WebGL / ANGLE"
+}

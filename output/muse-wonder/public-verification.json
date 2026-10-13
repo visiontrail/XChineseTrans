@@ -1,0 +1,30 @@
+{
+  "url": "https://x.com/LeoGuoLabs/status/2109833032836456449",
+  "account": "@LeoGuoLabs",
+  "text_exact_match": true,
+  "format": "standalone",
+  "quote": null,
+  "media_count": 1,
+  "video_duration_seconds": 152.533,
+  "available_video_resolution": [
+    1920,
+    1080
+  ],
+  "required_link": "https://dev.meta.ai/models/muse-wonder",
+  "public_page_observed": true,
+  "public_page_browser": "Ego Lite native UI",
+  "public_playback": {
+    "play_control_clicked": true,
+    "audio_playing_indicator_observed": true,
+    "changed_video_frame_observed": true,
+    "observed_frame": "Researcher wearing glasses, matching a later frame in the complete original video",
+    "visible_error_during_observed_playback": false
+  },
+  "limitations": {
+    "native_numeric_current_time_not_read": true,
+    "later_reload": "New browser windows subsequently encountered X loading errors; no repost attempted."
+  },
+  "verified_at": "2026-10-13T02:46:34.648115+00:00",
+  "publication_summary_screenshot": "output/muse-wonder/publication-summary.jpg",
+  "publication_summary_screenshot_type": "Local publication record, not an X interface screenshot"
+}

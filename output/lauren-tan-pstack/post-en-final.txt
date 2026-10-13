@@ -1,0 +1,9 @@
+More agents won’t fix a verification bottleneck.
+
+Lauren Tan’s pstack workflow starts with agents that can run the product, reproduce bugs and verify their own changes. Recurring failures become skills. Those skills get evals. Critical rules get enforced in CI.
+
+That’s the part worth copying: build a process you can trust, then scale it. Otherwise, parallel coding just creates a longer queue for one human reviewer.
+
+Video: reposted edit with an altered background.
+
+https://github.com/cursor/plugins/tree/main/pstack

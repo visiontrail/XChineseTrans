@@ -1,0 +1,7 @@
+An AI answer gets more useful when you can see how the pieces fit together.
+
+Answer me with HTML turns an agent's Markdown draft into a self-contained page with diagrams, tables and code. Ask it to explain a protocol, map a repo, or compare two tools, and you get something easier to inspect and share.
+
+I like the division of labor: the model writes the content; the bundled CLI handles layout, CSS and SVG. In the author's nine-example corpus, drafts averaged 612 tokens versus 4,893 for generated HTML—roughly one-eighth. That measures the generated content, not the total bill.
+
+https://github.com/QingYunA/answer-me-with-html

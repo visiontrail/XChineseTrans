@@ -1,0 +1,330 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/huxlab/status/2108901437145293090",
+    "id": "2108901437145293090",
+    "text": "Cleo Abram 问 Alexandr Wang：AI 安全这场混战，你站哪头？\n\n他没站队，而是直接撕开了行业最尴尬的一层窗户纸：\n\n做 AI 的这帮人绝顶聪明，但真正离谱的是：现在是私人恩怨在替技术做决定。\n\n大家都知道这玩意儿太强，必须慎重； \n\n但现实是：谁也不服谁，谁也不信谁。 \n\n嘴上呼吁放慢节奏，私下却疯狂堆算力。\n\n他戳破了4层核心真相：\n\n1. 路线之争是假，清算旧账是真：私人恩怨正在决定架构演进。\n\n2. 每家都在拼命狂奔，谁也不敢先减速。\n\n3. 先老老实实承认大家就是互不信任，坐下来谈点实际的“行业外交”。\n\n4. 内部风控、独立审计、能复查的流程。先把这些脏活累活确定好，再聊加不加速。\n\n“把恩怨放下，把历史放下，一起把事情解决掉。”\n\n超级智能会不会对齐，还是个未解之谜； \n\n但眼下更致命的现实是：模型还没失控，造模型的人已经先反目成仇了。\n\n https://x.com/cleoabram/status/2107989027223736462/video/1",
+    "raw_text": {
+      "text": "Cleo Abram 问 Alexandr Wang：AI 安全这场混战，你站哪头？\n\n他没站队，而是直接撕开了行业最尴尬的一层窗户纸：\n\n做 AI 的这帮人绝顶聪明，但真正离谱的是：现在是私人恩怨在替技术做决定。\n\n大家都知道这玩意儿太强，必须慎重； \n\n但现实是：谁也不服谁，谁也不信谁。 \n\n嘴上呼吁放慢节奏，私下却疯狂堆算力。\n\n他戳破了4层核心真相：\n\n1. 路线之争是假，清算旧账是真：私人恩怨正在决定架构演进。\n\n2. 每家都在拼命狂奔，谁也不敢先减速。\n\n3. 先老老实实承认大家就是互不信任，坐下来谈点实际的“行业外交”。\n\n4. 内部风控、独立审计、能复查的流程。先把这些脏活累活确定好，再聊加不加速。\n\n“把恩怨放下，把历史放下，一起把事情解决掉。”\n\n超级智能会不会对齐，还是个未解之谜； \n\n但眼下更致命的现实是：模型还没失控，造模型的人已经先反目成仇了。\n\n https://t.co/abmUftTWb2",
+      "display_text_range": [
+        0,
+        417
+      ],
+      "facets": [
+        {
+          "type": "url",
+          "indices": [
+            394,
+            417
+          ],
+          "original": "https://t.co/abmUftTWb2",
+          "replacement": "https://x.com/cleoabram/status/2107989027223736462/video/1",
+          "display": "x.com/cleoabram/stat…"
+        },
+        {
+          "type": "media",
+          "indices": [
+            394,
+            417
+          ],
+          "id": "2107987571229802496",
+          "display": "pic.x.com/abmUftTWb2",
+          "original": "https://t.co/abmUftTWb2",
+          "replacement": "https://x.com/cleoabram/status/2107989027223736462/video/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "huxlab",
+      "url": "https://x.com/huxlab",
+      "id": "426796674",
+      "followers": 10742,
+      "following": 500,
+      "likes": 2938,
+      "media_count": 170,
+      "name": "Hux",
+      "description": "👨‍💻 前阿里技术专家 x 8年大厂技术管理 | AI Builder \n🎯 注重Taste，分享AI高质量实践和深度认知",
+      "raw_description": {
+        "text": "👨‍💻 前阿里技术专家 x 8年大厂技术管理 | AI Builder \n🎯 注重Taste，分享AI高质量实践和深度认知",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/426796674/1624804435",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2073032972291469312/RNTIcS9R_200x200.jpg",
+      "joined": "Fri Dec 02 18:15:59 +0000 2011",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 0,
+    "retweets": 0,
+    "likes": 0,
+    "bookmarks": 1,
+    "quotes": 0,
+    "created_at": "Sat Oct 10 12:44:18 +0000 2026",
+    "created_timestamp": 1791636258,
+    "possibly_sensitive": false,
+    "views": 190,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "id": "2107987571229802496",
+          "url": "https://video.twimg.com/amplify_video/2107987571229802496/vid/avc1/3840x2160/vbC5pdt4bajLYhxK.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2107987571229802496/img/Ns6mbji-VQueluPD.jpg",
+          "duration": 282.865,
+          "width": 3840,
+          "height": 2160,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2107987571229802496/pl/jbb8Kq3Uh8ya5l3Y.m3u8?tag=29",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2107987571229802496/vid/avc1/480x270/5c9BZ64B0eYdKlgN.mp4?tag=29",
+              "bitrate": 256000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2107987571229802496/vid/avc1/640x360/KyFK2mBY_JcII2gs.mp4?tag=29",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2107987571229802496/vid/avc1/1280x720/Rz9BKCtxhP4XwCJA.mp4?tag=29",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2107987571229802496/vid/avc1/1920x1080/DVVpeyb6GC-xMwHW.mp4?tag=29",
+              "bitrate": 10368000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2107987571229802496/vid/avc1/3840x2160/vbC5pdt4bajLYhxK.mp4?tag=29",
+              "bitrate": 25128000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": {
+            "screen_name": "cleoabram",
+            "url": "https://x.com/cleoabram",
+            "id": "423576379",
+            "followers": 86746,
+            "following": 986,
+            "likes": 11676,
+            "media_count": 959,
+            "statuses": 2696,
+            "name": "Cleo Abram",
+            "description": "Video journalist making optimistic science and tech explainers. HUGE* If True. Watch: http://youtube.com/c/cleoabram",
+            "raw_description": {
+              "text": "Video journalist making optimistic science and tech explainers. HUGE* If True. Watch: https://t.co/EI32Qgtigc",
+              "facets": [
+                {
+                  "type": "url",
+                  "indices": [
+                    86,
+                    109
+                  ],
+                  "original": "https://t.co/EI32Qgtigc",
+                  "replacement": "http://youtube.com/c/cleoabram",
+                  "display": "youtube.com/c/cleoabram"
+                }
+              ]
+            },
+            "location": "New York, NY",
+            "banner_url": "https://pbs.twimg.com/profile_banners/423576379/1656625782",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1478893133714833409/AqK_kkIx_normal.jpg",
+            "joined": "Mon Nov 28 17:41:59 +0000 2011",
+            "protected": false,
+            "website": {
+              "url": "https://youtube.com/c/CleoAbram?sub_confirmation=1",
+              "display_url": "youtube.com/c/CleoAbram?su…"
+            },
+            "verification": {
+              "verified": true,
+              "verified_at": null,
+              "type": "individual"
+            },
+            "type": "profile"
+          },
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2107987571229802496/pl/jbb8Kq3Uh8ya5l3Y.m3u8?tag=29",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2107987571229802496/vid/avc1/480x270/5c9BZ64B0eYdKlgN.mp4?tag=29",
+              "bitrate": 256000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2107987571229802496/vid/avc1/640x360/KyFK2mBY_JcII2gs.mp4?tag=29",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2107987571229802496/vid/avc1/1280x720/Rz9BKCtxhP4XwCJA.mp4?tag=29",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2107987571229802496/vid/avc1/1920x1080/DVVpeyb6GC-xMwHW.mp4?tag=29",
+              "bitrate": 10368000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2107987571229802496/vid/avc1/3840x2160/vbC5pdt4bajLYhxK.mp4?tag=29",
+              "bitrate": 25128000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "id": "2107987571229802496",
+          "url": "https://video.twimg.com/amplify_video/2107987571229802496/vid/avc1/3840x2160/vbC5pdt4bajLYhxK.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2107987571229802496/img/Ns6mbji-VQueluPD.jpg",
+          "duration": 282.865,
+          "width": 3840,
+          "height": 2160,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2107987571229802496/pl/jbb8Kq3Uh8ya5l3Y.m3u8?tag=29",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2107987571229802496/vid/avc1/480x270/5c9BZ64B0eYdKlgN.mp4?tag=29",
+              "bitrate": 256000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2107987571229802496/vid/avc1/640x360/KyFK2mBY_JcII2gs.mp4?tag=29",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2107987571229802496/vid/avc1/1280x720/Rz9BKCtxhP4XwCJA.mp4?tag=29",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2107987571229802496/vid/avc1/1920x1080/DVVpeyb6GC-xMwHW.mp4?tag=29",
+              "bitrate": 10368000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2107987571229802496/vid/avc1/3840x2160/vbC5pdt4bajLYhxK.mp4?tag=29",
+              "bitrate": 25128000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": {
+            "screen_name": "cleoabram",
+            "url": "https://x.com/cleoabram",
+            "id": "423576379",
+            "followers": 86746,
+            "following": 986,
+            "likes": 11676,
+            "media_count": 959,
+            "statuses": 2696,
+            "name": "Cleo Abram",
+            "description": "Video journalist making optimistic science and tech explainers. HUGE* If True. Watch: http://youtube.com/c/cleoabram",
+            "raw_description": {
+              "text": "Video journalist making optimistic science and tech explainers. HUGE* If True. Watch: https://t.co/EI32Qgtigc",
+              "facets": [
+                {
+                  "type": "url",
+                  "indices": [
+                    86,
+                    109
+                  ],
+                  "original": "https://t.co/EI32Qgtigc",
+                  "replacement": "http://youtube.com/c/cleoabram",
+                  "display": "youtube.com/c/cleoabram"
+                }
+              ]
+            },
+            "location": "New York, NY",
+            "banner_url": "https://pbs.twimg.com/profile_banners/423576379/1656625782",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1478893133714833409/AqK_kkIx_normal.jpg",
+            "joined": "Mon Nov 28 17:41:59 +0000 2011",
+            "protected": false,
+            "website": {
+              "url": "https://youtube.com/c/CleoAbram?sub_confirmation=1",
+              "display_url": "youtube.com/c/CleoAbram?su…"
+            },
+            "verification": {
+              "verified": true,
+              "verified_at": null,
+              "type": "individual"
+            },
+            "type": "profile"
+          },
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2107987571229802496/pl/jbb8Kq3Uh8ya5l3Y.m3u8?tag=29",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2107987571229802496/vid/avc1/480x270/5c9BZ64B0eYdKlgN.mp4?tag=29",
+              "bitrate": 256000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2107987571229802496/vid/avc1/640x360/KyFK2mBY_JcII2gs.mp4?tag=29",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2107987571229802496/vid/avc1/1280x720/Rz9BKCtxhP4XwCJA.mp4?tag=29",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2107987571229802496/vid/avc1/1920x1080/DVVpeyb6GC-xMwHW.mp4?tag=29",
+              "bitrate": 10368000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2107987571229802496/vid/avc1/3840x2160/vbC5pdt4bajLYhxK.mp4?tag=29",
+              "bitrate": 25128000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ]
+    },
+    "twitter_card": "player",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

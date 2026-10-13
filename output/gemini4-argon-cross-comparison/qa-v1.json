@@ -1,0 +1,53 @@
+{
+  "checked": "2026-10-01",
+  "image": "gemini4-argon-vs-astra-opus55-v1.png",
+  "generation": "built-in image_gen; image-prompt-v1.txt; three inspected reference images",
+  "visualInspection": {
+    "rows": 12,
+    "numericCells": 36,
+    "allValuesMatchVerifiedDataset": true,
+    "confirmedFallbackDaggerCells": [
+      "Opus 5.5 / Terminal-Bench 4.0",
+      "Opus 5.5 / AutomationBench 1.0.6"
+    ],
+    "numberedFootnotes": [
+      "Argon Science verifier timeout6x",
+      "LVBench unequal video sampling"
+    ],
+    "spelling": true,
+    "noClipping": true,
+    "readingOrder": true,
+    "bodyContrast": true,
+    "brandStyle": "LeoGuoLabs Light v1",
+    "size": [
+      1024,
+      1536
+    ],
+    "previousFilesPreserved": true
+  },
+  "composer": {
+    "account": "LeoGuoLabs",
+    "format": "standalone",
+    "textAccepted": true,
+    "remainingCharacters": 22616,
+    "imageAttached": true,
+    "altPending": false,
+    "postEnabled": true,
+    "altSaved": true,
+    "altCharacters": 811,
+    "normalizedTextMatchesDraft": true,
+    "reviewScreenshot": "composer-ready-crop-v1.png",
+    "originalScreenshot": "composer-ready-full-v1.png",
+    "tabId": "1",
+    "browser": "Codex in-app browser"
+  },
+  "publicationSubmitted": true,
+  "status": "published_public_page_verified",
+  "imageSha256": "e200c7c17a0933b1fd70178701dc76ce469afbf03d6a59a8980eb370029f076a",
+  "textSha256": "565e4d12d57d7186b5c9904e85a5d74bcd5254c8d414f1db072f3a51b5f12d65",
+  "pre_publication_status": "awaiting_final_user_approval",
+  "pre_publication_submitted": false,
+  "publicationUrl": "https://x.com/LeoGuoLabs/status/2105928046918476177",
+  "publishedAt": "2026-10-02T07:49:07.000Z",
+  "publicationRecord": "publication-state.json"
+}

@@ -1,0 +1,3 @@
+Prompt Motion is a handy reference library for motion graphics with Claude: animations, the prompts or skills behind them, and links to the original creators.
+
+Find a style you like, study how it was prompted, then adapt the pacing, typography and transitions to your own brief.

@@ -1,0 +1,63 @@
+{
+  "source": "https://x.com/leo114119/status/2109117294924493065",
+  "destination": "@LeoGuoLabs",
+  "format": "standalone",
+  "status": "publicly_verified",
+  "text": "OpenAI’s Decisions API looks like a useful building block for agents.\n\nIt uses gpt-6-luna to turn text and images into a probability, a choice from your options, or a score against a rubric. It’s in public beta.\n\nYou could use it to triage support requests or choose which specialist handles a task. I like this division of labor: a fast decision step picks the path, then the larger model does the work.\n\nVercel lists it as openai/gpt-6-luna-decisions. Built-in Codex routing would be an interesting next step, but that remains speculation.\n\nhttps://developers.openai.com/api/docs/guides/decisions",
+  "media": [
+    "official-docs-en.jpg"
+  ],
+  "alt": [
+    "OpenAI’s official Decisions API documentation describes typed answers from text and images, and states that the API is in public beta using gpt-6-luna."
+  ],
+  "video": null,
+  "prepared_at": "2026-10-11T03:22:37.032363+00:00",
+  "sources": [
+    {
+      "url": "https://ai-gateway.vercel.sh/v1/models/openai/gpt-6-luna-decisions",
+      "evidence": "vercel-model.json"
+    },
+    {
+      "url": "https://developers.openai.com/api/docs/guides/decisions",
+      "evidence": "official-docs-original.jpg"
+    }
+  ],
+  "checks": {
+    "source_original_language_read": true,
+    "source_photo_inspected": true,
+    "relevant_video_present": false,
+    "model_name_distinction": "Gateway id openai/gpt-6-luna-decisions; official API model gpt-6-luna",
+    "codex_router": "No official confirmation found; speculation preserved",
+    "composer_checked": true,
+    "complete_text_accepted": true,
+    "media_ready": true,
+    "alt_saved": true,
+    "post_button_enabled": true
+  },
+  "authorization": {
+    "publication": {
+      "user_message": "确认发布",
+      "approved_at": "2026-10-11T03:40:52.258Z",
+      "copy_and_media": "reviewed version"
+    }
+  },
+  "composer_evidence": "composer-ready.jpg",
+  "actual_url": "https://x.com/LeoGuoLabs/status/2109127082177446280",
+  "submitted_at": "2026-10-11T03:41:03.619Z",
+  "public_verified_at": "2026-10-11T03:41:19.601Z",
+  "public_checks": {
+    "account": "@LeoGuoLabs",
+    "complete_copy": true,
+    "standalone": true,
+    "image_count": 1,
+    "image_visible_and_readable": true,
+    "alt_matches": true,
+    "official_docs_link_present": true,
+    "video": "not applicable"
+  },
+  "public_evidence": [
+    "public-page.jpg",
+    "public-post.jpg",
+    "public-page-ax.txt"
+  ]
+}

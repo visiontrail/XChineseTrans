@@ -1,0 +1,17 @@
+[
+  {
+    "file": "charts-v3/01-configurations-v1.png",
+    "alt": "A Qwen3.6-27B setup guide. Unsloth GGUF file sizes are 16.8 GB for Q4_K_M, 19.5 GB for Q5_K_M, and 28.6 GB for Q8_0. A table gives planning targets for 16, 24 and 32 GB GPUs, dual 24 GB GPUs, and a 64 GB Apple silicon Mac. Runtime memory and context require extra headroom.",
+    "sha256": "aaa49d2ed72792d388779650cb78e8d272d1c70e4dcc47fbfe0dd2abd044af1c"
+  },
+  {
+    "file": "charts-v3/02-concurrency-v1.png",
+    "alt": "A community Qwen3.6-27B AWQ INT4 test on two RTX 3090 GPUs, Ryzen 7 9800X3D and 64 GB RAM. With 1, 2 and 4 requests, aggregate throughput is 97.3, 163.6 and 255.9 tokens per second; per-stream averages are 97.3, 82.4 and 65.6. vLLM 0.21.0 with MTP-2; short JSON prompts, thinking off.",
+    "sha256": "82623f98772ba60c1bfe51c18517aae41da3c20e665b9c2d5882fdce9e75a42c"
+  },
+  {
+    "file": "charts-v3/03-context-speed-v1.png",
+    "alt": "A community Qwen3.6-27B Q8_0 test on an Apple M5 Max with 128 GB unified memory and llama.cpp Metal. Generation speed at populated context depths of 0, 32K, 64K, 128K and 256K is 17.46, 9.51, 8.24, 6.12 and 4.27 tokens per second. Prompt processing falls from 799.12 to 26.99. Separate scales, three repetitions; this is not directly comparable to the dual-GPU test.",
+    "sha256": "653000d49e98c87d06072ef65619d6bf35ec983ed1925bb5ffcee9e12fb00981"
+  }
+]

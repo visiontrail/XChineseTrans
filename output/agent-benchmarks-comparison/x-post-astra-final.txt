@@ -1,0 +1,14 @@
+GPT-6 Astra vs Claude Opus 5.5 across 8 agent benchmarks.
+
+Three kinds of work:
+• Code & software engineering
+• Computer use & business workflows
+• Knowledge work & science
+
+At max effort, Opus 5.5 scores higher on GDPval-AA: 1846 vs 1542 Elo. Astra scores higher on Terminal-Bench-Science: 63.3% vs 59.0%.
+
+The setup matters. Max effort does not mean equal compute. FrontierCode and DeepSWE use Codex vs Claude Code. OSWorld comes from separate vendor reports with unmatched setups. No public Astra CursorBench score was found in the checked sources.
+
+In the chart, † marks configurations with fallback enabled: some tasks may be handled by other Claude models. It does not tell us how often fallback occurred.
+
+Match the benchmark to your workflow, then test on your own tasks.

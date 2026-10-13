@@ -1,0 +1,45 @@
+{
+  "format": "standalone",
+  "account": "LeoGuoLabs",
+  "text": "Give your Claude Code instructions a checkup.\n\n/checkup prompt-audit\n\nIt audits CLAUDE.md, skills, agents and custom commands for instructions written for older models. It also checks for stale paths, outdated commands and conflicting rules.\n\nThe demo shows it removing redundant instructions, rewriting all-caps rules in plain language, and leaving a skill unchanged where no cleanup is needed.\n\nIt can edit the files, so review the diff and keep the project constraints that still matter.\n\n/doctor prompt-audit works too.",
+  "text_characters": 523,
+  "text_sha256": "f649adb95dadd475d9429579d5c43b0b3f8cfa8e17539668227c948d15412890",
+  "media": [
+    {
+      "file": "original-video.mp4",
+      "sha256": "8976a5459dbc651574e68aaa9f3f4791239cde7b297f260059713ceb2b472af7",
+      "size": 772278,
+      "duration_seconds": 9.233333,
+      "width": 1920,
+      "height": 1080,
+      "audio": false
+    }
+  ],
+  "approval": "approved",
+  "published": true,
+  "draft": {
+    "browser": "Codex In-app Browser",
+    "tab_id": "1",
+    "url": "https://x.com/compose/post",
+    "video_status": "Ready",
+    "characters_remaining": 24477,
+    "post_button_enabled": true
+  },
+  "approval_message": "好的确认发布请你帮忙发布吧。",
+  "publication_state": "published_verified",
+  "submitted_at_utc": "2026-09-27T10:47:04.003627+00:00",
+  "public_url": "https://x.com/LeoGuoLabs/status/2104160858721124769",
+  "verified_at_utc": "2026-09-27T10:48:23.205277+00:00",
+  "verification": {
+    "approved_text_present": true,
+    "native_video_count": 1,
+    "video_duration_seconds": 9.233333,
+    "paused": false,
+    "ready_state": 4,
+    "playback_error": null,
+    "observed_playback_seconds": [
+      8.387807,
+      6.204956
+    ]
+  }
+}

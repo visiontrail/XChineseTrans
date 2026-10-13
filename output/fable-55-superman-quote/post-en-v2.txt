@@ -1,0 +1,5 @@
+A web animation reportedly built with Fable 5.5: Superman flies across a gallery of art styles, changing appearance to match each artwork he passes.
+
+The detail that stands out is how the motion stays continuous through each style transition. The model attribution remains unverified.
+
+Live demo: https://claude.ai/artifact/7F2XhpmgiuyxHKgQ9Vgr9Q

@@ -1,0 +1,16 @@
+{
+  "account": "@LeoGuoLabs",
+  "format": "standalone",
+  "body_file": "post.txt",
+  "image_file": "personal-agents-grok-bot-en-v1.png",
+  "alt_file": "alt-text.txt",
+  "approval_status": "approved",
+  "publication_submitted": true,
+  "public_page_verified": true,
+  "approval_text": "确认发布",
+  "submission_attempted": true,
+  "published_url": "https://x.com/LeoGuoLabs/status/2105176071771718049",
+  "verified_at": "2026-09-30T06:03:26.654143+00:00",
+  "proof_screenshot": "published-post.png",
+  "evidence_note": "Screenshot combines two cropped native viewport captures; complete originals retained."
+}

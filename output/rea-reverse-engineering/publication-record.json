@@ -1,0 +1,30 @@
+{
+  "source_url": "https://x.com/lxfater/status/2108186507450229033",
+  "primary_url": "https://github.com/morluto/rea",
+  "account": "LeoGuoLabs",
+  "format": "standalone",
+  "text_path": "post-en.txt",
+  "media": [],
+  "source_has_video": false,
+  "state": "publicly_verified",
+  "authorization": "User replied 发布 after complete final text and composer preview on 2026-10-09",
+  "prepared_at": "2026-10-09",
+  "checks": {
+    "original_language_read": true,
+    "primary_claims_checked": true,
+    "live_account_confirmed": true,
+    "composer_accepts_complete_text": true,
+    "post_button_enabled": true,
+    "native_link_card": "Rendered on public status page for github.com/morluto/rea",
+    "action_boundary_account_confirmed": true,
+    "public_account_verified": true,
+    "public_complete_copy_verified": true,
+    "public_standalone_format_verified": true,
+    "public_github_card_verified": true
+  },
+  "composer_screenshot": "composer-review.jpg",
+  "published_url": "https://x.com/LeoGuoLabs/status/2108377804090101857",
+  "verified_at": "2026-10-09T02:04:36.093025+00:00",
+  "public_screenshot": "published-review.jpg",
+  "public_page_evidence": "published-page.txt"
+}

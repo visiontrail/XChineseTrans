@@ -1,0 +1,32 @@
+{
+  "source": "https://x.com/leo114119/status/2108356010574508271",
+  "original": "https://x.com/thsottiaux/status/2108349826727588000",
+  "account": "@LeoGuoLabs",
+  "format": "quote",
+  "state": "publicly_verified",
+  "text_file": "post-en.txt",
+  "media": [],
+  "checks": {
+    "live_source_and_original_read": true,
+    "source_video_or_images": false,
+    "account_verified": true,
+    "composer_complete_text_accepted": true,
+    "posted": true,
+    "public_account_verified": true,
+    "public_complete_text_verified": true,
+    "public_native_tibo_quote_verified": true
+  },
+  "editorial_notes": "User requested sarcasm. Satire targets the wording of Tibo's announcement. Day 4 and claims of no actual product updates omitted as unverified. Primary original has text and chatgpt.com link only. Tomorrow's Send button reveal is satire, not a reported plan.",
+  "research": [
+    "Authenticated X source and original",
+    "FxTwitter source metadata",
+    "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
+  ],
+  "revision": "User requested only the last sentence; composer checked with exact revised text.",
+  "review_screenshot": "quote-composer.png",
+  "quote_target": "https://x.com/thsottiaux/status/2108349826727588000",
+  "authorization": "After reviewing the exact one-sentence text, user instructed: 用quote转发tibo的推. Publish that sentence as a native Quote of the exact original Tibo post.",
+  "published_url": "https://x.com/LeoGuoLabs/status/2108370637085704584",
+  "public_screenshot": "public-quote.png",
+  "saved_previous_standalone_draft": "Preserved in X drafts; not submitted."
+}

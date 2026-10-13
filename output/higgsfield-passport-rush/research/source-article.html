@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<script>(function(){try{var p=location.pathname;if(p!=='/'&&p!=='/index.html')return;if(localStorage.getItem('xh-lang-choice'))return;if(sessionStorage.getItem('xh-lang-auto'))return;var l=(navigator.language||'').toLowerCase(),t=null;if(l.indexOf('zh')===0)t=null;else if(l.indexOf('ja')===0)t='/ja/';else t='/en/';if(t){sessionStorage.setItem('xh-lang-auto','1');location.replace(t);}}catch(_){}})();</script>
+<title>3 天做完 18 个镜头：Higgsfield 动画团队怎样把 AI 放进传统动画流程 · 小互 · AI 解读站</title>
+<meta name="description" content="一支传统动画出身的团队，用 Blender 预演、Claude 写提示词、AI 生成视频，做出一段汽车追逐戏。他们把分镜分路、资产优先、五段式视频提示词和三次翻车都摊开讲了。">
+<meta property="og:title" content="3 天做完 18 个镜头：Higgsfield 动画团队怎样把 AI 放进传统动画流程 · 小互 · AI 解读站">
+<meta property="og:description" content="一支传统动画出身的团队，用 Blender 预演、Claude 写提示词、AI 生成视频，做出一段汽车追逐戏。他们把分镜分路、资产优先、五段式视频提示词和三次翻车都摊开讲了。">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:site_name" content="小互 · AI 解读站">
+<meta property="og:image" content="https://best.xiaohu.ai/media/higgsfield-passport-rush-animation/cover.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="3 天做完 18 个镜头：Higgsfield 动画团队怎样把 AI 放进传统动画流程 · 小互 · AI 解读站">
+<meta name="twitter:description" content="一支传统动画出身的团队，用 Blender 预演、Claude 写提示词、AI 生成视频，做出一段汽车追逐戏。他们把分镜分路、资产优先、五段式视频提示词和三次翻车都摊开讲了。">
+<meta name="twitter:image" content="https://best.xiaohu.ai/media/higgsfield-passport-rush-animation/cover.webp">
+<link rel="alternate" type="application/rss+xml" title="小互 · AI 解读站" href="/rss.xml">
+<link rel="alternate" type="application/rss+xml" title="小互 · Best Blog 播客" href="/podcast.xml">
+<link rel="canonical" href="https://best.xiaohu.ai/article/higgsfield-passport-rush-animation/">
+<link rel="alternate" hreflang="zh-CN" href="https://best.xiaohu.ai/article/higgsfield-passport-rush-animation/">
+<link rel="alternate" hreflang="en" href="https://best.xiaohu.ai/en/article/higgsfield-passport-rush-animation/">
+<link rel="alternate" hreflang="ja" href="https://best.xiaohu.ai/ja/article/higgsfield-passport-rush-animation/">
+<link rel="alternate" hreflang="x-default" href="https://best.xiaohu.ai/article/higgsfield-passport-rush-animation/">
+<script>(function(){try{var t=localStorage.getItem('xh-theme');if(!t)t=matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='dark')document.documentElement.classList.add('dark');}catch(_){}})();</script>
+<style>@media (prefers-reduced-motion:no-preference){main{animation:xh-pg .18s ease-out both}@keyframes xh-pg{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:none}}}</style>
+<script>addEventListener('DOMContentLoaded',function(){var seen={};document.addEventListener('pointerover',function(ev){var a=ev.target.closest&&ev.target.closest('a[href]');if(!a)return;var h=a.getAttribute('href')||'';if(!h||h[0]==='#'||seen[h])return;if(a.origin&&a.origin!==location.origin)return;if(h.indexOf('/m/')===0||h.indexOf('/track/')===0)return;seen[h]=1;var l=document.createElement('link');l.rel='prefetch';l.href=a.href;document.head.appendChild(l);},{passive:true});});</script>
+
+<link rel="stylesheet" href="/assets/shell.css?v=e447c621">
+<link rel="icon" href="/favicon.ico" sizes="48x48">
+<link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
+<link rel="icon" type="image/png" sizes="192x192" href="/assets/favicon-192.png">
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="#f4f1ea" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#131211" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="小互解读">
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "1de31084e5ea4155899de571408646ac"}'></script><!-- End Cloudflare Web Analytics -->
+<!-- analytics --><script defer src="/track/script.js"></script>
+</head>
+<body><div class="jx-progress" aria-hidden="true"></div><div class="frame"><header class="site-header"><div class="frame"><div class="nav-inner">
+  <a class="brand" href="/index.html">
+    <span class="brand-mark">小互</span><span class="brand-dot"></span>
+    <span class="brand-sub mono"><span class="l1">Best Blog</span><span class="l2">AI 解读站</span></span>
+  </a>
+  <nav class="nav-links">
+    <a class="nav-link" href="/index.html">首页</a><a class="nav-link active" href="/jiedu/">解读</a><a class="nav-link" href="/podcast/">播客</a><a class="nav-link" href="/weekly/">周报</a><a class="nav-link" href="/about/">关于</a><a class="nav-link" href="/membership/">会员</a><a class="nav-link" href="/subscribe/">社群</a><a class="nav-link" href="/submit/">投稿</a>
+  </nav>
+  <span class="nav-spacer"></span>
+  <span class="lang-switch" title="Language"><a class="ls on" href="/" hreflang="zh-CN">中</a><a class="ls" href="/en/" hreflang="en">EN</a><a class="ls" href="/ja/" hreflang="ja">日</a></span>
+  <a class="btn-search" href="/search/" title="搜索"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg><span>搜索解读…</span></a>
+  <a class="icon-link" href="/subscribe/" title="社群"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M4 11a9 9 0 0 1 9 9"/><path d="M4 4a16 16 0 0 1 16 16"/><circle cx="5" cy="19" r="1.6" fill="currentColor" stroke="none"/></svg></a>
+  <a class="btn-admin" href="/_admin/" style="display:none;align-items:center;gap:4px;font-size:13px;font-weight:600;color:#df5130;border:1px solid #df5130;border-radius:999px;padding:5px 12px;text-decoration:none;white-space:nowrap">⚙ 后台</a>
+  <button class="btn-acct" id="btn-acct" type="button">登录</button>
+  <button class="btn-theme" data-theme-toggle title="切换主题"><span class="ico">☀️</span></button>
+  <button class="btn-menu" id="btn-menu" type="button" aria-expanded="false" aria-controls="mobile-menu" title="菜单">
+    <span class="ico-menu"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg></span><span class="ico-close"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg></span>
+  </button>
+</div></div>
+<div class="mobile-menu" id="mobile-menu">
+  <nav class="nav-links"><a class="nav-link" href="/index.html">首页</a><a class="nav-link active" href="/jiedu/">解读</a><a class="nav-link" href="/podcast/">播客</a><a class="nav-link" href="/weekly/">周报</a><a class="nav-link" href="/about/">关于</a><a class="nav-link" href="/membership/">会员</a><a class="nav-link" href="/subscribe/">社群</a><a class="nav-link" href="/submit/">投稿</a></nav>
+  <div class="mm-row"><span class="lang-switch" title="Language"><a class="ls on" href="/" hreflang="zh-CN">中</a><a class="ls" href="/en/" hreflang="en">EN</a><a class="ls" href="/ja/" hreflang="ja">日</a></span><a class="btn-search" href="/search/" title="搜索"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg><span>搜索解读…</span></a><a class="icon-link" href="/subscribe/" title="社群"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M4 11a9 9 0 0 1 9 9"/><path d="M4 4a16 16 0 0 1 16 16"/><circle cx="5" cy="19" r="1.6" fill="currentColor" stroke="none"/></svg></a></div>
+  <a class="btn-admin" href="/_admin/" style="display:none;align-items:center;justify-content:center;gap:4px;font-size:14px;font-weight:600;color:#df5130;border:1px solid #df5130;border-radius:999px;padding:9px 14px;text-decoration:none;margin-top:8px">⚙ 后台管理</a>
+  <button class="btn-acct mm-acct" type="button">登录</button>
+</div>
+<div class="cat-strip"><div class="frame"><div class="cat-tabs flat"><a class="cat-tab on" style="background:var(--ember);color:#fff;border-color:var(--ember)" href="/jiedu/">全部</a><a class="cat-tab"  href="/jiedu/launch/">产品发布</a><a class="cat-tab"  href="/jiedu/research/">研究解读</a><a class="cat-tab"  href="/jiedu/deep/">深度</a><a class="cat-tab"  href="/jiedu/business/">商业动态</a><a class="cat-tab"  href="/jiedu/tools/">AI 实操</a><a class="cat-tab"  href="/jiedu/visual/">商业视觉实战</a></div></div></div>
+</header>
+<div class="lg-modal" id="lg-modal" hidden>
+  <div class="lgm-mask" id="lgm-mask"></div>
+  <div class="lgm-card">
+    <button class="lgm-x" id="lgm-x" type="button">✕</button>
+    <div class="lgm-kick">ACCOUNT</div>
+    <h2 id="lgm-h2">登录</h2>
+    <div class="lgm-tabs">
+      <button type="button" data-t="login" class="on">登录</button>
+      <button type="button" data-t="reg">注册（免费）</button>
+    </div>
+    <div class="lgm-perk" id="lgm-perk" style="display:none">✓ 免费账号就能用：收藏文章 · 阅读进度跨设备同步<br>✓ 以后购买会员，权益自动挂到这个账号上</div>
+    <div id="lgm-google" style="display:none">
+      <a class="wall-btn primary" id="lgm-gbtn" href="#" style="display:block;text-align:center">用 Google 账号登录</a>
+      <div class="lgm-or"><span>或用邮箱</span></div>
+    </div>
+    <form class="lgm-form" id="lgm-form">
+      <input type="email" id="lgm-email" placeholder="你的邮箱" required autocomplete="email">
+      <input type="password" id="lgm-pass" placeholder="密码" required autocomplete="current-password" minlength="8">
+      <button type="submit" class="wall-btn ghost" id="lgm-btn" style="width:100%">登录</button>
+    </form>
+    <div id="lgm-magic-wrap" style="margin-top:10px">
+      <button type="button" class="wall-btn ghost" id="lgm-magic" style="width:100%">邮箱收登录链接</button>
+      <div style="text-align:center;margin-top:8px;font-size:12px"><a href="#" id="lgm-forgot" style="color:var(--muted);font-weight:600">忘记密码？</a></div>
+    </div>
+    <div class="lgm-msg" id="lgm-msg"></div>
+    <div class="lgm-foot">
+      <a href="#" id="lgm-sw" data-to="reg">没有账号？免费注册 →</a><br>
+      <a href="/redeem/">有激活码？直接兑换登录 →</a>
+    </div>
+  </div>
+</div><script>(function(){var TXT={"ing": "登录中…", "reg_ing": "创建中…", "ok": "✓ 成功，正在跳转…", "login_btn": "登录", "reg_btn": "创建免费账号", "pw": "密码", "reg_pw": "设置密码（至少 8 位）", "h1_login": "登录", "h1_reg": "注册免费账号", "foot_reg": "没有账号？免费注册 →", "foot_login": "已有账号？直接登录 →", "net": "✗ 网络错误，稍后再试", "fail": "发送失败，稍后再试", "acct": "我的", "wv": "微信内打开无法用 Google 登录，请点右上角「•••」选「在浏览器打开」，或复制链接到 Safari / Chrome 登录", "magic_btn": "邮箱收登录链接", "magic_ing": "发送中…", "magic_ok": "✓ 链接已发到邮箱（15 分钟内有效），点信里的按钮登录", "magic_dev": "开发模式链接："};var ERR={"bad_login": "邮箱或密码不对", "no_pass": "这个邮箱还没设密码——用下方「邮箱收登录链接」", "exists": "这个邮箱已注册过，直接登录即可", "bad_pass": "密码至少 8 位", "bad_email": "邮箱格式不对", "rate": "试得太频繁，一分钟后再来", "mail_unconfigured": "发信通道还没配好"};var BASE='/';var logged=false;var mode='login';var btns=document.querySelectorAll('.btn-acct'),modal=document.getElementById('lg-modal');if(!btns.length||!modal)return;fetch('/m/api/me',{credentials:'same-origin'}).then(function(r){if(!r.ok)return;logged=true;btns.forEach(function(b){b.textContent=TXT.acct;});return r.json().then(function(d){if(d&&d.email&&String(d.email).toLowerCase()==='alibuybuy@gmail.com'){document.querySelectorAll('.btn-admin').forEach(function(a){a.style.display='inline-flex';});}});}).catch(function(){});function open_(){modal.hidden=false;}function close_(){modal.hidden=true;}btns.forEach(function(btn){btn.addEventListener('click',function(){if(logged){location.href=BASE+'account/';}else{open_();}});});document.getElementById('lgm-x').addEventListener('click',close_);document.getElementById('lgm-mask').addEventListener('click',close_);var passEl=document.getElementById('lgm-pass'),sbtn=document.getElementById('lgm-btn'),msg=document.getElementById('lgm-msg');var magicWrap=document.getElementById('lgm-magic-wrap');function sel(m){mode=m;document.querySelectorAll('.lgm-tabs button').forEach(function(x){x.classList.toggle('on',x.dataset.t===m);});document.getElementById('lgm-perk').style.display=m==='reg'?'block':'none';if(magicWrap)magicWrap.style.display=m==='reg'?'none':'block';document.getElementById('lgm-h2').textContent=m==='reg'?TXT.h1_reg:TXT.h1_login;var sw=document.getElementById('lgm-sw');sw.textContent=m==='reg'?TXT.foot_login:TXT.foot_reg;sw.dataset.to=m==='reg'?'login':'reg';passEl.placeholder=m==='reg'?TXT.reg_pw:TXT.pw;passEl.autocomplete=m==='reg'?'new-password':'current-password';sbtn.textContent=m==='reg'?TXT.reg_btn:TXT.login_btn;msg.textContent='';}document.querySelectorAll('.lgm-tabs button').forEach(function(t){t.addEventListener('click',function(){sel(t.dataset.t);});});document.getElementById('lgm-sw').addEventListener('click',function(ev){ev.preventDefault();sel(this.dataset.to);});var gb=document.getElementById('lgm-gbtn');if(/MicroMessenger/i.test(navigator.userAgent)){gb.outerHTML='<div class="wv-hint">'+TXT.wv+'</div>';}else{gb.href='/m/auth/google?next='+encodeURIComponent(location.pathname);}fetch('/m/config').then(function(r){return r.json();}).then(function(c){if(c&&c.google)document.getElementById('lgm-google').style.display='block';}).catch(function(){});function sendMagic(){var email=document.getElementById('lgm-email').value.trim();if(!email){msg.textContent='✗ '+(ERR.bad_email||'email');msg.className='lgm-msg err';return;}msg.textContent=TXT.magic_ing;msg.className='lgm-msg';fetch('/m/api/login',{method:'POST',headers:{'content-type':'application/json'},credentials:'same-origin',body:JSON.stringify({email:email,next:location.pathname||'/'})}).then(function(r){return r.json().then(function(d){return {ok:r.ok,d:d};});}).then(function(x){if(x.ok){msg.className='lgm-msg ok';if(x.d&&x.d.dev_link){msg.innerHTML=TXT.magic_ok+'<br><a href="'+x.d.dev_link+'">'+TXT.magic_dev+'</a>';}else{msg.textContent=TXT.magic_ok;}}else{msg.textContent='✗ '+(ERR[x.d&&x.d.error]||(x.d&&x.d.error_cn)||TXT.fail);msg.className='lgm-msg err';}}).catch(function(){msg.textContent=TXT.net;msg.className='lgm-msg err';});}document.getElementById('lgm-magic').addEventListener('click',function(ev){ev.preventDefault();sendMagic();});document.getElementById('lgm-forgot').addEventListener('click',function(ev){ev.preventDefault();sendMagic();});document.getElementById('lgm-form').addEventListener('submit',function(ev){ev.preventDefault();sbtn.disabled=true;msg.textContent=mode==='reg'?TXT.reg_ing:TXT.ing;msg.className='lgm-msg';fetch(mode==='reg'?'/m/api/register':'/m/api/login-pass',{method:'POST',credentials:'same-origin',headers:{'content-type':'application/json'},body:JSON.stringify({email:document.getElementById('lgm-email').value.trim(),password:passEl.value})}).then(function(r){return r.json().then(function(d){return {ok:r.ok,d:d};});}).then(function(x){if(x.ok){msg.textContent=TXT.ok;msg.className='lgm-msg ok';setTimeout(function(){location.reload();},600);}else{msg.textContent='✗ '+(ERR[x.d&&x.d.error]||(x.d&&x.d.error_cn)||TXT.fail);msg.className='lgm-msg err';sbtn.disabled=false;}}).catch(function(){msg.textContent=TXT.net;msg.className='lgm-msg err';sbtn.disabled=false;});});})();</script>
+<main>
+  <div class="art-crumb-bar"><div class="art-crumb mono">
+    <a href="/jiedu/">解读</a><span class="slash">/</span>
+    <a href="/jiedu/tools/">AI 实操</a><span class="slash">/</span>
+    <span class="no">№ 1611</span>
+  </div></div>
+  <div class="art-trustwrap">
+    <div class="trust-bar">
+      <span class="ck"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="var(--verify)" stroke-width="3"><path d="M20 6L9 17l-5-5"/></svg><b>已核对</b></span>
+      <span class="div"></span>
+      <span class="lbl mono">来源</span><span class="src" style="cursor:default">Higgsfield Animation</span>
+      <span class="spacer"></span>
+      <span class="when mono">09-28 · 约 15 分钟</span>
+      
+      <button class="fav-btn" id="fav-btn" type="button">☆ 收藏</button>
+    </div>
+    
+    <div class="md-export" data-md-export>
+      <div class="md-export-row">
+        <button type="button" class="md-export-btn" data-md-act="copy">⧉ 复制 Markdown</button>
+        <button type="button" class="md-export-btn" data-md-act="dl">⬇ 下载 .md</button>
+        <span class="md-export-badge">会员专享</span>
+      </div>
+      <div class="md-export-hint mono">全文 Markdown，可粘进 Obsidian / Notion</div>
+    </div>
+    <div class="body-divider"><span class="mono">↓ 以下为文章正文</span></div>
+  </div>
+
+  <div style="position:absolute;width:0;height:0;overflow:hidden" aria-hidden="true"><img src="/media/higgsfield-passport-rush-animation/cover.webp" alt=""></div><div class="article-canvas-wrap walled"><article class="article-body"><style>@media(max-width:560px){[id^="body-"] .svgroll{overflow-x:visible}[id^="body-"] .svgroll svg{min-width:0!important;max-width:100%}}</style><div data-article-renderer="site-v2" data-reading-layout="site-v2" data-reading-role="root" id="xiaohubb-article"><style data-site-reading-layout="site-v2">/* Fixed article reading styles. Only theme colors and teaching components vary.
+   article_renderer.py excludes these roles from legacy CSS overrides. */
+[data-reading-layout="site-v2"]{--reading-font:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif;--reading-mono:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;--reading-ink:var(--j-ink,var(--p-ink,var(--ink,#242421)));--reading-paper:var(--j-paper,var(--paper,var(--surface,#fffdf8)));--reading-line:var(--j-line,var(--line,var(--p-line,#dcd9d1)));--reading-accent:var(--accent,var(--j-accent,var(--p-accent,#826c42)));--reading-muted:var(--j-dim,var(--muted,var(--p-dim,#706e65)))}
+html[lang=en] [data-reading-layout="site-v2"]{--reading-font:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}
+html[lang=ja] [data-reading-layout="site-v2"]{--reading-font:-apple-system,BlinkMacSystemFont,"Hiragino Kaku Gothic ProN","Yu Gothic",Meiryo,sans-serif}
+[data-article-renderer="site-v2"]{background:var(--bg);--p-bg:var(--bg);--p-ink:var(--ink);--p-dim:var(--muted);--p-accent:var(--accent);--p-line:var(--line)}
+[data-reading-layout="site-v2"][data-reading-role=root]{box-sizing:border-box;display:block;max-width:none;width:100%;margin:0;padding:0;min-height:0;font:17px/1.95 var(--reading-font);color:var(--reading-ink);text-size-adjust:100%;-webkit-text-size-adjust:100%}
+[data-reading-layout="site-v2"] [data-reading-role=inner]{box-sizing:border-box;display:block;width:100%;max-width:680px;margin:0 auto;padding:54px 24px;min-width:0;font:17px/1.95 var(--reading-font)}
+[data-reading-layout="site-v2"] :is([data-reading-role=flow],[data-reading-role=section]){display:block;max-width:none;width:auto;margin:0;padding:0;border:0;min-width:0;overflow:visible;font:inherit}
+[data-reading-layout="site-v2"] [data-reading-role=title]{font:700 33px/1.42 var(--reading-font);letter-spacing:-.01em;margin:0 0 18px;padding:0;border:0;text-wrap:wrap}
+[data-reading-layout="site-v2"] [data-reading-role=h2]{font:700 25px/1.5 var(--reading-font);margin:28px 0 16px;padding:0;border:0;letter-spacing:normal}
+[data-reading-layout="site-v2"] [data-reading-role=h3]{font:700 20px/1.6 var(--reading-font);margin:24px 0 12px;padding:0;border:0}
+[data-reading-layout="site-v2"] [data-reading-role=h4]{font:700 18px/1.65 var(--reading-font);margin:22px 0 10px;padding:0;border:0}
+[data-reading-layout="site-v2"] [data-reading-role=p]{font:400 17px/1.95 var(--reading-font);margin:0 0 22px;padding:0;max-width:none;text-align:start;word-break:normal;overflow-wrap:break-word;white-space:normal}
+[data-reading-layout="site-v2"] [data-reading-role=dek]{font:400 18px/1.75 var(--reading-font);color:var(--reading-muted);margin:0 0 30px;padding:0 0 24px;border:0;border-bottom:1px solid var(--reading-line)}
+[data-reading-layout="site-v2"] [data-reading-role=summary]{box-sizing:border-box;font:15.5px/1.82 var(--reading-font);margin:0 0 32px;padding:18px 22px;border:0;border-radius:4px;background:var(--reading-paper)}
+[data-reading-layout="site-v2"] [data-reading-role=summary]>:is(strong,.h){display:block;font:700 12px/1.5 var(--reading-font);margin:0 0 10px}
+[data-reading-layout="site-v2"] :is([data-reading-role=summary-ul],[data-reading-role=summary-ol]){padding:0 0 0 1.1em;margin:0}
+[data-reading-layout="site-v2"] [data-reading-role=summary-li]{font:15.5px/1.82 var(--reading-font);margin:0 0 6px;padding:0;list-style-position:outside}
+[data-reading-layout="site-v2"] :is([data-reading-role=ul],[data-reading-role=ol]){font:17px/1.95 var(--reading-font);margin:0 0 22px;padding:0 0 0 1.1em;list-style-position:outside}
+[data-reading-layout="site-v2"] [data-reading-role=ul]{list-style-type:disc}
+[data-reading-layout="site-v2"] [data-reading-role=ol]{list-style-type:decimal}
+[data-reading-layout="site-v2"] [data-reading-role=li]{display:list-item;font:17px/1.95 var(--reading-font);margin:0 0 8px;padding:0;word-break:normal;overflow-wrap:break-word}
+[data-reading-layout="site-v2"] [data-reading-role=li]>[data-reading-role=p]{margin-bottom:8px}
+[data-reading-layout="site-v2"] [data-reading-role=li]>:is([data-reading-role=ul],[data-reading-role=ol]){margin:8px 0 0}
+[data-reading-layout="site-v2"] [data-reading-role=quote]{margin:22px 0;padding:12px 18px;border:0;border-left:3px solid var(--reading-accent);color:var(--reading-muted)}
+[data-reading-layout="site-v2"] [data-reading-role=quote]>:last-child{margin-bottom:0}
+[data-reading-layout="site-v2"] [data-reading-role=divider]{display:none}
+[data-reading-layout="site-v2"] [data-reading-role=separator]{display:block;height:0;margin:24px 0;padding:0;border:0;border-top:1px solid var(--reading-line)}
+[data-reading-layout="site-v2"] [data-reading-role=figure]{width:auto;max-width:100%;margin:24px 0;padding:0}
+[data-reading-layout="site-v2"] [data-reading-role=figure]>:is(img,video),[data-reading-layout="site-v2"] [data-reading-role=p]>img:only-child{display:block;box-sizing:border-box;width:100%;max-width:100%;height:auto;border-radius:8px}
+[data-reading-layout="site-v2"] [data-reading-role=caption]{font:14px/1.7 var(--reading-font);color:var(--reading-muted);margin:9px 0 0;padding:0;text-align:start}
+[data-reading-layout="site-v2"] [data-reading-role=table-wrap]{display:block;box-sizing:border-box;max-width:100%;width:100%;margin:24px 0;padding:0;overflow-x:auto;overscroll-behavior-inline:contain;border:1px solid var(--reading-line);border-radius:8px}
+[data-reading-layout="site-v2"] [data-reading-role=table]{display:table;box-sizing:border-box;border-collapse:collapse;table-layout:auto;width:100%;min-width:480px;max-width:none;margin:0;font:15px/1.7 var(--reading-font)}
+[data-reading-layout="site-v2"] :is([data-reading-role=th],[data-reading-role=td]){display:table-cell;font:15px/1.7 var(--reading-font);padding:10px 12px;min-width:4em;border:1px solid var(--reading-line);vertical-align:top;text-align:start;word-break:normal;overflow-wrap:break-word}
+[data-reading-layout="site-v2"] [data-reading-role=th]{font-weight:700;background:var(--reading-paper)}
+[data-reading-layout="site-v2"] [data-reading-role=thead]{display:table-header-group}
+[data-reading-layout="site-v2"] [data-reading-role=tbody]{display:table-row-group}
+[data-reading-layout="site-v2"] [data-reading-role=tfoot]{display:table-footer-group}
+[data-reading-layout="site-v2"] [data-reading-role=tr]{display:table-row}
+[data-reading-layout="site-v2"] :is([data-reading-role=th],[data-reading-role=td])::before{content:none}
+[data-reading-layout="site-v2"] [data-reading-role=cell-p]{font:inherit;margin:0 0 8px;padding:0}
+[data-reading-layout="site-v2"] [data-reading-role=code-wrap]{box-sizing:border-box;max-width:100%;margin:24px 0;padding:0;border:1px solid var(--reading-line);border-radius:8px;overflow:hidden;background:var(--reading-paper)}
+[data-reading-layout="site-v2"] [data-reading-role=pre]{display:block;box-sizing:border-box;max-width:100%;margin:0;padding:16px;overflow-x:auto;font:14px/1.75 var(--reading-mono);white-space:pre;word-break:normal;tab-size:2;color:var(--reading-ink);background:var(--reading-paper)}
+[data-reading-layout="site-v2"] [data-reading-code=text]{white-space:pre-wrap;overflow-wrap:break-word;font:15.5px/1.8 var(--reading-font)}
+[data-reading-layout="site-v2"] [data-reading-role=code]{font:inherit;white-space:inherit;background:none;padding:0;border:0}
+[data-reading-layout="site-v2"] [data-reading-role] a[href]{text-decoration:underline;text-underline-offset:.18em}
+[data-reading-layout="site-v2"] [data-reading-role]:focus-visible{outline:2px solid var(--reading-accent);outline-offset:3px}
+[data-reading-layout="site-v2"] [id]{scroll-margin-top:120px}
+/* 2026-09-12 中文阅读节奏。每条都对应一次实测，决策见 memory/decisions.md。
+   ① 左对齐、自然换行（2026-09-19 用户定：「不能为了对齐拉大间距」，桌面也撤掉两端对齐；
+      拆不开的英文词会把整行汉字间距撑开，偶尔行尾参差可以接受）  ② 普通自然换行（2026-09-14 撤销 pretty）
+   ③ 列表缩进两个字，和正文字格对齐  ④ 标题上方空白是下方的 3 倍（邻近律）
+   ⑤ 图片后面的标题收紧，避免和图片留白叠成 84px  ⑥ 加粗一节最多两处，其余按正文读 */
+html[lang^=zh] [data-reading-layout="site-v2"] :is([data-reading-role=p],[data-reading-role=li],[data-reading-role=summary-li]),
+html[lang^=ja] [data-reading-layout="site-v2"] :is([data-reading-role=p],[data-reading-role=li],[data-reading-role=summary-li]){text-align:start}
+/* Natural wrapping: Safari pretty shortens lines across the whole paragraph. */
+[data-reading-layout="site-v2"] :is([data-reading-role=p],[data-reading-role=li],[data-reading-role=summary-li],[data-reading-role=caption]){text-wrap:wrap}
+[data-reading-layout="site-v2"] :is([data-reading-role=ul],[data-reading-role=ol]){padding:0 0 0 2em}
+[data-reading-layout="site-v2"] [data-reading-role=h2]{margin:52px 0 16px;word-break:normal;overflow-wrap:anywhere;line-break:strict;text-wrap:wrap}
+[data-reading-layout="site-v2"] [data-reading-role=h3]{margin:30px 0 10px;word-break:normal;overflow-wrap:anywhere;line-break:strict;text-wrap:balance}
+[data-reading-layout="site-v2"] [data-reading-role=h2][data-reading-after-media]{margin-top:40px}
+[data-reading-layout="site-v2"] [data-reading-role=h3][data-reading-after-media]{margin-top:26px}
+[data-reading-layout="site-v2"] [data-reading-role=figure][data-reading-in-grid]{margin:0}
+[data-reading-layout="site-v2"] [data-reading-flat]{padding-inline-start:0;list-style:none;margin:0 0 22px}
+[data-reading-layout="site-v2"] [data-reading-flat]>[data-reading-role=li]{list-style:none;margin:0 0 22px}
+[data-reading-layout="site-v2"] [data-reading-flat]>[data-reading-role=li]:last-child{margin-bottom:0}
+[data-reading-layout="site-v2"] [data-reading-flat]>[data-reading-role=li]::marker{content:none}
+[data-reading-layout="site-v2"] :is([data-reading-role=p],[data-reading-role=li]) :is(strong,b){font-weight:600}
+[data-reading-layout="site-v2"] [data-reading-label]{font-weight:600}
+[data-reading-layout="site-v2"] [data-reading-plain]{font-weight:inherit;color:inherit}
+@media(max-width:560px){
+[data-reading-layout="site-v2"] [data-reading-role=inner]{padding:36px 18px 44px}
+/* 2026-09-13 用户：手机上段落从 30px 起、列表文字从 64px 起，一屏里两个左边界差 34px，
+   看着「缩进去、上下不对齐」。窄栏把 2em 收到 1.2em（错位 34→20px）；桌面 2em 不动。 */
+[data-reading-layout="site-v2"] :is([data-reading-role=ul],[data-reading-role=ol]){padding-left:1.2em}
+[data-reading-layout="site-v2"] [data-reading-role=h2]{margin-top:46px}
+[data-reading-layout="site-v2"] [data-reading-role=h2][data-reading-after-media]{margin-top:36px}
+[data-reading-layout="site-v2"] [data-reading-role=h3][data-reading-after-media]{margin-top:24px}
+/* 手机上不两端对齐。09-12 的理由（拆不开的英文词会把整行汉字间距拉开）成立；
+   09-13 当天按用户要求改成两端对齐，看到实际效果后当天退回——用户原话
+   「我只需要自然换行，保持文字填满宽度即可，没有说强制要求上下左右对齐」。
+   2026-09-14：左对齐不决定断行算法；正文需同时使用 text-wrap:wrap。
+   Safari 的 pretty 会主动提前断行，不能用 Chromium 的行尾测量推断 Safari 效果。 */
+html[lang^=zh] [data-reading-layout="site-v2"] :is([data-reading-role=p],[data-reading-role=li],[data-reading-role=summary-li]),
+html[lang^=ja] [data-reading-layout="site-v2"] :is([data-reading-role=p],[data-reading-role=li],[data-reading-role=summary-li]){text-align:start}
+[data-reading-layout="site-v2"] [data-reading-role=title]{font-size:27px}
+html[lang=en] [data-reading-layout="site-v2"] [data-reading-role=title]{font-size:24px}
+html[lang=ja] [data-reading-layout="site-v2"] [data-reading-role=title]{font-size:25px}
+[data-reading-layout="site-v2"] [data-reading-role=h2]{font-size:21px}
+[data-reading-layout="site-v2"] [data-reading-role=h3]{font-size:18px}
+[data-reading-layout="site-v2"] [data-reading-role=dek]{font-size:17px}
+[data-reading-layout="site-v2"] [data-reading-role=summary]{padding:16px 18px}
+}
+</style><style data-onepager-shell="1">#xiaohubb-article>.op-switchbar{display:flex;justify-content:center;gap:4px;padding:16px}
+#xiaohubb-article>.op-switchbar button{font:inherit;min-height:44px;padding:8px 20px;border:1px solid var(--line);border-radius:8px;background:var(--paper);color:var(--ink);cursor:pointer}
+#xiaohubb-article>.op-switchbar button[aria-selected="true"]{background:var(--accent);color:var(--paper)}
+#xiaohubb-article>.op-switchbar button:focus-visible{outline:2px solid var(--ink);outline-offset:3px}
+#xiaohubb-article>[hidden]{display:none!important}
+#xiaohubb-article>#op-board{box-sizing:border-box;max-width:100%;min-width:0}</style><div aria-label="正文 / 一页纸" class="op-switchbar" role="tablist"><button aria-controls="op-article" aria-selected="true" data-op-view="article" id="op-tab-article" role="tab" tabindex="0" type="button">正文</button><button aria-controls="op-board" aria-selected="false" data-op-view="board" id="op-tab-board" role="tab" tabindex="-1" type="button">一页纸</button></div><div aria-labelledby="op-tab-article" id="op-article" role="tabpanel"><style data-article-theme="1" data-reading-protected="1">#xiaohubb-article{--bg:#f7f3ec;--paper:#fffdf8;--ink:#26231f;--muted:#6b645a;--accent:#b5651d;--line:#e4dccf;}html.dark #xiaohubb-article{--bg:#1b1814;--paper:#24201b;--ink:#efe8dd;--muted:#bdb2a2;--accent:#f0a95b;--line:#4a4136;}</style><div class="reading-inner" data-reading-role="inner"><header class="article-intro" data-reading-role="flow"><h1 data-reading-role="title">3 天做完 18 个镜头：Higgsfield 动画团队怎样把 AI 放进传统动画流程</h1><p class="dek" data-reading-role="dek">一支传统动画出身的团队，用 Blender 预演、Claude 写提示词、AI 生成视频，做出一段汽车追逐戏。他们把分镜分路、资产优先、五段式视频提示词和三次翻车都摊开讲了。</p></header><aside class="brief" data-reading-role="summary"><strong>一分钟速览</strong><ul data-reading-role="summary-ul"><li data-reading-role="summary-li">这支团队没有让 AI 接管动画，而是保留传统管线，逐个环节决定哪部分交给模型：动作和机位复杂的镜头先在 Blender 里做灰模预演，简单镜头才直接用文字生成。</li><li data-reading-role="summary-li">成片质量取决于参考图：角色、道具、场景设定图先做对、做统一，AI 出的底稿还要人手工修色、加笔触。</li><li data-reading-role="summary-li">纹理太重的道具一动就穿帮，画面发扁先改光线，这些问题都是在正式开工前把资产放进视频里测出来的。</li><li data-reading-role="summary-li">视频提示词固定写五段：场景与风格、参考图说明、镜头结构、锁定与约束、动画原则，最要紧的规定放在最前面，结构存成 Claude 技能全组共用。</li><li data-reading-role="summary-li">大场面反而不难，难的是细腻表演：一个靠「愣一下」制造的笑点，文字和预演都没做出来，至今没进成片；整片的花费和总工期还没公布。</li></ul></aside><div class="article" data-reading-role="flow"><p data-reading-role="p">用 AI 做动画，难的往往不是做出一个好看的镜头，而是让 18 个镜头里的人、车、光线都对得上，耳机不会突然消失，出租车不会变成另一辆车。</p>
+<p data-reading-role="p"><a href="/article/cully-hill-boys/">Higgsfield</a> 的一支传统动画团队，3 天做完了这样一段飞车追逐戏。他们的办法不是换更强的模型，而是把传统动画的老规矩搬过来：先做参考图、先做测试、复杂镜头先在 Blender 里预演，提示词按固定结构写。</p>
+<p data-reading-role="p">这段戏出自他们正在做的 5 分钟动作喜剧短片《Passport Rush》：女孩到了机场才发现护照落在城那头，只好跳上出租车往回冲。团队成员进公司前都没碰过 AI，他们在新开的 YouTube 频道 Higgsfield Animation 第一期，用 28 分钟把从分镜到成片的做法、提示词原文和三次翻车都公开了。</p>
+<p data-reading-role="p">先看做出来的样子：</p>
+<figure data-reading-in-grid="1" data-reading-role="figure">
+<video aria-label="《Passport Rush》汽车追逐段成片节选：出租车起步、侧身挤过两辆卡车、原木落下、身后爆炸。" controls="" playsinline="" poster="/media/higgsfield-passport-rush-animation/car-sequence-poster.webp" preload="none" src="/media/higgsfield-passport-rush-animation/car-sequence.mp4"></video>
+<figcaption data-reading-role="caption">《Passport Rush》汽车追逐段成片节选，约 45 秒。点击播放。</figcaption>
+</figure>
+<p data-reading-role="p">想看完整过程，下面是 28 分钟制作分解的中英双语字幕版：</p>
+<figure data-reading-in-grid="1" data-reading-role="figure">
+<video aria-label="Higgsfield Animation 第一期：Passport Rush 汽车追逐段完整制作分解，28 分钟，中英双语字幕。" controls="" playsinline="" poster="/media/higgsfield-passport-rush-animation/full-breakdown-poster.webp" preload="metadata" src="https://pic.xiaohu.ai/jiedu-media/higgsfield-passport-rush-animation/full-breakdown-burned.mp4"></video>
+<figcaption data-reading-role="caption">Higgsfield Animation 第一期完整版，28 分钟，中英双语字幕。</figcaption>
+</figure>
+<p data-reading-role="p">这支团队的整体思路可以用主持人 Amina 的一句话概括：他们想把 AI 放进动画流程，<strong>但不丢掉手艺</strong>。下面按他们实际的制作顺序讲：先分镜，再做资产，然后测试，接着写视频提示词，复杂镜头先进 Blender，最后是三次翻车和各自的解法。</p>
+<h2 data-reading-role="h2">画分镜时就决定：哪些镜头自己动手做，哪些交给模型</h2>
+<p data-reading-role="p">前期和传统动画一样，从点子、剧本、分镜开始。这一段他们想试的是：在动作戏里，3D 预演和 AI 能怎样配合。所谓预演（previs），就是正式制作前，用很简单的三维模型把动作和机位先走一遍，类似实拍前的走位排练。</p>
+<p data-reading-role="p">区别在于，他们在分镜阶段就给每个镜头分好了路线。分镜格子上标了<strong>橙色的，走 Blender 预演</strong>；留空的，直接用文字生成视频。</p>
+<figure data-reading-in-grid="1" data-reading-role="figure">
+<img alt="分镜格子上的橙色标记，旁边是 Blender 图标" src="/media/higgsfield-passport-rush-animation/frame-storyboard-orange.webp"/>
+<figcaption data-reading-role="caption">分镜上的橙色圆点表示这个镜头要先进 Blender 做预演。</figcaption>
+</figure>
+<p data-reading-role="p">分的标准很朴素：动作很具体、机位很讲究，或者用文字跟模型解释要花很久的镜头，进 Blender；动作简单的镜头，直接生成。换句话说，<strong>如果自己动手做一遍比用文字讲清楚更快，就自己做</strong>。他们是视觉艺术家，有些东西画出来、动起来，比写一大段话描述要省事得多。</p>
+<figure data-reading-in-grid="1" data-reading-role="figure">
+<img alt="视频画面：two routes，复杂动作和机位走 Blender 预演，简单动作直接生成" src="/media/higgsfield-passport-rush-animation/frame-two-routes.webp"/>
+<figcaption data-reading-role="caption">两条路线：复杂动作和机位走 Blender 预演，简单动作直接生成。</figcaption>
+</figure>
+<p data-reading-role="p">另一个态度也值得一提：分镜只是参考，不是定死的。视频生成本身就难以预测，所以他们只锁住故事节点和主要场景，没有把每个镜头都规划到底，给意外留了空间，边做边调。</p>
+<p data-reading-role="p">团队分工基本照搬传统动画管线，只是人少，每个人身兼数职。有一点比较特别：<strong data-reading-plain="1">他们没有专职的提示词工程师</strong>。做角色的人写角色的提示词，做场景的人写场景的提示词，做动画的人写镜头的提示词，谁负责哪部分，谁就写那部分。</p>
+<h2 data-reading-role="h2">资产优先：参考图糊弄，整部片就糊弄</h2>
+<p data-reading-role="p">整条管线建立在一条规则上，他们叫它「资产优先」（asset-first approach）：<strong>图像输入的质量，决定整部片的质量</strong>。图像输入模糊、潦草、前后不一致，最后的片子也会潦草。</p>
+<p data-reading-role="p">这里的「图像输入」，指的是角色设定图、道具设定图、场景背景这些图。生成视频的时候，它们会作为参考图挂进去，告诉模型每样东西长什么样。为此他们专门设了一个「资产管理员」（asset manager）的角色，负责让角色、道具、背景看起来属于同一部片、同一个世界。这份工作相当于传统管线里的美术指导。</p>
+<p data-reading-role="p">这部片的美术方向是：<strong>风格化的 3D 角色，配水彩背景</strong>。在传统管线里，让这两种质感和谐地放在一起本来就不容易，这也成了这个项目最大的挑战。</p>
+<figure data-reading-in-grid="1" data-reading-role="figure">
+<img alt="分镜、出租车司机角色设定图、水彩高速公路场景图和女主角全身设定图" src="/media/higgsfield-passport-rush-animation/thread-HTFeMb3aEAAkotK.webp"/>
+<figcaption data-reading-role="caption">这一段用到的资产：分镜、出租车司机设定图、水彩高速公路场景、女主角设定图。</figcaption>
+</figure>
+<h3 data-reading-after-media="1" data-reading-role="h3">角色：AI 出底稿，人来挑、来改</h3>
+<p data-reading-role="p">他们的项目周期通常很紧，有时只有一个月，所以角色设计是先用提示词生成几版初稿，再手工修改，以此节省时间。具体流程是这样的：</p>
+<ol data-reading-role="ol">
+<li data-reading-role="li">
+<p data-reading-role="p"><strong data-reading-label="1">写一句短需求，交给 Claude 扩写</strong>成完整的角色设定图提示词，里面写清外貌、服装、姿势，还有构图和打光。他们平时用 Claude，主持人也说其他 AI 聊天工具都可以。短需求到底有多短？视频里给司机写的是这样一句：</p>
+<blockquote data-reading-role="quote">
+<p data-reading-role="p">Write a prompt for this character: an elderly heavyset man, short, round kind face… big fluffy grey mustache, round glasses in a thin gold frame… Outfit: burgundy short-sleeve polo, light blue jeans, brown leather sandals.</p>
+</blockquote>
+<p data-reading-role="p">也就是「给这个角色写一段提示词」，后面跟一段外形、一段服装。女主角的需求也是同样两段：红色长直发、翘起一撮呆毛、大眼睛向上看；宽大的浅蓝拉链卫衣、胸前红色字母贴、米色百褶短裙、脖子上挂白色耳机。构图、打光、背景这些都交给 Claude 补全。</p>
+</li>
+<li data-reading-role="li">
+<p data-reading-role="p"><strong data-reading-label="1">生成之前自己再过一遍</strong>，核对细节和设计是否一致，不对就改。这些选择直接影响出图结果，所以要把想要什么说清楚。</p>
+</li>
+<li data-reading-role="li">
+<p data-reading-role="p">在 Higgsfield 的 Cinema Studio 里，模型选自家的图像模型 Soul 2.0，贴上提示词，设好画面比例，<strong data-reading-plain="1">一次出 4 张</strong>。</p>
+</li>
+<li data-reading-role="li">
+<p data-reading-role="p">挑图，并把几张里好的元素拼起来。</p>
+</li>
+</ol>
+<p data-reading-role="p">女主角的挑选过程很能说明问题。第一张好看，但有点太傻气，他们想要好笑，同时还得酷一点；第二张可爱，但太写实，他们要的是更夸张的五官和比例；第三张最接近，橙红头发在水彩背景前特别跳，可比例还要调，而且穿得太正式了，Amina 说自己去机场一般穿运动裤和最舒服的衣服。最终版把第一张的卫衣和运动鞋拿了回来，又加了一条短裙改善轮廓。</p>
+</div></div></div></div></article><div class="wall-fade" aria-hidden="true"></div></div>
+  <div class="member-wall" id="member-wall">
+  <div class="wall-card">
+    <div class="wall-kick mono">🔒 MEMBERS ONLY</div>
+    <h2 class="wall-head">后面约 11 分钟，是会员的。</h2>
+    <p class="wall-sub">免费部分到这里。墙内还有：</p>
+    <div class="wall-chips"><span class="wall-chip">约 11 分钟正文</span><span class="wall-chip">30 处图表与交互</span></div>
+    <div class="wall-chips"><span class="wall-chip">🔓 340 篇存量深度 / 研究解读全文一并解锁</span><span class="wall-chip">🎧 全部播客音频 + 私有播客源</span><span class="wall-chip">⧉ 全文 Markdown 导出</span></div>
+    <div class="wall-proof">🔥 创始 100 席已售罄 · 350+ 位会员在读</div>
+    <div class="wall-ctas">
+      <a class="wall-btn primary" href="/buy/?plan=year&amp;slug=higgsfield-passport-rush-animation">解锁全站 $59/年</a>
+      <a class="wall-btn ghost" href="/buy/?plan=single&amp;slug=higgsfield-passport-rush-animation">先读这篇 $1.99</a>
+      <a class="wall-btn ghost" href="/buy/?plan=monthly&amp;slug=higgsfield-passport-rush-animation">按月 $6.99</a>
+    </div>
+    <div class="wall-single-note">单篇费用 30 天内升年卡可全额抵扣（回复收据邮件即可）</div>
+    <div class="wall-foot">
+      <a class="wall-loginlink" href="/login/?next=%2Farticle%2Fhiggsfield-passport-rush-animation%2F">已是会员？邮箱登录 →</a>
+      <span class="wall-note">美元结算 · 年卡 / 单篇支持支付宝、微信；月卡需银行卡 · 年付 7 天不满意全额退。</span>
+    </div>
+    <div class="wall-sub-alt">
+      <div class="ws-h">暂时不开会员？</div>
+      <p class="ws-p">留个邮箱，新解读第一时间发你。确认订阅后，我把<b>这篇的一页纸</b>一起发过去。</p>
+      <form class="sub-form" data-subsrc="wall:higgsfield-passport-rush-animation" onsubmit="return window.__subEmail(this)"><input type="email" required placeholder="输入邮箱" aria-label="Email"><button type="submit">订阅</button></form><div class="sub-form-msg mono"></div>
+      <a class="ws-more" href="/subscribe/">全部订阅方式（RSS / Telegram / 播客）→</a>
+    </div>
+  </div>
+</div>
+  <section class="xiaohubb-products xh-takeaway" data-xh-takeaway data-url="/m/api/export/higgsfield-passport-rush-animation?lang=zh&amp;kind=takeaway"><div class="xh-takeaway-head"><div><h2>实操带走包</h2><p>滚动查看原始 Markdown，复制后可按团队实际系统与政策修改。</p></div><span class="xh-takeaway-badge">Markdown · 会员</span></div><pre class="xh-takeaway-text" tabindex="0" aria-label="实操带走包" data-takeaway-text>正在载入 Markdown…</pre><div class="xh-takeaway-actions"><button type="button" data-takeaway-copy disabled>复制 Markdown</button><button type="button" data-takeaway-download disabled>下载 .md</button><span data-takeaway-status role="status" aria-live="polite"></span></div><a class="xh-takeaway-access" data-takeaway-access hidden></a></section>
+
+  <div class="art-footwrap" style="display:none">
+    <div class="body-end"><span class="mono">↑ 正文结束</span></div>
+    
+    <div class="art-actions">
+      <button class="act" data-act="like">👍 这篇讲明白了</button>
+      <button class="act" data-act="share" data-title="3 天做完 18 个镜头：Higgsfield 动画团队怎样把 AI 放进传统动画流程" data-board-png="/m/board/higgsfield-passport-rush-animation.0e7c2e693fd4.png">分享</button>
+      <a class="act" href="https://youtu.be/reFzEtCG_m8" target="_blank" rel="noopener">阅读原文 ↗</a>
+    </div>
+    
+  </div>
+  <div class="related-wrap"><div class="related-inner">
+    <h2 class="mono">相关解读</h2>
+    <div class="related-grid"><a class="related-card" style="--tint:#0e7490" href="/article/cully-hill-boys/">
+      <div class="cat"><span class="sq"></span>AI 实操</div>
+      <div class="ti">Higgsfield 使用真人演员形象 用 AI 拍摄了一部 110 分钟的完整故事影片 并公开了整本制作说明书和提示词方法</div>
+      <div class="when mono">08-13 · 16 分钟</div></a><a class="related-card" style="--tint:#2f7d57" href="/article/opus-5-5-clawd-animation-mv/">
+      <div class="cat"><span class="sq"></span>深度</div>
+      <div class="ti">Claude Opus 5.5 写代码画出一支手绘 MV：拆解做法，教你用开源模板自己做</div>
+      <div class="when mono">09-24 · 约 15 分钟</div></a><a class="related-card" style="--tint:#2f7d57" href="/article/higgsfield-production-skills/">
+      <div class="cat"><span class="sq"></span>深度</div>
+      <div class="ti">Higgsfield 的 11 个制作技能：让 AI 交付还能继续改的工程</div>
+      <div class="when mono">09-28 · 约 10 分钟</div></a></div>
+  </div></div>
+</main><footer class="site-footer">
+  <div class="footer-cols">
+    <div class="footer-brand">
+      <div class="mark"><span class="brand-mark">小互</span><span class="brand-dot"></span></div>
+      <p>真实为底，讲透为骨，人话为形，朋友感为声。 把任意 AI 文章解读成看得懂的可视化文章。</p>
+    </div>
+    <div class="footer-col foot-jiedu">
+      <div class="h mono">解读</div>
+      <div class="links"><a href="/jiedu/launch/">产品发布</a><a href="/jiedu/research/">研究解读</a><a href="/jiedu/deep/">深度</a><a href="/jiedu/business/">商业动态</a><a href="/jiedu/tools/">AI 实操</a><a href="/jiedu/visual/">商业视觉实战</a></div>
+    </div>
+    <div class="footer-col foot-site">
+      <div class="h mono">站点</div>
+      <div class="links">
+        <a href="/index.html">首页</a>
+        <a href="/weekly/">周报</a>
+        <a href="/jiedu/">全部解读</a>
+        <a href="/search/">搜索</a>
+        <a href="/about/">关于小互</a>
+      </div>
+    </div>
+    <div class="footer-col foot-sub">
+      <div class="h mono">订阅</div>
+      <p>新解读第一时间送达。</p>
+      <form class="sub-form" data-subsrc="foot" onsubmit="return window.__subEmail(this)"><input type="email" required placeholder="输入邮箱" aria-label="Email"><button type="submit">订阅</button></form><div class="sub-form-msg mono"></div><script>window.__subEmail=function(f){var i=f.querySelector('input'),m=f.parentNode.querySelector('.sub-form-msg'),b=f.querySelector('button'),T={"sending": "发送中…", "sent": "已发确认邮件，去邮箱点一下完成订阅", "already": "这个邮箱已经订阅过了", "err": "没发出去，稍后再试"};b.disabled=true;m.textContent=T.sending;fetch('/m/api/sub/email',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({email:i.value,lang:'zh',source:f.dataset.subsrc||''})}).then(function(r){return r.json()}).then(function(j){if(j.ok){m.textContent=j.already?T.already:T.sent;f.style.display='none';try{localStorage.setItem('jx_sub_done','1')}catch(e){}}else{m.textContent=j.error_cn||T.err;b.disabled=false}}).catch(function(){m.textContent=T.err;b.disabled=false});return false}</script>
+      <div class="sub-links"><a class="footer-rss" href="https://t.me/xiaohubest_bot?start=zh" target="_blank" rel="noopener"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" stroke="none"><path d="M21.9 4.4L2.9 11.7c-1 .4-1 1.4 0 1.7l4.6 1.5 1.8 5.5c.3.8 1.2 1 1.8.4l2.6-2.5 4.8 3.5c.6.4 1.4.1 1.6-.6l3.2-15.2c.2-1-.7-1.8-1.4-1.6zM8.5 14.3l9-5.7c.3-.2.5.2.3.4l-7.4 6.8-.3 3-1.6-4.5z"/></svg>Telegram</a><a class="footer-rss" href="/rss.xml"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M4 11a9 9 0 0 1 9 9"/><path d="M4 4a16 16 0 0 1 16 16"/><circle cx="5" cy="19" r="1.6" fill="currentColor" stroke="none"/></svg>RSS Feed</a><a class="footer-rss" href="/podcast.xml"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M4 11a9 9 0 0 1 9 9"/><path d="M4 4a16 16 0 0 1 16 16"/><circle cx="5" cy="19" r="1.6" fill="currentColor" stroke="none"/></svg>播客订阅</a></div>
+      <a class="sub-more" href="/subscribe/">全部订阅方式 →</a>
+    </div>
+  </div>
+  <div class="footer-bar"><div class="inner mono">
+    <span>© 2026 小互 · AI 解读站</span>
+    <span>真实为底 · 讲透为骨 · 人话为形 · 朋友感为声</span>
+  </div></div>
+</footer></div><script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "3 天做完 18 个镜头：Higgsfield 动画团队怎样把 AI 放进传统动画流程", "datePublished": "2026-09-28", "isAccessibleForFree": false, "hasPart": {"@type": "WebPageElement", "isAccessibleForFree": true, "cssSelector": ".article-body"}}</script><script>(function(){fetch('/m/api/full/higgsfield-passport-rush-animation?lang=zh',{credentials:'same-origin'}).then(function(r){if(!r.ok)throw 0;return r.json();}).then(function(d){if(!d||!d.html)return;var art=document.querySelector('.article-body');art.innerHTML=d.html;window.__jxRefresh&&window.__jxRefresh();art.querySelectorAll('script').forEach(function(s){var type=(s.getAttribute('type')||'').toLowerCase();if(type&&type!=='module'&&type!=='text/javascript'&&type!=='application/javascript')return;var n=document.createElement('script');Array.from(s.attributes).forEach(function(a){n.setAttribute(a.name,a.value);});n.textContent=s.textContent;s.replaceWith(n);});var tk=document.querySelector('[data-xh-takeaway]'),sb=art.querySelector('[data-article-sources]');if(tk&&sb&&!art.contains(tk))sb.parentNode.insertBefore(tk,sb);var w=document.getElementById('member-wall');if(w)w.remove();var f=document.querySelector('.wall-fade');if(f)f.remove();var c=document.querySelector('.article-canvas-wrap');if(c)c.classList.remove('walled');var fw=document.querySelector('.art-footwrap');if(fw)fw.style.display='';}).catch(function(){});})();</script><style>.fav-btn{margin-left:10px;border:1px solid var(--line-2);background:transparent;border-radius:999px;padding:3px 12px;font-size:11.5px;color:var(--muted);cursor:pointer;letter-spacing:.5px;flex:0 0 auto}.fav-btn.on{color:var(--ember);border-color:var(--ember);background:color-mix(in srgb,var(--ember) 7%,transparent)}</style><script>(function(){var SLUG='higgsfield-passport-rush-animation',LANG='zh',BASE='/';var FTXT={"add": "收藏", "on": "已收藏"};function tk(ev,pct){try{navigator.sendBeacon('/m/api/track',new Blob([JSON.stringify({slug:SLUG,lang:LANG,ev:ev,pct:pct||0})],{type:'application/json'}));}catch(e){}}tk('view');var marks=[25,50,75,90],sent={};addEventListener('scroll',function(){var h=document.documentElement,max=h.scrollHeight-innerHeight;if(max<=0)return;var pct=Math.round(scrollY/max*100);marks.forEach(function(mk){if(pct>=mk&&!sent[mk]){sent[mk]=1;tk('read',mk);}});},{passive:true});var w=document.getElementById('member-wall');if(w){var seen=0;new IntersectionObserver(function(es){es.forEach(function(x){if(x.isIntersecting&&!seen){seen=1;tk('wall');}});},{threshold:.3}).observe(w);w.querySelectorAll('.wall-ctas a').forEach(function(aa){aa.addEventListener('click',function(){tk('buy');try{var pl=(aa.href.match(/plan=([a-z]+)/)||[])[1];if(pl)navigator.sendBeacon('/track/event',JSON.stringify({e:'buy',t:pl,p:'/article/'+SLUG+'/'}));}catch(e){}});});}var fb=document.getElementById('fav-btn');if(fb){fetch('/m/api/my-favs',{credentials:'same-origin'}).then(function(r){if(!r.ok)throw 0;return r.json();}).then(function(d){if(((d&&d.favs)||[]).some(function(f){return f.slug===SLUG;})){fb.classList.add('on');fb.textContent='★ '+FTXT.on;fb.dataset.on='1';}}).catch(function(){});fb.addEventListener('click',function(){var on=fb.dataset.on==='1';fetch('/m/api/fav',{method:'POST',credentials:'same-origin',headers:{'content-type':'application/json'},body:JSON.stringify({slug:SLUG,on:!on})}).then(function(r){if(r.status===401){location.href=BASE+'login/?next='+encodeURIComponent(location.pathname);throw 0;}return r.json();}).then(function(){fb.dataset.on=on?'':'1';fb.classList.toggle('on',!on);fb.textContent=(on?'☆ ':'★ ')+(on?FTXT.add:FTXT.on);}).catch(function(){});});}})();</script><link rel="stylesheet" href="/assets/blocks.css?v=abcb09f2"><script>window.__TAKE={"slug": "higgsfield-passport-rush-animation", "title": "3 天做完 18 个镜头：Higgsfield 动画团队怎样把 AI 放进传统动画流程", "url": "https://best.xiaohu.ai/article/higgsfield-passport-rush-animation/", "autoTables": true};</script><script defer src="/assets/blocks.js?v=ad9936ba"></script><link rel="stylesheet" href="/assets/xiaohubb-products.css?v=40b940c9"><script defer src="/assets/xiaohubb-products.js?v=652ec874"></script><style>.md-export{margin:14px 0 4px;padding:12px 14px;border:1px solid var(--line-2,#e7e1d4);border-radius:12px;background:color-mix(in srgb,var(--ember,#df5130) 5%,transparent)}.md-export-row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}.md-export-btn{appearance:none;border:1px solid var(--line-2,#e7e1d4);background:#fff;border-radius:999px;padding:7px 14px;font-size:12.5px;cursor:pointer;color:var(--ink,#26211f);font-family:inherit;line-height:1.2}.md-export-btn:hover{border-color:var(--ember,#df5130);color:var(--ember,#df5130)}.md-export-btn:disabled{opacity:.55;cursor:wait}.md-export-badge{font-size:11px;letter-spacing:.06em;color:var(--ember,#df5130);border:1px solid color-mix(in srgb,var(--ember,#df5130) 35%,transparent);border-radius:999px;padding:3px 9px;background:color-mix(in srgb,var(--ember,#df5130) 8%,transparent)}.md-export-hint{margin-top:8px;font-size:11.5px;color:var(--muted,#6b6357)}.md-export-toast{position:fixed;left:50%;bottom:28px;transform:translateX(-50%) translateY(12px);background:var(--ink,#26211f);color:#fff;padding:10px 16px;border-radius:10px;font-size:13px;opacity:0;pointer-events:none;transition:.2s;z-index:90;max-width:min(92vw,420px);text-align:center}.md-export-toast.show{opacity:1;transform:translateX(-50%) translateY(0)}html.dark .md-export-btn{background:rgba(255,255,255,.04);color:var(--ink)}</style><script>window.__MD_EXPORT={"slug": "higgsfield-passport-rush-animation", "lang": "zh", "base": "/", "title": "3 天做完 18 个镜头：Higgsfield 动画团队怎样把 AI 放进传统动画流程"};</script><script defer src="/assets/export-md.js?v=4597b5ec"></script><script>(function(){try{
+var rm=matchMedia('(prefers-reduced-motion: reduce)').matches;
+var raceIO=null,animIO=null;
+// 自演动效（2026-07-29）：<figure class="anim"> 滚到加 .in，元素上的 data-draw/grow/fade/rise/
+// wipe/type/flow/sweep 自己演（CSS 在 shell.css）。降噪或无 IO = 直接终态，绝不把内容藏死。
+function wireAnim(){
+  var fs=document.querySelectorAll('.anim:not(.jx-awired)');   // 独立标记，别跟 .jx-race 的 jx-wired 撞
+  if(!fs.length)return;
+  if(rm||!('IntersectionObserver'in window)){
+    fs.forEach(function(f){f.classList.add('jx-awired','in')});return;}
+  if(!animIO)animIO=new IntersectionObserver(function(es){es.forEach(function(e){
+    if(e.isIntersecting){e.target.classList.add('in');animIO.unobserve(e.target)}})},
+    {threshold:.01,rootMargin:'0px 0px -6% 0px'});
+  fs.forEach(function(f){f.classList.add('jx-awired');animIO.observe(f)});
+}
+function wireRaces(){
+  var races=document.querySelectorAll('.jx-race:not(.jx-wired)');
+  if(!races.length||!('IntersectionObserver'in window)||rm)return;
+  if(!raceIO)raceIO=new IntersectionObserver(function(es){es.forEach(function(e){
+    if(e.isIntersecting){e.target.classList.add('jx-run');raceIO.unobserve(e.target)}})},{threshold:.5});
+  races.forEach(function(r){r.classList.add('jx-wired');r.classList.add('jx-armed');raceIO.observe(r)});
+}
+var mmIO=null;
+function buildMmap(){
+  var old=document.querySelector('.jx-mmap');if(old)old.remove();
+  if(mmIO){mmIO.disconnect();mmIO=null}
+  var art=document.querySelector('.article-body');
+  if(!art||!matchMedia('(min-width:900px)').matches)return;
+  var hs=art.querySelectorAll('h2');
+  if(hs.length<3)return;
+  var mm=document.createElement('nav');mm.className='jx-mmap';mm.setAttribute('aria-label','小节导航');
+  var secs=[];
+  hs.forEach(function(h,i){
+    if(!h.id)h.id='jx-s'+(i+1);
+    var sec=h.closest('.sec')||h.parentNode;
+    var len=(sec.textContent||'').length;
+    var w=Math.max(12,Math.min(30,Math.round(len/220)+12));
+    var a=document.createElement('a');a.href='#'+h.id;a.style.setProperty('--w',w+'px');
+    var ex='';var p=sec.querySelector('p');if(p)ex=(p.textContent||'').trim().slice(0,64);
+    a.innerHTML='<i></i><span class="mm-card"><b></b></span>';
+    a.querySelector('b').textContent=(h.textContent||'').trim();
+    if(ex){var em=document.createElement('em');em.textContent=ex+'…';a.querySelector('.mm-card').appendChild(em)}
+    a.addEventListener('click',function(ev){ev.preventDefault();
+      var tgt=h.closest('.sec')||h;  // 对准整节开头，编号圈+眉标一起露出
+      tgt.scrollIntoView({block:'start'});
+      clearTimeout(a._st);a._st=setTimeout(function(){tgt.scrollIntoView({block:'start'})},700);
+      history.replaceState(null,'','#'+h.id);
+    });
+    mm.appendChild(a);secs.push({h:h,a:a});
+  });
+  document.body.appendChild(mm);
+  if('IntersectionObserver'in window){
+    mmIO=new IntersectionObserver(function(es){es.forEach(function(e){
+      if(e.isIntersecting){secs.forEach(function(s){s.a.classList.toggle('cur',s.h===e.target)})}
+    })},{rootMargin:'-8% 0px -72% 0px'});
+    secs.forEach(function(s){mmIO.observe(s.h)});
+  }
+}
+window.__jxRefresh=function(){wireAnim();wireRaces();buildMmap()};
+window.__jxRefresh();
+}catch(e){}})();</script><script>window.BASE="/";window.HOT_QUERIES=["对齐", "AI 编程", "GPT-5.5", "时间线", "融资", "国产模型"];</script><script src="/assets/app.js?v=8a073a3a"></script></body></html>

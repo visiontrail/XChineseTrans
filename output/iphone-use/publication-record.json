@@ -1,0 +1,88 @@
+{
+  "source": "https://x.com/pluvio9yte/status/2108600084640518223",
+  "original_video_post": "https://x.com/zhongerxin/status/2108212235894157732",
+  "format": "standalone",
+  "account": "@LeoGuoLabs",
+  "text_file": "draft-en-20261010.txt",
+  "media": [
+    "original-demo-20261010-1080p.mp4"
+  ],
+  "state": "publicly_verified",
+  "actual_url": "https://x.com/LeoGuoLabs/status/2108751185603953022",
+  "prepared_at": "2026-10-10T01:29:34.065813+00:00",
+  "review_url": "http://172.16.10.59:8876/",
+  "checks": {
+    "duration_seconds": 40.042667,
+    "resolution": "1920x1080",
+    "codecs": [
+      "h264",
+      "aac"
+    ],
+    "complete_decode": "passed",
+    "frame_review": [
+      0,
+      8,
+      16,
+      24,
+      32,
+      40
+    ],
+    "account_verified_in_live_browser": true,
+    "composer_full_text_accepted": true,
+    "composer_video": "Ready",
+    "downloaded_video_browser_playback": {
+      "observed_time_seconds": [
+        0.251193,
+        15.918581
+      ],
+      "readyState": 4,
+      "error": null
+    },
+    "public_page": {
+      "account": "@LeoGuoLabs",
+      "full_text_matches_reviewed_body": true,
+      "github_link_present": true,
+      "format": "standalone",
+      "video_count": 1,
+      "duration_seconds": 40.05,
+      "playback_time_seconds": [
+        14.139138,
+        17.962791
+      ],
+      "error": null
+    }
+  },
+  "review_notes": [
+    "Creator video retains Chinese titles and UI.",
+    "Capabilities verified against current repository, not independently tested.",
+    "No speed comparison benchmark found."
+  ],
+  "review_server": {
+    "port": 8876,
+    "lan_address": "172.16.10.59",
+    "local_http_status": 200,
+    "range_http_status": 206,
+    "remote_device_tested": false
+  },
+  "previous_source": "https://x.com/wlzh/status/2108113769196929071",
+  "english_original_search": {
+    "checked_at": "2026-10-10T01:29:34.065813+00:00",
+    "sources": [
+      "Author X posts and relevant replies",
+      "English-language X video search",
+      "Repository full tree and English README",
+      "Web search"
+    ],
+    "result": "No English edition of this creator video found. English results include a different project by leeguooooo; not selected."
+  },
+  "composer_screenshot": "composer-review-20261010.png",
+  "authorization": {
+    "user_text": "\u786e\u8ba4\u53d1\u9001",
+    "received_at": "2026-10-10T02:47:07.051565+00:00",
+    "scope": "Reviewed English standalone copy and full original-demo-20261010-1080p.mp4 to @LeoGuoLabs"
+  },
+  "submitted_at": "2026-10-10T02:48:03.211497+00:00",
+  "verified_at": "2026-10-10T02:49:27.900547+00:00",
+  "public_verification_file": "public-verification-20261010.json",
+  "public_screenshot": "public-video-playback-20261010.png"
+}

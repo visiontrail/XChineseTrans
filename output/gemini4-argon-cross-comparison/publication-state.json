@@ -1,0 +1,22 @@
+{
+  "status": "published_public_page_verified",
+  "account": "LeoGuoLabs",
+  "format": "standalone",
+  "publicationSubmitted": true,
+  "url": "https://x.com/LeoGuoLabs/status/2105928046918476177",
+  "publishedAt": "2026-10-02T07:49:07.000Z",
+  "approval": "User approved both pending posts on 2026-10-02, with ten minutes between posts.",
+  "bodyFile": "x-post-v1.txt",
+  "imageFile": "gemini4-argon-vs-astra-opus55-v1.png",
+  "altFile": "alt-text-v1.txt",
+  "verification": {
+    "text_matches": true,
+    "image_count": 1,
+    "alt_matches": true,
+    "image_loaded": true,
+    "text_hash_matches_prior_qa": true,
+    "image_hash_matches_prior_qa": true
+  },
+  "screenshot": "published-post-verified-20261002.png",
+  "screenshot_provenance": "Crop and stitch of four unaltered viewport captures at scroll positions 0, 576, 1152, 1534. Unedited originals retained."
+}

@@ -1,0 +1,6 @@
+[
+  {
+    "file": "visuals/27b-memory-v1.png",
+    "alt": "Illustrated chart of raw weights for 27 billion parameters: 54 GB at 16-bit, 27 GB at 8-bit, and 13.5 GB at 4-bit. A desktop and memory diagram show that longer context and parallel requests also need cache space. Quantization overhead and runtime buffers are extra."
+  }
+]

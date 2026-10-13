@@ -1,0 +1,104 @@
+{
+  "source": "https://x.com/MaxForAI/status/2108128680513868018",
+  "official_source": "https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/",
+  "format": "standalone",
+  "account": "@LeoGuoLabs",
+  "state": "publicly_verified",
+  "text_path": "output/artex-ai-attacker-opsec-20261010/post-v1.txt",
+  "text": "An attacker used AI to target South Korean financial institutions—and left their own AI work logs on the public internet.\n\nCrowdStrike says open directories exposed Claude Code session histories, ARTEX configs and memory files, giving researchers a detailed trail of the operation.\n\nThe strangest detail: one session asked for a security researcher résumé that included the results of the same activity. That conversation also contained personal details, though CrowdStrike says they cannot definitively link them to the attacker.\n\nAI can make someone faster at attacking systems. It doesn't give them better judgment about securing their own.\n\nhttps://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/",
+  "media": [
+    {
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/artex-ai-attacker-opsec-20261010/report-excerpt-v1.png",
+      "type": "image",
+      "source": "https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/",
+      "kind": "Fresh genuine Ego Lite browser screenshot cropped to one complete paragraph",
+      "original_path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/artex-ai-attacker-opsec-20261010/report-browser-body-original.png",
+      "crop_px": [
+        14,
+        419,
+        835,
+        638
+      ],
+      "sha256": "80c8d160e8b9cd5db6184713962e61a0be436284ab4f07923350122176dcb2f9",
+      "alt": "Excerpt from CrowdStrike’s October 7, 2026 report. It says exposed directories revealed Claude Code session histories, ARTEX configuration files and Claude memory files associated with a campaign against South Korean financial organizations."
+    }
+  ],
+  "authorization": {
+    "user_message": "发布吧",
+    "scope": "Exact reviewed post-v1.txt plus report-excerpt-v1.png with saved ALT; standalone @LeoGuoLabs",
+    "recorded_at": "2026-10-10T04:04:58.875713+00:00"
+  },
+  "checks": {
+    "live_source_read": true,
+    "original_language_read": true,
+    "source_has_relevant_video": false,
+    "official_report_read_via_web": true,
+    "duplicate_source_search": "No matching local records found.",
+    "official_report_live_browser_read": true,
+    "composer_full_text_accepted": true,
+    "composer_image_processed": true,
+    "account_verified_live": "@LeoGuoLabs",
+    "composer_copy_exact_match": true,
+    "composer_alt_saved": true,
+    "composer_post_button_enabled": true,
+    "composer_link_visible": true,
+    "image_checked_for_clipping": true,
+    "pre_retry_public_profile": "Fresh Ego Lite public profile shows latest post from about one hour earlier (2108755146557567400); no matching newly published ARTEX post visible.",
+    "session_restored_native_ego": true,
+    "pre_retry_duplicate_search": "Authenticated Ego Lite Latest search for from:LeoGuoLabs \"An attacker used AI\" visibly returned No results.",
+    "public_page_reopened": true,
+    "public_account_verified": "@LeoGuoLabs",
+    "public_full_copy_verified": true,
+    "public_format_verified": "standalone",
+    "public_media_count": 1,
+    "public_image_dimensions": [
+      821,
+      219
+    ],
+    "public_image_complete_and_readable": true,
+    "public_alt_exact_match": true,
+    "public_report_link_verified": "https://crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/",
+    "fallback_composer_closed_without_submitting": true
+  },
+  "factual_notes": [
+    "Identity not confirmed by CrowdStrike; claimed age conflicts with birth date in session. Omit name, age, university, location, phone, Telegram.",
+    "Number of affected organizations unconfirmed. Do not assert several major banks or exact victim count.",
+    "Report describes ARTEX plus LLMs; names omitted from public copy because not central.",
+    "Claude Code is a client/workflow, not proof Anthropic Claude powered every operation.",
+    "No need to repeat presidential response or geopolitical attribution."
+  ],
+  "browser_notes": [
+    "X source loaded in authenticated Codex built-in browser; profile link shows @LeoGuoLabs.",
+    "CrowdStrike failed in built-in browser with ERR_CONNECTION_RESET; trying native Ego Lite fallback.",
+    "Official report loaded successfully in native Ego Lite fallback. Saved original viewport capture and complete paragraph crop. Site header overlaps article title; no clipped heading used.",
+    "Ego Lite active X tab displayed login page on publication resume; checking fresh profile navigation before requesting session restoration.",
+    "Fresh Ego Lite navigation confirmed logged-out public profile; opened X login flow for session restoration. No second submission attempted.",
+    "User confirmed login. Native Ego Lite live profile shows @LeoGuoLabs and Edit profile; authenticated timeline/search are stuck loading. Post count is 95 vs prior logged-out 94; checking independent public window before a second submit.",
+    "Built-in browser recovered. Exact approved text, processed image and ALT retained; successful submission returned actual URL. Public permalink reopened and verified. Native fallback draft tab closed without submission."
+  ],
+  "prepared_at": "2026-10-10T03:58:11.965506+00:00",
+  "composer_evidence": [
+    "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/artex-ai-attacker-opsec-20261010/composer-review-v1.png",
+    "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/artex-ai-attacker-opsec-20261010/composer-media-review-v1.png"
+  ],
+  "public_url": "https://x.com/LeoGuoLabs/status/2108781888999768551",
+  "publication_attempts": [
+    {
+      "browser": "Codex built-in browser",
+      "post_button_clicked": true,
+      "outcome": "Composer remained; no success toast or public URL. Profile check stuck on loading.",
+      "recorded_at": "2026-10-10T04:06:28.031607+00:00"
+    },
+    {
+      "browser": "Codex built-in browser",
+      "post_button_clicked": true,
+      "outcome": "Your post was sent toast with real View URL.",
+      "recorded_at": "2026-10-10T04:49:34.584029+00:00"
+    }
+  ],
+  "submitted_at": "2026-10-10T04:49:34.584029+00:00",
+  "verified_at": "2026-10-10T04:50:29.073427+00:00",
+  "public_evidence": [
+    "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/artex-ai-attacker-opsec-20261010/public-post-verified.png"
+  ]
+}

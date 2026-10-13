@@ -1,0 +1,124 @@
+{
+  "source": "https://x.com/huxlab/status/2108398767192121389",
+  "source_video_post": "https://x.com/XFreeze/status/2015067284205916553",
+  "original_event": {
+    "name": "Qatar Economic Forum",
+    "date": "2025-05-20",
+    "primary_publisher": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2025-05-20/musk-on-ai-innovation-and-government-at-qef-video"
+  },
+  "format": "standalone-post",
+  "destination": "@LeoGuoLabs",
+  "state": "publicly_verified",
+  "final_text": "An internet connection can be a classroom, a shopfront, and a way to reach customers far beyond your hometown.\n\nElon Musk argues that getting people online is one of the biggest ways to help them out of poverty: they can learn for free and sell their goods or services to the global market. Starlink aims to bring that access to places where broadband is missing or expensive.\n\nI like the focus on learning and earning. The real value is what you can do with the connection: learn a skill, build a service, or sell what you make.",
+  "media": [
+    {
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/musk-connectivity-poverty/originals/xfreeze-musk-connectivity-1080p.mp4",
+      "duration_seconds": 47.438367,
+      "width": 1080,
+      "height": 1080,
+      "bytes": 4309629,
+      "sha256": "c419b9aa1d37793a8b0fcb3635817bfafb08bd7b907fbc1b350ad807715a7b06",
+      "notes": "Complete downloaded X clip; contains English caption overlay, square framing and cuts. It is an excerpt from a longer interview and is not the untouched Bloomberg master."
+    }
+  ],
+  "checks": {
+    "source_read_in_authenticated_browser": true,
+    "source_playback_observed": {
+      "current_time": 36.808888,
+      "duration": 47.4,
+      "paused": false,
+      "ready_state": 4
+    },
+    "download_ranges_validated": true,
+    "full_decode_no_errors": true,
+    "beginning_middle_end_frames_inspected": true,
+    "composer_text_accepted": true,
+    "upload_ready": true,
+    "prepared_video_playback_observed": {
+      "currentTime": 16.744906,
+      "duration": 47.438367,
+      "error": null,
+      "paused": false,
+      "readyState": 4
+    },
+    "account_seen_in_composer_screenshot": "@LeoGuoLabs",
+    "action_boundary_account": "@LeoGuoLabs observed in live composer screenshot",
+    "public_text_matches_approved_exactly": true,
+    "public_account": "@LeoGuoLabs",
+    "public_format": "standalone-post",
+    "public_video_count": 1,
+    "public_video_playback": {
+      "start": [
+        {
+          "currentTime": 0.062149,
+          "duration": 47.466,
+          "error": null,
+          "paused": false,
+          "readyState": 4
+        }
+      ],
+      "end": [
+        {
+          "currentTime": 17.404744,
+          "duration": 47.466,
+          "error": null,
+          "paused": false,
+          "readyState": 4
+        }
+      ],
+      "earlier": [
+        {
+          "currentTime": 18.888874,
+          "duration": 47.466,
+          "error": null,
+          "paused": false,
+          "readyState": 4
+        }
+      ]
+    }
+  },
+  "review_notes": [
+    "Jan 24, 2026 is the X excerpt publication date, not the interview date.",
+    "90 percent was a 2025 prediction by Musk, not a current measured result; approaching 80 percent was his estimate at that time. Both omitted from post copy.",
+    "No claim of globally unconditional availability or independently proven poverty reduction.",
+    "Official Bloomberg page rendered its interview title and date but player was blank, with no downloadable video asset exposed. The selected source X clip was freshly downloaded unchanged."
+  ],
+  "authorization": {
+    "preparation": "link-only default under AGENTS.md",
+    "publication": {
+      "user_message": "确认发布",
+      "scope": "Reviewed complete English text plus the complete 47-second prepared video, standalone under @LeoGuoLabs",
+      "confirmed_at_utc": "2026-10-09T04:08:17.067580+00:00"
+    }
+  },
+  "published_url": "https://x.com/LeoGuoLabs/status/2108409210258031092",
+  "updated_at_utc": "2026-10-09T04:10:27.348910+00:00",
+  "review_assets": {
+    "draft_screenshot": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/musk-connectivity-poverty/verification/composer-review.jpg",
+    "media_ready_screenshot": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/musk-connectivity-poverty/verification/composer-media-ready.jpg",
+    "video": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/musk-connectivity-poverty/originals/xfreeze-musk-connectivity-1080p.mp4"
+  },
+  "submission_evidence": {
+    "toast": "Your post was sent. You have 1 hour to make any edits.",
+    "post_url_observed_in_home_timeline": "https://x.com/LeoGuoLabs/status/2108409210258031092",
+    "submitted_at_utc": "2026-10-09T04:08:35.405806+00:00"
+  },
+  "public_verification": {
+    "url": "https://x.com/LeoGuoLabs/status/2108409210258031092",
+    "account": "@LeoGuoLabs",
+    "complete_text_matches_approved": true,
+    "format": "standalone-post",
+    "direct_video_count": 1,
+    "video_duration_seconds": 47.466,
+    "observed_progress_seconds": [
+      0.062149,
+      17.404744
+    ],
+    "verified_at_utc": "2026-10-09T04:10:27.348691+00:00",
+    "screenshots": [
+      "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/musk-connectivity-poverty/verification/published-post.jpg",
+      "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/musk-connectivity-poverty/verification/published-video-playing.jpg"
+    ]
+  }
+}

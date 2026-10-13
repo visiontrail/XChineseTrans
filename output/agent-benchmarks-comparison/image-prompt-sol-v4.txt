@@ -1,0 +1,48 @@
+Preserve the attached image's exact restrained visual style: warm ivory #FDFBF7 with delicate evenly distributed natural paper fibers, forest green #1A4A3A, sparse dark gold #80601B, clean Geist/Inter-like modern sans-serif. Preserve its layout, alignment, margins, three section headings, 4/2/2 row grouping, all existing typography, colors, thin rules, paper texture and small LeoGuoLabs signature. No decorative changes, gradients, shadows, new boxes, icons, leaves or winner emphasis.
+
+Use case: text-localization / factual infographic update.
+Edit target: GPT-6 Sol vs Claude Opus 5.5 three-category infographic.
+Only update the following specified factual content; preserve everything else.
+
+1. Replace the dagger footnote exactly:
+"† Fallback enabled: some tasks may be handled by other Claude models."
+
+2. Update DeepSWE v1.1 to the same Artificial Analysis Coding Agents evaluation used in the Astra chart:
+Benchmark: "DeepSWE v1.1"
+Source subtitle: "Artificial Analysis · coding agents"
+GPT-6 Sol score: "69.0%"
+Opus 5.5 score: "68.4%†"
+Remove the old "OpenAI-reported", 68.8%, and the missing Opus dash on this row.
+
+3. Replace the final setup footnote with two readable lines:
+"Max effort does not mean equal compute. Agent setups differ."
+"FrontierCode and DeepSWE use Codex vs Claude Code."
+
+Complete final content for verification:
+Title "GPT-6 Sol vs Claude Opus 5.5"
+Subtitle "8 benchmarks · Published scores at max effort"
+Date "Checked 28 Sep 2026"
+Column headings "Benchmark" | "GPT-6 Sol" | "Opus 5.5"
+
+"01 / Code & software engineering"
+Terminal-Bench 4.0 | Artificial Analysis · pass@1 | 43.9% | 59.6%†
+FrontierCode v1.1 Main | Cognition · weighted score | 49.3% | 54.4%
+CursorBench 4.0 | Cursor · task score | — | 57.8%
+DeepSWE v1.1 | Artificial Analysis · coding agents | 69.0% | 68.4%†
+
+"02 / Computer use & business workflows"
+OSWorld 2.0* | Vendor reports · partial reward | 64.4% | 81.8%†
+AutomationBench 1.0.6 | Zapier · strict completion | 32.0% | 42.5%†
+
+"03 / Knowledge work & science"
+GDPval-AA v2.1 | Artificial Analysis · Elo | 1487 Elo | 1846 Elo†
+Terminal-Bench-Science 0.1 | Artificial Analysis · pass@1 | 30.0% | 59.0%†
+
+Footnotes exactly:
+"— No public score found in checked sources."
+"† Fallback enabled: some tasks may be handled by other Claude models."
+"* OSWorld is not a matched comparison: Sol uses offline v2026.08.08; Opus subset/version is unconfirmed."
+"Max effort does not mean equal compute. Agent setups differ."
+"FrontierCode and DeepSWE use Codex vs Claude Code."
+
+Critical: 8 benchmark rows; exactly one missing value on Sol CursorBench. Exactly SIX daggers, all on Opus scores for Terminal-Bench, DeepSWE, OSWorld, AutomationBench, GDPval-AA and Science. No dagger on FrontierCode or CursorBench. Both Elo units intact. Keep portrait 2:3 and adequate bottom space for five readable footnote lines. Do not change Sol into Astra.

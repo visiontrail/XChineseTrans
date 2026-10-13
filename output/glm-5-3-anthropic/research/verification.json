@@ -1,0 +1,25 @@
+{
+  "article_url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+  "source_post": "https://x.com/dotey/status/2105073744951586841",
+  "author_reply": "https://x.com/dotey/status/2105075298291290276",
+  "author_reply_text": "免费给 GLM 做广告",
+  "captured_on": "2026-09-30",
+  "browser": "Ego Lite, ego-browser task 234",
+  "images": "Authentic browser captures, cropped only. Originals retained in research.",
+  "capture_note": "Page.captureScreenshot with captureBeyondViewport=false avoided blank scrolled screenshots.",
+  "post_sentence_count": 6,
+  "post_characters": 487,
+  "format": "standalone English X post with two screenshots",
+  "publication_status": "published and verified on public status page",
+  "fact_notes": [
+    "ExploitBench success rounded in source: GLM-5.3 50/410, Mythos Preview 56/410.",
+    "Claude models ran with safeguards disabled for capability benchmarks.",
+    "Bypass percentages refer to simulated engagement, not successful real-world attacks.",
+    "The $20.40 example in the article concerns GLM-5.3-Flash, not full GLM-5.3; omitted from concise post."
+  ],
+  "published_url": "https://x.com/LeoGuoLabs/status/2105105712347296140",
+  "published_account": "@LeoGuoLabs",
+  "published_at_display": "9:21 AM · Sep 30, 2026",
+  "verified_body": "all six sentences match approved copy",
+  "verified_media": "two images in approved order with ALT text"
+}

@@ -1,0 +1,29 @@
+{
+  "mode": "built-in image_gen edits",
+  "variants": [
+    {
+      "key": "01-wordmark",
+      "name": "几何连接",
+      "input": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/x-profile-banners-round1/01-wordmark-v1.png",
+      "prompt": "Edit the supplied X profile header into a purely visual banner. Warm ivory #FDFBF7 paper with barely visible natural fibers; forest-green #1A4A3A fine ink artwork, muted green #426454 and sparse dark gold #80601B/#D4AF37 accents. Retain the refined minimal light visual identity, approximately 85-90% light canvas. REMOVE ALL TEXT: the large brand name, the subtitle, every letter, word, number, signature and watermark. Absolutely no typography anywhere. Rebalance as a complete wordless artwork rather than leaving a conspicuous empty title hole. Preserve quiet lower-left space for X avatar overlap. Single ultra-wide 3:1 finished banner, not a mockup or contact sheet. Flat ink on paper, no glow, gradients, shadows, frames, badges or extra logos. Keep the elegant curving trajectories and green/gold nodes as the main motif. Expand their airy asymmetric geometric construction across the center-right 65% of the canvas, with a few long fine arcs reaching leftward. No new icons or subject matter. The lower-left remains calm. The artwork must feel intentional and balanced, abstract engineering geometry, no lettering."
+    },
+    {
+      "key": "02-orbits",
+      "name": "轨道与卫星",
+      "input": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/x-profile-banners-round1/02-orbits-v1.png",
+      "prompt": "Edit the supplied X profile header into a purely visual banner. Warm ivory #FDFBF7 paper with barely visible natural fibers; forest-green #1A4A3A fine ink artwork, muted green #426454 and sparse dark gold #80601B/#D4AF37 accents. Retain the refined minimal light visual identity, approximately 85-90% light canvas. REMOVE ALL TEXT: the large brand name, the subtitle, every letter, word, number, signature and watermark. Absolutely no typography anywhere. Rebalance as a complete wordless artwork rather than leaving a conspicuous empty title hole. Preserve quiet lower-left space for X avatar overlap. Single ultra-wide 3:1 finished banner, not a mockup or contact sheet. Flat ink on paper, no glow, gradients, shadows, frames, badges or extra logos. Preserve the finely drawn satellite in the upper-right and the curved Earth horizon in the lower-right. Preserve the orbital sweeps and subtle gold points. In the area previously occupied by the wordmark, continue a few graceful long orbital ink arcs and small dots so the scene is one unified panorama. Keep ample breathing space. Retain the distinctive satellite and Earth drawing rather than replacing them. No new text or labels."
+    },
+    {
+      "key": "03-signal",
+      "name": "抽象信号",
+      "input": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/x-profile-banners-round1/03-signal-v1.png",
+      "prompt": "Edit the supplied X profile header into a purely visual banner. Warm ivory #FDFBF7 paper with barely visible natural fibers; forest-green #1A4A3A fine ink artwork, muted green #426454 and sparse dark gold #80601B/#D4AF37 accents. Retain the refined minimal light visual identity, approximately 85-90% light canvas. REMOVE ALL TEXT: the large brand name, the subtitle, every letter, word, number, signature and watermark. Absolutely no typography anywhere. Rebalance as a complete wordless artwork rather than leaving a conspicuous empty title hole. Preserve quiet lower-left space for X avatar overlap. Single ultra-wide 3:1 finished banner, not a mockup or contact sheet. Flat ink on paper, no glow, gradients, shadows, frames, badges or extra logos. Preserve the delicate green and gold parallel wave lines. Extend this coherent continuous wave field farther left into the former title area, fading by reduction in line count and finer strokes, not a gradient fill. Let the primary weaving/interference crest occur slightly right of center; spread the fine lines over a broad horizontal span for an intentional wordless composition. Quiet leftmost lower area. No new objects, symbols, text or signatures."
+    },
+    {
+      "key": "04-lab-notebook",
+      "name": "工程手稿",
+      "input": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/x-profile-banners-round1/04-lab-notebook-v1.png",
+      "prompt": "Edit the supplied X profile header into a purely visual banner. Warm ivory #FDFBF7 paper with barely visible natural fibers; forest-green #1A4A3A fine ink artwork, muted green #426454 and sparse dark gold #80601B/#D4AF37 accents. Retain the refined minimal light visual identity, approximately 85-90% light canvas. REMOVE ALL TEXT: the large brand name, the subtitle, every letter, word, number, signature and watermark. Absolutely no typography anywhere. Rebalance as a complete wordless artwork rather than leaving a conspicuous empty title hole. Preserve quiet lower-left space for X avatar overlap. Single ultra-wide 3:1 finished banner, not a mockup or contact sheet. Flat ink on paper, no glow, gradients, shadows, frames, badges or extra logos. Preserve the exploded isometric engineering assembly, waveform, thin construction strokes and gold alignment marker. Recompose the main exploded structure slightly inward toward center-right, creating an elegant cohesive arrangement in the middle/right 65% of the banner with airy construction lines extending into the former lettering area. Maintain fine precise hand-drawn ink quality. No fake annotations, no dimensions, no typography. Left side spacious. No additional unrelated icons."
+    }
+  ]
+}

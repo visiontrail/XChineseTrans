@@ -1,0 +1,12 @@
+Claude initially mistook a car-insurance claim for a skiing accident. The fix was to give it the context it was missing.
+
+Anthropic’s Prompting 101 walks through a Swedish accident form and a handwritten sketch. The useful lessons:
+
+• Explain the form and messy human markings.
+• Read the form first, then cross-check the sketch.
+• Ask it to flag unclear evidence instead of guessing.
+• Define the output your application actually needs.
+
+It’s a 2025 session, so check model-specific advice: newer Claude models no longer support assistant-response prefill.
+
+If you’re building document workflows, this is a useful reminder: turn the judgment you take for granted into clear instructions, then test them on difficult cases.

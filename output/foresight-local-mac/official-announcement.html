@@ -1,0 +1,887 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+  	<head>
+        <meta charset="utf-8" />
+        
+        <title>
+            
+            Bring multimodal semantic search to the edge with EmbeddingGemma 2
+            
+            
+            - Google Developers Blog
+            
+        </title>
+        <meta property="og:title" content="Bring multimodal semantic search to the edge with EmbeddingGemma 2- Google Developers Blog" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        
+	<meta name="description" content="Discover EmbeddingGemma 2, an open-weight, 740M multimodal model designed for private, ultra-low-latency on-device retrieval and decision-making across text, vision, and audio using MediaPipe and LiteRT." />
+  <meta content="summary_large_image" name="twitter:card"/>
+  <meta content="Google for Developers Blog - News about Web, Mobile, AI and Cloud" property="twitter:title"/>
+  <meta property="og:title" content="Bring multimodal semantic search to the edge with EmbeddingGemma 2" />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [{
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Google for Developers Blog",
+      "item": "https://developers.googleblog.com/"
+    },{
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Bring multimodal semantic search to the edge with EmbeddingGemma 2",
+      "item": "https://developers.googleblog.com/en/google-ai-edge-with-embeddinggemma-2/"
+    }]
+  }
+  </script>
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "Bring multimodal semantic search to the edge with EmbeddingGemma 2",
+      "description": "EmbeddingGemma 2 is a new 740M open-weight multimodal model that maps text, images, video, and audio into a unified vector space for privacy-first, on-device retrieval. Developers can easily integrate these capabilities cross-platform using MediaPipe Tasks or optimize fine-grained performance across CPU, GPU, and NPU accelerators with LiteRT. The model enables ultra-low-latency local solutions like search-as-you-type media retrieval, keyframe video moments finding, and zero-shot intent routing.",
+      "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_amiggaamigg.2e16d0ba.fill-800x400.jpg",
+      "datePublished": "2026-10-06",
+      "author": [
+        
+        
+          { "@type": "Person", "name": "Google AI Edge Team", "url": "/en/search/?author=Google+AI+Edge+Team" },
+        
+          { "@type": "Person", "name": "Android ML Team", "url": "/en/search/?author=Android+ML+Team" }
+        
+        
+      ]
+    }
+  </script>
+  
+  <meta content="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_amiggaamig.2e16d0ba.fill-1200x600.jpg" property="og:image"/>
+  
+
+
+        
+        
+
+        <!-- Google Tag Manager -->
+        <script type="text/javascript" nonce="H9XAZFzsnk2YLkbWltHzQw==" src="https://storage.googleapis.com/gweb-developer-goog-blog-cms-assets/site/20260817-205152/js/analytics.js"></script>
+        <!-- End Google Tag Manager -->
+
+        
+        <link href="//www.gstatic.com/glue/v27_1/glue.min.css" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="https://storage.googleapis.com/gweb-developer-goog-blog-cms-assets/site/20260817-205152/css/dgc_blog.css">
+        <link rel="icon" href="https://storage.googleapis.com/gweb-developer-goog-blog-assets/meta/favicon.ico" type="image/x-icon">
+        <link rel="apple-touch-icon" href="https://storage.googleapis.com/gweb-developer-goog-blog-assets/meta/apple-touch-icon.png">
+
+        
+				<link rel="preconnect" href="https://fonts.googleapis.com">
+				<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+				<link rel="preload" href="https://fonts.googleapis.com/css2?family=Product+Sans&family=Google+Sans+Display:ital@0;1&family=Google+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&family=Google+Sans+Text:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap" as="style">
+				<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Product+Sans&family=Google+Sans+Display:ital@0;1&family=Google+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&family=Google+Sans+Text:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap">
+        <link href="https://fonts.googleapis.com/css2?family=Google+Sans+Code:ital,wght,MONO@0,300..800,1;1,300..800,1&amp;family=Google+Sans+Flex:opsz,wght@6..144,1..1000&amp;display=swap" rel="stylesheet" data-page-link="">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap">
+
+        
+        <link href="https://www.gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.css" rel="stylesheet">
+
+        
+  <link
+    rel="stylesheet"
+    type="text/css"
+    href="https://storage.googleapis.com/gweb-developer-goog-blog-cms-assets/site/20260817-205152/css/blog_detail.css"
+  />
+  <link type="text/css" href="https://storage.googleapis.com/gweb-developer-goog-blog-cms-assets/site/20260817-205152/css/prism.css" rel="stylesheet" />
+
+    </head>
+
+    <body id="main-content" class="glue-body ">
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WVTLDSL "
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+
+        
+
+				
+        
+
+<!-- HTML -->
+<header class="dgc-header">
+  <div class="dgc-header-inner">
+    <button class="hamburger" aria-haspopup="true" aria-expanded="false" aria-label="Open Menu">
+      <svg role="presentation" aria-hidden="true" class="glue-icon">
+        <use href="/glue-icon/#menu"></use>
+      </svg>
+    </button>
+    <div class="product-name-wrapper">
+      <a href="https://developers.google.com/" class="site-logo-link" data-label="Site logo">
+        <img src="https://storage.googleapis.com/gweb-developer-goog-blog-cms-assets/site/20260817-205152/images/g-dev.svg" class="site-logo" alt="Google for Developers">
+      </a>
+    </div>
+    <div class="desktop-nav-wrapper">
+      <div class="upper-tabs-wrapper">
+        <div class="upper-tabs">
+          <nav class="tabs" aria-label="Upper Tabs">
+            <div class="tab">
+              <a
+                href="//developers.google.com/community"
+                class="top-nav-title">
+                Community/Events
+              </a>
+            </div>
+            <div class="tab">
+              <a
+                href="//developers.google.com/solutions/catalog"
+                class="top-nav-title">
+                Learn
+              </a>
+            </div>
+            <div class="tab">
+              <a
+                href="//developers.googleblog.com"
+                class="top-nav-title">
+                Blog
+              </a>
+            </div>
+            <div class="tab">
+              <a
+                href="https://www.youtube.com/user/GoogleDevelopers"
+                class="top-nav-title">
+                YouTube
+              </a>
+            </div>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="dgc-header-search">
+    <div class="search-wrapper glue-page">
+      <div class="glue-grid">
+        <form id="search-form"  action="/en/search/" method="get" class="search-content glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-9-md glue-grid__col--span-7-lg">
+          <div class="search-input-wrapper">
+            <svg role="presentation" aria-hidden="true" class="glue-icon search-icon">
+              <use href="/glue-icon/#search"></use>
+            </svg>
+            <input
+              type="text"
+              name="query"
+              
+              placeholder="Search all articles..."
+              aria-label="Search"
+              class="search-input-field"
+            />
+          </div>
+          <button class="glue-button glue-button--high-emphasis">
+            Search
+          </button>
+        </form>
+      </div>
+    </div>
+  </div>
+</header>
+
+<div class="mobile-drawer" top-level-nav>
+  <nav class="nav-content" aria-label="Side menu">
+    <div class="mobile-header">
+      <button class="nav-close-btn nav-btn" aria-label="Close navigation">
+        <svg role="presentation" aria-hidden="true" class="glue-icon">
+          <use href="/glue-icon/#close"></use>
+        </svg>
+      </button>
+      <button class="nav-back-btn nav-btn hidden" aria-label="Back to Menu">
+        <svg role="presentation" aria-hidden="true" class="glue-icon">
+          <use href="/glue-icon/#arrow-back"></use>
+        </svg>
+      </button>
+      <div class="product-name-wrapper">
+        <a href="https://developers.google.com/" class="site-logo-link" data-label="Site logo">
+          <img src="https://storage.googleapis.com/gweb-developer-goog-blog-cms-assets/site/20260817-205152/images/g-dev.svg" class="site-logo" alt="Google for Developers">
+        </a>
+      </div>
+    </div>
+    <div class="nav-wrapper">
+      <div class="mobile-nav-top">
+        <ul class="nav-list">
+          <li class="nav-item">
+            <a href="//developers.google.com/community" class="nav-title" data-label="Tab: Community/Events">
+              <span class="nav-text" tooltip="">
+                Community/Events
+             </span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a href="//developers.google.com/solutions/catalog" class="nav-title" data-label="Tab: Learn">
+              <span class="nav-text" tooltip="">
+                Learn
+             </span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a href="//developers.googleblog.com" class="nav-title" data-label="Tab: Blog">
+              <span class="nav-text" tooltip="">
+                Blog
+             </span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a href="https://www.youtube.com/user/GoogleDevelopers" class="nav-title" data-label="Tab: YouTube">
+              <span class="nav-text" tooltip="">
+                YouTube
+             </span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</div>
+
+<div class="backdrop"></div>
+
+        
+  <div class="blog-detail-container">
+
+    
+      <section class="tags-container glue-page glue-spacer-5-top">
+        <div class="glue-eyebrow"></div>
+      </section>
+    
+
+    <section class="heading-container glue-page  glue-spacer-1-top">
+      <h1 class="glue-headline glue-headline--headline-1">Bring multimodal semantic search to the edge with EmbeddingGemma 2</h1>
+    </section>
+
+    <section class="summary-container glue-page glue-spacer-4-top">
+      <div class="date-time">
+        <div class="published-date glue-font-weight-medium">OCT. 6, 2026</div>
+      </div>
+    </section>
+
+    <section class="glue-page glue-grid glue-spacer-1-top">
+
+      <section class="author-container glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-10-md">
+      
+        
+          <div class="author-obj">
+            <a class="glue-font-weight-medium" href="/en/search/?author=Google+AI+Edge+Team">Google AI Edge Team</a>
+            
+            
+          </div>
+        
+          <div class="author-obj">
+            <a class="glue-font-weight-medium" href="/en/search/?author=Android+ML+Team">Android ML Team</a>
+            
+            
+          </div>
+        
+
+      
+      </section>
+      <section class="social-container glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-2-md">
+        <button id="social-button" class="glue-button glue-button--low-emphasis glue-button--icon" aria-haspopup="true" aria-expanded="false">
+          <svg role="presentation" aria-hidden="true" class="glue-icon">
+            <use href="/glue-icon/#share"></use>
+          </svg>
+          <span>Share</span>
+        </button>
+        <ul id="social-menu" class="glue-elevation-level-1" role="menu" aria-labelledby="social-button">
+          <li>
+            <a href="https://www.facebook.com/sharer/sharer.php?u={url}"
+                title="Share on Facebook" target="_blank" rel="noopener">
+              <svg role="presentation" aria-hidden="true"
+                  class="glue-icon glue-icon--social glue-icon--32px">
+                <use href="/glue-icon/#post-facebook"></use>
+              </svg>
+              <span>Facebook</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://twitter.com/intent/tweet?text={url}"
+                title="Share on Twitter" target="_blank" rel="noopener">
+              <svg role="presentation" aria-hidden="true"
+                  class="glue-icon glue-icon--social glue-icon--32px">
+                <use href="/glue-icon/#twitter-x"></use>
+              </svg>
+              <span>Twitter</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.linkedin.com/shareArticle?url={url}&amp;mini=true" title="Share on LinkedIn" target="_blank" rel="noopener">
+              <svg role="presentation" aria-hidden="true"
+                  class="glue-icon glue-icon--social glue-icon--32px">
+                <use href="/glue-icon/#post-linkedin"></use>
+              </svg>
+              <span>LinkedIn</span>
+            </a>
+          </li>
+          <li>
+            <a href="mailto:name@example.com?subject=Check%20out%20this%20site&body=Check%20out%20{url}" title="Send via Email">
+              <svg role="presentation" aria-hidden="true"
+                  class="glue-icon glue-icon--social glue-icon--32px">
+                <use href="/glue-icon/#email"></use>
+              </svg>
+              <span>Mail</span>
+            </a>
+          </li>
+          <li>
+            <a href="#" title="Get shareable link" data-link="" data-copy-text="Copy Link" data-copied-text="Copied!">
+              <svg role="presentation" aria-hidden="true"
+                  class="glue-icon glue-icon--social glue-icon--32px">
+                <use href="/glue-icon/#link"></use>
+              </svg>
+              <span></span>
+            </a>
+          </li>
+        </ul>
+      </section>
+    </section>
+
+    
+    <section class="blocks-container glue-page glue-spacer-3-top">
+      <div class="block">
+          
+
+<img
+    class="banner-image"
+    src="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/sep2026_banner.original.png"
+    alt="sep2026_banner"
+/>  <div class="inner-block-content rich-content">
+    <p data-block-key="sm9m8">Today, Google DeepMind launched <b>EmbeddingGemma 2</b>, a best-in-class for its size, open-weight, multimodal embedding model that natively maps text, images, video frames, and audio into a single, unified vector space. For developers building local search and media retrieval experiences, it reduces the latency and memory overhead of chaining separate image captioning, speech-to-text, and text-embedding models. Designed specifically for local, privacy-first applications, EmbeddingGemma 2 covers text, vision, and audio modalities in a compact 740M parameter footprint, offering modular encoders that can run on as little as ~191MB active RAM for text-only weights and ~567MB for the full multimodal model on a Google Pixel 11 Pro. Most notably, EmbeddingGemma 2 can act as an ultra-low-latency on-device decision engine. Without requiring any training data or fine-tuning, it matches user inputs directly against classification labels and descriptions, delivering instant, zero-shot intent routing in a matter of milliseconds. For an overview of the model architecture and evals including multimodal embedding capabilities, check out the <a href="https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2">Google DeepMind blog</a>.</p><p data-block-key="4o8pv">In this post, we’ll share how you can experience the power of EmbeddingGemma 2 right away through <a href="https://developers.google.com/edge">Google AI Edge’s</a> interactive showcases, <a href="https://developers.google.com/edge/gallery">Google AI Edge Gallery</a> on mobile and <a href="https://developers.google.com/edge/foresight">Google AI Edge Foresight</a> on Mac, and how you can leverage the model to build your own private, on-device semantic search, visual keyframe retrieval, and condition-trigger workflows. In the coming weeks, we will also make this model available as a service on Android, accessible through <a href="https://developers.google.com/ml-kit/genai">ML Kit</a>, including using NPU acceleration to further optimize performance across a broad range of devices.</p><h2 data-block-key="z6w34" id="instant-media-search-and-video-moments-finder-in-google-ai-edge-gallery"><b>Instant Media Search and Video Moments Finder in Google AI Edge Gallery</b></h2><p data-block-key="8fa70"><a href="https://developers.google.com/edge/gallery">Google AI Edge Gallery</a> is a cross-platform showcase application designed to allow users and developers to experience and evaluate on-device AI models and their capabilities in practical settings. Today, we are adding two interactive showcases powered by EmbeddingGemma 2 to the Google AI Edge Gallery app: <b>Instant Media Search</b> and <b>Video Moments Finder</b>.</p><p data-block-key="62p07"><b>Instant Media Search</b> allows users to find specific images or videos in their local media using natural language or example images. By converting both input query and the media into on-device embedding vectors - with the latter stored in a local SQLite database - the system retrieves relevant content by returning those with the largest cosine similarity. This enables an instant, interactive search experience as the user types.</p>
+</div>   
+
+<div class="inner-block-content video-block">
+    
+        <video  autoplay="" loop="" muted="" playsinline="" poster="https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/wagtailvideo-zrwhc_ku_thumb.jpg">
+<source src='https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/InstantMediaSearch.mp4' type='video/mp4'>
+<p>Sorry, your browser doesn't support playback for this video</p>
+
+</video>
+    
+    
+        
+            <div class="video-description">Search-as-you-type and image-to-image retrieval</div>
+        
+    
+</div>  <div class="inner-block-content rich-content">
+    <ul><li data-block-key="sm9m8"><b>On-device image embedding calculation and fast multimodal retrieval:</b> Whether you are starting with the sample image set provided by the app or testing instant search on your own media, you can experience how quickly EmbeddingGemma 2 executes embedding computations locally on your phone, no internet connection required.</li><li data-block-key="3sj61"><b>Multimodal retrieval and similarity matching:</b> Because query token embedding and cosine similarity ranking execute quickly on device using MediaPipe <a href="https://developers.google.com/edge/mediapipe/solutions/retrieval/universal_embedder">UniversalEmbedder</a> and <a href="https://developers.google.com/edge/mediapipe/solutions/retrieval/semantic_retriever">SemanticRetriever</a>, search results update live on every keystroke. As soon as you type<i> &quot;Katze&quot;</i> (<i>&quot;Cat&quot;</i> in German), the grid immediately displays all feline photos in your collection; continuing to type<i> &quot;Katze schläft auf Tastatur&quot;</i> (<i>&quot;Cat sleeping on keyboard&quot;</i> in German) dynamically re-ranks and brings the specific photo you have in mind to the top in real time. Besides text queries in multiple languages, users can also select any image from their phone or use their live camera stream to retrieve visually and semantically related photos.</li></ul><p data-block-key="dl04r"></p><p data-block-key="3342h"><b>Video Moments Finder</b> demonstrates another example of how EmbeddingGemma 2&#x27;s cross-modal representations can be applied, enabling users to locate specific visual moments across local video recordings without transcribing audio or generating intermediate text captions.</p>
+</div>   
+
+<div class="inner-block-content video-block">
+    
+        <video  autoplay="" loop="" muted="" playsinline="" poster="https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/wagtailvideo-6l24p1cx_thumb.jpg">
+<source src='https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/swing_the_bat.mp4' type='video/mp4'>
+<p>Sorry, your browser doesn't support playback for this video</p>
+
+</video>
+    
+    
+        
+            <div class="video-description">Search local video files for specific moments</div>
+        
+    
+</div>  <div class="inner-block-content rich-content">
+    <ul><li data-block-key="sm9m8"><b>On-device video keyframe indexing and natural language search:</b> After users select a local video (such as a family video or sports reel), the on-device engine indexes vision with audio chunks and generates embeddings for them. When users enter descriptive queries, such as <i>&quot;kids laughing&quot;</i>, <i>&quot;dog catching a frisbee&quot;</i>, or <i>&quot;person blowing out birthday candles,&quot;</i> the engine computes the prompt embedding vector, compares it against the video frame embedding, and instantly highlights the exact timestamps where matching moments occur.</li></ul><p data-block-key="2nqmt"></p><p data-block-key="3i48t">Download the latest version of <a href="https://developers.google.com/edge/gallery">Google AI Edge Gallery app</a> from <a href="https://play.google.com/store/apps/details?id=com.google.ai.edge.gallery">Google Play Store</a> or <a href="https://apps.apple.com/us/app/google-ai-edge-gallery/id6749645337?itscg=30200&amp;itsct=apps_box_badge&amp;mttnsubad=6749645337">Apple App Store</a> to try these new demos. Check-out the <a href="https://github.com/google-ai-edge/gallery">Github repo</a> to learn how it’s implemented and start building your own experiences using EmbeddingGemma 2.</p><h2 data-block-key="wh861" id="productivity-boost-and-context-retrieval-in-google-ai-edge-foresight-on-mac"><b>Productivity boost and context retrieval in Google AI Edge Foresight on Mac</b></h2><p data-block-key="460oe">We are excited to announce the launch of <a href="https://developers.google.com/edge/foresight">Google AI Edge Foresight</a> for Mac, an experimental app that brings a context-aware meeting companion directly to your device. Powered by fully local AI processing, Foresight seamlessly assists with note-taking, indexing, and recalling your conversation transcripts and private files. By integrating directly with your system audio and microphone, it works out-of-the-box with any meeting platform, even completely offline.</p>
+</div>   
+
+<div class="inner-block-content video-block">
+    
+        <video  autoplay="" loop="" muted="" playsinline="" poster="https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/wagtailvideo-zl22vf_m_thumb.jpg">
+<source src='https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/enhance-note.mp4' type='video/mp4'>
+<p>Sorry, your browser doesn't support playback for this video</p>
+
+</video>
+    
+    
+        
+            <div class="video-description">Automatic enhancement of shorthand notes</div>
+        
+    
+</div>   
+
+<div class="inner-block-content video-block">
+    
+        <video  autoplay="" loop="" muted="" playsinline="" poster="https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/wagtailvideo-b8x_05ba_thumb.jpg">
+<source src='https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/live-assist.mp4' type='video/mp4'>
+<p>Sorry, your browser doesn't support playback for this video</p>
+
+</video>
+    
+    
+        
+            <div class="video-description">Questions detected and answered live by AI</div>
+        
+    
+</div>  <div class="inner-block-content rich-content">
+    <p data-block-key="v0813">Powered by EmbeddingGemma 2 and Gemma 4 models, Foresight delivers:</p><p data-block-key="11o1n"></p><ul><li data-block-key="5vei6"><b>Enhanced Note-taking:</b> Enriches manual shorthand notes with details retrieved in real-time from your current meeting conversation.</li><li data-block-key="d99mj"><b>Cross-Modal Retrieval:</b> Easily find different types of media (images, documents, transcripts, and notes) using natural language.</li><li data-block-key="1nsga"><b>On-device Benefits:</b> Your sensitive information remains secure, along with uninterrupted productivity regardless of your network connection, and with no cloud subscription costs.</li></ul><p data-block-key="8smib"></p><p data-block-key="fkc8f">By mapping text, audio, and visual data into a single vector space, Foresight runs local, secure searches across your personal knowledge library. The details you need are always at your fingertips, whether you are answering live questions mid-meeting or drafting thorough notes, while your sensitive data never leaves your device.</p><p data-block-key="86rpr"><a href="https://developers.google.com/edge/foresight">Download</a> the Google AI Edge Foresight Mac app today, and bring an intelligent, local companion to all your meetings.</p><h2 data-block-key="b54qf" id="build-end-to-end-search-with-ml-kit-and-mediapipe-tasks"><b>Build end-to-end search with ML Kit and MediaPipe Tasks</b></h2><p data-block-key="cvipf"><b>Building For Android with ML Kit</b></p><p data-block-key="alr1d">For developers building for the Android ecosystem, EmbeddingGemma 2 is a lightweight, task-specific model perfectly suited for on-device execution. We are bringing these unified search capabilities to ML Kit in the coming weeks, providing a standardized, platform-integrated path for production Android apps in the future. By integrating with ML Kit developers can get production-grade quality for EmbeddingGemma out of the box without having to manage the model or worrying about APK bloat. ML Kit will feature blazing fast performance through NPU acceleration (when available) and automatic model updates.</p><p data-block-key="fm53a"><b>Building For X-Platform with MediaPipe Tasks</b></p><p data-block-key="bus5r">Integrating local search features, similar to those in Google AI Edge Gallery and Foresight above, usually requires developers to handle low-level media pre-processing for the data to be fed into the embedding model. To simplify this, MediaPipe Tasks is adding support for EmbeddingGemma 2 to the existing Embedder and Semantic Retriever; the new interface to our current RAG SDK.</p><p data-block-key="6urrl">Whether you are targeting iOS, macOS, Windows, Linux or Web, MediaPipe Tasks provide a unified developer experience to write once and deploy across all platforms. Instead of developers manually managing pre-processing and data transformations, the Embedder and Semantic Retriever Tasks provide a turnkey solution that completely abstracts these steps.</p><p data-block-key="101r3"></p><ul><li data-block-key="5sf7d"><a href="https://developers.google.com/edge/mediapipe/solutions/retrieval/universal_embedder"><b>MediaPipe Universal Embedder Task</b></a><b>:</b> Automatically handles image resizing, tensor normalization, and multimodal tokenization. Pass raw images or text strings directly to receive 768-dimensional (or truncated 128d–512d) normalized vectors with zero boilerplate.</li><li data-block-key="a3joj"><a href="https://developers.google.com/edge/mediapipe/solutions/retrieval/semantic_retriever"><b>MediaPipe Semantic Retriever Task</b></a><b>:</b> An edge-optimized embedded vector search engine indexes embeddings on-device and runs fast Approximate Nearest Neighbour (ANN) searches, returning ranked matches in single-digit milliseconds.</li></ul><p data-block-key="dqpbc"></p><p data-block-key="f28cl">EmbeddingGemma 2 can also be used as a <b>multimodal, real-time decision engine</b> with the <a href="https://developers.google.com/edge/mediapipe/solutions/decision/decision_maker"><b>MediaPipe Decision Task</b></a>. This allows developers to effortlessly classify image, text or audio inputs without the need for fine-tuning and make instant decisions on-device, enabling use cases like routing or action prediction. The example below shows the MediaPipe Decision task running with less than 100ms response time to evaluate 500 options each turn in the chess game, showcasing the efficiency of EmbeddingGemma 2 as the decision engine fully on-device.</p>
+</div>   
+
+<div class="inner-block-content video-block">
+    
+        <video  autoplay="" loop="" muted="" playsinline="" poster="https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/wagtailvideo-87bksvjb_thumb.jpg">
+<source src='https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/EG2_Chess_with_MP_Decision.mp4' type='video/mp4'>
+<p>Sorry, your browser doesn't support playback for this video</p>
+
+</video>
+    
+    
+        
+            <div class="video-description">EmbeddingGemma 2 powers low-latency MediaPipe Decision task on-device</div>
+        
+    
+</div>  <div class="inner-block-content rich-content">
+    <h2 data-block-key="zrxw0" id="building-cross-platform-apps-using-embeddinggemma-2-with-litert"><b>Building cross-platform apps using EmbeddingGemma 2 with LiteRT</b></h2><p data-block-key="85h91">While MediaPipe Tasks offers turnkey simplicity, cross-platform applications requiring fine-grained control over processing and acceleration can be built directly on <a href="https://developers.google.com/edge/litert"><b>LiteRT</b></a><b>, the proven engine</b> powering ML Kit, MediaPipe Tasks, Google AI Edge Gallery, and Foresight. Powered by <a href="https://developers.googleblog.com/litert-the-universal-framework-for-on-device-ai/">unified acceleration</a> across CPUs, GPUs, and NPUs, deployment is greatly simplified with exceptional portability: <b>a single</b> <b><code>.litertlm</code></b><b> file runs out of the box on both CPU and GPU</b> across all supported edge platforms.<br/><br/>On Android, ML Kit APIs (coming soon) leverage LiteRT to provide optimized implementation for the platform, giving you both performance and simplicity without having to worry about model lifecycle management.</p><p data-block-key="6cur6">To provide the best inference speed for EmbeddingGemma 2, we implemented targeted optimizations for compute-intensive workloads like vision encoding. This unlocks highly responsive, real-time AI experiences, as “search-as-you-type” in the Google AI Edge Gallery app, with visual embeddings taking as little as 37.3 ms (26.9 images per sec) on a MacBook M5 Pro GPU. See table for additional measurements.</p>
+</div>   
+
+
+    
+    <div class="inner-block-content">
+        <div class="image-wrapper">
+            
+                <img
+                    class="regular-image"
+                    src="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/AI_Edge_EGv2_Blog_3.original.jpg"
+                    alt="AI Edge EGv2 Blog (3)"
+                />
+            
+            
+                
+                    <div class="regular-image-description">
+                        Table: Per image EmbeddingGemma 2 vision latency across CPU, GPU and NPU for a representative set of devices. Latency column specifies the vision embedding latency, evaluated with a maximum budget of 70 vision tokens per image.
+                    </div>
+                
+            
+        </div>
+    </div>
+  <div class="inner-block-content rich-content">
+    <h2 data-block-key="41fbi" id="architectural-optimizations-under-the-hood"><b>Architectural optimizations under the hood</b></h2><p data-block-key="8avg7">Achieving high-performance execution for EmbeddingGemma 2 on memory-constrained edge devices is enabled by the following optimizations:</p><p data-block-key="6bcor"></p><ul><li data-block-key="6ktec"><b>Modularity across modalities:</b> Load only the encoders you need (e.g., Text + Vision for photo and video search, or dynamically activate the audio encoder when voice memos are added) to maximize edge efficiency and manage system memory pressure.</li><li data-block-key="elnli"><b>Quantization-Aware Training (QAT):</b> Compresses model weights to <b>INT4</b> and <b>INT8</b>, bringing multimodal vector search within reach of mid-range consumer hardware.</li><li data-block-key="1jros"><b>Adaptive input and output scaling</b>: Given the text and image input size, we dynamically load the optimal computational graph at runtime, consistently supported across all CPU, GPU, and NPU backends. This design accommodates variable text length without wasted compute while empowering developers to control vision token budgets for the ideal balance between latency and precision. For output, built-in <a href="https://arxiv.org/abs/2205.13147">Matryoshka Representation Learning</a> (MRL) slicing allows on-the-fly dimension truncation, cutting local storage and index footprints by up to 8x.</li></ul><p data-block-key="81ads"></p><p data-block-key="5t69m">LiteRT delivers robust, cross-platform performance across a <b>broad spectrum of edge devices</b> and<b> web (WASM)</b>. For a complete list of supported hardware platforms and the latest performance benchmarks, see our Hugging Face <a href="https://huggingface.co/litert-community/embeddinggemma-2-740m-litert-lm">model card</a>. You can try the <a href="https://github.com/google-ai-edge/litert-samples/tree/main/benchmark/developer_device_platform">LiteRT benchmark</a> tool with more physical devices on Google Cloud or check out our<a href="https://google-ai-edge.github.io/LiteRT-LM/web_demos/embedding_search/index.html"> zero-setup web demo</a> for an instant, browser-based playground.</p><h2 data-block-key="ett0x" id="get-started-today"><b>Get started today</b></h2><p data-block-key="b7q67">EmbeddingGemma 2 and Google AI Edge provide the building blocks to bring fast, private, and offline multimodal retrieval directly into your applications. Whether you’re experimenting with instant image search, visual keyframe retrieval, or ambient condition triggers, all the tools you need are available today.</p><p data-block-key="1si91"></p><ul><li data-block-key="5rtie"><b>Experience the EmbeddingGemma 2 demos</b>: Try <i>Instant Media Search</i> and <i>Video Moments Finder</i> on your own device with the <a href="https://developers.google.com/edge/gallery">Google AI Edge Gallery App</a> on <a href="https://play.google.com/store/apps/details?id=com.google.ai.edge.gallery">Android</a> and <a href="https://apps.apple.com/us/app/google-ai-edge-gallery/id6749645337?itscg=30200&amp;itsct=apps_box_badge&amp;mttnsubad=6749645337">iOS</a>, and see personal knowledge base retrieval in action with <a href="https://developers.google.com/edge/foresight">AI Edge Foresight</a>.</li><li data-block-key="355l2"><b>Benchmark EmbeddingGemma 2:</b> Benchmark and develop features with EmbeddingGemma 2 across over 200 different real physical devices in Google Cloud’s <a href="https://cloud.google.com/products/developer-device-platform?e=48754805">Developer Device Platform</a>. Get started with our interactive <a href="https://github.com/google-ai-edge/litert-samples/tree/main/benchmark/developer_device_platform">Google Colab and guide</a> on Github.</li><li data-block-key="6btdq"><b>Deploy EmbeddingGemma 2</b>: Download ready-to-run, pre-quantized <b><code>.litertlm</code></b> bundles directly from the <a href="https://huggingface.co/litert-community">Hugging Face LiteRT Community</a>.</li><li data-block-key="8tvhq"><b>Start building</b>: Explore <a href="https://developers.google.com/edge/mediapipe/solutions/tasks">MediaPipe Tasks</a> for turnkey integrations or follow the <a href="https://developers.google.com/edge/litert-lm">LiteRT-LM developer guide</a> for more custom implementations. Explore the reference implementations in the <a href="https://github.com/google-ai-edge/gallery">Google AI Edge Gallery app</a>.</li></ul><p data-block-key="55cn4"></p><h3 data-block-key="hrjfq" id="acknowledgements"><b>Acknowledgements</b></h3><p data-block-key="9im7e"><i><sup>We&#x27;d like to extend a special thanks to our</sup></i> <b><i><sup>significant contributors</sup></i></b><i><sup> for their work on this project:</sup></i></p><p data-block-key="97fpn"><i><sup>Abhishek Jatram, Aditya Srivastava, Akshat Sharma, Alexander Kanaukou, Alice Zheng, Ami Kubota, Ander Dobo, Andrew Zhang, Brad Lassey, Chanchal Raj, Chandramouli Amarnath, Charlie Xu, Chenchen Tang, Chintan Parikh, Chirag Gupta, Cormac Brick, David Chou, Debapriya Maji, Denis Daletski, Fengwu Yao, Florian Kübler, Geonsun Lee, Gregory Karpiak, Henrique Schechter Vera, Himangshu Roy, Hriday Chhabria, Ian Ballantyne, Ivan Llanos, Jae Yoo, Jenn Lee, Jianing Wei, Jing Jin, Jingjiang Li, Jingtao Zhou, Jingxiao Zheng, Juhyun Lee, Julius Kammerl, Karthik Thirumalai, Kat Black, Kristen Quan, Kristen Wright, Lu Wang, Lutz Justen, Malini PV, Marissa Ikonomidis, Matthew Chan, Matthew Soulanille, Matthias Grundmann, Mogan Shieh, Na Li, Naina Singla, Olivier Lacombe, Priya Patel, Qidong Zhao, Queenie Zhang, Renjie Wu, Rishika Sinha, Rishubh Khurana, Ronald Wotzlaw, Sachin Kotwani, Sahil Dua, Sandeep Patil, Sebastian Russo, Sebastian Schmidt, Shengyi Lin, Shuangfeng Li, Somdatta Banerjee, Steven Toribio, Suril Shah, Sylvain Vignaud, Tenghui Zhu, Vinod Mamillapalli, Vladimir Kirilyuk, Wai Hon Law, Weiyi Wang, Xiaoming Hu, Xinan Cheng, Xu Chen, Yi-Chun Kuo, Yishuang Pang, Yu-hui Chen.</sup></i></p>
+</div> 
+      </div>
+    </section>
+    
+
+    <section class="navigation-container glue-page glue-spacer-6-top">
+      <div class="posted-in-section">
+        <div class="posted-in-section__heading">
+          <span class="glue-caption">
+            posted in:
+          </span>
+        </div>
+        <div class="posted-in-section__tags">
+          <ul>
+              
+                  <li>
+                      <a href="/en/search/?technology_categories=Mobile" class="glue-caption">Mobile</a>
+                  </li>
+              
+                  <li>
+                      <a href="/en/search/?technology_categories=Web" class="glue-caption">Web</a>
+                  </li>
+              
+                  <li>
+                      <a href="/en/search/?technology_categories=AI" class="glue-caption">AI</a>
+                  </li>
+              
+                  <li>
+                      <a href="/en/search/?content_type_categories=Announcements" class="glue-caption">Announcements</a>
+                  </li>
+              
+                  <li>
+                      <a href="/en/search/?content_type_categories=Learn" class="glue-caption">Learn</a>
+                  </li>
+              
+                  <li>
+                      <a href="/en/search/?content_type_categories=Explore" class="glue-caption">Explore</a>
+                  </li>
+              
+              
+                  <li>
+                      <a href="/en/search/?tag=Resources" class="glue-caption">Resources</a>
+                  </li>
+              
+                  <li>
+                      <a href="/en/search/?tag=events" class="glue-caption">events</a>
+                  </li>
+              
+          </ul>
+      </div>
+      </div>
+      <div class="buttons-section">
+        <div class="buttons-section__left">
+          <a href="/en/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/" class="glue-button--icon glue-elevation-level-1 " aria-label="Previous">
+            <svg role="presentation" aria-hidden="true" class="glue-icon">
+              <use href="/glue-icon/#chevron-left"></use>
+            </svg>
+          </a>
+          <span class="caption ">Previous</span>
+        </div>
+        <div class="buttons-section__right">
+          <span class="caption ">Next</span>
+          <a href="/en/accelerating-spatio-temporal-attention-for-video-diffusion-on-tpus/" class="glue-button--icon glue-elevation-level-1 "  aria-label="Next">
+            <svg role="presentation" aria-hidden="true" class="glue-icon">
+              <use href="/glue-icon/#chevron-right"></use>
+            </svg>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    
+    <section class="related-posts-container glue-page glue-spacer-6-top glue-spacer-3-bottom">
+      <span class="glue-headline glue-headline--headline-3">Related Posts</span>
+      <div class="related-posts-container__carousel glue-page glue-spacer-5-top">
+        <div class="glue-carousel glue-carousel--cards glue-carousel-related-posts" aria-label="Related Posts">
+          <!-- Previous -->
+          <button class="glue-carousel__button glue-carousel__button--prev"
+              aria-label="Go to the previous slide">
+            <svg role="presentation" aria-hidden="true" class="glue-icon glue-icon--32px">
+              <use href="/glue-icon/#chevron-left"></use>
+            </svg>
+          </button>
+          <!-- Next -->
+          <button class="glue-carousel__button glue-carousel__button--next"
+              aria-label="Go to the next slide">
+            <svg role="presentation" aria-hidden="true" class="glue-icon glue-icon--32px">
+              <use href="/glue-icon/#chevron-right"></use>
+            </svg>
+          </button>
+          <!-- List -->
+          <div class="glue-carousel__viewport">
+            <div class="glue-carousel__list">
+              
+                <a class="glue-card glue-carousel__item" href="/en/the-outer-loop-insights-first-an-ambient-quality-agent-that-diagnoses-your-production-agent/">
+                  <div aria-label="The Outer Loop, Insights First: An Ambient Quality Agent That Diagnoses Your Production Agent" class="glue-card__inner">
+                    <picture class="glue-card__asset">
+                      <img alt="The Outer Loop, Insights First: An Ambient Quality Agent That Diagnoses Your Production Agent" src="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_2g9cog2g9co.2e16d0ba.fill-800x400.jpg">
+                    </picture>
+                    <div class="glue-card__content">
+                      <div class="glue-card__tags glue-spacer-2-top">
+                        
+                            
+                            
+                            <span class="glue-label">AI</span>
+                            
+                            <span class="glue-label">Cloud</span>
+                            
+                            
+                            <span class="glue-label">Announcements</span>
+                            
+                            <span class="glue-label">Best Practices</span>
+                            
+                        
+                      </div>
+                      <p class="glue-headline glue-headline--headline-5">The Outer Loop, Insights First: An Ambient Quality Agent That Diagnoses Your Production Agent</p>
+                      <div class="glue-card__cta-custom glue-spacer-3-top">
+                        <span class="glue-cta">OCT. 8, 2026</span>
+                        <svg aria-hidden="true" class="glue-icon glue-icon--24px" role="presentation">
+                          <use href="/glue-icon/#arrow-forward"></use>
+                        </svg>
+                      </div>
+                    </div>
+                  </div>
+                </a>
+              
+                <a class="glue-card glue-carousel__item" href="/en/announcing-adk-for-kotlin-10-building-production-ready-ai-agents-in-kotlin-android-and-beyond/">
+                  <div aria-label="Announcing ADK for Kotlin 1.0: Building Production-Ready AI Agents in Kotlin, Android, and Beyond" class="glue-card__inner">
+                    <picture class="glue-card__asset">
+                      <img alt="Announcing ADK for Kotlin 1.0: Building Production-Ready AI Agents in Kotlin, Android, and Beyond" src="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/banner-1080p.2e16d0ba.fill-800x400.png">
+                    </picture>
+                    <div class="glue-card__content">
+                      <div class="glue-card__tags glue-spacer-2-top">
+                        
+                            
+                            
+                            <span class="glue-label">Mobile</span>
+                            
+                            <span class="glue-label">AI</span>
+                            
+                            
+                            <span class="glue-label">Announcements</span>
+                            
+                        
+                      </div>
+                      <p class="glue-headline glue-headline--headline-5">Announcing ADK for Kotlin 1.0: Building Production-Ready AI Agents in Kotlin, Android, and Beyond</p>
+                      <div class="glue-card__cta-custom glue-spacer-3-top">
+                        <span class="glue-cta">SEPT. 9, 2026</span>
+                        <svg aria-hidden="true" class="glue-icon glue-icon--24px" role="presentation">
+                          <use href="/glue-icon/#arrow-forward"></use>
+                        </svg>
+                      </div>
+                    </div>
+                  </div>
+                </a>
+              
+                <a class="glue-card glue-carousel__item" href="/en/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/">
+                  <div aria-label="ML Drift: Next-Gen GPU AI/ML Inference at the Edge" class="glue-card__inner">
+                    <picture class="glue-card__asset">
+                      <img alt="ML Drift: Next-Gen GPU AI/ML Inference at the Edge" src="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_c5igf5c5igf.2e16d0ba.fill-800x400.jpg">
+                    </picture>
+                    <div class="glue-card__content">
+                      <div class="glue-card__tags glue-spacer-2-top">
+                        
+                            
+                            
+                            <span class="glue-label">Mobile</span>
+                            
+                            <span class="glue-label">Web</span>
+                            
+                            
+                            <span class="glue-label">Case Studies</span>
+                            
+                            <span class="glue-label">Announcements</span>
+                            
+                        
+                      </div>
+                      <p class="glue-headline glue-headline--headline-5">ML Drift: Next-Gen GPU AI/ML Inference at the Edge</p>
+                      <div class="glue-card__cta-custom glue-spacer-3-top">
+                        <span class="glue-cta">OCT. 8, 2026</span>
+                        <svg aria-hidden="true" class="glue-icon glue-icon--24px" role="presentation">
+                          <use href="/glue-icon/#arrow-forward"></use>
+                        </svg>
+                      </div>
+                    </div>
+                  </div>
+                </a>
+              
+            </div>
+          </div>
+          <!-- Navigation dots -->
+          <div class="glue-carousel__navigation" aria-label="Choose a page"
+               data-glue-carousel-navigation-label="Selected tab $glue_carousel_page_number$ of $glue_carousel_page_total$">
+          </div>
+        </div>
+      </div>
+    </section>
+    
+  </div>
+
+
+				
+				
+
+<div class="footer-linkboxes__wrapper">
+  <nav class="footer-linkboxes" aria-label="Footer links">
+    <ul class="footer-linkboxes__list">
+      <li class="footer-linkbox">
+        <span class="footer-linkbox-heading">
+          Connect
+        </span>
+        <ul class="footer-linkbox-list">
+          
+            <li class="footer-linkbox-list__item">
+              <a href="//googledevelopers.blogspot.com" class="footer-linkbox-list__link">
+                Blog
+              </a>
+            </li>
+          
+            <li class="footer-linkbox-list__item">
+              <a href="https://goo.gle/3FReQXN" class="footer-linkbox-list__link">
+                Bluesky
+              </a>
+            </li>
+          
+            <li class="footer-linkbox-list__item">
+              <a href="https://goo.gle/googlefordevs" class="footer-linkbox-list__link">
+                Instagram
+              </a>
+            </li>
+          
+            <li class="footer-linkbox-list__item">
+              <a href="https://goo.gle/gdevs-li" class="footer-linkbox-list__link">
+                LinkedIn
+              </a>
+            </li>
+          
+            <li class="footer-linkbox-list__item">
+              <a href="https://goo.gle/gdevs-tw" class="footer-linkbox-list__link">
+                X (Twitter)
+              </a>
+            </li>
+          
+            <li class="footer-linkbox-list__item">
+              <a href="https://goo.gle/developers" class="footer-linkbox-list__link">
+                YouTube
+              </a>
+            </li>
+          
+        </ul>
+      </li>
+      <li class="footer-linkbox">
+        <span class="footer-linkbox-heading">
+          Programs
+        </span>
+        <ul class="footer-linkbox-list">
+          
+            <li class="footer-linkbox-list__item">
+              <a href="//developers.google.com/program" class="footer-linkbox-list__link">
+                Google Developer Program
+              </a>
+            </li>
+          
+            <li class="footer-linkbox-list__item">
+              <a href="//developers.google.com/community/gdg" class="footer-linkbox-list__link">
+                Google Developer Groups
+              </a>
+            </li>
+          
+            <li class="footer-linkbox-list__item">
+              <a href="//developers.google.com/community/experts" class="footer-linkbox-list__link">
+                Google Developer Experts
+              </a>
+            </li>
+          
+            <li class="footer-linkbox-list__item">
+              <a href="//developers.google.com/community/accelerators" class="footer-linkbox-list__link">
+                Accelerators
+              </a>
+            </li>
+          
+            <li class="footer-linkbox-list__item">
+              <a href="//www.womentechmakers.com" class="footer-linkbox-list__link">
+                Women Techmakers
+              </a>
+            </li>
+          
+            <li class="footer-linkbox-list__item">
+              <a href="//developers.google.com/community/nvidia" class="footer-linkbox-list__link">
+                Google Cloud &amp; NVIDIA
+              </a>
+            </li>
+          
+        </ul>
+      </li>
+      <li class="footer-linkbox">
+        <span class="footer-linkbox-heading">
+          Developer consoles
+        </span>
+        <ul class="footer-linkbox-list">
+          
+            <li class="footer-linkbox-list__item">
+              <a href="//console.developers.google.com" class="footer-linkbox-list__link">
+                Google API Console
+              </a>
+            </li>
+          
+            <li class="footer-linkbox-list__item">
+              <a href="//console.cloud.google.com" class="footer-linkbox-list__link">
+                Google Cloud Platform Console
+              </a>
+            </li>
+          
+            <li class="footer-linkbox-list__item">
+              <a href="//play.google.com/apps/publish" class="footer-linkbox-list__link">
+                Google Play Console
+              </a>
+            </li>
+          
+            <li class="footer-linkbox-list__item">
+              <a href="//console.firebase.google.com" class="footer-linkbox-list__link">
+                Firebase Console
+              </a>
+            </li>
+          
+            <li class="footer-linkbox-list__item">
+              <a href="//console.actions.google.com" class="footer-linkbox-list__link">
+                Actions on Google Console
+              </a>
+            </li>
+          
+            <li class="footer-linkbox-list__item">
+              <a href="//cast.google.com/publish" class="footer-linkbox-list__link">
+                Cast SDK Developer Console
+              </a>
+            </li>
+          
+            <li class="footer-linkbox-list__item">
+              <a href="//chrome.google.com/webstore/developer/dashboard" class="footer-linkbox-list__link">
+                Chrome Web Store Dashboard
+              </a>
+            </li>
+          
+            <li class="footer-linkbox-list__item">
+              <a href="//console.home.google.com/" class="footer-linkbox-list__link">
+                Google Home Developer Console
+              </a>
+            </li>
+          
+        </ul>
+      </li>
+    </ul>
+  </nav>
+</div>
+<div class="footer-utility__wrapper">
+  <div>
+    <nav class="footer-sites" aria-label="Other Google Developers websites">
+      <a href="https://developers.google.com/" class="site-logo-link" data-label="Site logo">
+        <img src="https://storage.googleapis.com/gweb-developer-goog-blog-cms-assets/site/20260817-205152/images/g-dev.svg" class="site-logo" alt="Google for Developers">
+      </a>
+      <ul class="footer-sites-list">
+        <li class="footer-sites-item">
+          <a href="//developer.android.com" class="footer-sites-link">
+            Android
+          </a>
+        </li>
+        <li class="footer-sites-item">
+          <a href="//developer.chrome.com/home" class="footer-sites-link">
+            Chrome
+          </a>
+        </li>
+        <li class="footer-sites-item">
+          <a href="//firebase.google.com" class="footer-sites-link">
+            Firebase
+          </a>
+        </li>
+        <li class="footer-sites-item">
+          <a href="//cloud.google.com" class="footer-sites-link">
+            Google Cloud Platform
+          </a>
+        </li>
+        <li class="footer-sites-item">
+          <a href="//developers.google.com/products" class="footer-sites-link">
+            All products
+          </a>
+        </li>
+        <li class="footer-sites-item">
+          <button aria-hidden="true" class="glue-cookie-notification-bar-control footer-sites-link">
+            Manage cookies
+          </button>
+        </li>
+      </ul>
+    </nav>
+    <nav class="footer-utility-links">
+      <ul class="footer-utility-list">
+        <li class="footer-utility-item">
+          <a href="//developers.google.com/terms/site-terms" class="footer-utility-link">
+            Terms
+          </a>
+        </li>
+        <li class="footer-utility-item">
+          <a href="//policies.google.com/privacy" class="footer-utility-link">
+            Privacy
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</div>
+
+
+        
+				
+
+        
+        <script nonce="H9XAZFzsnk2YLkbWltHzQw==" src="https://www.youtube.com/player_api"></script>
+        <script nonce="H9XAZFzsnk2YLkbWltHzQw==" src="//www.gstatic.com/glue/v27_1/glue.min.js"></script>
+        <script nonce="H9XAZFzsnk2YLkbWltHzQw==" type="text/javascript" src="https://storage.googleapis.com/gweb-developer-goog-blog-cms-assets/site/20260817-205152/js/dgc_blog.js"></script>
+
+        <script nonce="H9XAZFzsnk2YLkbWltHzQw==" src="https://www.gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.js"
+            data-glue-cookie-notification-bar-category="2A"
+            data-glue-cookie-notification-bar-site-id="developers.googleblog.com"></script>
+
+        
+  <script src="https://storage.googleapis.com/gweb-developer-goog-blog-cms-assets/site/20260817-205152/js/blog_detail.js" nonce="H9XAZFzsnk2YLkbWltHzQw=="></script>
+  <script src="https://storage.googleapis.com/gweb-developer-goog-blog-cms-assets/site/20260817-205152/js/prism.js" nonce="H9XAZFzsnk2YLkbWltHzQw=="></script>
+
+    </body>
+</html>

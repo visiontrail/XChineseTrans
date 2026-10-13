@@ -1,0 +1,5 @@
+Opus 5.5 Fast has a clear price edge over GPT-6.1 Sol Ultrafast: $8/$40 vs $12/$60 per million input/output tokens, for global API processing with Sol prompts up to 272K input tokens.
+
+Vercel’s latest P50 snapshot puts Opus Fast at 273 tokens/s. A comparable Sol Ultrafast measurement is still missing, so calling this a speed tie is premature.
+
+Sol Ultrafast also goes beyond the API: it’s available in Codex and ChatGPT Work on Pro $500 and eligible Enterprise/Edu plans.

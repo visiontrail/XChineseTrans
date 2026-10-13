@@ -1,0 +1,60 @@
+Browser tab: 1, Title: "Leo Guo on X: \"Want to know how an app feature actually works? REA lets you ask a coding agent to investigate the code behind it. This MIT-licensed project gives Claude Code and Codex an MCP toolkit to inspect JavaScript/Electron apps, decompile Android APK methods, and trace functions,\" / X", URL: "https://x.com/LeoGuoLabs/status/2108377804090101857".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 25, 31-36, 50-85
++						147 text More
++				148 container
++					149 container
++						150 text Leo Guo
++						151 image Verified account
++					152 text @LeoGuoLabs
++				153 container undefined unread items
++						154 container
++							155 container
++								156 container Leo Guo Verified account @LeoGuoLabs Want to know how an app feature actually works? REA lets you ask a coding agent to investigate the code behind it. This MIT-licensed project gives Claude Code and Codex an MCP toolkit to inspect JavaScript/Electron apps, decompile Android APK methods, and trace functions, strings and assembly in native binaries. Its Notion case study follows a copy operation through Electron's preload and IPC into the system clipboard, then explains how copied blocks retain their structure. I like being able to start with one concrete behavior and follow the evidence. That could be useful when you're maintaining unfamiliar software or learning how another app solves a problem. Setup with a supported Node.js version and npm: npx rea-agents@latest setup Choose your agent, review the configuration changes, then restart it. Native analysis needs Ghidra, Hopper or IDA; Android analysis needs JADX and a JDK. github.com GitHub - morluto/rea: Reverse engineer anything with agents, from app behavior down to native... From github.com
++									157 container
++										158 link x.com/LeoGuoLabs
++										159 container
++											160 container id__tm5rmt41sql
++												161 link Description: Leo Guo Verified account, Value: x.com/LeoGuoLabs
++												162 link Description: @LeoGuoLabs, Value: x.com/LeoGuoLabs
++											163 container
++												164 button Boost
++													165 text Boost
++												166 button Grok actions
++												167 pop up button (collapsed) Description: More, Secondary Actions: Expand
++										168 text Want to know how an app feature actually works? REA lets you ask a coding agent to investigate the code behind it.
+
+This MIT-licensed project gives Claude Code and Codex an MCP toolkit to inspect JavaScript/Electron apps, decompile Android APK methods, and trace functions, strings and assembly in native binaries.
+
+Its Notion case study follows a copy operation through Electron's preload and IPC into the system clipboard, then explains how copied blocks retain their structure.
+
+I like being able to start with one concrete behavior and follow the evidence. That could be useful when you're maintaining unfamiliar software or learning how another app solves a problem.
+
+Setup with a supported Node.js version and npm:
+npx rea-agents@latest setup
+
+Choose your agent, review the configuration changes, then restart it. Native analysis needs Ghidra, Hopper or IDA; Android analysis needs JADX and a JDK.
++										169 container ID: id__pkn1mhn1qlj, Description: github.com GitHub - morluto/rea: Reverse engineer anything with agents, from app behavior down to native...
++											170 container ID: id__gsc1gdqtuz, Description: github.com GitHub - morluto/rea: Reverse engineer anything with agents, from app behavior down to native...
++												171 link Value: t.co/kZ5Vk1ktTw, Description: github.com GitHub - morluto/rea: Reverse engineer anything with agents, from app behavior down to native...
++											172 link Description: From github.com, Value: t.co/kZ5Vk1ktTw
++										173 container
++											174 link Description: 10:03 AM · Oct 9, 2026, Value: x.com/LeoGuoLabs/status/2108377804090101857
++										175 container id__udtlwlkrku9
++											176 button 0 Replies. Reply
++											177 pop up button (collapsed) Description: 0 reposts. Repost, Secondary Actions: Expand
++											178 button 0 Likes. Like
++											179 button 0 Bookmarks. Bookmark
++											180 pop up button (collapsed) Description: Share post, Secondary Actions: Expand
++								181 container
++									182 container
++										183 link Description: Leo Guo, Value: x.com/LeoGuoLabs
++										184 container
++											185 container
++												186 container
++													187 text Post your reply
++													188 text entry area (settable) Description: Post text, Value: 
+
++											189 button (disabled) Reply
++												190 text Reply
+The focused UI element is 158 link x.com/LeoGuoLabs

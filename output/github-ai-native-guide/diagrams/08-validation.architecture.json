@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {
+    "title": "Make the check demonstrate what it detects",
+    "subtitle": "A deliberate failure is useful evidence for a small checker.",
+    "viewBox": [
+      1000,
+      495
+    ]
+  },
+  "components": [
+    {
+      "id": "pass",
+      "label": "Check valid content",
+      "sublabel": "Record revision + result",
+      "pos": [
+        50,
+        80
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "backend"
+    },
+    {
+      "id": "break",
+      "label": "Disposable broken copy",
+      "sublabel": "Change one local link",
+      "pos": [
+        375,
+        80
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "frontend"
+    },
+    {
+      "id": "fail",
+      "label": "Observe expected failure",
+      "sublabel": "Missing target is reported",
+      "pos": [
+        700,
+        80
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "security"
+    },
+    {
+      "id": "restore",
+      "label": "Restore the good link",
+      "sublabel": "Do not keep the test damage",
+      "pos": [
+        700,
+        300
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "frontend"
+    },
+    {
+      "id": "recheck",
+      "label": "Observe a passing check",
+      "sublabel": "Static link/structure scope",
+      "pos": [
+        375,
+        300
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "backend"
+    },
+    {
+      "id": "browser",
+      "label": "Inspect the local page",
+      "sublabel": "Follow the link; read the item",
+      "pos": [
+        50,
+        300
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "cloud"
+    }
+  ],
+  "connections": [
+    {
+      "from": "pass",
+      "to": "break",
+      "variant": "emphasis",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "from": "break",
+      "to": "fail",
+      "variant": "emphasis",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "from": "fail",
+      "to": "restore",
+      "variant": "emphasis",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "from": "restore",
+      "to": "recheck",
+      "variant": "emphasis",
+      "fromSide": "left",
+      "toSide": "right"
+    },
+    {
+      "from": "recheck",
+      "to": "browser",
+      "variant": "emphasis",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ],
+  "cards": []
+}

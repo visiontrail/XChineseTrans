@@ -1,0 +1,19 @@
+{
+  "desktop_viewport_width": 1280,
+  "desktop_document_width": 1265,
+  "mobile_viewport": [
+    390,
+    844
+  ],
+  "mobile_document_width": 375,
+  "mobile_overflow": false,
+  "figures_loaded": 7,
+  "sections": 15,
+  "broken_anchors": 0,
+  "table_scrolling": "localized",
+  "lightbox_open_close_escape": "passed",
+  "unedited_capture_viewer": "passed",
+  "diagram_theme_and_export_menu": "passed",
+  "viewport_override_reset": true,
+  "companion_baseline_browser": "Home page loaded; checklist link opened the expected page with three starting items."
+}

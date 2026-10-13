@@ -1,0 +1,7 @@
+{
+  "video": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/satellite-beam-steering/steering-without-turning.mp4",
+  "checks_passed": false,
+  "visual_review": "not performed by this script",
+  "audio_listening": "not performed by this script",
+  "error": "timeline must be a JSON object"
+}

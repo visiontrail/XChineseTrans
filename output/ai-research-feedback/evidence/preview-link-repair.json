@@ -1,0 +1,10 @@
+{
+  "checked_at": "2026-10-03T03:07:04.109146+00:00",
+  "cause": "Local preview server was not listening on port 8753",
+  "action": "Restarted existing read-only preview server in a detached process",
+  "review_url": "http://127.0.0.1:8753/review.html",
+  "page_http_status": 200,
+  "video_range_http_status": 206,
+  "video_matches_delivery_hash": true,
+  "publication_submitted": false
+}

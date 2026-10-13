@@ -1,0 +1,42 @@
+{
+  "source_post": "https://x.com/dotey/status/2105065658149208338",
+  "quote_target": "https://x.com/OpenAIDevs/status/2105003318917697873",
+  "format": "native_quote_post",
+  "account": "LeoGuoLabs",
+  "media": "Original official video retained through native quote card; no added attachments",
+  "draft": "quote-post-v1.txt",
+  "approval_state": "approved",
+  "publication_submitted": true,
+  "verification": [
+    {
+      "url": "https://openai.com/index/devday-2026-recap/",
+      "supports": "Finite predefined answers, text and image context, Luna, classification, routing, next action, limited preview with broad release planned"
+    },
+    {
+      "url": "https://x.com/OpenAIDevs/status/2105003330800066998",
+      "supports": "Official follow-up confirms text/images and preview restricted to selected API customers"
+    },
+    {
+      "url": "https://x.com/OpenAIDevs/status/2105003318917697873",
+      "supports": "Official routing video shows approximately 150 ms/request vs 1.6 s/request through Responses API; a demo result, not a latency guarantee"
+    },
+    {
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "supports": "Jev released September 15, 2026 as early-access structured decision model with typed outputs and probabilities"
+    }
+  ],
+  "editorial_notes": [
+    "Commentary is an engineering opinion; no claim of personal testing",
+    "No allegation that OpenAI copied Jev",
+    "No unsupported universal speed, correctness, or production performance claim",
+    "Prices, game demos, and alleged hardware validation are omitted for focus"
+  ],
+  "approval_evidence": "User confirmed in chat: 好的，确认发送。",
+  "submission_state": "published",
+  "public_page_verified": true,
+  "public_url": "https://x.com/LeoGuoLabs/status/2105209621149528092",
+  "text_matches_approved": true,
+  "video_playback_verified": true,
+  "published_at_display": "4:14 PM · Sep 30, 2026",
+  "public_screenshot": "published-post-v1.jpg"
+}

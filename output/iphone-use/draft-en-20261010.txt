@@ -1,0 +1,9 @@
+Codex on your Mac, hands on your iPhone.
+
+iPhone Use is an open-source plugin that lets Codex control a real iPhone over USB: open apps, read screens, tap, scroll, type, and collect lists, with a live phone preview beside the chat.
+
+The interesting bit is the UI tree. It can work with actual controls and batch actions to reduce back-and-forth, then fall back to screenshots when element targeting fails. You could ask it to draft a note or gather search results from an app.
+
+Setup still takes a Mac, full Xcode, and your own Apple account to sign and run WebDriverAgent on the phone. No jailbreak required; passwords, verification codes, and Face ID stay with you.
+
+https://github.com/zhongerxin/iPhone-use

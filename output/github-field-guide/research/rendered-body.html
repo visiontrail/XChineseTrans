@@ -1,0 +1,533 @@
+<h1>GitHub: From First Commit to Verified Delivery</h1>
+<p><strong>A practical field guide to understanding projects, making reviewable changes, and checking what actually shipped.</strong></p>
+<p><img src="images/01-cover.png" alt="Conceptual illustration of local work moving through branching tracks, review, tests, and a delivered website."></p>
+<p><em>An original conceptual illustration. The browser captures later in this guide show real GitHub pages.</em></p>
+<p>GitHub becomes useful when you can answer a few concrete questions: Where does this project live? What changed? Why did it change? Has anyone checked it? Is the result available to the person who needs it?</p>
+<p>That is how I would approach learning it. Start with one small project and take one change through the whole process. The commands matter, but they make more sense when each one moves work to a clearly understood state.</p>
+<p>AI can handle much of the typing. You still need to recognize the difference between a file being edited, a commit being created, a branch being pushed, a pull request being merged, and a website actually working. That distinction is useful whether you write every line yourself or delegate most of the implementation.</p>
+<h2>1. Know where your work lives</h2>
+<p>Git is a distributed version-control system. It records snapshots and their relationships, letting you inspect history, compare versions, and develop changes on branches. GitHub hosts Git repositories and adds collaboration tools such as issues, pull requests, reviews, and automation.</p>
+<p>You can create commits and inspect existing history without an internet connection. Sharing with a remote server needs a connection to that server. GitHub&#39;s web editor and GitHub Desktop are also valid ways to work; learning the command line helps you understand what those interfaces do. <a href="https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F">Git&#39;s introduction</a> explains the snapshot model.</p>
+<p>Six terms cover most of the early confusion:</p>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>What it means in practice</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Repository</td>
+<td>The project&#39;s versioned history and references. A normal local checkout also has working files.</td>
+</tr>
+<tr>
+<td>Working tree</td>
+<td>The files you are editing right now. Some edits may not be committed.</td>
+</tr>
+<tr>
+<td>Staging area, or index</td>
+<td>The exact content selected for the next commit.</td>
+</tr>
+<tr>
+<td>Commit</td>
+<td>A recorded snapshot with metadata and links to its parent history.</td>
+</tr>
+<tr>
+<td>Branch</td>
+<td>A movable reference to a commit. New commits advance the current branch.</td>
+</tr>
+<tr>
+<td>Remote</td>
+<td>A named connection to another repository. <code>origin</code> is a convention, not a special server.</td>
+</tr>
+</tbody></table>
+<p>Staging deserves one extra moment of attention. If you run <code>git add</code> and then edit the file again, the staged version still contains the earlier content. Stage it again to include the new edits, or deliberately leave them for a later commit. <code>git diff</code> and <code>git diff --staged</code> show those two different comparisons.</p>
+<p><img src="images/02-local-remote.png" alt="Diagram showing working files, staging, local history, a GitHub remote, and a pull request as separate places or states."></p>
+<p><em>Editing, staging, committing, and pushing each do a different job. Fetch downloads remote history without merging your current branch.</em></p>
+<p>Here is a useful practical distinction. <strong>Clone</strong> creates a local repository and working copy. <strong>Fork</strong> creates a related repository under another GitHub owner. <strong>Download ZIP</strong> gives you files at a particular revision without the Git history needed for the usual collaboration workflow.</p>
+<p>A branch is lightweight because it is a reference, but switching branches can change the files in your working tree. Uncommitted edits can sometimes travel with you when switching branches. Creating a branch does not automatically save them.</p>
+<p>Version control also has a boundary: an uncommitted file is not protected merely because it sits in a Git directory. A commit stored only on a failed disk can be lost with that disk. Push important work, and maintain backups for data that does not belong in the repository.</p>
+<h2>2. Set up identity and access once</h2>
+<p>Install Git from a trusted source and check that your terminal can find it:</p>
+<pre><code class="language-bash">git --version
+</code></pre>
+<p>On macOS, <code>brew install git</code> is an option if you already use Homebrew. On Windows, use <a href="https://git-scm.com/downloads/win">Git for Windows</a>; Git Bash is convenient for the shell examples in this guide, while PowerShell also supports Git. On Linux, use your distribution&#39;s package manager. There is no need to change terminals simply to prove you are using Git correctly.</p>
+<p>Configure the identity written into commits:</p>
+<pre><code class="language-bash">git config --global user.name &quot;Your Name&quot;
+git config --global user.email &quot;YOUR_VERIFIED_OR_NOREPLY_EMAIL&quot;
+git config --global init.defaultBranch main
+</code></pre>
+<p>Replace the placeholders first. The <code>--global</code> option applies to your user account on this computer. To use a different identity for a work repository, run the corresponding commands inside that repository without <code>--global</code>.</p>
+<p>Your commit name does not have to equal your GitHub username. For GitHub to attribute commits to your account, use an email associated with that account, or the exact no-reply address shown in your GitHub email settings. Contribution-calendar visibility has additional conditions; a missing green square is not proof that the commit disappeared. See <a href="https://docs.github.com/en/account-and-profile/how-tos/email-preferences/setting-your-commit-email-address">commit email settings</a>.</p>
+<p>For the account itself, use an email you can reliably access, configure two-factor authentication or an appropriate passkey, and store recovery methods somewhere you can reach if your usual device fails. A <a href="https://docs.github.com/en/account-and-profile/concepts/username-changes">username can be changed</a>, but it affects links and integrations, so choose one you can keep. Account identity and Git authentication are separate from the author metadata above.</p>
+<h3>Choose one authentication route</h3>
+<p>For a first setup, HTTPS with GitHub CLI or Git Credential Manager is usually straightforward. With <a href="https://cli.github.com/">GitHub CLI</a> installed:</p>
+<pre><code class="language-bash">gh auth login
+gh auth status
+</code></pre>
+<p>Choose GitHub.com, HTTPS, and browser sign-in, and follow the prompt to authenticate Git when offered. <a href="https://docs.github.com/en/get-started/git-basics/caching-your-github-credentials-in-git">GitHub&#39;s credential guide</a> documents this route and the Git Credential Manager alternative. Your GitHub account password is not the password for HTTPS Git operations.</p>
+<p>SSH is another good option, especially if you already understand key pairs:</p>
+<pre><code class="language-bash">ssh-keygen -t ed25519 -C &quot;you@example.com&quot;
+</code></pre>
+<p>Check for an existing key before generating one, avoid overwriting it, and use a passphrase. Add the <strong>public</strong> key, the file ending in <code>.pub</code>, to GitHub&#39;s SSH settings. Keep the private key on your machine and follow the operating-system-specific agent setup. GitHub&#39;s <a href="https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent">SSH guide</a> uses Ed25519, with an RSA alternative for older systems.</p>
+<pre><code class="language-bash">ssh -T git@github.com
+</code></pre>
+<p>At the first connection, compare the host fingerprint with <a href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/githubs-ssh-key-fingerprints">GitHub&#39;s published fingerprints</a>. A successful authentication message also says GitHub does not provide shell access; that is expected. Then use the SSH repository URL, such as <code>git@github.com:YOUR-USERNAME/field-notes.git</code>.</p>
+<p>Personal access tokens are useful when an integration requires one. Prefer a fine-grained token when it supports the task, restrict repository access and permissions, and set an appropriate expiry. Do not put a token into a remote URL, README, screenshot, or shell example. For automation, GitHub Apps and the workflow&#39;s built-in <code>GITHUB_TOKEN</code> may fit better than a personal token. <a href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-authentication-to-github">GitHub&#39;s authentication documentation</a> explains these distinctions.</p>
+<h2>3. Read a repository before installing it</h2>
+<p>When I evaluate a project, I want to know what I would be taking responsibility for. A polished landing page is useful, but the repository often reveals the practical cost of adopting the software.</p>
+<p>Start with five questions:</p>
+<ol>
+<li><strong>What problem does it solve?</strong> Read the README and a small example.</li>
+<li><strong>What does it need to run?</strong> Check supported runtimes, dependencies, services, and configuration.</li>
+<li><strong>What may I do with it?</strong> Read the license before reuse or redistribution.</li>
+<li><strong>How does it change?</strong> Look at releases, the changelog, recent meaningful commits, and merged PRs.</li>
+<li><strong>How would I get help or contribute?</strong> Read contribution instructions, issue templates, and the security policy.</li>
+</ol>
+<p><img src="images/03-repository-annotated.png" alt="Annotated local screenshot of the Flask GitHub repository, highlighting pull requests, source and test folders, and the license."></p>
+<p><em>A fresh capture of the public Flask repository, with AI-assisted teaching annotations. <a href="screenshots/originals/01-repository.png">Open the unedited capture</a> for exact interface details.</em></p>
+<p>The main controls have different purposes. <strong>Star</strong> saves a project for later and signals interest. <strong>Watch</strong> controls notifications. <strong>Fork</strong> creates your own related repository. <strong>Issues</strong> organize reports and work proposals. <strong>Pull requests</strong> present proposed changes and the discussion around them.</p>
+<p>I would not rank these signals equally. A large star count tells you that a project attracted attention. It does not establish security, maintenance quality, compatibility with your environment, or suitability for production. A recent push can be an automated dependency update. An older release can belong to stable software that needs little change.</p>
+<p>Look for evidence relevant to your use case. If you need a particular database version, search the documentation and issues for that version. If you need predictable upgrades, inspect a recent release and its migration notes. If you need maintainers to accept a new integration, read the contribution policy before writing it.</p>
+<p>A public repository is also not automatically permission to reuse everything in it. Check the license and included dependencies. The absence of a license is something to resolve before building a reuse plan around the code. GitHub explains this in <a href="https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository">Licensing a repository</a>.</p>
+<h2>4. Search for a question, not just a keyword</h2>
+<p>GitHub has several search surfaces. Repository search, issue search, and code search answer different questions and do not share every qualifier.</p>
+<p>For repository discovery, try:</p>
+<pre><code class="language-text">topic:self-hosted language:Go archived:false pushed:&gt;=2026-01-01
+</code></pre>
+<p>This narrows the list to a topic, language, archive state, and recent push activity. Adjust the date as time passes. Treat it as a shortlist, then inspect the projects. The filter does not certify maintenance. <a href="https://docs.github.com/en/search-github/searching-on-github/searching-for-repositories">Repository search syntax</a> also supports qualifiers such as <code>in:readme</code>, <code>org:</code>, and <code>license:</code>.</p>
+<p>For an issue you might help with, use the Issues search surface:</p>
+<pre><code class="language-text">repo:pallets/flask is:issue is:open label:&quot;good first issue&quot;
+</code></pre>
+<p>Zero results is a valid result. A beginner label is an invitation to investigate, not a promise that the task is available or simple. Check whether somebody is already working on it and whether the project currently accepts contributions.</p>
+<p>For code, ask a narrower question:</p>
+<pre><code class="language-text">repo:pallets/flask symbol:Flask
+repo:pallets/flask path:tests &quot;test_client&quot;
+</code></pre>
+<p>The first query searches symbol definitions; the second restricts a text search to test paths. A bare word can match a path as well as file contents. Code search has its own syntax, and symbol search is not a list of every runtime call site. See <a href="https://docs.github.com/en/search-github/github-code-search/understanding-github-code-search-syntax">GitHub Code Search</a>.</p>
+<p><img src="images/04-code-search.png" alt="Fresh local screenshot of GitHub Code Search for repo:pallets/flask symbol:Flask, showing the Flask class definition and related results."></p>
+<p><em>The query constrains the repository and the kind of result. Search results are starting points; open the file to understand its context.</em></p>
+<p>An <code>awesome</code> list or a topic page can be useful for discovery, but follow the link to the actual project before deciding. Lists can outlive the software they recommend.</p>
+<h2>5. Follow one behavior through the code</h2>
+<p>Reading an unfamiliar project in directory order is easy to start and difficult to finish. I would begin with a behavior small enough to explain in one paragraph.</p>
+<p>For a web application, that might be: “A request reaches this route, the handler reads a value, and the response contains a result.” For a command-line tool: “This option is parsed, passed into a function, and changes the output.” For a library: “This public function accepts these inputs and raises this error under these conditions.”</p>
+<p>Use a short investigation loop:</p>
+<table>
+<thead>
+<tr>
+<th>Step</th>
+<th>What to look for</th>
+<th>What to write down</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Read the smallest example</td>
+<td>Inputs, expected output, required services</td>
+<td>One behavior to trace</td>
+</tr>
+<tr>
+<td>Find the entry point</td>
+<td>CLI script, application factory, route, exported function</td>
+<td>The first relevant file and symbol</td>
+</tr>
+<tr>
+<td>Follow the calls</td>
+<td>Validation, transformations, I/O boundaries</td>
+<td>A short path through the code</td>
+</tr>
+<tr>
+<td>Read the matching tests</td>
+<td>Normal cases, invalid inputs, regressions</td>
+<td>What behavior is actually asserted</td>
+</tr>
+<tr>
+<td>Inspect history</td>
+<td>Commit messages, related PRs, review discussion</td>
+<td>Why a surprising decision exists</td>
+</tr>
+</tbody></table>
+<p>The Flask repository makes this approach visible: <code>src/flask</code>, <code>tests</code>, <code>examples</code>, and <code>docs</code> have different jobs. Its entry points depend on whether you are studying the CLI, an application, or the library itself. There is no universal “first file” that explains every project.</p>
+<p>Run the smallest relevant example or test once you understand its requirements. For an unfamiliar repository, first read the install scripts and configuration rather than handing it credentials or connecting it to important services. A controlled local run can confirm a hypothesis that static reading leaves uncertain.</p>
+<p>History often adds the missing context:</p>
+<pre><code class="language-bash">git log --oneline -- path/to/file
+git blame path/to/file
+git show COMMIT_ID -- path/to/file
+</code></pre>
+<p>Replace the file and commit placeholders. Blame points to the last relevant change for a line; the associated commit or PR may explain the reason. It is a lead for investigation, not a complete account of authorship.</p>
+<p>On GitHub, <code>t</code> opens the file finder, <code>.</code> opens the github.dev editor, and <code>y</code> turns a supported file URL into a commit-specific permalink. The web editor is useful for reading and editing, but it does not provide the compute environment of Codespaces. <a href="https://docs.github.com/en/get-started/accessibility/keyboard-shortcuts">GitHub&#39;s keyboard shortcuts</a> and <a href="https://docs.github.com/en/codespaces/the-githubdev-web-based-editor">github.dev documentation</a> describe the available behavior.</p>
+<p>AI can help map the path. A useful request is: “Explain how this input reaches this output. Cite file paths and symbols. Separate what you inspected from what you inferred, and identify the smallest test that could check the explanation.” Read the cited code before relying on the answer.</p>
+<h2>6. Make your first change in a small project</h2>
+<p>The companion folder contains a small project called <strong>field-notes</strong>: two HTML pages, a README, an ignore file, a local link checker, and an Actions workflow. It uses Python&#39;s standard library for the check, with no third-party packages to install.</p>
+<p>Copy <code>companion/field-notes</code> somewhere you use for experiments. Start in that copied directory, which should not already be inside another Git repository.</p>
+<pre><code class="language-text">field-notes/
+├── README.md
+├── .gitignore
+├── docs/
+│   ├── index.html
+│   └── checklist.html
+├── tools/
+│   └── check_site.py
+└── .github/
+    └── workflows/
+        └── check.yml
+</code></pre>
+<p>The aim is deliberately modest: version a working site, improve one checklist, review the change, and eventually publish the static files.</p>
+<h3>Record a known starting point</h3>
+<pre><code class="language-bash">cd field-notes
+git init -b main
+git status
+git add README.md .gitignore docs/index.html docs/checklist.html
+git add tools/check_site.py .github/workflows/check.yml
+git diff --staged
+git commit -m &quot;Add field notes site and local link check&quot;
+git log --oneline -3
+</code></pre>
+<p>Check the diff before committing. It should contain the intended project files, with no credentials or unrelated documents. The first commit records the starting point on your computer.</p>
+<p>The sample ignore file excludes local secrets and generated clutter:</p>
+<pre><code class="language-gitignore">.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+.DS_Store
+*.log
+</code></pre>
+<p>Keep <code>.env.example</code> limited to placeholder values. Adding a file to <code>.gitignore</code> does not untrack a file that Git already tracks, and it does not remove an old secret from history.</p>
+<h3>Put one improvement on a branch</h3>
+<pre><code class="language-bash">git switch -c docs/add-release-check
+</code></pre>
+<p>Open <code>docs/checklist.html</code> in an editor. Add a new checklist item reminding the reader to open the deployed URL and check its links. Then inspect and validate the change:</p>
+<pre><code class="language-bash">git diff
+python3 tools/check_site.py
+git add docs/checklist.html
+git diff --staged
+git commit -m &quot;Add a live-site check to the release checklist&quot;
+git status --short --branch
+</code></pre>
+<p>On Windows, use <code>py</code> or <code>python</code> instead of <code>python3</code> if that is how Python is installed. The checker detects missing local HTML link targets and basic page-structure problems. It does not test external sites, JavaScript behavior, accessibility, or production hosting.</p>
+<p>To view the site locally:</p>
+<pre><code class="language-bash">python3 -m http.server 8000 --bind 127.0.0.1 --directory docs
+</code></pre>
+<p>Open <code>http://127.0.0.1:8000/</code>, follow the checklist link, and confirm the new item appears. Stop the server with Ctrl+C when finished.</p>
+<p>There are now two kinds of evidence: a recorded diff and an observed local page. Neither tells you that anything has reached GitHub yet.</p>
+<h2>7. Push to GitHub and open a reviewable PR</h2>
+<p>Create a repository named <code>field-notes</code> under your own account. Choose the visibility you intend. Because the local repository already contains its initial files and history, leave GitHub&#39;s README, license, and ignore-file initialization options off for this exercise.</p>
+<p>Use the exact repository URL shown by GitHub, replacing the username below. This example uses HTTPS:</p>
+<pre><code class="language-bash">git remote add origin https://github.com/YOUR-USERNAME/field-notes.git
+git remote -v
+git switch main
+git push -u origin main
+git switch docs/add-release-check
+git push -u origin docs/add-release-check
+</code></pre>
+<p>The two pushes serve different purposes. The first establishes the base branch. The second publishes the proposed change. <code>-u</code> records the upstream relationship for subsequent operations on that local branch.</p>
+<p>Open the repository on GitHub, select the correct branch, and compare the latest commit with:</p>
+<pre><code class="language-bash">git rev-parse HEAD
+</code></pre>
+<p>Then create a pull request from <code>docs/add-release-check</code> into <code>main</code>. Inspect the <strong>base repository</strong>, <strong>base branch</strong>, <strong>head branch</strong>, and <strong>Files changed</strong> before submitting.</p>
+<p>A useful description for this exercise is short:</p>
+<pre><code class="language-text">The release checklist ended after the build step.
+This change adds a check of the deployed URL and its links.
+
+Validation:
+- The local link checker passed.
+- The checklist page displayed the new item in the local browser.
+
+Public deployment has not been verified yet.
+</code></pre>
+<p>Use those validation statements only after doing the checks. A reviewer should be able to tell what changed, why it matters, and what evidence is available.</p>
+<p>If review reveals a problem, update the same branch, commit the fix, and push again. The PR updates with that branch. Recheck the latest revision instead of relying on results from an earlier commit.</p>
+<h3>Contributing to somebody else&#39;s project</h3>
+<p>First read its contribution policy and confirm the proposed work is welcome. Some repositories restrict PR creation or direct contributions elsewhere. Reading their existing PRs remains useful even when they are not accepting yours.</p>
+<p>When a fork is appropriate, the common arrangement is:</p>
+<pre><code class="language-text">origin    → your fork
+upstream  → the original repository
+</code></pre>
+<p>Clone your fork, add the original repository as <code>upstream</code>, and start a contribution branch from the current upstream base:</p>
+<pre><code class="language-bash">git clone https://github.com/YOUR-USERNAME/PROJECT.git
+cd PROJECT
+git remote add upstream https://github.com/ORIGINAL-OWNER/PROJECT.git
+git fetch upstream
+git switch -c docs/fix-example upstream/main
+</code></pre>
+<p>These are placeholders; the project may use a different default branch. After changing and checking the intended files, commit them and push your branch to <code>origin</code>. The PR usually targets the original repository&#39;s base branch.</p>
+<p>Keep the fork&#39;s <code>main</code> free of your feature commits if you want a simple synchronization routine:</p>
+<pre><code class="language-bash">git switch main
+git fetch upstream
+git merge --ff-only upstream/main
+git push origin main
+</code></pre>
+<p>The fast-forward option stops if the histories diverge. Inspect that situation before deciding how to integrate it. A refusal is useful information, not a reason to force-push. <a href="https://docs.github.com/en/pull-requests/how-tos/work-with-forks/syncing-a-fork">GitHub&#39;s fork synchronization guide</a> covers the broader workflow.</p>
+<h2>8. Learn to read a diff and resolve a disagreement</h2>
+<p>A small PR is an efficient unit of learning. It shows a problem, a proposed solution, the affected tests, and the decisions made during review.</p>
+<p><img src="images/05-pull-request.png" alt="Fresh local screenshot of a merged Flask pull request in Files changed view, showing a focused change and its associated files."></p>
+<p><em>A real merged PR used as a reading example. Its merged status records integration into the project; it does not demonstrate that your application has deployed that change.</em></p>
+<p>In this <a href="https://github.com/pallets/flask/pull/6013/changes">Flask change</a>, the relevant line adds <code>filename.lower()</code> before checking the template extension. That gives you a concrete question: should <code>page.HTML</code> now receive the same autoescaping treatment as <code>page.html</code>? The diff also changes the changelog and function documentation. It does not add a test file. You can understand the intended behavior while still asking what test coverage establishes it.</p>
+<p>Review in three passes. First, check scope: are all changed files relevant? Next, inspect behavior: what inputs or conditions produce different results? Finally, inspect evidence: which test would have failed before the change and passes afterward? For a documentation change, this may be a corrected command or link that you can follow directly.</p>
+<p>Merge conflicts are another form of disagreement. Git found edits it could not combine automatically. The task is to decide the correct resulting content.</p>
+<p>With your current work committed and the working tree clean, you can bring the current base into your feature branch:</p>
+<pre><code class="language-bash">git fetch origin
+git merge origin/main
+</code></pre>
+<p>If Git reports conflicts, run <code>git status</code>, open the named files, and inspect both sides of the conflict markers. Write the intended result, remove the markers, and validate the behavior. Then stage only the resolved files and finish the merge commit.</p>
+<pre><code class="language-bash">git add path/to/resolved-file
+git commit
+</code></pre>
+<p>If you need to stop the merge, <code>git merge --abort</code> attempts to restore the pre-merge state. Starting from a clean working tree makes this easier to reason about. Do not resolve a conflict by mechanically keeping every line from “ours” or “theirs”; either choice can discard necessary work.</p>
+<p>Rebase is useful when the team wants a linear history, but it rewrites commit identities. Learn it after you can inspect the graph and recover a mistake. Follow the project&#39;s policy before rewriting a branch that other people use.</p>
+<h2>9. Automate a check you already understand</h2>
+<p>GitHub Actions runs workflows defined under <code>.github/workflows/</code>. A workflow specifies an event, one or more jobs, their runners, and the steps each job executes.</p>
+<p>The companion&#39;s <code>check.yml</code> runs the same local site check used earlier:</p>
+<pre><code class="language-yaml">name: Check site
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v7
+        with:
+          python-version: &#39;3.13&#39;
+      - name: Check local pages and links
+        run: python tools/check_site.py
+</code></pre>
+<p>The major versions above match the official <a href="https://github.com/actions/checkout">checkout</a> and <a href="https://github.com/actions/setup-python">setup-python</a> examples checked for this edition. For a production workflow, consider pinning actions to reviewed full commit SHAs and maintaining those pins. Do not paste a random SHA from a tutorial and assume it is current.</p>
+<p>This workflow requests read access and does not need secrets. It checks pushes to <code>main</code> and pull requests; it does not run on every push to every feature branch before a PR exists.</p>
+<p>To learn what a failure means, change the sample site&#39;s checklist link to a nonexistent file in your practice branch. Run the checker locally and observe the failure. Restore the correct path and confirm it passes. If you later push that experiment, the Actions job should exercise the same condition. The local exercise and the hosted run are separate checks.</p>
+<p>When a workflow fails, open the run, then the failing job and step. Read the first useful error above the final exit-code summary. A missing file, incorrect working directory, unavailable dependency, and authentication failure require different fixes.</p>
+<p>A passing workflow only establishes what its steps checked. A link check does not establish visual quality. A test suite does not automatically establish deployment. A deployment job does not automatically establish that a customer can use the feature.</p>
+<p><img src="images/06-pr-delivery.png" alt="Workflow diagram taking a change from local branch and commit through PR review, merge, deployment, and live verification."></p>
+<p><em>Record the evidence at each handoff. If the PR changes, evaluate the new revision.</em></p>
+<h3>Understand the limits before adding more automation</h3>
+<p>GitHub Free currently includes 2,000 monthly Actions minutes for applicable private-repository use. Standard GitHub-hosted runners for public repositories are free to use; larger runners have separate billing. Artifacts and caches also have storage rules. Operating systems and machine sizes can have different rates, so use the current billing page rather than memorizing an old multiplier table. <a href="https://docs.github.com/en/billing/concepts/product-billing/github-actions">GitHub Actions billing</a> is the reference to check.</p>
+<p>Use timeouts and sensible concurrency. Review the account&#39;s budgets, alerts, and whether a budget actually stops usage. These are ordinary operating controls for a service that can run repeatedly without somebody watching each invocation.</p>
+<h2>10. Put a static site online with Pages</h2>
+<p>GitHub Pages hosts static HTML, CSS, and JavaScript. It can publish files directly or publish the output of a build. It does not give your site a continuously running Python, Node, or PHP backend. A browser-based app can call a separate backend, but that backend must be hosted elsewhere.</p>
+<p>Two common URL patterns are:</p>
+<table>
+<thead>
+<tr>
+<th>Site</th>
+<th>Repository</th>
+<th>Default URL</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Personal or organization site</td>
+<td><code>OWNER.github.io</code></td>
+<td><code>https://OWNER.github.io/</code></td>
+</tr>
+<tr>
+<td>Project site</td>
+<td>A repository such as <code>field-notes</code></td>
+<td><code>https://OWNER.github.io/field-notes/</code></td>
+</tr>
+</tbody></table>
+<p>GitHub Free supports Pages in public repositories. Other plans add options for private repositories, but private source-code visibility should not be confused with private website access. See <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages">What is GitHub Pages?</a> and the plan details before publishing restricted material.</p>
+<p>For the companion site, after merging the checklist PR:</p>
+<ol>
+<li>Open the repository&#39;s <strong>Settings → Pages</strong>.</li>
+<li>Under <strong>Build and deployment</strong>, choose <strong>Deploy from a branch</strong>.</li>
+<li>Select <code>main</code> and the <code>/docs</code> folder, then save.</li>
+<li>Inspect the deployment run and open the URL GitHub provides.</li>
+</ol>
+<p>These steps follow the current <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site">publishing-source documentation</a>. If your project needs a custom build pipeline, use the supported Actions publishing route instead.</p>
+<p><img src="images/07-pages.png" alt="Fresh local capture of GitHub Docs comparing user or organization Pages sites with project sites and their URL patterns."></p>
+<p><em>A new capture of the official documentation. Pages settings and deployment results belong to your own repository and must be verified there.</em></p>
+<p>Project sites have a practical path trap. A link to <code>/checklist.html</code> points at the domain root, while <code>checklist.html</code> resolves next to the current page. In this simple two-page site, relative links work both at localhost and beneath <code>/field-notes/</code>. Frameworks often have their own base-path setting.</p>
+<p>After deployment, open the public URL in the browser. Follow internal links, inspect images and styling, and check the updated content. For a static release, compare the deployed result with the intended revision instead of stopping at a green build badge.</p>
+<p>All files sent to a visitor&#39;s browser should be treated as public. A secret embedded in client-side JavaScript is still exposed even if it came from a build-time environment variable.</p>
+<h2>11. Use the free tier with the right expectations</h2>
+<p>The free tier is useful for learning and small projects, provided you understand what each service supplies.</p>
+<table>
+<thead>
+<tr>
+<th>Service</th>
+<th>Practical use</th>
+<th>Boundary to remember</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Repositories</td>
+<td>Store and collaborate on versioned work</td>
+<td>Free personal accounts support unlimited public/private repositories and collaborators; private-repository features are more limited.</td>
+</tr>
+<tr>
+<td>Actions</td>
+<td>Run checks, builds, and deployment tasks</td>
+<td>Runner type, repository visibility, storage, and plan affect usage and cost.</td>
+</tr>
+<tr>
+<td>Pages</td>
+<td>Publish documentation, a portfolio, or a static demo</td>
+<td>Static hosting; no application server process.</td>
+</tr>
+<tr>
+<td>github.dev</td>
+<td>Read and edit a repository in a browser</td>
+<td>An editor, without a Codespaces compute environment.</td>
+</tr>
+<tr>
+<td>Codespaces</td>
+<td>Work in a cloud development environment</td>
+<td>Compute and storage are separate metered resources.</td>
+</tr>
+</tbody></table>
+<p>For personal GitHub Free accounts, Codespaces currently includes <strong>120 core-hours</strong> of compute and <strong>15 GB-month</strong> of storage. A 2-core machine therefore uses two core-hours per running hour: the compute allowance corresponds to about 60 running hours at that size. A 4-core machine uses it in about 30 hours. These are allowance calculations, not promises about uptime or workload performance.</p>
+<p>Stopping a codespace stops active compute usage; its stored files still consume storage while it exists. Commit and push work you want to keep before deleting an unused environment. Treat Codespaces as a development workspace when planning your usage. <a href="https://docs.github.com/en/billing/concepts/product-billing/github-codespaces">Codespaces billing</a> and <a href="https://docs.github.com/en/get-started/learning-about-github/githubs-plans">GitHub&#39;s plans</a> contain the current allowances.</p>
+<p>AI assistant allowances change separately. Check the current Copilot plan if that matters to your workflow rather than bundling an old completion quota into a Git tutorial.</p>
+<p><em>Plan and platform details in this edition were checked on 27 September 2026. The linked official pages are the place to recheck them.</em></p>
+<h2>12. Recover from mistakes by identifying what changed</h2>
+<p>When something goes wrong, first locate it: working files, staging, local history, remote history, or the deployed system. “Undo” means different things at each layer.</p>
+<h3>You staged the wrong file</h3>
+<pre><code class="language-bash">git restore --staged path/to/file
+</code></pre>
+<p>This removes the change from the next commit&#39;s staging area while leaving the working file in place. Review <code>git status</code> and the staged diff again. The normal example assumes the repository already has a commit. <a href="https://git-scm.com/docs/git-restore">Git restore</a> documents the source and destination options.</p>
+<h3>You need to pause unfinished work</h3>
+<pre><code class="language-bash">git stash push -u -m &quot;Pause checklist edits&quot;
+git stash list
+</code></pre>
+<p>The <code>-u</code> option includes untracked files, but not ignored files. A stash is local storage, not an off-machine backup. When ready, <code>git stash apply</code> restores the changes while keeping the stash entry; inspect the result before deciding to drop the saved entry.</p>
+<p>For work that deserves a durable checkpoint, a temporary branch and a clearly described commit can be easier to inspect.</p>
+<h3>A committed change needs reversing</h3>
+<p>For a normal published commit, consider:</p>
+<pre><code class="language-bash">git revert COMMIT_ID
+</code></pre>
+<p>Revert creates a new commit that reverses a previous change, preserving the existing history. Replace the placeholder, inspect the result, and validate it. Merge commits need additional care and a mainline choice. <a href="https://git-scm.com/docs/git-revert">Git revert</a> explains the details.</p>
+<p>Commands such as <code>git reset --hard</code> and <code>git restore path/to/file</code> can discard local content. Establish what you need to preserve before using them. A convenient command copied from a troubleshooting answer may target a different layer from your actual problem.</p>
+<h3>A push is rejected</h3>
+<p>Check <code>git remote -v</code>, your current branch, and the actual error. Authentication failure, a protected branch, and a non-fast-forward rejection are different conditions.</p>
+<p>For a history disagreement, fetch first and inspect:</p>
+<pre><code class="language-bash">git fetch origin
+git log --oneline --graph --decorate --all -15
+</code></pre>
+<p>Decide how to integrate the other work. Do not treat force-push as a universal repair button.</p>
+<h3>A credential reached a commit</h3>
+<p>Revoke or rotate the credential first. Then investigate exposure and decide what history cleanup and coordination are needed. Deleting the current file does not remove older copies, forks, logs, or caches. GitHub&#39;s <a href="https://docs.github.com/en/code-security/tutorials/remediate-leaked-secrets/remediating-a-leaked-secret">leaked-secret guidance</a> gives the remediation sequence.</p>
+<h3>A large file is rejected</h3>
+<p>GitHub blocks regular Git files larger than <strong>100 MiB</strong>; browser uploads have a lower limit. Consider Git LFS for appropriate large versioned assets, release assets for distributable binaries, or object storage for datasets and recordings. LFS has its own storage and bandwidth considerations. Adding an LFS rule later does not automatically rewrite an oversized file out of earlier commits. See <a href="https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github">GitHub&#39;s large-file documentation</a>.</p>
+<h3>A repository or fork suddenly returns 404</h3>
+<p>Check the URL, current account, and access rights. The project may have moved, changed visibility, or changed its fork relationships. A local clone does not grant access to a repository you can no longer read. Verify the upstream address and permissions before editing remotes or creating another fork.</p>
+<h2>13. Keep collaboration simple enough to follow</h2>
+<p>For many small teams, a useful starting point is a releasable <code>main</code> branch plus short-lived task branches. Open a PR, review it, run relevant checks, merge, and verify the delivered behavior. This follows the shape of <a href="https://docs.github.com/en/get-started/using-github/github-flow">GitHub flow</a>.</p>
+<p>A permanent <code>dev</code> branch can make sense when the release process requires a separate integration stage. Add it for that reason. Every long-lived branch creates another place where work can diverge and another transition somebody has to manage.</p>
+<p>Where your plan and repository support it, use branch protection or <a href="https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-rulesets/about-rulesets">rulesets</a> to require the checks and reviews your team actually needs, and restrict force-pushes and deletion of important branches. Check that the rule targets the intended branch and is actively enforced. Do not require a second person&#39;s approval in a solo workflow without understanding how you will complete it.</p>
+<p>The same clarity helps your profile. A public repository matching your GitHub username can display its root README on your profile. Describe what you are building, link to a few useful projects, and state the limits of demonstrations honestly. A reproducible README and a working example tell a reader more than a wall of badges. See <a href="https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme">Managing your profile README</a>.</p>
+<p>If you encounter other names, separate tools from hosting platforms:</p>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Role</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Git</td>
+<td>A distributed version-control system</td>
+</tr>
+<tr>
+<td><a href="https://subversion.apache.org/">Subversion, or SVN</a></td>
+<td>A different version-control system, built around a centralized repository model</td>
+</tr>
+<tr>
+<td>GitHub</td>
+<td>A platform for hosting Git repositories and collaborating around them</td>
+</tr>
+<tr>
+<td><a href="https://docs.gitlab.com/user/project/repository/">GitLab</a></td>
+<td>A development platform with Git hosting and integrated delivery tooling</td>
+</tr>
+<tr>
+<td><a href="https://gitee.com/">Gitee</a></td>
+<td>A Git hosting and collaboration platform</td>
+</tr>
+</tbody></table>
+<p>Git knowledge transfers across Git hosts. Their permissions, automation, hosting options, and interfaces still differ. Learn the platform your project uses rather than assuming every feature maps one-to-one.</p>
+<h2>14. Give AI a clear task and a clear stopping point</h2>
+<p>An agent can inspect a repository, create a branch, make changes, run checks, and prepare a PR when its tools and permissions allow it. The useful skill is specifying the result and reviewing the evidence.</p>
+<p>For example:</p>
+<pre><code class="language-text">Inspect this repository and its contribution instructions.
+Add a live-URL verification step to the release checklist.
+
+Keep the change limited to the relevant documentation.
+Preserve existing unrelated edits.
+Show the diff and run the checks appropriate to this change.
+
+Report the branch, changed files, checks actually run, and any
+remaining uncertainty. Prepare a PR description.
+Stop before pushing, merging, or changing repository settings.
+</code></pre>
+<p>Adjust that stopping point to the authority you intend to give. If you want the agent to push a branch or create a PR, say so explicitly and specify the destination.</p>
+<p>Then inspect the work at the same boundaries you would use for a human contribution. Did it edit the intended files? Is the commit on the intended branch? Does the remote point to the intended repository? Did the checks run on the final revision? If it says “deployed,” which URL was opened, and what behavior was observed there?</p>
+<p>Those questions are a compact way to stay responsible for work you did not type yourself.</p>
+<h2>15. Keep a small command card beside the project</h2>
+<table>
+<thead>
+<tr>
+<th>Intent</th>
+<th>Command</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>See the current state</td>
+<td><code>git status --short --branch</code></td>
+</tr>
+<tr>
+<td>Inspect unstaged tracked changes</td>
+<td><code>git diff</code></td>
+</tr>
+<tr>
+<td>Inspect the next commit</td>
+<td><code>git diff --staged</code></td>
+</tr>
+<tr>
+<td>Stage one file</td>
+<td><code>git add path/to/file</code></td>
+</tr>
+<tr>
+<td>Create a branch</td>
+<td><code>git switch -c task/name</code></td>
+</tr>
+<tr>
+<td>Record staged work</td>
+<td><code>git commit -m &quot;Explain the change&quot;</code></td>
+</tr>
+<tr>
+<td>Inspect recent history</td>
+<td><code>git log --oneline --graph --decorate -10</code></td>
+</tr>
+<tr>
+<td>Check remote destinations</td>
+<td><code>git remote -v</code></td>
+</tr>
+<tr>
+<td>Download remote history</td>
+<td><code>git fetch origin</code></td>
+</tr>
+<tr>
+<td>Publish the current branch explicitly</td>
+<td><code>git push -u origin task/name</code></td>
+</tr>
+<tr>
+<td>Unstage while keeping edits</td>
+<td><code>git restore --staged path/to/file</code></td>
+</tr>
+<tr>
+<td>Reverse an ordinary committed change</td>
+<td><code>git revert COMMIT_ID</code></td>
+</tr>
+</tbody></table>
+<p><code>git diff</code> does not show the contents of untracked files; <code>git status</code> tells you they exist. Replace all placeholder paths, branch names, and commit IDs before running a command.</p>
+<p>My preferred first milestone is one small change that another person can inspect, reproduce, and use. Read enough of the project to understand that change. Record it clearly. Let the checks challenge it. Open the delivered result.</p>
+<p>Once you can follow that path, the next GitHub feature usually has somewhere obvious to fit.</p>

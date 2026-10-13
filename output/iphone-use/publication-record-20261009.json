@@ -1,0 +1,58 @@
+{
+  "source": "https://x.com/wlzh/status/2108113769196929071",
+  "original_video_post": "https://x.com/zhongerxin/status/2108160814851174672",
+  "format": "standalone",
+  "account": "@LeoGuoLabs",
+  "text_file": "draft-en.txt",
+  "media": [
+    "original-demo-1080p.mp4"
+  ],
+  "state": "pending_approval",
+  "actual_url": null,
+  "prepared_at": "2026-10-09T02:23:59.228792+00:00",
+  "review_url": "http://172.16.10.59:8876/",
+  "checks": {
+    "repository_public": true,
+    "license": "MIT",
+    "model_tools": 17,
+    "duration_seconds": 40.054422,
+    "resolution": "1920x1080",
+    "codecs": [
+      "h264",
+      "aac"
+    ],
+    "complete_decode": "passed",
+    "frame_review": [
+      0,
+      8,
+      16,
+      24,
+      32,
+      39
+    ],
+    "composer_full_text_accepted": true,
+    "composer_video": "Ready",
+    "account_verified_in_live_browser": true,
+    "downloaded_video_browser_playback": {
+      "observed_time_seconds": [
+        0.179082,
+        35.920201
+      ],
+      "readyState": 4,
+      "error": null
+    }
+  },
+  "review_notes": [
+    "Original author video contains Chinese titles and UI; preserved in full without editing.",
+    "Repository README says private but live GitHub page and metadata show public.",
+    "Project capabilities checked against README, not independently tested on a real iPhone.",
+    "No publication authorization yet."
+  ],
+  "review_server": {
+    "port": 8876,
+    "lan_address": "172.16.10.59",
+    "local_http_status": 200,
+    "range_http_status": 206,
+    "remote_device_tested": false
+  }
+}

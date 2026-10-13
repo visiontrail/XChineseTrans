@@ -1,0 +1,92 @@
+- heading "To view keyboard shortcuts, press question mark View keyboard shortcuts" [level=2]:
+  - generic: To view keyboard shortcuts, press question mark
+  - link "View keyboard shortcuts":
+    - /url: /i/keyboard_shortcuts
+- button "Grok":
+- button "Chat":
+- button "Skip to home timeline"
+- button "Skip to trending"
+- banner:
+  - heading "X" [level=1]:
+    - link "X":
+      - /url: /home
+  - navigation "Primary":
+    - link "Home":
+      - /url: /home
+    - link "Search and explore":
+      - /url: /explore
+    - link "Notifications":
+      - /url: /notifications
+    - link "Follow":
+      - /url: /i/connect_people
+    - link "Direct Messages":
+      - /url: /i/chat
+    - link "Calls":
+      - /url: /i/calls
+    - link "Grok":
+      - /url: /i/grok
+    - link "Premium":
+      - /url: /i/premium
+    - link "History":
+      - /url: /i/history
+    - link "Creator Studio":
+      - /url: /i/jf/creators/studio
+    - link "Articles":
+      - /url: /compose/articles
+    - link "Profile":
+      - /url: /LeoGuoLabs
+    - button "More menu items":
+  - link "Post":
+    - /url: /compose/post
+  - button "Account menu":
+    - generic "Leo Guo":
+      - img "Leo Guo"
+    - generic "undefined unread items"
+- main:
+  - generic "Home timeline":
+    - button "Back":
+    - heading "Post" [level=2]
+    - status:
+      - button:
+        - generic: See new posts
+    - region "Conversation":
+      - heading "Conversation" [level=1]
+      - 'generic "Timeline: Conversation"':
+        - article "Leo Guo Verified account @LeoGuoLabs Google made a free meeting assistant for Mac, and the part I like is that the AI runs on your own machine. Foresight is an experimental app optimized for Apple Silicon. Jot down a few rough bullets and it uses the live transcript to fill in the details. Add your project files and it can surface relevant answers with citations while you're still in the meeting. EmbeddingGemma 2 handles retrieval; Gemma 4 generates the answers. Google says the AI works offline and keeps meeting audio, notes and imported files on your Mac, with no cloud subscription. Being able to pull up the right project detail mid-call could save a lot of awkward “I'll get back to you” moments. That's a use of local AI I can get behind. developers.google.com/edge/foresight Embedded video":
+          - link [active]:
+            - /url: /LeoGuoLabs
+          - link "Leo Guo Verified account":
+            - /url: /LeoGuoLabs
+            - generic: Leo Guo
+            - img "Verified account"
+          - link "@LeoGuoLabs":
+            - /url: /LeoGuoLabs
+            - generic: "@LeoGuoLabs"
+          - button "Boost":
+            - generic: Boost
+          - button "Grok actions":
+          - button "More":
+          - text: Google made a free meeting assistant for Mac, and the part I like is that the AI runs on your own machine. Foresight is an experimental app optimized for Apple Silicon. Jot down a few rough bullets and it uses the live transcript to fill in the details. Add your project files and it can surface relevant answers with citations while you're still in the meeting. EmbeddingGemma 2 handles retrieval; Gemma 4 generates the answers. Google says the AI works offline and keeps meeting audio, notes and imported files on your Mac, with no cloud subscription. Being able to pull up the right project detail mid-call could save a lot of awkward “I'll get back to you” moments. That's a use of local AI I can get behind.
+          - link "developers.google.com/edge/foresight":
+            - /url: https://t.co/9UCAA0DUna
+          - generic "Embedded video":
+            - generic "Embedded video":
+              - img "Embedded video"
+            - generic: 0:27
+            - button "Play this video":
+          - link "10:01 AM · Oct 12, 2026":
+            - /url: /LeoGuoLabs/status/2109464344027374066
+            - time: 10:01 AM · Oct 12, 2026
+          - button "0 Replies. Reply":
+          - button "0 reposts. Repost":
+          - button "0 Likes. Like":
+          - button "0 Bookmarks. Bookmark":
+          - button "Share post":
+        - link "Leo Guo":
+          - /url: /LeoGuoLabs
+          - generic "Leo Guo":
+            - img "Leo Guo"
+        - generic: Post your reply
+        - textbox "Post text"
+        - button "Reply" [disabled]:
+          - generic: Reply

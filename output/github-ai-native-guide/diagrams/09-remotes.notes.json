@@ -1,0 +1,7 @@
+{
+  "notes": [
+    "origin and upstream are conventions, not special servers. Inspect the actual URLs.",
+    "The -u option establishes a branch tracking relationship after a successful push."
+  ],
+  "headings": []
+}

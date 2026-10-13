@@ -1,0 +1,60 @@
+{
+  "state": "publicly_verified",
+  "account": "@LeoGuoLabs",
+  "format": "standalone",
+  "source": "https://x.com/huxlab/status/2108952170720838095",
+  "embedded_video_source": "https://x.com/cb_doge/status/2055323416002281824",
+  "event": "Cannes Lions, June 19, 2024",
+  "final_text": "X's strongest moat may be who pays attention here.\n\nAt Cannes Lions in 2024, Elon Musk argued that X is especially valuable for reaching people who run companies, allocate capital and shape decisions.\n\nThat is the part I find useful: if you're building a technical product, a small audience of the right founders, engineers and investors can matter more than a huge view count.\n\nWrite something worth their time. Give them a reason to start a conversation.",
+  "text_path": "post.txt",
+  "media": [
+    "source-video.mp4"
+  ],
+  "duration": 70.124263,
+  "video_notes": "Complete supplied source clip with English captions and existing watermark. No changes made. Original uncaptioned clip publisher not established.",
+  "checks": {
+    "full_decode": "passed",
+    "frames_inspected_seconds": [
+      0,
+      30,
+      67
+    ],
+    "codec": "H.264/AAC",
+    "fps": 30,
+    "resolution": "1654x1080",
+    "composer": "complete text accepted; one video Ready; Post enabled; not submitted",
+    "playback": {
+      "readyState": 4,
+      "observed_times": [
+        0.206695,
+        13.077719
+      ],
+      "error": null
+    },
+    "preview_endpoint": "LAN review page loaded in built-in browser; video range GET passed",
+    "public": {
+      "account": "@LeoGuoLabs",
+      "text_exact_match": true,
+      "format": "standalone",
+      "native_video_count": 1,
+      "video_duration": 70.133,
+      "playback_times": [
+        13.65348,
+        24.608641
+      ],
+      "readyState": 4,
+      "error": null
+    }
+  },
+  "review_url": "http://172.16.10.59:8881/",
+  "approval": {
+    "message": "\u786e\u8ba4\u53d1\u5e03\u3002",
+    "at": "2026-10-10T16:33:02.969244+00:00",
+    "scope": "Previously shown exact English text and full source-video.mp4; standalone @LeoGuoLabs post"
+  },
+  "published_url": "https://x.com/LeoGuoLabs/status/2108959020061262028",
+  "review_screenshot": "verification/composer-preview.jpg",
+  "submitted_at": "2026-10-10T16:33:16.781708+00:00",
+  "verified_at": "2026-10-10T16:33:58.443227+00:00",
+  "public_screenshot": "verification/public-preview.jpg"
+}

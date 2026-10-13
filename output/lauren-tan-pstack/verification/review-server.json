@@ -1,0 +1,7 @@
+{
+  "pid": 6660,
+  "port": 58587,
+  "local_url": "http://127.0.0.1:58587/",
+  "lan_url": "http://172.16.10.59:58587/",
+  "scope": "only review HTML, selected video, and poster"
+}

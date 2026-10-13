@@ -1,0 +1,16 @@
+A practical Blender + AI animation workflow, from storyboard to final shot.
+
+Higgsfield’s 28-minute Passport Rush breakdown shows how the team combines traditional animation with AI. For the car-chase sequence alone, they report working on 18 shots in 3 days.
+
+The workflow:
+• Plan the action with hand-drawn storyboards.
+• Build consistent character, prop and location references, then refine them by hand.
+• Use Blender previews to control complex movement, camera angles and timing.
+• Give the video model clear references, timed action and constraints.
+• Test assets in motion and fix inconsistencies before producing more shots.
+
+One revealing failure: a camera reference without the character’s headphones caused them to disappear in the generated shot. Painting them back into that reference fixed the problem.
+
+The harder limit was subtle acting. A tiny pause that made a visual gag work remained unsolved, so the shot was left out.
+
+My takeaway: better references and deliberate shot design matter as much as the model. Keep the creative decisions explicit, and test the difficult moments early.

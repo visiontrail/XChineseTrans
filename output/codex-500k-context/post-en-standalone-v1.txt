@@ -1,0 +1,7 @@
+Codex has more room to keep track of what you're building.
+
+GPT-6.1 Sol now defaults to 500k tokens in Codex and Work, up from 272k—about 84% more. That should mean fewer context compactions during long debugging sessions and refactors, with more of the earlier details still in view.
+
+You can still adjust the window up or down, up to 1M. OpenAI also says there's no long-context surcharge when usage comes from your subscription.
+
+The part I care about: keeping the constraints and decisions around longer, so you spend less time explaining them again.

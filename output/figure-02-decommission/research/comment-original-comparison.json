@@ -1,0 +1,14 @@
+[
+  {
+    "official": "02-training-video.mp4",
+    "comment": "comment-1.mp4",
+    "exit_code": 0,
+    "comparison": "[Parsed_ssim_2 @ 0xb7ec23180] SSIM Y:0.991834 (20.879668) U:0.997321 (25.719643) V:0.997823 (26.621040) All:0.993746 (22.038610)"
+  },
+  {
+    "official": "03-thumbs-up-video.mp4",
+    "comment": "comment-2.mp4",
+    "exit_code": 0,
+    "comparison": "[Parsed_ssim_2 @ 0xa7301b0c0] SSIM Y:0.993067 (21.590968) U:0.977364 (16.451953) V:0.993922 (22.162657) All:0.990593 (20.265277)"
+  }
+]

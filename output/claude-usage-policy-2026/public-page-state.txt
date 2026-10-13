@@ -1,0 +1,160 @@
+Browser tab: 1, Title: "Leo Guo on X: \"Anthropic is making sustained, pointless abuse of Claude a policy violation from November 12, 2026. You can still tell it the answer is wrong. Ordinary frustration, pushback, dark fiction, and model testing are explicitly outside the rule. Anthropic says ending abusive\" / X", URL: "https://x.com/LeoGuoLabs/status/2108359520498131001".
+0 AXWebArea URL: x.com/LeoGuoLabs/status/2108359520498131001, Leo Guo on X: "Anthropic is making sustained, pointless abuse of Claude a policy violation from November 12, 2026. You can still tell it the answer is wrong. Ordinary frustration, pushback, dark fiction, and model testing are explicitly outside the rule. Anthropic says ending abusive" / X
+	1 container
+		2 heading To view keyboard shortcuts, press question mark View keyboard shortcuts, Value: 2
+			3 text To view keyboard shortcuts, press question mark
+			4 link Description: View keyboard shortcuts, Value: x.com/i/keyboard_shortcuts
+		39 container
+			40 button Grok
+			41 button Chat
+		42 button Skip to home timeline
+		43 button Skip to trending
+		12 container
+			13 heading X, Value: 1
+				14 link Description: X, Value: x.com/home
+			15 container Primary
+				16 link Description: Home, Value: x.com/home
+				17 link Description: Search and explore, Value: x.com/explore
+				18 link Description: Notifications, Value: x.com/notifications
+				19 link Description: Follow, Value: x.com/i/connect_people
+				20 link Description: Direct Messages, Value: x.com/i/chat
+				21 link Description: Grok, Value: x.com/i/grok
+				22 link Description: Premium, Value: x.com/i/premium
+				23 link Description: History, Value: x.com/i/history
+				24 link Description: Profile, Value: x.com/LeoGuoLabs
+				25 pop up button (collapsed) Description: More menu items, Secondary Actions: Expand
+					26 container
+						156 text More
+			28 link Description: Post, Value: x.com/compose/post
+			29 button Account menu
+				30 container
+					31 container Leo Guo
+						32 image Leo Guo
+				157 container
+					158 container
+						159 text Leo Guo
+						160 image Verified account
+					161 text @LeoGuoLabs
+				162 container undefined unread items
+		44 container
+			45 container Home timeline
+				46 container
+					47 container
+						48 button Back
+						49 heading Post, Value: 2
+							50 text Post
+				51 container Conversation
+					52 heading Conversation, Value: 1, ID: accessible-list-4
+						53 text Conversation
+					54 container Timeline: Conversation
+						55 container
+							56 container
+								57 container Leo Guo Verified account @LeoGuoLabs Anthropic is making sustained, pointless abuse of Claude a policy violation from November 12, 2026. You can still tell it the answer is wrong. Ordinary frustration, pushback, dark fiction, and model testing are explicitly outside the rule. Anthropic says ending abusive conversations remains the main enforcement mechanism. The developer details deserve attention too: clearer rules on deceptive campaigns, election interference, weapons software, and nonconsensual tracking. If your app gives someone a diagnosis, changes a medication dose, or recommends specific investments, qualified human review and AI disclosure already apply. This update clarifies those obligations. The line I’ll be watching is how Anthropic distinguishes pointless abuse from legitimate testing in practice. anthropic.com 2026 Usage Policy update From anthropic.com
+									58 container
+										59 link x.com/LeoGuoLabs
+										60 container
+											61 container id__45n42rolgai
+												62 link Description: Leo Guo Verified account, Value: x.com/LeoGuoLabs
+												63 link Description: @LeoGuoLabs, Value: x.com/LeoGuoLabs
+											64 container
+												65 button Boost
+													66 text Boost
+												67 button Grok actions
+												68 pop up button (collapsed) Description: More, Secondary Actions: Expand
+										69 text Anthropic is making sustained, pointless abuse of Claude a policy violation from November 12, 2026.
+
+You can still tell it the answer is wrong. Ordinary frustration, pushback, dark fiction, and model testing are explicitly outside the rule. Anthropic says ending abusive conversations remains the main enforcement mechanism.
+
+The developer details deserve attention too: clearer rules on deceptive campaigns, election interference, weapons software, and nonconsensual tracking.
+
+If your app gives someone a diagnosis, changes a medication dose, or recommends specific investments, qualified human review and AI disclosure already apply. This update clarifies those obligations.
+
+The line I’ll be watching is how Anthropic distinguishes pointless abuse from legitimate testing in practice.
+										70 container Description: anthropic.com 2026 Usage Policy update, ID: id__cimd0hm3nss
+											71 container Description: anthropic.com 2026 Usage Policy update, ID: id__m8r304hgxo
+												72 link Description: anthropic.com 2026 Usage Policy update, Value: t.co/zdm279uzPX
+											73 link Description: From anthropic.com, Value: t.co/zdm279uzPX
+										74 container
+											153 container
+												154 link Description: 8:50 AM · Oct 9, 2026, Value: x.com/LeoGuoLabs/status/2108359520498131001
+												155 link Description: 1 View, Value: x.com/LeoGuoLabs/status/2108359520498131001/analytics
+										76 container Description: 1 view, ID: id__6g3slrpdgpp
+											77 button 0 Replies. Reply
+											78 pop up button (collapsed) Description: 0 reposts. Repost, Secondary Actions: Expand
+											79 button 0 Likes. Like
+											80 button 0 Bookmarks. Bookmark
+											81 pop up button (collapsed) Description: Share post, Secondary Actions: Expand
+								82 container
+									83 container
+										84 link Description: Leo Guo, Value: x.com/LeoGuoLabs
+										85 container
+											86 container
+												87 container
+													88 text Post your reply
+													89 text entry area (settable) Description: Post text, Value: 
+
+											90 button (disabled) Reply
+												91 text Reply
+			92 container
+				93 container Trending
+					94 container
+						95 container Search
+							96 container
+								97 combo box (settable) Search query
+						98 container Relevant people
+							99 heading Relevant people, Value: 2
+								100 text Relevant people
+							101 content list
+								102 container
+									103 container
+										104 link Description: Leo Guo Verified account, Value: x.com/LeoGuoLabs
+										105 link Description: @LeoGuoLabs, Value: x.com/LeoGuoLabs
+						106 container Trending now
+							107 heading Trending now, Value: 1, ID: accessible-list-5
+								108 text Trending now
+							109 container Timeline: Trending now
+								110 container
+									111 heading What’s happening, Value: 2
+										112 text What’s happening
+									113 link Trending in Singapore #bingxsg26 More
+										114 container id__79n2lpofkmd
+											115 text Trending in Singapore
+											116 text #bingxsg26
+											117 pop up button (collapsed) Description: More, Secondary Actions: Expand
+									118 link Trending in Singapore #xdcnetwork More
+										119 container id__mn6pzugld9
+											120 text Trending in Singapore
+											121 text #xdcnetwork
+											122 pop up button (collapsed) Description: More, Secondary Actions: Expand
+									123 link Trending in Singapore NICE TO SEE YOU More
+										124 container id__5qespbjx1n
+											125 text Trending in Singapore
+											126 text NICE TO SEE YOU
+											127 pop up button (collapsed) Description: More, Secondary Actions: Expand
+									128 link Trending in Singapore certik More
+										129 container id__l3w18puaa9k
+											130 text Trending in Singapore
+											131 text certik
+											132 pop up button (collapsed) Description: More, Secondary Actions: Expand
+									133 link Description: Show more, Value: x.com/explore/tabs/for-you
+						134 container Footer
+							135 container
+								136 link Description: Terms, Value: x.com/tos
+								137 text ·
+							138 container
+								139 link Description: Privacy, Value: x.com/privacy
+								140 text ·
+							141 container
+								142 link Description: Cookies, Value: support.x.com/articles/20170514
+								143 text ·
+							144 container
+								145 link Description: Accessibility, Value: help.x.com/resources/accessibility
+								146 text ·
+							147 container
+								148 link Description: Ads Info, Value: business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo
+								149 text ·
+							150 pop up button (collapsed) Description: More, Secondary Actions: Expand
+								151 text More
+							152 text © 2026 X Corp.
+
+The focused UI element is 59 link x.com/LeoGuoLabs

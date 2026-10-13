@@ -1,0 +1,31 @@
+{
+  "postRect": {
+    "height": 773,
+    "width": 598,
+    "x": 276,
+    "y": 43
+  },
+  "quoteCount": 0,
+  "times": [
+    {
+      "datetime": "2026-10-01T06:21:00.000Z",
+      "text": "2:21 PM · Oct 1, 2026"
+    }
+  ],
+  "tweetTexts": [
+    "Before Figure's F.02 robots jumped into molten steel, they practised landing on airbags.\n\nFigure says the team used stunt performers' movements as a reference and trained a new AI motion model in simulation. Real robots then practised second-floor jumps at its San Jose campus, preparing for a foundry the team had never visited.\n\nThe company says the final jumps in Finland were autonomous. This clip puts the simulated motions beside the physical tests.\n\nAn unusual retirement project, with a real robotics problem at its centre: transferring a learned motion from simulation to hardware."
+  ],
+  "url": "https://x.com/LeoGuoLabs/status/2105543483503128749",
+  "videos": [
+    {
+      "currentTime": 1.537534,
+      "duration": 15.209069,
+      "error": null,
+      "height": 954,
+      "paused": false,
+      "readyState": 4,
+      "src": "blob:https://x.com/79d30efd-39d1-48d2-a96c-197ffe7c4cd5",
+      "width": 1920
+    }
+  ]
+}

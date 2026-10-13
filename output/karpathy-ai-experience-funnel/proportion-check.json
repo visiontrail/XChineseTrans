@@ -1,0 +1,42 @@
+{
+  "width": 1440,
+  "height": 1800,
+  "method": "Equal-height trapezoids with top and bottom widths scaled by count; no stroke or minimum pixel width",
+  "middle_count": "1.5B midpoint of stated 1–2B range",
+  "measurements": [
+    {
+      "count": 6000000000,
+      "top_width": 760,
+      "bottom_width": 506.6666666666667,
+      "height": 176,
+      "area": 111466.66666666667,
+      "ratio_to_6B": 1
+    },
+    {
+      "count": 1500000000,
+      "top_width": 190,
+      "bottom_width": 126.66666666666667,
+      "height": 176,
+      "area": 27866.666666666668,
+      "ratio_to_6B": 0.25
+    },
+    {
+      "count": 20000000,
+      "top_width": 2.5333333333333337,
+      "bottom_width": 1.688888888888889,
+      "height": 176,
+      "area": 371.55555555555566,
+      "ratio_to_6B": 0.0033333333333333335
+    },
+    {
+      "count": 5000,
+      "top_width": 0.0006333333333333333,
+      "bottom_width": 0.0004222222222222222,
+      "height": 176,
+      "area": 0.09288888888888888,
+      "ratio_to_6B": 8.333333333333333e-7
+    }
+  ],
+  "area_per_person": 0.00001857777777777778,
+  "all_area_ratios_verified": true
+}

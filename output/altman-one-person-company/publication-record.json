@@ -1,0 +1,64 @@
+{
+  "source": "https://x.com/huxlab/status/2108590352240357584",
+  "original": "https://x.com/alexisohanian/status/1752760832751239328",
+  "format": "standalone",
+  "account": "LeoGuoLabs",
+  "state": "publicly_verified",
+  "draft": "draft-v1.txt",
+  "text": "Sam Altman was already betting on a one-person company valued at $1B back in 2024. That’s an ambitious prediction. The useful takeaway for me is how much a small team could get done.\n\nGive AI a defined role, persistent project context and a clear finish line. Start with a recurring job—research, code changes or tests—that you can inspect and roll back. Keep judgment and final decisions with you.\n\nThen build a workflow that can repeat reliably: tasks, tools, memory and checks that survive beyond one chat.\n\nA subscription gives you access. What you build around it determines how much useful work gets done.",
+  "media": [
+    "output/altman-one-person-company/media/alexis-original-92s.mp4"
+  ],
+  "media_download_record": "research/alexis-download.json",
+  "comparison_clip": "media/source-clip-22s-720p.mp4",
+  "preparation": {
+    "full_decode_exit": 0,
+    "visual_check": "Beginning, middle and end inspected; original conference layout, English captions, no Chinese overlays.",
+    "composer": "Full 611-character text accepted; original video Ready; Post enabled; not submitted.",
+    "video": "92.20 seconds, 1280x720 H.264, AAC audio stream; every download range and total byte count validated; full decode successful.",
+    "screenshots": [
+      "research/composer-text.jpg",
+      "research/composer-video-ready.jpg"
+    ]
+  },
+  "approval": {
+    "user_message": "确认发布",
+    "at": "2026-10-09T16:22:03.921336+00:00",
+    "version": "draft-v1.txt",
+    "media": "media/alexis-original-92s.mp4"
+  },
+  "published_url": "https://x.com/LeoGuoLabs/status/2108593888126800030",
+  "submitted_at": "2026-10-09T16:22:26.686419+00:00",
+  "submission_evidence": "X displayed Your post was sent. Public URL and playback verification pending.",
+  "public_verification": {
+    "account": "LeoGuoLabs",
+    "format": "standalone with one natively uploaded video",
+    "complete_text": "Matches approved draft-v1.txt",
+    "video_duration_display": "1:32",
+    "playback": {
+      "samples": [
+        [
+          {
+            "duration": 92.202,
+            "error": null,
+            "paused": false,
+            "readyState": 4,
+            "time": 20.342452
+          }
+        ],
+        [
+          {
+            "duration": 92.202,
+            "error": null,
+            "paused": false,
+            "readyState": 4,
+            "time": 37.644502
+          }
+        ]
+      ],
+      "evidence": "research/public-playback.json"
+    },
+    "screenshot": "research/public-post.jpg"
+  },
+  "verified_at": "2026-10-09T16:23:27.905693+00:00"
+}

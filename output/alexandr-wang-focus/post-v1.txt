@@ -1,0 +1,5 @@
+Alexandr Wang credits much of his progress to two habits: deep focus and going well beyond the minimum.
+
+Pick a problem worth solving, give it your full attention, and keep working through the details after the obvious part is done.
+
+I like this as an engineering mindset: reproduce the bug, fix the cause, test the edge cases, and make the handoff easy. That's where extra effort becomes useful.

@@ -1,0 +1,9 @@
+Just came across Remotion on GitHub, and the idea caught my eye: build videos as reusable React projects. It's already passed 63k stars.
+
+You could build a product demo, swap the text or assets, and render a batch of variations. A coding agent can help with the React code, while you keep control down to the frame.
+
+I haven't used it yet. I'll try it out and share a hands-on report afterward.
+
+It's free for individuals and companies of up to three people, subject to its license terms. Larger teams need a paid license, and AWS Lambda rendering still has cloud costs.
+
+https://github.com/remotion-dev/remotion

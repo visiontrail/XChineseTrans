@@ -1,0 +1,19 @@
+Running a 27B model locally is tempting. But the GPU price is only the start of the calculation.
+
+A few variables I'd want to work through:
+
+• Memory and quantization. For 27 billion parameters, the raw weight math is roughly 54 GB at 16-bit, 27 GB at 8-bit, or 13.5 GB at 4-bit. Actual quantized formats add overhead, and you still need room for the context cache and runtime buffers. The quality trade-off needs testing on your own tasks.
+
+• Context and concurrency. A short chat, a long document, and several agents running together have different memory demands. A model fitting in memory doesn't tell you how much workload it can handle.
+
+• Hardware and software. GPU memory, memory bandwidth, CPU offloading, drivers, and the inference engine all matter. Check support for your exact GPU and model before buying.
+
+• Speed that matters. Measure time to the first answer, output speed, and total task time with realistic prompts. Reading a long document and generating a reply are separate bottlenecks.
+
+• Useful output. Test accuracy, instruction following, and tool use. Count retries and manual corrections too. I'd compare cost per successfully completed task.
+
+• Total cost and control. Include hardware depreciation, electricity, cooling, maintenance, and actual usage. Compare against the API's input, cached-input, and output rates. Keeping data on your machine and working offline can also be reasons to go local, provided the rest of your workflow stays local.
+
+I'd start with a job I'd want the model to do every day: searching private documents, extracting structured data, translating, coding, or running background automation.
+
+What are you actually using local models for? Share your model, hardware, and the task it has become useful for in your daily workflow.

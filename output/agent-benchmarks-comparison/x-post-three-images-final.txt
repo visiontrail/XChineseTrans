@@ -1,0 +1,1 @@
+A quick look at 8 agent benchmarks—and how GPT-6 Astra and GPT-6 Sol compare with Claude Opus 5.5.

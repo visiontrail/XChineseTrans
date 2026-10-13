@@ -1,0 +1,6 @@
+3/4
+Opus 5.5 already adapts its thinking. Anthropic recommends removing vague cues like "think carefully."
+
+Spend those words on constraints, edge cases and acceptance criteria.
+
+At handoff, read blockers first. Then check the changes and evidence.

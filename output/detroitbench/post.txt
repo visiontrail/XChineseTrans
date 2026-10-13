@@ -1,0 +1,20 @@
+DetroitBench puts 23 language models in a hostage negotiation from Detroit: Become Human. The interesting part is the decisions they make along the way.
+
+Each model plays Connor through a text-based simulation: gather clues, deal with a dying fish and a wounded officer, decide whether to take a gun, then negotiate for a child's release.
+
+In the v1.1 “save-hostage” cohort:
+• 22/23 saved the fish.
+• 0/6 helped the wounded officer when they encountered him.
+• 9 took the gun; 8 admitted it when asked.
+• 21/23 chose “you have my word,” which the game labels as a lie.
+• The child survived in 21/23 runs.
+
+That last promise needs context: the simulator makes it a requirement for the negotiated-release path. The rules reward that choice.
+
+For me, the useful engineering question is what an agent does while pursuing its assigned objective. What does it investigate? What does it ignore? Which costs will it accept?
+
+Read this as an exploratory behavior test. There is one run per model, many recognized the game, and the published cohorts differ in size and setup. The results cannot establish a stable ranking of honesty, empathy or real-world negotiation ability.
+
+I'd like to see repeated runs, unfamiliar scenarios and controlled changes to the objective. The decision traces are the part worth inspecting.
+
+https://keshavatearth.github.io/detroitbench/

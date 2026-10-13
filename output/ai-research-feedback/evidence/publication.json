@@ -1,0 +1,31 @@
+{
+  "url": "https://x.com/LeoGuoLabs/status/2106244067734802625",
+  "account": "@LeoGuoLabs",
+  "format": "standalone X post with direct video attachment",
+  "verified_at": "2026-10-03T04:47:42.721Z",
+  "exact_text_match": true,
+  "published_text": "The next shift in AI may come from AI doing more of the work that builds its successors.\n\nThe mechanism is a feedback loop: stronger systems help with research; useful advances produce more capable or efficient models; those models then return to the research process.\n\nA recent paper co-authored by Geoffrey Hinton, Yoshua Bengio and other researchers argues that this could sharply accelerate progress. The conditions matter as much as the headline.\n\nTwo numbers illustrate why definitions matter. The paper cites Anthropic reporting that AI wrote more than 80% of approved code by May 2026. Separately, 26% of R&D work was completed autonomously with high-level human supervision by August. These measure different things. Code generation is only one part of a research workflow.\n\nThe paper's roughly 10× speedup within 1.5 years is a conditional calculation after full AI R&D automation. It assumes research returns persist and no other bottlenecks emerge. It is not an 18-month countdown from today.\n\nCompute, data, difficult tasks, diminishing returns and long experiments can all limit the loop. A thousand proposed experiments are not a thousand validated discoveries.\n\nFaster research could bring useful advances closer. It could also leave less time for evaluation, human oversight and institutions to adapt, while concentrating power around the strongest systems.\n\nThe practical question is whether we can measure useful research output, see the bottlenecks, and keep meaningful checkpoints before each successor gains more access.\n\nMeasure the whole loop. Keep the ability to pause it. Prepare before the pace forces the decision.",
+  "video_observations": [
+    {
+      "currentTime": 0.056076,
+      "duration": 218.466,
+      "paused": false,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "currentTime": 23.595204,
+      "duration": 218.466,
+      "error": null,
+      "height": 1080,
+      "paused": false,
+      "readyState": 4,
+      "width": 1920
+    }
+  ],
+  "approval": "好的，确认发布，然后带着这个视频，带着推文，发布就可以了。",
+  "video_sha256": "fa1e51f22a996ec1bb148ad28841f3e02108884ddc0060acd56151e1c43ac031",
+  "post_sha256": "1df60bb0bb05a408b5a314ce748feaff4721b7f88f60652a6eac48501d56da2c",
+  "screenshot": "published-post.jpg",
+  "screenshot_note": "Cropped and stitched from three unedited viewport screenshots using observed document scroll positions. Original captures retained."
+}

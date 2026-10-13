@@ -1,0 +1,47 @@
+{
+  "source": "https://x.com/jakevin7/status/2108174528299868490",
+  "format": "standalone",
+  "account": "@LeoGuoLabs",
+  "state": "publicly_verified",
+  "text": "Haiku 5.5’s headline price comes with a 100K-token cliff.\n\nUp to 100K prompt tokens: $0.10 input / $0.50 output per million tokens. Above 100K: $0.50 / $2.50. Both rates jump 5×; cached-token rates do too.\n\nArtificial Analysis disclosed that its provisional cost figures didn’t yet include that higher tier. That matters if you’re using those charts to budget for long agent sessions.\n\nI’d compare cost per completed task at the context lengths I actually use. Short requests and long-running agents can have very different economics.",
+  "media": [
+    {
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/haiku-context-pricing/aa-cost-disclosure-v2.jpg",
+      "alt": "Artificial Analysis article dated October 7, 2026, explaining that Haiku 5.5 token prices rise fivefold above 100,000 prompt tokens and that its provisional cost figures do not yet include the higher tier.",
+      "sha256": "23fac63a6646710683b973b82177e1a4e5720b497dc87295d73e8ab187489cbd"
+    }
+  ],
+  "sources": [
+    "https://platform.claude.com/docs/en/models/haiku-5-5/overview",
+    "https://platform.claude.com/docs/en/about-claude/pricing",
+    "https://www.anthropic.com/claude-haiku-5-5",
+    "https://artificialanalysis.ai/de/articles/claude-haiku-5-5"
+  ],
+  "authorization": "User explicitly confirmed publication of shown text and image: 确认发布",
+  "published_url": "https://x.com/LeoGuoLabs/status/2108191913056882820",
+  "checked_at": "2026-10-08T13:36:04.180628+00:00",
+  "browser": "Codex built-in browser",
+  "account_verified": true,
+  "composer_check": {
+    "status": "passed",
+    "full_text": true,
+    "image_count": 1,
+    "alt_entered": true,
+    "evidence": "composer-approved.jpg"
+  },
+  "review_media": "aa-cost-disclosure-v2.jpg",
+  "approved_at": "2026-10-08T13:42:14.137574+00:00",
+  "submitted_at": "2026-10-08T13:45:01.165351+00:00",
+  "verified_at": "2026-10-08T13:45:40.623705+00:00",
+  "public_verification": {
+    "account": "@LeoGuoLabs",
+    "full_text_matches": true,
+    "format": "standalone",
+    "image_count": 1,
+    "image_readable": true,
+    "alt_verified": true,
+    "screenshot": "published-verified.jpg",
+    "page_text": "public-page-ax.txt",
+    "browser": "Codex built-in browser"
+  }
+}

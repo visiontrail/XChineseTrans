@@ -1,0 +1,11 @@
+Checked on 2026-10-01.
+Supplied source: https://x.com/xiaohu/status/2105512898131055101
+Original Chinese text read in the authenticated Codex in-app browser; embedded 1:23 launch-event video inspected visually.
+Official GSA announcement: https://www.gsa.gov/about-gsa/newsroom/news-releases/gsa-joins-the-white-houses-national-design-studio-in-unveiling-americagov-09292026
+Official functionality: https://america.gov/how-it-works
+Official limitations: https://america.gov/faq
+GSA says information from more than 29,000 government websites is combined with AI-enhanced search. Do not imply the underlying websites were removed or all agency services migrated.
+The live How it works page confirms official-source links, free use, no ads, no account, guidance, and planned 2027 form completion and progress tracking. FAQ says current service cannot access agency records or submitted applications.
+User examples are illustrative questions from the supplied text; no task completion or personal test is claimed.
+Draft format: one standalone English post. 820 characters, 131 words. Recalculate if edited.
+Publication has not been requested or submitted.

@@ -1,0 +1,45 @@
+{
+  "source": "https://x.com/leo114119/status/2109107970961457171",
+  "format": "standalone",
+  "account": "@LeoGuoLabs",
+  "state": "publicly_verified",
+  "final_text": "Imagine spending years building your PhD around a problem, then waking up to an email saying AI may have solved it.\n\nThat happened to Tristan Humbert after OpenAI’s latest math release. He spent the morning rewriting his research plans, then opened the claimed proof and found it barely readable. Fields Medalist Hugo Duminil-Copin said every major open problem he’d publicly discussed was covered by a claimed proof. “I am paralysed,” he wrote.\n\nThese results are still being checked; some papers have already been withdrawn. But I can understand the shock.\n\nI’m excited by the discoveries AI could unlock. I also wonder how we train the next generation when years of planned research can be upended overnight.\n\nWe keep telling people to move up to harder, more creative work. What happens when the people already at that frontier are asking where to go next?\n\nhttps://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/",
+  "media": [],
+  "native_link_card": "https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/",
+  "preparation_checks": {
+    "live_source_original_language": true,
+    "relevant_video_present": false,
+    "primary_statements_checked": true,
+    "official_release_and_withdrawals_checked": true,
+    "live_account_verified": true,
+    "composer_initially_empty": true,
+    "exact_draft_blocks_match": true,
+    "post_button_enabled": true,
+    "link_card_visible": true
+  },
+  "approval": {
+    "user_message": "确认发布",
+    "approved_at": "2026-10-11T04:24:35.950Z",
+    "version": "post-v1.txt"
+  },
+  "submitted": true,
+  "public_url": "https://x.com/LeoGuoLabs/status/2109138070167830859",
+  "composer_evidence": [
+    "composer-review-top-v1.jpg",
+    "composer-review-v1.jpg"
+  ],
+  "updated_at": "2026-10-11T03:54:44.651309+00:00",
+  "submitted_at": "2026-10-11T04:24:45.489Z",
+  "verified_at": "2026-10-11T04:25:04.378Z",
+  "public_checks": {
+    "account": "@LeoGuoLabs",
+    "exact_body": true,
+    "format": "standalone",
+    "link_card": "100+ reactions to 100+ solutions",
+    "attachments": 0
+  },
+  "public_evidence": [
+    "public-post-verified.jpg",
+    "public-post-verified-viewport.jpg"
+  ]
+}

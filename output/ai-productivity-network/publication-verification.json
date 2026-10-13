@@ -1,0 +1,45 @@
+{
+  "url": "https://x.com/LeoGuoLabs/status/2103827592394711281",
+  "text": "AI Productivity Needs a Path to Value\nAI can make your work faster without changing what the market pays you. The gap is worth understanding before treating every improvement in output as an improvement in opportunity.\nMy view: productivity matters, but its economic value depends on what happens after the work leaves your desk. Someone has to need it, trust it, use it, and have a reason to pay for it. Inside an organization, someone also has to give it a route into a decision or a deployed system.\nFaster work can still end in the same queue\nImagine an engineer who uses AI to prepare changes much faster. If review capacity, release windows, and customer adoption remain unchanged, the immediate result may be a larger queue of unshipped work. The engineer improved one stage. The full delivery process has a different constraint.\nThis distinction applies beyond software. A report can be finished sooner and still wait for a decision. A small business can produce more content while reaching the same few buyers. A solo founder can build a product and still struggle to find a problem people will pay to solve.\nTime saved is a real benefit. It can buy rest, learning, or room to take on a harder problem. It simply does not guarantee additional income. To make that happen, the saved capacity usually needs somewhere useful to go.\nALT\nYour position in the network matters\nA role carries more than a workload. It may include access to customers, control of a budget, permission to approve a change, or responsibility for a trusted relationship. Those connections help determine what work gets done and who receives the reward.\nTechnical competence remains important, especially where quality and failure have consequences. But competence alone does not explain how organizations allocate opportunity. A highly capable person can have little influence over the decisions that would put their work to use.\nAI may widen this gap before it closes it. People can gain new capabilities faster than an organization changes its permissions, incentives, and ways of working. That is one reason I would be cautious about drawing a straight line from a stronger model to an immediate redistribution of income or power.\nThe practical response is to improve both capability and access. Learn the tools, then use some of the time saved to understand a customer's problem, work across a team boundary, or take responsibility for a result that previously required several disconnected handoffs.\nBuild connections that carry useful work\nMore contacts are not automatically more value. The useful connection gives a specific piece of work a path to someone who can benefit from it.\nFor an engineer, that could mean working directly with the team that operates the system. For a founder, it could mean finding a customer willing to test a small solution. For a writer, it could mean developing enough credibility that readers return when they need to make a decision.\nAttention is part of this system. A dramatic AI prediction can attract an audience long before anyone knows whether it is correct. That can create opportunities for the person making it. I would rather build a reputation around useful explanations and evidence that survives inspection. Reach opens a door; dependable work gives people a reason to keep it open.\nALT\nWhere AI and crypto could meet\nThis network perspective also makes the intersection of AI and crypto worth examining. AI can help produce work and coordinate actions. Blockchain systems offer mechanisms for recording on-chain ownership and executing programmed transactions. The interesting possibility is that agents could combine useful work with new ways to transact across organizational boundaries.\nThat remains a design proposition to test. A payment record does not prove that a service was useful. A smart contract cannot independently observe every real-world outcome; external information needs a way to reach it. Ethereum's documentation describes this limitation and the role of oracles.\nAn agent-based service would still need clear authority, spending limits, reliable verification, and a way to handle failures or disputes. Conventional systems may already solve some of these problems well. The case for a blockchain should rest on what a particular workflow gains from it.\nI would judge AI–crypto integration by whether it lets people cooperate more effectively, with acceptable costs and clear responsibility. Claims about inevitable disruption or guaranteed timelines do little to answer that question.\nALT\nMeasure the result beyond your desk\nWhen assessing an AI workflow, I would ask: What constraint did it remove? Who used the extra output? Did quality hold up? Did the time saved lead to a better service, a new customer, or more room to do valuable work?\nKeep the answers separate. Producing more, delivering more, and earning more are different outcomes. Each needs its own evidence.\nBuild the capability. Give it a path to a real need. Verify what changed for the person on the other end.",
+  "images": [
+    {
+      "src": "https://pbs.twimg.com/media/HTJK9LZbIAEO4mf?format=jpg&name=small",
+      "complete": true,
+      "width": 680,
+      "height": 272
+    },
+    {
+      "src": "https://pbs.twimg.com/media/HTJLZoEbEAE0STt?format=jpg&name=small",
+      "complete": true,
+      "width": 680,
+      "height": 453
+    },
+    {
+      "src": "https://pbs.twimg.com/media/HTJLt2EaMAE0UzK?format=jpg&name=small",
+      "complete": true,
+      "width": 680,
+      "height": 453
+    },
+    {
+      "src": "https://pbs.twimg.com/media/HTJL6w2bwAEVYXT?format=jpg&name=small",
+      "complete": true,
+      "width": 680,
+      "height": 453
+    }
+  ],
+  "media": [
+    "https://x.com/LeoGuoLabs/article/2103827592394711281/media/2103826390827343873",
+    "https://x.com/LeoGuoLabs/article/2103827592394711281/media/2103826879560224769",
+    "https://x.com/LeoGuoLabs/article/2103827592394711281/media/2103827226915647489",
+    "https://x.com/LeoGuoLabs/article/2103827592394711281/media/2103827448853151745"
+  ],
+  "altButtons": 3,
+  "headings": [
+    "Faster work can still end in the same queue",
+    "Your position in the network matters",
+    "Build connections that carry useful work",
+    "Where AI and crypto could meet",
+    "Measure the result beyond your desk"
+  ],
+  "missingParagraphs": []
+}

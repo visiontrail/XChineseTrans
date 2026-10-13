@@ -1,0 +1,7 @@
+Before Figure's F.02 robots jumped into molten steel, they practised landing on airbags.
+
+Figure says the team used stunt performers' movements as a reference and trained a new AI motion model in simulation. Real robots then practised second-floor jumps at its San Jose campus, preparing for a foundry the team had never visited.
+
+The company says the final jumps in Finland were autonomous. This clip puts the simulated motions beside the physical tests.
+
+An unusual retirement project, with a real robotics problem at its centre: transferring a learned motion from simulation to hardware.

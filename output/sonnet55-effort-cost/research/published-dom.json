@@ -1,0 +1,23 @@
+[
+  {
+    "height": 1254.046875,
+    "images": [
+      {
+        "alt": "",
+        "naturalHeight": 96,
+        "naturalWidth": 96,
+        "src": "https://pbs.twimg.com/profile_images/2089933102760214528/wgwr7axH_x96.jpg"
+      },
+      {
+        "alt": "Two Artificial Analysis charts compare output-token use across models and Intelligence Index scores against output tokens per task. Sonnet 5.5 at Max with fallback uses approximately 193,000 output tokens per task. Claude configurations in the charts are labeled with fallback. The charts show token use, not dollar cost.",
+        "naturalHeight": 1058,
+        "naturalWidth": 1200,
+        "src": "https://pbs.twimg.com/media/HTWk2x1a8AAORSC?format=jpg&name=medium"
+      }
+    ],
+    "text": "Leo Guo\n@LeoGuoLabs\nBoost\nSonnet 5.5’s low token price can hide an expensive Max-effort run.\n\nAPI pricing is $2 per million input tokens and $10 per million output tokens. Anthropic reports 30%+ faster output generation and up to 30% lower task costs than Sonnet 5 in its testing.\n\nThe trade-off changes with effort. In Artificial Analysis’ published evaluation, Sonnet 5.5 (Max) scored 64% on Terminal-Bench 4.0, versus 60% for Opus 5.5 (Max). That lead is specific to this benchmark and evaluation setup. AA ran these tests with fallback enabled, so some requests could be handled by another Claude model.\n\nAcross the AA Intelligence Index, Sonnet 5.5 (Max) used about 193k output tokens per task—roughly 60% more than Opus 5.5 (Max). AA’s weighted average task cost was $7.60 versus $5.98. The attached chart shows token use; the dollar figures come from AA’s separate cost metric.\n\nMy practical take: start at Medium for well-defined work. Increase effort when a harder task needs it, and measure correctness, elapsed time, and total cost. Make Max earn its place in the workflow.\n\nThese launch results used a pre-release Sonnet deployment with a since-fixed structured-output bug; AA says it will rerun relevant evaluations.\nALT\n11:18 AM · Sep 29, 2026\n·\n1\n View",
+    "width": 598,
+    "x": 276,
+    "y": 53
+  }
+]

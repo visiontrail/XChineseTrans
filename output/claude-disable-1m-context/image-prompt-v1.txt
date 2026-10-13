@@ -1,0 +1,11 @@
+Warm ivory #FDFBF7 with barely visible natural paper fiber, forest green #1A4A3A text, muted green #426454 secondary text, sparse dark gold #80601B emphasis and thin gold #D4AF37 rule. Geist/Inter-like modern technical sans-serif; headings semibold, body regular, monospace only for command. Minimal LeoGuoLabs Light v1 infographic, square high resolution, 90% light, generous 7% margins, borderless editorial composition, crisp legible English. Use case: infographic-diagram. Create one concise Claude Code tip image, an authored explainer not a screenshot. No UI imitation. Exact text:
+Small top label "CLAUDE CODE"
+Heading "Keep the window.\nCompact earlier."
+Large monospace command "/autocompact 400k"
+Below in medium text "An example threshold for long sessions"
+Thin rule then two short body lines:
+"Keep auto-compaction enabled."
+"Remove the old 1M-disable flag if you want more than 200K."
+Small footer footnote "Choose the threshold for your task; savings vary."
+Plain small signature "LeoGuoLabs" at bottom.
+No other words. No serif, all-caps heading, rounded cards, heavy frame, icons, leaves, ornaments, gradients, shadows, glow, yellow background, obvious distressed texture. Ensure exact command spelling, no clipping and dark readable small text.

@@ -1,0 +1,225 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {
+    "title": "From environment to a local repository",
+    "subtitle": "The agent inspects existing state before changing it.",
+    "viewBox": [
+      1000,
+      760
+    ]
+  },
+  "components": [
+    {
+      "id": "a0",
+      "label": "Tools installed",
+      "sublabel": "Git + required runtime",
+      "pos": [
+        50,
+        70
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "frontend"
+    },
+    {
+      "id": "b0",
+      "label": "git --version",
+      "sublabel": "Runtime version checks",
+      "pos": [
+        375,
+        70
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "frontend"
+    },
+    {
+      "id": "c0",
+      "label": "Usable toolchain",
+      "sublabel": "A version, not a commit",
+      "pos": [
+        700,
+        70
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "backend"
+    },
+    {
+      "id": "a1",
+      "label": "Commit identity",
+      "sublabel": "Name, email, defaults",
+      "pos": [
+        50,
+        230
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "frontend"
+    },
+    {
+      "id": "b1",
+      "label": "git config [--global]",
+      "sublabel": "Read or change settings",
+      "pos": [
+        375,
+        230
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "database"
+    },
+    {
+      "id": "c1",
+      "label": "Effective configuration",
+      "sublabel": "Local or user-wide scope",
+      "pos": [
+        700,
+        230
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "backend"
+    },
+    {
+      "id": "a2",
+      "label": "Remote access",
+      "sublabel": "Known GitHub account",
+      "pos": [
+        50,
+        390
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "frontend"
+    },
+    {
+      "id": "b2",
+      "label": "gh auth / SSH",
+      "sublabel": "login, status, ssh -T",
+      "pos": [
+        375,
+        390
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "security"
+    },
+    {
+      "id": "c2",
+      "label": "Verified authentication",
+      "sublabel": "Access, not authorship",
+      "pos": [
+        700,
+        390
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "backend"
+    },
+    {
+      "id": "a3",
+      "label": "Project folder",
+      "sublabel": "Files prepared locally",
+      "pos": [
+        50,
+        550
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "frontend"
+    },
+    {
+      "id": "b3",
+      "label": "git init -b main",
+      "sublabel": "Initialize repository metadata",
+      "pos": [
+        375,
+        550
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "database"
+    },
+    {
+      "id": "c3",
+      "label": "Local repository",
+      "sublabel": "No first commit or upload yet",
+      "pos": [
+        700,
+        550
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "backend"
+    }
+  ],
+  "connections": [
+    {
+      "from": "a0",
+      "to": "b0",
+      "variant": "emphasis"
+    },
+    {
+      "from": "b0",
+      "to": "c0",
+      "variant": "emphasis"
+    },
+    {
+      "from": "a1",
+      "to": "b1",
+      "variant": "emphasis"
+    },
+    {
+      "from": "b1",
+      "to": "c1",
+      "variant": "emphasis"
+    },
+    {
+      "from": "a2",
+      "to": "b2",
+      "variant": "emphasis"
+    },
+    {
+      "from": "b2",
+      "to": "c2",
+      "variant": "emphasis"
+    },
+    {
+      "from": "a3",
+      "to": "b3",
+      "variant": "emphasis"
+    },
+    {
+      "from": "b3",
+      "to": "c3",
+      "variant": "emphasis"
+    }
+  ],
+  "cards": []
+}

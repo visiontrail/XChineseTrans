@@ -1,0 +1,30 @@
+[
+  {
+    "order": 1,
+    "alt": "Codex: A practical field guide. Define the work. Let it run. Verify the result."
+  },
+  {
+    "order": 2,
+    "alt": "The Codex workspace: projects and tools, working context, task prompt, permissions, and model selection. Author-provided screenshot with English annotations."
+  },
+  {
+    "order": 3,
+    "alt": "Four parts of an executable brief: outcome, context, boundaries, and acceptance; followed by inspect, build, and verify."
+  },
+  {
+    "order": 4,
+    "alt": "An active Codex task: the brief, visible progress, inspection tools, and controls to steer or stop the run. Author-provided screenshot with English annotations."
+  },
+  {
+    "order": 5,
+    "alt": "Comparison of Local, Worktree, and Cloud, with a reminder that worktrees are not security sandboxes and a distinction between Plan, Goal, and Schedule."
+  },
+  {
+    "order": 6,
+    "alt": "Codex General settings: permission options, the Personalization entry, the projectless task folder, and terminal and sleep preferences. Author-provided screenshot with English annotations."
+  },
+  {
+    "order": 7,
+    "alt": "Six tools and their roles: model, agent, skill, MCP, plugin, and CLI."
+  }
+]

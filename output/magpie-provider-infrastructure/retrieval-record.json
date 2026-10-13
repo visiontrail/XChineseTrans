@@ -1,0 +1,58 @@
+[
+  {
+    "file": "source-post.json",
+    "url": "https://api.fxtwitter.com/status/2107860239584526597",
+    "retrieved_at": "2026-10-09T03:39:43.469757+00:00",
+    "bytes": 3755,
+    "sha256": "85ffc5fece6bbf74335dcc2e54d4f859a64b72254f3c28551ecfa86ccc41821c"
+  },
+  {
+    "file": "source-author-reply.json",
+    "url": "https://api.fxtwitter.com/status/2107860481503625545",
+    "retrieved_at": "2026-10-09T03:39:44.283453+00:00",
+    "bytes": 1847,
+    "sha256": "0c5ef6ed49dab9569b339cfbc80cd1d76ccf4136774d9eaa82a28b1a0fd48296"
+  },
+  {
+    "file": "source-image-1.jpg",
+    "url": "https://pbs.twimg.com/media/HUCeaofbIAAMmC6.jpg?name=orig",
+    "retrieved_at": "2026-10-09T03:40:19.510856+00:00",
+    "bytes": 368588,
+    "sha256": "d64b333bed590e1e3fb7ffcfcfd811bba5d7ecb584dff9b25cd64fd259091466"
+  },
+  {
+    "file": "source-image-2.jpg",
+    "url": "https://pbs.twimg.com/media/HUCfIotbQAAMRfQ.jpg?name=orig",
+    "retrieved_at": "2026-10-09T03:40:43.038100+00:00",
+    "bytes": 189837,
+    "sha256": "73f569e694bb8b95ad2b3249922c41fe6b65f073228d5cefc17b778a79cced87"
+  },
+  {
+    "file": "official-readme.md",
+    "url": "https://raw.githubusercontent.com/yetone/magpie/main/README.md",
+    "retrieved_at": "2026-10-09T03:40:45.534915+00:00",
+    "bytes": 18434,
+    "sha256": "1d674c12448a960ab37c7b0a2711bed6109400071ca2eeb4372730b34897131e"
+  },
+  {
+    "file": "official-add-provider.png",
+    "url": "https://github.com/yetone/magpie/raw/main/site/public/img/add-dark.png",
+    "retrieved_at": "2026-10-09T03:40:52.385350+00:00",
+    "bytes": 259392,
+    "sha256": "485719694ea8a0882458c95dcd6a50205fd84bf8815f5a16e06ab6115b3105ba"
+  },
+  {
+    "file": "official-add-provider-light.png",
+    "url": "https://raw.githubusercontent.com/yetone/magpie/main/site/public/img/add-light.png",
+    "retrieved_at": "2026-10-09T03:41:40.915633+00:00",
+    "bytes": 261193,
+    "sha256": "fc143fa366512b7c3982b6fa8eecd681c2d9403e8be8c9c671aa81095b2f4513"
+  },
+  {
+    "file": "official-reference.md",
+    "url": "https://raw.githubusercontent.com/yetone/magpie/main/docs/reference.md",
+    "retrieved_at": "2026-10-09T03:41:42.528952+00:00",
+    "bytes": 115612,
+    "sha256": "2f22de465028d40258b8e4b9aa45610cf50676d2761e3659ab010d6a89ca227d"
+  }
+]

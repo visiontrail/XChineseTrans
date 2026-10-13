@@ -1,0 +1,42 @@
+Use case: infographic-diagram / image restyle
+Asset type: a final English X infographic. Portrait 2:3, high resolution, ideally 1600x2400. Prior image is the content reference and restyling target; preserve every factual item but completely replace its visual identity with the specification below.
+
+STYLE: LeoGuoLabs Light v1, adapted from FrontierTechSN light theme.
+An elegant, calm, warm technical editorial design, clearly light yellow + forest green + gold. Strict palette: pale butter-yellow #F6EDCF canvas; warm ivory #FDFBF7 section surfaces; forest green #1A4A3A primary headings and body; muted green #426454 secondary text; warm yellow #E5C158 accent fills; gold #D4AF37 thin rules and tiny decorative accents; dark antique gold #80601B for readable gold-colored text. All small text must be forest green/muted green/dark gold and high contrast. Keep the overall image light, with pale-yellow canvas visible generously around the ivory groups. Subtle smooth golden glow near the top left only, no distressed texture.
+
+TYPOGRAPHY: Headline in elegant medium-weight Cormorant Garamond-style editorial serif, title split into two lines: "8 Benchmarks" in dark gold, "for AI Agents" in forest green. Text-dense areas use clear Plus Jakarta Sans-style sans-serif; benchmark names semibold, explanations regular. Moderate weights, not giant heavy black lettering. Section headings in title/sentence case as given, dark green with small dark-gold section numbers. No lengthy all-caps headings besides the small eyebrow.
+
+COMPOSITION: 6% outer margins; clear vertical hierarchy; airy but efficient. Header uses about 19% height. Below, three coherent warm ivory rounded panels (radius about 20 px at 1080 wide), a very fine pale-green outline, optional almost invisible green-tinted shadow. Each panel has a distinct section header, then the entries arranged vertically with consistent aligned number gutter and text. Section one has four compact rows; section two has two; section three has two. Names on first line, explanations below. Tiny gold separators optional, avoid heavy grid rules. No nested cards. Prioritize readable benchmark names including the long "Terminal-Bench-Science 0.1". Footer a restrained rule, serif or semibold-green main takeaway, smaller muted-green supporting line, small brand signature bottom right. Fit every word. No source attribution, URLs, dates, rankings, invented statistics, checkmarks, stamps, robots, or screenshot-like UI. No red, black, navy, neon, metallic gradients, broad dark panels, page frames or distressed paper.
+
+CONTENT, render exactly (quotes are delimiters, not printed):
+Eyebrow: "THE AGENT EVALUATION FIELD GUIDE"
+Title: "8 Benchmarks for AI Agents"
+Subtitle: "What they test. Where the results apply."
+
+Section 1: "01 / Code & software engineering"
+1. "Terminal-Bench 4.0"
+"Complex tasks in a terminal environment."
+2. "FrontierCode v1.1"
+"Code correctness, quality and mergeability."
+3. "CursorBench 4.0"
+"Ambiguous, multi-file tasks from real coding sessions."
+4. "DeepSWE v1.1"
+"Long-horizon software engineering tasks."
+
+Section 2: "02 / Computer use & business workflows"
+5. "OSWorld 2.0"
+"Long workflows through computer interfaces."
+6. "AutomationBench"
+"Business workflows across simulated app APIs."
+
+Section 3: "03 / Knowledge work & science"
+7. "GDPval-AA v2.1"
+"Quality of reports, slides and spreadsheets."
+8. "Terminal-Bench-Science 0.1"
+"Scientific workflows with verifiable outputs."
+
+Footer statement: "Match the benchmark to the work."
+Footer supporting text: "Check the setup. Test on your own tasks."
+Bottom signature: "LeoGuoLabs"
+
+The goal is a finished, distinctive, reusable light-theme visual identity. Do not simply tint the previous black-and-red poster: rebuild its typography, section surfaces, margins and visual weight. Check spelling and version digits carefully.

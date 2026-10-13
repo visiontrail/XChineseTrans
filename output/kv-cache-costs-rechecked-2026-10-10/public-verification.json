@@ -1,0 +1,17 @@
+{
+  "altButtons": 0,
+  "images": [
+    {
+      "alt": "Image",
+      "height": 1200,
+      "loaded": true,
+      "src": "https://pbs.twimg.com/media/HUPcOzoaIAATSDh?format=jpg&name=medium",
+      "width": 960
+    }
+  ],
+  "text": "Keeping an AI agent supplied with context is getting cheaper.\n\nDeepSeek reports that V4.1 Flash needs just 890 bytes per token for its global KV cache in GPU memory: about 437× smaller than V1 and 4× smaller than V4 Flash. That is a substantial engineering result—and publishing the design gives everyone something concrete to study.\n\nAPI prices are moving too. Cached input now costs $0.20 per million tokens on Opus 5.5, and $0.10 on both Sonnet 5.5 and GPT-6.1 Sol, at standard rates.\n\nDeepSeek deserves credit for its open research. Lower prices alone don't prove that OpenAI or Anthropic adopted its methods.\n\nIf your agent keeps revisiting the same codebase or documents, cheaper cached context can make a real difference to the bill.",
+  "times": [
+    "12:21 PM · Oct 10, 2026"
+  ],
+  "url": "https://x.com/LeoGuoLabs/status/2108774775413981246"
+}

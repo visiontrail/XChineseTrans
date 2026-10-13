@@ -1,0 +1,1 @@
+Screenshot of Claude’s web interface with a Voice item labeled Preview in the left sidebar. The main area shows a chat input and a temporary capacity notice. A TestingCatalog watermark appears at the upper right.

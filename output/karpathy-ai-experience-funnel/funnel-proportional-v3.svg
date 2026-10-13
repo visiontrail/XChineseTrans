@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1800" viewBox="0 0 1440 1800">
+<defs><filter id="grain"><feTurbulence type="fractalNoise" baseFrequency="0.72" numOctaves="3" stitchTiles="stitch"/></filter></defs>
+<rect width="1440" height="1800" fill="#FDFBF7"/><rect width="1440" height="1800" filter="url(#grain)" opacity="0.025"/>
+<g font-family="Helvetica Neue,Arial,sans-serif">
+<text x="86" y="157" font-size="96" fill="#1A4A3A" font-weight="600">The AI</text>
+<text x="86" y="268" font-size="96" fill="#1A4A3A" font-weight="600">experience gap</text>
+<text x="86" y="358" font-size="43" fill="#1A4A3A" font-weight="400">Billions have barely encountered an LLM.</text>
+<polygon points="80,460 840,460 713.3333333333334,636 206.66666666666666,636" fill="#DDE6DB" stroke="none"/>
+<path d="M 794.6666666666667 548 H 900" stroke="#B4C1B4" stroke-width="1.5" fill="none"/>
+<text x="930" y="533" font-size="82" fill="#80601B" font-weight="600">~6B</text>
+<text x="930" y="582" font-size="35" fill="#1A4A3A" font-weight="400">Little or no</text>
+<text x="930" y="626" font-size="35" fill="#1A4A3A" font-weight="400">LLM exposure</text>
+<polygon points="365,695 555,695 523.3333333333334,871 396.6666666666667,871" fill="#DDE6DB" stroke="none"/>
+<path d="M 557.1666666666666 783 H 900" stroke="#B4C1B4" stroke-width="1.5" fill="none"/>
+<text x="930" y="768" font-size="82" fill="#80601B" font-weight="600">~1–2B</text>
+<text x="930" y="817" font-size="35" fill="#1A4A3A" font-weight="400">Casual free-tier</text>
+<text x="930" y="861" font-size="35" fill="#1A4A3A" font-weight="400">users</text>
+<polygon points="458.73333333333335,930 461.26666666666665,930 460.84444444444443,1106 459.15555555555557,1106" fill="#DDE6DB" stroke="none"/>
+<path d="M 479.05555555555554 1018 H 900" stroke="#B4C1B4" stroke-width="1.5" fill="none"/>
+<text x="930" y="1003" font-size="82" fill="#80601B" font-weight="600">~20M</text>
+<text x="930" y="1052" font-size="35" fill="#1A4A3A" font-weight="400">Frontier tools for</text>
+<text x="930" y="1096" font-size="35" fill="#1A4A3A" font-weight="400">math &amp; code</text>
+<polygon points="459.99968333333334,1165 460.00031666666666,1165 460.0002111111111,1341 459.9997888888889,1341" fill="#DDE6DB" stroke="none"/>
+<path d="M 478.00026388888887 1253 H 900" stroke="#B4C1B4" stroke-width="1.5" fill="none"/>
+<text x="930" y="1238" font-size="82" fill="#80601B" font-weight="600">~5,000</text>
+<text x="930" y="1287" font-size="35" fill="#1A4A3A" font-weight="400">Internal frontier</text>
+<text x="930" y="1331" font-size="35" fill="#1A4A3A" font-weight="400">systems</text>
+<text x="86" y="1449" font-size="53" fill="#80601B" font-weight="500">6B ÷ 5,000 = 1,200,000×</text>
+<text x="86" y="1506" font-size="32" fill="#426454" font-weight="400">The smallest group is below one pixel at this scale.</text>
+<path d="M 86 1552 H 1354" stroke="#1A4A3A" stroke-width="1.5"/>
+<text x="86" y="1614" font-size="43" fill="#1A4A3A" font-weight="500">Task size · Domain · Access</text>
+<text x="86" y="1680" font-size="27" fill="#426454" font-weight="400">Segment areas scale linearly with Karpathy’s rough estimates.</text>
+<text x="86" y="1724" font-size="27" fill="#426454" font-weight="400">1–2B shown at midpoint: 1.5B.</text>
+<text x="1135" y="1758" font-size="30" fill="#1A4A3A" font-weight="400">LeoGuoLabs</text>
+</g></svg>

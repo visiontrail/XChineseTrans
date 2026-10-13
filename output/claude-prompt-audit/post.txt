@@ -1,0 +1,11 @@
+Give your Claude Code instructions a checkup.
+
+/checkup prompt-audit
+
+It audits CLAUDE.md, skills, agents and custom commands for instructions written for older models. It also checks for stale paths, outdated commands and conflicting rules.
+
+The demo shows it removing redundant instructions, rewriting all-caps rules in plain language, and leaving a skill unchanged where no cleanup is needed.
+
+It can edit the files, so review the diff and keep the project constraints that still matter.
+
+/doctor prompt-audit works too.

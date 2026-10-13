@@ -1,0 +1,160 @@
+Browser tab: 1, Title: "Leo Guo on X: \"Google is testing a newer Gemini 4 build while most developers are still waiting for Argon. Business Insider reports that “Carbon” is running inside Jetski, Google’s internal coding tool. One employee said it “feels like Opus 5.5” for coding, but also said they needed to test it https://t.co/Y4meZvFhWu\" / X", URL: "https://x.com/LeoGuoLabs/status/2108719574883659948".
+0 AXWebArea URL: x.com/LeoGuoLabs/status/2108719574883659948, Leo Guo on X: "Google is testing a newer Gemini 4 build while most developers are still waiting for Argon. Business Insider reports that “Carbon” is running inside Jetski, Google’s internal coding tool. One employee said it “feels like Opus 5.5” for coding, but also said they needed to test it https://t.co/Y4meZvFhWu" / X
+	1 container
+		2 heading To view keyboard shortcuts, press question mark View keyboard shortcuts, Value: 2
+			3 text To view keyboard shortcuts, press question mark
+			4 link Description: View keyboard shortcuts, Value: x.com/i/keyboard_shortcuts
+		5 container
+			6 button Grok
+			7 button Chat
+		8 button Skip to home timeline
+		9 button Skip to trending
+		10 container
+			11 heading X, Value: 1
+				12 link Description: X, Value: x.com/home
+			13 container Primary
+				14 link Description: Home, Value: x.com/home
+				15 link Description: Search and explore, Value: x.com/explore
+				16 link Description: Notifications, Value: x.com/notifications
+				17 link Description: Follow, Value: x.com/i/connect_people
+				18 link Description: Direct Messages, Value: x.com/i/chat
+				19 link Description: Grok, Value: x.com/i/grok
+				20 link Description: Premium, Value: x.com/i/premium
+				21 link Description: History, Value: x.com/i/history
+				22 link Description: Profile, Value: x.com/LeoGuoLabs
+				23 pop up button (collapsed) Description: More menu items, Secondary Actions: Expand
+					24 container
+						25 text More
+			26 link Description: Post, Value: x.com/compose/post
+			27 button Account menu
+				28 container
+					29 container Leo Guo
+						30 image Leo Guo
+				31 container
+					32 container
+						33 text Leo Guo
+						34 image Verified account
+					35 text @LeoGuoLabs
+				36 container undefined unread items
+		37 container
+			38 container Home timeline
+				39 container
+					40 container
+						41 button Back
+						42 heading Post, Value: 2
+							43 text Post
+				44 container Conversation
+					45 heading Conversation, Value: 1, ID: accessible-list-7
+						46 text Conversation
+					47 container Timeline: Conversation
+						48 container
+							49 container
+								50 container Leo Guo Verified account @LeoGuoLabs Google is testing a newer Gemini 4 build while most developers are still waiting for Argon. Business Insider reports that “Carbon” is running inside Jetski, Google’s internal coding tool. One employee said it “feels like Opus 5.5” for coding, but also said they needed to test it more. Encouraging, but still an early impression. It’s unclear whether Carbon will ship as an Argon update or a separate model. More competition in coding agents is welcome. I care about the patch that passes the tests and needs less cleanup. businessinsider.com/google-employe Business Insider headline by Hugh Langley reporting that Google employees are testing a newer AI model they consider better than the model awaiting public rollout. ALT
+									51 container
+										52 link x.com/LeoGuoLabs
+										53 container
+											54 container id__wql83siz9q
+												55 link Description: Leo Guo Verified account, Value: x.com/LeoGuoLabs
+												56 link Description: @LeoGuoLabs, Value: x.com/LeoGuoLabs
+											57 container
+												58 button Boost
+													59 text Boost
+												60 button Grok actions
+												61 pop up button (collapsed) Description: More, Secondary Actions: Expand
+										62 container id__x337eoeqq4b
+											63 text Google is testing a newer Gemini 4 build while most developers are still waiting for Argon.
+
+Business Insider reports that “Carbon” is running inside Jetski, Google’s internal coding tool. One employee said it “feels like Opus 5.5” for coding, but also said they needed to test it more.
+
+Encouraging, but still an early impression. It’s unclear whether Carbon will ship as an Argon update or a separate model.
+
+More competition in coding agents is welcome. I care about the patch that passes the tests and needs less cleanup.
+
+
+											64 link Description: businessinsider.com/google-employe, Value: t.co/WGMl6SZKe0
+										65 container
+											66 link Value: x.com/LeoGuoLabs/status/2108719574883659948/photo/1, Description: Business Insider headline by Hugh Langley reporting that Google employees are testing a newer AI model they consider better than the model awaiting public rollout.
+											67 button ALT
+												68 text ALT
+										69 container
+											70 link Description: 8:41 AM · Oct 10, 2026, Value: x.com/LeoGuoLabs/status/2108719574883659948
+										71 container id__ad6hx39wt8
+											72 button 0 Replies. Reply
+											73 pop up button (collapsed) Description: 0 reposts. Repost, Secondary Actions: Expand
+											74 button 0 Likes. Like
+											75 button 0 Bookmarks. Bookmark
+											76 pop up button (collapsed) Description: Share post, Secondary Actions: Expand
+								77 container
+									78 container
+										79 link Description: Leo Guo, Value: x.com/LeoGuoLabs
+										80 container
+											81 container
+												82 container
+													83 text Post your reply
+													84 text entry area (settable) Description: Post text, Value: 
+
+											85 button (disabled) Reply
+												86 text Reply
+			87 container
+				88 container Trending
+					89 container
+						90 container Search
+							91 container
+								92 combo box (settable) Search query
+						93 container Relevant people
+							94 heading Relevant people, Value: 2
+								95 text Relevant people
+							96 content list
+								97 container
+									98 container
+										99 link Description: Leo Guo Verified account, Value: x.com/LeoGuoLabs
+										100 link Description: @LeoGuoLabs, Value: x.com/LeoGuoLabs
+						101 container Trending now
+							102 heading Trending now, Value: 1, ID: accessible-list-8
+								103 text Trending now
+							104 container Timeline: Trending now
+								105 container
+									106 heading What’s happening, Value: 2
+										107 text What’s happening
+									108 link Trending in Singapore #MoonshadowSeriesLIVE More
+										109 container id__u47vltg9vxg
+											110 text Trending in Singapore
+											111 text #MoonshadowSeriesLIVE
+											112 pop up button (collapsed) Description: More, Secondary Actions: Expand
+									113 link Trending in Singapore #sgxmm More
+										114 container id__pqg6dq446rg
+											115 text Trending in Singapore
+											116 text #sgxmm
+											117 pop up button (collapsed) Description: More, Secondary Actions: Expand
+									118 link Trending in Singapore The F1 More
+										119 container id__zpdyqtwgwa
+											120 text Trending in Singapore
+											121 text The F1
+											122 pop up button (collapsed) Description: More, Secondary Actions: Expand
+									123 link Trending in Singapore Cantonese More
+										124 container id__fwkk8tcd05r
+											125 text Trending in Singapore
+											126 text Cantonese
+											127 pop up button (collapsed) Description: More, Secondary Actions: Expand
+									128 link Description: Show more, Value: x.com/explore/tabs/for-you
+						129 container Footer
+							130 container
+								131 link Description: Terms, Value: x.com/tos
+								132 text ·
+							133 container
+								134 link Description: Privacy, Value: x.com/privacy
+								135 text ·
+							136 container
+								137 link Description: Cookies, Value: support.x.com/articles/20170514
+								138 text ·
+							139 container
+								140 link Description: Accessibility, Value: help.x.com/resources/accessibility
+								141 text ·
+							142 container
+								143 link Description: Ads Info, Value: business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo
+								144 text ·
+							145 pop up button (collapsed) Description: More, Secondary Actions: Expand
+								146 text More
+							147 text © 2026 X Corp.
+
+The focused UI element is 66 link URL: x.com/LeoGuoLabs/status/2108719574883659948/photo/1, Description: Business Insider headline by Hugh Langley reporting that Google employees are testing a newer AI model they consider better than the model awaiting public rollout.

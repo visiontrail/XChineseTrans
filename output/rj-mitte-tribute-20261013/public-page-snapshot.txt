@@ -1,0 +1,180 @@
+- heading "To view keyboard shortcuts, press question mark View keyboard shortcuts" [level=2]:
+  - generic: To view keyboard shortcuts, press question mark
+  - link "View keyboard shortcuts":
+    - /url: /i/keyboard_shortcuts
+- button "Grok":
+- button "Chat":
+- button "Skip to home timeline"
+- button "Skip to trending"
+- banner:
+  - heading "X" [level=1]:
+    - link "X":
+      - /url: /home
+  - navigation "Primary":
+    - link "Home (New unread posts)":
+      - /url: /home
+      - generic "undefined unread items"
+      - generic: Home
+    - link "Search and explore":
+      - /url: /explore
+      - generic: Explore
+    - link "Notifications":
+      - /url: /notifications
+      - generic: Notifications
+    - link "Follow":
+      - /url: /i/connect_people
+      - generic: Follow
+    - link "Direct Messages":
+      - /url: /i/chat
+      - generic: Chat
+    - link "Calls":
+      - /url: /i/calls
+      - generic: Calls
+    - link "Grok":
+      - /url: /i/grok
+      - generic: Grok
+    - link "Subscription":
+      - /url: /i/premium
+      - generic: Subscription
+    - link "History":
+      - /url: /i/history
+      - generic: History
+    - link "Creator Studio":
+      - /url: /i/jf/creators/studio
+      - generic: Creator Studio
+    - link "Articles":
+      - /url: /compose/articles
+      - generic: Articles
+    - link "Profile":
+      - /url: /LeoGuoLabs
+      - generic: Profile
+    - button "More menu items":
+      - generic: More
+  - link "Post":
+    - /url: /compose/post
+    - generic: Post
+  - button "Account menu":
+    - generic "Leo Guo":
+      - img "Leo Guo"
+    - generic: Leo Guo
+    - img "Verified account"
+    - generic: "@LeoGuoLabs"
+    - generic "undefined unread items"
+- main:
+  - generic "Home timeline":
+    - button "Back":
+    - heading "Post" [level=2]
+    - status:
+      - button:
+        - generic: See new posts
+    - region "Conversation":
+      - heading "Conversation" [level=1]
+      - 'generic "Timeline: Conversation"':
+        - article "Leo Guo Verified account @LeoGuoLabs RJ Mitte has died at just 34. 💔 He brought so much heart to Walt Jr. in Breaking Bad. The little SaveWalterWhite.com page Walt Jr. built to help pay for his dad’s cancer treatment could now go live in minutes from a single AI prompt. That scene feels especially bittersweet today. Far too young. Rest in peace, RJ. 🕯️ Portrait of RJ Mitte, who played Walter White Jr. in Breaking Bad, wearing a black suit against a gray background. ALT":
+          - link:
+            - /url: /LeoGuoLabs
+          - link "Leo Guo Verified account":
+            - /url: /LeoGuoLabs
+            - generic: Leo Guo
+            - img "Verified account"
+          - link "@LeoGuoLabs":
+            - /url: /LeoGuoLabs
+            - generic: "@LeoGuoLabs"
+          - button "Boost":
+            - generic: Boost
+          - button "Grok actions":
+          - button "More":
+          - text: RJ Mitte has died at just 34. 💔 He brought so much heart to Walt Jr. in Breaking Bad. The little
+          - link "SaveWalterWhite.com":
+            - /url: https://t.co/jzd1xRhNnY
+          - text: page Walt Jr. built to help pay for his dad’s cancer treatment could now go live in minutes from a single AI prompt. That scene feels especially bittersweet today. Far too young. Rest in peace, RJ. 🕯️
+          - link "Portrait of RJ Mitte, who played Walter White Jr. in Breaking Bad, wearing a black suit against a gray background.":
+            - /url: /LeoGuoLabs/status/2109839359893811259/photo/1
+            - generic "Portrait of RJ Mitte, who played Walter White Jr. in Breaking Bad, wearing a black suit against a gray background.":
+              - img "Portrait of RJ Mitte, who played Walter White Jr. in Breaking Bad, wearing a black suit against a gray background."
+          - button "ALT" [active]:
+            - generic: ALT
+          - link "10:51 AM · Oct 13, 2026":
+            - /url: /LeoGuoLabs/status/2109839359893811259
+            - time: 10:51 AM · Oct 13, 2026
+          - button "0 Replies. Reply":
+          - button "0 reposts. Repost":
+          - button "0 Likes. Like":
+          - button "0 Bookmarks. Bookmark":
+          - button "Share post":
+        - link "Leo Guo":
+          - /url: /LeoGuoLabs
+          - generic "Leo Guo":
+            - img "Leo Guo"
+        - generic: Post your reply
+        - textbox "Post text"
+        - button "Reply" [disabled]:
+          - generic: Reply
+  - generic "Trending":
+    - search "Search":
+      - combobox "Search query"
+    - complementary "Relevant people":
+      - heading "Relevant people" [level=2]:
+        - generic: Relevant people
+      - list:
+        - link:
+          - /url: /LeoGuoLabs
+        - link "Leo Guo Verified account":
+          - /url: /LeoGuoLabs
+          - generic: Leo Guo
+          - img "Verified account"
+        - link "@LeoGuoLabs":
+          - /url: /LeoGuoLabs
+          - generic: "@LeoGuoLabs"
+        - generic: Previously a senior C/C++ engineer in telecom. Now exploring AI and emerging tech, sharing useful tools and an engineering perspective.
+    - heading "Live on X" [level=2]:
+      - generic: Live on X
+    - button "Broadcast, Shibetoshi Nakamoto is hosting, Hosted by Shibetoshi Nakamoto, road to 1000 ELO (current ELO 811), Shibetoshi Nakamoto joined":
+      - generic: Shibetoshi Nakamoto
+      - img "Verified account"
+      - text: is hosting
+      - generic: road to 1000 ELO (current ELO 811)
+      - generic: +1.3K
+    - region "Trending now":
+      - heading "Trending now" [level=1]
+      - 'generic "Timeline: Trending now"':
+        - heading "What’s happening" [level=2]:
+          - generic: What’s happening
+        - link "Politics · Trending Bernie More":
+          - generic: Politics · Trending
+          - generic: Bernie
+          - button "More":
+        - link "Politics · Trending Fraud More":
+          - generic: Politics · Trending
+          - generic: Fraud
+          - button "More":
+        - link "Politics · Trending Judge More":
+          - generic: Politics · Trending
+          - generic: Judge
+          - button "More":
+        - link "Politics · Trending Prison More":
+          - generic: Politics · Trending
+          - generic: Prison
+          - button "More":
+        - link "Show more":
+          - /url: /explore/tabs/for-you
+          - generic: Show more
+    - navigation "Footer":
+      - link "Terms":
+        - /url: https://x.com/tos
+      - generic: ·
+      - link "Privacy":
+        - /url: https://x.com/privacy
+      - generic: ·
+      - link "Cookies":
+        - /url: https://support.x.com/articles/20170514
+      - generic: ·
+      - link "Accessibility":
+        - /url: https://help.x.com/resources/accessibility
+      - generic: ·
+      - link "Ads Info":
+        - /url: https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo
+      - generic: ·
+      - button "More":
+        - text: More
+      - generic: © 2026 X Corp.

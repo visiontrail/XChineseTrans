@@ -1,0 +1,21 @@
+{
+  "article.html": {
+    "sections": 6,
+    "brief_questions": 5,
+    "video": 1,
+    "missing_local_assets": [],
+    "links_checked": 9,
+    "responsive_css_present": true,
+    "browser_visual_review": "blocked: Ego CLI taskSpace is not defined; native Ego connection timeout"
+  },
+  "article-review-zh.html": {
+    "sections": 6,
+    "brief_questions": 5,
+    "video": 1,
+    "missing_local_assets": [],
+    "links_checked": 8,
+    "responsive_css_present": true,
+    "browser_visual_review": "blocked: Ego CLI taskSpace is not defined; native Ego connection timeout"
+  },
+  "video_sha256": "f61d1c3e19aff657961fc9049bbc98fb1b48c623f294cd9316296b0aa36ff771"
+}

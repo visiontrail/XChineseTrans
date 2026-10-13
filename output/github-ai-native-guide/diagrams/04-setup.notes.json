@@ -1,0 +1,7 @@
+{
+  "notes": [
+    "ssh-keygen creates a key pair; it does not authorize a GitHub account by itself.",
+    "A package-manager install supplies tools. No project history is created here."
+  ],
+  "headings": []
+}

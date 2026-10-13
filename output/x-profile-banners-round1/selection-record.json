@@ -1,0 +1,29 @@
+{
+  "state": "prepared_for_selection",
+  "generation": "built-in image_gen",
+  "assets": [
+    {
+      "key": "01-wordmark",
+      "name": "极简字标",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/x-profile-banners-round1/01-wordmark-v1.png"
+    },
+    {
+      "key": "02-orbits",
+      "name": "轨道与连接",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/x-profile-banners-round1/02-orbits-v1.png"
+    },
+    {
+      "key": "03-signal",
+      "name": "抽象信号",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/x-profile-banners-round1/03-signal-v1.png"
+    },
+    {
+      "key": "04-lab-notebook",
+      "name": "工程手稿",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/x-profile-banners-round1/04-lab-notebook-v1.png"
+    }
+  ],
+  "review": "All four inspected visually: exact brand spelling and supporting text readable; warm ivory green gold identity, generous left space, different technical illustration directions. These are first-round concepts; exact platform export and live crop can follow selection.",
+  "recommendedExport": "1500x500",
+  "dimensionsSource": "https://help.x.com/en/managing-your-account/common-issues-when-uploading-profile-photo"
+}

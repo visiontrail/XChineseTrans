@@ -1,0 +1,67 @@
+LeoGuoLabs Light v1: warm ivory #FDFBF7 background with barely visible, evenly distributed natural paper fiber; forest green #1A4A3A primary text, muted green #426454 supporting text, sparse dark gold #80601B emphasis. One clean modern sans-serif family like Geist or Inter throughout: regular descriptions, medium labels, semibold headings. Roughly 90% light composition. Never use serif faces, saturated yellow backgrounds, gradients, glow, shadows, leaves, badges, generic icons, distressed paper, rubber stamps, rounded cards, or heavy borders.
+
+Use case: infographic-diagram / style-transfer.
+Asset: one finished English comparison infographic for LeoGuoLabs, portrait around 4:5, high resolution, aiming for 2048 x 2560 or larger.
+Inputs: Image 1 is the Chinese four-agent table, a CONTENT AND COMPARISON-STRUCTURE reference only. Image 2 is LeoGuoLabs' paper-background visual reference, a STYLE reference only. Do not import any benchmark text from Image 2. Do not copy the original black/red design, logos, stamps, paperclip, frame, tagline, author identity, or source credit.
+Primary request: Recreate the four-personal-agent comparison in the LeoGuoLabs style, in natural English. Replace the entire Today AI column with accurate Grok Bot information. The four columns, in left-to-right order, MUST be "Meta Muse", "OpenAI dot", "Grok Bot", "Manus Cue". Today AI must appear nowhere. All content must use the exact English text provided below, not translated from the reference. Use plain product names, no product logos.
+
+Composition: an open editorial comparison matrix. Generous 5-6% margins. Moderately sized title at top left, short subtitle and snapshot date underneath. Narrow left column for seven row labels, then four balanced product columns. All cells left aligned. Spacious row heights, subtle very thin horizontal rules for reading across rows, no boxed cells and no vertical grid. Keep the descriptions easily legible with intelligent line wraps. Product column names should fit cleanly on one or two lines in semibold. A sparse dark gold accent can identify Grok Bot and the seven plain row labels. It must look like a professional printed information sheet, not a dashboard. The table is the dominant visual content; do not let title or empty space crowd it. Include the complete footer and small "LeoGuoLabs" signature on bottom edge. Do not crop or omit any row or cell.
+
+Text (verbatim, all English):
+TITLE: "Four Personal AI Agents"
+SUBTITLE: "What they do. How they work. What access costs."
+DATE: "Public product details · 30 Sep 2026"
+
+COLUMN HEADINGS:
+"Meta Muse" | "OpenAI dot" | "Grok Bot" | "Manus Cue"
+
+ROW 1 LABEL: "Focus"
+Meta Muse: "Everyday tasks, long-term goals and small-business work"
+OpenAI dot: "Ongoing projects and delivery across connected tools"
+Grok Bot: "Persistent AI teammates for work across apps and websites"
+Manus Cue: "Delegated tasks and collaboration between personal agents"
+
+ROW 2 LABEL: "Background work"
+Meta Muse: "Dedicated cloud computer; keeps working after the app closes"
+OpenAI dot: "Own cloud computer; local work needs your device connected"
+Grok Bot: "Persistent cloud computer; work continues with your laptop closed"
+Manus Cue: "Each agent has its own computer for delegated tasks"
+
+ROW 3 LABEL: "Memory & initiative"
+Meta Muse: "Cross-chat memory, Goals and proactive suggestions"
+OpenAI dot: "Learns preferences; proactive research uses read-only tools"
+Grok Bot: "Memory per Bot; learned skills and scheduled routines"
+Manus Cue: "Personalization advertised; memory controls not confirmed"
+
+ROW 4 LABEL: "Access"
+Meta Muse: "Web, mobile and WhatsApp"
+OpenAI dot: "ChatGPT web, desktop and mobile; Slack and Teams"
+Grok Bot: "macOS, Windows, Linux, iOS and Android"
+Manus Cue: "Web, desktop and mobile; iOS pending review"
+
+ROW 5 LABEL: "Identity"
+Meta Muse: "Connected accounts; separate inbox not confirmed"
+OpenAI dot: "Your connected accounts; specialist identities in preview"
+Grok Bot: "Named Bots; shared account computer and app logins"
+Manus Cue: "Own email, phone number, wallet and computer"
+
+ROW 6 LABEL: "Parallel work"
+Meta Muse: "Concurrent tasks; business connectors"
+OpenAI dot: "One primary dot, multiple tasks; more dots planned"
+Grok Bot: "Multiple Bots in parallel; group chats and task handoffs"
+Manus Cue: "Multiple agents; group-chat collaboration"
+
+ROW 7 LABEL: "Price & access"
+Meta Muse: "Free / Power $20/mo / Maximum $100/mo"
+OpenAI dot: "First dot included with Pro or Business Premium; usage limits apply"
+Grok Bot: "Cursor Pro from $20/mo; eligible Grok or X plans can link"
+Manus Cue: "Invite-only early access; free"
+
+FOOTER HEADING: "Read the conditions"
+FOOTER TEXT: "Announced does not mean available to every account. Unconfirmed does not mean unsupported."
+SECOND FOOTER LINE: "USD monthly prices shown. Access, permissions and limits vary by plan and region."
+SIGNATURE: "LeoGuoLabs"
+
+Factual invariants: Grok Bot's Bots share one account-level cloud computer, not a separate isolated computer per Bot. A paid Cursor plan or eligible linked subscription supplies access; do not reuse Today AI's Free/Pro/Ultra pricing. OpenAI dot's proactive research is read-only, not unrestricted autonomous actions. More personal dots are planned, not currently asserted. For Cue retain the iOS review qualification and uncertainty on memory controls. These constraints guide text above; do not add them as extra paragraphs.
+
+Quality checks: spell each product name exactly, especially "Grok Bot", "OpenAI dot", "Manus Cue" and "LeoGuoLabs". Preserve every supplied claim and its qualification. Keep typography clean and uniform, no tiny footnotes, no clipped words, no duplicated rows. No extra source attribution, disclaimer about how the graphic was produced, investment disclaimer, marketing slogans, or proof-of-testing checkmarks.

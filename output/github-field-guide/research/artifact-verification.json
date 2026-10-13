@@ -1,0 +1,24 @@
+{
+  "article_prose_words_excluding_code_tables": 4635,
+  "sections": 15,
+  "figures": 7,
+  "offline_images": true,
+  "original_capture_sha256": [
+    {
+      "path": "screenshots/originals/01-repository.png",
+      "sha256": "b644e79d091f577160e1c51a08f210ea44cb870449c18cd0ae10ccfb12ed07fc"
+    },
+    {
+      "path": "screenshots/originals/02-code-search.png",
+      "sha256": "be4d6b1068f74a75e8246b3dad9a25ba1068f648e190d0c8073ff80c24a96f23"
+    },
+    {
+      "path": "screenshots/originals/03-pull-request.png",
+      "sha256": "7b0a920129908a271726663fbfd00d140e09d36893999f28c29ae658d99bcf2c"
+    },
+    {
+      "path": "screenshots/originals/04-pages.png",
+      "sha256": "c715dac2eb6b01894a05f0cd0ef5bb976f2fd05baebe32fcc3cf4a4df9890983"
+    }
+  ]
+}

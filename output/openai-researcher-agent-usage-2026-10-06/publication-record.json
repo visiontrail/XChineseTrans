@@ -1,0 +1,70 @@
+{
+  "state": "publicly_verified",
+  "account": "@LeoGuoLabs",
+  "format": "standalone",
+  "supplied_source": "https://x.com/leo114119/status/2107297037909725430",
+  "original_analysis_post": "https://x.com/EpochAIResearch/status/2107174397698289762",
+  "source_continuations": [
+    "https://x.com/EpochAIResearch/status/2107174410054783123",
+    "https://x.com/EpochAIResearch/status/2107174421949755767"
+  ],
+  "primary_sources": [
+    "https://epoch.ai/data-insights/openai-coding-agent-spending",
+    "https://openai.com/index/research-acceleration-view-inside-openai/"
+  ],
+  "final_text_path": "post-v1.txt",
+  "alt_path": "alt-v1.txt",
+  "media": [
+    {
+      "path": "media/epoch-ai-original-chart.jpeg",
+      "source_url": "https://pbs.twimg.com/media/HT4v8q9bsAAdOUp?format=jpg&name=medium",
+      "retrieved_at": "2026-10-06T07:03:15.257419+00:00",
+      "bytes": 98993,
+      "sha256": "f25563d84bc3679a29771726b05ec5465f11f210392606a67f369395d813a341",
+      "modified": false,
+      "credit": "Yafah Edelman and Luke Emberson / Epoch AI (CC BY)"
+    }
+  ],
+  "checks": {
+    "live_account_verified": true,
+    "original_language_read": true,
+    "original_and_two_relevant_continuations_read": true,
+    "relevant_video_present": false,
+    "chart_visually_inspected": true,
+    "composer_exact_text_match": true,
+    "composer_media_count": 1,
+    "composer_post_enabled": true,
+    "alt_saved": true,
+    "composer_link_text_present": true,
+    "native_link_card": "Replaced by selected image after upload; URL retained"
+  },
+  "approval": {
+    "status": "approved",
+    "rule": "AGENTS.md final-content review; bare link does not authorize submission",
+    "user_message": "确认发布。",
+    "recorded_at": "2026-10-06T07:08:55.286474+00:00"
+  },
+  "actual_published_url": "https://x.com/LeoGuoLabs/status/2107367511675244880",
+  "evidence": [
+    "evidence/composer-review.jpg",
+    "evidence/composer-media.jpg",
+    "evidence/composer-text.txt",
+    "evidence/published-page.txt",
+    "evidence/published-page.jpg",
+    "evidence/published-viewport.jpg"
+  ],
+  "prepared_at": "2026-10-06T07:05:23.037772+00:00",
+  "submitted_at": "2026-10-06T07:09:36.232154+00:00",
+  "public_verification": {
+    "verified_at": "2026-10-06T07:10:21.133238+00:00",
+    "url": "https://x.com/LeoGuoLabs/status/2107367511675244880",
+    "account": "@LeoGuoLabs",
+    "format": "standalone",
+    "complete_approved_text": true,
+    "media_count": 1,
+    "selected_chart_displayed": true,
+    "english_alt_present": true,
+    "source_link_present": "https://epoch.ai/data-insights/openai-coding-agent-spending",
+    "video_applicable": false
+  }
+}

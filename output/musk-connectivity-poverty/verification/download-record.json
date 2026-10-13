@@ -1,0 +1,91 @@
+{
+  "retrieved_at_utc": "2026-10-09T03:35:16Z",
+  "source_post": "https://x.com/XFreeze/status/2015067284205916553",
+  "media_url": "https://video.twimg.com/ext_tw_video/2015067208188116992/pu/vid/avc1/1080x1080/LXkDRFPYaleYbSsZ.mp4?tag=19",
+  "bytes": 4309629,
+  "sha256": "c419b9aa1d37793a8b0fcb3635817bfafb08bd7b907fbc1b350ad807715a7b06",
+  "method": "validated HTTP ranges",
+  "parts": [
+    {
+      "index": 0,
+      "start": 0,
+      "end": 524287,
+      "bytes": 524288,
+      "content_range": "bytes 0-524287/4309629",
+      "path": "output/musk-connectivity-poverty/verification/download-parts/00.bin",
+      "sha256": "4a6efd067726f7f16119a51ba091f4eddc42587d493e5a550b20907de19d91d2"
+    },
+    {
+      "index": 1,
+      "start": 524288,
+      "end": 1048575,
+      "bytes": 524288,
+      "content_range": "bytes 524288-1048575/4309629",
+      "path": "output/musk-connectivity-poverty/verification/download-parts/01.bin",
+      "sha256": "22b6cad6c5e826dd56182841df260b87a81b22cd4f3c334f5e59666cfbcabbbf"
+    },
+    {
+      "index": 2,
+      "start": 1048576,
+      "end": 1572863,
+      "bytes": 524288,
+      "content_range": "bytes 1048576-1572863/4309629",
+      "path": "output/musk-connectivity-poverty/verification/download-parts/02.bin",
+      "sha256": "38f2548f30e376fb0d6580ec9b3f0443c5b35b0af487adef8ddb31434589b279"
+    },
+    {
+      "index": 3,
+      "start": 1572864,
+      "end": 2097151,
+      "bytes": 524288,
+      "content_range": "bytes 1572864-2097151/4309629",
+      "path": "output/musk-connectivity-poverty/verification/download-parts/03.bin",
+      "sha256": "0ee7b013f9268da78eb64c8cfb3009bcdca376e724db80fe305759392c0c6053"
+    },
+    {
+      "index": 4,
+      "start": 2097152,
+      "end": 2621439,
+      "bytes": 524288,
+      "content_range": "bytes 2097152-2621439/4309629",
+      "path": "output/musk-connectivity-poverty/verification/download-parts/04.bin",
+      "sha256": "86d4d7038595def75879d82ba67017f058f7866d57cb94f9a15576e47745ed40"
+    },
+    {
+      "index": 5,
+      "start": 2621440,
+      "end": 3145727,
+      "bytes": 524288,
+      "content_range": "bytes 2621440-3145727/4309629",
+      "path": "output/musk-connectivity-poverty/verification/download-parts/05.bin",
+      "sha256": "658f6bc3bfb1199c1a261be7367c4c7657b3c0e359b8a857ad30818ede0f3a11"
+    },
+    {
+      "index": 6,
+      "start": 3145728,
+      "end": 3670015,
+      "bytes": 524288,
+      "content_range": "bytes 3145728-3670015/4309629",
+      "path": "output/musk-connectivity-poverty/verification/download-parts/06.bin",
+      "sha256": "2808ad1c609a49ea803b41255599e07eee3005685f366d1981712815657372d0"
+    },
+    {
+      "index": 7,
+      "start": 3670016,
+      "end": 4194303,
+      "bytes": 524288,
+      "content_range": "bytes 3670016-4194303/4309629",
+      "path": "output/musk-connectivity-poverty/verification/download-parts/07.bin",
+      "sha256": "c8d0857946e288ad1c9d891c833797a9e54e558aea7b77d90ce69224753d4bfb"
+    },
+    {
+      "index": 8,
+      "start": 4194304,
+      "end": 4309628,
+      "bytes": 115325,
+      "content_range": "bytes 4194304-4309628/4309629",
+      "path": "output/musk-connectivity-poverty/verification/download-parts/08.bin",
+      "sha256": "2977cf9e17872038187fa9839fc49de5509e7d2efabcf89df926d8bc72705a05"
+    }
+  ]
+}

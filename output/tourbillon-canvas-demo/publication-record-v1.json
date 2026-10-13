@@ -1,0 +1,38 @@
+{
+  "url": "https://x.com/LeoGuoLabs/status/2107144691791892905",
+  "account": "@LeoGuoLabs",
+  "format": "standalone",
+  "text": "A dual-axis tourbillon, presented like a luxury watch ad—inside Gemini Canvas.\n\nFive chapters, three view modes, an acoustic oscilloscope, and gold mechanisms against a black background. The video captures an interactive app, with controls for exploring the mechanism.\n\nA useful direction for AI-built product demos: give people something they can inspect and explore.",
+  "text_matches_approved_draft": true,
+  "direct_video_count": 1,
+  "video_file": "tourbillon-source-v1.mp4",
+  "video_sha256": "56ba97aa5a8ee8499389430e764a76cf05457ebdea5a3044a9169069a9ec0549",
+  "media_before": [
+    {
+      "currentTime": 29.613039,
+      "duration": 156.933,
+      "error": null,
+      "muted": true,
+      "paused": false,
+      "readyState": 4,
+      "videoHeight": 720,
+      "videoWidth": 1152
+    }
+  ],
+  "media_after": [
+    {
+      "currentTime": 63.795437,
+      "duration": 156.933,
+      "error": null,
+      "muted": true,
+      "paused": false,
+      "readyState": 4,
+      "videoHeight": 720,
+      "videoWidth": 1152
+    }
+  ],
+  "playback_progressed": true,
+  "approval": "User explicitly approved the previously displayed English standalone draft and downloaded source video with: 按照这个要求发布吧",
+  "screenshot": "published-post-v2.jpg",
+  "screenshot_notes": "The first fullPage+clip capture was misaligned. The viewport clip in v2 was inspected and contains the author, complete text and video without sidebars or reply composer."
+}

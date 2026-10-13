@@ -1,0 +1,284 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 1160000,
+    "duration": 644160,
+    "text": "The"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 1804160,
+    "duration": 2190830,
+    "text": "key"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3995000,
+    "duration": 5927910,
+    "text": "question"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 10695830,
+    "duration": 1160000,
+    "text": "is"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11855830,
+    "duration": 3479580,
+    "text": "whether"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15463750,
+    "duration": 6314580,
+    "text": "expanding"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21778330,
+    "duration": 4252500,
+    "text": "research"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 26030830,
+    "duration": 7602910,
+    "text": "capacity"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36340000,
+    "duration": 1675410,
+    "text": "can"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 38015410,
+    "duration": 6700830,
+    "text": "overcome"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 45876250,
+    "duration": 6056660,
+    "text": "diminishing"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 51932910,
+    "duration": 6700830,
+    "text": "returns"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 62886660,
+    "duration": 772910,
+    "text": "The"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 63659580,
+    "duration": 3865830,
+    "text": "paper"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 67525830,
+    "duration": 4381250,
+    "text": "calls"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 71907080,
+    "duration": 1932910,
+    "text": "this"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 73969160,
+    "duration": 4510410,
+    "text": "balance"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 78608330,
+    "duration": 5541250,
+    "text": "returns"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 84278330,
+    "duration": 1417500,
+    "text": "to"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 85824580,
+    "duration": 5927910,
+    "text": "research"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 93041250,
+    "duration": 3995000,
+    "text": "effort"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 101288750,
+    "duration": 4639160,
+    "text": "represented"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 106056660,
+    "duration": 2190830,
+    "text": "by"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 108376250,
+    "duration": 3608330,
+    "text": "r"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 116108330,
+    "duration": 772910,
+    "text": "In"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 116881250,
+    "duration": 1675410,
+    "text": "its"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 118556660,
+    "duration": 7087500,
+    "text": "simplified"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 125773330,
+    "duration": 3737080,
+    "text": "model"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 133891660,
+    "duration": 6314580,
+    "text": "values"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 141365830,
+    "duration": 5412500,
+    "text": "above"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 148582500,
+    "duration": 3608330,
+    "text": "one"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 152319580,
+    "duration": 4767910,
+    "text": "support"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 157087500,
+    "duration": 7860830,
+    "text": "acceleration"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 166752500,
+    "duration": 1417500,
+    "text": "while"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 168170000,
+    "duration": 1546250,
+    "text": "that"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 169716660,
+    "duration": 3865830,
+    "text": "condition"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 173582500,
+    "duration": 5670000,
+    "text": "holds"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 183376250,
+    "duration": 2190830,
+    "text": "This"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 185567080,
+    "duration": 902080,
+    "text": "is"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 186469160,
+    "duration": 772910,
+    "text": "an"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 187242080,
+    "duration": 5670000,
+    "text": "assumption"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 193041250,
+    "duration": 1288750,
+    "text": "to"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 194330000,
+    "duration": 7602910,
+    "text": "investigate"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 206572080,
+    "duration": 1932910,
+    "text": "not"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 208505000,
+    "duration": 128750,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 208634160,
+    "duration": 6314160,
+    "text": "universal"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 214948330,
+    "duration": 3737080,
+    "text": "law"
+  }
+]

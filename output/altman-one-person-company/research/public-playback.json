@@ -1,0 +1,23 @@
+{
+  "url": "https://x.com/LeoGuoLabs/status/2108593888126800030",
+  "samples": [
+    [
+      {
+        "duration": 92.202,
+        "error": null,
+        "paused": false,
+        "readyState": 4,
+        "time": 20.342452
+      }
+    ],
+    [
+      {
+        "duration": 92.202,
+        "error": null,
+        "paused": false,
+        "readyState": 4,
+        "time": 37.644502
+      }
+    ]
+  ]
+}

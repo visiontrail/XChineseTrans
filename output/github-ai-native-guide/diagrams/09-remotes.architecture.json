@@ -1,0 +1,174 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {
+    "title": "Follow the direction of the data",
+    "subtitle": "Fork, clone, fetch, push, and PR target different places.",
+    "viewBox": [
+      1000,
+      730
+    ]
+  },
+  "components": [
+    {
+      "id": "upstream",
+      "label": "Original repository",
+      "sublabel": "Remote name: upstream",
+      "pos": [
+        60,
+        100
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "cloud"
+    },
+    {
+      "id": "fork",
+      "label": "Your GitHub fork",
+      "sublabel": "Remote name: origin",
+      "pos": [
+        690,
+        100
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "cloud"
+    },
+    {
+      "id": "local",
+      "label": "Local repository",
+      "sublabel": "Commits + working checkout",
+      "pos": [
+        375,
+        370
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "database"
+    },
+    {
+      "id": "config",
+      "label": "git remote add / -v",
+      "sublabel": "Register / inspect destinations",
+      "pos": [
+        375,
+        560
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "external"
+    }
+  ],
+  "connections": [
+    {
+      "from": "upstream",
+      "to": "fork",
+      "variant": "emphasis",
+      "labelAt": [
+        500,
+        125
+      ],
+      "label": "Fork on GitHub"
+    },
+    {
+      "from": "fork",
+      "to": "upstream",
+      "variant": "security",
+      "fromSide": "top",
+      "toSide": "top",
+      "via": [
+        [
+          815,
+          40
+        ],
+        [
+          185,
+          40
+        ]
+      ],
+      "label": "PR: fork head into upstream base",
+      "labelAt": [
+        500,
+        25
+      ]
+    },
+    {
+      "from": "fork",
+      "to": "local",
+      "variant": "emphasis",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "via": [
+        [
+          815,
+          260
+        ],
+        [
+          500,
+          260
+        ]
+      ],
+      "labelAt": [
+        650,
+        245
+      ],
+      "label": "git clone / fetch origin"
+    },
+    {
+      "from": "upstream",
+      "to": "local",
+      "variant": "emphasis",
+      "fromSide": "bottom",
+      "toSide": "left",
+      "via": [
+        [
+          185,
+          409
+        ]
+      ],
+      "labelAt": [
+        185,
+        295
+      ],
+      "label": "git fetch upstream"
+    },
+    {
+      "from": "local",
+      "to": "fork",
+      "variant": "emphasis",
+      "fromSide": "right",
+      "toSide": "right",
+      "via": [
+        [
+          980,
+          409
+        ],
+        [
+          980,
+          139
+        ]
+      ],
+      "labelAt": [
+        922,
+        310
+      ],
+      "label": "git push -u origin"
+    },
+    {
+      "from": "config",
+      "to": "local",
+      "variant": "dashed",
+      "fromSide": "top",
+      "toSide": "bottom"
+    }
+  ],
+  "cards": []
+}

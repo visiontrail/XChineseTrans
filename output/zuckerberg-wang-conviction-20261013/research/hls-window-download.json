@@ -1,0 +1,823 @@
+{
+  "start_seconds": 6210,
+  "end_seconds": 6411,
+  "retrieved_at": "2026-10-13T01:55:15.680351+00:00",
+  "files": [
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/0/0/1280x720/_MpjjnsGF9NRgyiA.mp4",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-init.mp4",
+      "bytes": 903,
+      "sha256": "5f0890971a3bb5c7f95392b75c90b597f520569992c84c2b13cf23616d423b4b"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6210000/6213000/1280x720/8RV11YF7eh9Lffli.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6210000.m4s",
+      "bytes": 198961,
+      "sha256": "f19a68aa40460d8424c03f97bf71aaf93b4c3dfbe0e3a531ae7f25f00795c3c8"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6213000/6216000/1280x720/q9D_jp_g2lK07Anw.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6213000.m4s",
+      "bytes": 236904,
+      "sha256": "0fbab5635e8ca6fbcd0dc76e1b513da9110ed91391c6e4dbd5855ffcab63ec23"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6216000/6219000/1280x720/aqJP1VE2pY6agQ2U.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6216000.m4s",
+      "bytes": 325905,
+      "sha256": "666a7b9decbdf438a42614e34c4e385c5856d058937a8232ab694c7ace09a3af"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6219000/6222000/1280x720/zHIlT5IExkmcdnWQ.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6219000.m4s",
+      "bytes": 209004,
+      "sha256": "fc275a58c401f0d17c2cee1c18e8182141836a152fcbf40a83bea460080768b4"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6222000/6225000/1280x720/mwrr67cznYciWRqy.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6222000.m4s",
+      "bytes": 161778,
+      "sha256": "67cf4c8591139a621d82763b1bb3fa4304d5b968f6be5d1bcc09d8b4f0169fb3"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6225000/6228000/1280x720/IgikZRh-ln9TKI8l.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6225000.m4s",
+      "bytes": 253085,
+      "sha256": "1ce681f19d25db23434ef759e4b364ee9f7a1b11361a6e8373850c3ea406a3de"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6228000/6231000/1280x720/OKaH6dfhP_cwkn2o.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6228000.m4s",
+      "bytes": 200510,
+      "sha256": "9219d7b1debcab671265ac4978c9436cf8228157ecefce398ee35cdb4df69295"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6231000/6234000/1280x720/Zxr00zWCSU_L5oBv.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6231000.m4s",
+      "bytes": 194083,
+      "sha256": "bcbc85004d145b72188a5602e2b9220c59d84a5bf6fb67923b57d8fa3c97a293"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6234000/6237000/1280x720/vmWye9ucwYyeWJ61.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6234000.m4s",
+      "bytes": 266579,
+      "sha256": "4e6694b300a5f8cde5973c8ac060f1dc7fcfc60a899e8b4b6e0b88e3df2eee74"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6237000/6240000/1280x720/Z-7HT5I1ujukyMnG.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6237000.m4s",
+      "bytes": 253085,
+      "sha256": "896571fb25215c8aaa5016edec048838442dc2357f0ed426589243732d0d2ee6"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6240000/6243000/1280x720/_hZuuGGFeiioIwcp.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6240000.m4s",
+      "bytes": 266042,
+      "sha256": "69d9b65357312c9f8f7a1e37c760131d014e6faf6b1e68a4117422e58c22f110"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6243000/6246000/1280x720/c7ny6_mB7Kmw5Q2p.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6243000.m4s",
+      "bytes": 243243,
+      "sha256": "432403c4ef1d754ec8faa89a7a91ed85a6be678204726f2475fa9adc97fcb89a"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6246000/6249000/1280x720/nkgjbbzkIIhQ2QZR.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6246000.m4s",
+      "bytes": 218707,
+      "sha256": "988ab0d9b8296229c5c762e5d48286e9284a706b0b12cbb5a12d1595b866cc1e"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6249000/6252000/1280x720/Ehyj3KHihFMNQCLZ.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6249000.m4s",
+      "bytes": 174300,
+      "sha256": "c3cb96253205118cd598b7f0a3a40ca20e62160f1dc55c6489542fcca1e253af"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6252000/6255000/1280x720/tCSFgvQ7RkC8iZ34.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6252000.m4s",
+      "bytes": 234466,
+      "sha256": "23cfa694accc2bac98aaa6a0c07a496ff1b9c25cb3a9a752ab2ce8d1881367ff"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6255000/6258000/1280x720/t3HBO0-F6UOJ_uNT.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6255000.m4s",
+      "bytes": 208361,
+      "sha256": "c3d55caeaae21853c4edc2502f5136367fc9819035033ab6360c9d55c91cb117"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6258000/6261000/1280x720/x3bit71DcJqBdCJU.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6258000.m4s",
+      "bytes": 149380,
+      "sha256": "b046206c370df123dffcb566d583fdd57710e265663ecd7f4b17e338f41f5ea6"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6261000/6264000/1280x720/Q1PHn7R2UaGPP9XY.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6261000.m4s",
+      "bytes": 137949,
+      "sha256": "de54207027aff8d96f2d04e440b5825482ba4183c5ef380d454be2ad739bf7fe"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6264000/6267000/1280x720/fhQ8-njrTV8k1f14.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6264000.m4s",
+      "bytes": 146617,
+      "sha256": "d1d2858c4f586e09826c18820b506d7ce6713eace4926ce60b5cbc3adc6b3246"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6267000/6270000/1280x720/LwntS64g-QLveIiA.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6267000.m4s",
+      "bytes": 176124,
+      "sha256": "7a749417f7d7abad1dabd9140b499042a59ecc6eb7e911a6449c2e4e76247aad"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6270000/6273000/1280x720/c-a-UA0_a1WjnHpG.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6270000.m4s",
+      "bytes": 203714,
+      "sha256": "a7b834f6cc05fa4f80c042ea320711c636bbeb0c065424589bc05646c5a72f69"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6273000/6276000/1280x720/wsNWjA4u8J8CXtYm.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6273000.m4s",
+      "bytes": 135240,
+      "sha256": "e4577008d1b69489f8fa5f899ba20d677e09163709b655938df965cd342ad5c4"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6276000/6279000/1280x720/7m0hEAMjRPfZkA5n.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6276000.m4s",
+      "bytes": 133455,
+      "sha256": "fa0d3ae61b495676185b6ab2fdf0866574b8ef29ff4fb5e655b24555fe67fce5"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6279000/6282000/1280x720/vs1UQus0uoiLhN8E.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6279000.m4s",
+      "bytes": 252604,
+      "sha256": "422092ac4c04e2b4f34b0fba4f95be86be7abccd58da895e6c129209fa9e31db"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6282000/6285000/1280x720/6DQu6mvrKSAaI5g6.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6282000.m4s",
+      "bytes": 299918,
+      "sha256": "c9c4fb6e2a3bfd95a1ab001fcb1eb6fe47920bd87906966a2e90f9d7d64ca703"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6285000/6288000/1280x720/xY8adNvIebVM3k21.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6285000.m4s",
+      "bytes": 160339,
+      "sha256": "fe6d83a465f9fc384085c162b4c57604add6d4efc850d0742787aeae98da02ee"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6288000/6291000/1280x720/M-R_NCGR8klppur4.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6288000.m4s",
+      "bytes": 162350,
+      "sha256": "4019866600c87951dd559874ca1b6c04adf69ae7733af24013d5d5330f5bd568"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6291000/6294000/1280x720/2WR10JAzdqNI4BuH.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6291000.m4s",
+      "bytes": 318229,
+      "sha256": "7d19ed0981a4dd5d16fc16d5ca6e3a1db08a0c2ae3259bb0e8fddd90969a372d"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6294000/6297000/1280x720/izcVIZIaN2iG8OLl.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6294000.m4s",
+      "bytes": 219697,
+      "sha256": "0764af2e5e30c5a219b61e398567cb94e37e4f38aecf46a01d3668708f1d89b6"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6297000/6300000/1280x720/GD8eaUwUiHVXh6mA.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6297000.m4s",
+      "bytes": 309533,
+      "sha256": "85c1a1bc81339f23a51ceba8147aec23f8bba4477f28e7fe2467f152716f8fbe"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6300000/6303000/1280x720/Q_zogCoaIUi6R59_.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6300000.m4s",
+      "bytes": 262668,
+      "sha256": "963d8a1b12e5c9bc3117529ab7f788bab24071f81537bae30ad018461b838adc"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6303000/6306000/1280x720/N6_ORKeYDn-nP_My.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6303000.m4s",
+      "bytes": 194892,
+      "sha256": "bd233f4c5346128c5cfc96a66e313c8697e82cfb7a19d4e073c1256041e8d2ea"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6306000/6309000/1280x720/3cWV3kp0_mwtePjm.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6306000.m4s",
+      "bytes": 175987,
+      "sha256": "b52d2115e5d1f7bca309621ddaeea36be56aba9a64466bc288b8542368112ba0"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6309000/6312000/1280x720/4dbyxSRgUhxW689g.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6309000.m4s",
+      "bytes": 159549,
+      "sha256": "83883c8b077c02b29a992f640b190f8aa878fe08ca6ba3a1112de05b905071b6"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6312000/6315000/1280x720/aStrWIdK8sNXbWiQ.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6312000.m4s",
+      "bytes": 180240,
+      "sha256": "93ac7c7ce48d4eed2a63e13d2c20ddeeb53f48dfc4166de43173ba465e4d3fd8"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6315000/6318000/1280x720/Wf-47r_qQXB9tTY6.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6315000.m4s",
+      "bytes": 161069,
+      "sha256": "86c83fd8c8c2a8667edf7ab192112ebce07dcd98625e8661fa6e2157b81fc8e7"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6318000/6321000/1280x720/Vqattlsu0lBKAQVC.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6318000.m4s",
+      "bytes": 158374,
+      "sha256": "272be6249b8240d7d9881ff963fd695fa9ca01818fdb9a4cd23ada58dda0d42e"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6321000/6324000/1280x720/ewAx5Bp2_wyt4Sfd.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6321000.m4s",
+      "bytes": 175697,
+      "sha256": "533bd879bb88e8aed825900fcb7b79db0184f5a2f5bd9139c6ce120ba2bfc562"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6324000/6327000/1280x720/UalFYFCEKwEsl5RP.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6324000.m4s",
+      "bytes": 221508,
+      "sha256": "a5996c3e45e3bc45bab4431754f98a406bf97d41f996e89284704efdb6745bb4"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6327000/6330000/1280x720/lk3mByQ6o298oFQS.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6327000.m4s",
+      "bytes": 232027,
+      "sha256": "7463484521be199550701a65ae99682ca941dc83d95b23776739ff0c2199cde5"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6330000/6333000/1280x720/m1ktEk4n-ytwnY4d.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6330000.m4s",
+      "bytes": 230804,
+      "sha256": "fd70f22b61afb4117b0244e6bf3e143997cbe7db3f157cf5f6d05bb9cd3e6a5f"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6333000/6336000/1280x720/VZ6IYQC52wL-raVM.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6333000.m4s",
+      "bytes": 239375,
+      "sha256": "876b23eaeb576cb468b17d9a6be23bc1defefbe44c64e4c4242b594a635b84a1"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6336000/6339000/1280x720/nSXlezNyhSNUfIay.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6336000.m4s",
+      "bytes": 224735,
+      "sha256": "d4b261f059a0e25bd8dca6d4ac14025f21e37f05734ae86a4e2819278ad052fd"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6339000/6342000/1280x720/NRNpX3K_SV8aMcCP.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6339000.m4s",
+      "bytes": 138764,
+      "sha256": "505724d9734062578332e653527c7723d35e5e6e725ca3a04b49fda8cf5ccec5"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6342000/6345000/1280x720/47nbdbuNL0AHxEWi.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6342000.m4s",
+      "bytes": 190317,
+      "sha256": "32e02352cf9391fc130a1fe30754d933356153110b36da9dc31e04effc406fea"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6345000/6348000/1280x720/Kf-07KnKG4URHDpu.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6345000.m4s",
+      "bytes": 193975,
+      "sha256": "e6b196ba7e0d1fd36b421ae6daea3a3247492c90f4e890d077edfa3c73beba60"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6348000/6351000/1280x720/wojxrgs9vIGUnuYE.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6348000.m4s",
+      "bytes": 185952,
+      "sha256": "886fd582afab0e55c6191cb7f9b5e65976ebcf1ec196a19fbd37e951aacc5039"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6351000/6354000/1280x720/YFQMK2sUdclntBon.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6351000.m4s",
+      "bytes": 164556,
+      "sha256": "6e84610af93db01e0952b19bc03cfa34274275c395ef042a74a05dfbc58d6fde"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6354000/6357000/1280x720/C9ALfI6pWXVSrHhA.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6354000.m4s",
+      "bytes": 166732,
+      "sha256": "680dffcd35e241a4a005b0d9f3452d944a1a34f997be4d7656d73aee40abd5bc"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6357000/6360000/1280x720/Qy4uzJSTFzIOjGZP.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6357000.m4s",
+      "bytes": 141100,
+      "sha256": "a8e520f6500f74ca158fd35c9fce3837d086f44d51a9312b7f3a13d692ed8e23"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6360000/6363000/1280x720/Uec4GyizZo1L-Hi6.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6360000.m4s",
+      "bytes": 179497,
+      "sha256": "f33d3c65fb82ac5afeca747ca8eba30922b2cb1d0c21e479afbe298ae6fe696d"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6363000/6366000/1280x720/Cwknb9Z2EgSVDcNW.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6363000.m4s",
+      "bytes": 174245,
+      "sha256": "12b3b1e6791d889a85c9b74ff12dcf0d9045980d0c63f1def0173065a2669e60"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6366000/6369000/1280x720/3JUZmtFJL4KxDxHI.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6366000.m4s",
+      "bytes": 228293,
+      "sha256": "b0e916e54866d2bb4d660230f4b661348ed751d69ffe0029398037929b7352d3"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6369000/6372000/1280x720/T6Mryrz_RZkplY18.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6369000.m4s",
+      "bytes": 148951,
+      "sha256": "7bab4f4dc567abe794ce8184ae651cbef761526a193e0c64291b02ec9d019208"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6372000/6375000/1280x720/-Ps-yX_YucrrUkO0.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6372000.m4s",
+      "bytes": 131030,
+      "sha256": "c57216c6dacdb31047dbb16faf0c3dd14f03dedd2000be0d75b1a4e4466cd0dc"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6375000/6378000/1280x720/zAModGJoCLt-2G_G.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6375000.m4s",
+      "bytes": 133110,
+      "sha256": "19dbf0463dcc5b385df24e21bf2c247cb9acb0d757acbd23a040aa9613cbdf70"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6378000/6381000/1280x720/YkL7EVSb9q_-gFE8.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6378000.m4s",
+      "bytes": 136939,
+      "sha256": "9019e65bc475fd61e164b313f9aec57c6f8604873e47ac5294714970ad524a02"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6381000/6384000/1280x720/mIyrcl-ftuEK1kNM.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6381000.m4s",
+      "bytes": 168196,
+      "sha256": "63aa8f53a457ab0423576e066cc33b2a423a3267ed01abd04d2412bafc44305c"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6384000/6387000/1280x720/l3MOVeH5Iv2Fif1L.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6384000.m4s",
+      "bytes": 198677,
+      "sha256": "a103b9503c54217328d6c33f022a4dffbdbbdcbc518bc735f00cc71552735068"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6387000/6390000/1280x720/F5Q42J2hCLC7aEP9.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6387000.m4s",
+      "bytes": 247236,
+      "sha256": "6dc5ae5b220931d8d083e1514657a60ed8d9e0141d2e27c40facdb9048d7a988"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6390000/6393000/1280x720/qEj4VxzC0sBrHYn8.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6390000.m4s",
+      "bytes": 309734,
+      "sha256": "6600c33b708bc2dee7127cbda20b9c4bbed8bdf3c1f726cf305373dc006871e0"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6393000/6396000/1280x720/yI5sdmbkup-UpAOH.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6393000.m4s",
+      "bytes": 210086,
+      "sha256": "75379e57ba31736a4714eb2d13be818f79f7861d40de43b3665d0a7d9daf333e"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6396000/6399000/1280x720/n9tTxtM2nAjwp-uH.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6396000.m4s",
+      "bytes": 212469,
+      "sha256": "4857e5eee468c40c98d097929aa8c5e9f3fc65e12e472934cce2350f34fecbda"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6399000/6402000/1280x720/0i06c-tRDRf5UflR.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6399000.m4s",
+      "bytes": 239693,
+      "sha256": "f892aed7ece14b7e23c6f80dfc8ef2cb021626c7348a02ec1a9af18a35945334"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6402000/6405000/1280x720/sUfVBn4M-pb6PLUo.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6402000.m4s",
+      "bytes": 166784,
+      "sha256": "fd3c6a0a706d53fba6493150ef4a993ec19b59b429bef168a4fcb4e4a83a21ba"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6405000/6408000/1280x720/gRZWVY1-WccdoEf_.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6405000.m4s",
+      "bytes": 175618,
+      "sha256": "65a2079a037e5cd25bbc6b9cb0bc9604ba04661560af2c7929fde68db175ccfb"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/vid/avc1/6408000/6411000/1280x720/E5Sp9E_eBkRh74jX.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/video-6408000.m4s",
+      "bytes": 143010,
+      "sha256": "b54115dd712625c91d811125ad61b447cf39459aa24a0c20e6cf52a837539f9d"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/0/0/128000/v0VSbUUZf8lJ7c3B.mp4",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-init.mp4",
+      "bytes": 786,
+      "sha256": "c6d01cca9b6dfcfc26a8506ef252a343f2ae7870b554d04ff869d84837e706cb"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6210000/6213000/128000/V7Eg4eWNusgbIOR2.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6210000.m4s",
+      "bytes": 48422,
+      "sha256": "487f7649553ef497b4c0637601dbae4c4b31a55e95aadafe3fda744a29b816e9"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6213000/6216000/128000/ne08L_kgQjqVZk3B.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6213000.m4s",
+      "bytes": 48834,
+      "sha256": "40ed514091d94c26b53a34a90399dd2275831f48098e2d108b18e8ad75dbdc54"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6216000/6219000/128000/k3t5VvO_Itc_3Js8.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6216000.m4s",
+      "bytes": 48880,
+      "sha256": "8f73aff7b7828f442e65945be403ca310b840594e1fd78b589ff16323b373c00"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6219000/6222000/128000/i-_-zbyVMXCWJHJY.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6219000.m4s",
+      "bytes": 48602,
+      "sha256": "5a15836249ff70e468cbb208010a22664e1508c7bc68179a38338555cbedb4aa"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6222000/6225000/128000/ffUaKh4NKsOarOhI.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6222000.m4s",
+      "bytes": 48843,
+      "sha256": "4717ae67a32797fe2a8e7c1e8035719d2d01f8b7130e24ada3a6d4606e728fa6"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6225000/6228000/128000/LJbg3pMqYgRp4SnG.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6225000.m4s",
+      "bytes": 48719,
+      "sha256": "f55b4cc5a17304f70e502e736a4835176472b7b0f8469197f4a9cb9be9bf6275"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6228000/6231000/128000/70IOVLiL2u8-Pg74.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6228000.m4s",
+      "bytes": 48532,
+      "sha256": "6396747240e5a5da277091296c38eab5cbaa80d83d020d5c8de55faef8b97b0f"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6231000/6234000/128000/ATwRj8cfYGO8vz32.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6231000.m4s",
+      "bytes": 48665,
+      "sha256": "f3cae7942bd7f91a0d396fe9cafe23c6136178f2eaa951624d84e6b6af22044d"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6234000/6237000/128000/GG06T09oDZ3QYyhG.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6234000.m4s",
+      "bytes": 48650,
+      "sha256": "d4005e40283064181e08674ce44a7799732085cd6382f54941559788dec9eb9f"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6237000/6240000/128000/ZsL9qJwMqkYaoU1P.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6237000.m4s",
+      "bytes": 48676,
+      "sha256": "a622feece66d163e60f33a8ee89233f64331143e5794d230fe3ece77e505dd83"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6240000/6243000/128000/AhUVxQd1ZpQYL8Kh.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6240000.m4s",
+      "bytes": 48758,
+      "sha256": "730166f24300612fc215ac8a740b987e4a0d933b669bf218ef6cb1c21940049a"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6243000/6246000/128000/uIakPIjJwQNjLwzw.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6243000.m4s",
+      "bytes": 48522,
+      "sha256": "89653130d66cccc810ebb51836ebb34c9a53cd23500d9e2bc36ed9f51675b241"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6246000/6249000/128000/UE93qNcapiHY69Ah.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6246000.m4s",
+      "bytes": 48807,
+      "sha256": "cbaa51966e9d1cedf304dda2333ef07be5f47b27dff0e3eb911206784b002bb5"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6249000/6252000/128000/f716JbBqDlrs6pUX.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6249000.m4s",
+      "bytes": 48732,
+      "sha256": "62db1b4d70885d6db7514c831d2379f2e7a113bc1acf624135da1f02bb8d76fc"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6252000/6255000/128000/2BhR285bqK7auhm-.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6252000.m4s",
+      "bytes": 48627,
+      "sha256": "d8efc77c903679c19a5d237651bc54982c3214885ab0d8bbb20bfd144fd28763"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6255000/6258000/128000/67zHrb6VnNZ9eQl2.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6255000.m4s",
+      "bytes": 48804,
+      "sha256": "ca5185758ead78defaa830e2c547f2764760f466a0e6b1b0ffe58004084725c3"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6258000/6261000/128000/1GZIFEstFkHtzhx7.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6258000.m4s",
+      "bytes": 48460,
+      "sha256": "27fe6056430c19ad22e7b5f0f081181e1ce84e59bafa101ab6cfacdabd2633b7"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6261000/6264000/128000/PofS7HAAHg3pJy5M.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6261000.m4s",
+      "bytes": 48703,
+      "sha256": "0478c8c99a4d8610cee980dc29543bad6837b0c923368440cfb8d7dae557df4f"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6264000/6267000/128000/koq8Lzd9t8NIt60V.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6264000.m4s",
+      "bytes": 48957,
+      "sha256": "d8c35fd54548aab603fd3560edd755ae13639a23f0523e13d7b7a0c8094901ff"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6267000/6270000/128000/SmfJeTtHleZfRBJF.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6267000.m4s",
+      "bytes": 48482,
+      "sha256": "1971684dfe0869bde5975a89b6ee88613de90189c0e373593070153eb4da3d72"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6270000/6273000/128000/F-xVRm0wr0GWnuaJ.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6270000.m4s",
+      "bytes": 48722,
+      "sha256": "313dec5481331b0483f6325a850c831ef27796d7fe9d7c0c6f3e23ad5ea664fe"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6273000/6276000/128000/pfyDztI2gHRSO_U3.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6273000.m4s",
+      "bytes": 48859,
+      "sha256": "ed3d47c35d5005c538dc8d45c41c7924080303f5d562aa1bcf4359b2ed8078ac"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6276000/6279000/128000/vkJNsbc6OCxhHmuh.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6276000.m4s",
+      "bytes": 48587,
+      "sha256": "91194410f9cc16ff2917e29d82c018e38de4dc366f6fddaa1a583859139b648f"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6279000/6282000/128000/uuHoDWAfIr0x_s-t.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6279000.m4s",
+      "bytes": 48814,
+      "sha256": "ce339d6be9b8234c055bf4540b6491f9a8cc08e31c3313e2f77f2823346a1e5b"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6282000/6285000/128000/lgbW0Jfe-LoS_R56.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6282000.m4s",
+      "bytes": 48383,
+      "sha256": "80287c255593e5686d945129d28769ccc8f47cfc7a85139be8dad92c6d89046b"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6285000/6288000/128000/yVqdINJ0MV3lqr6x.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6285000.m4s",
+      "bytes": 48863,
+      "sha256": "bef8ac1fd8b14132ae5b62dcabe8d8c8175cc99e31c3442647f70d24971950b3"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6288000/6291000/128000/Kf0Rk5M5-6mZsLKZ.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6288000.m4s",
+      "bytes": 48792,
+      "sha256": "88096483f41f5fbeb029e4abddbea56f8c618911c116493a7238e714f6166f8a"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6291000/6294000/128000/zBITAvyrqNHLOBmo.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6291000.m4s",
+      "bytes": 48519,
+      "sha256": "beb6411b20a00da65f3a5759cc02f6d2a9ffc67ccbd6a4ae03461bcc1463928d"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6294000/6297000/128000/MxVTsm5aCG8aPrQs.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6294000.m4s",
+      "bytes": 48875,
+      "sha256": "df29953fe5bb51101b568ac004070553464a0928f1257c9194a4be4f6428a6a1"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6297000/6300000/128000/B6XEyzq59P6Pe8mf.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6297000.m4s",
+      "bytes": 48739,
+      "sha256": "4aef44968ecc650e81fc31ae6719907383e43577cde0e4ca9d801746ba439d34"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6300000/6303000/128000/9ewUepgn7qDHvjug.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6300000.m4s",
+      "bytes": 48441,
+      "sha256": "3b045e2987f4a4a225d7ff8113ec7d84871929a511fdaec42a46a144d2bf8e58"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6303000/6306000/128000/q7vIRKWNXzcpwFEW.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6303000.m4s",
+      "bytes": 48936,
+      "sha256": "e726726176b9399ebab1539260221016283776db45a4118b5f5484fc9ecb08d4"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6306000/6309000/128000/UyonAsi3MvvfBAFB.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6306000.m4s",
+      "bytes": 48353,
+      "sha256": "a326028d7859f45ccdd7d05f919fbb954171f7f9e44797873130b6c64e6c2a8e"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6309000/6312000/128000/_30kzJ2c_8nq0haG.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6309000.m4s",
+      "bytes": 48952,
+      "sha256": "96f4264040fc0e9a06fb61de6fe2e335fd0011a52c6d1f6a6e8c6d2c7054beb8"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6312000/6315000/128000/wdKiZhpf2jfyw6aK.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6312000.m4s",
+      "bytes": 48743,
+      "sha256": "4f982b293805a3d1201634cdd6fceb101b69871fc5f3350f561c9e2f6d01ff1a"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6315000/6318000/128000/UxXyUWM92dIVG98w.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6315000.m4s",
+      "bytes": 48481,
+      "sha256": "ed33cd5af4f6866a4088f0b49ae4786b6c54d94dc4ce1edf44bbb2fa85df7be1"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6318000/6321000/128000/8A4byEO5oyAtNpuT.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6318000.m4s",
+      "bytes": 48743,
+      "sha256": "6fbc86d94a7a6bfe9e8137ab286d514a0dd3dfe70e27d543d7e65953ce2764d7"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6321000/6324000/128000/SRF-7ITHMQXaMj-e.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6321000.m4s",
+      "bytes": 48946,
+      "sha256": "be9a55756c1b01d7300a978ea6ebc0f1c89bbe4621cb3582484847363a561fbc"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6324000/6327000/128000/yF7nODrE3BnfeHyt.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6324000.m4s",
+      "bytes": 48404,
+      "sha256": "a260c8b219f04890ffe1e627d087f385d2ea56c0e19e1661ada8ce9cba5e41f3"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6327000/6330000/128000/VcYY6J09PPOFK2Lt.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6327000.m4s",
+      "bytes": 48853,
+      "sha256": "24ee674d6ccdb56ad93e9970f188f3a6c6a2b49d0b4003dc9da12cec99a9149f"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6330000/6333000/128000/2hUFPUwsCQoC4gcw.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6330000.m4s",
+      "bytes": 48456,
+      "sha256": "1d1eaeb0844ff20b88bea96a4b922e59b5f0a36fd0dd3b0b40625794b7a87028"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6333000/6336000/128000/QDefPRLgjxddHXSb.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6333000.m4s",
+      "bytes": 48937,
+      "sha256": "2b28e2d338d37f2da5e473a20d2acc9a9d71fb08206dc827ffca54fecc946a09"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6336000/6339000/128000/w0yns7TWnamSKrLT.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6336000.m4s",
+      "bytes": 48722,
+      "sha256": "593fdc3b08a817c0d7e5edfe046d4737547b5f9467dd2e6085bb2b89a3755063"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6339000/6342000/128000/5VDPOsptXCY-Fa5J.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6339000.m4s",
+      "bytes": 48509,
+      "sha256": "62c72909061b9428c9bd79edc65fa5c04becbd78e50d6242e3942730fdfb5f9c"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6342000/6345000/128000/HTZXUAl3ULFugIfF.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6342000.m4s",
+      "bytes": 48848,
+      "sha256": "89010bfc044a4f83b0dd1881f7958de8c620fcb9ca93d4e377f4ef9f105e7fd6"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6345000/6348000/128000/a2JPmvFMKip0bpda.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6345000.m4s",
+      "bytes": 48832,
+      "sha256": "a29ecbd01788acaf89929f164aa35dbc2b30c9e41ada76f47711198d1f5c9f8f"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6348000/6351000/128000/80Jxab-zVn_3lWJg.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6348000.m4s",
+      "bytes": 48369,
+      "sha256": "2508e5cc859956ae85c693b363f2ec188140a46c071cc28dadfb245d7b653390"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6351000/6354000/128000/b5tzGb29qkwNph9c.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6351000.m4s",
+      "bytes": 48748,
+      "sha256": "7d2f307b3bed85d7c9753110032e83f895ba24ca89afe499789f59e1efd943a8"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6354000/6357000/128000/NxHHiqX3K8nvKh-Y.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6354000.m4s",
+      "bytes": 48396,
+      "sha256": "2711d06c95304cc89b8d3a0a34c197db47b12b488946c07099198a0a5b5ebfc9"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6357000/6360000/128000/wFfAgSQejUvMXcbx.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6357000.m4s",
+      "bytes": 48899,
+      "sha256": "d91ff74730ec7a7d5ce62e6735f8c6a1aa7b23739b4461fad5c8e357c309d5fd"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6360000/6363000/128000/1j3jAsQaLfoP0Nkj.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6360000.m4s",
+      "bytes": 48778,
+      "sha256": "3850c507ef50db62a521353b90edb23117ea420ed994f7a94c49c81f7440cfe4"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6363000/6366000/128000/yXIJV0vfdooNbhS2.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6363000.m4s",
+      "bytes": 48568,
+      "sha256": "21237e36b7e5c609a0158fb5114139374ec27e10c5dfa25ad5435b67dd9a7e6f"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6366000/6369000/128000/uVs98cXcg9HOO_I-.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6366000.m4s",
+      "bytes": 48859,
+      "sha256": "7e3ce4fdb30d58b9237319e3a34c46cb234ec2a41ed68f93417a6af0a2290651"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6369000/6372000/128000/hHmLalI4ycw_o5I2.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6369000.m4s",
+      "bytes": 48877,
+      "sha256": "0e2a6318d5e0b84e11b8bbbccc3b61a7b8c6fd9fedc7bed577d417cbaef6aa5c"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6372000/6375000/128000/-P77KEAIlTxaOnOK.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6372000.m4s",
+      "bytes": 48417,
+      "sha256": "99508fc2f8ab489f8fed3a07aee79abfcc0555946beff33d054b3d7ca09dddf3"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6375000/6378000/128000/thlLZGvJ9rzqYhFC.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6375000.m4s",
+      "bytes": 48772,
+      "sha256": "ad74a4edb90785dcde950824a3b1fd02f785aa5bec4191d186e9e4acc7e9f930"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6378000/6381000/128000/Yxgi900CPk7-4Tv7.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6378000.m4s",
+      "bytes": 48492,
+      "sha256": "a914e0bdf2158ba35c922f5de18c883c8fa5b63486f823e363b68a592cec9f77"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6381000/6384000/128000/IX_aoPgZODYgCkRj.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6381000.m4s",
+      "bytes": 48832,
+      "sha256": "5f5d18038c760d53fc51a03f05fa3c6c407ebbf3f11bf3096ccd004aa578e15e"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6384000/6387000/128000/VxjuF5DLpcDgf14u.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6384000.m4s",
+      "bytes": 48705,
+      "sha256": "ad08a3bc32eb2b68132a7d9355f022a2c17d5e48ad4836e1d8726d9bfead41b4"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6387000/6390000/128000/yaRvEMUha7a_hIxM.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6387000.m4s",
+      "bytes": 48572,
+      "sha256": "42df3aadec1dea808c0cc7a6b128e97d0c74c1018b612d2c93644ea2f5b09ca8"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6390000/6393000/128000/5I6TL0Bd1R2Go4a7.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6390000.m4s",
+      "bytes": 48866,
+      "sha256": "3ad366c7eb5d233a287ad8fc19eeec4f6d6bc302b2fd90fb12870a6a92d69e8e"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6393000/6396000/128000/PAjGWYBfMB991W2L.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6393000.m4s",
+      "bytes": 48812,
+      "sha256": "8f540d50ec924b27a3b96658961109b8ef1d3476d1047809ef49f59dfebd30f2"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6396000/6399000/128000/9XBbXIC8XgZqBX_D.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6396000.m4s",
+      "bytes": 48439,
+      "sha256": "9e6a5ad465a878e1d83268bdcf7949f378dcbdd7ead4b7871852334046d2cba3"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6399000/6402000/128000/m6rdoJQrslJD_dKt.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6399000.m4s",
+      "bytes": 48746,
+      "sha256": "abb474c2cf809f668d903c49efee0cfd72f1b0cba74ea6620fd652d52c163084"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6402000/6405000/128000/_S00eXW3MFa26nhz.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6402000.m4s",
+      "bytes": 48617,
+      "sha256": "4893154252cb4010cba981dd1fe3e7b3b73fdc6e5b47d7c46e8e625547c55c69"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6405000/6408000/128000/DAj3bf5F9QC5L9E-.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6405000.m4s",
+      "bytes": 48761,
+      "sha256": "90e33616042cf4b465d8dc1434d5c42919030f4a31afd3f08ea7a4ea960d19ae"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2109713206524641280/aud/mp4a/6408000/6411000/128000/Z-7OTMhJaVPoru-G.m4s",
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/hls-window/audio-6408000.m4s",
+      "bytes": 48809,
+      "sha256": "fee8a429f2b53a5a6b7ca6577ea48cb494e1f625ea35e743ceac88c2bb8ac7a3"
+    }
+  ]
+}

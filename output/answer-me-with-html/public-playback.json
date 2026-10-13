@@ -1,0 +1,27 @@
+{
+  "url": "https://x.com/LeoGuoLabs/status/2108212068461756913",
+  "observed_at": "2026-10-08T15:10:04.729Z",
+  "observations": [
+    {
+      "currentTime": 14.554144,
+      "duration": 35,
+      "paused": false,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "currentTime": 3.729872,
+      "duration": 35.06213,
+      "paused": false,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "currentTime": 27.901307,
+      "duration": 35.06213,
+      "error": null,
+      "paused": false,
+      "readyState": 4
+    }
+  ]
+}

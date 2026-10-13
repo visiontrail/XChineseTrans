@@ -1,0 +1,14 @@
+Want to know how an app feature actually works? REA lets you ask a coding agent to investigate the code behind it.
+
+This MIT-licensed project gives Claude Code and Codex an MCP toolkit to inspect JavaScript/Electron apps, decompile Android APK methods, and trace functions, strings and assembly in native binaries.
+
+Its Notion case study follows a copy operation through Electron's preload and IPC into the system clipboard, then explains how copied blocks retain their structure.
+
+I like being able to start with one concrete behavior and follow the evidence. That could be useful when you're maintaining unfamiliar software or learning how another app solves a problem.
+
+Setup with a supported Node.js version and npm:
+npx rea-agents@latest setup
+
+Choose your agent, review the configuration changes, then restart it. Native analysis needs Ghidra, Hopper or IDA; Android analysis needs JADX and a JDK.
+
+https://github.com/morluto/rea

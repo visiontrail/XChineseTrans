@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="875" viewBox="0 0 1000 875"><style>    .c-grid       { stroke: #e2e8f0; fill: none; }
+    .c-mask       { fill: #ffffff; stroke: none; }
+
+    .c-frontend   { fill: rgba(34, 211, 238, 0.15);   stroke: #0891b2; }
+    .c-backend    { fill: rgba(52, 211, 153, 0.18);    stroke: #059669; }
+    .c-database   { fill: rgba(167, 139, 250, 0.2);   stroke: #7c3aed; }
+    .c-cloud      { fill: rgba(251, 191, 36, 0.18);      stroke: #d97706; }
+    .c-security   { fill: rgba(251, 113, 133, 0.15);   stroke: #e11d48; }
+    .c-messagebus { fill: rgba(251, 146, 60, 0.15); stroke: #ea580c; }
+    .c-external   { fill: rgba(148, 163, 184, 0.18);   stroke: #64748b; }
+
+    /* Text helpers */
+    .t-primary { fill: #0f172a; }
+    .t-muted   { fill: #64748b; }
+    .t-dim     { fill: #94a3b8; }
+    .t-frontend   { fill: #0891b2; }
+    .t-backend    { fill: #059669; }
+    .t-database   { fill: #7c3aed; }
+    .t-cloud      { fill: #d97706; }
+    .t-security   { fill: #e11d48; }
+    .t-messagebus { fill: #ea580c; }
+    .t-external   { fill: #64748b; }
+
+    /* Arrows */
+    .a-default   { stroke: #94a3b8; fill: none; }
+    .a-emphasis  { stroke: #059669; fill: none; }
+    .a-security  { stroke: #e11d48; fill: none; stroke-dasharray: 5,5; }
+    .a-dashed    { stroke: #7c3aed; fill: none; stroke-dasharray: 4,4; }
+
+    /* Arrowhead markers reference these */
+    .m-default   { fill: #94a3b8; }
+    .m-emphasis  { fill: #059669; }
+    .m-security  { fill: #e11d48; }
+    .m-dashed    { fill: #7c3aed; }
+
+    /* Dashed boundary variants */
+    .c-security-group { fill: transparent; stroke: #e11d48; stroke-dasharray: 4,4; }
+    .c-region         { fill: rgba(251, 191, 36, 0.05); stroke: #d97706; stroke-dasharray: 8,4; }
+    .c-lane           { fill: rgba(248, 250, 252, 0.65); stroke: #cbd5e1; stroke-dasharray: 6,6; }
+  
+text{font-family:Menlo,Consolas,monospace}</style><rect width="100%" height="100%" fill="#f8fafc"/><text x="50" y="37" fill="#163145" style="font-family:Georgia,serif" font-size="28" font-weight="700">Recover the layer that contains the mistake</text><text x="50" y="63" fill="#526574" style="font-family:Arial,sans-serif" font-size="14">The desired remaining state determines the operation.</text><g transform="translate(0,78)">
+        <!-- Definitions -->
+        <defs>
+          <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+            <polygon points="0 0, 10 3.5, 0 7" class="m-default" />
+          </marker>
+          <marker id="arrowhead-emphasis" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+            <polygon points="0 0, 10 3.5, 0 7" class="m-emphasis" />
+          </marker>
+          <marker id="arrowhead-security" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+            <polygon points="0 0, 10 3.5, 0 7" class="m-security" />
+          </marker>
+          <marker id="arrowhead-dashed" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+            <polygon points="0 0, 10 3.5, 0 7" class="m-dashed" />
+          </marker>
+          <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+            <path d="M 40 0 L 0 0 0 40" class="c-grid" stroke-width="0.5"/>
+          </pattern>
+        </defs>
+
+        <!-- Background Grid -->
+        <rect width="100%" height="100%" fill="url(#grid)" />
+
+        <!-- Boundaries (behind everything) -->
+
+
+        <!-- Connection paths (before components for correct z-order) -->
+        <path d="M 300 114 L 375 114" class="a-emphasis" stroke-width="1.8" marker-end="url(#arrowhead-emphasis)"/>
+        <path d="M 625 114 L 700 114" class="a-emphasis" stroke-width="1.8" marker-end="url(#arrowhead-emphasis)"/>
+        <path d="M 300 269 L 375 269" class="a-emphasis" stroke-width="1.8" marker-end="url(#arrowhead-emphasis)"/>
+        <path d="M 625 269 L 700 269" class="a-emphasis" stroke-width="1.8" marker-end="url(#arrowhead-emphasis)"/>
+        <path d="M 300 424 L 375 424" class="a-emphasis" stroke-width="1.8" marker-end="url(#arrowhead-emphasis)"/>
+        <path d="M 625 424 L 700 424" class="a-emphasis" stroke-width="1.8" marker-end="url(#arrowhead-emphasis)"/>
+        <path d="M 300 579 L 375 579" class="a-emphasis" stroke-width="1.8" marker-end="url(#arrowhead-emphasis)"/>
+        <path d="M 625 579 L 700 579" class="a-emphasis" stroke-width="1.8" marker-end="url(#arrowhead-emphasis)"/>
+
+        <!-- Components -->
+        <rect x="50" y="75" width="250" height="78" rx="6" class="c-mask"/>
+        <rect x="50" y="75" width="250" height="78" rx="6" class="c-frontend" stroke-width="1.5"/>
+        <text x="175" y="112" class="t-primary" font-size="14" font-weight="600" text-anchor="middle">Staged edit</text>
+        <text x="175" y="128" class="t-muted" font-size="11" text-anchor="middle">Working file should survive</text>
+
+        <rect x="375" y="75" width="250" height="78" rx="6" class="c-mask"/>
+        <rect x="375" y="75" width="250" height="78" rx="6" class="c-messagebus" stroke-width="1.5"/>
+        <text x="500" y="112" class="t-primary" font-size="14" font-weight="600" text-anchor="middle">git restore --staged</text>
+        <text x="500" y="128" class="t-muted" font-size="11" text-anchor="middle">Reset selected index content</text>
+
+        <rect x="700" y="75" width="250" height="78" rx="6" class="c-mask"/>
+        <rect x="700" y="75" width="250" height="78" rx="6" class="c-messagebus" stroke-width="1.5"/>
+        <text x="825" y="112" class="t-primary" font-size="14" font-weight="600" text-anchor="middle">Edit remains in files</text>
+        <text x="825" y="128" class="t-muted" font-size="11" text-anchor="middle">Removed from next commit</text>
+
+        <rect x="50" y="230" width="250" height="78" rx="6" class="c-mask"/>
+        <rect x="50" y="230" width="250" height="78" rx="6" class="c-frontend" stroke-width="1.5"/>
+        <text x="175" y="267" class="t-primary" font-size="14" font-weight="600" text-anchor="middle">Unfinished local work</text>
+        <text x="175" y="283" class="t-muted" font-size="11" text-anchor="middle">Pause, then resume</text>
+
+        <rect x="375" y="230" width="250" height="78" rx="6" class="c-mask"/>
+        <rect x="375" y="230" width="250" height="78" rx="6" class="c-database" stroke-width="1.5"/>
+        <text x="500" y="267" class="t-primary" font-size="14" font-weight="600" text-anchor="middle">git stash push -u / apply</text>
+        <text x="500" y="283" class="t-muted" font-size="11" text-anchor="middle">Save, then restore changes</text>
+
+        <rect x="700" y="230" width="250" height="78" rx="6" class="c-mask"/>
+        <rect x="700" y="230" width="250" height="78" rx="6" class="c-database" stroke-width="1.5"/>
+        <text x="825" y="267" class="t-primary" font-size="14" font-weight="600" text-anchor="middle">Work restored locally</text>
+        <text x="825" y="283" class="t-muted" font-size="11" text-anchor="middle">Apply keeps the saved entry</text>
+
+        <rect x="50" y="385" width="250" height="78" rx="6" class="c-mask"/>
+        <rect x="50" y="385" width="250" height="78" rx="6" class="c-frontend" stroke-width="1.5"/>
+        <text x="175" y="422" class="t-primary" font-size="14" font-weight="600" text-anchor="middle">A → B → C</text>
+        <text x="175" y="438" class="t-muted" font-size="11" text-anchor="middle">History already shared</text>
+
+        <rect x="375" y="385" width="250" height="78" rx="6" class="c-mask"/>
+        <rect x="375" y="385" width="250" height="78" rx="6" class="c-backend" stroke-width="1.5"/>
+        <text x="500" y="422" class="t-primary" font-size="14" font-weight="600" text-anchor="middle">git revert B</text>
+        <text x="500" y="438" class="t-muted" font-size="11" text-anchor="middle">Apply the inverse as a commit</text>
+
+        <rect x="700" y="385" width="250" height="78" rx="6" class="c-mask"/>
+        <rect x="700" y="385" width="250" height="78" rx="6" class="c-backend" stroke-width="1.5"/>
+        <text x="825" y="422" class="t-primary" font-size="14" font-weight="600" text-anchor="middle">A → B → C → R</text>
+        <text x="825" y="438" class="t-muted" font-size="11" text-anchor="middle">Earlier commits remain</text>
+
+        <rect x="50" y="540" width="250" height="78" rx="6" class="c-mask"/>
+        <rect x="50" y="540" width="250" height="78" rx="6" class="c-frontend" stroke-width="1.5"/>
+        <text x="175" y="577" class="t-primary" font-size="14" font-weight="600" text-anchor="middle">Content to replace</text>
+        <text x="175" y="593" class="t-muted" font-size="11" text-anchor="middle">Explicit target and scope</text>
+
+        <rect x="375" y="540" width="250" height="78" rx="6" class="c-mask"/>
+        <rect x="375" y="540" width="250" height="78" rx="6" class="c-security" stroke-width="1.5"/>
+        <text x="500" y="577" class="t-primary" font-size="14" font-weight="600" text-anchor="middle">restore / reset --hard</text>
+        <text x="500" y="593" class="t-muted" font-size="11" text-anchor="middle">Can overwrite local content</text>
+
+        <rect x="700" y="540" width="250" height="78" rx="6" class="c-mask"/>
+        <rect x="700" y="540" width="250" height="78" rx="6" class="c-security" stroke-width="1.5"/>
+        <text x="825" y="577" class="t-primary" font-size="14" font-weight="600" text-anchor="middle">Selected state replaces it</text>
+        <text x="825" y="593" class="t-muted" font-size="11" text-anchor="middle">Preserve needed work first</text>
+
+        <!-- Connection labels -->
+
+
+
+
+
+
+
+
+
+        <!-- editorial-notes --><text x="50" y="693" class="t-muted" font-size="12">stash list inspects saved entries. -u includes untracked files, but not ignored files.</text><text x="50" y="716" class="t-muted" font-size="12">restore changes selected content; reset can also reposition the current branch.</text><text x="50" y="739" class="t-muted" font-size="12">Revert preserves history. It does not remove a leaked secret from older commits.</text></g><text x="50" y="864" fill="#526574" font-size="10">LEOGUOLABS / GIT, THE AI-NATIVE WAY / CONCEPTUAL DIAGRAM 12</text></svg>

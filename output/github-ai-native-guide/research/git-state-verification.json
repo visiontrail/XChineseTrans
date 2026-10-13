@@ -1,0 +1,600 @@
+{
+  "status": "passed",
+  "scope": "Disposable local repositories and local bare remote only",
+  "cases": [
+    {
+      "case": "staging_snapshot",
+      "result": "HEAD records B; working files remain C; diff comparisons separate both changes."
+    },
+    {
+      "case": "worktree_isolation",
+      "result": "Separate branch/files/index; original uncommitted C and original HEAD preserved."
+    },
+    {
+      "case": "stash_scope",
+      "result": "-u saved untracked content; ignored file remained; apply restored work and kept the stash entry."
+    },
+    {
+      "case": "fetch_and_ff_only",
+      "result": "Fetch updated origin/main but not HEAD or working files; ff-only refused divergence without discarding either side."
+    },
+    {
+      "case": "merge_parents",
+      "result": "Merge commit preserved C and B as its two parents and contained both nonconflicting changes."
+    },
+    {
+      "case": "rebase_identity",
+      "result": "Task change replayed onto B with a new commit ID and preserved intended task content."
+    },
+    {
+      "case": "merge_abort",
+      "result": "A real content conflict occurred; abort restored the clean pre-merge branch and file content."
+    },
+    {
+      "case": "revert_history",
+      "result": "An inverse commit removed the addition while the original commit remained an ancestor."
+    }
+  ],
+  "command_count": 79,
+  "records": [
+    {
+      "cwd": "<TEMP>/staging",
+      "command": "git init -b main",
+      "exit": 0,
+      "stdout": "Initialized empty Git repository in /private<TEMP>/staging/.git/",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/staging",
+      "command": "git config commit.gpgsign false",
+      "exit": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/staging",
+      "command": "git config core.hooksPath <TEMP>/empty-hooks",
+      "exit": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/staging",
+      "command": "git add state.txt .gitignore",
+      "exit": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/staging",
+      "command": "git commit -m Record A",
+      "exit": 0,
+      "stdout": "[main (root-commit) f95fcce] Record A\n 2 files changed, 2 insertions(+)\n create mode 100644 .gitignore\n create mode 100644 state.txt",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/staging",
+      "command": "git rev-parse HEAD",
+      "exit": 0,
+      "stdout": "f95fcce6df5f34f2cad01cc849be904ab1dba591",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/staging",
+      "command": "git add state.txt",
+      "exit": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/staging",
+      "command": "git diff --staged",
+      "exit": 0,
+      "stdout": "diff --git a/state.txt b/state.txt\nindex f70f10e..223b783 100644\n--- a/state.txt\n+++ b/state.txt\n@@ -1 +1 @@\n-A\n+B",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/staging",
+      "command": "git diff",
+      "exit": 0,
+      "stdout": "diff --git a/state.txt b/state.txt\nindex 223b783..3cc58df 100644\n--- a/state.txt\n+++ b/state.txt\n@@ -1 +1 @@\n-B\n+C",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/staging",
+      "command": "git commit -m Record staged B",
+      "exit": 0,
+      "stdout": "[main ceee20d] Record staged B\n 1 file changed, 1 insertion(+), 1 deletion(-)",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/staging",
+      "command": "git rev-parse HEAD",
+      "exit": 0,
+      "stdout": "ceee20d63d7664c8bbcd974f80b369a37f19aa1e",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/staging",
+      "command": "git show HEAD:state.txt",
+      "exit": 0,
+      "stdout": "B",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/staging",
+      "command": "git worktree add -b task/isolated <TEMP>/isolated HEAD",
+      "exit": 0,
+      "stdout": "HEAD is now at ceee20d Record staged B",
+      "stderr": "Preparing worktree (new branch 'task/isolated')"
+    },
+    {
+      "cwd": "<TEMP>/isolated",
+      "command": "git add task.txt",
+      "exit": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/isolated",
+      "command": "git commit -m Record isolated work",
+      "exit": 0,
+      "stdout": "[task/isolated 5d2dcc2] Record isolated work\n 1 file changed, 1 insertion(+)\n create mode 100644 task.txt",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/isolated",
+      "command": "git rev-parse HEAD",
+      "exit": 0,
+      "stdout": "5d2dcc2c52dc4b952120f42c1697421f8af963fe",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/staging",
+      "command": "git rev-parse HEAD",
+      "exit": 0,
+      "stdout": "ceee20d63d7664c8bbcd974f80b369a37f19aa1e",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/staging",
+      "command": "git stash push -u -m Pause experiment",
+      "exit": 0,
+      "stdout": "Saved working directory and index state On main: Pause experiment",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/staging",
+      "command": "git stash list",
+      "exit": 0,
+      "stdout": "stash@{0}: On main: Pause experiment",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/staging",
+      "command": "git stash apply",
+      "exit": 0,
+      "stdout": "On branch main\nChanges not staged for commit:\n  (use \"git add <file>...\" to update what will be committed)\n  (use \"git restore <file>...\" to discard changes in working directory)\n\tmodified:   state.txt\n\nUntracked files:\n  (use \"git add <file>...\" to include in what will be committed)\n\tuntracked.txt\n\nno changes added to commit (use \"git add\" and/or \"git commit -a\")",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/staging",
+      "command": "git stash list",
+      "exit": 0,
+      "stdout": "stash@{0}: On main: Pause experiment",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/seed",
+      "command": "git init -b main",
+      "exit": 0,
+      "stdout": "Initialized empty Git repository in /private<TEMP>/seed/.git/",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/seed",
+      "command": "git config commit.gpgsign false",
+      "exit": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/seed",
+      "command": "git config core.hooksPath <TEMP>/empty-hooks",
+      "exit": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/seed",
+      "command": "git add base.txt",
+      "exit": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/seed",
+      "command": "git commit -m Base",
+      "exit": 0,
+      "stdout": "[main (root-commit) 1c5a11a] Base\n 1 file changed, 1 insertion(+)\n create mode 100644 base.txt",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/seed",
+      "command": "git rev-parse HEAD",
+      "exit": 0,
+      "stdout": "1c5a11ae62279a0c56d6d6e66d7ffe6b3114685c",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>",
+      "command": "git init --bare --initial-branch=main <TEMP>/origin.git",
+      "exit": 0,
+      "stdout": "Initialized empty Git repository in /private<TEMP>/origin.git/",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/seed",
+      "command": "git remote add origin <TEMP>/origin.git",
+      "exit": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/seed",
+      "command": "git push -u origin main",
+      "exit": 0,
+      "stdout": "branch 'main' set up to track 'origin/main'.",
+      "stderr": "To <TEMP>/origin.git\n * [new branch]      main -> main"
+    },
+    {
+      "cwd": "<TEMP>",
+      "command": "git clone <TEMP>/origin.git <TEMP>/learner",
+      "exit": 0,
+      "stdout": "",
+      "stderr": "Cloning into '<TEMP>/learner'...\ndone."
+    },
+    {
+      "cwd": "<TEMP>",
+      "command": "git clone <TEMP>/origin.git <TEMP>/writer",
+      "exit": 0,
+      "stdout": "",
+      "stderr": "Cloning into '<TEMP>/writer'...\ndone."
+    },
+    {
+      "cwd": "<TEMP>/learner",
+      "command": "git config commit.gpgsign false",
+      "exit": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/learner",
+      "command": "git config core.hooksPath <TEMP>/empty-hooks",
+      "exit": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/writer",
+      "command": "git config commit.gpgsign false",
+      "exit": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/writer",
+      "command": "git config core.hooksPath <TEMP>/empty-hooks",
+      "exit": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/learner",
+      "command": "git switch -c task/change",
+      "exit": 0,
+      "stdout": "",
+      "stderr": "Switched to a new branch 'task/change'"
+    },
+    {
+      "cwd": "<TEMP>/learner",
+      "command": "git add task.txt",
+      "exit": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/learner",
+      "command": "git commit -m Task C",
+      "exit": 0,
+      "stdout": "[task/change 6125008] Task C\n 1 file changed, 1 insertion(+)\n create mode 100644 task.txt",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/learner",
+      "command": "git rev-parse HEAD",
+      "exit": 0,
+      "stdout": "612500896c7c0a5070f1e7aa906501b62de04c19",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/writer",
+      "command": "git add remote.txt",
+      "exit": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/writer",
+      "command": "git commit -m Remote B",
+      "exit": 0,
+      "stdout": "[main 500c41c] Remote B\n 1 file changed, 1 insertion(+)\n create mode 100644 remote.txt",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/writer",
+      "command": "git rev-parse HEAD",
+      "exit": 0,
+      "stdout": "500c41cd9f129bfddabb0f2a59a7647567b18e1f",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/writer",
+      "command": "git push origin main",
+      "exit": 0,
+      "stdout": "",
+      "stderr": "To <TEMP>/origin.git\n   1c5a11a..500c41c  main -> main"
+    },
+    {
+      "cwd": "<TEMP>/learner",
+      "command": "git fetch origin",
+      "exit": 0,
+      "stdout": "",
+      "stderr": "From <TEMP>/origin\n   1c5a11a..500c41c  main       -> origin/main"
+    },
+    {
+      "cwd": "<TEMP>/learner",
+      "command": "git rev-parse HEAD",
+      "exit": 0,
+      "stdout": "612500896c7c0a5070f1e7aa906501b62de04c19",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/learner",
+      "command": "git rev-parse origin/main",
+      "exit": 0,
+      "stdout": "500c41cd9f129bfddabb0f2a59a7647567b18e1f",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/learner",
+      "command": "git merge --ff-only origin/main",
+      "exit": 128,
+      "stdout": "",
+      "stderr": "hint: Diverging branches can't be fast-forwarded, you need to either:\nhint:\nhint: \tgit merge --no-ff\nhint:\nhint: or:\nhint:\nhint: \tgit rebase\nhint:\nhint: Disable this message with \"git config set advice.diverging false\"\nfatal: Not possible to fast-forward, aborting."
+    },
+    {
+      "cwd": "<TEMP>/learner",
+      "command": "git rev-parse HEAD",
+      "exit": 0,
+      "stdout": "612500896c7c0a5070f1e7aa906501b62de04c19",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/learner",
+      "command": "git merge --no-edit origin/main",
+      "exit": 0,
+      "stdout": "Merge made by the 'ort' strategy.\n remote.txt | 1 +\n 1 file changed, 1 insertion(+)\n create mode 100644 remote.txt",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/learner",
+      "command": "git show -s --format=%P HEAD",
+      "exit": 0,
+      "stdout": "612500896c7c0a5070f1e7aa906501b62de04c19 500c41cd9f129bfddabb0f2a59a7647567b18e1f",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/learner",
+      "command": "git switch -c task/replay 612500896c7c0a5070f1e7aa906501b62de04c19",
+      "exit": 0,
+      "stdout": "",
+      "stderr": "Switched to a new branch 'task/replay'"
+    },
+    {
+      "cwd": "<TEMP>/learner",
+      "command": "git rebase origin/main",
+      "exit": 0,
+      "stdout": "",
+      "stderr": "Rebasing (1/1)\nSuccessfully rebased and updated refs/heads/task/replay."
+    },
+    {
+      "cwd": "<TEMP>/learner",
+      "command": "git rev-parse HEAD",
+      "exit": 0,
+      "stdout": "0215ef3d575a2f9fae0f6b3576eea8b74d1b9029",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/learner",
+      "command": "git rev-parse HEAD^",
+      "exit": 0,
+      "stdout": "500c41cd9f129bfddabb0f2a59a7647567b18e1f",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/conflict",
+      "command": "git init -b main",
+      "exit": 0,
+      "stdout": "Initialized empty Git repository in /private<TEMP>/conflict/.git/",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/conflict",
+      "command": "git config commit.gpgsign false",
+      "exit": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/conflict",
+      "command": "git config core.hooksPath <TEMP>/empty-hooks",
+      "exit": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/conflict",
+      "command": "git add line.txt",
+      "exit": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/conflict",
+      "command": "git commit -m Base",
+      "exit": 0,
+      "stdout": "[main (root-commit) dda9ca5] Base\n 1 file changed, 1 insertion(+)\n create mode 100644 line.txt",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/conflict",
+      "command": "git rev-parse HEAD",
+      "exit": 0,
+      "stdout": "dda9ca5067925238bedfd6bb96eaa9e671c7b643",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/conflict",
+      "command": "git switch -c task/conflict",
+      "exit": 0,
+      "stdout": "",
+      "stderr": "Switched to a new branch 'task/conflict'"
+    },
+    {
+      "cwd": "<TEMP>/conflict",
+      "command": "git add line.txt",
+      "exit": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/conflict",
+      "command": "git commit -m Task version",
+      "exit": 0,
+      "stdout": "[task/conflict 94d4be7] Task version\n 1 file changed, 1 insertion(+), 1 deletion(-)",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/conflict",
+      "command": "git rev-parse HEAD",
+      "exit": 0,
+      "stdout": "94d4be7f49cab0ed44ddc2a70e4ee8834c05dbac",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/conflict",
+      "command": "git switch main",
+      "exit": 0,
+      "stdout": "",
+      "stderr": "Switched to branch 'main'"
+    },
+    {
+      "cwd": "<TEMP>/conflict",
+      "command": "git add line.txt",
+      "exit": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/conflict",
+      "command": "git commit -m Main version",
+      "exit": 0,
+      "stdout": "[main 275eef6] Main version\n 1 file changed, 1 insertion(+), 1 deletion(-)",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/conflict",
+      "command": "git rev-parse HEAD",
+      "exit": 0,
+      "stdout": "275eef67d1c583618030b096a515276885005647",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/conflict",
+      "command": "git merge task/conflict",
+      "exit": 1,
+      "stdout": "Auto-merging line.txt\nCONFLICT (content): Merge conflict in line.txt\nAutomatic merge failed; fix conflicts and then commit the result.",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/conflict",
+      "command": "git merge --abort",
+      "exit": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/conflict",
+      "command": "git rev-parse HEAD",
+      "exit": 0,
+      "stdout": "275eef67d1c583618030b096a515276885005647",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/conflict",
+      "command": "git status --porcelain",
+      "exit": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/conflict",
+      "command": "git add extra.txt",
+      "exit": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/conflict",
+      "command": "git commit -m Add extra",
+      "exit": 0,
+      "stdout": "[main bdb6fae] Add extra\n 1 file changed, 1 insertion(+)\n create mode 100644 extra.txt",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/conflict",
+      "command": "git rev-parse HEAD",
+      "exit": 0,
+      "stdout": "bdb6fae2f603633fd09843f28543cdb19f40ca95",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/conflict",
+      "command": "git revert --no-edit bdb6fae2f603633fd09843f28543cdb19f40ca95",
+      "exit": 0,
+      "stdout": "[main ea33e99] Revert \"Add extra\"\n Date: Sun Sep 27 23:23:55 2026 +0800\n 1 file changed, 1 deletion(-)\n delete mode 100644 extra.txt",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/conflict",
+      "command": "git rev-parse HEAD",
+      "exit": 0,
+      "stdout": "ea33e99b946fc13f887c249a92854b2d8d1e7551",
+      "stderr": ""
+    },
+    {
+      "cwd": "<TEMP>/conflict",
+      "command": "git merge-base --is-ancestor bdb6fae2f603633fd09843f28543cdb19f40ca95 HEAD",
+      "exit": 0,
+      "stdout": "",
+      "stderr": ""
+    }
+  ],
+  "not_tested": [
+    "Model compliance with every prompt",
+    "GitHub account setup",
+    "GitHub-hosted Actions",
+    "Public deployment"
+  ]
+}

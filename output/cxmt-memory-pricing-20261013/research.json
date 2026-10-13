@@ -1,0 +1,22 @@
+{
+  "checked_at": "2026-10-13",
+  "supplied_source": "https://x.com/alanchen/status/2109748414170980684",
+  "primary_comment": "https://x.com/elonmusk/status/2109690977279426846",
+  "discussion_parent": "https://x.com/MelvinInvests/status/2109655913758110018",
+  "source_read": "Live authenticated browser; Alan Chen's automatic translation switched back to Chinese. Full Musk original and Melvin parent read.",
+  "media": "Alan Chen and Musk posts contain no attached images or videos. Parent charts are not selected for this standalone adaptation. No relevant video found.",
+  "evidence": [
+    {"url": "https://www.yicai.com/news/103388707.html", "date": "2026-10-10", "type": "Firsthand reporter account of CXMT president's conference announcement", "supports": "Reported year-end 2026 target for DDR5 RDIMM using 4F²; density motivation. Launch target is not proof of volume shipments, yields or cost."},
+    {"url": "https://www.cxmt.com/en/news/info_22.html", "date": "2026-09-20", "type": "Official CXMT announcement", "supports": "Company reports G5 and 24Gb LPDDR5X mass production. This does not establish mass production for the new 4F² server product."},
+    {"url": "https://www.cxmt.com/en/news/info_21.html", "date": "2026-09-07", "type": "Official CXMT announcement", "supports": "Company reports commercial LPDDR6 mass production. No scores or performance percentages from the announcement are used."},
+    {"url": "https://www.cxmt.com/news.html", "type": "Official newsroom", "supports": "Latest listed official website announcements at review time concern G5 and LPDDR6; a dedicated 4F² release was not found. The post therefore uses reportedly."},
+    {"url": "https://x.com/elonmusk/status/2109690977279426846", "type": "Original statement read live", "supports": "Manufacturing scale analogy; caveat that RAM may differ; LP5/LP6 and harder HBM/logic stacking/cooling challenges. Treated as Musk's view, not independent evidence of yields or future price moves."}
+  ],
+  "editorial_decisions": [
+    "New standalone English post for @LeoGuoLabs, text only.",
+    "Pricing-power implication is conditional analysis, not a trading recommendation or prediction of immediate oversupply.",
+    "Omit stock movement percentages and causal attribution, capacity forecasts, DRAM market shares, claimed two-year technology lead, and unrelated SpaceX comments.",
+    "HBM is also standardized; distinction is manufacturing and integration difficulty, not standards versus proprietary products.",
+    "No unsolicited intermediary attribution, hashtags, public production notes or decorative graphic."
+  ]
+}

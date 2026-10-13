@@ -1,0 +1,11 @@
+Anthropic is making sustained, pointless abuse of Claude a policy violation from November 12, 2026.
+
+You can still tell it the answer is wrong. Ordinary frustration, pushback, dark fiction, and model testing are explicitly outside the rule. Anthropic says ending abusive conversations remains the main enforcement mechanism.
+
+The developer details deserve attention too: clearer rules on deceptive campaigns, election interference, weapons software, and nonconsensual tracking.
+
+If your app gives someone a diagnosis, changes a medication dose, or recommends specific investments, qualified human review and AI disclosure already apply. This update clarifies those obligations.
+
+The line I’ll be watching is how Anthropic distinguishes pointless abuse from legitimate testing in practice.
+
+https://www.anthropic.com/news/2026-usage-policy-update

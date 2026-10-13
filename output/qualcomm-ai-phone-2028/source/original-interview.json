@@ -1,0 +1,362 @@
+{
+  "url": "https://x.com/alexeheath/status/2108275202174157044",
+  "id": "2108275202174157044",
+  "text": "Qualcomm’s CEO on the coming AI phone supercycle\n\n@cristianoamon on the China vs. US AI sentiment, how AI is changing smartphones and wearables, Qualcomm’s data center strategy, and 6G.\n\nWe discuss why he thinks phones aren’t going away, how agents will use our personal context, and why he expects smart glasses to become the biggest category of AI wearables. We also cover differences in consumer AI adoption between China and the US, Qualcomm’s acquisition of Modular to offer developers an alternative to Nvidia’s software, and what 6G could change about the devices we use.\n\nThis conversation was recorded live at Qualcomm’s recent Snapdragon Summit in Hawaii.\n\nTimestamps:\n00:18 How China and the US see AI\n04:33 Should AI development slow down?\n07:25 Trump, China, and chip geopolitics\n08:25 Why the smartphone market is shrinking\n11:15 Memory prices and pent-up demand\n13:15 Can cloud agents replace the phone?\n18:30 What is an AI smartphone?\n25:05 The state of VR and smart glasses\n29:30 Is there an iPod moment for wearables?\n30:45 Why Qualcomm is building data centers\n34:45 Modular and the fight against CUDA lock-in\n39:05 What 5G actually changed\n42:00 Why 6G is built for AI\n45:05 When 6G arrives\n\nSpotify: https://open.spotify.com/episode/3fTPoH4PNPQ1mbBtiLWOzH?si=A2NcJO44Qd-SntR2U6qK3g\nYouTube: https://youtu.be/FcYL3h5bwlk\nSubstack: https://sources.news/p/qualcomm-ceo-ai-phone\nApple Podcasts: https://podcasts.apple.com/us/podcast/qualcomms-ceo-on-the-coming-ai-phone-supercycle/id1840154537?i=1000793916120\n\nThanks to the show’s premiere sponsors: @Atlassian, @meetgranola, and @mercury.",
+  "raw_text": {
+    "text": "Qualcomm’s CEO on the coming AI phone supercycle\n\n@cristianoamon on the China vs. US AI sentiment, how AI is changing smartphones and wearables, Qualcomm’s data center strategy, and 6G.\n\nWe discuss why he thinks phones aren’t going away, how agents will use our personal context, and why he expects smart glasses to become the biggest category of AI wearables. We also cover differences in consumer AI adoption between China and the US, Qualcomm’s acquisition of Modular to offer developers an alternative to Nvidia’s software, and what 6G could change about the devices we use.\n\nThis conversation was recorded live at Qualcomm’s recent Snapdragon Summit in Hawaii.\n\nTimestamps:\n00:18 How China and the US see AI\n04:33 Should AI development slow down?\n07:25 Trump, China, and chip geopolitics\n08:25 Why the smartphone market is shrinking\n11:15 Memory prices and pent-up demand\n13:15 Can cloud agents replace the phone?\n18:30 What is an AI smartphone?\n25:05 The state of VR and smart glasses\n29:30 Is there an iPod moment for wearables?\n30:45 Why Qualcomm is building data centers\n34:45 Modular and the fight against CUDA lock-in\n39:05 What 5G actually changed\n42:00 Why 6G is built for AI\n45:05 When 6G arrives\n\nSpotify: https://t.co/U88P5uIxzN\nYouTube: https://t.co/Tzpfex0Pyl\nSubstack: https://t.co/EzEPgvU26T\nApple Podcasts: https://t.co/5Z5hNw2PFb\n\nThanks to the show’s premiere sponsors: @Atlassian, @meetgranola, and @mercury.",
+    "display_text_range": [
+      0,
+      1432
+    ],
+    "facets": [
+      {
+        "type": "bold",
+        "indices": [
+          0,
+          48
+        ]
+      },
+      {
+        "type": "mention",
+        "indices": [
+          50,
+          64
+        ],
+        "original": "cristianoamon",
+        "id": "234930762"
+      },
+      {
+        "type": "media",
+        "indices": [
+          280,
+          303
+        ],
+        "id": "2108255138481901569",
+        "display": "pic.x.com/0nFU1F7ZIX",
+        "original": "https://t.co/0nFU1F7ZIX",
+        "replacement": "https://x.com/alexeheath/status/2108275202174157044/video/1"
+      },
+      {
+        "type": "bold",
+        "indices": [
+          667,
+          678
+        ]
+      },
+      {
+        "type": "bold",
+        "indices": [
+          1212,
+          1221
+        ]
+      },
+      {
+        "type": "url",
+        "indices": [
+          1221,
+          1244
+        ],
+        "original": "https://t.co/U88P5uIxzN",
+        "replacement": "https://open.spotify.com/episode/3fTPoH4PNPQ1mbBtiLWOzH?si=A2NcJO44Qd-SntR2U6qK3g",
+        "display": "open.spotify.com/episode/3fTPoH…"
+      },
+      {
+        "type": "bold",
+        "indices": [
+          1245,
+          1253
+        ]
+      },
+      {
+        "type": "url",
+        "indices": [
+          1254,
+          1277
+        ],
+        "original": "https://t.co/Tzpfex0Pyl",
+        "replacement": "https://youtu.be/FcYL3h5bwlk",
+        "display": "youtu.be/FcYL3h5bwlk"
+      },
+      {
+        "type": "bold",
+        "indices": [
+          1278,
+          1287
+        ]
+      },
+      {
+        "type": "url",
+        "indices": [
+          1288,
+          1311
+        ],
+        "original": "https://t.co/EzEPgvU26T",
+        "replacement": "https://sources.news/p/qualcomm-ceo-ai-phone",
+        "display": "sources.news/p/qualcomm-ceo…"
+      },
+      {
+        "type": "bold",
+        "indices": [
+          1312,
+          1327
+        ]
+      },
+      {
+        "type": "url",
+        "indices": [
+          1328,
+          1351
+        ],
+        "original": "https://t.co/5Z5hNw2PFb",
+        "replacement": "https://podcasts.apple.com/us/podcast/qualcomms-ceo-on-the-coming-ai-phone-supercycle/id1840154537?i=1000793916120",
+        "display": "podcasts.apple.com/us/podcast/qua…"
+      },
+      {
+        "type": "mention",
+        "indices": [
+          1393,
+          1403
+        ],
+        "original": "Atlassian",
+        "id": "18060279"
+      },
+      {
+        "type": "mention",
+        "indices": [
+          1405,
+          1417
+        ],
+        "original": "meetgranola",
+        "id": "1648018855430594560"
+      },
+      {
+        "type": "mention",
+        "indices": [
+          1423,
+          1431
+        ],
+        "original": "mercury",
+        "id": "912806035093577728"
+      }
+    ]
+  },
+  "author": {
+    "screen_name": "alexeheath",
+    "url": "https://x.com/alexeheath",
+    "id": "14752818",
+    "followers": 502989,
+    "following": 6287,
+    "likes": 13355,
+    "media_count": 2840,
+    "name": "Alex Heath",
+    "description": "Host @ Sources podcast\nPartner @ Sound Ventures",
+    "raw_description": {
+      "text": "Host @ Sources podcast\nPartner @ Sound Ventures",
+      "facets": []
+    },
+    "location": "LA/SF",
+    "banner_url": "https://pbs.twimg.com/profile_banners/14752818/1760482002",
+    "avatar_url": "https://pbs.twimg.com/profile_images/1983378648787988480/cGjEMRvw_200x200.jpg",
+    "joined": "Tue May 13 01:31:28 +0000 2008",
+    "protected": false,
+    "website": {
+      "url": "http://sources.news",
+      "display_url": "sources.news"
+    },
+    "verification": {
+      "verified": true,
+      "verified_at": null,
+      "type": "individual"
+    },
+    "avatar_color": null
+  },
+  "replies": 10,
+  "retweets": 37,
+  "likes": 197,
+  "bookmarks": 203,
+  "quotes": 9,
+  "created_at": "Thu Oct 08 19:15:52 +0000 2026",
+  "created_timestamp": 1791486952,
+  "possibly_sensitive": false,
+  "views": 148585,
+  "is_note_tweet": true,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+    "all": [
+      {
+        "id": "2108255138481901569",
+        "url": "https://video.twimg.com/amplify_video/2108255138481901569/vid/avc1/3840x2160/zSp3P4E3YiHvp3OO.mp4?tag=29",
+        "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2108255138481901569/img/SIhx2AwVL0b9kwDA.jpg",
+        "duration": 2807.972,
+        "width": 3840,
+        "height": 2160,
+        "format": "video/mp4",
+        "type": "video",
+        "formats": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2108255138481901569/pl/dgRoL9o0KDMWIQUa.m3u8?tag=29&v=c42",
+            "container": "m3u8"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2108255138481901569/vid/avc1/480x270/FCxqDg6ZJ-enPru1.mp4?tag=29",
+            "bitrate": 256000,
+            "container": "mp4",
+            "codec": "h264"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2108255138481901569/vid/avc1/640x360/awOFW0RSx_q7gF2n.mp4?tag=29",
+            "bitrate": 832000,
+            "container": "mp4",
+            "codec": "h264"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2108255138481901569/vid/avc1/1280x720/AEfPcJ2g9mtjjyah.mp4?tag=29",
+            "bitrate": 2176000,
+            "container": "mp4",
+            "codec": "h264"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2108255138481901569/vid/avc1/1920x1080/Ae9pt858Kg4PuPEL.mp4?tag=29",
+            "bitrate": 10368000,
+            "container": "mp4",
+            "codec": "h264"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2108255138481901569/vid/avc1/3840x2160/zSp3P4E3YiHvp3OO.mp4?tag=29",
+            "bitrate": 25128000,
+            "container": "mp4",
+            "codec": "h264"
+          }
+        ],
+        "publisher": null,
+        "variants": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2108255138481901569/pl/dgRoL9o0KDMWIQUa.m3u8?tag=29&v=c42",
+            "bitrate": 0,
+            "content_type": "application/x-mpegURL"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2108255138481901569/vid/avc1/480x270/FCxqDg6ZJ-enPru1.mp4?tag=29",
+            "bitrate": 256000,
+            "content_type": "video/mp4"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2108255138481901569/vid/avc1/640x360/awOFW0RSx_q7gF2n.mp4?tag=29",
+            "bitrate": 832000,
+            "content_type": "video/mp4"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2108255138481901569/vid/avc1/1280x720/AEfPcJ2g9mtjjyah.mp4?tag=29",
+            "bitrate": 2176000,
+            "content_type": "video/mp4"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2108255138481901569/vid/avc1/1920x1080/Ae9pt858Kg4PuPEL.mp4?tag=29",
+            "bitrate": 10368000,
+            "content_type": "video/mp4"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2108255138481901569/vid/avc1/3840x2160/zSp3P4E3YiHvp3OO.mp4?tag=29",
+            "bitrate": 25128000,
+            "content_type": "video/mp4"
+          }
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "id": "2108255138481901569",
+        "url": "https://video.twimg.com/amplify_video/2108255138481901569/vid/avc1/3840x2160/zSp3P4E3YiHvp3OO.mp4?tag=29",
+        "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2108255138481901569/img/SIhx2AwVL0b9kwDA.jpg",
+        "duration": 2807.972,
+        "width": 3840,
+        "height": 2160,
+        "format": "video/mp4",
+        "type": "video",
+        "formats": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2108255138481901569/pl/dgRoL9o0KDMWIQUa.m3u8?tag=29&v=c42",
+            "container": "m3u8"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2108255138481901569/vid/avc1/480x270/FCxqDg6ZJ-enPru1.mp4?tag=29",
+            "bitrate": 256000,
+            "container": "mp4",
+            "codec": "h264"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2108255138481901569/vid/avc1/640x360/awOFW0RSx_q7gF2n.mp4?tag=29",
+            "bitrate": 832000,
+            "container": "mp4",
+            "codec": "h264"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2108255138481901569/vid/avc1/1280x720/AEfPcJ2g9mtjjyah.mp4?tag=29",
+            "bitrate": 2176000,
+            "container": "mp4",
+            "codec": "h264"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2108255138481901569/vid/avc1/1920x1080/Ae9pt858Kg4PuPEL.mp4?tag=29",
+            "bitrate": 10368000,
+            "container": "mp4",
+            "codec": "h264"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2108255138481901569/vid/avc1/3840x2160/zSp3P4E3YiHvp3OO.mp4?tag=29",
+            "bitrate": 25128000,
+            "container": "mp4",
+            "codec": "h264"
+          }
+        ],
+        "publisher": null,
+        "variants": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2108255138481901569/pl/dgRoL9o0KDMWIQUa.m3u8?tag=29&v=c42",
+            "bitrate": 0,
+            "content_type": "application/x-mpegURL"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2108255138481901569/vid/avc1/480x270/FCxqDg6ZJ-enPru1.mp4?tag=29",
+            "bitrate": 256000,
+            "content_type": "video/mp4"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2108255138481901569/vid/avc1/640x360/awOFW0RSx_q7gF2n.mp4?tag=29",
+            "bitrate": 832000,
+            "content_type": "video/mp4"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2108255138481901569/vid/avc1/1280x720/AEfPcJ2g9mtjjyah.mp4?tag=29",
+            "bitrate": 2176000,
+            "content_type": "video/mp4"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2108255138481901569/vid/avc1/1920x1080/Ae9pt858Kg4PuPEL.mp4?tag=29",
+            "bitrate": 10368000,
+            "content_type": "video/mp4"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2108255138481901569/vid/avc1/3840x2160/zSp3P4E3YiHvp3OO.mp4?tag=29",
+            "bitrate": 25128000,
+            "content_type": "video/mp4"
+          }
+        ]
+      }
+    ],
+    "external": {
+      "type": "video",
+      "url": "https://www.youtube.com/embed/FcYL3h5bwlk",
+      "thumbnail_url": "https://img.youtube.com/vi/FcYL3h5bwlk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "twitter_card": "player",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+}

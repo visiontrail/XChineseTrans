@@ -1,0 +1,258 @@
+- heading "To view keyboard shortcuts, press question mark View keyboard shortcuts" [level=2]:
+  - generic: To view keyboard shortcuts, press question mark
+  - link "View keyboard shortcuts":
+    - /url: /i/keyboard_shortcuts
+- button "Grok":
+- button "Chat":
+- dialog:
+  - dialog:
+    - progressbar
+    - button "Close":
+    - button "Drafts":
+      - generic: Drafts
+    - generic "Leo Guo":
+      - img "Leo Guo"
+    - textbox "Post text" [active]:
+      - generic: "Quick update to my REA post: I'd be more cautious about my earlier suggestion to use spare Codex quota to explore apps."
+      - generic: A user reports being banned after trying REA with Codex. The screenshot shows an OpenAI workspace suspension for policy violations, but no specific request or confirmed trigger.
+      - generic: OpenAI prohibits malicious or abusive cyber activity and IP infringement. Its reverse-engineering clause concerns OpenAI's own services; I wouldn't read that as a blanket ban on analyzing every app.
+      - generic: Still, REA's MIT licence doesn't give you rights over the software you examine. The project itself says to use it only for lawful, authorized analysis and not to evade model providers' safeguards.
+      - generic: I still find the tooling interesting. But before giving an agent a target, check the target's licence, your permission to analyze it, and the provider's rules. Spare quota isn't a good reason to skip that.
+      - generic: https://openai.com/policies/usage-policies/
+      - generic: https://openai.com/policies/terms-of-use/
+    - generic: Quote
+    - button "Leo Guo Verified account @LeoGuoLabs Oct 9 Want to know how an app feature actually works? REA lets you ask a coding agent to investigate the code behind it. This MIT-licensed project gives Claude Code and Codex an MCP toolkit to inspect JavaScript/Electron apps, decompile Android APK methods, and trace functions,":
+      - generic: Leo Guo
+      - img "Verified account"
+      - generic: "@LeoGuoLabs"
+      - generic: ·
+      - generic "Oct 9":
+        - time: Oct 9
+      - generic: Want to know how an app feature actually works? REA lets you ask a coding agent to investigate the code behind it. This MIT-licensed project gives Claude Code and Codex an MCP toolkit to inspect JavaScript/Electron apps, decompile Android APK methods, and trace functions,
+    - link "Try out":
+      - /url: /compose/articles
+    - text: the new article composer for new formatting options.
+    - button "Close":
+    - button "Everyone can reply":
+      - generic: Everyone can reply
+    - navigation:
+      - button "Previous" [disabled]:
+      - tablist:
+        - button "Choose File"
+        - button "Add photos or video":
+        - button "Add a GIF":
+        - button "Add poll" [disabled]:
+        - button "Add emoji":
+        - button "Schedule post":
+        - button "Tag location" [disabled]:
+        - button "Content disclosure":
+      - button "Next" [disabled]:
+    - generic: 24,048 characters remaining
+    - progressbar:
+    - button "Add post":
+    - button "Post":
+      - generic: Post
+- button
+- button
+- banner:
+  - heading [level=1]:
+    - link:
+      - /url: /home
+  - navigation:
+    - link:
+      - /url: /home
+      - generic: Home
+    - link:
+      - /url: /explore
+      - generic: Explore
+    - link:
+      - /url: /notifications
+      - generic: Notifications
+    - link:
+      - /url: /i/connect_people
+      - generic: Follow
+    - link:
+      - /url: /i/chat
+      - generic: Chat
+    - link:
+      - /url: /i/calls
+      - generic: Calls
+    - link:
+      - /url: /i/grok
+      - generic: Grok
+    - link:
+      - /url: /i/history
+      - generic: History
+    - link:
+      - /url: /LeoGuoLabs
+      - generic: Profile
+    - button:
+      - generic: More
+  - link:
+    - /url: /compose/post
+    - generic: Post
+  - button:
+    - generic: Leo Guo
+    - generic: "@LeoGuoLabs"
+- main:
+  - button:
+  - heading [level=2]: Post
+  - status:
+    - button:
+      - generic: See new posts
+  - region:
+    - heading [level=1]: Conversation
+    - article:
+      - link:
+        - /url: /LeoGuoLabs
+      - link:
+        - /url: /LeoGuoLabs
+        - generic: Leo Guo
+      - link:
+        - /url: /LeoGuoLabs
+        - generic: "@LeoGuoLabs"
+      - button:
+        - generic: Boost
+      - button:
+      - button:
+      - generic: "Want to know how an app feature actually works? REA lets you ask a coding agent to investigate the code behind it. This MIT-licensed project gives Claude Code and Codex an MCP toolkit to inspect JavaScript/Electron apps, decompile Android APK methods, and trace functions, strings and assembly in native binaries. Its Notion case study follows a copy operation through Electron's preload and IPC into the system clipboard, then explains how copied blocks retain their structure. I like being able to start with one concrete behavior and follow the evidence. That could be useful when you're maintaining unfamiliar software or learning how another app solves a problem. Setup with a supported Node.js version and npm: npx rea-agents@latest setup Choose your agent, review the configuration changes, then restart it. Native analysis needs Ghidra, Hopper or IDA; Android analysis needs JADX and a JDK."
+      - link:
+        - /url: https://t.co/kZ5Vk1ktTw
+        - generic: "GitHub - morluto/rea: Reverse engineer anything with agents, from app behavior down to native..."
+      - link:
+        - /url: https://t.co/kZ5Vk1ktTw
+        - text: From github.com
+      - link:
+        - /url: /LeoGuoLabs/status/2108377804090101857
+        - time: 10:03 AM · Oct 9, 2026
+      - generic: ·
+      - link:
+        - /url: /LeoGuoLabs/status/2108377804090101857/analytics
+        - generic: "107"
+        - generic: Views
+      - button:
+        - generic: "1"
+      - button:
+      - button:
+      - button:
+      - button:
+    - link:
+      - /url: /LeoGuoLabs
+    - generic: Post your reply
+    - textbox
+    - button [disabled]:
+      - generic: Reply
+    - article:
+      - link:
+        - /url: /simonlin
+      - link:
+        - /url: /simonlin
+        - generic: SimonLin
+      - link:
+        - /url: /simonlin
+        - generic: "@simonlin"
+      - generic: ·
+      - link:
+        - /url: /simonlin/status/2108478385559314643
+        - time: Oct 9
+      - button:
+      - button:
+      - generic: Being able to follow a function back to the app's behaviour gives the decompiled code some context. That seems like a useful place for a coding agent to help.
+      - button:
+        - generic: "1"
+      - button:
+      - button:
+      - link:
+        - /url: /simonlin/status/2108478385559314643/analytics
+        - generic: "36"
+      - button:
+      - button:
+    - article:
+      - link:
+        - /url: /LeoGuoLabs
+      - link:
+        - /url: /LeoGuoLabs
+        - generic: Leo Guo
+      - link:
+        - /url: /LeoGuoLabs
+        - generic: "@LeoGuoLabs"
+      - generic: ·
+      - link:
+        - /url: /LeoGuoLabs/status/2108522695839371697
+        - time: Oct 9
+      - button:
+      - button:
+      - generic: Yeah, it seems useful for learning how apps work. And if you have some usage left on your plan, it’s a fun way to put it to use.
+      - button:
+        - generic: "1"
+      - button:
+      - button:
+      - link:
+        - /url: /LeoGuoLabs/status/2108522695839371697/analytics
+        - generic: "21"
+      - button:
+      - button:
+    - button:
+      - generic: Show replies
+  - search:
+    - combobox
+  - complementary:
+    - heading [level=2]:
+      - generic: Relevant people
+    - list:
+      - link:
+        - /url: /LeoGuoLabs
+      - link:
+        - /url: /LeoGuoLabs
+        - generic: Leo Guo
+      - link:
+        - /url: /LeoGuoLabs
+        - generic: "@LeoGuoLabs"
+      - generic: Previously a senior C/C++ engineer in telecom. Now exploring AI and emerging tech, sharing useful tools and an engineering perspective.
+  - region:
+    - heading [level=1]: Trending now
+    - heading [level=2]:
+      - generic: What’s happening
+    - link:
+      - generic: Politics · Trending
+      - generic: Moscow
+      - button:
+    - link:
+      - generic: Trending
+      - generic: Roadster
+      - button:
+    - link:
+      - generic: Trending in Singapore
+      - generic: Pump
+      - button:
+    - link:
+      - generic: Trending in Singapore
+      - generic: "#sgxmm"
+      - button:
+    - link:
+      - /url: /explore/tabs/for-you
+      - generic: Show more
+  - navigation:
+    - link:
+      - /url: https://x.com/tos
+      - text: Terms
+    - generic: ·
+    - link:
+      - /url: https://x.com/privacy
+      - text: Privacy
+    - generic: ·
+    - link:
+      - /url: https://support.x.com/articles/20170514
+      - text: Cookies
+    - generic: ·
+    - link:
+      - /url: https://help.x.com/resources/accessibility
+      - text: Accessibility
+    - generic: ·
+    - link:
+      - /url: https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo
+      - text: Ads Info
+    - generic: ·
+    - button:
+      - text: More
+    - generic: © 2026 X Corp.

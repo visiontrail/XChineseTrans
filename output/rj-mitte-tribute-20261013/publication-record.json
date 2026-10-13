@@ -1,0 +1,61 @@
+{
+  "source": "https://x.com/alanchen/status/2109752653060390951",
+  "original_media_target": "https://x.com/PopCrave/status/2109743825946132937",
+  "format": "standalone",
+  "account": "@LeoGuoLabs",
+  "text_path": "post-en.txt",
+  "media_paths": [
+    "rj-mitte-portrait.jpg"
+  ],
+  "alt_path": "alt-en.txt",
+  "state": "publicly_verified",
+  "authorization": "User confirmed the displayed exact English copy and portrait, and requested publication 20 minutes later.",
+  "public_url": "https://x.com/LeoGuoLabs/status/2109839359893811259",
+  "preparation_checks": {
+    "live_account": "@LeoGuoLabs",
+    "full_text_accepted": true,
+    "text_characters": 319,
+    "media_count": 1,
+    "media_ready": true,
+    "alt_saved": true,
+    "post_button_enabled": true,
+    "screenshot": "composer-review.png",
+    "submission_performed": true
+  },
+  "approved_at": "2026-10-13T10:29:10+08:00",
+  "requested_publish_at": "2026-10-13T10:49:10+08:00",
+  "time_zone": "Asia/Singapore",
+  "schedule": {
+    "mechanism": "Codex thread heartbeat, one occurrence",
+    "automation_id": "rj-mitte",
+    "publish_at": "2026-10-13T10:49:10+08:00",
+    "time_zone": "Asia/Singapore",
+    "queue_confirmed": true,
+    "native_x_schedule_saved": false,
+    "automation_stopped": true,
+    "automation_delete_status": "deleted"
+  },
+  "schedule_note": "X native scheduling page remained loading after reopening. The one-time heartbeat was created successfully and its ACTIVE configuration was read back.",
+  "execution_started_at": "2026-10-13T02:51:07.117396+00:00",
+  "duplicate_check": "Live account profile checked at execution: no matching RJ Mitte post among newest posts.",
+  "submitted_at": "2026-10-13T02:51:38.958854+00:00",
+  "verified_at": "2026-10-13T02:52:56.237469+00:00",
+  "published_display_time": "2026-10-13 10:51 Asia/Singapore",
+  "public_verification": {
+    "actual_url_opened": true,
+    "account": "@LeoGuoLabs",
+    "approved_complete_text_matches": true,
+    "format": "standalone",
+    "quote_target": null,
+    "image_count": 1,
+    "image_loaded": true,
+    "image_natural_dimensions": [
+      619,
+      387
+    ],
+    "alt_matches": true,
+    "video_required": false,
+    "screenshot": "public-post-verified.png",
+    "page_snapshot": "public-page-snapshot.txt"
+  }
+}

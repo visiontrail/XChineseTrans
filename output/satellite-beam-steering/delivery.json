@@ -1,0 +1,29 @@
+{
+  "title": "Steering without turning",
+  "duration_seconds": 36,
+  "width": 1920,
+  "height": 1080,
+  "fps": 60,
+  "frames": 2160,
+  "bytes": 19526823,
+  "sha256": "f61d1c3e19aff657961fc9049bbc98fb1b48c623f294cd9316296b0aa36ff771",
+  "audio": {
+    "integrated_lufs": -18.0,
+    "true_peak_dbtp": -2.86
+  },
+  "render_seconds": 63.948,
+  "mastering_seconds": 8.232,
+  "total_project_time": "not measured",
+  "stack": {
+    "remotion": "4.0.530",
+    "react": "19.2.0",
+    "three": "0.186.1",
+    "react_three_fiber": "9.8.1"
+  },
+  "reference_review": {
+    "automated_frames": 12543,
+    "manual_distinct_frames": 67,
+    "high_resolution_rechecks": 4
+  },
+  "publication": "not submitted"
+}

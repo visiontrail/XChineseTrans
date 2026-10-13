@@ -1,0 +1,183 @@
+1
+00:00:00,700 --> 00:00:05,767
+What changes when AI starts doing the research that builds the next generation of AI?
+
+2
+00:00:06,100 --> 00:00:10,100
+The important shift is a feedback loop: better systems can
+
+3
+00:00:10,100 --> 00:00:14,433
+help produce better successors, which can then accelerate the work again.
+
+4
+00:00:16,100 --> 00:00:21,133
+The evidence already shows substantial automation, but the numbers need care.
+
+5
+00:00:21,500 --> 00:00:25,467
+The paper cites Anthropic reporting that AI wrote more than
+
+6
+00:00:25,467 --> 00:00:28,733
+eighty percent of approved code by May twenty twenty-six.
+
+7
+00:00:29,100 --> 00:00:32,533
+Separately, twenty-six percent of research and development work
+
+8
+00:00:32,567 --> 00:00:37,367
+was completed autonomously, with high-level human supervision, by August.
+
+9
+00:00:37,700 --> 00:00:41,467
+Writing code and owning a research workflow are different measures.
+
+10
+00:00:43,167 --> 00:00:46,900
+A research cycle needs an idea, an implementation,
+
+11
+00:00:47,267 --> 00:00:50,133
+an experiment, and a judgment about the result.
+
+12
+00:00:50,467 --> 00:00:52,967
+Making the implementation faster helps.
+
+13
+00:00:53,300 --> 00:00:58,233
+But an idea still has to survive testing, and somebody
+
+14
+00:00:58,233 --> 00:01:01,267
+has to decide whether the apparent improvement is real.
+
+15
+00:01:02,967 --> 00:01:03,967
+Now close the loop.
+
+16
+00:01:04,300 --> 00:01:07,600
+A stronger model helps run that research cycle.
+
+17
+00:01:07,967 --> 00:01:11,100
+If the cycle produces a more capable or more
+
+18
+00:01:11,100 --> 00:01:15,133
+efficient successor, that successor can join the research team.
+
+19
+00:01:15,500 --> 00:01:18,733
+The team may then do more useful work on the same hardware.
+
+20
+00:01:19,067 --> 00:01:23,933
+That is the mechanism behind a possible software-driven intelligence explosion.
+
+21
+00:01:25,633 --> 00:01:31,467
+The key question is whether expanding research capacity can overcome diminishing returns.
+
+22
+00:01:31,833 --> 00:01:36,800
+The paper calls this balance returns to research effort, represented by r.
+
+23
+00:01:37,133 --> 00:01:43,533
+In its simplified model, values above one support acceleration while that condition holds.
+
+24
+00:01:43,867 --> 00:01:47,467
+This is an assumption to investigate, not a universal law.
+
+25
+00:01:49,167 --> 00:01:53,133
+One calculation suggests a tenfold increase in the pace of
+
+26
+00:01:53,133 --> 00:01:57,300
+progress within about one and a half years after full automation.
+
+27
+00:01:57,633 --> 00:02:00,833
+That result assumes research returns stay at the
+
+28
+00:02:00,833 --> 00:02:04,133
+estimated levels and no other bottlenecks emerge.
+
+29
+00:02:04,467 --> 00:02:09,067
+It is not a prediction that a tenfold speedup will arrive eighteen months from today.
+
+30
+00:02:10,733 --> 00:02:16,833
+There are four broad sources of friction: diminishing returns, limits on experimental compute and
+
+31
+00:02:16,833 --> 00:02:22,133
+data, tasks that remain hard to automate, and processes that simply take time.
+
+32
+00:02:22,467 --> 00:02:27,233
+A thousand proposed experiments are not a thousand validated discoveries.
+
+33
+00:02:27,600 --> 00:02:33,100
+More agents cannot, by themselves, make a long training run finish instantly.
+
+34
+00:02:34,833 --> 00:02:39,667
+Faster research could bring useful scientific and medical advances closer.
+
+35
+00:02:40,000 --> 00:02:42,767
+But the same acceleration can leave less time
+
+36
+00:02:42,767 --> 00:02:47,900
+to evaluate systems, preserve human control, and adapt institutions.
+
+37
+00:02:48,267 --> 00:02:53,533
+The paper also warns that concentrating research capability could weaken checks on power.
+
+38
+00:02:55,233 --> 00:03:00,667
+Consider a research loop with an explicit checkpoint before each successor is deployed.
+
+39
+00:03:01,033 --> 00:03:04,167
+The checkpoint asks what improved, what failed,
+
+40
+00:03:04,400 --> 00:03:07,467
+and whether the evidence justifies expanding access.
+
+41
+00:03:07,800 --> 00:03:10,733
+If generating the next model becomes fast, these
+
+42
+00:03:10,733 --> 00:03:14,667
+checks become more consequential, not optional overhead.
+
+43
+00:03:16,333 --> 00:03:22,133
+The authors propose three priorities: clearer reporting on research automation, ways
+
+44
+00:03:22,133 --> 00:03:26,900
+to steer or pause risky development, and preparation for wider impacts.
+
+45
+00:03:27,267 --> 00:03:32,900
+The practical takeaway is to track the whole loop: useful research output, the bottlenecks
+
+46
+00:03:32,900 --> 00:03:37,467
+that remain, and whether people can still understand and control what happens next.

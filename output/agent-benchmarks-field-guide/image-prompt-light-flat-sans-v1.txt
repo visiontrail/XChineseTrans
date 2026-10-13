@@ -1,0 +1,13 @@
+Edit this infographic. Preserve ALL eight entries, section labels, descriptions, and footer wording exactly. Keep the plain left-aligned numbered list and three sections.
+
+Make these strict changes:
+1. ALL text uses one modern clean geometric SANS-SERIF family similar to Geist or Inter. Headlines and section names use semibold 600; descriptions regular 400. Replace every serif letter, including the big headline, section numbers and footer, with this simple technical sans-serif. No serif type anywhere. Reduce the main title size by roughly 20%, with calm balanced margins.
+2. Replace the entire background with one perfectly SOLID FLAT pale yellow color #F6EDCF (RGB 246,237,207). Every empty area across the canvas must have exactly the same color. No gradient, shading, illuminated patches, vignette, paper texture, noise or simulated lighting. This must look like a crisp digital vector export from design software, not a photographed or printed poster.
+3. Use #1A4A3A forest green for text. Use #80601B flat dark gold only for "8 Benchmarks" and the plain section/row numbers. All lettering has completely flat solid color: no gradient or lighting inside letters.
+4. Keep it strictly typographic and minimal. No images, plants, leaves, icons, circles, cards, panels, badges, frames, shadows, extra slogans or other decoration. Only the text, simple straight section divider lines and uniform yellow background.
+
+Exact headline reads "8 Benchmarks" then "for AI Agents".
+All eight names must remain: Terminal-Bench 4.0; FrontierCode v1.1; CursorBench 4.0; DeepSWE v1.1; OSWorld 2.0; AutomationBench; GDPval-AA v2.1; Terminal-Bench-Science 0.1.
+All explanations remain verbatim as in the input.
+Bottom signature exactly LeoGuoLabs in small simple sans-serif.
+Portrait 2:3. Check all spelling. Flat vector-style typesetting, no decorative effects.

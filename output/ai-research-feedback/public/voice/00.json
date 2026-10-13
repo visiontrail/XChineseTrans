@@ -1,0 +1,218 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 902080,
+    "duration": 1159580,
+    "text": "What"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 2061660,
+    "duration": 4510410,
+    "text": "changes"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6572080,
+    "duration": 2061660,
+    "text": "when"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8762910,
+    "duration": 5283330,
+    "text": "AI"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 14175410,
+    "duration": 3865830,
+    "text": "starts"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18041250,
+    "duration": 2319580,
+    "text": "doing"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 20360830,
+    "duration": 773330,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21262910,
+    "duration": 6314580,
+    "text": "research"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 27706250,
+    "duration": 2963750,
+    "text": "that"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 30799160,
+    "duration": 3479160,
+    "text": "builds"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34278330,
+    "duration": 902080,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 35180410,
+    "duration": 3865830,
+    "text": "next"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39046250,
+    "duration": 5670000,
+    "text": "generation"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 44716660,
+    "duration": 902080,
+    "text": "of"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 45618750,
+    "duration": 5412500,
+    "text": "AI"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 55154580,
+    "duration": 644160,
+    "text": "The"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 55799160,
+    "duration": 5412080,
+    "text": "important"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 61211250,
+    "duration": 4897080,
+    "text": "shift"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 68170000,
+    "duration": 1417500,
+    "text": "is"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 69716660,
+    "duration": 515409,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 70360830,
+    "duration": 6958750,
+    "text": "feedback"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 77319580,
+    "duration": 3479580,
+    "text": "loop"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 85567080,
+    "duration": 2835000,
+    "text": "better"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 88530830,
+    "duration": 4897080,
+    "text": "systems"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 93427910,
+    "duration": 1417500,
+    "text": "can"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 94845410,
+    "duration": 2061660,
+    "text": "help"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 96907080,
+    "duration": 4767910,
+    "text": "produce"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 101804160,
+    "duration": 2706250,
+    "text": "better"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 104510410,
+    "duration": 9020410,
+    "text": "successors"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 117525830,
+    "duration": 1675000,
+    "text": "which"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 119200830,
+    "duration": 1932910,
+    "text": "can"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 121262910,
+    "duration": 2061660,
+    "text": "then"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 123324580,
+    "duration": 7474160,
+    "text": "accelerate"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 130927910,
+    "duration": 902080,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 131830000,
+    "duration": 1804160,
+    "text": "work"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 133762910,
+    "duration": 3865830,
+    "text": "again"
+  }
+]

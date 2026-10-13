@@ -1,0 +1,33 @@
+{
+  "source": "https://x.com/khazix0918/status/2107918094220083326",
+  "official_video_source": "https://x.com/claudeai/status/2107894039626277339",
+  "format": "standalone",
+  "account": "LeoGuoLabs",
+  "text_path": "post-en.txt",
+  "media": [
+    "haiku-5-5-verified-original.mp4"
+  ],
+  "media_checks": {
+    "duration_seconds": 11.083333,
+    "resolution": "3840x2160",
+    "codec": "h264",
+    "audio_streams": 0,
+    "range_bytes_verified": true,
+    "full_decode_pass": true,
+    "beginning_middle_end_frames": "checked",
+    "local_browser_playback": "Observed play start at 0:00 and complete at 0:11 / 11.0833 seconds in Ego Lite"
+  },
+  "state": "publicly_verified",
+  "authorization": "User approved reviewed text and video with 请发布 on 2026-10-08",
+  "blocker": null,
+  "published_url": "https://x.com/LeoGuoLabs/status/2108076348002701314",
+  "public_verification": {
+    "account": "@LeoGuoLabs",
+    "complete_approved_text": true,
+    "standalone": true,
+    "video_count": 1,
+    "video_duration": 11.083333,
+    "playback": "Observed remaining 0:07 followed by currentTime 7.538224; paused false, error null",
+    "screenshot": "published.png"
+  }
+}

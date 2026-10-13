@@ -1,0 +1,3 @@
+Kimi K3.1 could be just around the corner. Reports point to a release around mid-October, with improvements focused on long-running agent tasks.
+
+I’m curious to see whether it can keep a complex workflow on track and actually finish it. If that release window holds, next week could be interesting.

@@ -1,0 +1,221 @@
+{
+  "status": "passed",
+  "scope": "Disposable local repository and local bare remote only",
+  "not_verified": [
+    "GitHub-hosted Actions execution",
+    "GitHub PR creation or merge",
+    "Public GitHub Pages deployment"
+  ],
+  "records": [
+    {
+      "command": "/Users/leoguo/.pyenv/versions/3.14.4/bin/python3 tools/check_site.py",
+      "returncode": 0,
+      "stdout": "PASS: local HTML structure, link targets, and fragment IDs.\nNot checked: external URLs, browser behavior, or public deployment.",
+      "stderr": ""
+    },
+    {
+      "command": "git init -b main",
+      "returncode": 0,
+      "stdout": "Initialized empty Git repository in /private<TEMP>/field-notes/.git/",
+      "stderr": ""
+    },
+    {
+      "command": "git config user.name Field Guide QA",
+      "returncode": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "command": "git config user.email qa@example.invalid",
+      "returncode": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "command": "git config commit.gpgsign false",
+      "returncode": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "command": "git config core.hooksPath <TEMP>/empty-hooks",
+      "returncode": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "command": "git add README.md .gitignore docs/index.html docs/checklist.html tools/check_site.py .github/workflows/check.yml",
+      "returncode": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "command": "git diff --staged --stat",
+      "returncode": 0,
+      "stdout": ".github/workflows/check.yml | 23 +++++++++++\n .gitignore                  |  7 ++++\n README.md                   | 53 ++++++++++++++++++++++++\n docs/checklist.html         | 20 +++++++++\n docs/index.html             | 17 ++++++++\n tools/check_site.py         | 99 +++++++++++++++++++++++++++++++++++++++++++++\n 6 files changed, 219 insertions(+)",
+      "stderr": ""
+    },
+    {
+      "command": "git commit -m Add field notes site and local link check",
+      "returncode": 0,
+      "stdout": "[main (root-commit) 4a75f7f] Add field notes site and local link check\n 6 files changed, 219 insertions(+)\n create mode 100644 .github/workflows/check.yml\n create mode 100644 .gitignore\n create mode 100644 README.md\n create mode 100644 docs/checklist.html\n create mode 100644 docs/index.html\n create mode 100644 tools/check_site.py",
+      "stderr": ""
+    },
+    {
+      "command": "git rev-parse HEAD",
+      "returncode": 0,
+      "stdout": "4a75f7fcf4c13abb56d7f336a2c95504087452d3",
+      "stderr": ""
+    },
+    {
+      "command": "git switch -c docs/add-release-check",
+      "returncode": 0,
+      "stdout": "",
+      "stderr": "Switched to a new branch 'docs/add-release-check'"
+    },
+    {
+      "command": "/Users/leoguo/.pyenv/versions/3.14.4/bin/python3 tools/check_site.py",
+      "returncode": 0,
+      "stdout": "PASS: local HTML structure, link targets, and fragment IDs.\nNot checked: external URLs, browser behavior, or public deployment.",
+      "stderr": ""
+    },
+    {
+      "command": "git add docs/checklist.html",
+      "returncode": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "command": "git restore --staged docs/checklist.html",
+      "returncode": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "command": "git diff --staged --name-only",
+      "returncode": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "command": "git diff --name-only",
+      "returncode": 0,
+      "stdout": "docs/checklist.html",
+      "stderr": ""
+    },
+    {
+      "command": "git add docs/checklist.html",
+      "returncode": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "command": "git commit -m Add a live-site check to the release checklist",
+      "returncode": 0,
+      "stdout": "[docs/add-release-check c581039] Add a live-site check to the release checklist\n 1 file changed, 1 insertion(+)",
+      "stderr": ""
+    },
+    {
+      "command": "git rev-parse HEAD",
+      "returncode": 0,
+      "stdout": "c58103974ee97717e605323b0d2be37d9896187c",
+      "stderr": ""
+    },
+    {
+      "command": "git status --porcelain",
+      "returncode": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "command": "/Users/leoguo/.pyenv/versions/3.14.4/bin/python3 tools/check_site.py",
+      "returncode": 1,
+      "stdout": "index.html: missing target: does-not-exist.html",
+      "stderr": ""
+    },
+    {
+      "command": "/Users/leoguo/.pyenv/versions/3.14.4/bin/python3 tools/check_site.py",
+      "returncode": 1,
+      "stdout": "index.html: missing fragment ID: checklist.html#missing-section",
+      "stderr": ""
+    },
+    {
+      "command": "/Users/leoguo/.pyenv/versions/3.14.4/bin/python3 tools/check_site.py",
+      "returncode": 1,
+      "stdout": "index.html: root-relative path: /checklist.html",
+      "stderr": ""
+    },
+    {
+      "command": "/Users/leoguo/.pyenv/versions/3.14.4/bin/python3 tools/check_site.py",
+      "returncode": 0,
+      "stdout": "PASS: local HTML structure, link targets, and fragment IDs.\nNot checked: external URLs, browser behavior, or public deployment.",
+      "stderr": ""
+    },
+    {
+      "command": "git status --porcelain",
+      "returncode": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "command": "git init --bare --initial-branch=main <TEMP>/remote.git",
+      "returncode": 0,
+      "stdout": "Initialized empty Git repository in /private<TEMP>/remote.git/",
+      "stderr": ""
+    },
+    {
+      "command": "git remote add origin <TEMP>/remote.git",
+      "returncode": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "command": "git switch main",
+      "returncode": 0,
+      "stdout": "",
+      "stderr": "Switched to branch 'main'"
+    },
+    {
+      "command": "git push -u origin main",
+      "returncode": 0,
+      "stdout": "branch 'main' set up to track 'origin/main'.",
+      "stderr": "To <TEMP>/remote.git\n * [new branch]      main -> main"
+    },
+    {
+      "command": "git switch docs/add-release-check",
+      "returncode": 0,
+      "stdout": "",
+      "stderr": "Switched to branch 'docs/add-release-check'"
+    },
+    {
+      "command": "git push -u origin docs/add-release-check",
+      "returncode": 0,
+      "stdout": "branch 'docs/add-release-check' set up to track 'origin/docs/add-release-check'.",
+      "stderr": "To <TEMP>/remote.git\n * [new branch]      docs/add-release-check -> docs/add-release-check"
+    },
+    {
+      "command": "git rev-parse origin/main",
+      "returncode": 0,
+      "stdout": "4a75f7fcf4c13abb56d7f336a2c95504087452d3",
+      "stderr": ""
+    },
+    {
+      "command": "git rev-parse origin/docs/add-release-check",
+      "returncode": 0,
+      "stdout": "c58103974ee97717e605323b0d2be37d9896187c",
+      "stderr": ""
+    },
+    {
+      "command": "git revert --no-edit c58103974ee97717e605323b0d2be37d9896187c",
+      "returncode": 0,
+      "stdout": "[docs/add-release-check 1bab603] Revert \"Add a live-site check to the release checklist\"\n Date: Sun Sep 27 18:55:50 2026 +0800\n 1 file changed, 1 deletion(-)",
+      "stderr": ""
+    },
+    {
+      "command": "/Users/leoguo/.pyenv/versions/3.14.4/bin/python3 tools/check_site.py",
+      "returncode": 0,
+      "stdout": "PASS: local HTML structure, link targets, and fragment IDs.\nNot checked: external URLs, browser behavior, or public deployment.",
+      "stderr": ""
+    }
+  ]
+}

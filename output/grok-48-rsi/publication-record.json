@@ -1,0 +1,27 @@
+{
+  "source": "https://x.com/NFT_Chen/status/2108926881714364661",
+  "original_report": "https://x.com/jiahanjimliu/status/2108688388933198202",
+  "musk_statement": "https://x.com/elonmusk/status/2099308197802631191",
+  "format": "standalone",
+  "account": "LeoGuoLabs",
+  "text": "Grok 4.8 is worth watching for more than its parameter count. Musk described it in September as a 2.5T model trained on a new C++ stack, with reinforcement learning to follow.\n\nNow there’s a fresh staffing rumor: Jim Liu says a SpaceX friend was moved to xAI’s Palo Alto office for an “all hands on deck” push. An interesting signal, though it doesn’t establish a launch date or a capability breakthrough.\n\nOn RSI-Exam, the evaluated Grok 4.7 and Opus 5.5 agent setups score 0.3842 and 0.5357 respectively across 88 tasks. The benchmark tests agents improving executable methods or tools and checking them on unseen data; the underlying model weights stay frozen.\n\nI’m interested in whether the new stack helps Grok run better experiments and turn them into reliable improvements. That would be a much more useful step than a bigger number on a spec sheet.",
+  "media": [],
+  "state": "pending_approval",
+  "approval": "pending",
+  "checks": {
+    "source_and_quoted_post_live_read": true,
+    "relevant_video_present": false,
+    "source_image": "Decorative Musk/Grok montage, not selected",
+    "musk_statement": "Read-only metadata recovery; September 14 2026 statement is forward-looking, not current confirmation",
+    "rsi_exam": "Live primary HTML contains Grok 4.7 xhigh 0.3842, Opus 5.5 max 0.5357, 88 tasks. HTML transfer was partial but relevant entries present",
+    "composer": {
+      "full_text_accepted": true,
+      "post_button_enabled": true,
+      "characters_remaining": 24144,
+      "screenshot": "composer-review.png",
+      "browser": "Codex built-in browser",
+      "tab_id": "1"
+    }
+  },
+  "created_at": "2026-10-10T14:58:53.196495+00:00"
+}

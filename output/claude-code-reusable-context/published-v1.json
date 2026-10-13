@@ -1,0 +1,22 @@
+{
+  "status": "public_verified",
+  "url": "https://x.com/LeoGuoLabs/status/2107146650636718428",
+  "published_local_time": "2026-10-06 00:31 Asia/Singapore",
+  "approval": "User said 发布 after reviewing full English text and original video",
+  "format": "standalone post with direct video attachment",
+  "account": "@LeoGuoLabs",
+  "complete_text_verified": true,
+  "native_video_count": 1,
+  "video_duration_seconds": 1672.466,
+  "playback_current_time_seconds": 385.765319,
+  "playback_paused": false,
+  "playback_ready_state": 4,
+  "playback_error": null,
+  "proof": "published-post-v2.jpg",
+  "full_screenshot": "research/published-full-v1.jpg",
+  "proof_originals": [
+    "research/published-top-native-v2.jpg",
+    "research/published-bottom-native-v3.jpg"
+  ],
+  "discarded_proof": "published-post-v1.jpg: browser full-page screenshot rendering defect"
+}

@@ -1,0 +1,11 @@
+{
+  "archive": "codex-motion-routing-project.zip",
+  "files": 133,
+  "bytes": 20607022,
+  "sha256": "138dbd0c63c988489525fa163136496458839f4824ea54823b258083d1696028",
+  "video": "route-around-failure.mp4",
+  "article": "article.html",
+  "workflow": "workflow-zh.md",
+  "reviewUrl": "http://127.0.0.1:8743/review.html",
+  "published": false
+}

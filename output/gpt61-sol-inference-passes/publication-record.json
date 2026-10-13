@@ -1,0 +1,69 @@
+{
+  "account": "@LeoGuoLabs",
+  "format": "native_quote",
+  "state": "publicly_verified",
+  "source": "https://x.com/leo114119/status/2107346111362949329",
+  "original_evidence_post": "https://x.com/Algorithon/status/2107287650881208694",
+  "followup": "https://x.com/Algorithon/status/2107318545529065613",
+  "official_page": "https://ai.azure.com/catalog/models/gpt-6.1-sol",
+  "draft": "draft-v1.txt",
+  "media": [
+    {
+      "path": "source-screenshot.png",
+      "role": "third-party screenshot from the linked source chain, not independently captured historical Azure page",
+      "url": "https://pbs.twimg.com/media/HT6WgFLWoAAelfQ?format=png&name=medium",
+      "retrieved_at_utc": "2026-10-06T06:59:47.631996+00:00",
+      "bytes": 15887,
+      "sha256": "e18712e14a59d3d0cb200119f79b21416ff1228cfbfd13f2e66b676aee6c9251",
+      "alt": "Circulating screenshot headed “Model architecture,” claiming GPT-6.1 Sol shares base model weights with GPT-6 Sol and uses two inference passes rather than three. This wording is absent from the current Azure model card."
+    }
+  ],
+  "video": "No relevant video in source or quoted post. Unrelated recommended videos excluded.",
+  "authorization": "User approved reviewed English copy and explicitly requested publication as Quote Post: 用quote的方式发布吧",
+  "public_url": "https://x.com/LeoGuoLabs/status/2107381634710524128",
+  "checks": {
+    "source_read_in_original_chinese": true,
+    "logged_in_account_verified": true,
+    "current_azure_model_card_read": true,
+    "current_azure_two_three_pass_wording_found": false,
+    "historical_azure_wording_independently_verified": false,
+    "architecture_claim": "Unconfirmed; screenshot alone cannot establish looped transformers across GPT-6 family",
+    "latency_comparison": "No controlled Sol versus Astra measurement performed",
+    "composer_full_text_accepted": true,
+    "media_count": 1,
+    "media_ready": true,
+    "alt_entered": true,
+    "post_button_enabled": true,
+    "quote_composer_approved_text_matches": true,
+    "public_account": "@LeoGuoLabs",
+    "public_full_approved_text_present": true,
+    "native_quote_target_verified": "https://x.com/Algorithon/status/2107287650881208694",
+    "public_quote_image_loaded": true,
+    "public_quote_image_dimensions": [
+      907,
+      288
+    ],
+    "direct_uploaded_media_count": 0,
+    "native_quote_image_count": 1
+  },
+  "supporting_sources": [
+    "https://developers.openai.com/api/docs/models/gpt-6.1-sol",
+    "https://developers.openai.com/api/docs/guides/fast-mode",
+    "https://developers.openai.com/api/docs/guides/latency-optimization"
+  ],
+  "updated_at_utc": "2026-10-06T08:06:21.409Z",
+  "review_screenshot": "composer-review.jpg",
+  "review_screenshots": [
+    "composer-review.jpg",
+    "composer-media-review.jpg"
+  ],
+  "quote_target": "https://x.com/Algorithon/status/2107287650881208694",
+  "publication_media": "Native source screenshot retained through quoted post; no duplicate attachment",
+  "submitted_at_utc": "2026-10-06T08:05:16.100Z",
+  "verified_at_utc": "2026-10-06T08:06:21.409Z",
+  "public_verification_files": [
+    "published-page.txt",
+    "published-quote.jpg"
+  ],
+  "superseded_standalone_draft": "Saved in X Drafts; not published. Local original package preserved."
+}

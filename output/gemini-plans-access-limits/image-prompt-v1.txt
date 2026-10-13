@@ -1,0 +1,43 @@
+LeoGuoLabs Light v1 palette and typography: warm ivory #FDFBF7 with delicate, barely visible natural paper fiber; forest-green #1A4A3A typography, muted green #426454 supporting text, sparse dark-gold #80601B emphasis. Use a single clean modern sans-serif family resembling Geist or Inter, regular 400, medium 500, semibold 600. No serif type.
+
+Use case: infographic-diagram.
+Asset type: one original English infographic for an X standalone post.
+Create a polished portrait 4:5 information sheet, ideally 1600x2000, with 6% outer margins, an open editorial layout and generous clear spacing. Match the subtle warm ivory paper feeling of the LeoGuoLabs visual reference in the conversation. Around 90% light canvas. The content is a factual comparison of Gemini personal-account plans as listed in public documentation on 4 October 2026. The central distinction is MODEL ACCESS versus USAGE ALLOWANCE. This is not a Google product screenshot.
+
+Layout:
+Top: modest two-line heading, not enormous. Make "Gemini plans" forest green and "Access & limits" dark gold. Then a small date/scope line.
+Next: a model-access section, with the three model names on one or two balanced lines and one explanation line. No checkmarks, model logos or icons.
+Middle: a spacious two-column comparison table with a thin understated green horizontal rule below its headings. No vertical borders, shaded cells, boxes or cards. Four well separated rows. Plan names on left, usage allowance on right. Make the multipliers moderately emphasized, keeping each baseline explicit. The AI Ultra value can wrap to a second line if needed. Do not imply that Ultra uses the same baseline as Plus and Pro.
+Bottom: a compact explanation of the compute-based limit system and its refresh window. Keep essential qualifications readable. Small LeoGuoLabs signature at bottom right.
+
+Render ONLY the following exact text in the indicated hierarchy:
+Title:
+"Gemini plans"
+"Access & limits"
+Subtitle:
+"Personal accounts · 4 Oct 2026"
+
+Section:
+"Model access"
+"Flash-Lite · Flash · Pro"
+"Currently listed for all four tiers."
+
+Table headings:
+"Plan"                        "Usage allowance"
+Table rows:
+"Free"                        "Standard"
+"AI Plus"                     "2× standard"
+"AI Pro"                      "4× standard"
+"AI Ultra"                    "5× or 20× AI Pro"
+Under the table:
+"Ultra allowance depends on the subscription."
+
+Bottom section:
+"Compute-based limits"
+"5-hour refresh · Weekly cap"
+"Usage varies with the task and model."
+Small footer:
+"Availability and limits can change."
+"LeoGuoLabs"
+
+Constraints: correct English spelling, readable text at phone size, no clipping, no invented dates, prices, speeds, removed-model claims or release announcements. Do not put October 9 anywhere. No original blogger identity or source-post link. No Google logo. No decorative plants, leaves, ornaments, icons, circular badges, gradients, glow, shadows, distressed paper, stains, creases, heavy borders, rounded cards, neon styling or dark background. Paper texture must be extremely subtle and evenly distributed.

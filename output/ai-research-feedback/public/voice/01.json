@@ -1,0 +1,344 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 1030830,
+    "duration": 773330,
+    "text": "The"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 1804160,
+    "duration": 5541250,
+    "text": "evidence"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8505000,
+    "duration": 3865830,
+    "text": "already"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 12371250,
+    "duration": 4252500,
+    "text": "shows"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16752500,
+    "duration": 8376250,
+    "text": "substantial"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 25128750,
+    "duration": 6572080,
+    "text": "automation"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 35567080,
+    "duration": 1159580,
+    "text": "but"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36726660,
+    "duration": 644160,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 37500000,
+    "duration": 4767910,
+    "text": "numbers"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 42267910,
+    "duration": 3350410,
+    "text": "need"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 45747500,
+    "duration": 4897080,
+    "text": "care"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 55025830,
+    "duration": 644160,
+    "text": "The"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 55670000,
+    "duration": 3221660,
+    "text": "paper"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 58891660,
+    "duration": 3479580,
+    "text": "cites"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 62500000,
+    "duration": 6056660,
+    "text": "Anthropic"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 68556660,
+    "duration": 5154580,
+    "text": "reporting"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 75000000,
+    "duration": 1546250,
+    "text": "that"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 77963750,
+    "duration": 5670000,
+    "text": "AI"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 83634160,
+    "duration": 4897080,
+    "text": "wrote"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 88659580,
+    "duration": 3221660,
+    "text": "more"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 91881250,
+    "duration": 2061660,
+    "text": "than"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 94716660,
+    "duration": 2448330,
+    "text": "eighty"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 97293750,
+    "duration": 5799160,
+    "text": "percent"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 103221660,
+    "duration": 902080,
+    "text": "of"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 104123750,
+    "duration": 5154580,
+    "text": "approved"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 109278330,
+    "duration": 4123750,
+    "text": "code"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 113530830,
+    "duration": 1160000,
+    "text": "by"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 114690830,
+    "duration": 1417500,
+    "text": "May"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 116237080,
+    "duration": 2706250,
+    "text": "twenty"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 119072080,
+    "duration": 7732080,
+    "text": "twenty-six"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 131056660,
+    "duration": 6572080,
+    "text": "Separately"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 139690830,
+    "duration": 5283330,
+    "text": "twenty-six"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 144974160,
+    "duration": 4381250,
+    "text": "percent"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 149355830,
+    "duration": 1804160,
+    "text": "of"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 151288750,
+    "duration": 5412080,
+    "text": "research"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 156700830,
+    "duration": 515409,
+    "text": "and"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 157345410,
+    "duration": 4381250,
+    "text": "development"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 161726660,
+    "duration": 3092910,
+    "text": "work"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 165592910,
+    "duration": 1675000,
+    "text": "was"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 167267910,
+    "duration": 6056660,
+    "text": "completed"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 173453750,
+    "duration": 9278330,
+    "text": "autonomously"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 186726660,
+    "duration": 1288750,
+    "text": "with"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 188144160,
+    "duration": 5025830,
+    "text": "high-level"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 193298750,
+    "duration": 2835000,
+    "text": "human"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 196134160,
+    "duration": 6443330,
+    "text": "supervision"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 204767910,
+    "duration": 1932910,
+    "text": "by"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 206830000,
+    "duration": 6056660,
+    "text": "August"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 217010410,
+    "duration": 2835000,
+    "text": "Writing"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 219974160,
+    "duration": 4381250,
+    "text": "code"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 226804160,
+    "duration": 2061660,
+    "text": "and"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 228995000,
+    "duration": 2705830,
+    "text": "owning"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 231700830,
+    "duration": 515409,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 232216660,
+    "duration": 5025410,
+    "text": "research"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 237242080,
+    "duration": 5541250,
+    "text": "workflow"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 243427910,
+    "duration": 1417500,
+    "text": "are"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 244974160,
+    "duration": 3479580,
+    "text": "different"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 248582500,
+    "duration": 5541250,
+    "text": "measures"
+  }
+]

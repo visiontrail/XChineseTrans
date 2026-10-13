@@ -1,0 +1,1 @@
+A four-level funnel illustrating different experiences of AI: roughly 6 billion people with little or no LLM exposure; 1–2 billion casual free-tier users; 20 million using frontier tools for math and code; and 5,000 with internal frontier systems. Karpathy's rough estimates, shown schematically rather than to scale. Task size, domain, and access shape the gap.

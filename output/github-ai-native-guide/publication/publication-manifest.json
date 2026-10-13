@@ -1,0 +1,113 @@
+{
+  "account": "LeoGuoLabs",
+  "format": "standalone X Article",
+  "title": "Git, the AI-Native Way: From Intent to Verified Delivery",
+  "source_path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/github-ai-native-guide/article.md",
+  "source_sha256": "c40b043401cdb60750490e43be097016a9f20a4d4bf626946d6a4bea7b828bfa",
+  "cover": {
+    "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/github-ai-native-guide/images/01-cover.png",
+    "alt": "Conceptual cover showing a task brief reaching an AI agent, branching version history, review, and a delivered website.",
+    "caption": "",
+    "sha256": "cd0c7313215264f16133aca9ea658f44fcc3c237df8ccec9045f8e56745697d7"
+  },
+  "inline_figures": [
+    {
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/github-ai-native-guide/images/02-intent-loop.png",
+      "alt": "A loop connecting user intent, agent inspection, scoped execution, observed evidence, and the next decision.",
+      "caption": "The prompt defines the desired result. The agent operates the tools and returns evidence that can support the next decision.",
+      "sha256": "e5796309758e73646192fad8df4f30654dda1339e79f0076d5c67e54e644f266"
+    },
+    {
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/github-ai-native-guide/images/03-state-map.png",
+      "alt": "A Git state map connecting working files, staging, local history, a remote branch, pull request review, and a live site.",
+      "caption": "An arrow represents one kind of change. A successful earlier arrow does not establish that a later one happened.",
+      "sha256": "eabcf9801c62c19c432aa5a48010febc2a103c9638efed641181f79051b20aad"
+    },
+    {
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/github-ai-native-guide/images/04-setup.png",
+      "alt": "Four setup paths distinguish toolchain checks, commit identity, GitHub authentication, and local repository initialization.",
+      "caption": "Version checks inspect tooling. Git configuration supplies metadata and defaults. Authentication establishes access to a remote service. Initialization creates local repository metadata.",
+      "sha256": "ba0afcf23900138f5159ad77cb4af9b9694f7adc0678e5ed4aa3c5846c9ce932"
+    },
+    {
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/github-ai-native-guide/images/05-inspection.png",
+      "alt": "Inspection tools are mapped to the questions they answer: status, differences, history, line provenance, and revision identity.",
+      "caption": "These tools inspect different evidence. None is a universal answer to “what changed?”",
+      "sha256": "bdb5848214447cded75c8f17222a2dc02e77e744d76b14f69a1fb6b4abab06fc"
+    },
+    {
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/github-ai-native-guide/images/06-branches.png",
+      "alt": "A branch diverges from a shared base while an optional worktree provides a separate checkout and index for the agent.",
+      "caption": "A branch names a line of history. A worktree gives that line a separate set of working files.",
+      "sha256": "bae028f2d46ab26d5cbe4c5232d4f50cc94da0ce7cf8e33d0a6059b1161e3441"
+    },
+    {
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/github-ai-native-guide/images/07-staging.png",
+      "alt": "Three snapshots show HEAD at version A, the index at version B, and working files at version C; commit records B and leaves C unstaged.",
+      "caption": "The staged diff describes the proposed commit. A later working-file edit can remain outside it.",
+      "sha256": "f3526a5c016e89ae1ed568d78572189707bbaacc9a40f490dd371918e21956ed"
+    },
+    {
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/github-ai-native-guide/images/08-validation.png",
+      "alt": "Validation separates a valid local check, a deliberate broken-link failure, restoration, and observation in the local browser.",
+      "caption": "The checker, the browser, and the public host answer different questions. The agent should identify which one supplied each result.",
+      "sha256": "7d7badf1b8647333c5340e8db8b2b13f8c828a654741b03c6abc4e8824e4b5bf"
+    },
+    {
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/github-ai-native-guide/images/09-remotes.png",
+      "alt": "Remote topology distinguishes an upstream repository, a GitHub fork, the local checkout, and the PR destination, with clone, fetch, and push directions.",
+      "caption": "Remote names are local labels for destinations. In a fork workflow, origin commonly points to your fork and upstream to the original project.",
+      "sha256": "4286613a5f2d3e768f386fbd719f562ef01281738d915414c67dbdee79b1c637"
+    },
+    {
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/github-ai-native-guide/images/10-integration.png",
+      "alt": "Two history diagrams compare a merge joining existing histories with a rebase replaying a change as a new commit identity.",
+      "caption": "Merge connects histories. Rebase replays work onto another base and changes the identities of replayed commits.",
+      "sha256": "a097a4665234d1aff631a15beaa3f90f36003fa543969f1b34996259f756e4e2"
+    },
+    {
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/github-ai-native-guide/images/11-delivery.png",
+      "alt": "Delivery proceeds from a pushed branch to PR review, merge, deployment, and a browser check, with separate evidence for each stage.",
+      "caption": "A pushed branch, merged PR, successful deployment job, and working public page are four separate observations.",
+      "sha256": "56648aeb65bf1d83ba5f237f02c461e67121313034d59bbf1f6852b191d54518"
+    },
+    {
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/github-ai-native-guide/images/12-recovery.png",
+      "alt": "Recovery diagrams distinguish unstaging, stashing and applying, appending a revert commit, and destructive working-file replacement.",
+      "caption": "Recovery operations have different destinations. Preserving an edit, reversing a commit, and replacing a file are different goals.",
+      "sha256": "9c4f910bfe430b900bc0a543bb34c805372a4536b9f65b23df213a4b0d8b1c60"
+    }
+  ],
+  "status": "published_and_publicly_verified",
+  "published": true,
+  "submitted_at": "2026-09-28T03:12:25.271Z",
+  "draft_url": "https://x.com/compose/articles/edit/2104400256867934208/focus",
+  "formatting_notes": [
+    "Native X Article cover crop preserves the full title.",
+    "Three tables rendered as labeled lists.",
+    "Prompt text retained as block quotes."
+  ],
+  "public_url": "https://x.com/LeoGuoLabs/status/2104408801688629693",
+  "verified_at": "2026-09-28T04:04:07.827Z",
+  "reading_url": "https://x.com/LeoGuoLabs/article/2104408801688629693",
+  "verification": {
+    "text_and_order_match": true,
+    "paragraphs": 160,
+    "headings": 16,
+    "prompts": 28,
+    "images": 12,
+    "all_images_loaded": true,
+    "inline_alt_descriptions": 11,
+    "links": 25,
+    "links_match": true,
+    "requested_paragraph_removed": true
+  },
+  "revisions": [
+    {
+      "date": "2026-09-28",
+      "change": "Remove the unnecessary cover production disclaimer as requested.",
+      "previous_source_sha256": "9cd70894d8b62635f63c17630516c4f3a45651b32fca98f47e3d6e7a897b6b7b",
+      "source_sha256": "c40b043401cdb60750490e43be097016a9f20a4d4bf626946d6a4bea7b828bfa"
+    }
+  ]
+}

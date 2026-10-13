@@ -1,0 +1,9 @@
+Atlas’s new GR3 hand has four fingers and 13 degrees of freedom, up from seven. The missing pinky is an engineering tradeoff.
+
+Boston Dynamics decided its added dexterity did not justify three more actuators, extra size, power consumption and failure points. The team even spent a day with their pinkies taped to their ring fingers to test the idea.
+
+The upgrade is in what happens after a grasp: reorienting an object, adjusting a pinch, or holding a tool while operating its trigger. The thumb has four degrees of freedom; each other finger has three.
+
+Pressure sensors cover the fingertips and palm. Backdrivable joints can yield under impact, while enclosed actuators avoid fragile cables crossing the joints.
+
+The design also supports accurate simulation for reinforcement learning. Useful robot hands need dexterity, durability and hardware that can be manufactured and repaired at scale.

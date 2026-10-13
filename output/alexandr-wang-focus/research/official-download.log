@@ -1,0 +1,52 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=QvfCHPCeoPw
+[youtube] QvfCHPCeoPw: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] QvfCHPCeoPw: Downloading visionos player API JSON
+[youtube] QvfCHPCeoPw: Downloading m3u8 information
+[info] QvfCHPCeoPw: Downloading 1 format(s): 398+251
+[info] QvfCHPCeoPw: Downloading 1 time ranges: 4159.0-4223.0
+[download] Destination: output/alexandr-wang-focus/media/official-focus-context.webm
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'https://rr2---sn-npoe7nez.googlevideo.com/videoplayback?expire=1791626200&ei=eLfJarPQKKHd3LUP9t7L6Qg&ip=168.140.199.223&id=o-AGSmRNE_QNbSGd4o5b9xA26KSAU29SHH1MQ-DoNESEkM&itag=398&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=0&met=1791604600%2C&mh=6E&mm=31%2C26&mn=sn-npoe7nez%2Csn-un57enel&ms=au%2Conr&mv=m&mvi=2&pl=24&rms=au%2Cau&initcwndbps=1794125&bui=AWzQHwqnYKG8_GsJcNCRB_N_8gfXNSwdI3mBQfG4sG0PHJG611drr_F_2BaDX_k1vFXyMnB_1fB8U9Vq&spc=I-rgITb6k9rbshVVgXlsn7Vt-N0rwmKFRvfyD85DgCte0YnlFj-XIo7dpURY&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=296399967&dur=12241.145&lmt=1749684589134918&mt=1791604160&fvip=5&keepalive=yes&fexp=51565115%2C52112905%2C52184232%2C52250513&c=VISIONOS&txp=4537534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AE0s2JYwRQIgejQFMxTSymvgKmhLwZajYk-k3N6271uF2MDS2YMXCGkCIQDpxfhCxoGuPA4sKVsDww39ZdTI5isxEgPlIfLqke8S_Q%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAPwQscHmrHW98c_KQU4cRDyFEQ_04FsEP26Q8eg1ofKRAiB1ygWVRSSE1WGKqZ0RSnLZty_AfqbgiOf8TPxiCnZNPg%3D%3D':
+  Metadata:
+    major_brand     : dash
+    minor_version   : 0
+    compatible_brands: iso6av01mp41
+    creation_time   : 2025-06-11T14:56:06.000000Z
+  Duration: 03:24:01.15, start: 0.000000, bitrate: 193 kb/s
+  Stream #0:0[0x1](und): Video: av1 (libdav1d) (Main) (av01 / 0x31307661), yuv420p(tv, bt709), 1280x720 [SAR 1:1 DAR 16:9], 795 kb/s, 23.98 fps, 23.98 tbr, 24k tbn (default)
+    Metadata:
+      creation_time   : 2025-06-11T14:56:06.000000Z
+      handler_name    : ISO Media file produced by Google Inc.
+Input #1, matroska,webm, from 'https://rr2---sn-npoe7nez.googlevideo.com/videoplayback?expire=1791626200&ei=eLfJarPQKKHd3LUP9t7L6Qg&ip=168.140.199.223&id=o-AGSmRNE_QNbSGd4o5b9xA26KSAU29SHH1MQ-DoNESEkM&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=0&met=1791604600%2C&mh=6E&mm=31%2C26&mn=sn-npoe7nez%2Csn-un57enel&ms=au%2Conr&mv=m&mvi=2&pl=24&rms=au%2Cau&initcwndbps=1794125&bui=AWzQHwqnYKG8_GsJcNCRB_N_8gfXNSwdI3mBQfG4sG0PHJG611drr_F_2BaDX_k1vFXyMnB_1fB8U9Vq&spc=I-rgITb6k9rbshVVgXlsn7Vt-N0rwmKFRvfyD85DgCte0YnlFj-XIo7dpURY&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=168902122&dur=12241.181&lmt=1749619055948890&mt=1791604160&fvip=5&keepalive=yes&fexp=51565115%2C52112905%2C52184232%2C52250513&c=VISIONOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AE0s2JYwRQIhANvxMN-spm2OmXJxEMDgqO6CDnwYehSwxIrZFSLN5uurAiADisSMG9SS6IMp9E4mjsMvGdnzehr1YE3i262u0kTGcA%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAPwQscHmrHW98c_KQU4cRDyFEQ_04FsEP26Q8eg1ofKRAiB1ygWVRSSE1WGKqZ0RSnLZty_AfqbgiOf8TPxiCnZNPg%3D%3D':
+  Metadata:
+    encoder         : google/video-file
+  Duration: 03:24:01.18, start: 0.000000, bitrate: 110 kb/s
+  Stream #1:0(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+Stream mapping:
+  Stream #0:0 -> #0:0 (av1 (libdav1d) -> vp9 (libvpx-vp9))
+  Stream #1:0 -> #0:1 (opus (native) -> opus (libopus))
+Press [q] to stop, [?] for help
+[libvpx-vp9 @ 0x80515d180] v1.16.0
+[libvpx-vp9 @ 0x80515d180] Neither bitrate nor constrained quality specified, using default CRF of 32
+[libopus @ 0x80515df80] No bit rate set. Defaulting to 96000 bps.
+Output #0, webm, to 'file:output/alexandr-wang-focus/media/official-focus-context.webm.part':
+  Metadata:
+    major_brand     : dash
+    minor_version   : 0
+    compatible_brands: iso6av01mp41
+    encoder         : Lavf62.12.101
+  Stream #0:0(und): Video: vp9, yuv420p(tv, bt709, progressive), 1280x720 [SAR 1:1 DAR 16:9], q=2-31, 23.98 fps, 1k tbn (default)
+    Metadata:
+      encoder         : Lavc62.28.101 libvpx-vp9
+      creation_time   : 2025-06-11T14:56:06.000000Z
+      handler_name    : ISO Media file produced by Google Inc.
+    Side data:
+      CPB properties: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1(eng): Audio: opus, 48000 Hz, stereo, flt, 96 kb/s (default)
+    Metadata:
+      encoder         : Lavc62.28.101 libopus
+frame=   12 fps=0.9 q=32.0 size=       1KiB time=00:00:00.54 bitrate=  12.1kbits/s speed=0.0414x elapsed=0:00:13.08    frame=   24 fps=1.8 q=32.0 size=       1KiB time=00:00:00.65 bitrate=  10.0kbits/s speed=0.0481x elapsed=0:00:13.58    frame=   24 fps=1.7 q=32.0 size=       1KiB time=00:00:00.65 bitrate=  10.0kbits/s speed=0.0464x elapsed=0:00:14.08    frame=   24 fps=1.6 q=32.0 size=       1KiB time=00:00:00.65 bitrate=  10.0kbits/s speed=0.0448x elapsed=0:00:14.58    frame=   24 fps=1.6 q=32.0 size=       1KiB time=00:00:00.65 bitrate=  10.0kbits/s speed=0.0433x elapsed=0:00:15.09    frame=   30 fps=1.9 q=32.0 size=       1KiB time=00:00:01.23 bitrate=   5.3kbits/s speed=0.0791x elapsed=0:00:15.59    frame=   39 fps=2.4 q=30.0 size=       1KiB time=00:00:01.63 bitrate=   4.0kbits/s speed=0.101x elapsed=0:00:16.09    frame=   54 fps=3.3 q=32.0 size=       1KiB time=00:00:01.91 bitrate=   3.4kbits/s speed=0.115x elapsed=0:00:16.60    frame=   54 fps=3.2 q=32.0 size=       1KiB time=00:00:01.91 bitrate=   3.4kbits/s speed=0.112x elapsed=0:00:17.10    frame=   54 fps=3.1 q=32.0 size=       1KiB time=00:00:01.91 bitrate=   3.4kbits/s speed=0.109x elapsed=0:00:17.60    frame=   54 fps=3.0 q=32.0 size=       1KiB time=00:00:01.91 bitrate=   3.4kbits/s speed=0.106x elapsed=0:00:18.10    frame=   54 fps=2.9 q=32.0 size=       1KiB time=00:00:01.91 bitrate=   3.4kbits/s speed=0.103x elapsed=0:00:18.60    frame=   54 fps=2.8 q=32.0 size=       1KiB time=00:00:01.91 bitrate=   3.4kbits/s speed= 0.1x elapsed=0:00:19.10    frame=   61 fps=3.1 q=21.0 size=       1KiB time=00:00:02.51 bitrate=   2.6kbits/s speed=0.128x elapsed=0:00:19.61    frame=   80 fps=4.0 q=32.0 size=       1KiB time=00:00:03.09 bitrate=   2.1kbits/s speed=0.154x elapsed=0:00:20.11    frame=   83 fps=4.0 q=30.0 size=       1KiB time=00:00:03.09 bitrate=   2.1kbits/s speed=0.15x elapsed=0:00:20.61    frame=  100 fps=4.7 q=32.0 size=       1KiB time=00:00:04.07 bitrate=   1.6kbits/s speed=0.193x elapsed=0:00:21.12    frame=  116 fps=5.4 q=32.0 size=       1KiB time=00:00:04.49 bitrate=   1.5kbits/s speed=0.208x elapsed=0:00:21.62    frame=  127 fps=5.7 q=30.0 size=     140KiB time=00:00:05.33 bitrate= 215.2kbits/s speed=0.241x elapsed=0:00:22.12    frame=  141 fps=6.2 q=27.0 size=     152KiB time=00:00:05.61 bitrate= 221.5kbits/s speed=0.248x elapsed=0:00:22.62    frame=  152 fps=6.6 q=32.0 size=     152KiB time=00:00:06.23 bitrate= 199.4kbits/s speed=0.269x elapsed=0:00:23.13    frame=  168 fps=7.1 q=32.0 size=     152KiB time=00:00:06.59 bitrate= 188.5kbits/s speed=0.279x elapsed=0:00:23.63    frame=  176 fps=7.3 q=32.0 size=     152KiB time=00:00:07.23 bitrate= 171.9kbits/s speed= 0.3x elapsed=0:00:24.13    frame=  194 fps=7.9 q=32.0 size=     152KiB time=00:00:08.01 bitrate= 155.1kbits/s speed=0.325x elapsed=0:00:24.63    frame=  194 fps=7.7 q=32.0 size=     152KiB time=00:00:08.13 bitrate= 152.9kbits/s speed=0.324x elapsed=0:00:25.14    frame=  194 fps=7.6 q=32.0 size=     152KiB time=00:00:08.13 bitrate= 152.9kbits/s speed=0.317x elapsed=0:00:25.64    frame=  198 fps=7.6 q=32.0 size=     152KiB time=00:00:08.29 bitrate= 149.8kbits/s speed=0.317x elapsed=0:00:26.15    frame=  209 fps=7.8 q=21.0 size=     152KiB time=00:00:08.75 bitrate= 141.9kbits/s speed=0.329x elapsed=0:00:26.65    frame=  209 fps=7.7 q=21.0 size=     152KiB time=00:00:08.75 bitrate= 141.9kbits/s speed=0.323x elapsed=0:00:27.15    frame=  209 fps=7.6 q=21.0 size=     152KiB time=00:00:08.75 bitrate= 141.9kbits/s speed=0.317x elapsed=0:00:27.66    frame=  209 fps=7.4 q=21.0 size=     152KiB time=00:00:08.75 bitrate= 141.9kbits/s speed=0.311x elapsed=0:00:28.16    frame=  209 fps=7.3 q=21.0 size=     152KiB time=00:00:08.75 bitrate= 141.9kbits/s speed=0.306x elapsed=0:00:28.66    frame=  209 fps=7.2 q=21.0 size=     152KiB time=00:00:08.75 bitrate= 141.9kbits/s speed= 0.3x elapsed=0:00:29.16    frame=  213 fps=7.2 q=27.0 size=     152KiB time=00:00:08.92 bitrate= 139.3kbits/s speed=0.301x elapsed=0:00:29.66    frame=  229 fps=7.6 q=21.0 size=     152KiB time=00:00:09.59 bitrate= 129.6kbits/s speed=0.318x elapsed=0:00:30.16    frame=  229 fps=7.5 q=21.0 size=     152KiB time=00:00:09.59 bitrate= 129.6kbits/s speed=0.313x elapsed=0:00:30.67    frame=  229 fps=7.3 q=21.0 size=     152KiB time=00:00:09.59 bitrate= 129.6kbits/s speed=0.308x elapsed=0:00:31.17    frame=  229 fps=7.2 q=21.0 size=     152KiB time=00:00:09.59 bitrate= 129.6kbits/s speed=0.303x elapsed=0:00:31.68    [out#0/webm @ 0x805088300] video:328KiB audio:97KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 1.450322%
+frame=  269 fps=7.6 q=27.0 Lsize=     432KiB time=00:00:10.07 bitrate= 351.3kbits/s speed=0.285x elapsed=0:00:35.33    
+Exiting normally, received signal 2.
+
+ERROR: Interrupted by user

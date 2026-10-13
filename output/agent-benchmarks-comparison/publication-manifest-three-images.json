@@ -1,0 +1,42 @@
+{
+  "status": "published_verified",
+  "format": "standalone",
+  "account": "LeoGuoLabs",
+  "bodyFile": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/agent-benchmarks-comparison/x-post-three-images-final.txt",
+  "images": [
+    {
+      "order": 1,
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/agent-benchmarks-field-guide/agent-benchmarks-en-paper-v2.png",
+      "altFile": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/agent-benchmarks-field-guide/alt-text.txt",
+      "label": "8 benchmarks: definitions and three categories"
+    },
+    {
+      "order": 2,
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/agent-benchmarks-comparison/gpt6-sol-vs-opus55-grouped-v4.png",
+      "altFile": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/agent-benchmarks-comparison/alt-text-sol-v4.txt",
+      "label": "GPT-6 Sol vs Claude Opus 5.5"
+    },
+    {
+      "order": 3,
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/agent-benchmarks-comparison/gpt6-astra-vs-opus55-grouped-v3.png",
+      "altFile": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/agent-benchmarks-comparison/alt-text-astra-v3.txt",
+      "label": "GPT-6 Astra vs Claude Opus 5.5"
+    }
+  ],
+  "url": "https://x.com/LeoGuoLabs/status/2104494266856943800",
+  "publishedAt": "2026-09-28T16:51:00+08:00",
+  "verification": {
+    "account": "LeoGuoLabs",
+    "bodyExact": true,
+    "imageCount": 3,
+    "imageOrder": [
+      "benchmark field guide",
+      "GPT-6 Sol vs Opus 5.5",
+      "GPT-6 Astra vs Opus 5.5"
+    ],
+    "allImagesLoaded": true,
+    "altTextVerified": true,
+    "reopenedPublicPage": true,
+    "screenshot": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/agent-benchmarks-comparison/published-post.png"
+  }
+}

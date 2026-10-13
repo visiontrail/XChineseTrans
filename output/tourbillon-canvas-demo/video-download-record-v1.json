@@ -1,0 +1,45 @@
+{
+  "source_post": "https://x.com/Inmerson/status/2107036480917160250",
+  "video_id": "2107035822830596096",
+  "download_url": "https://video.twimg.com/amplify_video/2107035822830596096/vid/avc1/1152x720/XPr0paV90BcfqWWX.mp4?tag=14",
+  "bytes": 27107204,
+  "sha256": "56ba97aa5a8ee8499389430e764a76cf05457ebdea5a3044a9169069a9ec0549",
+  "responses": [
+    {
+      "status": 206,
+      "content_range": "bytes 0-4194303/27107204",
+      "bytes": 4194304
+    },
+    {
+      "status": 206,
+      "content_range": "bytes 4194304-8388607/27107204",
+      "bytes": 4194304
+    },
+    {
+      "status": 206,
+      "content_range": "bytes 8388608-12582911/27107204",
+      "bytes": 4194304
+    },
+    {
+      "status": 206,
+      "content_range": "bytes 12582912-16777215/27107204",
+      "bytes": 4194304
+    },
+    {
+      "status": 206,
+      "content_range": "bytes 16777216-20971519/27107204",
+      "bytes": 4194304
+    },
+    {
+      "status": 206,
+      "content_range": "bytes 20971520-25165823/27107204",
+      "bytes": 4194304
+    },
+    {
+      "status": 206,
+      "content_range": "bytes 25165824-27107203/27107204",
+      "bytes": 1941380
+    }
+  ],
+  "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/tourbillon-canvas-demo/tourbillon-source-v1.mp4"
+}

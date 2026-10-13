@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {
+    "title": "Two ways to integrate another line of work",
+    "subtitle": "Illustrative commit identities; arrows follow history toward newer commits.",
+    "viewBox": [
+      1000,
+      690
+    ]
+  },
+  "components": [
+    {
+      "id": "a",
+      "label": "A",
+      "sublabel": "Shared base",
+      "pos": [
+        50,
+        180
+      ],
+      "size": [
+        110,
+        64
+      ],
+      "type": "database"
+    },
+    {
+      "id": "b",
+      "label": "B on main",
+      "sublabel": "Existing commit",
+      "pos": [
+        325,
+        80
+      ],
+      "size": [
+        195,
+        64
+      ],
+      "type": "database"
+    },
+    {
+      "id": "c",
+      "label": "C on task",
+      "sublabel": "Existing commit",
+      "pos": [
+        325,
+        280
+      ],
+      "size": [
+        195,
+        64
+      ],
+      "type": "database"
+    },
+    {
+      "id": "m",
+      "label": "M: merge commit",
+      "sublabel": "Parents are B and C",
+      "pos": [
+        720,
+        180
+      ],
+      "size": [
+        230,
+        64
+      ],
+      "type": "backend"
+    },
+    {
+      "id": "a2",
+      "label": "A",
+      "sublabel": "Shared base",
+      "pos": [
+        50,
+        485
+      ],
+      "size": [
+        110,
+        64
+      ],
+      "type": "database"
+    },
+    {
+      "id": "b2",
+      "label": "B on main",
+      "sublabel": "New base for task",
+      "pos": [
+        325,
+        485
+      ],
+      "size": [
+        195,
+        64
+      ],
+      "type": "database"
+    },
+    {
+      "id": "cprime",
+      "label": "Replayed commit C\u2032",
+      "sublabel": "New commit identity",
+      "pos": [
+        720,
+        485
+      ],
+      "size": [
+        230,
+        64
+      ],
+      "type": "backend"
+    }
+  ],
+  "connections": [
+    {
+      "from": "a",
+      "to": "b",
+      "variant": "emphasis",
+      "fromSide": "top",
+      "toSide": "left",
+      "via": [
+        [
+          105,
+          112
+        ]
+      ]
+    },
+    {
+      "from": "a",
+      "to": "c",
+      "variant": "emphasis",
+      "fromSide": "bottom",
+      "toSide": "left",
+      "via": [
+        [
+          105,
+          312
+        ]
+      ]
+    },
+    {
+      "from": "b",
+      "to": "m",
+      "variant": "emphasis",
+      "fromSide": "right",
+      "toSide": "top",
+      "via": [
+        [
+          835,
+          112
+        ]
+      ]
+    },
+    {
+      "from": "c",
+      "to": "m",
+      "variant": "emphasis",
+      "fromSide": "right",
+      "toSide": "bottom",
+      "via": [
+        [
+          835,
+          312
+        ]
+      ]
+    },
+    {
+      "from": "a2",
+      "to": "b2",
+      "variant": "emphasis"
+    },
+    {
+      "from": "b2",
+      "to": "cprime",
+      "variant": "emphasis",
+      "labelAt": [
+        620,
+        506
+      ],
+      "label": "git rebase"
+    }
+  ],
+  "cards": []
+}

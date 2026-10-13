@@ -1,0 +1,8 @@
+{
+  "notes": [
+    "Dashed arrows compare snapshots without changing them.",
+    "git add again would update the index from the later working content.",
+    "To verify the commit itself, test the committed snapshot rather than an unrelated working state."
+  ],
+  "headings": []
+}

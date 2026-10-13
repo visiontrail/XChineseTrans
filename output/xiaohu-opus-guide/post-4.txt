@@ -1,0 +1,8 @@
+4/4
+My engineering rule:
+Tests passed, deployment completed and live behavior verified are separate claims. Each needs evidence.
+
+Inspired by @xiaohu:
+https://x.com/xiaohu/status/2102645741512700076
+Anthropic guidance:
+https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5

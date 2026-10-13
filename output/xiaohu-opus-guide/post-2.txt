@@ -1,0 +1,6 @@
+2/4
+Anthropic's guidance: hand over the whole task and define when it should stop and ask.
+
+Example: fix the root cause, add a regression test and verify the affected workflow.
+
+Ask before changing scope or taking actions outside the agreed permissions.

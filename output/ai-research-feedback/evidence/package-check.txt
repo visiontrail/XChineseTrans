@@ -1,0 +1,28 @@
+Archive: 61 files
+{
+  "title": "When AI becomes the research team",
+  "format": "standalone X post with direct video attachment",
+  "account": "@LeoGuoLabs",
+  "publication_status": "awaiting_final_approval",
+  "video": "when-ai-becomes-the-research-team.mp4",
+  "video_sha256": "fa1e51f22a996ec1bb148ad28841f3e02108884ddc0060acd56151e1c43ac031",
+  "post": "post.txt",
+  "post_sha256": "1df60bb0bb05a408b5a314ce748feaff4721b7f88f60652a6eac48501d56da2c",
+  "duration_seconds": "218.466016",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "fps": 30.0,
+  "decoded_frames": 6554,
+  "audio_measurement": {
+    "input_i": "-16.15",
+    "input_tp": "-1.49",
+    "input_lra": "4.50",
+    "input_thresh": "-26.68"
+  },
+  "review": "review.html",
+  "sources": "research/verification.md",
+  "qa": "evidence/qa.md",
+  "editable_project": "ai-research-feedback-project.zip"
+}

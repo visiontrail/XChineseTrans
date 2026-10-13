@@ -1,0 +1,17 @@
+{
+  "status": "published_and_publicly_verified",
+  "url": "https://x.com/LeoGuoLabs/status/2106950108332101994",
+  "account": "@LeoGuoLabs",
+  "format": "Quote Post",
+  "quoted_source": "https://x.com/Inmerson/status/2106817313706270863",
+  "commentary_file": "x-post-v1.txt",
+  "commentary_exact_match": true,
+  "native_source_video": true,
+  "video_duration_seconds": 160.2,
+  "playback_observed_seconds": [
+    13.22779,
+    41.766708
+  ],
+  "user_approval": "User requested Quote format, then explicitly said 确认发布.",
+  "previous_standalone_draft": "Saved in X drafts; never published."
+}

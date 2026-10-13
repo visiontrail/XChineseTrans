@@ -1,0 +1,225 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {
+    "title": "Choose the inspection that answers the question",
+    "subtitle": "Read-only Git tools observe different layers.",
+    "viewBox": [
+      1000,
+      680
+    ]
+  },
+  "components": [
+    {
+      "id": "a0",
+      "label": "What is pending?",
+      "sublabel": "Files + staging + branch",
+      "pos": [
+        50,
+        70
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "frontend"
+    },
+    {
+      "id": "b0",
+      "label": "git status",
+      "sublabel": "Including untracked paths",
+      "pos": [
+        375,
+        70
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "database"
+    },
+    {
+      "id": "c0",
+      "label": "State summary",
+      "sublabel": "No file contents changed",
+      "pos": [
+        700,
+        70
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "backend"
+    },
+    {
+      "id": "a1",
+      "label": "What differs?",
+      "sublabel": "Two snapshots compared",
+      "pos": [
+        50,
+        215
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "frontend"
+    },
+    {
+      "id": "b1",
+      "label": "git diff / --staged",
+      "sublabel": "Work vs index / index vs HEAD",
+      "pos": [
+        375,
+        215
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "database"
+    },
+    {
+      "id": "c1",
+      "label": "Content differences",
+      "sublabel": "Untracked content is separate",
+      "pos": [
+        700,
+        215
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "backend"
+    },
+    {
+      "id": "a2",
+      "label": "Why this line?",
+      "sublabel": "History and context",
+      "pos": [
+        50,
+        360
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "frontend"
+    },
+    {
+      "id": "b2",
+      "label": "git log / show / blame",
+      "sublabel": "Commits, patches, provenance",
+      "pos": [
+        375,
+        360
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "database"
+    },
+    {
+      "id": "c2",
+      "label": "A reason to investigate",
+      "sublabel": "A line is not the whole story",
+      "pos": [
+        700,
+        360
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "backend"
+    },
+    {
+      "id": "a3",
+      "label": "What was tested?",
+      "sublabel": "The current revision",
+      "pos": [
+        50,
+        505
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "frontend"
+    },
+    {
+      "id": "b3",
+      "label": "git rev-parse HEAD",
+      "sublabel": "Resolve a commit identity",
+      "pos": [
+        375,
+        505
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "database"
+    },
+    {
+      "id": "c3",
+      "label": "Exact commit ID",
+      "sublabel": "Tie the result to this revision",
+      "pos": [
+        700,
+        505
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "backend"
+    }
+  ],
+  "connections": [
+    {
+      "from": "a0",
+      "to": "b0",
+      "variant": "emphasis"
+    },
+    {
+      "from": "b0",
+      "to": "c0",
+      "variant": "emphasis"
+    },
+    {
+      "from": "a1",
+      "to": "b1",
+      "variant": "emphasis"
+    },
+    {
+      "from": "b1",
+      "to": "c1",
+      "variant": "emphasis"
+    },
+    {
+      "from": "a2",
+      "to": "b2",
+      "variant": "emphasis"
+    },
+    {
+      "from": "b2",
+      "to": "c2",
+      "variant": "emphasis"
+    },
+    {
+      "from": "a3",
+      "to": "b3",
+      "variant": "emphasis"
+    },
+    {
+      "from": "b3",
+      "to": "c3",
+      "variant": "emphasis"
+    }
+  ],
+  "cards": []
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://x.com/LeoGuoLabs/status/2109838195643072819",
+  "verified_at": "2026-10-13T03:04:08.959Z",
+  "account": "@LeoGuoLabs",
+  "format": "standalone",
+  "exact_text_match": true,
+  "text_characters": 611,
+  "published_at": "2026-10-13T02:46:39.000Z",
+  "video_count": 1,
+  "public_video_duration_seconds": 154.666,
+  "playback_verified": true,
+  "playback_method": "Ego Lite native UI: started the public video, observed audio-playing and Mute controls, then observed motion from the initial close-up to a later wide three-person interview shot without an error. Native inspection stopped when the user switched to Gemini.",
+  "initial_in_app_playback": {
+    "currentTime": 23.957715,
+    "duration": 154.666,
+    "error": null,
+    "paused": false,
+    "readyState": 2,
+    "videoHeight": 270,
+    "videoWidth": 480
+  },
+  "final_in_app_video_elements": [],
+  "evidence_image": "research/public-post-verified.jpg"
+}

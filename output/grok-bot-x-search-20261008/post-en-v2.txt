@@ -1,0 +1,5 @@
+Grok Bot can now search, read, and monitor X. The demo shows a simple use case: ask what people are saying about your app, then pull the feedback into recurring themes.
+
+Another useful watchlist: tibo’s ChatGPT reset announcements. Ask the bot to watch for new notices and alert you when one appears—handy if you keep missing them in the feed.
+
+The real test is whether it catches the updates reliably and links back to the original posts so you can check the details.

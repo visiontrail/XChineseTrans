@@ -1,0 +1,37 @@
+{
+  "url": "https://x.com/LeoGuoLabs/status/2109655219059699978",
+  "account": "@LeoGuoLabs",
+  "exactApprovedText": true,
+  "characterCount": 1038,
+  "mediaCount": 0,
+  "quote": false,
+  "format": "standalone",
+  "copy": "One AI API detail I’d pay more attention to: how long the prompt cache survives.\n\nWhen an agent keeps reusing a large repo or document, losing that cache can mean paying to process the same prefix again.\n\nThe API policies depend on the model and cache mode:\n• DeepSeek: unused disk-cache entries are usually cleared within hours to days; cache hits are best effort.\n• OpenAI API: GPT-5.6+ keeps cached prefixes eligible for at least 30 minutes after a write or reuse. Some earlier models support retention up to 24 hours.\n• Claude API: 5 minutes by default, refreshed on reuse; a 1-hour option has a higher write cost.\n• Gemini generateContent: explicit caches default to 1 hour, with storage charges. Implicit caching is separate.\n• Qwen on Alibaba Model Studio: explicit caches last 5 minutes, refreshed on hits. Implicit caching has no fixed TTL.\n\nDeepSeek’s disk-cache design deserves attention. For agents with long context and pauses between turns, I’d compare cache-hit tokens and the whole bill alongside the headline token price.",
+  "structure": {
+    "hasQuoteLabel": false,
+    "links": [
+      {
+        "href": "/LeoGuoLabs",
+        "text": ""
+      },
+      {
+        "href": "/LeoGuoLabs",
+        "text": "Leo Guo"
+      },
+      {
+        "href": "/LeoGuoLabs",
+        "text": "@LeoGuoLabs"
+      },
+      {
+        "href": "/LeoGuoLabs/status/2109655219059699978",
+        "text": "10:39 PM · Oct 12, 2026"
+      },
+      {
+        "href": "/LeoGuoLabs/status/2109655219059699978/analytics",
+        "text": "1\n View"
+      }
+    ],
+    "text": "Leo Guo\n@LeoGuoLabs\nBoost\nOne AI API detail I’d pay more attention to: how long the prompt cache survives.\n\nWhen an agent keeps reusing a large repo or document, losing that cache can mean paying to process the same prefix again.\n\nThe API policies depend on the model and cache mode:\n• DeepSeek: unused disk-cache entries are usually cleared within hours to days; cache hits are best effort.\n• OpenAI API: GPT-5.6+ keeps cached prefixes eligible for at least 30 minutes after a write or reuse. Some earlier models support retention up to 24 hours.\n• Claude API: 5 minutes by default, refreshed on reuse; a 1-hour option has a higher write cost.\n• Gemini generateContent: explicit caches default to 1 hour, with storage charges. Implicit caching is separate.\n• Qwen on Alibaba Model Studio: explicit caches last 5 minutes, refreshed on hits. Implicit caching has no fixed TTL.\n\nDeepSeek’s disk-cache design deserves attention. For agents with long context and pauses between turns, I’d compare cache-hit tokens and the whole bill alongside the headline token price.\n10:39 PM · Oct 12, 2026\n·\n1\n View",
+    "videos": 0
+  }
+}

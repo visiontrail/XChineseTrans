@@ -1,0 +1,38 @@
+Use case: infographic-diagram
+Asset type: one polished portrait English infographic for an X post by LeoGuoLabs, 1600x2400 or similarly high resolution 2:3 portrait.
+Primary request: Redesign the supplied Chinese reference infographic into a completely English editorial engineering field guide. Preserve all eight benchmarks and the three conceptual groups, but use the exact updated English text below. Reference image is for content hierarchy only. Create a fresh professional design, not a literal imitation.
+Style: restrained premium technical editorial design; warm near-white paper, very subtle texture, dark charcoal/navy type, muted brick-red accents, fine divider rules. Crisp contemporary sans-serif typography, oversized bold headline, generous margins, clean alignment. Dense enough to be useful yet readable on a phone. No decorative robots, no gradients, no drop shadows, no fake UI, no rubber stamps, no checkmarks implying successful tests.
+Composition: full canvas flat graphic. Small eyebrow, strong title on two lines, one subtitle. Three vertically stacked sections. Within each section show numbered rows; bold benchmark name on first line, concise explanation underneath, consistent spacing. First section has four rows; second and third have two each. Subtle small outline icons for section headings only (terminal, workflow, research). Footer has a short clear takeaway and tiny brand signature. No URLs or source credits. All text must be perfectly spelled, complete and unclipped. Allocate enough width to Terminal-Bench-Science 0.1; may use a smaller but still readable type size for that one name.
+
+Exact text, reproduce verbatim:
+Eyebrow: "THE AGENT EVALUATION FIELD GUIDE"
+Title: "8 Benchmarks for AI Agents"
+Subtitle: "What they test. Where the results apply."
+
+Section 1: "01 / CODE & SOFTWARE ENGINEERING"
+Row 1 name: "Terminal-Bench 4.0"
+Row 1 description: "Complex tasks in a terminal environment."
+Row 2 name: "FrontierCode v1.1"
+Row 2 description: "Code correctness, quality and mergeability."
+Row 3 name: "CursorBench 4.0"
+Row 3 description: "Ambiguous, multi-file tasks from real coding sessions."
+Row 4 name: "DeepSWE v1.1"
+Row 4 description: "Long-horizon software engineering tasks."
+
+Section 2: "02 / COMPUTER USE & BUSINESS WORKFLOWS"
+Row 5 name: "OSWorld 2.0"
+Row 5 description: "Long workflows through computer interfaces."
+Row 6 name: "AutomationBench"
+Row 6 description: "Business workflows across simulated app APIs."
+
+Section 3: "03 / KNOWLEDGE WORK & SCIENCE"
+Row 7 name: "GDPval-AA v2.1"
+Row 7 description: "Quality of reports, slides and spreadsheets."
+Row 8 name: "Terminal-Bench-Science 0.1"
+Row 8 description: "Scientific workflows with verifiable outputs."
+
+Footer strong: "Match the benchmark to the work."
+Footer secondary: "Check the setup. Test on your own tasks."
+Brand signature: "LeoGuoLabs"
+
+Use clear small row numbers 1 through 8 in a left gutter, but never add scores or rankings. No Chinese text. No extra explanatory copy.

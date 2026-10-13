@@ -1,0 +1,22 @@
+{
+  "url": "https://x.com/LeoGuoLabs/status/2104043701232443824",
+  "body": "Zuckerberg’s case for Muse comes down to three things:\n\n1. Models built for personal agents.\nMeta is designing models for this use case from the ground up, with roughly monthly updates.\n\n2. A social network of agents.\nThe “fleet” learns anonymized insights across users to suggest useful next steps. The broader ambition is agents that strengthen relationships and coordinate with each other. Most of that coordination was still ahead of the release discussed in the interview.\n\n3. Privacy and permission boundaries.\nZuckerberg describes a confidential VM designed to keep personal content inaccessible even to Meta, with more technical details still to come. Other controls include separate credential storage, sentinel agents that flag suspicious inputs or sensitive outgoing data, approval for sensitive actions, and email access that starts read-only.\n\nThe starting offer he describes: 100 million free tokens a week plus a VM. The longer-term business model is a small cut of transactions, potentially paid by merchants, with Stripe handling payments.\n\nThe part I’d watch: whether those privacy guarantees hold up under scrutiny as agents gain more access.\n\nFull interview below.",
+  "author": "Leo Guo\n@LeoGuoLabs",
+  "quoteCount": 0,
+  "videos": [
+    {
+      "duration": 4210.371,
+      "currentTime": 57.413323,
+      "paused": false,
+      "readyState": 4,
+      "width": 1280,
+      "height": 720,
+      "error": null
+    }
+  ],
+  "bodyMatches": true,
+  "approvedByUser": true,
+  "format": "standalone",
+  "playbackAdvancedFrom": 20.748621,
+  "playbackAdvancedTo": 23.750085
+}

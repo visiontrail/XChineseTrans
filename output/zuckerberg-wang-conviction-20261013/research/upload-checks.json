@@ -1,0 +1,13 @@
+{
+  "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/zuckerberg-wang-conviction-20261013/media/upload-video.mp4",
+  "duration": "154.666667",
+  "bytes": 25582438,
+  "sha256": "d4054312c2a74829b149de81bf43278d56f1c413b9392fb9b3a0aa8f9d01f7f7",
+  "full_decode": true,
+  "range_endpoint": {
+    "url": "http://172.16.10.59:55617/video.mp4",
+    "status": 206,
+    "content_range": "bytes 0-1023/25582438",
+    "bytes": 1024
+  }
+}

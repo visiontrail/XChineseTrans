@@ -1,0 +1,21 @@
+{
+  "start": {
+    "currentTime": 0.167473,
+    "duration": 10.135,
+    "readyState": 4,
+    "paused": false,
+    "error": null
+  },
+  "later": [
+    {
+      "currentTime": 4.093191,
+      "duration": 10.197333,
+      "ended": false,
+      "error": null,
+      "paused": false,
+      "readyState": 4,
+      "videoHeight": 270,
+      "videoWidth": 356
+    }
+  ]
+}

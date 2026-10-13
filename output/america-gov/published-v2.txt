@@ -1,0 +1,8 @@
+Published after explicit approval on 2026-10-01.
+Account: @LeoGuoLabs
+Format: standalone post with native America.gov link card.
+URL: https://x.com/LeoGuoLabs/status/2105531838748119099
+Displayed timestamp: 1:34 PM, Oct 1, 2026 (Asia/Singapore).
+Approved copy: post-v2.txt
+Reopened the actual status page. All approved body paragraphs were present in order. X displays the first URL as blue america.gov without the https:// prefix; the America.gov mention in the first paragraph is also a blue link. The native link card renders the America.gov logo and From america.gov.
+Verified deliverable screenshot: published-text.jpg (author, prominent blue links, complete body). Native viewport record of the rendered card: published-card-original.jpg. The full-page screenshot published-original.jpg and crops published-post.jpg and published-card.jpg have rendering artifacts and should not be delivered.

@@ -1,0 +1,132 @@
+{
+  "status": "published to X; public page reload verified",
+  "prepared_on": "2026-09-23",
+  "updated_on": "2026-09-24",
+  "words_approx": 2322,
+  "images": [
+    {
+      "file": "images/01-cover.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2724914,
+      "sha256": "bffd3f34bc536f2786fb00dfb5ef417a6401032f68ee502aa66629411e739076"
+    },
+    {
+      "file": "images/05-codex-workspace-annotated.png",
+      "width": 1697,
+      "height": 927,
+      "bytes": 1327240,
+      "sha256": "06609be5cfcadfa90c9e3c8e88e5e2916f5ebc6779cab01758da9e442dc70f7d"
+    },
+    {
+      "file": "images/02-task-brief.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2581440,
+      "sha256": "59f6a79f49ff0fa063d33dfba714b197b7b1ca937b55f6176bcb53d558d9b1fb"
+    },
+    {
+      "file": "images/06-codex-active-task-annotated.png",
+      "width": 1697,
+      "height": 927,
+      "bytes": 1050485,
+      "sha256": "4344ba8d30584f5da0757ed70136b0e6b061327dfc90a5ca3e5aca442b2c879d"
+    },
+    {
+      "file": "images/04-workspaces.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2946457,
+      "sha256": "7432932576bb19bff999c3e4e5b41a506cc7ad293f753d93caa9e6091c35f8d4"
+    },
+    {
+      "file": "images/07-codex-settings-annotated.png",
+      "width": 1696,
+      "height": 927,
+      "bytes": 1048385,
+      "sha256": "187d60f2402980033873cb8aaa58597bb4e3acdcba5f5341f0146609b703575d"
+    },
+    {
+      "file": "images/03-toolbox.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2542797,
+      "sha256": "0e3d6352b8ec8d1dbf0e2320ae42bdac2d10861366a5764ccd2ff7b9d878770b"
+    }
+  ],
+  "original_screenshots": [
+    {
+      "file": "screenshots/originals/05-codex-workspace.png",
+      "width": 3840,
+      "height": 2100,
+      "bytes": 356545,
+      "sha256": "7659e82bfa2bdf2a1437920ad82a9a862c04f6e390b6910027001dc6d022566f"
+    },
+    {
+      "file": "screenshots/originals/06-codex-active-task.png",
+      "width": 3840,
+      "height": 2100,
+      "bytes": 463847,
+      "sha256": "d204891c6f119fc5efb710ac12605235654c8e7d9749293e04b3ea543ed5da23"
+    },
+    {
+      "file": "screenshots/originals/07-codex-settings.png",
+      "width": 3840,
+      "height": 2100,
+      "bytes": 528866,
+      "sha256": "02c5c19374e5643cff37257baa3e0f45aaa927acaef6a7c3642d0f008528816c"
+    }
+  ],
+  "image_method": "Four ImageGen conceptual illustrations; three manually captured author screenshots annotated with ImageGen. Unedited originals retained.",
+  "html_embedded_images": 7,
+  "toc_broken_anchors": [],
+  "checks": {
+    "desktop_document_width": 1249,
+    "desktop_viewport_width": 1249,
+    "narrow_frame_outer_width": 390,
+    "narrow_content_width": 375,
+    "narrow_scroll_width": 375,
+    "browser_images_loaded": 7,
+    "toc_keyboard_navigation": "verified",
+    "image_viewer_open_close": "verified",
+    "image_viewer_actual_size_width": 1697,
+    "narrow_image_viewer_actual_size": "verified; image scroll remains within viewer",
+    "narrow_image_viewer_escape": "verified",
+    "original_link_browser_dimensions": [
+      3840,
+      2100
+    ],
+    "originals_unchanged_sha256": true,
+    "html_embedded_image_bytes_match_files": true,
+    "preexisting_markdown_content_preserved": true
+  },
+  "previous_cli_verification": {
+    "date": "2026-09-23",
+    "version": "0.155.0-alpha.16",
+    "executed": [
+      "codex --version",
+      "codex --help"
+    ]
+  },
+  "publication": {
+    "account": "LeoGuoLabs",
+    "url": "https://x.com/LeoGuoLabs/status/2102969238323597775",
+    "article_url": "https://x.com/LeoGuoLabs/article/2102969238323597775",
+    "audience": "Everyone",
+    "public_page_reload_verified": false,
+    "article_media_links": 7,
+    "section_headings": 10,
+    "native_code_blocks": 5,
+    "complete_final_paragraph": true,
+    "body_text_characters_preserved_ignoring_whitespace": true,
+    "each_code_block_exactly_once": true,
+    "x_cover": "images/08-x-article-cover.png",
+    "x_cover_prompt": "x-cover-prompt.txt",
+    "original_published_at": "2026-09-24T11:43:00+08:00",
+    "replacement_date": "2026-09-24",
+    "replaced_post_id": "2102967192560259208",
+    "old_post_deleted_verified": true,
+    "caption_removal_verified": true,
+    "replacement_public_page_verified": true
+  }
+}

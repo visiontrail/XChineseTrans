@@ -1,0 +1,78 @@
+{
+  "source_url": "https://x.com/dotey/status/2109702901719327186",
+  "original_announcement": "https://x.com/finkd/status/2109689305073614918",
+  "format": "standalone",
+  "destination": "@LeoGuoLabs",
+  "text_path": "output/muse-wonder/post-en.txt",
+  "media": [
+    {
+      "path": "output/muse-wonder/meta-official-full.mp4",
+      "source_page": "https://research.meta.ai/blog/muse-wonder",
+      "source_manifest": "https://research.meta.ai/media/introducing-muse-wonder/hero/v2?resource=dash&cache=1",
+      "stream_download_records": [
+        "output/muse-wonder/official-video-download-verification.json",
+        "output/muse-wonder/official-audio-download-verification.json"
+      ],
+      "retrieved_at": "2026-10-13T01:43:30.887103+00:00",
+      "bytes": 21065427,
+      "sha256": "0d943f9f1f0f9e14fd19db65ddc5a6161e6449e8acb9d0d99945a5d2cbf97c9d",
+      "duration_seconds": 152.533,
+      "width": 1920,
+      "height": 1080,
+      "processing": "stream copy remux; no trimming or re-encoding",
+      "selected": true
+    }
+  ],
+  "images": [],
+  "state": "publicly_verified",
+  "review_authorization": {
+    "user_message": "确认发布",
+    "approved_text": "I’d love to stop re-explaining the same project to my AI assistant. That’s what caught my eye in Meta’s Muse Wonder launch.\n\nMeta calls it Active Memory: bringing relevant details from earlier conversations into the current task. Active Focus is the other half—working through blockers, trying another approach, and checking with you before important actions. For a coding project, that could mean keeping earlier decisions in mind while working through failed tests.\n\nMuse Wonder is available through Meta’s API and Muse Code. Wonder Full is limited to Muse Code’s Power and Maximum plans. Both have a 1M-token context window, take text, images, audio and video as input, and return text.\n\nIndependent testing shows a substantial improvement: Artificial Analysis scores Wonder and Wonder Full at 52 and 56 on its Intelligence Index v4.3 at max effort, up from 48 for Spark 1.3. Meta’s MemoryBench and FocusBench are internal tests, so I’d treat those separately from the independent results.\n\nWonder’s API costs $4 input, $0.20 cached input, and $20 output per million tokens. For the Muse app, Meta is prioritizing subscribers in the rollout.\n\nhttps://dev.meta.ai/models/muse-wonder",
+    "approved_media_sha256": "0d943f9f1f0f9e14fd19db65ddc5a6161e6449e8acb9d0d99945a5d2cbf97c9d",
+    "recorded_at": "2026-10-13T02:25:39.725993+00:00"
+  },
+  "public_url": "https://x.com/LeoGuoLabs/status/2109833032836456449",
+  "updated_at": "2026-10-13T02:46:34.648115+00:00",
+  "prepared": true,
+  "preview_url": "http://172.16.10.59:8768/",
+  "review_page_path": "output/muse-wonder/review.html",
+  "composer_screenshot": "output/muse-wonder/composer-ready.jpg",
+  "preparation_checks": {
+    "primary_sources_verified": true,
+    "fresh_download": true,
+    "byte_ranges_verified": true,
+    "full_decode": "passed",
+    "frames_inspected_seconds": [
+      1,
+      30,
+      76,
+      120,
+      151
+    ],
+    "browser_playback": {
+      "currentTime": 114.507757,
+      "duration": 152.533,
+      "error": null,
+      "height": 1080,
+      "muted": false,
+      "paused": false,
+      "readyState": 4,
+      "width": 1920
+    },
+    "composer": {
+      "account": "@LeoGuoLabs",
+      "format": "standalone",
+      "textMatches": true,
+      "characters": 1184,
+      "mediaCount": 1,
+      "uploadState": "Ready",
+      "postEnabled": true,
+      "submitted": false
+    }
+  },
+  "submission_started_at": "2026-10-13T02:26:18.083840+00:00",
+  "submitted_at": "2026-10-13T02:26:38.465981+00:00",
+  "public_verification_path": "output/muse-wonder/public-verification.json",
+  "publication_summary_screenshot": "output/muse-wonder/publication-summary.jpg",
+  "publication_summary_screenshot_type": "Local publication record, not an X interface screenshot"
+}

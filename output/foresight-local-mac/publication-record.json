@@ -1,0 +1,110 @@
+{
+  "source_url": "https://x.com/michaelzsguo/status/2109113444322431296",
+  "original_video_post": "https://x.com/Saboo_Shubham_/status/2108799961911738549",
+  "official_announcement": "https://developers.googleblog.com/en/google-ai-edge-with-embeddinggemma-2/",
+  "official_product": "https://developers.google.com/edge/foresight",
+  "format": "standalone",
+  "account": "LeoGuoLabs",
+  "state": "publicly_verified",
+  "approval": {
+    "instruction": "确认发布",
+    "received_at": "2026-10-12T02:01:00.846839+00:00",
+    "scope": "exact reviewed English post-en.txt and upload-video.mp4 standalone to @LeoGuoLabs"
+  },
+  "final_text": "post-en.txt",
+  "selected_media": [
+    "upload-video.mp4"
+  ],
+  "media": [
+    {
+      "path": "source-video.mp4",
+      "source_url": "https://video.twimg.com/amplify_video/2108799943171530752/vid/avc1/1920x1080/qseP4bn38Oiib4vQ.mp4?tag=16",
+      "bytes": 1109296,
+      "sha256": "4f5a8c4020f55fc3e6a3b331cf394b778c8a25ab506927e4d2c7af5cc4f56083",
+      "retrieved_at": "2026-10-12T01:40:53.010067+00:00",
+      "duration_seconds": 27,
+      "resolution": "1920x1080",
+      "fps": 30,
+      "audio_streams": 0,
+      "full_decode": "passed"
+    },
+    {
+      "path": "official-live-assist-complete.mp4",
+      "source_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/live-assist.mp4",
+      "bytes": 5017493,
+      "sha256": "f61139c414d9f3e590a08f94f5da17ea33955fbfc689c96eeed093dc665f3e1c",
+      "retrieved_at": "2026-10-12T01:44:18.015611+00:00",
+      "duration_seconds": 27,
+      "resolution": "1920x1080",
+      "fps": 30,
+      "audio_streams": 0,
+      "full_decode": "passed"
+    },
+    {
+      "path": "upload-video.mp4",
+      "derived_from": "official-live-assist-complete.mp4",
+      "bytes": 966274,
+      "sha256": "6df968d2957348e17ce7fa4adc89838be81268e14dd28da81d8bec74c40a64cf",
+      "duration_seconds": 27,
+      "resolution": "1920x1080",
+      "fps": 30,
+      "audio_streams": 0,
+      "full_decode": "passed",
+      "processing": "Full-length H.264 High Level 4.1, yuv420p, faststart compatibility encode. Original preserved; no added audio, captions or cuts."
+    }
+  ],
+  "preparation_checks": {
+    "local_duplicate": "no relevant source ID or topic records found",
+    "live_duplicate": "from:LeoGuoLabs Foresight Latest: No results",
+    "live_account": "Leo Guo @LeoGuoLabs",
+    "source_read": "original Chinese expanded; English embedded source read",
+    "official_model_names": "EmbeddingGemma 2 and Gemma 4",
+    "positioning": "experimental app optimized for Apple Silicon",
+    "official_file_integrity": "MD5 matches x-goog-hash: KS6ixkY5Wiw1QT0pSLVB1g==",
+    "source_frames": "beginning, middle and end reviewed; same 27-second live-assistance sequence on official site",
+    "composer": "exact draft block text matches post-en.txt; upload-video.mp4: Ready; Post enabled",
+    "review_url": "http://172.16.10.59:8897/",
+    "phone_playback": "not tested",
+    "browser_playback": "Official review file: currentTime 11.141966 seconds, duration 27, readyState 4, paused false, error null",
+    "composer_screenshot": "composer-screenshot.png",
+    "review_screenshot": "review-screenshot.png",
+    "upload_recovery": "Official INIT returned MediaError. Full-length compatibility encode uploaded successfully, Ready.",
+    "review_media": "upload-video.mp4, exact final selected file; browser official original also played successfully"
+  },
+  "published_url": "https://x.com/LeoGuoLabs/status/2109464344027374066",
+  "updated_at": "2026-10-12T01:48:24.099365+00:00",
+  "submission": {
+    "evidence": "X: Your post was sent. You have 1 hour to make any edits.",
+    "at": "2026-10-12T02:01:17.944750+00:00"
+  },
+  "public_verification": {
+    "url": "https://x.com/LeoGuoLabs/status/2109464344027374066",
+    "account": "@LeoGuoLabs",
+    "format": "standalone",
+    "full_text": "matches approved draft after normalizing rendered URL wrapping",
+    "media_count": 1,
+    "video_duration_seconds": 26.999999,
+    "playback_observed": [
+      {
+        "currentTime": 16.680294,
+        "paused": false,
+        "readyState": 4,
+        "error": null
+      },
+      {
+        "currentTime": 16.999001,
+        "paused": false,
+        "readyState": 4,
+        "error": null
+      }
+    ],
+    "official_link": "https://developers.google.com/edge/foresight",
+    "evidence": [
+      "public-dom-snapshot.txt",
+      "public-page-screenshot.png",
+      "public-playback.json",
+      "public-text-verified.json"
+    ],
+    "verified_at": "2026-10-12T02:03:11.654065+00:00"
+  }
+}

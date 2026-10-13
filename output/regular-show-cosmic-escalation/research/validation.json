@@ -1,0 +1,16 @@
+{
+  "video_file": "video-upload-v1.mp4",
+  "duration_seconds": 160.213333,
+  "width": 1152,
+  "height": 720,
+  "fps": 30,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_channels": 2,
+  "full_decode_pass": true,
+  "game_over_evidence_seconds": 88.8,
+  "victory_evidence_seconds": 158,
+  "media_edited": false,
+  "text_characters": 320,
+  "publication_status": "awaiting_exact_content_approval"
+}

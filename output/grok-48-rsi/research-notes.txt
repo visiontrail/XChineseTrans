@@ -1,0 +1,3 @@
+Jim Liu reports a single friend moving from SpaceX LA to xAI Palo Alto; no overnight wording, no Grok 4.8 identification, no all-staff transfer confirmed. No relevant attached video. Source image is a decorative montage.
+Musk Sep 14 UTC statement: Grok 4.8 2.5T, new C++ stack, will finish training that week and start RL. Do not convert this prediction into confirmation on Oct 10.
+Primary benchmark: https://rsi-exam.ai/ and https://rsi-exam.ai/blog.html . Different model-agent harness and effort combinations; mean normalised held-out scores, not percentages or model weight self-rewriting. Baseline Grok 4.6 score 0.367 is not a previous run of Grok 4.7.

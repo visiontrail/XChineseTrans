@@ -1,0 +1,9 @@
+Apple plans to tighten Full Disk Access on macOS as AI agents become more capable and autonomous.
+
+In its October 2 statement, Apple says this permission bypasses many privacy controls so backup apps can work. It warns that some developers are using it in ways that can expose files, mail, messages and browsing history without users fully understanding the scope. Access to conversations also affects the privacy of the people on the other end.
+
+Apple says it will add controls requiring “very explicit user action” before an app receives this level of access. The announcement gives no rollout date, macOS version or details of the new controls.
+
+For agent builders, the practical lesson is to make the scope of access understandable before asking users to grant it. Greater autonomy makes that boundary more consequential.
+
+https://developer.apple.com/news/?id=p6zjojqw

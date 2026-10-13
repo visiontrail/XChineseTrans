@@ -1,0 +1,16 @@
+Zuckerberg’s case for Muse comes down to three things:
+
+1. Models built for personal agents.
+Meta is designing models for this use case from the ground up, with roughly monthly updates.
+
+2. A social network of agents.
+The “fleet” learns anonymized insights across users to suggest useful next steps. The broader ambition is agents that strengthen relationships and coordinate with each other. Most of that coordination was still ahead of the release discussed in the interview.
+
+3. Privacy and permission boundaries.
+Zuckerberg describes a confidential VM designed to keep personal content inaccessible even to Meta, with more technical details still to come. Other controls include separate credential storage, sentinel agents that flag suspicious inputs or sensitive outgoing data, approval for sensitive actions, and email access that starts read-only.
+
+The starting offer he describes: 100 million free tokens a week plus a VM. The longer-term business model is a small cut of transactions, potentially paid by merchants, with Stripe handling payments.
+
+The part I’d watch: whether those privacy guarantees hold up under scrutiny as agents gain more access.
+
+Full interview below.

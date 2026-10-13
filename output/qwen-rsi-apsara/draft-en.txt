@@ -1,0 +1,7 @@
+Qwen’s recursive self-improvement (RSI) story gets interesting when you look at the loop.
+
+At Apsara, Qwen lead Dayiheng Liu described a pipeline that finds weaknesses in real evaluation logs and user feedback, generates targeted training data, tests it through multiple rounds on smaller models, then feeds the validated data into flagship training.
+
+Alibaba says Qwen3.8-Max completed 33 automated iteration cycles over more than a month. With autonomous training optimization and other post-training techniques, the updated model’s Artificial Analysis score rose from 40 to 45. Qwen 4 was already in training when the roadmap was announced.
+
+The small-model validation step is the part I like: check whether the new data helps before spending flagship-scale compute. The model is helping decide what it needs to learn next.

@@ -1,0 +1,1 @@
+Karpathy estimates that roughly 6 billion people have barely encountered an LLM. Others are already handing entire projects to agents. Hard to have the same conversation when the starting points are that far apart.

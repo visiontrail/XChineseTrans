@@ -1,0 +1,773 @@
+{
+  "sha": "4bdc4288aad0fb0bd5b3d6e2a0252f3fc3d61f3b",
+  "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/trees/4bdc4288aad0fb0bd5b3d6e2a0252f3fc3d61f3b",
+  "tree": [
+    {
+      "path": ".agents",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ca450eae370b2d4937060cef01b349dd6d75049e",
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/trees/ca450eae370b2d4937060cef01b349dd6d75049e"
+    },
+    {
+      "path": ".agents/plugins",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6f3b89bc347e94210e2f9de069da023bcc3913ab",
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/trees/6f3b89bc347e94210e2f9de069da023bcc3913ab"
+    },
+    {
+      "path": ".agents/plugins/marketplace.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7787b767d6bb5cb02c914d7c353c4059a0223f51",
+      "size": 379,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/7787b767d6bb5cb02c914d7c353c4059a0223f51"
+    },
+    {
+      "path": ".codex-plugin",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "088d1804259c5b40b2bf7c7d33ca6545192d1630",
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/trees/088d1804259c5b40b2bf7c7d33ca6545192d1630"
+    },
+    {
+      "path": ".codex-plugin/plugin.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dcafae75b4f6a90f9bd5bb8eb2be4e412969d6ac",
+      "size": 1256,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/dcafae75b4f6a90f9bd5bb8eb2be4e412969d6ac"
+    },
+    {
+      "path": ".github",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bcdc8af3cb3cc45bc4268b06eb565224d6985da4",
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/trees/bcdc8af3cb3cc45bc4268b06eb565224d6985da4"
+    },
+    {
+      "path": ".github/workflows",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9c788c7e95b242a811a37b18f4a5d835f73aed08",
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/trees/9c788c7e95b242a811a37b18f4a5d835f73aed08"
+    },
+    {
+      "path": ".github/workflows/check.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cfe0743f1d97d9ee5649f7c4cca2b0582764cf42",
+      "size": 480,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/cfe0743f1d97d9ee5649f7c4cca2b0582764cf42"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "057ca5cfb612f6feb037553cb2f56a37d14aef94",
+      "size": 384,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/057ca5cfb612f6feb037553cb2f56a37d14aef94"
+    },
+    {
+      "path": ".mcp.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "abf23298fb3d54b13898e904ab23d4ccf4dea192",
+      "size": 204,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/abf23298fb3d54b13898e904ab23d4ccf4dea192"
+    },
+    {
+      "path": "ANALYTICS.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a4b6927d19986205fbfed02d6eb9714a4d895e99",
+      "size": 5524,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/a4b6927d19986205fbfed02d6eb9714a4d895e99"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b7e453c67a4869f304ae61191bca0b823e048e2a",
+      "size": 20560,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/b7e453c67a4869f304ae61191bca0b823e048e2a"
+    },
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba32dab7f863cba3fc1a36e764341dce75d6fb18",
+      "size": 1066,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/ba32dab7f863cba3fc1a36e764341dce75d6fb18"
+    },
+    {
+      "path": "README.en.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f5fe726462c39d0df0c2943b48125963b3cccb2f",
+      "size": 12206,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/f5fe726462c39d0df0c2943b48125963b3cccb2f"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac321f4bb674ddc0f22c81ccd9b8ac6c97e9bcea",
+      "size": 12433,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/ac321f4bb674ddc0f22c81ccd9b8ac6c97e9bcea"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8029a2801d16256d176f7ce48360fc34e3eb4a66",
+      "size": 21877,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/8029a2801d16256d176f7ce48360fc34e3eb4a66"
+    },
+    {
+      "path": "assets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c47d367203903df683d8f3b6390e84fe29c4f382",
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/trees/c47d367203903df683d8f3b6390e84fe29c4f382"
+    },
+    {
+      "path": "assets/icon.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1e924aac4cb4359a6c0aacef1af56267b768543e",
+      "size": 3649,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/1e924aac4cb4359a6c0aacef1af56267b768543e"
+    },
+    {
+      "path": "assets/iphone-use-demo.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3c501e2bea0e24c2fc91a311c7194532276cd84e",
+      "size": 2900492,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/3c501e2bea0e24c2fc91a311c7194532276cd84e"
+    },
+    {
+      "path": "assets/phone-screen.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e331c63b0e076ebbe2baef69fd25ae132ddf8e5f",
+      "size": 547394,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/e331c63b0e076ebbe2baef69fd25ae132ddf8e5f"
+    },
+    {
+      "path": "mcp.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "661c638f835af01279e0a07705d4be07a230a045",
+      "size": 276,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/661c638f835af01279e0a07705d4be07a230a045"
+    },
+    {
+      "path": "plugin.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9df28547ad36053670cfbfbbc6436a5908df3331",
+      "size": 1375,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/9df28547ad36053670cfbfbbc6436a5908df3331"
+    },
+    {
+      "path": "scripts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4d291664982b7b0a40d0b2f520187e1bda5c660e",
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/trees/4d291664982b7b0a40d0b2f520187e1bda5c660e"
+    },
+    {
+      "path": "scripts/benchmark.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "92d16c4a5511253fa912a89befef92d167bf60e1",
+      "size": 8435,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/92d16c4a5511253fa912a89befef92d167bf60e1"
+    },
+    {
+      "path": "scripts/check.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "93222440a17245d88ad7f897d292599d0d24d698",
+      "size": 381,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/93222440a17245d88ad7f897d292599d0d24d698"
+    },
+    {
+      "path": "scripts/check_screen_ui.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eb3827a14a0f476e53cb97af92ec00d3913ca48b",
+      "size": 1388,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/eb3827a14a0f476e53cb97af92ec00d3913ca48b"
+    },
+    {
+      "path": "scripts/install.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f95b64dc9d82536b22473f8bd6d25bc926a349bf",
+      "size": 411,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/f95b64dc9d82536b22473f8bd6d25bc926a349bf"
+    },
+    {
+      "path": "scripts/package.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "cd95c3f12b3d7ac464eb497eea9ba31597413fd1",
+      "size": 4565,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/cd95c3f12b3d7ac464eb497eea9ba31597413fd1"
+    },
+    {
+      "path": "scripts/phone.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "56051d5ac62c69f968fd3276874bf109844ba206",
+      "size": 1440,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/56051d5ac62c69f968fd3276874bf109844ba206"
+    },
+    {
+      "path": "scripts/posthog-dashboard.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "55a82eb74d5d1ca9bfb80559690dbedb7c6047fb",
+      "size": 9706,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/55a82eb74d5d1ca9bfb80559690dbedb7c6047fb"
+    },
+    {
+      "path": "scripts/register_mcp.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e8c877c676998537bad3567ad7f04ed0f78d1869",
+      "size": 2690,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/e8c877c676998537bad3567ad7f04ed0f78d1869"
+    },
+    {
+      "path": "scripts/smoke_mcp.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b2bb36b5efeaffa32df380a6f84f1375a12c633b",
+      "size": 2505,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/b2bb36b5efeaffa32df380a6f84f1375a12c633b"
+    },
+    {
+      "path": "scripts/update_app_catalog.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "556cd87a014676d54b29de59a845873988a44063",
+      "size": 3336,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/556cd87a014676d54b29de59a845873988a44063"
+    },
+    {
+      "path": "scripts/wda.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a11db4ac538d271d61034e3e3966c57dbba3ff4a",
+      "size": 141,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/a11db4ac538d271d61034e3e3966c57dbba3ff4a"
+    },
+    {
+      "path": "server",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ee9cf4acf732cdba1316f93d95935b15fb1c37fe",
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/trees/ee9cf4acf732cdba1316f93d95935b15fb1c37fe"
+    },
+    {
+      "path": "server/analytics.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e1b6b4571b82cc9ea32ef0df10cbf07e1b9e17e3",
+      "size": 9952,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/e1b6b4571b82cc9ea32ef0df10cbf07e1b9e17e3"
+    },
+    {
+      "path": "server/iphone_use.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f93dd29d2713fbc355bcd40a58482a2d0c9b4b50",
+      "size": 57955,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/f93dd29d2713fbc355bcd40a58482a2d0c9b4b50"
+    },
+    {
+      "path": "server/posthog.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "51e8894b785cb1f69c67fc6f6e78ff9faca030c5",
+      "size": 134,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/51e8894b785cb1f69c67fc6f6e78ff9faca030c5"
+    },
+    {
+      "path": "server/wda_apps.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be94fd184e858349461d3aac0c30d9ca602be1f2",
+      "size": 15331,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/be94fd184e858349461d3aac0c30d9ca602be1f2"
+    },
+    {
+      "path": "server/wda_client.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "774b4025e214de30e078e8c936cd6089b274d006",
+      "size": 12040,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/774b4025e214de30e078e8c936cd6089b274d006"
+    },
+    {
+      "path": "server/wda_controller.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a3556b7a12193dc2fdb432af7fee73d705bab75c",
+      "size": 61277,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/a3556b7a12193dc2fdb432af7fee73d705bab75c"
+    },
+    {
+      "path": "server/wda_image.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4c666ccbd21ad89f1c8f28ce559f84a0d9de695b",
+      "size": 3312,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/4c666ccbd21ad89f1c8f28ce559f84a0d9de695b"
+    },
+    {
+      "path": "server/wda_screen.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bb932ef977682a9eae5cf15a300743952b647fee",
+      "size": 20635,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/bb932ef977682a9eae5cf15a300743952b647fee"
+    },
+    {
+      "path": "server/wda_setup.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a6b1d46d2e4d58f3db9df65a5af80e468b7303bb",
+      "size": 55185,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/a6b1d46d2e4d58f3db9df65a5af80e468b7303bb"
+    },
+    {
+      "path": "server/wda_text.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e84e5db0f1461ed4f8e19bbe49b42b220a86bbba",
+      "size": 2764,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/e84e5db0f1461ed4f8e19bbe49b42b220a86bbba"
+    },
+    {
+      "path": "skills",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fd71d9059417705a17621962fca59db364f547d2",
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/trees/fd71d9059417705a17621962fca59db364f547d2"
+    },
+    {
+      "path": "skills/iphone-use-setup",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3d6aa9733e7ce5d1db3cb38a271c7c00b390bbff",
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/trees/3d6aa9733e7ce5d1db3cb38a271c7c00b390bbff"
+    },
+    {
+      "path": "skills/iphone-use-setup/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "10b14dafcb557cd0a818c25a39818bb6a9b58658",
+      "size": 12475,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/10b14dafcb557cd0a818c25a39818bb6a9b58658"
+    },
+    {
+      "path": "skills/iphone-use-setup/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1c4e008330ac7fca0e427e1db26a9663290ea31a",
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/trees/1c4e008330ac7fca0e427e1db26a9663290ea31a"
+    },
+    {
+      "path": "skills/iphone-use-setup/references/recovery.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "afbbefc9f200a11fd1734bf4ef265a221029ea31",
+      "size": 2718,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/afbbefc9f200a11fd1734bf4ef265a221029ea31"
+    },
+    {
+      "path": "skills/iphone-use-setup/references/troubleshooting.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4d8c5350fd2a589cb04fba32849bab7d8a7b78ef",
+      "size": 7578,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/4d8c5350fd2a589cb04fba32849bab7d8a7b78ef"
+    },
+    {
+      "path": "skills/iphone-use",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3f5ca81cd1e89b595ea1e9afb7ab7e7abe98cd32",
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/trees/3f5ca81cd1e89b595ea1e9afb7ab7e7abe98cd32"
+    },
+    {
+      "path": "skills/iphone-use/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1d0da3ca9007edd26975533dc3ec926712cda3aa",
+      "size": 19851,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/1d0da3ca9007edd26975533dc3ec926712cda3aa"
+    },
+    {
+      "path": "skills/iphone-use/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "90711edbb851c668c6d07863337db4b6e9b07fcf",
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/trees/90711edbb851c668c6d07863337db4b6e9b07fcf"
+    },
+    {
+      "path": "skills/iphone-use/references/airdrop.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "126f9110547b5c7d7ff0a51909f72ad596214ff3",
+      "size": 518,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/126f9110547b5c7d7ff0a51909f72ad596214ff3"
+    },
+    {
+      "path": "skills/iphone-use/references/apps.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "18a4fce0f08198a43710afba7083daff519f72e8",
+      "size": 33155,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/18a4fce0f08198a43710afba7083daff519f72e8"
+    },
+    {
+      "path": "skills/iphone-use/references/apps.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5c0f1365eaf7e6bd80c3714565c28a59c8133563",
+      "size": 8124,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/5c0f1365eaf7e6bd80c3714565c28a59c8133563"
+    },
+    {
+      "path": "skills/iphone-use/references/authentication.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f78a5dc4b8ca0bd32a77a670da1456a555a57f08",
+      "size": 5578,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/f78a5dc4b8ca0bd32a77a670da1456a555a57f08"
+    },
+    {
+      "path": "skills/iphone-use/references/screen.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "549f9b4cfd243143dae489a821de364e99a68380",
+      "size": 3094,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/549f9b4cfd243143dae489a821de364e99a68380"
+    },
+    {
+      "path": "skills/iphone-use/references/startup.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cd6c7f0a89259da36ad69a69514f52f616919536",
+      "size": 4700,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/cd6c7f0a89259da36ad69a69514f52f616919536"
+    },
+    {
+      "path": "skills/iphone-use/references/tool-fallback.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c02eb24fbbd1bd22f8fc1e1484232bf8885c68f3",
+      "size": 9622,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/c02eb24fbbd1bd22f8fc1e1484232bf8885c68f3"
+    },
+    {
+      "path": "skills/iphone-use/references/verification.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0c52ebaf02290cf7a578577f079199cbfa0fbaea",
+      "size": 4727,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/0c52ebaf02290cf7a578577f079199cbfa0fbaea"
+    },
+    {
+      "path": "tests",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "26da978d7baedf4240df8f9c42f44df08ac0de09",
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/trees/26da978d7baedf4240df8f9c42f44df08ac0de09"
+    },
+    {
+      "path": "tests/predicate_probe.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d0fc62270f5d1e8c8a375aca918508293944f718",
+      "size": 1177,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/d0fc62270f5d1e8c8a375aca918508293944f718"
+    },
+    {
+      "path": "tests/test_analytics.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b15e54f3a1bbb4d23f72cd5e36603fb925a5f96c",
+      "size": 8387,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/b15e54f3a1bbb4d23f72cd5e36603fb925a5f96c"
+    },
+    {
+      "path": "tests/test_apps.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6f2af01226b02e90f56848e1489d102f3d135925",
+      "size": 11581,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/6f2af01226b02e90f56848e1489d102f3d135925"
+    },
+    {
+      "path": "tests/test_benchmark.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "31ed8bfe3970b29361a49e989ca8e6c7e376a67f",
+      "size": 3711,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/31ed8bfe3970b29361a49e989ca8e6c7e376a67f"
+    },
+    {
+      "path": "tests/test_client.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f508a39db439a2fe13217f8d3e3c586cfbd2f998",
+      "size": 23082,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/f508a39db439a2fe13217f8d3e3c586cfbd2f998"
+    },
+    {
+      "path": "tests/test_controller.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b09ab44e0fa658e0c38823e4a8f1da1edad4b70",
+      "size": 88802,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/7b09ab44e0fa658e0c38823e4a8f1da1edad4b70"
+    },
+    {
+      "path": "tests/test_fallback.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0956dc05c4511e10e74e191093f0640d3fda9d94",
+      "size": 8709,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/0956dc05c4511e10e74e191093f0640d3fda9d94"
+    },
+    {
+      "path": "tests/test_latency.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0d4003297eeb2455101a280641b6eb034d4cf5fd",
+      "size": 43797,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/0d4003297eeb2455101a280641b6eb034d4cf5fd"
+    },
+    {
+      "path": "tests/test_packaging.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3b07ebd15e3bc5f5d8b0939f7936655582aad472",
+      "size": 6516,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/3b07ebd15e3bc5f5d8b0939f7936655582aad472"
+    },
+    {
+      "path": "tests/test_preview_recovery.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "280bb3738f1eff4326ed5c95a577b3a05179dcd6",
+      "size": 7584,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/280bb3738f1eff4326ed5c95a577b3a05179dcd6"
+    },
+    {
+      "path": "tests/test_protocol.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b67a27407e66f9343498973deff2954d4707fe4",
+      "size": 29707,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/7b67a27407e66f9343498973deff2954d4707fe4"
+    },
+    {
+      "path": "tests/test_readiness_cli.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9b1dd90d97c789820d4f1659a6ee278bd64f2f81",
+      "size": 6425,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/9b1dd90d97c789820d4f1659a6ee278bd64f2f81"
+    },
+    {
+      "path": "tests/test_recovery.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9f06e236e06aaa8f45b66079f2b0fef7053c17d5",
+      "size": 15221,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/9f06e236e06aaa8f45b66079f2b0fef7053c17d5"
+    },
+    {
+      "path": "tests/test_registration.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3e8992e5777085bea3b48e45b8e853b781b64dc7",
+      "size": 4128,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/3e8992e5777085bea3b48e45b8e853b781b64dc7"
+    },
+    {
+      "path": "tests/test_screen.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1bcfdac9325912c730226714d345881cfb77dd5e",
+      "size": 18385,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/1bcfdac9325912c730226714d345881cfb77dd5e"
+    },
+    {
+      "path": "tests/test_screen_protocol.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dab49b6ae765a59893b5f24d603fedbc8fcb5f26",
+      "size": 27351,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/dab49b6ae765a59893b5f24d603fedbc8fcb5f26"
+    },
+    {
+      "path": "tests/test_setup.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be1e57e46c61be3f6ca9af52fff4d17190a0a1a7",
+      "size": 42425,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/be1e57e46c61be3f6ca9af52fff4d17190a0a1a7"
+    },
+    {
+      "path": "tests/test_state_directory.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a332a65c89c005d6e106b3d1fca65fc30d43eb62",
+      "size": 2409,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/a332a65c89c005d6e106b3d1fca65fc30d43eb62"
+    },
+    {
+      "path": "tests/test_tool_loading.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0a502ac14c6025097806b19c4e2b81163cc11d3f",
+      "size": 11045,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/0a502ac14c6025097806b19c4e2b81163cc11d3f"
+    },
+    {
+      "path": "tooling",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6f2e1383e248b13ac487aea4610ebce8c1a4c2bf",
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/trees/6f2e1383e248b13ac487aea4610ebce8c1a4c2bf"
+    },
+    {
+      "path": "tooling/forward.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fe9260280357e313e790fa1aacc97b74e920e975",
+      "size": 1960,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/fe9260280357e313e790fa1aacc97b74e920e975"
+    },
+    {
+      "path": "tooling/package-lock.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "864a4d8b3b6e9f38a229af4aa275511e6ca42820",
+      "size": 74253,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/864a4d8b3b6e9f38a229af4aa275511e6ca42820"
+    },
+    {
+      "path": "tooling/package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fae1fe41fe032dce683d978baa8504d8262e1c36",
+      "size": 331,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/fae1fe41fe032dce683d978baa8504d8262e1c36"
+    },
+    {
+      "path": "tooling/screen-stream.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f830aa30a22cb141ea02d148120a033e5c418347",
+      "size": 2597,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/f830aa30a22cb141ea02d148120a033e5c418347"
+    },
+    {
+      "path": "ui",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "58484ab6be81c3913b64c2af0cdb2c7212bc8e45",
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/trees/58484ab6be81c3913b64c2af0cdb2c7212bc8e45"
+    },
+    {
+      "path": "ui/build.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9558916170762ba34be4226b38c9e8a81d60f9a2",
+      "size": 1200,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/9558916170762ba34be4226b38c9e8a81d60f9a2"
+    },
+    {
+      "path": "ui/index.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f9fd6af4a5ca24a0760cb9aedfe1d8c462532049",
+      "size": 4057,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/f9fd6af4a5ca24a0760cb9aedfe1d8c462532049"
+    },
+    {
+      "path": "ui/package-lock.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1f7c503e84c294cb6ad5b8f3669ea75a8ed217f9",
+      "size": 60269,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/1f7c503e84c294cb6ad5b8f3669ea75a8ed217f9"
+    },
+    {
+      "path": "ui/package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4e81bff010cc51a985bdf861d0432d3b62936026",
+      "size": 396,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/4e81bff010cc51a985bdf861d0432d3b62936026"
+    },
+    {
+      "path": "ui/src",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "48a3f9e7ebf9f057641381cdc8b7464206354d6f",
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/trees/48a3f9e7ebf9f057641381cdc8b7464206354d6f"
+    },
+    {
+      "path": "ui/src/app.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fe17e78fb5cf4346527a12bad4e9fe257422e38e",
+      "size": 23368,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/fe17e78fb5cf4346527a12bad4e9fe257422e38e"
+    },
+    {
+      "path": "ui/style.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6d9e034b59c4934c472f91ad23fa0eac6ba4e8df",
+      "size": 10981,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/6d9e034b59c4934c472f91ad23fa0eac6ba4e8df"
+    },
+    {
+      "path": "ui/tests",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c29f97e7a03358cfcc51203fddf4ce8b82452558",
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/trees/c29f97e7a03358cfcc51203fddf4ce8b82452558"
+    },
+    {
+      "path": "ui/tests/widget.test.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7c60fc0591808dab2476d555b2eb2d49b4385dd1",
+      "size": 34547,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/7c60fc0591808dab2476d555b2eb2d49b4385dd1"
+    },
+    {
+      "path": "ui/tsconfig.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3af2f8d3fa2c825e332f89c3de0f1373f6c1a716",
+      "size": 239,
+      "url": "https://api.github.com/repos/zhongerxin/iPhone-use/git/blobs/3af2f8d3fa2c825e332f89c3de0f1373f6c1a716"
+    }
+  ],
+  "truncated": false
+}

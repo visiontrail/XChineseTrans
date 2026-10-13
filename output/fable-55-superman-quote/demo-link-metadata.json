@@ -1,0 +1,98 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/chetaslua/status/2105757787854925880",
+    "id": "2105757787854925880",
+    "text": "pure code , no mcp , no skills , no plugin : https://claude.ai/artifact/7F2XhpmgiuyxHKgQ9Vgr9Q",
+    "raw_text": {
+      "text": "pure code , no mcp , no skills , no plugin : https://t.co/8CzYrEaDig",
+      "display_text_range": [
+        0,
+        68
+      ],
+      "facets": [
+        {
+          "type": "url",
+          "indices": [
+            45,
+            68
+          ],
+          "original": "https://t.co/8CzYrEaDig",
+          "replacement": "https://claude.ai/artifact/7F2XhpmgiuyxHKgQ9Vgr9Q",
+          "display": "claude.ai/artifact/7F2Xh…"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "chetaslua",
+      "url": "https://x.com/chetaslua",
+      "id": "1870923516675289088",
+      "followers": 37585,
+      "following": 186,
+      "likes": 15916,
+      "media_count": 1854,
+      "name": "Chetaslua",
+      "description": "AI researcher & reporter | I test new models on launch day, build working demos, and post prompts + results | Code: http://github.com/ChetasLua",
+      "raw_description": {
+        "text": "AI researcher & reporter | I test new models on launch day, build working demos, and post prompts + results | Code: https://t.co/y96A3VQTWC",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              116,
+              139
+            ],
+            "original": "https://t.co/y96A3VQTWC",
+            "replacement": "http://github.com/ChetasLua",
+            "display": "github.com/ChetasLua"
+          }
+        ]
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1870923516675289088/1749846996",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1926364057004646400/z3oD9QyB_200x200.jpg",
+      "joined": "Sun Dec 22 20:05:11 +0000 2024",
+      "protected": false,
+      "website": {
+        "url": "https://www.youtube.com/@ChetasLua",
+        "display_url": "youtube.com/@ChetasLua"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 3,
+    "retweets": 2,
+    "likes": 133,
+    "bookmarks": 79,
+    "quotes": 3,
+    "created_at": "Thu Oct 01 20:32:34 +0000 2026",
+    "created_timestamp": 1790886754,
+    "possibly_sensitive": false,
+    "views": 14775,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": "chetaslua",
+    "replying_to_status": "2105757136219504862",
+    "card": {
+      "url": "https://claude.ai/artifact/7F2XhpmgiuyxHKgQ9Vgr9Q",
+      "title": "Superman in Flight",
+      "description": "Superman flies through twenty art styles and changes style at every frame border, drawn live in JavaScript with a synthesized score.",
+      "domain": "claude.ai",
+      "image": {
+        "width": 800,
+        "height": 419,
+        "url": "https://pbs.twimg.com/card_img/2105757788077215744/Bt32GxiS?format=jpg&name=800x419"
+      }
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

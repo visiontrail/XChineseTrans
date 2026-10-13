@@ -1,0 +1,109 @@
+{
+  "source": "https://x.com/huxlab/status/2108121268004536474",
+  "video_source_post": "https://x.com/XAngus/status/2107970475968389595",
+  "primary_interview": "https://www.youtube.com/watch?v=QvfCHPCeoPw",
+  "format": "standalone",
+  "account": "@LeoGuoLabs",
+  "state": "publicly_verified",
+  "text_path": "output/alexandr-wang-focus/post-v1.txt",
+  "approval": {
+    "user_message": "你可以在内置浏览器中操作发布",
+    "scope": "Publish the exact English text and 52.6-second video shown in the preceding review, in the built-in browser.",
+    "recorded_at_utc": "2026-10-10T04:42:40.249455+00:00"
+  },
+  "published_url": "https://x.com/LeoGuoLabs/status/2108780464593150051",
+  "media": [
+    {
+      "path": "output/alexandr-wang-focus/media/source-x-52s-complete.mp4",
+      "url": "https://video.twimg.com/amplify_video/2107879648650772480/vid/avc1/1280x720/j0aEUOkHjHNAD8Gt.mp4?tag=29",
+      "retrieved_utc": "2026-10-10T03:54:55.816027+00:00",
+      "bytes": 3505211,
+      "sha256": "e89c4849886dbbf283c5e7e64c4906bb8766a6ac5f542e41b09db23b43460ac8",
+      "duration_seconds": 52.629333,
+      "dimensions": [
+        1280,
+        720
+      ],
+      "codecs": [
+        "h264",
+        "aac"
+      ],
+      "full_decode": "passed",
+      "range_validation": "passed",
+      "limitation": "Retains Chinese and English subtitle overlays from source X excerpt. Clean official excerpt retrieval stalled; no altered or cropped replacement."
+    }
+  ],
+  "checks": {
+    "source_original_language_expanded": true,
+    "session_profile_url": "https://x.com/LeoGuoLabs",
+    "full_text_accepted_by_composer": true,
+    "characters_remaining": 24604,
+    "media_upload": "Ready; successfully submitted in the built-in browser",
+    "primary_claims_verified_against_official_auto_captions": true,
+    "frames_checked": [
+      1,
+      26,
+      50
+    ],
+    "first_upload": "source rejected with Something went wrong",
+    "builtin_upload_errors": [
+      {
+        "phase": "FINALIZE",
+        "media_id": "2108769566386257920"
+      },
+      {
+        "phase": "STATUS",
+        "media_id": "2108769962315927552"
+      }
+    ],
+    "fallback": "Historical Ego Lite login blocker; resolved by successful built-in browser upload and publication",
+    "upload_asset_preview_playback": {
+      "times_seconds": [
+        0.275993,
+        19.609603
+      ],
+      "duration_seconds": 52.629,
+      "readyState": 4,
+      "error": null
+    },
+    "composer_screenshot": "output/alexandr-wang-focus/research/composer-review.jpg",
+    "retry_media_upload": "Ready",
+    "approved_copy_comparison": "passed",
+    "live_account": "@LeoGuoLabs confirmed in built-in browser account menu and profile link",
+    "composer_ready_screenshot": "output/alexandr-wang-focus/research/composer-ready.jpg",
+    "public_verification": "passed",
+    "public_full_text_matches_approved": true,
+    "public_format": "standalone, one directly attached video",
+    "public_video_playback": {
+      "times_seconds": [
+        10.537107,
+        17.664184
+      ],
+      "duration_seconds": 52.633,
+      "readyState": 4,
+      "error": null
+    },
+    "public_screenshot": "output/alexandr-wang-focus/research/public-post-verified.jpg",
+    "public_evidence": "output/alexandr-wang-focus/research/public-verification.json"
+  },
+  "selected_media": [
+    "output/alexandr-wang-focus/media/upload-compatible-30fps.mp4"
+  ],
+  "upload_asset": {
+    "path": "output/alexandr-wang-focus/media/upload-compatible-30fps.mp4",
+    "bytes": 4839715,
+    "sha256": "b2356ce8ca95aa94dcfa3dc150e3fbe7d6eeb73fc0cce2b123dc86fc7abe417f",
+    "duration_seconds": 52.629,
+    "video_stream": {
+      "codec_name": "h264",
+      "width": 1280,
+      "height": 720,
+      "r_frame_rate": "30/1"
+    },
+    "full_decode": "passed",
+    "processing": "full-length compatibility transcode only; source preserved"
+  },
+  "review_note": "Approved complete English copy and full 52.6-second playable video were published. Video retains source bilingual subtitle overlays disclosed during review.",
+  "submitted_at_utc": "2026-10-10T04:43:42.053870+00:00",
+  "verified_at_utc": "2026-10-10T04:45:55.721Z"
+}

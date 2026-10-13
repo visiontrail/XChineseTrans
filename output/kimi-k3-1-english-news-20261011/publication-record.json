@@ -1,0 +1,46 @@
+{
+  "source_post": "https://x.com/leo114119/status/2109250913701388761",
+  "format": "standalone",
+  "account": "@LeoGuoLabs",
+  "state": "publicly_verified",
+  "final_text": "Kimi K3.1 could be just around the corner. Reports point to a release around mid-October, with improvements focused on long-running agent tasks.\n\nI’m curious to see whether it can keep a complex workflow on track and actually finish it. If that release window holds, next week could be interesting.",
+  "media": [
+    "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/kimi-k3-1-english-news-20261011/tokenpost-release-summary.jpg",
+    "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/kimi-k3-1-english-news-20261011/technode-title.jpg",
+    "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/kimi-k3-1-english-news-20261011/technode-body.jpg"
+  ],
+  "composer": {
+    "url": "https://x.com/compose/post",
+    "tab_id": "4",
+    "account_verified": true,
+    "text_accepted": true,
+    "media_ready": true,
+    "alt_entered": true
+  },
+  "review_rule": "User-provided AGENTS.md requires approval after full copy and media are shown",
+  "updated_at": "2026-10-11T14:58:32.590Z",
+  "authorization": "User said 确认发布 after complete text and three images were shown.",
+  "actual_url": "https://x.com/LeoGuoLabs/status/2109303759461589169",
+  "submitted_at": "2026-10-11T15:23:12.840930+00:00",
+  "public_verification": {
+    "verified_at": "2026-10-11T15:24:28.645195+00:00",
+    "account": "@LeoGuoLabs",
+    "full_text_matches": true,
+    "format": "standalone",
+    "image_count": 3,
+    "image_order": [
+      "TokenPost release summary",
+      "TechNode headline",
+      "TechNode body"
+    ],
+    "all_images_loaded": true,
+    "all_images_opened_and_readable": true,
+    "alt_status": "Entered and saved in composer; public viewer exposes generic Image labels, so public ALT was not independently verified.",
+    "evidence": [
+      "public-post.jpg",
+      "public-photo-1.jpg",
+      "public-photo-2.jpg",
+      "public-photo-3.jpg"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://x.com/LeoGuoLabs/status/2108212068461756913",
+  "observed_at": "2026-10-08T15:09:05.520Z",
+  "links": [
+    {
+      "href": "https://t.co/Etq2obPpZ5",
+      "text": "https://github.com/QingYunA/answer-me-with-html…",
+      "title": ""
+    }
+  ],
+  "text": "An AI answer gets more useful when you can see how the pieces fit together.\n\nAnswer me with HTML turns an agent's Markdown draft into a self-contained page with diagrams, tables and code. Ask it to explain a protocol, map a repo, or compare two tools, and you get something easier to inspect and share.\n\nI like the division of labor: the model writes the content; the bundled CLI handles layout, CSS and SVG. In the author's nine-example corpus, drafts averaged 612 tokens versus 4,893 for generated HTML—roughly one-eighth. That measures the generated content, not the total bill.\n\n\nhttps://\ngithub.com/QingYunA/answe\nr-me-with-html\n…",
+  "videos": [
+    {
+      "currentTime": 14.554144,
+      "duration": 35,
+      "error": null,
+      "paused": false,
+      "readyState": 4,
+      "videoHeight": 1080,
+      "videoWidth": 1920
+    }
+  ]
+}

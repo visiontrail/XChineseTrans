@@ -1,0 +1,12 @@
+Source: https://x.com/dotey/status/2109702901719327186 (read live in Chinese; mirrored metadata saved only after browser media download failed).
+Original announcement: https://x.com/finkd/status/2109689305073614918. The launch thread includes a separate 67-second model-overview video and conflicting app-availability language; that video is not selected for this standalone post.
+Selected source video: Meta researchers introduce Muse Wonder, about 152.53 seconds. The official research blog hosts the complete video under media key introducing-muse-wonder/hero/v2. The SD copy matches the supplied X video at the sampled opening frame, with no extra Chinese overlays observed across the beginning, middle, and end. Acquire 1080p video and original audio from the official DASH manifest, then remux without trimming or re-encoding. No additional image attachment is selected.
+Rejected asset: the Newsroom MP4 named Researchers-Introducing-Muse-Wonder_header.mp4 is actually a different 31.865-second promotional clip. It is retained under meta-newsroom-promo-32s.mp4 and is not attached to the draft.
+
+Primary verification:
+- https://research.meta.ai/blog/muse-wonder — launched October 12, 2026; Active Memory recalls relevant context across conversations, Active Focus persists through blockers and seeks clarification or approval for important actions. Research blog says Muse app rollout is soon, subscribers first.
+- https://research.meta.ai/static/muse-wonder-model-card — 1M context; text/image/video/audio inputs, text output. MemoryBench and FocusBench are internal tests. Comparison combines common-harness internal tests and external results; best-effort competitor runs might not be optimized. SWE-Marathon Full uses xhigh rather than max; avoid implying every row is max.
+- https://dev.meta.ai/models/muse-wonder — Wonder API pricing is $4 input / $0.20 cached input / $20 output per 1M tokens. Full access only via Power Usage and Maximum Usage Muse Code plans. The supplied post's statement that pricing was unannounced is outdated.
+- https://artificialanalysis.ai/articles/muse-wonder/ — independent Intelligence Index v4.3: Wonder max 52; Full max 56; Spark 1.3 max 48. These index numbers are not success rates or universal rankings.
+
+No personal testing or unsupported performance claims are included. Public copy does not contain intermediary attribution or production notes. One standalone English post for @LeoGuoLabs, one complete official video. Final content review is required under AGENTS.md. Publication is not authorized yet.

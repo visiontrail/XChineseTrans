@@ -1,0 +1,361 @@
+- link "Skip to content":
+  - /url: "#start-of-content"
+- banner "Global navigation menu":
+  - button "Open menu":
+  - link "Homepage (g then d)":
+    - /url: /
+  - navigation "Breadcrumbs":
+    - list:
+      - link "pallets":
+        - /url: /pallets
+        - generic: pallets
+      - link "flask":
+        - /url: /pallets/flask
+      - button "Switch repository (option shift r)":
+  - button "Open quick search dialog, type / to search":
+    - text: Type
+    - generic: /
+    - text: to search
+  - link "Chat with Copilot":
+    - /url: /copilot
+  - button "Open Copilot…":
+  - button "Create new...":
+  - link "All issues":
+    - /url: /issues
+  - link "All pull requests":
+    - /url: /pulls
+  - link "All repositories":
+    - /url: /repos
+  - link "You have unread notifications (g then n)":
+    - /url: /notifications
+  - button "Open user navigation menu":
+    - img "LeoGuo"
+  - heading "Repository navigation" [level=2]
+  - navigation "Repository":
+    - list:
+      - link "Code":
+        - /url: /pallets/flask
+        - generic: Code
+      - link "Issues (1)":
+        - /url: /pallets/flask/issues
+        - generic: Issues
+        - generic: "1"
+        - generic: (1)
+      - link "Pull requests (3)":
+        - /url: /pallets/flask/pulls
+        - generic: Pull requests
+        - generic: "3"
+        - generic: (3)
+      - link "Agents":
+        - /url: /pallets/flask/agents?author=visiontrail
+        - generic: Agents
+      - link "Discussions":
+        - /url: /pallets/flask/discussions
+        - generic: Discussions
+      - link "Actions":
+        - /url: /pallets/flask/actions
+        - generic: Actions
+      - link "Security and quality (3)":
+        - /url: /pallets/flask/security
+        - generic: Security and quality
+        - generic: "3"
+        - generic: (3)
+      - link "Insights":
+        - /url: /pallets/flask/pulse
+        - generic: Insights
+- main:
+  - 'heading "autoescape selection uses case-insensitive comparison - #6013" [level=1]':
+    - text: autoescape selection uses case-insensitive comparison
+    - generic: "- #6013"
+  - generic: "#6013"
+  - button "Preview":
+    - generic: Preview
+  - button "Code":
+    - generic: Code
+  - img "Pull request"
+  - text: Merged
+  - link "davidism":
+    - /url: /davidism
+  - text: merged 1 commit into
+  - link "main":
+    - /url: /pallets/flask/tree/main
+  - generic: from
+  - link "autoescape-case":
+    - /url: /pallets/flask/tree/autoescape-case
+  - button "Copy head branch name to clipboard":
+  - generic "May 2, 2026, 11:58 AM GMT+8": May 2, 2026on May 2
+  - generic: "+6"
+  - generic: "-1"
+  - generic: "Lines changed: 6 additions & 1 deletion"
+  - navigation "Pull request navigation":
+    - link "Conversation (0)":
+      - /url: /pallets/flask/pull/6013
+      - text: Conversation
+      - generic: "0"
+      - generic: (0)
+    - link "Commits (1)":
+      - /url: /pallets/flask/pull/6013/commits
+      - text: Commits
+      - generic: "1"
+      - generic: (1)
+    - link "Checks (13)":
+      - /url: /pallets/flask/pull/6013/checks
+      - text: Checks
+      - generic: "13"
+      - generic: (13)
+    - link "Files changed (2)":
+      - /url: /pallets/flask/pull/6013/changes
+      - text: Files changed
+      - generic: "2"
+      - generic: (2)
+  - heading "Pull request toolbar" [level=2]
+  - button "Collapse file tree" [expanded]:
+  - button "All commits":
+    - generic: All commits
+  - text: 0 / 2
+  - generic: viewed
+  - generic: 0 of 2 files viewed
+  - button "Submit comments":
+    - generic: Submit comments
+  - button "Open diff view settings":
+  - button "Open overview panel":
+  - button "Open comments panel":
+    - generic: "0"
+    - generic: (0)
+  - button "Open Copilot panel":
+  - textbox "Filter files…"
+  - button "Filter options":
+  - heading "File tree" [level=2]
+  - tree "File Tree":
+    - treeitem "src/flask/sansio" [expanded] [level=1]:
+      - generic: src/flask/sansio
+      - group "src/flask/sansio":
+        - treeitem "app.py" [level=2]:
+          - link "app.py":
+            - /url: "#diff-c57b8f34cffef9948b35aec94cb2364f75c1a2854064a13bf8216603cb1f607b"
+    - treeitem "CHANGES.rst" [level=1]:
+      - link "CHANGES.rst":
+        - /url: "#diff-ff3c479edefad986d2fe6fe7ead575a46b086e3bbcf0ccc86d85efc4a4c63c79"
+  - slider "Draggable pane splitter"
+  - region "‎src/flask/sansio/app.py‎":
+    - button "Collapse file":
+    - heading "‎src/flask/sansio/app.py‎" [level=3]:
+      - link "‎src/flask/sansio/app.py‎":
+        - /url: "#diff-c57b8f34cffef9948b35aec94cb2364f75c1a2854064a13bf8216603cb1f607b"
+        - code: ‎src/flask/sansio/app.py‎
+    - button "Copy file name to clipboard":
+    - 'button "Expand all lines: src/flask/sansio/app.py"':
+    - generic: "+4"
+    - generic: "-1"
+    - generic: "Lines changed: 4 additions & 1 deletion"
+    - button "Ask about this diff":
+    - button "Not Viewed":
+      - generic: Viewed
+    - button "More options":
+    - 'grid "Diff for: src/flask/sansio/app.py"':
+      - rowgroup:
+        - row "Original file line number Diff line number Diff line change":
+          - columnheader "Original file line number"
+          - columnheader "Diff line number"
+          - columnheader "Diff line change"
+      - rowgroup:
+        - 'row "@@ -534,14 +534,17 @@ def select_jinja_autoescape(self, filename: str | None) -> bool:"':
+          - 'gridcell "@@ -534,14 +534,17 @@ def select_jinja_autoescape(self, filename: str | None) -> bool:"':
+            - button:
+            - code:
+              - generic: "@@ -534,14 +534,17 @@ def select_jinja_autoescape(self, filename: str | None) -> bool:"
+        - 'row "534 534 \"\"\"Returns ``True`` if autoescaping should be active for the given"':
+          - gridcell "534"
+          - gridcell "534"
+          - 'gridcell "\"\"\"Returns ``True`` if autoescaping should be active for the given"':
+            - code:
+              - generic: "\"\"\"Returns ``True`` if autoescaping should be active for the given"
+        - 'row "535 535 template name. If no template name is given, returns `True`."':
+          - gridcell "535"
+          - gridcell "535"
+          - 'gridcell "template name. If no template name is given, returns `True`."':
+            - code:
+              - generic: "template name. If no template name is given, returns `True`."
+        - row "536 536":
+          - gridcell "536"
+          - gridcell "536"
+          - gridcell:
+            - code
+        - 'row "537 + .. versionchanged:: 3.2"':
+          - gridcell
+          - gridcell "537"
+          - 'gridcell "+ .. versionchanged:: 3.2"':
+            - code:
+              - generic: +
+              - generic: ".. versionchanged:: 3.2"
+        - row "538 + Use case-insensitive comparison instead of only lower case.":
+          - gridcell
+          - gridcell "538"
+          - gridcell "+ Use case-insensitive comparison instead of only lower case.":
+            - code:
+              - generic: +
+              - generic: Use case-insensitive comparison instead of only lower case.
+        - row "539 +":
+          - gridcell
+          - gridcell "539"
+          - gridcell "+":
+            - code:
+              - generic: +
+        - 'row "537 540 .. versionchanged:: 2.2"':
+          - gridcell "537"
+          - gridcell "540"
+          - 'gridcell ".. versionchanged:: 2.2"':
+            - code:
+              - generic: ".. versionchanged:: 2.2"
+        - 'row "538 541 Autoescaping is now enabled by default for ``.svg`` files."':
+          - gridcell "538"
+          - gridcell "541"
+          - 'gridcell "Autoescaping is now enabled by default for ``.svg`` files."':
+            - code:
+              - generic: "Autoescaping is now enabled by default for ``.svg`` files."
+        - row "539 542":
+          - gridcell "539"
+          - gridcell "542"
+          - gridcell:
+            - code
+        - 'row "540 543 .. versionadded:: 0.5"':
+          - gridcell "540"
+          - gridcell "543"
+          - 'gridcell ".. versionadded:: 0.5"':
+            - code:
+              - generic: ".. versionadded:: 0.5"
+        - row "541 544 \"\"\"":
+          - gridcell "541"
+          - gridcell "544"
+          - gridcell "\"\"\"":
+            - code:
+              - generic: "\"\"\""
+        - row "542 545 if filename is None:":
+          - gridcell "542"
+          - gridcell "545"
+          - gridcell "if filename is None:":
+            - code:
+              - generic: "if filename is None:"
+        - row "543 546 return True":
+          - gridcell "543"
+          - gridcell "546"
+          - gridcell "return True":
+            - code:
+              - generic: return True
+        - row "544 - return filename.endswith((\".html\", \".htm\", \".xml\", \".xhtml\", \".svg\"))":
+          - gridcell "544"
+          - gridcell
+          - gridcell "- return filename.endswith((\".html\", \".htm\", \".xml\", \".xhtml\", \".svg\"))":
+            - code:
+              - generic: "-"
+              - generic: return filename.endswith((".html", ".htm", ".xml", ".xhtml", ".svg"))
+        - row "547 + return filename.lower().endswith((\".html\", \".htm\", \".xml\", \".xhtml\", \".svg\"))":
+          - gridcell
+          - gridcell "547"
+          - gridcell "+ return filename.lower().endswith((\".html\", \".htm\", \".xml\", \".xhtml\", \".svg\"))":
+            - code:
+              - generic: +
+              - generic: return filename.lower().endswith((".html", ".htm", ".xml", ".xhtml", ".svg"))
+        - row "545 548":
+          - gridcell "545"
+          - gridcell "548"
+          - gridcell:
+            - code
+        - row "546 549 @property":
+          - gridcell "546"
+          - gridcell "549"
+          - gridcell "@property":
+            - code:
+              - generic: "@property"
+        - 'row "547 550 def debug(self) -> bool: More actions"':
+          - gridcell "547"
+          - gridcell "550"
+          - 'gridcell "def debug(self) -> bool: More actions"':
+            - code:
+              - generic: "def debug(self) -> bool:"
+            - button "More actions":
+        - row:
+          - gridcell:
+            - button:
+            - code
+  - region "‎CHANGES.rst‎":
+    - button "Collapse file":
+    - heading "‎CHANGES.rst‎" [level=3]:
+      - link "‎CHANGES.rst‎":
+        - /url: "#diff-ff3c479edefad986d2fe6fe7ead575a46b086e3bbcf0ccc86d85efc4a4c63c79"
+        - code: ‎CHANGES.rst‎
+    - button "Copy file name to clipboard":
+    - 'button "Expand all lines: CHANGES.rst"':
+    - generic: "+2"
+    - generic: "Lines changed: 2 additions & 0 deletions"
+    - list "File view":
+      - button "Display the source diff" [pressed]:
+      - button "Display the rich diff":
+    - button "Ask about this diff":
+    - button "Not Viewed":
+      - generic: Viewed
+    - button "More options":
+    - 'grid "Diff for: CHANGES.rst"':
+      - rowgroup:
+        - row "Original file line number Diff line number Diff line change":
+          - columnheader "Original file line number"
+          - columnheader "Diff line number"
+          - columnheader "Diff line change"
+      - rowgroup:
+        - row "@@ -26,6 +26,8 @@ Unreleased":
+          - gridcell "@@ -26,6 +26,8 @@ Unreleased":
+            - button:
+            - code:
+              - generic: "@@ -26,6 +26,8 @@ Unreleased"
+        - 'row "26 26 such as HTMX. :issue:`5895`"':
+          - gridcell "26"
+          - gridcell "26"
+          - 'gridcell "such as HTMX. :issue:`5895`"':
+            - code:
+              - generic: "such as HTMX. :issue:`5895`"
+        - 'row "27 27 - ``provide_automatic_options=True`` can be used to enable it for a view when"':
+          - gridcell "27"
+          - gridcell "27"
+          - 'gridcell "- ``provide_automatic_options=True`` can be used to enable it for a view when"':
+            - code:
+              - generic: "- ``provide_automatic_options=True`` can be used to enable it for a view when"
+        - 'row "28 28 it''s disabled in config. Previously, only disabling worked. :issue:`5916`"':
+          - gridcell "28"
+          - gridcell "28"
+          - 'gridcell "it''s disabled in config. Previously, only disabling worked. :issue:`5916`"':
+            - code:
+              - generic: "it's disabled in config. Previously, only disabling worked. :issue:`5916`"
+        - 'row "29 + - ``Flask.select_jinja_autoescape`` uses case-insensitive comparison instead"':
+          - gridcell
+          - gridcell "29"
+          - 'gridcell "+ - ``Flask.select_jinja_autoescape`` uses case-insensitive comparison instead"':
+            - code:
+              - generic: +
+              - generic: "- ``Flask.select_jinja_autoescape`` uses case-insensitive comparison instead"
+        - 'row "30 + of only lower case file extensions. :pr:`6012`"':
+          - gridcell
+          - gridcell "30"
+          - 'gridcell "+ of only lower case file extensions. :pr:`6012`"':
+            - code:
+              - generic: +
+              - generic: "of only lower case file extensions. :pr:`6012`"
+        - row "29 31":
+          - gridcell "29"
+          - gridcell "31"
+          - gridcell:
+            - code
+        - row "30 32":
+          - gridcell "30"
+          - gridcell "32"
+          - gridcell:
+            - code
+        - row "31 33 Version 3.1.3":
+          - gridcell "31"
+          - gridcell "33"
+          - gridcell "Version 3.1.3":
+            - code:
+              - generic: Version 3.1.3
+        - row:
+          - gridcell:
+            - button:
+            - code

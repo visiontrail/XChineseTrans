@@ -1,0 +1,1 @@
+Two Artificial Analysis charts compare output-token use across models and Intelligence Index scores against output tokens per task. Sonnet 5.5 at Max with fallback uses approximately 193,000 output tokens per task. Claude configurations in the charts are labeled with fallback. The charts show token use, not dollar cost.

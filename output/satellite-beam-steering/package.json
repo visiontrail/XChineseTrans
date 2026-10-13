@@ -1,0 +1,5 @@
+{
+  "name":"leoguolabs-satellite-beam-steering","version":"1.0.0","private":true,"type":"module",
+  "scripts":{"stills":"node scripts/render.mjs --stills","render":"node scripts/render.mjs","master":"node scripts/master.mjs","review":"node scripts/review-server.mjs","check":"node scripts/validate.mjs"},
+  "dependencies":{"@remotion/bundler":"4.0.530","@remotion/renderer":"4.0.530","@remotion/three":"4.0.530","remotion":"4.0.530","react":"19.2.0","react-dom":"19.2.0","geist":"1.5.1","three":"0.186.1","@react-three/fiber":"9.8.1"}
+}

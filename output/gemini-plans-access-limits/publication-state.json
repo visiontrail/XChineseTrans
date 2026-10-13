@@ -1,0 +1,29 @@
+{
+  "status": "published_public_page_verified",
+  "account": "LeoGuoLabs",
+  "format": "standalone_post",
+  "text": "x-post-v1.txt",
+  "media": [
+    "gemini-plans-access-limits-v1.png"
+  ],
+  "alt": "alt-text-v1.txt",
+  "image_tool": "built-in image_gen",
+  "approval_received": true,
+  "published_url": "https://x.com/LeoGuoLabs/status/2106760545018003511",
+  "composer_ready": true,
+  "composer_url": "https://x.com/compose/post",
+  "browser": "Codex in-app browser",
+  "browser_tab_id": "1",
+  "composer_characters_remaining": 24316,
+  "composer_post_button_enabled": true,
+  "alt_readback_matches": true,
+  "preview": "composer-image-alt-v1.jpg",
+  "approval_text": "请发布",
+  "published_time_display": "10:57 PM · Oct 4, 2026",
+  "text_verified": true,
+  "image_verified": true,
+  "public_screenshot": "published-post-verified.jpg",
+  "screenshot_note": "Two normal-viewport browser captures, cropped to the post column and joined in reading order. Originals retained in research. Full-page capture was rejected due to layout artifacts.",
+  "platform_ai_disclosure": "Made with AI",
+  "alt_restored_before_publish": true
+}

@@ -1,0 +1,176 @@
+[
+  {
+    "file": "source-x-demo.mp4",
+    "range": "bytes 3670016-4194303/7747870",
+    "bytes": 524288
+  },
+  {
+    "file": "source-x-demo.mp4",
+    "range": "bytes 2621440-3145727/7747870",
+    "bytes": 524288
+  },
+  {
+    "file": "source-x-demo.mp4",
+    "range": "bytes 524288-1048575/7747870",
+    "bytes": 524288
+  },
+  {
+    "file": "source-x-demo.mp4",
+    "range": "bytes 1572864-2097151/7747870",
+    "bytes": 524288
+  },
+  {
+    "file": "source-x-demo.mp4",
+    "range": "bytes 1048576-1572863/7747870",
+    "bytes": 524288
+  },
+  {
+    "file": "source-x-demo.mp4",
+    "range": "bytes 5242880-5767167/7747870",
+    "bytes": 524288
+  },
+  {
+    "file": "source-x-demo.mp4",
+    "range": "bytes 0-524287/7747870",
+    "bytes": 524288
+  },
+  {
+    "file": "source-x-demo.mp4",
+    "range": "bytes 4194304-4718591/7747870",
+    "bytes": 524288
+  },
+  {
+    "file": "source-x-demo.mp4",
+    "range": "bytes 2097152-2621439/7747870",
+    "bytes": 524288
+  },
+  {
+    "file": "source-x-demo.mp4",
+    "range": "bytes 6291456-6815743/7747870",
+    "bytes": 524288
+  },
+  {
+    "file": "source-x-demo.mp4",
+    "range": "bytes 4718592-5242879/7747870",
+    "bytes": 524288
+  },
+  {
+    "file": "source-x-demo.mp4",
+    "range": "bytes 5767168-6291455/7747870",
+    "bytes": 524288
+  },
+  {
+    "file": "source-x-demo.mp4",
+    "range": "bytes 6815744-7340031/7747870",
+    "bytes": 524288
+  },
+  {
+    "file": "source-x-demo.mp4",
+    "range": "bytes 7340032-7747869/7747870",
+    "bytes": 407838
+  },
+  {
+    "file": "source-x-demo.mp4",
+    "range": "bytes 3145728-3670015/7747870",
+    "bytes": 524288
+  },
+  {
+    "file": "source-x-demo.mp4",
+    "url": "https://video.twimg.com/amplify_video/2108173580798509056/vid/avc1/1920x1080/cebH34dTsCjOewQr.mp4?tag=29",
+    "retrieved_at": "2026-10-08T14:06:52.324127+00:00",
+    "bytes": 7747870,
+    "sha256": "b11e7274116d848509241c1e1584a3b70dd43aacb6783daf8cfc0dfbd82bf3d1"
+  },
+  {
+    "file": "creator-demo.mp4",
+    "range": "bytes 3145728-3670015/8896036",
+    "bytes": 524288
+  },
+  {
+    "file": "creator-demo.mp4",
+    "range": "bytes 3670016-4194303/8896036",
+    "bytes": 524288
+  },
+  {
+    "file": "creator-demo.mp4",
+    "range": "bytes 2097152-2621439/8896036",
+    "bytes": 524288
+  },
+  {
+    "file": "creator-demo.mp4",
+    "range": "bytes 524288-1048575/8896036",
+    "bytes": 524288
+  },
+  {
+    "file": "creator-demo.mp4",
+    "range": "bytes 4194304-4718591/8896036",
+    "bytes": 524288
+  },
+  {
+    "file": "creator-demo.mp4",
+    "range": "bytes 1048576-1572863/8896036",
+    "bytes": 524288
+  },
+  {
+    "file": "creator-demo.mp4",
+    "range": "bytes 1572864-2097151/8896036",
+    "bytes": 524288
+  },
+  {
+    "file": "creator-demo.mp4",
+    "range": "bytes 0-524287/8896036",
+    "bytes": 524288
+  },
+  {
+    "file": "creator-demo.mp4",
+    "range": "bytes 2621440-3145727/8896036",
+    "bytes": 524288
+  },
+  {
+    "file": "creator-demo.mp4",
+    "range": "bytes 4718592-5242879/8896036",
+    "bytes": 524288
+  },
+  {
+    "file": "creator-demo.mp4",
+    "range": "bytes 5767168-6291455/8896036",
+    "bytes": 524288
+  },
+  {
+    "file": "creator-demo.mp4",
+    "range": "bytes 6815744-7340031/8896036",
+    "bytes": 524288
+  },
+  {
+    "file": "creator-demo.mp4",
+    "range": "bytes 5242880-5767167/8896036",
+    "bytes": 524288
+  },
+  {
+    "file": "creator-demo.mp4",
+    "range": "bytes 6291456-6815743/8896036",
+    "bytes": 524288
+  },
+  {
+    "file": "creator-demo.mp4",
+    "range": "bytes 8388608-8896035/8896036",
+    "bytes": 507428
+  },
+  {
+    "file": "creator-demo.mp4",
+    "range": "bytes 7340032-7864319/8896036",
+    "bytes": 524288
+  },
+  {
+    "file": "creator-demo.mp4",
+    "range": "bytes 7864320-8388607/8896036",
+    "bytes": 524288
+  },
+  {
+    "file": "creator-demo.mp4",
+    "url": "https://github.com/user-attachments/assets/d3063a28-5dfd-4c44-a562-be901c49b249",
+    "retrieved_at": "2026-10-08T14:08:20.066371+00:00",
+    "bytes": 8896036,
+    "sha256": "286f32455180c64947948c170d2d9c1ee84ee6670fb7fd37c84f3e582c323e25"
+  }
+]

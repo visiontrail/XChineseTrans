@@ -1,0 +1,8 @@
+{
+  "state": "prepared_for_selection",
+  "tool": "built-in image_gen",
+  "asset": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/x-profile-banners-round1/02-orbits-mars-no-text-v3.png",
+  "prompt": "prompt-mars-v3.txt",
+  "edit": "Replace Earth with Mars in option 02; retain satellite, orbits, light palette and no text",
+  "visualInspection": "Mars terrain rendered in restrained terracotta; satellite and orbital composition retained; no visible text."
+}

@@ -1,0 +1,3 @@
+OpenAI’s DevDay Side Quests offers 10 practical challenges: turn an idea into working code with Ultrafast, complete a task with dots or Space, show a ChatGPT Site, or demo a Codex workflow, 3D model, or plugin. A useful reason to try the tools on a concrete task.
+
+Complete a quest, publish a short demo with #OpenAISideQuest, and submit the post link on the event site. Each completed quest earns one raffle ticket, up to five per person. Prizes: 5 Codex Micros and 1 ModRetro Chromatic. Deadline: Oct 3, 2:30 p.m. PT. https://side-quests.openai.chatgpt.site/

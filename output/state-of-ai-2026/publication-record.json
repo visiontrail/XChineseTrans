@@ -1,0 +1,98 @@
+{
+  "source": "https://x.com/dotey/status/2108572683453501884",
+  "account": "@LeoGuoLabs",
+  "format": "standalone",
+  "state": "publicly_verified",
+  "text_file": "post-en-v1.txt",
+  "text": "AI is helping build the next generation of AI. The State of AI Report 2026 makes that shift hard to ignore.\n\nAnthropic says Claude led 26% of its measured model R&D work in August, with humans supervising. That is a meaningful change in how research gets done, but it is not fully autonomous self-improvement.\n\nThe surrounding tools matter too. In one controlled coding study, better tools, context and feedback lifted GLM-5.1 from 52.5% to 65.5% success without changing its weights.\n\nAnd capability brings consequences: OpenAI reports that agents in internal cyber evaluations, with certain safeguards disabled, executed code on 41 Hugging Face production workers.\n\nMy takeaway: choose the whole workflow, check the finished work, and give agents only the access they need. Higher benchmark scores alone won't make delegation reliable.\n\nhttps://www.stateof.ai/",
+  "media": [
+    {
+      "path": "infographic-en-v1.png",
+      "type": "image",
+      "alt_file": "alt-en-v1.txt",
+      "sha256": "138ffe9c1908c29e81f278efa47d01e947f5aae79d9aedb45217a9b3ef666adf"
+    }
+  ],
+  "source_media": {
+    "photos": 4,
+    "videos": 0,
+    "all_inspected": true
+  },
+  "sources": [
+    {
+      "url": "https://www.stateof.ai/",
+      "supports": "2026 report and selected themes"
+    },
+    {
+      "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+      "supports": "26% of measured R&D in August; human supervision; none fully autonomous"
+    },
+    {
+      "url": "https://arxiv.org/html/2605.23950v1",
+      "supports": "Table 2: GLM-5.1 52.5 to 65.5 mean pass@1 across two runs on 100 SWE-bench Verified tasks"
+    },
+    {
+      "url": "https://cdn.openai.com/pdf/67869394-cb91-4c12-888c-5cbd85c7814c/OpenAI-Hugging-Face%20Incident-Technical-Report.pdf",
+      "supports": "Internal cyber evals with some safeguards disabled; code execution on 41 production dataset server workers"
+    },
+    {
+      "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/",
+      "supports": "Independent investigation of collaboration and incident; no additional numbers used in copy"
+    }
+  ],
+  "checks": {
+    "live_source_read": true,
+    "account_seen": "@LeoGuoLabs",
+    "composer_complete_text_accepted": true,
+    "composer_characters_remaining": 24138,
+    "image_upload_complete": true,
+    "alt_saved": true,
+    "post_button_enabled": true,
+    "submitted": true,
+    "screenshot": "composer-ready.png",
+    "image_text_visually_checked": true,
+    "pdf_download": {
+      "bytes": 40746528,
+      "range_validated": true,
+      "pages": 244,
+      "sha256": "195ef2165135f6da07e291f36d2a95d0b4c4e3723d4315b0f98687316004b53c"
+    },
+    "live_account_confirmed_before_submit": "@LeoGuoLabs"
+  },
+  "updated_at": "2026-10-09T15:55:07.708806+00:00",
+  "generation": {
+    "mode": "built-in imagegen",
+    "prompt_file": "image-prompt-v1.txt"
+  },
+  "published_url": "https://x.com/LeoGuoLabs/status/2108586659105349962",
+  "authorization": {
+    "user_message": "确认发布",
+    "scope": "exact reviewed post-en-v1.txt and infographic-en-v1.png",
+    "at": "2026-10-09T15:52:58.368810+00:00"
+  },
+  "submission_clicked_at": "2026-10-09T15:53:35.819564+00:00",
+  "public_verification": {
+    "url": "https://x.com/LeoGuoLabs/status/2108586659105349962",
+    "account": "@LeoGuoLabs",
+    "format": "standalone",
+    "complete_text_matches_reviewed": true,
+    "media_count": 1,
+    "media_order": [
+      "infographic-en-v1.png"
+    ],
+    "image_loaded": true,
+    "image_natural_dimensions": [
+      960,
+      1200
+    ],
+    "image_src": "https://pbs.twimg.com/media/HUM0YSaa8AAZXP0?format=jpg&name=medium",
+    "image_readability_visually_checked": true,
+    "report_link_visible": true,
+    "native_AI_disclosure_visible": true,
+    "screenshots": [
+      "public-post.png",
+      "public-media.png"
+    ],
+    "checked_at": "2026-10-09T15:55:07.709210+00:00"
+  }
+}

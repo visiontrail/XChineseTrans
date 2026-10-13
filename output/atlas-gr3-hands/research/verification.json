@@ -1,0 +1,77 @@
+{
+  "status": "published_and_publicly_verified",
+  "format": "standalone native video post",
+  "account": "LeoGuoLabs",
+  "user_source": "https://x.com/xiaohu/status/2105888398078882105",
+  "official_source": "https://x.com/BostonDynamics/status/2105659276425298012",
+  "official_article": "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/",
+  "original_video_duration_seconds": 324.208,
+  "intermediary_video_duration_seconds": 334.561,
+  "browser_source_verification": {
+    "width": 480,
+    "height": 270,
+    "time_observed": 135.276749,
+    "paused": false,
+    "readyState": 4
+  },
+  "editorial_checks": [
+    "GR3 has 13 DOF versus GR2 seven; four thumb DOF and three in each other finger.",
+    "Missing pinky avoids three actuators and added size, power and failure points.",
+    "Pressure sensors on fingertips and palm; backdrivability supports force sensing and impact tolerance.",
+    "Source claim stronger than prior hand is not retained; official article says similar strength to previous hand.",
+    "100lb+ minifridge claim omitted to avoid confusing whole-robot and single-hand capability.",
+    "No intermediary identity or source links in publishable text."
+  ],
+  "copy_file": "post-en-v1.txt",
+  "video_file": "atlas-gr3-official-original.mp4",
+  "media_validation": {
+    "sha256": "e4f167abd0c9bad6e8caca0f20f08f7b02cf8d792f82c7b39993efa9f9691490",
+    "bytes": 59614602,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080,
+          "r_frame_rate": "24/1"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "324.208336",
+        "size": "59614602"
+      }
+    },
+    "complete_av_decode": "passed without errors",
+    "visual_samples": "research/video-contact-sheet.jpg",
+    "notes": "Original video contains both Teleoperated and Fully Autonomous labels; draft does not imply all demonstrations autonomous."
+  },
+  "composer_characters_remaining": 24106,
+  "composer_text_characters": 894,
+  "composer_media_status": "Ready",
+  "publication_submitted": true,
+  "approval_status": "approved by user: 确认发布",
+  "browser_tab_id": "1",
+  "browser_id": "4",
+  "composer_url": "https://x.com/compose/post",
+  "published_url": "https://x.com/LeoGuoLabs/status/2105931202385608979",
+  "published_text_matches_approved": true,
+  "public_playback": {
+    "duration": 324.208,
+    "error": null,
+    "height": 270,
+    "paused": false,
+    "readyState": 4,
+    "time": 12.583768,
+    "width": 480
+  }
+}

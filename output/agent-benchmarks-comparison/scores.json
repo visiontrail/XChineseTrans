@@ -1,0 +1,99 @@
+{
+  "checked": "2026-09-28",
+  "effort": "max",
+  "models": [
+    "GPT-6 Sol",
+    "Claude Opus 5.5"
+  ],
+  "rows": [
+    {
+      "benchmark": "Terminal-Bench 4.0",
+      "metric": "Pass@1",
+      "sol": 43.9,
+      "opus": 59.6,
+      "unit": "%",
+      "opusFallback": true,
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/evaluations/terminalbench-4-0",
+      "note": "Same evaluator and mini-swe-agent harness; 66 tasks, 3 repeats."
+    },
+    {
+      "benchmark": "FrontierCode v1.1 Main",
+      "metric": "Weighted rubric score",
+      "sol": 49.3,
+      "opus": 54.4,
+      "unit": "%",
+      "opusFallback": null,
+      "source": "Cognition",
+      "url": "https://cognition.com/frontiercode",
+      "note": "Raw scores 49.27/54.43. Different harnesses: Codex / Claude Code. Not a pass rate."
+    },
+    {
+      "benchmark": "CursorBench 4.0",
+      "metric": "Task score",
+      "sol": null,
+      "opus": 57.8,
+      "unit": "%",
+      "opusFallback": null,
+      "source": "Cursor",
+      "url": "https://cursor.com/cursorbench",
+      "note": "No exact GPT-6 Sol entry found in checked owner leaderboard."
+    },
+    {
+      "benchmark": "DeepSWE v1.1",
+      "metric": "Task score",
+      "sol": 68.8,
+      "opus": null,
+      "unit": "%",
+      "opusFallback": null,
+      "source": "OpenAI-reported",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "note": "Not listed on checked Datacurve owner board; no public exact Opus 5.5 score found."
+    },
+    {
+      "benchmark": "OSWorld 2.0",
+      "metric": "Partial reward",
+      "sol": 64.4,
+      "opus": 81.8,
+      "unit": "%",
+      "opusFallback": true,
+      "source": "Vendor reports",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "opusUrl": "https://www.anthropic.com/claude-opus-5-5",
+      "note": "Not matched: Sol offline subset v2026.08.08; Opus subset/version unconfirmed. No delta/winner claim."
+    },
+    {
+      "benchmark": "AutomationBench 1.0.6",
+      "metric": "Strict completion",
+      "sol": 32,
+      "opus": 42.5,
+      "unit": "%",
+      "opusFallback": true,
+      "source": "Zapier",
+      "url": "https://zapier.com/benchmarks",
+      "note": "Raw Opus 42.47. Current held-out private leaderboard with default fallback, not Anthropic early-access 40.0 or AutomationBench-AA partial scoring."
+    },
+    {
+      "benchmark": "GDPval-AA v2.1",
+      "metric": "Elo",
+      "sol": 1487,
+      "opus": 1846,
+      "unit": "Elo",
+      "opusFallback": true,
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/evaluations/gdpval-aa",
+      "note": "95% CI ±19 / ±23. DeepSeek V4.1 Flash max anchor 1600. Not percentages."
+    },
+    {
+      "benchmark": "Terminal-Bench-Science 0.1",
+      "metric": "Pass@1",
+      "sol": 30,
+      "opus": 59,
+      "unit": "%",
+      "opusFallback": true,
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/evaluations/terminal-bench-science",
+      "note": "Same mini-swe-agent evaluator, 70 tasks, 3 repeats; do not mix vendor 58.7 or xhigh61.9 into max snapshot."
+    }
+  ]
+}

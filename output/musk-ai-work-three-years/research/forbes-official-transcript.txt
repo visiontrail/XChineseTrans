@@ -1,0 +1,793 @@
+YouTube transcript
+Video ID: adgbH9FixW0
+Language: en
+Captions: auto-generated
+
+[0:00] All right, everybody.
+[0:01] We have a very special guest. Listen.
+[0:04] We love all of you. This is a This is
+[0:07] the most amazing room of innovators in
+[0:08] America.
+[0:10] Uh we love you all. It's a dinner of
+[0:13] equals, but there can only be one number
+[0:15] one. Uh we do We're Forbes. We do rank
+[0:18] things.
+[0:19] Uh and the Forbes 250 uh innovators the
+[0:25] number one innovator uh
+[0:27] and it wasn't that close, to be honest,
+[0:28] was Elon Musk. So,
+[0:32] uh and we are very honored to have him
+[0:34] join us. Elon, are you here?
+[0:36] >> Uh yeah.
+[0:37] >> Oh, we're glad that you're glad that
+[0:38] you're here. Thank you. There he is.
+[0:42] >> [applause]
+[0:44] >> AND YOU DO LIKE RANKING THINGS. IT'S
+[0:45] TRUE.
+[0:46] >> HA, we do. We're good at it. Uh and and
+[0:49] again, first congratulations. It was not
+[0:51] that close. There were a lot of There
+[0:53] were a lot of battles in a lot of
+[0:54] places, but number one was not in doubt.
+[0:57] Uh
+[0:57] but anyway, this is a room of your
+[0:59] people.
+[1:00] Yeah, you
+[1:02] Well deserved This is a room of your
+[1:03] people. I will say they were asking the
+[1:06] first question and we want we want to
+[1:08] get really nerdy about innovation. The
+[1:09] first question though that everybody was
+[1:11] asking is, all right, ask Elon. We had
+[1:13] one of the great ca- cases in the world
+[1:16] of innovation over the last few weeks.
+[1:18] What's Elon's verdict on the verdict
+[1:20] today?
+[1:23] >> What do you mean on me?
+[1:24] >> Uh
+[1:25] I that that that um the case in Oakland.
+[1:28] >> Yes.
+[1:29] Oh, oh, what that verdict?
+[1:31] >> [laughter]
+[1:34] >> It's like, what are you doing?
+[1:37] Um yeah, I guess just
+[1:41] Well, they they basically just
+[1:44] decided that the uh
+[1:48] staff would not pay things for fast.
+[1:50] They were not
+[1:51] actually
+[1:52] whether depending on whether um you you
+[1:55] they've been unjustly enriched or the
+[1:58] charity could be dissolved, which I
+[1:59] think is obviously the case. Um
+[2:02] So, um
+[2:05] But, I I do think it's somewhat of a
+[2:07] dubious situation because
+[2:09] um you know, what happened was in
+[2:12] by degrees. I mean, it wasn't it wasn't
+[2:14] stolen all at once, but stolen one piece
+[2:16] at a time.
+[2:17] And, um
+[2:19] so, we have to say, like, well,
+[2:22] was there really even a basis for legal
+[2:24] action before
+[2:25] um
+[2:26] you know, problems to dissolve? And, I
+[2:28] don't think there is, actually.
+[2:30] Um
+[2:31] so,
+[2:32] you know,
+[2:34] but like, the first step I don't label
+[2:35] at this point, but the first step into
+[2:38] adding a for-profit thing had a cap
+[2:39] for-profit and was at a small scale.
+[2:42] Um and also, that uh
+[2:46] all stock would revert to the charity
+[2:48] upon the eventual of artificial general
+[2:51] intelligence.
+[2:52] Uh that that clause is now being
+[2:54] removed.
+[2:55] So, it it will continue to be a
+[2:57] for-profit after developing artificial
+[2:59] general intelligence.
+[3:01] Um that removal was quite recent, just
+[3:03] in the last few weeks.
+[3:05] Um
+[3:06] so,
+[3:08] um
+[3:09] it is this point is it it is it is a
+[3:12] whatever $800 billion for-profit company
+[3:14] somehow from a non-profit.
+[3:16] And, I I think this is a dangerous
+[3:17] precedent to set because if if it means
+[3:20] that someone can
+[3:21] um
+[3:22] start take money as a non-profit,
+[3:24] convert that to a for-profit when it's
+[3:26] successful, um
+[3:28] it undermines all charitable giving in
+[3:31] America.
+[3:33] >> It certainly would uh you'd see a lot of
+[3:35] people starting to start non-profits
+[3:36] with a path towards for-profit. Uh you
+[3:39] you
+[3:39] >> Exactly. What do you got to lose?
+[3:40] >> Right, exactly. What um you said on X
+[3:43] you're appealing optimistic about the
+[3:44] appeal?
+[3:46] >> Yeah, I think we we necessarily have to
+[3:47] appeal um
+[3:49] because uh
+[3:51] it this this will this become precedent,
+[3:53] you know, which people can actually then
+[3:55] essentially loot charities and use this
+[3:57] case as a as a basis for doing so.
+[4:01] Um which I think would be a lot.
+[4:04] >> Let's uh let's talk innovation. Your
+[4:06] your title we have up here, I mean,
+[4:08] again, you're the CEO of four major
+[4:10] companies, even those companies have
+[4:12] major companies within those companies.
+[4:15] Uh was this was this part of the plan or
+[4:17] did it just happen?
+[4:20] >> More or less just happened. I mean, it
+[4:22] well, let's just say that
+[4:24] when I was in college, I wanted to be
+[4:25] part of um
+[4:28] things that would
+[4:29] uh
+[4:30] change the world in a significant way.
+[4:32] Um
+[4:34] I didn't originally think I wanted to be
+[4:36] doing things in AI because AI was
+[4:37] somewhat of a double-edged sword, but I
+[4:39] I I did want to um
+[4:41] accelerate the transition to a
+[4:43] sustainable energy economy, which is the
+[4:45] sort of electric cars, solar, and
+[4:47] batteries.
+[4:48] Um
+[4:49] and uh
+[4:53] you know, I think I think some some kind
+[4:55] of brain machine interface
+[4:57] uh
+[4:58] that can give you cybernetic
+[5:00] superpowers, I think is probably good.
+[5:03] Um it could, you know, help people that
+[5:06] have
+[5:07] brain or spine injuries,
+[5:09] uh
+[5:09] you know, restore enable people who
+[5:11] never spoken for years to speak again,
+[5:14] which is which we've done.
+[5:16] Um
+[5:17] get people eyesight who have lost uh
+[5:20] both eyes or the optic nerve uh or maybe
+[5:22] have never even seen at all, blind from
+[5:24] birth. Um by direct interface to the uh
+[5:29] the um
+[5:31] optical sensors in the brain, you you
+[5:32] can actually
+[5:34] restore eyesight or give people eyesight
+[5:35] that they've never had before. And you
+[5:37] can enable people to walk again, which I
+[5:38] think is
+[5:40] profound. I mean, these are kind of
+[5:41] Jesus-level things, you know, like uh
+[5:43] let's say like when technologies are
+[5:45] hitting like Jesus-level miracles, you
+[5:46] know, like, "Yeah, that's pretty good."
+[5:48] >> How do you How do you um um
+[5:50] How do you
+[5:52] Again, it's asked a lot, but it's it's
+[5:53] fun to ask it to you. How do you
+[5:55] prioritize? I mean, cuz you're right,
+[5:56] you've got you've got multiple deities
+[5:59] here. If it's if these are Jesus level
+[6:01] solutions,
+[6:02] which one which one do you serve?
+[6:04] >> Jesus level, you're like, "Okay, that's
+[6:05] pretty good." Um
+[6:07] So,
+[6:08] um
+[6:10] And if And if SpaceX is about
+[6:12] um
+[6:13] making life multi-planetary
+[6:17] expanding consciousness
+[6:19] to the stars.
+[6:20] Um
+[6:21] And hopefully, we will
+[6:24] make a fundamental breakthrough later
+[6:26] this year, which is having the the the
+[6:27] first a fully reusable
+[6:30] uh orbital rocket.
+[6:32] Um
+[6:33] which is necessary in order to do
+[6:36] transport enough tonnage uh to the moon
+[6:40] or Mars to create a self
+[6:42] uh a self-growing
+[6:44] city. Um basically, to extend
+[6:46] civilization to to to other planets. Um
+[6:51] I mean, I I think probably you need to
+[6:53] move
+[6:55] a rough order of magnitude of about a
+[6:56] million tons
+[6:57] to the moon or to Mars
+[6:59] uh to create enough of an of an
+[7:01] industrial base to have
+[7:04] have the civilization there be um
+[7:06] self-growing, meaning like
+[7:08] the acid test being if the
+[7:11] resupply ships from Earth stop coming
+[7:13] for any reason, um does it does the
+[7:17] the civilization on the moon or Mars
+[7:19] continue to grow or does it die out?
+[7:22] Um
+[7:23] and um
+[7:25] I think I think that's that's a a
+[7:27] fundamental branching point in the
+[7:29] future of civilization.
+[7:30] Um Are Are we a multi-planet
+[7:32] space-faring civilization or are we um
+[7:35] stuck on one planet forever?
+[7:36] Um
+[7:37] and um
+[7:39] I do want to emphasize I mean, like,
+[7:40] being a multi-planet
+[7:42] civilization is doesn't mean like we
+[7:44] leave Earth and go somewhere else cuz
+[7:45] that would just be a single planet
+[7:47] civilization somewhere else.
+[7:48] >> Right.
+[7:49] On a lesser place, probably.
+[7:51] >> Yeah, and a tougher place to to live
+[7:54] than than here by far.
+[7:56] Um Earth is extremely easy and
+[7:59] comfortable compared to the moon, Mars,
+[8:01] or pretty much anywhere else. Um
+[8:04] but you know, I think I think at some
+[8:06] point we want to be
+[8:08] a space flying civilization. We want to
+[8:10] Um
+[8:12] be out there among the stars and we and
+[8:14] and and be Yeah.
+[8:16] Um
+[8:18] >> So, these are again, these are huge,
+[8:19] huge things you're dealing with. So,
+[8:21] when you try to figure out when you get
+[8:23] up every morning,
+[8:25] is it just kind of like a buffet or is
+[8:27] it Do you have kind of a plan on what
+[8:28] you're going to what you're going to
+[8:29] focus on? Cuz that's something a lot of
+[8:31] innovators here have to deal with on a
+[8:33] much smaller scale.
+[8:36] >> Well, uh I guess I don't really uh
+[8:41] I don't really get up and say, "Hey,
+[8:42] what should I innovate today?" you know,
+[8:44] type of thing. Um
+[8:45] it's it's really just um
+[8:48] I've both building the technologies
+[8:50] necessary to
+[8:52] uh extend life beyond Earth.
+[8:54] Um
+[8:55] There's you know, there's this there's
+[8:56] the Starlink internet which is
+[8:58] rebuilding the entire internet in space.
+[9:01] Um
+[9:03] But better, you know, I guess that's
+[9:05] kind of
+[9:06] pretty cool.
+[9:07] Um
+[9:09] There's
+[9:10] Yeah, but the Optimus robot that we're
+[9:12] developing at Tesla, the self-driving
+[9:14] cars,
+[9:16] um
+[9:17] solar power at scale,
+[9:19] you know.
+[9:21] >> Big stuff. A lot of Again, they're all
+[9:23] pointing a lot of them are pointing to
+[9:25] becoming an interplanetary
+[9:27] Is there a Is there a time when you
+[9:29] could see again putting these companies
+[9:31] together and just running one big
+[9:33] company? I mean, some of you have a a
+[9:35] but do you envision that?
+[9:38] Would and would that help you in terms
+[9:40] of
+[9:41] making these things mesh?
+[9:44] >> Um
+[9:46] Well, I I think it's difficult for me to
+[9:48] to sort of comment on that, you know,
+[9:50] because uh
+[9:51] you know, there's publicly traded
+[9:52] companies and
+[9:54] >> Yeah.
+[9:55] >> one is publicly traded and one is, you
+[9:56] know, about to be. So,
+[9:58] uh it would be like difficult to
+[10:01] you know.
+[10:02] >> No no problem. We'll we'll we'll move
+[10:03] on. Although
+[10:04] we we did uh the you know, the reports
+[10:07] today that that you might follow your
+[10:08] SpaceX S-1 this week. Is that that a go?
+[10:14] >> I'm not I think I'm not allowed to
+[10:16] comment on on these things.
+[10:17] >> Seriously?
+[10:18] >> That's like a quiet period or something
+[10:20] to that effect.
+[10:21] >> That That is the beauty That is the
+[10:23] beauty of uh going public or being in
+[10:25] that quiet period. Um do you have a
+[10:27] favorite of all your We know we you love
+[10:30] all you love all your your children, all
+[10:32] your companies.
+[10:34] Is there a favorite?
+[10:35] among your companies?
+[10:38] >> Well, no. I mean, I'm not really going
+[10:40] to say that's like what's your favorite
+[10:42] kid type of thing, you know. Um
+[10:44] I think you can't really s- say that,
+[10:47] you know. Uh
+[10:49] >> What um
+[10:51] If it's not your favorite company, who's
+[10:53] your favorite role model as an innovator
+[10:56] historically?
+[10:59] >> Well, I guess uh you know, I'm obviously
+[11:01] a big fan of Nikola Tesla since uh named
+[11:04] the company after him. Um
+[11:07] Um but also I I also like uh
+[11:10] you know.
+[11:11] Um
+[11:14] I don't know. Um Edison is great, too.
+[11:17] Um
+[11:19] Like some people like don't like don't
+[11:20] like Edison really cuz he just did some
+[11:21] pretty impressive stuff.
+[11:23] Um
+[11:24] And um
+[11:27] Like General Electric is like Edison's
+[11:29] company. Um
+[11:32] That's
+[11:33] I mean
+[11:35] I certainly admire the great scientists,
+[11:37] engineers, but I I like anyone. I mean,
+[11:40] you know,
+[11:41] Ben Franklin, uh
+[11:43] Shakespeare, Newton, uh Einstein, you
+[11:47] know,
+[11:48] >> We We did
+[11:49] >> suspects.
+[11:50] >> We did We surveyed uh historians, and so
+[11:54] you were number one on the 250 living
+[11:56] list. We did a 250 historical, and the
+[11:58] top three were Edison, you said,
+[12:00] Franklin, uh and Henry Ford. So, you
+[12:02] you've uh you know, you you're We should
+[12:04] have had you as a judge. Uh
+[12:06] >> Ford was actually more awesome than
+[12:08] people realize cuz I mean, he basically
+[12:11] invented um
+[12:13] mass manufacturing of
+[12:15] of complex objects. Like, people didn't
+[12:17] really know how to do that uh before uh
+[12:20] before Ford.
+[12:21] >> Yes.
+[12:21] >> Um
+[12:22] And like, Ford actually created the
+[12:25] automotive industry uh
+[12:27] of of Earth, really. Um
+[12:29] And uh
+[12:31] cuz cuz he he he pretty much started
+[12:33] what became General Motors, and then he
+[12:35] kind of got I don't know,
+[12:37] kicked out of that or something, and
+[12:38] then started uh
+[12:40] Ford Motor Company.
+[12:42] Um
+[12:43] Uh
+[12:44] And and really developed mass
+[12:46] manufacturing of complex objects. Um
+[12:50] It's quite quite a tricky thing, and
+[12:51] then everyone just pretty much copied
+[12:52] him.
+[12:54] >> What's uh what's amazing if you look at
+[12:55] the historical list, and even the
+[12:56] current list, is just how much uh
+[12:58] innovation comes out of America, and how
+[13:00] much of the things that everyone takes
+[13:01] for granted came out of America. Do you
+[13:03] have a Do you have a favorite innovator
+[13:05] who's living today? Besides, you know,
+[13:10] anybody in this room, or anybody uh
+[13:12] uh Who are Who are some of your favorite
+[13:14] entrepreneurs, innovators you admire who
+[13:16] uh who are your contemporaries now?
+[13:21] >> Well, uh
+[13:22] hmm. I mean,
+[13:24] I guess uh I don't I
+[13:28] I mean, I don't really think about these
+[13:29] things that much, but
+[13:32] I
+[13:38] Uh well, I mean, I guess uh
+[13:40] you know,
+[13:41] Jensen Huang at Nvidia is like doing
+[13:43] pretty great in terms of
+[13:45] uh
+[13:46] inventing, you know, the developing AI
+[13:48] computers. Um
+[13:50] uh
+[13:52] And um
+[13:55] >> Well, you mostly you mentioned Jensen
+[13:57] and uh
+[13:59] Listen, you were early
+[14:01] uh warning about the dangers of AI, but
+[14:04] also you've been uh you know, a somebody
+[14:07] who's helping pioneer a lot of great
+[14:08] things that come out of AI. Right now,
+[14:10] where are you on the scale of how being
+[14:12] petrified or excited?
+[14:17] >> Well, I think I'm like so simultaneously
+[14:19] both, honestly. It's like
+[14:21] uh I mean,
+[14:23] at this this point, like
+[14:24] like
+[14:26] like when I go to sleep, there's like
+[14:28] some AI breakthrough. When I wake up,
+[14:29] there's some AI breakthrough. And by
+[14:31] lunchtime, there's another AI
+[14:32] breakthrough.
+[14:32] >> Yeah.
+[14:33] >> So,
+[14:34] um
+[14:35] it
+[14:36] it's like a head spinner at this point.
+[14:38] Um
+[14:39] it you know, it's it's pretty obvious
+[14:41] that we we're going to have AI that is
+[14:43] vastly smarter than humans. Um
+[14:46] And um
+[14:48] And already in some ways it already is.
+[14:52] Um
+[14:54] I
+[14:55] it seems like AI unequivocally smarter
+[14:58] than humans in every way, including in
+[14:59] innovation, is probably
+[15:04] not more than a year or two away, it
+[15:05] would seem.
+[15:08] Um
+[15:11] That's uh
+[15:12] >> It's It's heavy to think about.
+[15:14] >> I know. Jesus, this is this is kind of
+[15:16] worrying. I hope it's nice to us, you
+[15:18] know.
+[15:18] >> [laughter]
+[15:20] >> What um
+[15:22] Um right, you know, when you look at me
+[15:24] about all the things we've asked him to
+[15:26] do what what's something that you have a
+[15:27] better position that to see this than
+[15:29] anybody pretty much
+[15:31] what's going to happen in 5 years
+[15:34] that you're seeing that maybe a lot of
+[15:35] people aren't seeing that's going to
+[15:37] blow people's minds that will be doable
+[15:39] in 5 years.
+[15:44] >> In 5 years.
+[15:46] We'll have probably so 5 years being say
+[15:49] 2031
+[15:51] um.
+[15:52] I think.
+[15:54] Digital intelligence will exceed the sum
+[15:56] of all human intelligence.
+[15:59] That there will be in 5 years.
+[16:05] Probably.
+[16:07] There might be a.
+[16:09] Let's say at least a hundred million
+[16:11] humanoid robots but maybe a billion.
+[16:17] Yeah.
+[16:19] >> All right the.
+[16:21] >> Let me and and and I I
+[16:23] I would predict that the economy is
+[16:24] probably.
+[16:29] Twice its current size.
+[16:31] In.
+[16:33] Five maybe six years.
+[16:35] Seven at five to seven years.
+[16:38] Um because you're going to hit a
+[16:39] doubling period you know where it's it's
+[16:41] where the the economic output is
+[16:44] increasing so so fast that you know plus
+[16:47] minus a few years you're you'll see
+[16:49] giant changes.
+[16:51] Um.
+[16:53] >> What um
+[16:55] what you know a couple follow-up
+[16:57] questions on that when do you see the
+[16:59] first data center in space again you
+[17:00] have a better vision on that than pretty
+[17:01] much anybody
+[17:03] you know you're again if when we're
+[17:05] going to Mars it's you clearly going to
+[17:07] be leading the way when when do we get a
+[17:08] colony on the moon when do we get a
+[17:10] colony on Mars three-pronged question
+[17:12] data center in space.
+[17:15] Humans on the moon humans on Mars,
+[17:18] timeline.
+[17:20] >> Yeah, certainly space is much easier
+[17:21] than people may think. I mean, SpaceX at
+[17:23] this point has 10,000 satellites in
+[17:25] orbit right now.
+[17:26] Um
+[17:28] and um
+[17:30] and in the future with Starship we'll be
+[17:32] launching over 10,000
+[17:35] um communication satellites per year.
+[17:37] Uh each one of which is much more
+[17:39] capable than our current satellites. So,
+[17:41] you can expect, you know,
+[17:45] that probably
+[17:47] uh
+[17:49] 10 to 100 times more communications
+[17:50] capability than than is than currently
+[17:52] exists from space.
+[17:53] Um
+[17:55] But but that that will pale in
+[17:56] comparison to the tonnage of uh AI
+[17:59] satellites. So,
+[18:02] I mean, it's it's always helpful to use
+[18:03] the physics tools of thinking in the
+[18:04] limit.
+[18:05] If say if you think in the limit, what
+[18:06] is the most amount of uh AI compute you
+[18:09] could possibly bring bring to bear?
+[18:11] Um
+[18:11] and the the way to access
+[18:14] power that's far beyond anything on
+[18:16] Earth is in space.
+[18:18] Um so, these are so so humbling
+[18:21] ways to
+[18:23] maybe frame the problem and see how tiny
+[18:25] we are.
+[18:26] We
+[18:27] Here on Earth we are like microbes on a
+[18:29] dust mote compared to the sun.
+[18:31] Um
+[18:32] so,
+[18:35] we All of human civilization currently
+[18:37] uses less than
+[18:39] a trillionth
+[18:41] of the energy of the say the power
+[18:43] emitted by the sun.
+[18:45] Much less than a trillionth. All human
+[18:46] energy counted as generously as you
+[18:49] could possibly imagine
+[18:50] is much less than a trillionth of the
+[18:51] sun's energy.
+[18:54] Um
+[18:55] so,
+[18:57] that means if you were to increase
+[19:00] civilizational the
+[19:02] energy harnessed
+[19:04] by a million,
+[19:06] you would still be much less than a
+[19:08] millionth of the sun's
+[19:10] energy
+[19:11] harnessed.
+[19:13] Um
+[19:14] So,
+[19:15] an another way to think about it is cuz
+[19:17] people sometimes say, "What about this
+[19:18] this form of of power generation or that
+[19:20] form of power generation?" I'm like,
+[19:22] "Everything is
+[19:23] irrelevant compared to the sun." Um the
+[19:26] sun is 99.8% of mass in the solar
+[19:28] system. If If all mass that was not the
+[19:30] sun was was burnt
+[19:33] uh and you extracted the absolute
+[19:35] maximum amount of energy from all mass
+[19:37] that is not the sun, the amount of
+[19:38] energy produced by the sun would still
+[19:40] round out to 100% of energy produced in
+[19:42] the solar system.
+[19:43] And then if you teleported two more
+[19:45] Jupiters from other somehow teleported
+[19:47] two more Jupiters into our solar system
+[19:49] and burnt them, too,
+[19:50] um the sun would still be 100% of power
+[19:53] uh rounding up. So, really and
+[19:56] everything is just
+[19:58] extremely tiny compared to the sun.
+[20:00] So, that that whole when you go to
+[20:01] space, um if you want if you want to to
+[20:06] climb the Kardashev Kardashev scale
+[20:08] in any meaningful way whatsoever, you
+[20:09] have to go to space.
+[20:11] Um
+[20:12] and and and uh
+[20:15] you know, our rough estimate is
+[20:17] that you could probably do a terawatt a
+[20:18] year of
+[20:20] AI-powered
+[20:21] uh
+[20:22] you know, solar-powered AI satellites um
+[20:25] from from launched from Earth.
+[20:27] Um
+[20:28] that would require, let's say, something
+[20:29] like 10 million tons a year of payload
+[20:31] to orbit
+[20:32] at 100 kW per ton.
+[20:34] And that'd be a terawatt per year. The
+[20:37] average power usage in the United States
+[20:38] is half a terawatt.
+[20:41] So, that would mean you'd be launching
+[20:42] twice the
+[20:44] um
+[20:46] twice the amount of AI power than than
+[20:48] the entire electricity can consumption
+[20:50] in the United States.
+[20:52] per year.
+[20:54] But this is this is this is we're we're
+[20:56] not breaking any physics here. This is
+[20:58] this is all achievable. Um Now, if you
+[21:01] want to take that up uh
+[21:03] several more orders of magnitude, then
+[21:05] the the thing to do is to build a base
+[21:06] on the moon.
+[21:08] And construct a mass driver.
+[21:11] Um and build the
+[21:14] uh solar panels and radiators on the
+[21:16] moon. Chips you could probably bring
+[21:18] from Earth, but build those on the moon,
+[21:19] too. Um
+[21:21] And uh and and that would let enable you
+[21:23] to do about a pedawatt per year
+[21:27] into of solar-powered AI.
+[21:30] Um and I'm not sure how much AI we need
+[21:31] up there, but
+[21:33] uh that's a lot.
+[21:34] >> That is a lot.
+[21:35] >> Yeah.
+[21:36] >> What um
+[21:37] >> It would be vastly greater than the than
+[21:39] the Earth's economy. Um
+[21:42] Earth's economy would be yeah, really
+[21:44] inconsequential by comparison with that.
+[21:47] >> No, that's a that's a vision of
+[21:48] abundance, for sure.
+[21:50] Uh I know you you've had a quite a busy
+[21:52] day and you you always have a busy day,
+[21:53] so we don't we want to be mindful of
+[21:55] your time. So, I just have two last
+[21:56] questions. One,
+[21:58] uh there must be I mean, again, you keep
+[22:01] on coming up with these big ideas and
+[22:03] you keep executing them. What's a What's
+[22:05] a big idea in your head that you haven't
+[22:07] deployed yet?
+[22:09] Uh that you'd like to.
+[22:14] >> Well, I you know, I did I did say for
+[22:15] the longest time that people ought to
+[22:16] build build tunnels, and then everyone
+[22:18] thought I was joking. And then I was
+[22:19] like, "Fine, well, let's just create a
+[22:20] company, the Boring Company, to build
+[22:22] tunnels." Um cuz this is an obvious way
+[22:25] to um reduce traffic to zero by going 3D
+[22:28] with your transport system. Just as we
+[22:30] go 3D with the buildings,
+[22:32] um it's obviously uh logical to it
+[22:34] logical to expect that you you uh won't
+[22:38] have traffic if you have buildings that
+[22:40] are 3D and and a
+[22:42] transport system that is 2D. And
+[22:43] everyone tries to go in and out of the
+[22:45] 3D building at the same time.
+[22:46] Um but if you have a transport network
+[22:49] that is three-dimensional with tunnels
+[22:50] going all over the place, um then um
+[22:53] you can
+[22:54] address any arbitrary level of traffic.
+[22:57] Um now, I encourage other people to
+[22:59] start tunneling companies cuz the the
+[23:01] Boring Company is the only one, as far
+[23:02] as I can tell that's taking this
+[23:03] seriously.
+[23:04] >> to be the only boring company, right?
+[23:06] So,
+[23:06] >> Yeah, honestly, there's like a lot of
+[23:08] opportunity, um, you know, in tunnels.
+[23:11] Um,
+[23:13] and
+[23:13] >> [laughter]
+[23:14] >> there really is.
+[23:15] Um, and it's quite hard work building
+[23:17] these things. So, I would I hope that
+[23:19] others people do it, too.
+[23:20] >> Okay.
+[23:20] >> Um,
+[23:21] and I guess there's there's probably a
+[23:23] lot of opportunity in, um, synthetic
+[23:25] medicine. So, um,
+[23:28] with like these days, you can basically
+[23:30] create
+[23:31] uh custom,
+[23:32] you know, RNA. Uh,
+[23:35] and I think I think like the
+[23:37] the sort of we're going from
+[23:40] uh
+[23:40] from a situation where medicine has been
+[23:42] analog, where we kind of like just find
+[23:44] drugs kind of by accident most of the
+[23:45] time. Um, like finding sticks in the
+[23:48] forest that, you know, seem like it this
+[23:50] thing this stick seems like a useful
+[23:52] club, um, type of thing. It's it's it's
+[23:54] quite primitive how we found medication
+[23:57] in the past. Um,
+[23:59] now, but once you can since since we can
+[24:01] now construct synthetic RNA, um, you can
+[24:04] effectively
+[24:05] think of medicine the future of medicine
+[24:07] as being digital.
+[24:09] Like, so it's if you if you just know
+[24:10] what to program into that synthetic RNA
+[24:13] strand, um, you can basically, I think,
+[24:16] cure almost anything.
+[24:17] >> Hm.
+[24:18] Hm.
+[24:19] All right. Challenge to the room,
+[24:21] digital medicine and 3D transportation.
+[24:23] Let's go. Let's give Elon some
+[24:25] competition. All right, last question.
+[24:27] >> Electric aircraft, there's probably an
+[24:28] opportunity there. I think there's a
+[24:30] startups in that field.
+[24:31] >> What kind of what kind of aircraft?
+[24:32] >> Electric aircraft.
+[24:33] >> Yeah, electric aircraft. I'm sure that's
+[24:35] coming. Um,
+[24:37] when we when we get together and you
+[24:39] know, hopefully, you know, who knows
+[24:40] with the way technology is going, some
+[24:41] of us will be here in another 250 years
+[24:44] for the Forbes, you know, 500
+[24:46] celebration innovation. What would you
+[24:49] want your Yeah, and again, you're you're
+[24:51] still building it, but when you think
+[24:53] about your legacy, and I know it's
+[24:54] early, but what what would you what
+[24:56] would be make you feel good when people
+[24:58] look back the way you talked about
+[25:00] Edison and Franklin? What would what
+[25:01] would you like
+[25:03] people to say about you?
+[25:09] >> You played a useful role in the
+[25:11] advancement of civilization.
+[25:14] >> Play with end.
+[25:16] >> [applause]
+[25:17] >> I I
+[25:19] >> And I think by the way again, this is
+[25:21] the most incredible room in America
+[25:23] today. I think that's true for all of
+[25:24] us. So, let's take inspiration. You all
+[25:26] are great, but he's number one.
+[25:29] Uh
+[25:29] Elon Musk, thank you for joining us here
+[25:31] at this
+[25:32] >> For all of humanity, that's what the AI
+[25:33] will say.
+[25:34] >> [laughter]
+[25:35] >> Fair.
+[25:36] Thank you again. Thank you for your time
+[25:38] and
+[25:39] all that. And thank you. Now, we're
+[25:40] going to have a We're going to let you
+[25:41] go and we're going to bring
+[25:43] the other award winners up. But again,
+[25:44] Elon Musk, again, thank you for your
+[25:46] time and all all your good thoughts.

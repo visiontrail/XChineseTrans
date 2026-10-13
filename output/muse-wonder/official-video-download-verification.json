@@ -1,0 +1,508 @@
+{
+  "source_page": "https://research.meta.ai/blog/muse-wonder",
+  "source_url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMQXTrJuqD3k0XpgpYJfBBV5D1BLMc1-F1135ULUXDY4zri0mIClsI0tyUhwCJ9YIVvR5l1MSf_VNy81UfO7Y10vTrbhgsbfAz9kXxLx4QDuw.mp4?_nc_cat=1&_nc_sid=f9052a&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=qlrSzHxkHTEQ7kNvwFrOqaN&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfaDI2NC1iYXNpYy1nZW4yXzEwODBwIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjotMSwiY2xpZW50X25hbWUiOiJ1bmtub3duIiwieHB2X2Fzc2V0X2lkIjozMDU3OTY5NDMxMjM0MTg5LCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTA2MjYsImR1cmF0aW9uX3MiOjE1MiwiYml0cmF0ZSI6MTA1MTIzNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=a27pfuCChigE6nGB117L5w&edm=ANsjjxQEAAAA&_nc_zt=28&oh=00_AQM0qnsJw3TbuciaMkCIMglSWsmnsPakfNr0mFqXx8m--A&oe=6AD34744",
+  "retrieved_at": "2026-10-13T01:43:11.157848+00:00",
+  "bytes": 20042826,
+  "sha256": "6c95fabfeaa1d1c02d2d88bc2896745e79e5e2233e2700e45c1942746429b93b",
+  "parts": [
+    {
+      "part": 0,
+      "start": 0,
+      "end": 1048575,
+      "bytes": 1048576,
+      "resumed_transfers": [
+        {
+          "start": 0,
+          "end_received": 1048575,
+          "bytes": 1048576,
+          "content_range": [
+            "0",
+            "1048575",
+            "20042826"
+          ],
+          "curl_exit": 0
+        }
+      ],
+      "sha256": "3686a9563735115795a263f4b341df94937a8e442729628a14c823d5046608a0"
+    },
+    {
+      "part": 1,
+      "start": 1048576,
+      "end": 2097151,
+      "bytes": 1048576,
+      "resumed_transfers": [
+        {
+          "start": 1048576,
+          "end_received": 1592230,
+          "bytes": 543655,
+          "content_range": [
+            "1048576",
+            "2097151",
+            "20042826"
+          ],
+          "curl_exit": 28
+        },
+        {
+          "start": 1592231,
+          "end_received": 2097151,
+          "bytes": 504921,
+          "content_range": [
+            "1592231",
+            "2097151",
+            "20042826"
+          ],
+          "curl_exit": 0
+        }
+      ],
+      "sha256": "f77259d899fca7e2d0909fa8b9d317773402449a2a687e622ef07d40dd130d03"
+    },
+    {
+      "part": 2,
+      "start": 2097152,
+      "end": 3145727,
+      "bytes": 1048576,
+      "resumed_transfers": [
+        {
+          "start": 2097152,
+          "end_received": 3048900,
+          "bytes": 951749,
+          "content_range": [
+            "2097152",
+            "3145727",
+            "20042826"
+          ],
+          "curl_exit": 28
+        },
+        {
+          "start": 3048901,
+          "end_received": 3145727,
+          "bytes": 96827,
+          "content_range": [
+            "3048901",
+            "3145727",
+            "20042826"
+          ],
+          "curl_exit": 0
+        }
+      ],
+      "sha256": "a2d4989433f56d2d917fecc4669d9284e6fe0ea40e8a3005d60761ecd7c3dca1"
+    },
+    {
+      "part": 3,
+      "start": 3145728,
+      "end": 4194303,
+      "bytes": 1048576,
+      "resumed_transfers": [
+        {
+          "start": 3145728,
+          "end_received": 3882996,
+          "bytes": 737269,
+          "content_range": [
+            "3145728",
+            "4194303",
+            "20042826"
+          ],
+          "curl_exit": 28
+        },
+        {
+          "start": 3882997,
+          "end_received": 4194303,
+          "bytes": 311307,
+          "content_range": [
+            "3882997",
+            "4194303",
+            "20042826"
+          ],
+          "curl_exit": 0
+        }
+      ],
+      "sha256": "9dc5cf4c4341e0ce1e6afcad7953723a673c1ee12d204351e375ee4cb82e3834"
+    },
+    {
+      "part": 4,
+      "start": 4194304,
+      "end": 5242879,
+      "bytes": 1048576,
+      "resumed_transfers": [
+        {
+          "start": 4194304,
+          "end_received": 4736458,
+          "bytes": 542155,
+          "content_range": [
+            "4194304",
+            "5242879",
+            "20042826"
+          ],
+          "curl_exit": 28
+        },
+        {
+          "start": 4736459,
+          "end_received": 5242879,
+          "bytes": 506421,
+          "content_range": [
+            "4736459",
+            "5242879",
+            "20042826"
+          ],
+          "curl_exit": 0
+        }
+      ],
+      "sha256": "7c9c4dcf6e6c8df36a9f4e178eed3e7f21d7651ee590056f985659a03f7854ec"
+    },
+    {
+      "part": 5,
+      "start": 5242880,
+      "end": 6291455,
+      "bytes": 1048576,
+      "resumed_transfers": [
+        {
+          "start": 5242880,
+          "end_received": 6047174,
+          "bytes": 804295,
+          "content_range": [
+            "5242880",
+            "6291455",
+            "20042826"
+          ],
+          "curl_exit": 28
+        },
+        {
+          "start": 6047175,
+          "end_received": 6291455,
+          "bytes": 244281,
+          "content_range": [
+            "6047175",
+            "6291455",
+            "20042826"
+          ],
+          "curl_exit": 0
+        }
+      ],
+      "sha256": "df1713a48305db78cdf01091b3a6ff97a57ec8b8f8f80578bb77ae1493157d9a"
+    },
+    {
+      "part": 6,
+      "start": 6291456,
+      "end": 7340031,
+      "bytes": 1048576,
+      "resumed_transfers": [
+        {
+          "start": 6291456,
+          "end_received": 7259588,
+          "bytes": 968133,
+          "content_range": [
+            "6291456",
+            "7340031",
+            "20042826"
+          ],
+          "curl_exit": 28
+        },
+        {
+          "start": 7259589,
+          "end_received": 7340031,
+          "bytes": 80443,
+          "content_range": [
+            "7259589",
+            "7340031",
+            "20042826"
+          ],
+          "curl_exit": 0
+        }
+      ],
+      "sha256": "5e674c8b9ee2b259988a678fac49c222e8d5791f07f09d33d9d7cf2430bc5a6b"
+    },
+    {
+      "part": 7,
+      "start": 7340032,
+      "end": 8388607,
+      "bytes": 1048576,
+      "resumed_transfers": [
+        {
+          "start": 7340032,
+          "end_received": 8388607,
+          "bytes": 1048576,
+          "content_range": [
+            "7340032",
+            "8388607",
+            "20042826"
+          ],
+          "curl_exit": 0
+        }
+      ],
+      "sha256": "afc5e507a2a73361538203a2f6bb6c2e654c15b25dc5e3656e48ec8a5bc52720"
+    },
+    {
+      "part": 8,
+      "start": 8388608,
+      "end": 9437183,
+      "bytes": 1048576,
+      "resumed_transfers": [
+        {
+          "start": 8388608,
+          "end_received": 9096099,
+          "bytes": 707492,
+          "content_range": [
+            "8388608",
+            "9437183",
+            "20042826"
+          ],
+          "curl_exit": 28
+        },
+        {
+          "start": 9096100,
+          "end_received": 9437183,
+          "bytes": 341084,
+          "content_range": [
+            "9096100",
+            "9437183",
+            "20042826"
+          ],
+          "curl_exit": 0
+        }
+      ],
+      "sha256": "42056f24de15e11a08ca24060c3610f40b68c95692101230ce4fecbae2d2671f"
+    },
+    {
+      "part": 9,
+      "start": 9437184,
+      "end": 10485759,
+      "bytes": 1048576,
+      "resumed_transfers": [
+        {
+          "start": 9437184,
+          "end_received": 10485759,
+          "bytes": 1048576,
+          "content_range": [
+            "9437184",
+            "10485759",
+            "20042826"
+          ],
+          "curl_exit": 0
+        }
+      ],
+      "sha256": "858e0fa8dc1f17b302a64dec6d90c8c4de59872a551a172188c339486e04a320"
+    },
+    {
+      "part": 10,
+      "start": 10485760,
+      "end": 11534335,
+      "bytes": 1048576,
+      "resumed_transfers": [
+        {
+          "start": 10485760,
+          "end_received": 11534335,
+          "bytes": 1048576,
+          "content_range": [
+            "10485760",
+            "11534335",
+            "20042826"
+          ],
+          "curl_exit": 0
+        }
+      ],
+      "sha256": "14b8f179f07e8fd0ceeb97cdf83aa1412ba1d67d95b6c4502682c1868a9b8f63"
+    },
+    {
+      "part": 11,
+      "start": 11534336,
+      "end": 12582911,
+      "bytes": 1048576,
+      "resumed_transfers": [
+        {
+          "start": 11534336,
+          "end_received": 12582911,
+          "bytes": 1048576,
+          "content_range": [
+            "11534336",
+            "12582911",
+            "20042826"
+          ],
+          "curl_exit": 0
+        }
+      ],
+      "sha256": "118e1c80cb3c146a5b56f1242465ce6bb82ba9c43c4c5ad98b85be266a9763d3"
+    },
+    {
+      "part": 12,
+      "start": 12582912,
+      "end": 13631487,
+      "bytes": 1048576,
+      "resumed_transfers": [
+        {
+          "start": 12582912,
+          "end_received": 13583811,
+          "bytes": 1000900,
+          "content_range": [
+            "12582912",
+            "13631487",
+            "20042826"
+          ],
+          "curl_exit": 28
+        },
+        {
+          "start": 13583812,
+          "end_received": 13631487,
+          "bytes": 47676,
+          "content_range": [
+            "13583812",
+            "13631487",
+            "20042826"
+          ],
+          "curl_exit": 0
+        }
+      ],
+      "sha256": "7acb77423f5cda42ba244503b483cf1c7f5150572629adc5066b94d07d297791"
+    },
+    {
+      "part": 13,
+      "start": 13631488,
+      "end": 14680063,
+      "bytes": 1048576,
+      "resumed_transfers": [
+        {
+          "start": 13631488,
+          "end_received": 14680063,
+          "bytes": 1048576,
+          "content_range": [
+            "13631488",
+            "14680063",
+            "20042826"
+          ],
+          "curl_exit": 0
+        }
+      ],
+      "sha256": "dd7ad89140aa01658675501cf76ea978fa167a6e669a7e198facef7652476200"
+    },
+    {
+      "part": 14,
+      "start": 14680064,
+      "end": 15728639,
+      "bytes": 1048576,
+      "resumed_transfers": [
+        {
+          "start": 14680064,
+          "end_received": 15728639,
+          "bytes": 1048576,
+          "content_range": [
+            "14680064",
+            "15728639",
+            "20042826"
+          ],
+          "curl_exit": 0
+        }
+      ],
+      "sha256": "23161b991296b8fa8e7913661ae9aa93856fd0aa064a91d9c35cb599f6fd7ef2"
+    },
+    {
+      "part": 15,
+      "start": 15728640,
+      "end": 16777215,
+      "bytes": 1048576,
+      "resumed_transfers": [
+        {
+          "start": 15728640,
+          "end_received": 16777215,
+          "bytes": 1048576,
+          "content_range": [
+            "15728640",
+            "16777215",
+            "20042826"
+          ],
+          "curl_exit": 0
+        }
+      ],
+      "sha256": "df9c5f3f45ca8e8efef990edf9719cc3e0a9f066c941138a007f27cbbd06330c"
+    },
+    {
+      "part": 16,
+      "start": 16777216,
+      "end": 17825791,
+      "bytes": 1048576,
+      "resumed_transfers": [
+        {
+          "start": 16777216,
+          "end_received": 17417673,
+          "bytes": 640458,
+          "content_range": [
+            "16777216",
+            "17825791",
+            "20042826"
+          ],
+          "curl_exit": 28
+        },
+        {
+          "start": 17417674,
+          "end_received": 17825791,
+          "bytes": 408118,
+          "content_range": [
+            "17417674",
+            "17825791",
+            "20042826"
+          ],
+          "curl_exit": 0
+        }
+      ],
+      "sha256": "4e763ef6e1990252066cc5ecd18fc21acf23d337111fd4302ec85673f48b5d16"
+    },
+    {
+      "part": 17,
+      "start": 17825792,
+      "end": 18874367,
+      "bytes": 1048576,
+      "resumed_transfers": [
+        {
+          "start": 17825792,
+          "end_received": 18874367,
+          "bytes": 1048576,
+          "content_range": [
+            "17825792",
+            "18874367",
+            "20042826"
+          ],
+          "curl_exit": 0
+        }
+      ],
+      "sha256": "85c3f16c0b07eba860ee8299057edd611b6c5c39ac177f850e9ce9908fe85d52"
+    },
+    {
+      "part": 18,
+      "start": 18874368,
+      "end": 19922943,
+      "bytes": 1048576,
+      "resumed_transfers": [
+        {
+          "start": 18874368,
+          "end_received": 19922943,
+          "bytes": 1048576,
+          "content_range": [
+            "18874368",
+            "19922943",
+            "20042826"
+          ],
+          "curl_exit": 0
+        }
+      ],
+      "sha256": "4984680c91de407fc721ad36b1c0438dccc515ee0d72643b630fa516511c5f6b"
+    },
+    {
+      "part": 19,
+      "start": 19922944,
+      "end": 20042825,
+      "bytes": 119882,
+      "resumed_transfers": [
+        {
+          "start": 19922944,
+          "end_received": 20042825,
+          "bytes": 119882,
+          "content_range": [
+            "19922944",
+            "20042825",
+            "20042826"
+          ],
+          "curl_exit": 0
+        }
+      ],
+      "sha256": "c503e25769372037b7c645a8e8cb1b80ad00cf9b7b1de265fc16ba2f81074248"
+    }
+  ]
+}

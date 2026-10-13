@@ -1,0 +1,20 @@
+{
+  "account": "LeoGuoLabs",
+  "format": "two_standalone_posts",
+  "approval": "approved_by_user_2026-10-01",
+  "posts": [
+    {
+      "text": "Figure gave its retired F.02 robots a Terminator 2 ending—with Arnold Schwarzenegger involved.\n\nThe company says it melted most of the fleet at a foundry in Imatra, Finland, to protect proprietary hardware as F.03 expands. A few units remain at HQ, and some of the recovered metal is being made into commemorative artifacts.\n\nThere is a practical reason behind the spectacle. Watching a humanoid lowered into molten steel, still giving a thumbs-up, feels unexpectedly sad.\n\nIf AI ever becomes conscious, this might be Exhibit A in its case against humanity.",
+      "video": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/figure-02-decommission/01-decommission-video.mp4",
+      "sha256": "0c35f168ad18581af83ecb01032f0549f42d5ec0f17be2ae2e7ad34e2332abe7"
+    },
+    {
+      "text": "Before Figure's F.02 robots jumped into molten steel, they practised landing on airbags.\n\nFigure says the team used stunt performers' movements as a reference and trained a new AI motion model in simulation. Real robots then practised second-floor jumps at its San Jose campus, preparing for a foundry the team had never visited.\n\nThe company says the final jumps in Finland were autonomous. This clip puts the simulated motions beside the physical tests.\n\nAn unusual retirement project, with a real robotics problem at its centre: transferring a learned motion from simulation to hardware.",
+      "video": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/figure-02-decommission/02-training-video.mp4",
+      "sha256": "f1dd8d39f16eb25e1d4d138dd5fb097ab80cf588af108da99ae68ab5c1913f99"
+    }
+  ],
+  "retained_extra_video": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/figure-02-decommission/03-thumbs-up-video.mp4",
+  "extra_video_note": "The thumbs-up sequence is already included in the full film.",
+  "requested_interval_seconds": 900
+}

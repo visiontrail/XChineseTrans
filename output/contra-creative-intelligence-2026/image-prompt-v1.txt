@@ -1,0 +1,19 @@
+LeoGuoLabs Light v1 palette: warm ivory #FDFBF7 background with barely visible natural paper fiber, forest-green #1A4A3A main text, muted green #426454 secondary text, dark gold #80601B sparse readable emphasis, tiny gold #D4AF37 thin rules. 90% light composition. Modern technical sans-serif similar to Geist/Inter, regular 400, labels 500, headings 600. No serif.
+Use case: productivity-visual.
+Create a polished publication-ready English editorial infographic, portrait 4:5, high resolution, exceptionally readable on a phone. Open borderless layout, generous 6% margins, precise grid, no boxes, no badges, no generic icons, no gradients, shadows, glow, ornamental corners, or conspicuous texture. Clear proportionate two-line heading and eight open numbered or unnumbered rows, each containing a service name and a right-aligned percentage. These percentages are survey shares, NEVER growth rates: do not put +, upward arrows, or growth labels anywhere.
+Exact text:
+Heading: "What creatives are building with AI"
+Subtitle: "AI-native services offered or planned"
+Rows in this exact order:
+"AI workflow design" "60.0%"
+"AI creative direction" "50.0%"
+"AI landing page generation" "49.8%"
+"Brand image systems" "36.6%"
+"Creative evaluation & AI QA" "32.7%"
+"Brand prompt kits" "31.8%"
+"AI UGC character design" "26.9%"
+"Synthetic brand photography" "21.5%"
+Below rows, a readable short note: "Survey shares, not demand growth."
+Small source footer: "Source: Contra Labs · Creative Intelligence Report 2026"
+Plain-text bottom signature: "LeoGuoLabs"
+Do not add any other claims, text, logos, tool logos, photos, or source blogger attribution. Keep every label fully visible and all numbers exact. Dark high-contrast text, thin restrained rules, warm minimal technical design.

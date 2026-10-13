@@ -1,0 +1,59 @@
+{
+  "topic": "Prompt Motion gallery",
+  "account": "@LeoGuoLabs",
+  "source": "https://x.com/leo114119/status/2107353912785420416",
+  "quote_target": "https://x.com/p4nthera_/status/2107175720086589633",
+  "format": "native_quote_post",
+  "state": "publicly_verified",
+  "final_text": "Prompt Motion is a handy reference library for motion graphics with Claude: animations, the prompts or skills behind them, and links to the original creators.\n\nFind a style you like, study how it was prompted, then adapt the pacing, typography and transitions to your own brief.",
+  "media": {
+    "native_quote_video": true,
+    "local_original": "original-video.mp4",
+    "duration_seconds": 12.885333,
+    "resolution": "2560x1428",
+    "video_codec": "h264",
+    "fps": 60,
+    "audio_codec": "aac",
+    "channels": 2,
+    "download_record": "research/download-record.json"
+  },
+  "checks": {
+    "live_account_verified": true,
+    "source_chain_verified": true,
+    "website_visited": "https://www.prompt-motion.com/",
+    "sample_entry_verified": "https://www.prompt-motion.com/stephanlivera-df17a2",
+    "source_video_playback_observed": [
+      4.937231,
+      12.460632
+    ],
+    "complete_decode_exit_code": 0,
+    "beginning_middle_end_frames": "research/contact-sheet.jpg",
+    "composer_full_text_accepted": true,
+    "composer_post_button_enabled": true,
+    "quote_target_verified": true,
+    "public_account_verified": true,
+    "public_full_text_verified": true,
+    "public_quote_card_verified": true,
+    "public_native_video_present": true,
+    "public_video_playback_verified": true,
+    "public_video_playback_evidence": "research/public-playback.json",
+    "public_video_error": null,
+    "public_text_matches_approved": true,
+    "public_video_count": 1
+  },
+  "review_screenshot": "quote-review.png",
+  "approval": {
+    "required": true,
+    "received": true,
+    "rule": "AGENTS.md final-content review",
+    "user_message": "确认发布。",
+    "received_at": "2026-10-06T06:39:42.931323+00:00"
+  },
+  "published_url": "https://x.com/LeoGuoLabs/status/2107360164630442452",
+  "updated_at": "2026-10-06T06:25:14.807907+00:00",
+  "submitted_at": "2026-10-06T06:40:09.039066+00:00",
+  "submission_evidence": "X toast: Your post was sent. You have 1 hour to make any edits.",
+  "verified_at": "2026-10-06T06:42:19.467491+00:00",
+  "public_screenshot": "published-quote.png",
+  "public_snapshot": "public-page.txt"
+}

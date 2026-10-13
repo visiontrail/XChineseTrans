@@ -1,0 +1,8 @@
+{
+  "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMQXTrJuqD3k0XpgpYJfBBV5D1BLMc1-F1135ULUXDY4zri0mIClsI0tyUhwCJ9YIVvR5l1MSf_VNy81UfO7Y10vTrbhgsbfAz9kXxLx4QDuw.mp4?_nc_cat=1&_nc_sid=f9052a&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=qlrSzHxkHTEQ7kNvwFrOqaN&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfaDI2NC1iYXNpYy1nZW4yXzEwODBwIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjotMSwiY2xpZW50X25hbWUiOiJ1bmtub3duIiwieHB2X2Fzc2V0X2lkIjozMDU3OTY5NDMxMjM0MTg5LCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTA2MjYsImR1cmF0aW9uX3MiOjE1MiwiYml0cmF0ZSI6MTA1MTIzNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=a27pfuCChigE6nGB117L5w&edm=ANsjjxQEAAAA&_nc_zt=28&oh=00_AQM0qnsJw3TbuciaMkCIMglSWsmnsPakfNr0mFqXx8m--A&oe=6AD34744",
+  "bytes": 20042826,
+  "parts_dir": "official-video-parts",
+  "output": "official-video-stream.mp4",
+  "record": "official-video-download-verification.json",
+  "source_page": "https://research.meta.ai/blog/muse-wonder"
+}

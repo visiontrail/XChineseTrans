@@ -1,0 +1,48 @@
+{
+  "source": "https://x.com/leo114119/status/2108128726592712847",
+  "account": "@LeoGuoLabs",
+  "format": "standalone",
+  "state": "publicly_verified",
+  "text_path": "post-en.txt",
+  "attachments": [],
+  "link_card_url": "https://technode.com/2026/10/08/manus-parent-butterfly-effect-completes-more-than-500-million-funding-round/",
+  "source_media": "News link card only; no relevant video or image attachment in supplied post.",
+  "verification_date": "2026-10-08",
+  "sources": [
+    {
+      "url": "https://technode.com/2026/10/08/manus-parent-butterfly-effect-completes-more-than-500-million-funding-round/",
+      "finding": "Reports company announcement of over USD 500 million, led by Boyu and IDG; Tencent, HSG, ZhenFund participated. Direct web fetch failed, indexed text accessible. WeChat funding original not directly retrieved."
+    },
+    {
+      "url": "https://manus.im/blog/manus-resumes-independent-operations",
+      "finding": "Official September 1 announcement confirms independent operations resumed, led by founding team."
+    },
+    {
+      "url": "https://manus.im/th/blog/a-note-to-our-users",
+      "finding": "Official note identifies separation from Meta."
+    },
+    {
+      "url": "https://m.okjike.com/users/26b14870-c2b7-47cd-a4a4-365181c33194",
+      "finding": "Founder Xiao Hong publicly says domestic version is actively in preparation. Primary text inspected; no claim of launch or date."
+    }
+  ],
+  "editorial_notes": "No disclosed valuation stated. China version described as in preparation, not launched. Final sentence is personal forward-looking judgment, not a claim of tested capability.",
+  "authorization": "User approved exact reviewed version: 确认发布。",
+  "public_url": "https://x.com/LeoGuoLabs/status/2108207776078196914",
+  "composer_verification": {
+    "account": "@LeoGuoLabs",
+    "full_text_accepted": true,
+    "post_button_enabled": true,
+    "news_link_card_rendered": true,
+    "screenshot": "composer-review.jpg",
+    "submitted": true
+  },
+  "public_verification": {
+    "checked_at": "2026-10-08T14:48:44.187268+00:00",
+    "account": "@LeoGuoLabs",
+    "format": "standalone",
+    "complete_approved_text": true,
+    "news_link_card_present": true,
+    "screenshot": "published-proof.jpg"
+  }
+}

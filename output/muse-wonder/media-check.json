@@ -1,0 +1,35 @@
+{
+  "path": "output/muse-wonder/meta-official-full.mp4",
+  "bytes": 21065427,
+  "sha256": "0d943f9f1f0f9e14fd19db65ddc5a6161e6449e8acb9d0d99945a5d2cbf97c9d",
+  "duration_seconds": 152.533,
+  "streams": [
+    {
+      "codec_type": "video",
+      "codec_name": "h264",
+      "profile": "High",
+      "width": 1920,
+      "height": 1080,
+      "avg_frame_rate": "2997/125",
+      "sample_rate": null,
+      "channels": null,
+      "duration": "152.527027"
+    },
+    {
+      "codec_type": "audio",
+      "codec_name": "aac",
+      "profile": "HE-AAC",
+      "width": null,
+      "height": null,
+      "avg_frame_rate": "0/0",
+      "sample_rate": "48000",
+      "channels": 2,
+      "duration": "152.533000"
+    }
+  ],
+  "full_decode": "passed",
+  "remux": "video and audio stream copy; no re-encoding or trimming",
+  "source_page": "https://research.meta.ai/blog/muse-wonder",
+  "retrieved_at": "2026-10-13T01:43:30.887103+00:00",
+  "audio_listening": "Unavailable to the assistant; audio stream fully decoded. No audio-quality claim made."
+}

@@ -1,0 +1,43 @@
+{
+  "composeTabId": "5",
+  "format": "standalone",
+  "account": "@LeoGuoLabs",
+  "status": "published_verified",
+  "body": "Two days apart: Claude Code’s team floated killing Plan Mode, while Google Antigravity announced a dedicated /plan mode.\n\nOne side is asking whether models have outgrown it; the other is announcing its return. Quite a contrast in where each team thinks coding agents should be.\n\nFor context: Claude’s team later proposed keeping it as a built-in mod. Google says /plan was brought back at users’ request.",
+  "images": [
+    "01-claude-plan-mode.png",
+    "02-antigravity-plan-mode.png"
+  ],
+  "altTextStatus": "prepared_locally_not_added_to_X",
+  "sources": [
+    {
+      "kind": "antigravity_announcement",
+      "url": "https://x.com/antigravity/status/2103611698800140697"
+    },
+    {
+      "kind": "claude_original",
+      "url": "https://x.com/trq212/status/2102813194196758746"
+    },
+    {
+      "kind": "google_context",
+      "url": "https://x.com/_mohansolo/status/2103963138039357815"
+    },
+    {
+      "kind": "claude_followup",
+      "url": "https://x.com/trq212/status/2103212051065921632"
+    }
+  ],
+  "publicUrl": "https://x.com/LeoGuoLabs/status/2104163550709297413",
+  "verifiedAt": "2026-09-27T10:58:57.323Z",
+  "verification": {
+    "account": "@LeoGuoLabs",
+    "format": "standalone",
+    "completeBodyVerified": true,
+    "mediaCount": 2,
+    "mediaOrder": [
+      "Claude Code team original post",
+      "Google Antigravity announcement"
+    ],
+    "fullImagesVisuallyVerified": true
+  }
+}

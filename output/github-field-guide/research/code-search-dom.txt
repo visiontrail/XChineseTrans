@@ -1,0 +1,709 @@
+- link "Skip to content":
+  - /url: "#start-of-content"
+- banner "Global navigation menu":
+  - button "Open menu":
+  - link "Homepage (g then d)":
+    - /url: /
+  - button "Open quick search dialog, type / to search":
+    - generic: repo:pallets/flask symbol:Flask
+  - link "Chat with Copilot":
+    - /url: /copilot
+  - button "Open Copilot…":
+  - button "Create new...":
+  - link "All issues (g then i)":
+    - /url: /issues
+  - link "All pull requests (g then p)":
+    - /url: /pulls
+  - link "All repositories":
+    - /url: /repos
+  - link "You have unread notifications (g then n)":
+    - /url: /notifications
+  - button "Open user navigation menu":
+    - img "LeoGuo"
+- main:
+  - heading "code Search Results · repo:pallets/flask symbol:Flask" [level=1]
+  - heading "Filter by" [level=2]
+  - list "Filter by":
+    - list:
+      - link "Code (12) results":
+        - /url: https://github.com/search?q=repo%3Apallets%2Fflask+symbol%3AFlask&type=code
+        - generic: Code
+        - generic: "12"
+        - generic: (12)
+        - generic: results
+      - link "Issues results":
+        - /url: https://github.com/search?q=repo%3Apallets%2Fflask+symbol%3AFlask&type=issues
+        - generic: Issues
+        - generic: results
+      - link "Pull requests results":
+        - /url: https://github.com/search?q=repo%3Apallets%2Fflask+symbol%3AFlask&type=pullrequests
+        - generic: Pull requests
+        - generic: results
+      - link "Discussions results":
+        - /url: https://github.com/search?q=repo%3Apallets%2Fflask+symbol%3AFlask&type=discussions
+        - generic: Discussions
+        - generic: results
+      - link "Commits results":
+        - /url: https://github.com/search?q=repo%3Apallets%2Fflask+symbol%3AFlask&type=commits
+        - generic: Commits
+        - generic: results
+      - link "Packages results":
+        - /url: https://github.com/search?q=repo%3Apallets%2Fflask+symbol%3AFlask&type=registrypackages
+        - generic: Packages
+        - generic: results
+      - link "Wikis results":
+        - /url: https://github.com/search?q=repo%3Apallets%2Fflask+symbol%3AFlask&type=wikis
+        - generic: Wikis
+        - generic: results
+    - heading "Paths" [level=3]
+    - list "Paths":
+      - link "examples/celery/":
+        - /url: https://github.com/search?q=repo%3Apallets%2Fflask+symbol%3AFlask+path%3A%2F%5Eexamples%5C%2Fcelery%5C%2F%2F&type=code
+        - generic "examples/celery/"
+      - link "examples/celery/src/task_app/":
+        - /url: https://github.com/search?q=repo%3Apallets%2Fflask+symbol%3AFlask+path%3A%2F%5Eexamples%5C%2Fcelery%5C%2Fsrc%5C%2Ftask_app%5C%2F%2F&type=code
+        - generic "examples/celery/src/task_app/"
+      - link "src/flask/":
+        - /url: https://github.com/search?q=repo%3Apallets%2Fflask+symbol%3AFlask+path%3A%2F%5Esrc%5C%2Fflask%5C%2F%2F&type=code
+        - generic "src/flask/"
+      - link "tests/":
+        - /url: https://github.com/search?q=repo%3Apallets%2Fflask+symbol%3AFlask+path%3A%2F%5Etests%5C%2F%2F&type=code
+        - generic "tests/"
+      - button "More directories...":
+        - generic "More directories..."
+    - heading "Advanced" [level=3]
+    - list "Advanced":
+      - button "Owner":
+        - generic "Owner"
+      - button "Symbol":
+        - generic "Symbol"
+      - link "Exclude archived":
+        - /url: https://github.com/search?q=repo%3Apallets%2Fflask+symbol%3AFlask+NOT+is%3Aarchived&type=code
+        - generic "Exclude archived"
+    - link "Advanced search":
+      - /url: /search/advanced
+      - generic: Advanced search
+  - slider "Draggable pane splitter"
+  - generic: 12 files
+  - generic: (368 ms)
+  - heading "12 files" [level=2]
+  - text: in
+  - link "pallets/flask (press backspace or delete to remove)":
+    - /url: /pallets/flask
+    - text: pallets/flask
+    - generic: (press backspace or delete to remove)
+  - button "Save":
+    - text: Save
+  - button "Open column options":
+  - button "Collapse pallets/flask · src/flask/app.py":
+  - generic "pallets/flask · src/flask/app.py":
+    - link "src/flask/app.py":
+      - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/src/flask/app.py#L110
+  - list:
+    - generic "Python language": Python
+    - generic: ·
+    - generic: "1"
+    - generic: (1)
+  - table:
+    - rowgroup:
+      - 'row "107 return update_wrapper(wrapper, f) # type: ignore[return-value]"':
+        - cell "107":
+          - link "107":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/src/flask/app.py#L107
+        - 'cell "return update_wrapper(wrapper, f) # type: ignore[return-value]"':
+          - generic: "return update_wrapper(wrapper, f) # type: ignore[return-value]"
+      - row "108":
+        - cell "108":
+          - link "108":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/src/flask/app.py#L108
+        - cell
+      - row "109":
+        - cell "109":
+          - link "109":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/src/flask/app.py#L109
+        - cell
+      - row "110 class Flask(App):":
+        - cell "110":
+          - link "110":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/src/flask/app.py#L110
+        - cell "class Flask(App):":
+          - text: class
+          - mark: Flask
+          - text: "(App):"
+      - row "111 \"\"\"The flask object implements a WSGI application and acts as the central":
+        - cell "111":
+          - link "111":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/src/flask/app.py#L111
+        - cell "\"\"\"The flask object implements a WSGI application and acts as the central":
+          - generic: "\"\"\"The flask object implements a WSGI application and acts as the central"
+      - row "112 object. It is passed the name of the module or package of the":
+        - cell "112":
+          - link "112":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/src/flask/app.py#L112
+        - cell "object. It is passed the name of the module or package of the":
+          - generic: object. It is passed the name of the module or package of the
+      - row "113 application. Once it is created it will act as a central registry for":
+        - cell "113":
+          - link "113":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/src/flask/app.py#L113
+        - cell "application. Once it is created it will act as a central registry for":
+          - generic: application. Once it is created it will act as a central registry for
+  - button "Collapse pallets/flask · examples/celery/make_celery.py":
+  - generic "pallets/flask · examples/celery/make_celery.py":
+    - link "examples/celery/make_celery.py":
+      - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/examples/celery/make_celery.py#L3
+  - list:
+    - generic "Python language": Python
+    - generic: ·
+    - generic: "1"
+    - generic: (1)
+  - table:
+    - rowgroup:
+      - row "1 from task_app import create_app":
+        - cell "1":
+          - link "1":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/examples/celery/make_celery.py#L1
+        - cell "from task_app import create_app":
+          - generic: from task_app import create_app
+      - row "2":
+        - cell "2":
+          - link "2":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/examples/celery/make_celery.py#L2
+        - cell
+      - row "3 flask_app = create_app()":
+        - cell "3":
+          - link "3":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/examples/celery/make_celery.py#L3
+        - cell "flask_app = create_app()":
+          - mark: flask
+          - text: _app = create_app()
+      - row "4 celery_app = flask_app.extensions[\"celery\"]":
+        - cell "4":
+          - link "4":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/examples/celery/make_celery.py#L4
+        - cell "celery_app = flask_app.extensions[\"celery\"]":
+          - generic: celery_app = flask_app.extensions["celery"]
+  - button "Collapse pallets/flask · src/flask/globals.py":
+  - generic "pallets/flask · src/flask/globals.py":
+    - link "src/flask/globals.py":
+      - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/src/flask/globals.py#L22
+  - list:
+    - generic "Python language": Python
+    - generic: ·
+    - generic: "1"
+    - generic: (1)
+  - table:
+    - rowgroup:
+      - row "19":
+        - cell "19":
+          - link "19":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/src/flask/globals.py#L19
+        - cell
+      - 'row "20 # These subclasses inform type checkers that the proxy objects look like the"':
+        - cell "20":
+          - link "20":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/src/flask/globals.py#L20
+        - cell "# These subclasses inform type checkers that the proxy objects look like the":
+          - generic: "# These subclasses inform type checkers that the proxy objects look like the"
+      - 'row "21 # proxied type along with the _get_current_object method."':
+        - cell "21":
+          - link "21":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/src/flask/globals.py#L21
+        - cell "# proxied type along with the _get_current_object method.":
+          - generic: "# proxied type along with the _get_current_object method."
+      - 'row "22 class FlaskProxy(ProxyMixin[Flask], Flask): ..."':
+        - cell "22":
+          - link "22":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/src/flask/globals.py#L22
+        - 'cell "class FlaskProxy(ProxyMixin[Flask], Flask): ..."':
+          - text: class
+          - mark: Flask
+          - text: "Proxy(ProxyMixin[Flask], Flask): ..."
+      - row "23":
+        - cell "23":
+          - link "23":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/src/flask/globals.py#L23
+        - cell
+      - 'row "24 class AppContextProxy(ProxyMixin[AppContext], AppContext): ..."':
+        - cell "24":
+          - link "24":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/src/flask/globals.py#L24
+        - 'cell "class AppContextProxy(ProxyMixin[AppContext], AppContext): ..."':
+          - generic: "class AppContextProxy(ProxyMixin[AppContext], AppContext): ..."
+      - row "25":
+        - cell "25":
+          - link "25":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/src/flask/globals.py#L25
+        - cell
+  - button "Collapse pallets/flask · examples/celery/src/task_app/__init__.py":
+  - generic "pallets/flask · examples/celery/src/task_app/__init__.py":
+    - link "examples/celery/src/task_app/__init__.py":
+      - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/examples/celery/src/task_app/__init__.py#L30
+  - list:
+    - generic "Python language": Python
+    - generic: ·
+    - generic: "1"
+    - generic: (1)
+  - table:
+    - rowgroup:
+      - row "27":
+        - cell "27":
+          - link "27":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/examples/celery/src/task_app/__init__.py#L27
+        - cell
+      - row "28":
+        - cell "28":
+          - link "28":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/examples/celery/src/task_app/__init__.py#L28
+        - cell
+      - 'row "29 def celery_init_app(app: Flask) -> Celery:"':
+        - cell "29":
+          - link "29":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/examples/celery/src/task_app/__init__.py#L29
+        - 'cell "def celery_init_app(app: Flask) -> Celery:"':
+          - generic: "def celery_init_app(app: Flask) -> Celery:"
+      - row "30 class FlaskTask(Task):":
+        - cell "30":
+          - link "30":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/examples/celery/src/task_app/__init__.py#L30
+        - cell "class FlaskTask(Task):":
+          - text: class
+          - mark: Flask
+          - text: "Task(Task):"
+      - 'row "31 def __call__(self, *args: object, **kwargs: object) -> object:"':
+        - cell "31":
+          - link "31":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/examples/celery/src/task_app/__init__.py#L31
+        - 'cell "def __call__(self, *args: object, **kwargs: object) -> object:"':
+          - generic: "def __call__(self, *args: object, **kwargs: object) -> object:"
+      - row "32 with app.app_context():":
+        - cell "32":
+          - link "32":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/examples/celery/src/task_app/__init__.py#L32
+        - cell "with app.app_context():":
+          - generic: "with app.app_context():"
+      - row "33 return self.run(*args, **kwargs)":
+        - cell "33":
+          - link "33":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/examples/celery/src/task_app/__init__.py#L33
+        - cell "return self.run(*args, **kwargs)":
+          - generic: return self.run(*args, **kwargs)
+  - button "Collapse pallets/flask · src/flask/testing.py":
+  - generic "pallets/flask · src/flask/testing.py":
+    - link "src/flask/testing.py":
+      - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/src/flask/testing.py#L109
+  - list:
+    - generic "Python language": Python
+    - generic: ·
+    - generic: "2"
+    - generic: (2)
+  - table:
+    - rowgroup:
+      - row "108":
+        - cell "108":
+          - link "108":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/src/flask/testing.py#L108
+        - cell
+      - row "109 class FlaskClient(Client):":
+        - cell "109":
+          - link "109":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/src/flask/testing.py#L109
+        - cell "class FlaskClient(Client):":
+          - text: class
+          - mark: Flask
+          - text: "Client(Client):"
+      - row "110 \"\"\"Works like a regular Werkzeug test client, with additional behavior for":
+        - cell "110":
+          - link "110":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/src/flask/testing.py#L110
+        - cell "\"\"\"Works like a regular Werkzeug test client, with additional behavior for":
+          - generic: "\"\"\"Works like a regular Werkzeug test client, with additional behavior for"
+      - row:
+        - cell
+      - row "264":
+        - cell "264":
+          - link "264":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/src/flask/testing.py#L264
+        - cell
+      - row "265 class FlaskCliRunner(CliRunner):":
+        - cell "265":
+          - link "265":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/src/flask/testing.py#L265
+        - cell "class FlaskCliRunner(CliRunner):":
+          - text: class
+          - mark: Flask
+          - text: "CliRunner(CliRunner):"
+      - 'row "266 \"\"\"A :class:`~click.testing.CliRunner` for testing a Flask app''s"':
+        - cell "266":
+          - link "266":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/src/flask/testing.py#L266
+        - 'cell "\"\"\"A :class:`~click.testing.CliRunner` for testing a Flask app''s"':
+          - generic: "\"\"\"A :class:`~click.testing.CliRunner` for testing a Flask app's"
+  - button "Collapse pallets/flask · src/flask/cli.py":
+  - generic "pallets/flask · src/flask/cli.py":
+    - link "src/flask/cli.py":
+      - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/src/flask/cli.py#L531
+  - list:
+    - generic "Python language": Python
+    - generic: ·
+    - generic: "1"
+    - generic: (1)
+  - table:
+    - rowgroup:
+      - row "528 )":
+        - cell "528":
+          - link "528":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/src/flask/cli.py#L528
+        - cell ")"
+      - row "529":
+        - cell "529":
+          - link "529":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/src/flask/cli.py#L529
+        - cell
+      - row "530":
+        - cell "530":
+          - link "530":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/src/flask/cli.py#L530
+        - cell
+      - row "531 class FlaskGroup(AppGroup):":
+        - cell "531":
+          - link "531":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/src/flask/cli.py#L531
+        - cell "class FlaskGroup(AppGroup):":
+          - text: class
+          - mark: Flask
+          - text: "Group(AppGroup):"
+      - 'row "532 \"\"\"Special subclass of the :class:`AppGroup` group that supports"':
+        - cell "532":
+          - link "532":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/src/flask/cli.py#L532
+        - 'cell "\"\"\"Special subclass of the :class:`AppGroup` group that supports"':
+          - generic: "\"\"\"Special subclass of the :class:`AppGroup` group that supports"
+      - row "533 loading more commands from the configured Flask app. Normally a":
+        - cell "533":
+          - link "533":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/src/flask/cli.py#L533
+        - cell "loading more commands from the configured Flask app. Normally a":
+          - generic: loading more commands from the configured Flask app. Normally a
+      - row "534 developer does not have to interface with this class but there are":
+        - cell "534":
+          - link "534":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/src/flask/cli.py#L534
+        - cell "developer does not have to interface with this class but there are":
+          - generic: developer does not have to interface with this class but there are
+  - button "Collapse pallets/flask · tests/test_config.py":
+  - generic "pallets/flask · tests/test_config.py":
+    - link "tests/test_config.py":
+      - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_config.py#L202
+  - list:
+    - generic "Python language": Python
+    - generic: ·
+    - generic: "1"
+    - generic: (1)
+  - table:
+    - rowgroup:
+      - row "199 class Config(flask.Config):":
+        - cell "199":
+          - link "199":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_config.py#L199
+        - cell "class Config(flask.Config):":
+          - generic: "class Config(flask.Config):"
+      - row "200 pass":
+        - cell "200":
+          - link "200":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_config.py#L200
+        - cell "pass":
+          - generic: pass
+      - row "201":
+        - cell "201":
+          - link "201":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_config.py#L201
+        - cell
+      - row "202 class Flask(flask.Flask):":
+        - cell "202":
+          - link "202":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_config.py#L202
+        - cell "class Flask(flask.Flask):":
+          - text: class
+          - mark: Flask
+          - text: "(flask.Flask):"
+      - row "203 config_class = Config":
+        - cell "203":
+          - link "203":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_config.py#L203
+        - cell "config_class = Config":
+          - generic: config_class = Config
+      - row "204":
+        - cell "204":
+          - link "204":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_config.py#L204
+        - cell
+      - row "205 app = Flask(__name__)":
+        - cell "205":
+          - link "205":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_config.py#L205
+        - cell "app = Flask(__name__)":
+          - generic: app = Flask(__name__)
+  - button "Collapse pallets/flask · tests/test_subclassing.py":
+  - generic "pallets/flask · tests/test_subclassing.py":
+    - link "tests/test_subclassing.py":
+      - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_subclassing.py#L7
+  - list:
+    - generic "Python language": Python
+    - generic: ·
+    - generic: "1"
+    - generic: (1)
+  - table:
+    - rowgroup:
+      - row "4":
+        - cell "4":
+          - link "4":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_subclassing.py#L4
+        - cell
+      - row "5":
+        - cell "5":
+          - link "5":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_subclassing.py#L5
+        - cell
+      - row "6 def test_suppressed_exception_logging():":
+        - cell "6":
+          - link "6":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_subclassing.py#L6
+        - cell "def test_suppressed_exception_logging():":
+          - generic: "def test_suppressed_exception_logging():"
+      - row "7 class SuppressedFlask(flask.Flask):":
+        - cell "7":
+          - link "7":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_subclassing.py#L7
+        - cell "class SuppressedFlask(flask.Flask):":
+          - text: class Suppressed
+          - mark: Flask
+          - text: "(flask.Flask):"
+      - row "8 def log_exception(self, ctx, exc_info):":
+        - cell "8":
+          - link "8":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_subclassing.py#L8
+        - cell "def log_exception(self, ctx, exc_info):":
+          - generic: "def log_exception(self, ctx, exc_info):"
+      - row "9 pass":
+        - cell "9":
+          - link "9":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_subclassing.py#L9
+        - cell "pass":
+          - generic: pass
+      - row "10":
+        - cell "10":
+          - link "10":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_subclassing.py#L10
+        - cell
+  - button "Collapse pallets/flask · tests/test_reqctx.py":
+  - generic "pallets/flask · tests/test_reqctx.py":
+    - link "tests/test_reqctx.py":
+      - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_reqctx.py#L185
+  - list:
+    - generic "Python language": Python
+    - generic: ·
+    - generic: "2"
+    - generic: (2)
+  - table:
+    - rowgroup:
+      - row "184":
+        - cell "184":
+          - link "184":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_reqctx.py#L184
+        - cell
+      - row "185 class CustomFlask(flask.Flask):":
+        - cell "185":
+          - link "185":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_reqctx.py#L185
+        - cell "class CustomFlask(flask.Flask):":
+          - text: class Custom
+          - mark: Flask
+          - text: "(flask.Flask):"
+      - row "186 session_interface = FailingSessionInterface()":
+        - cell "186":
+          - link "186":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_reqctx.py#L186
+        - cell "session_interface = FailingSessionInterface()":
+          - generic: session_interface = FailingSessionInterface()
+      - row:
+        - cell
+      - row "210":
+        - cell "210":
+          - link "210":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_reqctx.py#L210
+        - cell
+      - row "211 class CustomFlask(flask.Flask):":
+        - cell "211":
+          - link "211":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_reqctx.py#L211
+        - cell "class CustomFlask(flask.Flask):":
+          - text: class Custom
+          - mark: Flask
+          - text: "(flask.Flask):"
+      - row "212 session_interface = PathAwareSessionInterface()":
+        - cell "212":
+          - link "212":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_reqctx.py#L212
+        - cell "session_interface = PathAwareSessionInterface()":
+          - generic: session_interface = PathAwareSessionInterface()
+  - button "Collapse pallets/flask · tests/test_cli.py":
+  - generic "pallets/flask · tests/test_cli.py":
+    - link "tests/test_cli.py":
+      - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_cli.py#L347
+  - list:
+    - generic "Python language": Python
+    - generic: ·
+    - generic: "3"
+    - generic: (3)
+  - table:
+    - rowgroup:
+      - row "346":
+        - cell "346":
+          - link "346":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_cli.py#L346
+        - cell
+      - row "347 def test_flaskgroup_app_context(runner):":
+        - cell "347":
+          - link "347":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_cli.py#L347
+        - cell "def test_flaskgroup_app_context(runner):":
+          - text: def test_
+          - mark: flask
+          - text: "group_app_context(runner):"
+      - row "348 def create_app():":
+        - cell "348":
+          - link "348":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_cli.py#L348
+        - cell "def create_app():":
+          - generic: "def create_app():"
+      - row:
+        - cell
+      - row "364 @pytest.mark.parametrize(\"set_debug_flag\", (True, False))":
+        - cell "364":
+          - link "364":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_cli.py#L364
+        - cell "@pytest.mark.parametrize(\"set_debug_flag\", (True, False))":
+          - generic: "@pytest.mark.parametrize(\"set_debug_flag\", (True, False))"
+      - row "365 def test_flaskgroup_debug(runner, set_debug_flag):":
+        - cell "365":
+          - link "365":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_cli.py#L365
+        - cell "def test_flaskgroup_debug(runner, set_debug_flag):":
+          - text: def test_
+          - mark: flask
+          - text: "group_debug(runner, set_debug_flag):"
+      - row "366 def create_app():":
+        - cell "366":
+          - link "366":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_cli.py#L366
+        - cell "def create_app():":
+          - generic: "def create_app():"
+  - link "Show 1 more match":
+    - /url: "#"
+    - text: Show 1 more match
+  - button "Collapse pallets/flask · tests/test_helpers.py":
+  - generic "pallets/flask · tests/test_helpers.py":
+    - link "tests/test_helpers.py":
+      - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_helpers.py#L192
+  - list:
+    - generic "Python language": Python
+    - generic: ·
+    - generic: "1"
+    - generic: (1)
+  - table:
+    - rowgroup:
+      - row "189 class MyAborter(werkzeug.exceptions.Aborter):":
+        - cell "189":
+          - link "189":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_helpers.py#L189
+        - cell "class MyAborter(werkzeug.exceptions.Aborter):":
+          - generic: "class MyAborter(werkzeug.exceptions.Aborter):"
+      - row "190 pass":
+        - cell "190":
+          - link "190":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_helpers.py#L190
+        - cell "pass":
+          - generic: pass
+      - row "191":
+        - cell "191":
+          - link "191":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_helpers.py#L191
+        - cell
+      - row "192 class MyFlask(flask.Flask):":
+        - cell "192":
+          - link "192":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_helpers.py#L192
+        - cell "class MyFlask(flask.Flask):":
+          - text: class My
+          - mark: Flask
+          - text: "(flask.Flask):"
+      - row "193 aborter_class = MyAborter":
+        - cell "193":
+          - link "193":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_helpers.py#L193
+        - cell "aborter_class = MyAborter":
+          - generic: aborter_class = MyAborter
+      - row "194":
+        - cell "194":
+          - link "194":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_helpers.py#L194
+        - cell
+      - row "195 app = MyFlask(__name__)":
+        - cell "195":
+          - link "195":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_helpers.py#L195
+        - cell "app = MyFlask(__name__)":
+          - generic: app = MyFlask(__name__)
+  - button "Collapse pallets/flask · tests/test_templating.py":
+  - generic "pallets/flask · tests/test_templating.py":
+    - link "tests/test_templating.py":
+      - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_templating.py#L406
+  - list:
+    - generic "Python language": Python
+    - generic: ·
+    - generic: "2"
+    - generic: (2)
+  - table:
+    - rowgroup:
+      - row "405 def test_custom_template_loader(client):":
+        - cell "405":
+          - link "405":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_templating.py#L405
+        - cell "def test_custom_template_loader(client):":
+          - generic: "def test_custom_template_loader(client):"
+      - row "406 class MyFlask(flask.Flask):":
+        - cell "406":
+          - link "406":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_templating.py#L406
+        - cell "class MyFlask(flask.Flask):":
+          - text: class My
+          - mark: Flask
+          - text: "(flask.Flask):"
+      - row "407 def create_global_jinja_loader(self):":
+        - cell "407":
+          - link "407":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_templating.py#L407
+        - cell "def create_global_jinja_loader(self):":
+          - generic: "def create_global_jinja_loader(self):"
+      - row:
+        - cell
+      - row "527":
+        - cell "527":
+          - link "527":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_templating.py#L527
+        - cell
+      - row "528 class CustomFlask(flask.Flask):":
+        - cell "528":
+          - link "528":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_templating.py#L528
+        - cell "class CustomFlask(flask.Flask):":
+          - text: class Custom
+          - mark: Flask
+          - text: "(flask.Flask):"
+      - row "529 jinja_environment = CustomEnvironment":
+        - cell "529":
+          - link "529":
+            - /url: /pallets/flask/blob/d73fa1cdcbd8b1465c151db8924ba58b1dd14e35/tests/test_templating.py#L529
+        - cell "jinja_environment = CustomEnvironment":
+          - generic: jinja_environment = CustomEnvironment

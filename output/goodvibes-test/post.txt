@@ -1,0 +1,9 @@
+I tested GoodVibes in Chrome on X’s Following feed with one rule: “Posts about satellites and space-based computing.”
+
+It collapsed Google’s Project Suncatcher post about sending TPUs into orbit. Nearby posts about DevDay and Tesla remained visible.
+
+“Show” brought the Google post back; “Hide again” collapsed it. The screenshots show both states, using Collapsed mode and Balanced sensitivity.
+
+The filter explains why it hid a post and lets you undo it. This was a small functional test, not a measure of accuracy across a whole feed.
+
+Classification sends post text to GoodVibes/TypeSafe servers. I used public posts and enabled it only for X.

@@ -1,0 +1,120 @@
+{
+  "source_topic": "Maextro V800 brake-pedal bracket failure in Dongchedi tests",
+  "format": "standalone",
+  "destination_account": "@LeoGuoLabs",
+  "state": "publicly_verified",
+  "authorization": "Requested research and X post; final content review required by AGENTS.md",
+  "final_text": "Brake safety is the baseline for any carmaker.\n\nDongchedi reported broken brake-pedal brackets on all three Maextro V800s it tested during repeated emergency stops from 100 km/h. Maextro calls the conditions non-standard and extreme, says no such failures have occurred in customer use, and has promised design improvements and free upgrades.\n\nMistakes can happen as an industry develops. But safety is non-negotiable. Owners deserve a transparent investigation, independent retesting and a clear fix.\n\nhttps://carnewschina.com/2026/10/09/huawei-jacs-maextro-responds-to-brake-pedal-failure-of-its-150k-usd-car/",
+  "image_paths": [
+    "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/maextro-v800-brake-safety-20261009/english-report.jpg"
+  ],
+  "video_paths": [
+    "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/maextro-v800-brake-safety-20261009/test-video.mp4"
+  ],
+  "media_order": [
+    "english-report.jpg",
+    "test-video.mp4"
+  ],
+  "sources": [
+    {
+      "url": "https://www.thepaper.cn/newsDetail_forward_34214012",
+      "publisher": "The Paper",
+      "date": "2026-10-08",
+      "supports": "Three V800 test vehicles; official design optimization and free upgrade statement"
+    },
+    {
+      "url": "https://www.sina.cn/news/detail/5351854106217916.html",
+      "publisher": "Maextro official verified Weibo content syndicated by Sina",
+      "date": "2026-10-08",
+      "supports": "Official full statement; no customer-use bracket fractures claimed; non-standard extreme conditions; improvements and free upgrade option"
+    },
+    {
+      "url": "https://carnewschina.com/2026/10/09/huawei-jacs-maextro-responds-to-brake-pedal-failure-of-its-150k-usd-car/",
+      "publisher": "CarNewsChina",
+      "date": "2026-10-09",
+      "supports": "English article, authentic screenshot, mirrored Dongchedi footage",
+      "caution": "Translation of development standards appears inaccurate; do not rely on numeric forces or inferred definitive root cause from this article"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=LrhPClBF3R8",
+      "publisher": "CarNewsChina",
+      "date": "2026-10-08",
+      "supports": "19m09s Dongchedi test footage mirror; no English subtitles available"
+    }
+  ],
+  "verification_notes": [
+    "Fresh complete footage downloaded for this task from CarNewsChina YouTube mirror; first-party file not recovered. Only container remux performed; all frames, duration, watermarks and audio preserved.",
+    "Official claim about no customer-use failures is attributed, not independently verified.",
+    "Do not claim formal regulatory defect determination, confirmed recall, force threshold violation or definitive structural root cause.",
+    "Authenticated X session visibly confirmed @LeoGuoLabs."
+  ],
+  "actual_url": "https://x.com/LeoGuoLabs/status/2108417211870445980",
+  "preparation_checks": {
+    "full_decode": "passed",
+    "duration_seconds": 1149.852154,
+    "resolution": "1280x720",
+    "codecs": "H.264/AAC",
+    "media_bytes": 191628343,
+    "sha256": "1681768023b28de1af48b844e62b3d21c9f365f3ee86f28ee0257f74180c0f81",
+    "frame_inspection": "beginning, nine distributed frames and end inspected",
+    "english_subtitles": "none available on sourced video",
+    "source_video": "CarNewsChina mirror of Dongchedi footage; original visible watermarks retained",
+    "composer": "Complete text, English image with ALT, and full video accepted; video Ready; Post enabled",
+    "image_alt_entered": true,
+    "image_sha256": "f7701b9588b4412c55eeb95d5ab336c160c957233cf46d6459eec6ab07ba7084",
+    "final_text_sha256": "6f940c7167cc821ff473721d6301f296eb07d7cdc235869f013f9b70884b5c7e",
+    "full_decode_log_bytes": 0,
+    "draft_video_playback": "Observed progressing from 0.469s to 134.893s with readyState 4; paused after check. This proves draft/local playback only."
+  },
+  "updated_at": "2026-10-09T04:43:48.080486+00:00",
+  "evidence_paths": [
+    "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/maextro-v800-brake-safety-20261009/english-report-original.jpg",
+    "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/maextro-v800-brake-safety-20261009/official-statement-original.jpg",
+    "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/maextro-v800-brake-safety-20261009/composer-ready.jpg",
+    "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/maextro-v800-brake-safety-20261009/download-verification.json",
+    "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/maextro-v800-brake-safety-20261009/final-video-probe.json",
+    "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/maextro-v800-brake-safety-20261009/final-decode.log",
+    "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/maextro-v800-brake-safety-20261009/frame-contact-sheet.jpg"
+  ],
+  "review_authorization": {
+    "user_text": "确认发布",
+    "received_date": "2026-10-09",
+    "scope": "Exact reviewed English copy, English report screenshot and complete test video; standalone post on @LeoGuoLabs"
+  },
+  "submission_attempt_at": "2026-10-09T04:40:26.054926+00:00",
+  "submitted_at": "2026-10-09T04:40:38.090888+00:00",
+  "public_verification": {
+    "verified_at": "2026-10-09T04:43:48.080310+00:00",
+    "actual_url": "https://x.com/LeoGuoLabs/status/2108417211870445980",
+    "account": "@LeoGuoLabs",
+    "format": "standalone",
+    "complete_reviewed_body_matches": true,
+    "media_count": 2,
+    "media_order": [
+      "English report screenshot",
+      "complete test video"
+    ],
+    "image_full_view": "Readable complete image inspected on actual post photo/1; ALT retained",
+    "report_link_target_verified": "https://carnewschina.com/2026/10/09/huawei-jacs-maextro-responds-to-brake-pedal-failure-of-its-150k-usd-car/",
+    "video_playback": [
+      {
+        "currentTime": 0,
+        "readyState": 0,
+        "paused": true
+      },
+      {
+        "currentTime": 71.752591,
+        "duration": 1149.866,
+        "error": null,
+        "paused": false,
+        "readyState": 4
+      }
+    ],
+    "video_error": null,
+    "duration_seconds": 1149.866,
+    "proof_images": [
+      "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/maextro-v800-brake-safety-20261009/public-video-playing.jpg",
+      "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/maextro-v800-brake-safety-20261009/public-image-verified.jpg"
+    ]
+  }
+}

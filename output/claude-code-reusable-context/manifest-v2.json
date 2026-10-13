@@ -1,0 +1,84 @@
+{
+  "format": "standalone post with one directly attached video",
+  "account": "@LeoGuoLabs",
+  "post_file": "post-v1.txt",
+  "post_characters": 538,
+  "post_sha256": "f72f7ed89f68538c8648bdfde383f079923e0adf8c3760306856dd85307bc26a",
+  "composer_characters_remaining": 24462,
+  "media": [
+    {
+      "name": "original-video.mp4",
+      "url": "https://video.twimg.com/amplify_video/2106712535671955456/vid/avc1/1920x1080/6PyBb1KB5-b7Q6h5.mp4?tag=29",
+      "bytes": 236715151,
+      "sha256": "532aa7bcbd7351a99444b04a796da2c9941918af8dc153d5e7a388fdc91e7ca7",
+      "file": "original-video.mp4",
+      "duration_seconds": 1672.440454,
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "44100",
+          "channels": 2,
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "edited": false
+    }
+  ],
+  "verification": {
+    "byte_ranges": "Every chunk verified against requested Content-Range and byte count",
+    "full_decode": "Passed, exit 0, no errors",
+    "visual_qa": "Eight sampled frames inspected across the talk and closing Q&A"
+  },
+  "browser": {
+    "id": "2",
+    "url": "https://x.com/compose/post",
+    "upload_status": "Ready",
+    "post_button_enabled": true,
+    "preview_playback": {
+      "verified": true,
+      "advanced_to_seconds": 30.642399,
+      "duration_seconds": 1672.440454,
+      "error": null,
+      "paused_at_end": true
+    },
+    "preview_image": "publication-preview-v2.jpg",
+    "full_composer_text_screenshot": "research/composer-text-full-v2.jpg",
+    "full_composer_video_screenshot": "research/composer-video-full-v2.jpg",
+    "discarded_preview": {
+      "file": "video-ready-preview-v3.jpg",
+      "reason": "Clipped screenshot rendering artifact; do not use for review."
+    }
+  },
+  "publication": {
+    "status": "public_verified",
+    "url": "https://x.com/LeoGuoLabs/status/2107146650636718428",
+    "published_local_time": "2026-10-06 00:31 Asia/Singapore",
+    "approval": "User said 发布 after reviewing full English text and original video",
+    "format": "standalone post with direct video attachment",
+    "account": "@LeoGuoLabs",
+    "complete_text_verified": true,
+    "native_video_count": 1,
+    "video_duration_seconds": 1672.466,
+    "playback_current_time_seconds": 385.765319,
+    "playback_paused": false,
+    "playback_ready_state": 4,
+    "playback_error": null,
+    "proof": "published-post-v2.jpg",
+    "full_screenshot": "research/published-full-v1.jpg",
+    "proof_originals": [
+      "research/published-top-native-v2.jpg",
+      "research/published-bottom-native-v3.jpg"
+    ],
+    "discarded_proof": "published-post-v1.jpg: browser full-page screenshot rendering defect"
+  }
+}

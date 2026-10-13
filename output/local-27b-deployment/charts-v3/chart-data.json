@@ -1,0 +1,26 @@
+{
+  "model": "Qwen3.6-27B",
+  "files": {"Q4_K_M":16.8,"Q5_K_M":19.5,"Q8_0":28.6},
+  "file_source":"https://huggingface.co/unsloth/Qwen3.6-27B-GGUF/tree/main",
+  "concurrency": {
+    "requests":[1,2,4], "aggregate_tps":[97.3,163.6,255.9], "per_stream_tps":[97.3,82.4,65.6],
+    "hardware":"2x RTX 3090, Ryzen 7 9800X3D, 64GB DDR5-5200, PCIe 4 x8/x8, no NVLink",
+    "model":"cyankiwi/Qwen3.6-27B-AWQ-BF16-INT4",
+    "runtime":"vLLM 0.21.0, MTP-2, FP8 KV cache",
+    "workload":"Structured JSON, approximately 25 input tokens, max_tokens approximately 1024, thinking disabled",
+    "date":"2026-05-26",
+    "source":"https://github.com/Ruashots/qwen3.6-27b-dual-3090-vllm-lxc/blob/main/bench/results.md"
+  },
+  "context": {
+    "depth_tokens":[0,32768,65536,131072,262144],
+    "pp512_tps":[799.12,187.59,109.67,55.49,26.99],
+    "tg256_tps":[17.46,9.51,8.24,6.12,4.27],
+    "pp_error":[2.35,4.23,0.43,1.08,0.50],
+    "tg_error":[0.32,0.16,0.11,0.08,0.01],
+    "hardware":"Apple M5 Max, 128GB unified memory",
+    "model":"Qwen3.6-27B Q8_0 GGUF, 26.62 GiB",
+    "runtime":"llama.cpp, Metal, ngl99, flash attention on, Q8_0 K/V cache, 6 threads, 3 repetitions",
+    "date":"2026-08-18",
+    "source":"https://github.com/ggml-org/llama.cpp/discussions/12985"
+  }
+}

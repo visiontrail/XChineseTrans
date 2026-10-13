@@ -1,0 +1,7 @@
+Google is testing a newer Gemini 4 build while most developers are still waiting for Argon.
+
+Business Insider reports that “Carbon” is running inside Jetski, Google’s internal coding tool. One employee said it “feels like Opus 5.5” for coding, but also said they needed to test it more.
+
+Encouraging, but still an early impression. It’s unclear whether Carbon will ship as an Argon update or a separate model.
+
+More competition in coding agents is welcome. I care about the patch that passes the tests and needs less cleanup.

@@ -1,0 +1,11 @@
+Sonnet 5.5’s low token price can hide an expensive Max-effort run.
+
+API pricing is $2 per million input tokens and $10 per million output tokens. Anthropic reports 30%+ faster output generation and up to 30% lower task costs than Sonnet 5 in its testing.
+
+The trade-off changes with effort. In Artificial Analysis’ published evaluation, Sonnet 5.5 (Max) scored 64% on Terminal-Bench 4.0, versus 60% for Opus 5.5 (Max). That lead is specific to this benchmark and evaluation setup. AA ran these tests with fallback enabled, so some requests could be handled by another Claude model.
+
+Across the AA Intelligence Index, Sonnet 5.5 (Max) used about 193k output tokens per task—roughly 60% more than Opus 5.5 (Max). AA’s weighted average task cost was $7.60 versus $5.98. The attached chart shows token use; the dollar figures come from AA’s separate cost metric.
+
+My practical take: start at Medium for well-defined work. Increase effort when a harder task needs it, and measure correctness, elapsed time, and total cost. Make Max earn its place in the workflow.
+
+These launch results used a pre-release Sonnet deployment with a since-fixed structured-output bug; AA says it will rerun relevant evaluations.

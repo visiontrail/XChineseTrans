@@ -1,0 +1,7 @@
+Anthropic warns that GLM-5.3 can build working cyber exploits and that its safeguards are easy to bypass.
+In its sandboxed ExploitBench tests, GLM-5.3 reached 12% success versus 14% for Claude Mythos Preview.
+
+The safety concerns deserve attention.
+But the same report shows an open-weight model approaching a restricted Claude model on these specific tests.
+That is a meaningful sign of how far open models have come.
+For a security warning, it also reads like free advertising for GLM.

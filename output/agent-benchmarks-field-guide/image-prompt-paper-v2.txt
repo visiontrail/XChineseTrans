@@ -1,0 +1,9 @@
+Use case: precise-object-edit / background material change.
+Image 1 is the EDIT TARGET: the latest simple green-and-gold English infographic with modern sans-serif typography.
+Image 2 is a BACKGROUND MATERIAL REFERENCE ONLY: use its warm off-white paper color and subtle delicate paper fibers/grain. Do not copy its layout, red lines, icons, dark typography or rectangular outer border.
+
+Edit ONLY the background of Image 1. Replace its fairly saturated flat yellow canvas with natural warm ivory uncoated paper like Image 2. A light neutral warm cream close to #FDFBF7, with extremely fine low-contrast visible paper grain and subtle organic fiber variation. The impression is a clean, tactile sheet of quality paper, gently warm rather than yellow. Texture should be as restrained as the reference and never compete with text. Even diffuse illumination, no visible lighting gradient, no vignette, no spotlight/glow, no pronounced mottling, wrinkles, stains, aging or torn edges.
+
+Preserve the complete Image 1 layout, margins, type sizes, line breaks, plain numbering, straight section rules, modern SANS-SERIF fonts, forest-green text and muted dark-gold emphasis. Preserve all eight names, versions, descriptions, title, subtitle, footer and small LeoGuoLabs signature exactly. Do not restore serif fonts or add any icons, boxes, cards, frames, leaves, decorative motifs or extra text. Keep typography crisp and ink-like with flat green and gold colors. Preserve portrait 2:3 dimensions.
+
+Critical distinction: natural fine paper texture is wanted; designed color gradients and a flat saturated yellow slab are not. Change only the background material and base tone.

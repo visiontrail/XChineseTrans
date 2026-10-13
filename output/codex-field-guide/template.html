@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="A practical Codex guide by LeoGuoLabs: start a useful task, set clear instructions, choose a workspace, and verify the result.">
+<title>Codex: A Practical Guide to Getting Real Work Done — LeoGuoLabs</title>
+$for(css)$<link rel="stylesheet" href="$css$">$endfor$
+</head>
+<body>
+<header class="masthead"><span class="brand">LeoGuoLabs</span><span class="edition">Field notes · September 2026</span></header>
+<div class="layout">
+<nav class="contents" aria-label="Article contents"><div class="label">Inside this guide</div>$toc$<div class="download"><a href="article.md">Markdown source ↗</a></div></nav>
+<main><article>$body$</article></main>
+</div>
+<footer class="footer"><span>LeoGuoLabs · Practical AI, with evidence.</span><span>Original illustrations · Annotated author screenshots</span></footer>
+<dialog id="image-viewer" aria-label="Full-size article image">
+<div class="image-toolbar"><span id="image-title">Image preview</span><div><button type="button" id="image-size" aria-pressed="false">Actual size</button><button type="button" id="image-close" autofocus>Close ×</button></div></div>
+<div class="image-stage"><img id="image-preview" alt=""></div>
+</dialog>
+<script>
+(() => {
+ const dialog = document.getElementById('image-viewer');
+ const picture = document.getElementById('image-preview');
+ const size = document.getElementById('image-size');
+ let origin;
+ const openImage = (image) => {
+   origin = image;
+   picture.src = image.src;
+   picture.alt = image.alt;
+   document.getElementById('image-title').textContent = image.alt;
+   dialog.classList.remove('actual-size');
+   size.setAttribute('aria-pressed', 'false');
+   size.textContent = 'Actual size';
+   dialog.showModal();
+   document.body.classList.add('image-open');
+ };
+ document.querySelectorAll('article img').forEach((image) => {
+   image.tabIndex = 0;
+   image.setAttribute('role', 'button');
+   image.setAttribute('aria-label', 'Enlarge: ' + image.alt);
+   image.title = 'Click to enlarge';
+   image.addEventListener('click', () => openImage(image));
+   image.addEventListener('keydown', (event) => {
+     if (event.key === 'Enter' || event.key === ' ') { event.preventDefault(); openImage(image); }
+   });
+ });
+ document.getElementById('image-close').addEventListener('click', () => dialog.close());
+ size.addEventListener('click', () => {
+   const actual = dialog.classList.toggle('actual-size');
+   size.setAttribute('aria-pressed', String(actual));
+   size.textContent = actual ? 'Fit to window' : 'Actual size';
+ });
+ dialog.addEventListener('close', () => {
+   document.body.classList.remove('image-open');
+   if (origin) origin.focus({preventScroll:true});
+ });
+})();
+</script>
+</body>
+</html>

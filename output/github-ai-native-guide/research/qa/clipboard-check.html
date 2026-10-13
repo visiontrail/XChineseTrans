@@ -1,0 +1,13 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><title>Local clipboard verification</title>
+<h1>Local clipboard verification</h1><p>This local-only QA page compares the prompt just copied from the article. It does not send clipboard content anywhere.</p>
+<button id="check">Check the copied prompt</button><p id="result" role="status">Ready</p>
+<script>
+document.getElementById('check').addEventListener('click',async()=>{
+ try {
+  const text=await navigator.clipboard.readText();
+  const reference=await fetch('../../article.md').then(r=>r.text());
+  const prompt=reference.match(/### Prompt 01[^\n]*\n\n~~~prompt\n([\s\S]*?)\n~~~/)[1].trimEnd();
+  document.getElementById('result').textContent=text===prompt?'PASS: copied content exactly matches Prompt 01.':'No match; clipboard length '+text.length+'.';
+ } catch(error) { document.getElementById('result').textContent='Clipboard read unavailable: '+error.name; }
+});
+</script></html>

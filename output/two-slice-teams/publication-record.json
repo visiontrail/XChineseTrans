@@ -1,0 +1,76 @@
+{
+  "account": "@LeoGuoLabs",
+  "format": "standalone",
+  "source_supplied": "https://x.com/Michaelzsguo/status/2108697102012309804",
+  "original_video_source": "https://x.com/lennysan/status/2108652242215878775",
+  "primary_article": "https://every.to/chain-of-thought/the-two-slice-team",
+  "official_talk": "https://www.youtube.com/watch?v=DqF08Dz3nok",
+  "text": "Two pizzas used to define a small software team. Dan Shipper's AI-era heuristic for an exploratory lab is two slices: one or two people.\n\nHis ideal pairing is a pirate and an architect. The pirate uses AI to try ideas fast, discard the duds, and find something useful. The architect turns the promising mess into a coherent system you can maintain and extend.\n\nI like this pairing. When prototypes get cheaper, judgment matters more: what deserves to survive, and what needs proper engineering before anyone relies on it?",
+  "selected_media": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/two-slice-teams/video-upload-30fps.mp4",
+  "media": [
+    {
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/two-slice-teams/original-video-complete.mp4",
+      "bytes": 48696251,
+      "sha256": "ca955a6b761af92f6dfc8d50848e6c0a882801b7f176f025b587e9e4580f0cfa"
+    },
+    {
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/two-slice-teams/video-upload-30fps.mp4",
+      "bytes": 38180232,
+      "sha256": "5f34700a9c83d5b7adab868c4234f632593b24051503bea73ba48912a7763ec0"
+    },
+    {
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/two-slice-teams/video-upload-720p.mp4",
+      "bytes": 6719886,
+      "sha256": "e353b30605ce4810605a7a4d1609648ab7ce947f83dde7adc473c39b52b01c58"
+    }
+  ],
+  "duration_seconds": 67.285333,
+  "source_resolution": [
+    1920,
+    1080
+  ],
+  "selected_resolution": [
+    1920,
+    1080
+  ],
+  "selected_fps": 30,
+  "audio_preserved": true,
+  "audio_packet_sha256": "cb7dd9181344b50194ec38986104b0d7036de60e0cb48f247b38be0a6ffd9c8d",
+  "checks": {
+    "all_ranges_verified": true,
+    "original_complete_decode_errors": 0,
+    "1080p_complete_decode_errors": 0,
+    "720p_complete_decode_errors": 0,
+    "beginning_middle_end_frames_inspected": true,
+    "composer_text_accepted": true,
+    "composer_upload_ready": true,
+    "composer_local_video_ready_state": 4,
+    "public_playback_verified": true,
+    "public_text_matches_approved": true,
+    "public_video_count": 1,
+    "public_playback_progress_seconds": [
+      45.013211,
+      53.286809
+    ],
+    "public_video_error": null
+  },
+  "state": "publicly_verified",
+  "authorization": {
+    "content_approved": true,
+    "direct_publish_waiver": false,
+    "approval_message": "确认发布",
+    "approved_at": "2026-10-10T06:10:23.440370+00:00"
+  },
+  "blockers": [],
+  "publication_submitted": true,
+  "published_url": "https://x.com/LeoGuoLabs/status/2108804240588394844",
+  "updated_at": "2026-10-10T06:20:22.199195+00:00",
+  "browser": "Ego Lite native UI",
+  "session_verified_account": "@LeoGuoLabs",
+  "initial_published_url": "https://x.com/LeoGuoLabs/status/2108803738060357754",
+  "correction": "Native input omitted punctuation; restored exact approved text through X Edit post in built-in browser.",
+  "public_verification_evidence": [
+    "public-verification.jpg",
+    "public-verification.json"
+  ]
+}

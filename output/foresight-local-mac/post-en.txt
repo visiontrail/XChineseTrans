@@ -1,0 +1,9 @@
+Google made a free meeting assistant for Mac, and the part I like is that the AI runs on your own machine.
+
+Foresight is an experimental app optimized for Apple Silicon. Jot down a few rough bullets and it uses the live transcript to fill in the details. Add your project files and it can surface relevant answers with citations while you're still in the meeting.
+
+EmbeddingGemma 2 handles retrieval; Gemma 4 generates the answers. Google says the AI works offline and keeps meeting audio, notes and imported files on your Mac, with no cloud subscription.
+
+Being able to pull up the right project detail mid-call could save a lot of awkward “I'll get back to you” moments. That's a use of local AI I can get behind.
+
+https://developers.google.com/edge/foresight

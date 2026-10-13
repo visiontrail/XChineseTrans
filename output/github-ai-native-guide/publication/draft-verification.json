@@ -1,0 +1,132 @@
+{
+  "title_matches": true,
+  "source_unchanged": true,
+  "expected_text_blocks": 161,
+  "observed_text_blocks": 161,
+  "text_and_order_match": true,
+  "headings": [
+    "1. Give the agent a working agreement",
+    "2. Understand the places an agent moves your work",
+    "3. Let the agent prepare the environment",
+    "4. Ask for a repository assessment before adoption",
+    "5. Have the agent explain one behavior through the code",
+    "6. Create the practice project through one request",
+    "7. Give each change an identifiable place to live",
+    "8. Delegate the edit, staging, and commit as one bounded task",
+    "9. Ask the agent to prove both success and failure",
+    "10. Publish a branch and prepare a reviewable PR",
+    "11. Make review and synchronization agent tasks too",
+    "12. Have the agent finish review, automation, and delivery",
+    "13. Ask for recovery in terms of the state you want",
+    "14. Delegate diagnosis without guessing the repair",
+    "15. Use prompts for the surrounding GitHub work",
+    "16. Give the whole local learning loop to the agent"
+  ],
+  "prompt_blocks": 28,
+  "inline_image_count": 11,
+  "image_order_and_placement_match": true,
+  "inline_alt_text_matches": true,
+  "links": [
+    {
+      "href": "https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F",
+      "text": "snapshot model"
+    },
+    {
+      "href": "https://git-scm.com/docs/git-fetch",
+      "text": "fetch documentation"
+    },
+    {
+      "href": "https://docs.github.com/en/get-started/git-basics/caching-your-github-credentials-in-git",
+      "text": "credential-manager route"
+    },
+    {
+      "href": "https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent",
+      "text": "SSH setup"
+    },
+    {
+      "href": "https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-authentication-to-github",
+      "text": "authentication methods"
+    },
+    {
+      "href": "https://docs.github.com/en/search-github/searching-on-github/searching-for-repositories",
+      "text": "Repository search"
+    },
+    {
+      "href": "https://docs.github.com/en/search-github/github-code-search/understanding-github-code-search-syntax",
+      "text": "code search"
+    },
+    {
+      "href": "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository",
+      "text": "licensing guide"
+    },
+    {
+      "href": "https://github.com/pallets/flask/pull/6013/changes",
+      "text": "actual diff"
+    },
+    {
+      "href": "https://git-scm.com/docs/git-diff",
+      "text": "diff comparisons"
+    },
+    {
+      "href": "https://git-scm.com/docs/git-worktree",
+      "text": "worktree documentation"
+    },
+    {
+      "href": "https://git-scm.com/docs/git-merge",
+      "text": "merge"
+    },
+    {
+      "href": "https://git-scm.com/docs/git-rebase",
+      "text": "rebase"
+    },
+    {
+      "href": "https://docs.github.com/en/pull-requests/how-tos/work-with-forks/syncing-a-fork",
+      "text": "fork synchronization"
+    },
+    {
+      "href": "https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages",
+      "text": "Pages behavior"
+    },
+    {
+      "href": "https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site",
+      "text": "publishing-source configuration"
+    },
+    {
+      "href": "https://git-scm.com/docs/git-restore",
+      "text": "restore"
+    },
+    {
+      "href": "https://git-scm.com/docs/git-stash",
+      "text": "stash"
+    },
+    {
+      "href": "https://git-scm.com/docs/git-revert",
+      "text": "revert"
+    },
+    {
+      "href": "https://git-scm.com/docs/git-reset",
+      "text": "reset"
+    },
+    {
+      "href": "https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github",
+      "text": "large-file limits"
+    },
+    {
+      "href": "https://docs.github.com/en/code-security/tutorials/remediate-leaked-secrets/remediating-a-leaked-secret",
+      "text": "leaked-secret remediation guidance"
+    },
+    {
+      "href": "https://docs.github.com/en/get-started/learning-about-github/githubs-plans",
+      "text": "plan details"
+    },
+    {
+      "href": "https://docs.github.com/en/billing/concepts/product-billing/github-codespaces",
+      "text": "Codespaces billing"
+    },
+    {
+      "href": "https://docs.github.com/en/billing/concepts/product-billing/github-actions",
+      "text": "Actions billing"
+    }
+  ],
+  "published": false
+}

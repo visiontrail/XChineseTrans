@@ -1,0 +1,7 @@
+A useful way to picture Codex projects vs. Claude's redesigned Projects: a forum section vs. a Slack channel.
+
+In Codex, a project feels like a forum section: a home for related tasks, with separate conversations you can start and revisit.
+
+Claude's new design feels more like a channel with an AI coordinator. Bring requests to the main project chat, and Claude routes work into new or existing threads, reviews the outputs, and brings the results together. Those threads also share project memory.
+
+The part I find interesting is how much organizing you have to do before the AI can get on with the work. A good project interface should make it easier to keep moving as new ideas and tasks come up.

@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {
+    "title": "The agent follows the change all the way through",
+    "subtitle": "Each stage returns a distinct piece of evidence.",
+    "viewBox": [
+      1000,
+      520
+    ]
+  },
+  "components": [
+    {
+      "id": "push",
+      "label": "Push branch",
+      "sublabel": "Remote head matches intent",
+      "pos": [
+        50,
+        80
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "cloud"
+    },
+    {
+      "id": "pr",
+      "label": "Open pull request",
+      "sublabel": "Correct base + head",
+      "pos": [
+        375,
+        80
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "security"
+    },
+    {
+      "id": "review",
+      "label": "Review + checks",
+      "sublabel": "Evidence for this revision",
+      "pos": [
+        700,
+        80
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "security"
+    },
+    {
+      "id": "merge",
+      "label": "Merge approved revision",
+      "sublabel": "Observed base-branch result",
+      "pos": [
+        700,
+        300
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "database"
+    },
+    {
+      "id": "deploy",
+      "label": "Publish the artifact",
+      "sublabel": "Deployment run + revision",
+      "pos": [
+        375,
+        300
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "cloud"
+    },
+    {
+      "id": "verify",
+      "label": "Open the actual URL",
+      "sublabel": "Observe content + links",
+      "pos": [
+        50,
+        300
+      ],
+      "size": [
+        250,
+        78
+      ],
+      "type": "backend"
+    }
+  ],
+  "connections": [
+    {
+      "from": "push",
+      "to": "pr",
+      "variant": "emphasis",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "from": "pr",
+      "to": "review",
+      "variant": "emphasis",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "from": "review",
+      "to": "merge",
+      "variant": "emphasis",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "from": "merge",
+      "to": "deploy",
+      "variant": "emphasis",
+      "fromSide": "left",
+      "toSide": "right"
+    },
+    {
+      "from": "deploy",
+      "to": "verify",
+      "variant": "emphasis",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ],
+  "cards": []
+}

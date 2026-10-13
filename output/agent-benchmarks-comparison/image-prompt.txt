@@ -1,0 +1,64 @@
+Use case: infographic-diagram.
+Create ONE English comparison infographic for LeoGuoLabs, portrait 2:3, high resolution. The supplied image is a STYLE REFERENCE ONLY, not content to copy. Preserve its clean modern technical sans-serif, forest-green/dark-gold palette, subtle warm ivory paper background, uncluttered spacing, flat ink-like text and minimal straight rules.
+
+DESIGN: warm ivory #FDFBF7 with extremely fine natural paper fibers like the reference. Mostly light background, no yellow slab or designed gradient. Main text forest green #1A4A3A; restrained dark gold #80601B for the Claude column header and a small title accent. One simple Geist/Inter-like sans-serif family, medium/semibold headings and regular notes, no serif lettering. No leaves, illustrations, icons, cards, badges, shadows, borders around the page, charts, bars, winner symbols or rankings. This must be a clean typeset factual score table. All scores equally weighted; don't visually announce an overall winner.
+
+LAYOUT: modest two-line headline at top, concise subtitle and checked date. Main content is one large 3-column comparison table, benchmark names left, numeric scores aligned in two right columns. About 46% width benchmark / 25% Sol / 29% Opus. Keep long benchmark names readable and use two lines where needed. Under each benchmark, a smaller one-line source/metric label. Eight roomy rows, thin understated green horizontal separators only. Use real % signs and the daggers exactly. Footer has four compact, readable note blocks explaining the important qualifications, and a tiny LeoGuoLabs signature. Content must fit with comfortable margins; no extra text. Make the core table large enough to read on a phone, with the caveats visually quieter but still readable.
+
+EXACT CONTENT:
+Title: "GPT-6 Sol vs Claude Opus 5.5"
+Subtitle: "8 benchmarks · Published scores at max effort"
+Date: "Checked 28 Sep 2026"
+
+Column headings:
+"Benchmark" | "GPT-6 Sol" | "Opus 5.5"
+
+Row 1:
+"Terminal-Bench 4.0"
+"Artificial Analysis · pass@1"
+"43.9%" | "59.6%†"
+
+Row 2:
+"FrontierCode v1.1 Main"
+"Cognition · weighted score"
+"49.3%" | "54.4%"
+
+Row 3:
+"CursorBench 4.0"
+"Cursor · task score"
+"—" | "57.8%"
+
+Row 4:
+"DeepSWE v1.1"
+"OpenAI-reported"
+"68.8%" | "—"
+
+Row 5:
+"OSWorld 2.0*"
+"Vendor reports · partial reward"
+"64.4%" | "81.8%†"
+
+Row 6:
+"AutomationBench 1.0.6"
+"Zapier · strict completion"
+"32.0%" | "42.5%†"
+
+Row 7:
+"GDPval-AA v2.1"
+"Artificial Analysis · Elo"
+"1487 Elo" | "1846 Elo†"
+
+Row 8:
+"Terminal-Bench-Science 0.1"
+"Artificial Analysis · pass@1"
+"30.0%" | "59.0%†"
+
+Footnotes, exact:
+"— No public score found in checked sources."
+"† Default fallback configuration; may use other models."
+"* OSWorld is not a matched comparison: Sol uses offline v2026.08.08; Opus subset/version is unconfirmed."
+"Max effort does not mean equal compute. Agent setups differ; FrontierCode uses Codex vs Claude Code."
+
+Signature: "LeoGuoLabs"
+
+Critical accuracy: Do not substitute GPT-6 Astra or GPT-5.6 Sol. Missing scores must be em dashes, never 0. All values are percentages except the Elo row. All scores reflect max effort, not best observed effort. Do not change 32.0 to33.2 or 59.0 to61.9. The OSWorld comparison caveat and fallback daggers must remain visible. Do not add a combined score or an overall winner. Check the spelling and decimal values meticulously.

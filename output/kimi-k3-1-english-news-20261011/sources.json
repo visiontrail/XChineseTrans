@@ -1,0 +1,24 @@
+{
+  "source_post": "https://x.com/leo114119/status/2109250913701388761",
+  "captured_at": "2026-10-11T14:53:22.926Z",
+  "articles": [
+    {
+      "publisher": "TokenPost",
+      "date": "2026-10-10",
+      "url": "https://www.tokenpost.com/news/technology/29388",
+      "screenshot": "tokenpost-release-summary.jpg",
+      "note": "Article says may be released before mid-October; screenshot of original summary and publication date"
+    },
+    {
+      "publisher": "TechNode",
+      "date": "2026-09-29",
+      "url": "https://technode.com/2026/09/29/kimi-k3-1-identifier-reportedly-surfaces-in-moonshot-api-registry/",
+      "screenshots": [
+        "technode-title.jpg",
+        "technode-body.jpg"
+      ],
+      "note": "Reports API identifier; states no announced formal date as of article publication"
+    }
+  ],
+  "state": "screenshots_prepared"
+}

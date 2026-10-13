@@ -1,0 +1,96 @@
+{
+  "title": "Half Pause Coffee — Take your time",
+  "fps": 30,
+  "duration_frames": 360,
+  "width": 1080,
+  "height": 1920,
+  "frame_indexing": "zero_based_half_open",
+  "audio": {
+    "mode": "silence",
+    "include_audio_stream": false
+  },
+  "shots": [
+    {
+      "id": "one-slow-sip",
+      "start": 0,
+      "end": 360,
+      "purpose": "A continuous, quiet invitation to slow down",
+      "camera": "locked 2D composition",
+      "sound": "silence"
+    }
+  ],
+  "events": [
+    {
+      "id": "first-readable-frame",
+      "frame": 0
+    },
+    {
+      "id": "headline-settled",
+      "frame": 36
+    },
+    {
+      "id": "cup-draw-start",
+      "frame": 90
+    },
+    {
+      "id": "cup-draw-complete",
+      "frame": 204
+    },
+    {
+      "id": "steam-drift-complete",
+      "frame": 258
+    },
+    {
+      "id": "brand-readable",
+      "frame": 288
+    },
+    {
+      "id": "last-frame",
+      "frame": 359
+    }
+  ],
+  "actions": [
+    {
+      "id": "headline-settle",
+      "start_event": "first-readable-frame",
+      "end_event": "headline-settled",
+      "motion": "12px vertical settle, complete text present from first frame",
+      "easing": "smoothstep"
+    },
+    {
+      "id": "cup-contour",
+      "start_event": "cup-draw-start",
+      "end_event": "cup-draw-complete",
+      "motion": "reveal body and handle from established rim by arc length",
+      "easing": "smoothstep"
+    },
+    {
+      "id": "steam-drift",
+      "start_event": "cup-draw-complete",
+      "end_event": "steam-drift-complete",
+      "motion": "two restrained curved strokes drift upward and fade",
+      "easing": "smoothstep"
+    },
+    {
+      "id": "brand-enter",
+      "start_event": "steam-drift-complete",
+      "end_event": "brand-readable",
+      "motion": "whole brand name appears together",
+      "easing": "smoothstep"
+    },
+    {
+      "id": "final-hold",
+      "start_event": "brand-readable",
+      "end_frame_exclusive": 360,
+      "motion": "hold the completed composition"
+    }
+  ],
+  "delivery_intent": {
+    "format": "MP4",
+    "video_codec": "H.264",
+    "pixel_format": "yuv420p",
+    "audio_streams": 0,
+    "editable_project": true
+  },
+  "status": "preproduction_only_not_rendered"
+}

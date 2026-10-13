@@ -1,0 +1,59 @@
+{
+  "topic": "prompt-cache-lifetime",
+  "source_url": "https://x.com/jakevin7/status/2109605283236553163",
+  "source_post_id": "2109605283236553163",
+  "format": "standalone",
+  "destination_account": "@LeoGuoLabs",
+  "state": "publicly_verified",
+  "final_text_path": "post-en-v1.txt",
+  "media_paths": [],
+  "source_media": {
+    "videos": 0,
+    "images": 0,
+    "quote_target": null
+  },
+  "checks": {
+    "source_read_in_original_language": true,
+    "relevant_author_replies_read": true,
+    "live_account_verified": "@LeoGuoLabs",
+    "primary_sources_checked": [
+      "DeepSeek",
+      "OpenAI",
+      "Claude",
+      "Gemini",
+      "Alibaba Model Studio"
+    ],
+    "composer_checked": true,
+    "composer_exact_text": true,
+    "composer_post_enabled": true,
+    "composer_character_count": 1038
+  },
+  "authorization": {
+    "preparation": "bare source link plus project defaults",
+    "publication": {
+      "user_message": "确认发布",
+      "scope": "Exact post-en-v1.txt standalone text post to @LeoGuoLabs",
+      "recorded_at": "2026-10-12T14:39:28.880600+00:00"
+    }
+  },
+  "published_url": "https://x.com/LeoGuoLabs/status/2109655219059699978",
+  "final_text_sha256": "97c3cbc019df78373970302642ef6bead5cef43444eb711cb2a7a29c7c5d347f",
+  "composer_screenshot_path": "composer-review.jpg",
+  "updated_at": "2026-10-12T14:41:13.187775+00:00",
+  "submission": {
+    "confirmed_by": "X toast: Your post was sent.",
+    "submitted_at": "2026-10-12T14:39:45.897333+00:00"
+  },
+  "public_verification": {
+    "verified_at": "2026-10-12T14:41:13.187775+00:00",
+    "account": "@LeoGuoLabs",
+    "exact_approved_text": true,
+    "character_count": 1038,
+    "format": "standalone",
+    "media_count": 0,
+    "quote": false,
+    "evidence_path": "public-verification.json",
+    "screenshot_path": "public-page.jpg",
+    "dom_path": "public-page-dom.txt"
+  }
+}

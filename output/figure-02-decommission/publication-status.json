@@ -1,0 +1,65 @@
+{
+  "account": "LeoGuoLabs",
+  "approved_text_files": [
+    "post-01.txt",
+    "post-02.txt"
+  ],
+  "first_post": {
+    "status": "published_verified",
+    "url": "https://x.com/LeoGuoLabs/status/2105539588848771332",
+    "published_at": "2026-10-01T06:05:31.672Z",
+    "text_matches_approved": true,
+    "native_video_count": 1,
+    "playback": [
+      {
+        "currentTime": 54.727511,
+        "duration": 220.337,
+        "height": 1080,
+        "paused": false,
+        "readyState": 4,
+        "src": "blob:https://x.com/6cfc652d-d6ba-4b4f-a1fd-abb98d755c45",
+        "width": 1920
+      }
+    ],
+    "screenshot": "first-published-post.png"
+  },
+  "second_post": {
+    "status": "published_verified",
+    "scheduled_at": "2026-10-01T06:21:00Z",
+    "timezone": "Asia/Singapore",
+    "scheduled_local": "2026-10-01 14:21",
+    "actual_interval_seconds": 928.328,
+    "schedule_verified": true,
+    "native_video_duration_seconds": 15.14,
+    "screenshot": "second-published-post.png",
+    "public_verification": "complete",
+    "verification_automation": {
+      "id": "figure-02",
+      "kind": "heartbeat",
+      "schedule_local": "2026-10-01 14:22",
+      "purpose": "one-time read-only public verification",
+      "status": "PAUSED"
+    },
+    "url": "https://x.com/LeoGuoLabs/status/2105543483503128749",
+    "published_at": "2026-10-01T06:21:00.000Z",
+    "verified_at": "2026-10-01T06:25:19.389369+00:00",
+    "text_matches_approved": true,
+    "native_video_count": 1,
+    "format": "standalone_post",
+    "playback": [
+      {
+        "currentTime": 1.537534,
+        "duration": 15.209069,
+        "error": null,
+        "height": 954,
+        "paused": false,
+        "readyState": 4,
+        "src": "blob:https://x.com/79d30efd-39d1-48d2-a96c-197ffe7c4cd5",
+        "width": 1920
+      }
+    ],
+    "readback": "research/second-public-readback.json"
+  },
+  "duplicate_guard": "Do not resubmit an uncertain publication; inspect the public profile and exact text first.",
+  "overall_status": "both_posts_published_verified"
+}

@@ -1,0 +1,9 @@
+The cost of giving AI agents a long memory is falling fast.
+
+DeepSeek reports that V4.1 Flash uses just 890 bytes per token for its global KV cache in GPU memory: about 437× smaller than V1, and 4× smaller than V4 Flash. Its public research gives other engineers concrete ideas to study.
+
+API cache reads are getting cheaper too. Opus 5.5 is 60% cheaper than Opus 5; Sonnet 5.5 has halved its launch rate. GPT-6.1 Sol is 50% below GPT-6 Sol—not 80% when comparing those two models.
+
+These are different metrics. Lower API prices alone don't establish that OpenAI or Anthropic adopted DeepSeek's methods. DeepSeek deserves credit for publishing the engineering; claims about who used it still need evidence.
+
+If your agent keeps revisiting the same codebase or documents, cheaper cached context can make a real difference to the bill.

@@ -1,0 +1,26 @@
+{
+  "url": "https://x.com/LeoGuoLabs/status/2107360164630442452",
+  "samples": [
+    [
+      {
+        "currentTime": 6.769405,
+        "duration": 12.855333,
+        "error": null,
+        "paused": false,
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/2107174478845276160/img/QuEMiQF0P2B7UbVp.jpg",
+        "readyState": 4
+      }
+    ],
+    [
+      {
+        "currentTime": 5.296742,
+        "duration": 12.855333,
+        "ended": false,
+        "error": null,
+        "paused": false,
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/2107174478845276160/img/QuEMiQF0P2B7UbVp.jpg",
+        "readyState": 4
+      }
+    ]
+  ]
+}

@@ -1,0 +1,57 @@
+# AI Productivity Needs a Path to Value
+
+AI can make your work faster without changing what the market pays you. The gap is worth understanding before treating every improvement in output as an improvement in opportunity.
+
+My view: productivity matters, but its economic value depends on what happens after the work leaves your desk. Someone has to need it, trust it, use it, and have a reason to pay for it. Inside an organization, someone also has to give it a route into a decision or a deployed system.
+
+![Editorial illustration of an engineering desk connected to a wider network, with completed work waiting to cross a gap.](images/01-cover.png)
+
+## Faster work can still end in the same queue
+
+Imagine an engineer who uses AI to prepare changes much faster. If review capacity, release windows, and customer adoption remain unchanged, the immediate result may be a larger queue of unshipped work. The engineer improved one stage. The full delivery process has a different constraint.
+
+This distinction applies beyond software. A report can be finished sooner and still wait for a decision. A small business can produce more content while reaching the same few buyers. A solo founder can build a product and still struggle to find a problem people will pay to solve.
+
+Time saved is a real benefit. It can buy rest, learning, or room to take on a harder problem. It simply does not guarantee additional income. To make that happen, the saved capacity usually needs somewhere useful to go.
+
+![Conceptual delivery pipeline showing faster production feeding a queue before review, release, and actual use.](images/02-bottleneck.png)
+
+## Your position in the network matters
+
+A role carries more than a workload. It may include access to customers, control of a budget, permission to approve a change, or responsibility for a trusted relationship. Those connections help determine what work gets done and who receives the reward.
+
+Technical competence remains important, especially where quality and failure have consequences. But competence alone does not explain how organizations allocate opportunity. A highly capable person can have little influence over the decisions that would put their work to use.
+
+AI may widen this gap before it closes it. People can gain new capabilities faster than an organization changes its permissions, incentives, and ways of working. That is one reason I would be cautious about drawing a straight line from a stronger model to an immediate redistribution of income or power.
+
+The practical response is to improve both capability and access. Learn the tools, then use some of the time saved to understand a customer's problem, work across a team boundary, or take responsibility for a result that previously required several disconnected handoffs.
+
+## Build connections that carry useful work
+
+More contacts are not automatically more value. The useful connection gives a specific piece of work a path to someone who can benefit from it.
+
+For an engineer, that could mean working directly with the team that operates the system. For a founder, it could mean finding a customer willing to test a small solution. For a writer, it could mean developing enough credibility that readers return when they need to make a decision.
+
+Attention is part of this system. A dramatic AI prediction can attract an audience long before anyone knows whether it is correct. That can create opportunities for the person making it. I would rather build a reputation around useful explanations and evidence that survives inspection. Reach opens a door; dependable work gives people a reason to keep it open.
+
+![Four illustrated stations connect capability, a real need, trust, and delivery, emphasizing connections that help useful work reach someone.](images/03-connections.png)
+
+## Where AI and crypto could meet
+
+This network perspective also makes the intersection of AI and crypto worth examining. AI can help produce work and coordinate actions. Blockchain systems offer mechanisms for recording on-chain ownership and executing programmed transactions. The interesting possibility is that agents could combine useful work with new ways to transact across organizational boundaries.
+
+That remains a design proposition to test. A payment record does not prove that a service was useful. A smart contract cannot independently observe every real-world outcome; external information needs a way to reach it. Ethereum's documentation describes this limitation and the role of [oracles](https://ethereum.org/developers/docs/oracles/).
+
+An agent-based service would still need clear authority, spending limits, reliable verification, and a way to handle failures or disputes. Conventional systems may already solve some of these problems well. The case for a blockchain should rest on what a particular workflow gains from it.
+
+I would judge AI–crypto integration by whether it lets people cooperate more effectively, with acceptable costs and clear responsibility. Claims about inevitable disruption or guaranteed timelines do little to answer that question.
+
+![Conceptual AI and transaction workflow connecting work, verification, authorized payment, and a recipient, with permissions, limits, and disputes called out.](images/04-ai-coordination.png)
+
+## Measure the result beyond your desk
+
+When assessing an AI workflow, I would ask: What constraint did it remove? Who used the extra output? Did quality hold up? Did the time saved lead to a better service, a new customer, or more room to do valuable work?
+
+Keep the answers separate. Producing more, delivering more, and earning more are different outcomes. Each needs its own evidence.
+
+Build the capability. Give it a path to a real need. Verify what changed for the person on the other end.

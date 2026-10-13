@@ -1,0 +1,122 @@
+{
+  "source": "https://x.com/leo114119/status/2108914445741396390",
+  "format": "standalone",
+  "destination": "@LeoGuoLabs",
+  "state": "publicly_verified",
+  "text_file": "post-en-v2.txt",
+  "media": [
+    {
+      "file": "charts-v3/01-configurations-v1.png",
+      "alt": "A Qwen3.6-27B setup guide. Unsloth GGUF file sizes are 16.8 GB for Q4_K_M, 19.5 GB for Q5_K_M, and 28.6 GB for Q8_0. A table gives planning targets for 16, 24 and 32 GB GPUs, dual 24 GB GPUs, and a 64 GB Apple silicon Mac. Runtime memory and context require extra headroom.",
+      "sha256": "aaa49d2ed72792d388779650cb78e8d272d1c70e4dcc47fbfe0dd2abd044af1c"
+    },
+    {
+      "file": "charts-v3/02-concurrency-v1.png",
+      "alt": "A community Qwen3.6-27B AWQ INT4 test on two RTX 3090 GPUs, Ryzen 7 9800X3D and 64 GB RAM. With 1, 2 and 4 requests, aggregate throughput is 97.3, 163.6 and 255.9 tokens per second; per-stream averages are 97.3, 82.4 and 65.6. vLLM 0.21.0 with MTP-2; short JSON prompts, thinking off.",
+      "sha256": "82623f98772ba60c1bfe51c18517aae41da3c20e665b9c2d5882fdce9e75a42c"
+    },
+    {
+      "file": "charts-v3/03-context-speed-v1.png",
+      "alt": "A community Qwen3.6-27B Q8_0 test on an Apple M5 Max with 128 GB unified memory and llama.cpp Metal. Generation speed at populated context depths of 0, 32K, 64K, 128K and 256K is 17.46, 9.51, 8.24, 6.12 and 4.27 tokens per second. Prompt processing falls from 799.12 to 26.99. Separate scales, three repetitions; this is not directly comparable to the dual-GPU test.",
+      "sha256": "653000d49e98c87d06072ef65619d6bf35ec983ed1925bb5ffcee9e12fb00981"
+    }
+  ],
+  "draft_prepared": true,
+  "composer_checked": true,
+  "submitted": true,
+  "public_url": "https://x.com/LeoGuoLabs/status/2109302232751763545",
+  "authorization": "User explicitly approved the final short copy and three charts with 确认发布.",
+  "source_assets": [
+    {
+      "file": "source/source-1.jpg",
+      "sha256": "4f29da5026c8c78f83de88777aaae2ded1cfcda064a3d1f65fbd201b2b4977e5"
+    },
+    {
+      "file": "source/source-2.jpg",
+      "sha256": "727cdb1b83cf9a4fe3b5c1a72032b8e65dae30f4a3582b787d415179d5cc95d7"
+    },
+    {
+      "file": "source/source-3.jpg",
+      "sha256": "65a313683d3ec639fcbb595f0bd6e893b537f01672bc44506cfa187d69933215"
+    },
+    {
+      "file": "source/source-4.jpg",
+      "sha256": "8916fe71a157ce6a190850168995311c212e4ea5cbe61a3d0d7ee6e205a4f99d"
+    }
+  ],
+  "prepared_at": "2026-10-10T21:45:04.023714+08:00",
+  "preparation_checks": {
+    "source_read": true,
+    "chart_data": "charts-v3/chart-data.json",
+    "verification_notes": "charts-v3/verification-notes.txt",
+    "images_visually_inspected": true,
+    "image_text_checked": true,
+    "rendered_with": "matplotlib + Pillow, Inter font",
+    "composer_checked": true,
+    "performance_scope": "Published community test reports, not local measurements; different workloads/quantizers/engines kept separate."
+  },
+  "review_note": "Approved text: post-en-v2.txt. Approved images: three charts in charts-v3, in recorded order; both earlier illustrative images excluded.",
+  "approved_at": "2026-10-10T22:11:46.623671+08:00",
+  "composer_checks": {
+    "account": "@LeoGuoLabs",
+    "exact_text": true,
+    "image_order": [
+      "configuration",
+      "concurrency",
+      "context"
+    ],
+    "image_count": 3,
+    "alt_count": 3
+  },
+  "submission_started_at": "2026-10-10T22:14:41.004467+08:00",
+  "submission_status": "published_and_public_page_verified",
+  "submission_attempts": [
+    {
+      "browser": "Codex built-in browser",
+      "action": "Post button clicked once",
+      "result": "Composer returned to enabled state; no success toast or public URL observed."
+    },
+    {
+      "browser": "Codex built-in browser",
+      "action": "Resumed stale composer; no success result. Reconstructed identical approved text/media/ALT in fresh visible composer, rechecked profile, submitted once.",
+      "result": "New post appeared with actual status ID 2109302232751763545."
+    }
+  ],
+  "browser_handoff": {
+    "old_composer_closed": true,
+    "public_post_kept_open": true
+  },
+  "last_checked_at": "2026-10-10T22:41:42.959882+08:00",
+  "submitted_at": "2026-10-11T23:18:28.461345+08:00",
+  "duplicate_check": {
+    "date": "2026-10-11",
+    "method": "Live profile reviewed through Oct 10 and native account search from:LeoGuoLabs 27B with Latest selected",
+    "result": "No approved three-chart post found; only the separate Qwen4 preview at https://x.com/LeoGuoLabs/status/2108900257656656032."
+  },
+  "public_verification": {
+    "account": "@LeoGuoLabs",
+    "exact_text": true,
+    "format": "standalone",
+    "media_count": 3,
+    "media_order": [
+      "configuration",
+      "concurrency",
+      "context"
+    ],
+    "all_images_visually_checked": true,
+    "images_complete_and_readable": true,
+    "native_alt_descriptions_entered": 3,
+    "public_alt_verified": false,
+    "alt_note": "All three descriptions were entered and composer displayed 3 image descriptions before submission. Public page currently labels images Image without ALT badges, and public mirror metadata does not expose ALT; do not claim public ALT verified. No further edit performed after user requested ending once published.",
+    "evidence": [
+      "public-post.png",
+      "public-photo-1.png",
+      "public-photo-2.png",
+      "public-photo-3.png",
+      "public-page-snapshot.txt",
+      "public-post-metadata.json"
+    ]
+  },
+  "publicly_verified_at": "2026-10-11T23:32:47.042718+08:00",
+  "task_outcome": "Previous identical three-chart post was not found. Completed the earlier approved publication in a fresh composer after checking the profile and native Latest search. User-requested task exit performed after verifying the public page."
+}

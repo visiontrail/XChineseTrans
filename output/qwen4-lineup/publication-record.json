@@ -1,0 +1,53 @@
+{
+  "account": "LeoGuoLabs",
+  "format": "standalone",
+  "source": "https://x.com/leo114119/status/2108895067935236173",
+  "state": "publicly_verified",
+  "text": "Qwen 4 is shaping up as a family: Max, Flash, Plus and 27B, previewed at Apsara.\n\nThe 27B is the one I’m watching. If it ships with open weights and a meaningful capability jump, that could give builders a much stronger option for running AI locally.\n\nFor now, this is a preview. Alibaba says Qwen 4 is in training; release timing, pricing and performance still need official details.",
+  "media": [
+    "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/qwen4-lineup/apsara-source-complete.png"
+  ],
+  "alt": [
+    "Apsara conference photo showing a presenter beside a “Qwen4 Coming Soon” slide listing Qwen4-Max, Qwen4-Flash, Qwen4-Plus and Qwen4-27B."
+  ],
+  "prepared_at": "2026-10-10T12:23:54.264738+00:00",
+  "source_media_url": "https://pbs.twimg.com/media/HUQ-wzNbgAEPrZR.png?name=orig",
+  "bytes": 339822,
+  "sha256": "70067ba531dc64034a78eabb69974df2112a51aa43a7865ae95b665e06af3eb2",
+  "review_authorization": {
+    "user_message": "确认发布",
+    "approved_at": "2026-10-10T12:39:24.388766+00:00"
+  },
+  "published_url": "https://x.com/LeoGuoLabs/status/2108900257656656032",
+  "media_retrieved_at": "2026-10-10T12:24:45.488441+00:00",
+  "image_dimensions": [
+    666,
+    339
+  ],
+  "asset_validation": "PNG integrity verified and fully decoded",
+  "composer_checks": {
+    "full_text_accepted": true,
+    "characters": 384,
+    "photo_count": 1,
+    "upload_complete": true,
+    "alt_entered": true,
+    "post_button_enabled": true,
+    "submitted": true
+  },
+  "review_preview": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/qwen4-lineup/composer-review.png",
+  "submitted_at": "2026-10-10T12:40:00.263261+00:00",
+  "public_checks": {
+    "account": "LeoGuoLabs",
+    "text_matches_approved": true,
+    "format": "standalone",
+    "media_count": 1,
+    "alt_present": true,
+    "image_render": "complete and visually inspected",
+    "dimensions": [
+      666,
+      339
+    ]
+  },
+  "verified_at": "2026-10-10T12:40:54.522974+00:00",
+  "public_evidence": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/qwen4-lineup/published-verified.png"
+}

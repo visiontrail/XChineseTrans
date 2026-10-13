@@ -1,0 +1,174 @@
+- heading "To view keyboard shortcuts, press question mark View keyboard shortcuts" [level=2]:
+  - generic: To view keyboard shortcuts, press question mark
+  - link "View keyboard shortcuts":
+    - /url: /i/keyboard_shortcuts
+- button "Grok":
+- button "Chat":
+- button "Skip to home timeline"
+- button "Skip to trending"
+- banner:
+  - heading "X" [level=1]:
+    - link "X":
+      - /url: /home
+  - navigation "Primary":
+    - link "Home":
+      - /url: /home
+      - generic: Home
+    - link "Search and explore":
+      - /url: /explore
+      - generic: Explore
+    - link "Notifications":
+      - /url: /notifications
+      - generic: Notifications
+    - link "Follow":
+      - /url: /i/connect_people
+      - generic: Follow
+    - link "Direct Messages":
+      - /url: /i/chat
+      - generic: Chat
+    - link "Calls":
+      - /url: /i/calls
+      - generic: Calls
+    - link "Grok":
+      - /url: /i/grok
+      - generic: Grok
+    - link "History":
+      - /url: /i/history
+      - generic: History
+    - link "Profile":
+      - /url: /LeoGuoLabs
+      - generic: Profile
+    - button "More menu items":
+      - generic: More
+  - link "Post":
+    - /url: /compose/post
+    - generic: Post
+  - button "Account menu":
+    - generic "Leo Guo":
+      - img "Leo Guo"
+    - generic: Leo Guo
+    - img "Verified account"
+    - generic: "@LeoGuoLabs"
+- main:
+  - generic "Home timeline":
+    - button "Back":
+    - heading "Post" [level=2]
+    - status:
+      - button:
+        - generic: See new posts
+    - region "Conversation":
+      - heading "Conversation" [level=1]
+      - 'generic "Timeline: Conversation"':
+        - article:
+          - link [active]:
+            - /url: /LeoGuoLabs
+          - link "Leo Guo Verified account":
+            - /url: /LeoGuoLabs
+            - generic: Leo Guo
+            - img "Verified account"
+          - link "@LeoGuoLabs":
+            - /url: /LeoGuoLabs
+            - generic: "@LeoGuoLabs"
+          - button "Boost":
+            - generic: Boost
+          - button "Grok actions":
+          - button "More":
+          - text: "Quick update to my REA post: I'd be more cautious about my earlier suggestion to use spare Codex quota to explore apps. A user reports being banned after trying REA with Codex. The screenshot shows an OpenAI workspace suspension for policy violations, but no specific request or confirmed trigger. OpenAI prohibits malicious or abusive cyber activity and IP infringement. Its reverse-engineering clause concerns OpenAI's own services; I wouldn't read that as a blanket ban on analyzing every app. Still, REA's MIT licence doesn't give you rights over the software you examine. The project itself says to use it only for lawful, authorized analysis and not to evade model providers' safeguards. I still find the tooling interesting. But before giving an agent a target, check the target's licence, your permission to analyze it, and the provider's rules. Spare quota isn't a good reason to skip that."
+          - link "openai.com/policies/usage":
+            - /url: https://t.co/7JQh3shnAx
+            - text: openai.com/policies/usage …
+          - link "openai.com/policies/terms":
+            - /url: https://t.co/Kz3JBbf3vY
+            - text: openai.com/policies/terms …
+          - generic "Quote Leo Guo Verified account @LeoGuoLabs Oct 9 Want to know how an app feature actually works? REA lets you ask a coding agent to investigate the code behind it. This MIT-licensed project gives Claude Code and Codex an MCP toolkit to inspect JavaScript/Electron apps, decompile Android APK methods, and trace functions,":
+            - generic: Quote
+            - link "Leo Guo Verified account @LeoGuoLabs Oct 9 Want to know how an app feature actually works? REA lets you ask a coding agent to investigate the code behind it. This MIT-licensed project gives Claude Code and Codex an MCP toolkit to inspect JavaScript/Electron apps, decompile Android APK methods, and trace functions,":
+              - generic: Leo Guo
+              - img "Verified account"
+              - generic: "@LeoGuoLabs"
+              - generic: ·
+              - generic "Oct 9":
+                - time: Oct 9
+              - generic: Want to know how an app feature actually works? REA lets you ask a coding agent to investigate the code behind it. This MIT-licensed project gives Claude Code and Codex an MCP toolkit to inspect JavaScript/Electron apps, decompile Android APK methods, and trace functions,
+          - link "12:44 AM · Oct 13, 2026":
+            - /url: /LeoGuoLabs/status/2109686641992581581
+            - time: 12:44 AM · Oct 13, 2026
+          - generic: ·
+          - link "9 Views":
+            - /url: /LeoGuoLabs/status/2109686641992581581/analytics
+            - generic: "9"
+            - generic: Views
+          - group "9 views":
+            - button "0 Replies. Reply":
+            - button "0 reposts. Repost":
+            - button "0 Likes. Like":
+            - button "0 Bookmarks. Bookmark":
+            - button "Share post":
+        - link "Leo Guo":
+          - /url: /LeoGuoLabs
+          - generic "Leo Guo":
+            - img "Leo Guo"
+        - generic: Post your reply
+        - textbox "Post text"
+        - button "Reply" [disabled]:
+          - generic: Reply
+  - generic "Trending":
+    - search "Search":
+      - combobox "Search query"
+    - complementary "Relevant people":
+      - heading "Relevant people" [level=2]:
+        - generic: Relevant people
+      - list:
+        - link:
+          - /url: /LeoGuoLabs
+        - link "Leo Guo Verified account":
+          - /url: /LeoGuoLabs
+          - generic: Leo Guo
+          - img "Verified account"
+        - link "@LeoGuoLabs":
+          - /url: /LeoGuoLabs
+          - generic: "@LeoGuoLabs"
+        - generic: Previously a senior C/C++ engineer in telecom. Now exploring AI and emerging tech, sharing useful tools and an engineering perspective.
+    - region "Trending now":
+      - heading "Trending now" [level=1]
+      - 'generic "Timeline: Trending now"':
+        - heading "What’s happening" [level=2]:
+          - generic: What’s happening
+        - link "Trending Roadster More":
+          - generic: Trending
+          - generic: Roadster
+          - button "More":
+        - link "Politics · Trending Moscow More":
+          - generic: Politics · Trending
+          - generic: Moscow
+          - button "More":
+        - 'link "Trending in Singapore #madamefin More"':
+          - generic: Trending in Singapore
+          - generic: "#madamefin"
+          - button "More":
+        - link "Trending in Singapore Pump More":
+          - generic: Trending in Singapore
+          - generic: Pump
+          - button "More":
+        - link "Show more":
+          - /url: /explore/tabs/for-you
+          - generic: Show more
+    - navigation "Footer":
+      - link "Terms":
+        - /url: https://x.com/tos
+      - generic: ·
+      - link "Privacy":
+        - /url: https://x.com/privacy
+      - generic: ·
+      - link "Cookies":
+        - /url: https://support.x.com/articles/20170514
+      - generic: ·
+      - link "Accessibility":
+        - /url: https://help.x.com/resources/accessibility
+      - generic: ·
+      - link "Ads Info":
+        - /url: https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo
+      - generic: ·
+      - button "More":
+        - text: More
+      - generic: © 2026 X Corp.

@@ -1,0 +1,8 @@
+import fs from 'node:fs';import {spawnSync} from 'node:child_process';
+const input='steering-without-turning-v1.mp4',output='steering-without-turning.mp4';
+const ff='/opt/homebrew/bin/ffmpeg';
+const args=['-hide_banner','-y','-i',input,'-map','0:v:0','-map','0:a:0','-vf','scale=in_range=pc:out_range=tv:in_color_matrix=bt601:out_color_matrix=bt709,format=yuv420p','-c:v','libx264','-crf','17','-preset','medium','-color_range','tv','-colorspace','bt709','-color_primaries','bt709','-color_trc','bt709','-af','volume=2.16dB','-ar','48000','-c:a','aac','-b:a','256k','-t','36','-movflags','+faststart','-metadata','title=Steering without turning','-metadata','artist=LeoGuoLabs',output];
+const t=Date.now(),r=spawnSync(ff,args,{encoding:'utf8',maxBuffer:10e6});fs.writeFileSync('evidence/master.log',r.stderr);if(r.status)throw Error(r.stderr);console.log(`Mastered ${output}`);fs.writeFileSync('evidence/master.json',JSON.stringify({input,output,seconds:(Date.now()-t)/1000,volumeGainDB:2.16,colorConversion:'full range BT.601-family JPEG frames to limited BT.709 H264',duration:36},null,2));
+const probe=spawnSync('/opt/homebrew/bin/ffprobe',['-v','error','-count_frames','-show_format','-show_streams','-of','json',output],{encoding:'utf8'});fs.writeFileSync('evidence/final-ffprobe.json',probe.stdout);
+const audio=spawnSync(ff,['-hide_banner','-i',output,'-af','loudnorm=I=-18:TP=-2:LRA=9:print_format=json','-f','null','-'],{encoding:'utf8',maxBuffer:10e6});fs.writeFileSync('evidence/final-audio.log',audio.stderr);
+const loudness=JSON.parse(audio.stderr.match(/\{\s*"input_i"[\s\S]*?\}/)[0]);fs.writeFileSync('evidence/final-audio.json',JSON.stringify(loudness,null,2));console.log(JSON.stringify(loudness));

@@ -1,0 +1,41 @@
+Browser tab: 1, Title: "Leo Guo on X: \"OpenAI’s Decisions API looks like a useful building block for agents. It uses gpt-6-luna to turn text and images into a probability, a choice from your options, or a score against a rubric. It’s in public beta. You could use it to triage support requests or choose which https://t.co/lJhi7raami\" / X", URL: "https://x.com/LeoGuoLabs/status/2109127082177446280".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 4-5, 22, 26, 32-36, 102
++			122 button Grok
++			123 button Chat
++						124 text More
++				125 container
++					126 container
++						127 text Leo Guo
++						128 image Verified account
++					129 text @LeoGuoLabs
++				130 container undefined unread items
++						131 container Trending now
++							132 heading Trending now, Value: 1, ID: accessible-list-1
++								133 text Trending now
++							134 container Timeline: Trending now
++								135 container
++									136 heading What’s happening, Value: 2
++										137 text What’s happening
++									138 link Politics · Trending The Pope More
++										139 container id__6lukv5mdk
++											140 text Politics · Trending
++											141 text The Pope
++											142 pop up button (collapsed) Description: More, Secondary Actions: Expand
++									143 link Politics · Trending Catholic Church More
++										144 container id__sieakgy0yh7
++											145 text Politics · Trending
++											146 text Catholic Church
++											147 pop up button (collapsed) Description: More, Secondary Actions: Expand
++									148 link Politics · Trending Catholics More
++										149 container id__pcc2rsucvef
++											150 text Politics · Trending
++											151 text Catholics
++											152 pop up button (collapsed) Description: More, Secondary Actions: Expand
++									153 link Politics · Trending Putin More
++										154 container id__79jgy5blr29
++											155 text Politics · Trending
++											156 text Putin
++											157 pop up button (collapsed) Description: More, Secondary Actions: Expand
++									158 link Description: Show more, Value: x.com/explore/tabs/for-you
+The focused UI element is 52 link x.com/LeoGuoLabs

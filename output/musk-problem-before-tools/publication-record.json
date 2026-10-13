@@ -1,0 +1,108 @@
+{
+  "state": "publicly_verified",
+  "destination": "@LeoGuoLabs",
+  "format": "standalone",
+  "source": "https://x.com/huxlab/status/2109202759841190167",
+  "video_source": "https://x.com/Founder_Tribune/status/2107765456321032526",
+  "official_source": "https://www.youtube.com/watch?v=2IVQwzFzsBo",
+  "official_transcript_interval": "22:36–24:54",
+  "final_text": "Learning a tool is a lot more interesting when you have something to fix.\n\nMusk’s engine example gets this right: take the engine apart, then introduce the wrench and screwdriver. The task gives the tools a purpose. Math and physics can be taught the same way—through the problems they help us understand.\n\nI think AI tutorials often get this backwards too. Before collecting another prompt template, pick something real: a report you repeat every week, a bug you can’t explain, or a workflow that keeps getting stuck. Then learn what you need to make progress.\n\nYou’ll still need the fundamentals. A real problem gives you a reason to learn them.",
+  "media": [
+    "upload-video.mp4"
+  ],
+  "media_checks": {
+    "fresh_download": true,
+    "duration_seconds": 143.157333,
+    "width": 1280,
+    "height": 720,
+    "video_codec": "h264",
+    "fps": 30,
+    "audio_codec": "aac",
+    "full_decode": "passed without errors",
+    "beginning_middle_end_frames": "inspected",
+    "source_overlay": "Existing English captions and Founder Tribune watermark retained; this is a reposted excerpt, not an unedited official master.",
+    "upload_version": {
+      "duration": "143.157000",
+      "bytes": "13309221",
+      "sha256": "207acb61cb1e3dac5a09d5ac24df1f58a15b6fc066064d04e10267bec3d01c0f",
+      "video": "H.264 30fps",
+      "audio": "AAC 48kHz stereo",
+      "full_decode": "passed",
+      "change": "Full duration retained; compatibility re-encoding only."
+    },
+    "first_upload": "X reported source-video.mp4: Something went wrong; failed attachment removed before compatibility retry.",
+    "local_playback": {
+      "duration": 143.157,
+      "observed_times": [
+        43.809348,
+        135.526571
+      ],
+      "readyState": 4,
+      "error": null,
+      "surface": "Codex in-app browser served prepared upload file locally",
+      "ended_at": 143.157
+    }
+  },
+  "duplicate_check": {
+    "source_id_local_hits": 0,
+    "source_video_id_local_hits": 0,
+    "topic_local_hits": 0,
+    "live_account_query": "from:LeoGuoLabs (education OR screwdriver OR \"teach to the problem\")",
+    "live_account_result": "No results",
+    "conclusion": "No prior publication found in local records or live account search; X search can be incomplete."
+  },
+  "created_at": "2026-10-11T15:31:17.338260+00:00",
+  "public_url": "https://x.com/LeoGuoLabs/status/2109450877224501578",
+  "original_media": [
+    "source-video.mp4"
+  ],
+  "composer_checks": {
+    "built_in": "Exact full 647-character text verified; failed attachment removed. Composer left open for continuation.",
+    "ego": "Full compatibility video reached Ready. Native typing/paste and AX value did not synchronize exact text reliably; erroneous temporary draft explicitly discarded without publication.",
+    "final": {
+      "exact_text": true,
+      "characters": 647,
+      "video_count": 1,
+      "video_status": "Ready",
+      "account": "@LeoGuoLabs"
+    }
+  },
+  "preparation_status": "Text and full playable video prepared for content review. Platform upload succeeded in Ego Lite, but a complete text-and-media composer is not yet ready.",
+  "authorization": {
+    "user_message": "确认发布",
+    "approved_at": "2026-10-12T01:05:53.285001+00:00",
+    "scope": "Exact reviewed English text and full upload-video.mp4 as standalone @LeoGuoLabs post"
+  },
+  "submitted_at": "2026-10-12T01:07:47.744Z",
+  "verified_at": "2026-10-12T01:09:14.824Z",
+  "public_verification": {
+    "account": "@LeoGuoLabs",
+    "exact_text": true,
+    "format": "standalone",
+    "media_count": 1,
+    "duration_seconds": 143.166,
+    "playback_samples": [
+      {
+        "currentTime": 30.838041,
+        "duration": 143.166,
+        "paused": false,
+        "readyState": 4
+      },
+      {
+        "currentTime": 67.264065,
+        "duration": 143.166,
+        "paused": false,
+        "readyState": 4
+      }
+    ],
+    "screenshot": "public-verification.png"
+  },
+  "profile_pin": {
+    "pinned": true,
+    "verified_at": "2026-10-12T01:33:24.478Z",
+    "profile": "https://x.com/LeoGuoLabs",
+    "post": "https://x.com/LeoGuoLabs/status/2109450877224501578",
+    "evidence": "Pinned label shown on first profile post",
+    "screenshot": "pinned-verification.png"
+  }
+}

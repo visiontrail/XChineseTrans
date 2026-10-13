@@ -1,0 +1,85 @@
+Catalog
+/
+Models
+/
+gpt-6.1-sol
+gpt-6.1-sol
+Details
+Benchmarks
+Responsible AI
+License
+GPT‑6.1 Sol is OpenAI’s efficient frontier reasoning model, designed for complex professional and enterprise workloads.
+OpenAI
+Direct from Azure
+Version: 2026-09-29
+Direct from Azure models
+
+Direct from Azure models are a select portfolio curated for their market-differentiated capabilities:
+
+Secure and managed by Microsoft: Purchase and manage models directly through Azure with a single license, consistent support, and no third-party dependencies, backed by Azure's enterprise-grade infrastructure.
+Streamlined operations: Benefit from unified billing, governance, and seamless PTU portability across models hosted on Azure - all part of Microsoft Foundry.
+Future-ready flexibility: Access the latest models as they become available, and easily test, deploy, or switch between them within Microsoft Foundry; reducing integration effort.
+Cost control and optimization: Scale on demand with pay-as-you-go flexibility or reserve PTUs for predictable performance and savings.
+
+Learn more about Direct from Azure models .
+
+Key capabilities
+About this model
+
+GPT-6.1-Sol is an efficient reasoning model in the GPT-6 Sol family, designed for complex problem-solving, software engineering, knowledge work, document understanding, and agent-assisted workflows. It delivers strong reasoning capabilities with an efficient serving profile.
+
+Key model capabilities
+Advanced Reasoning – Performs multi-step reasoning for complex problem-solving and decision support.
+Coding and Engineering – Supports code generation, debugging, repository analysis, and technical problem-solving.
+Long-Context Understanding – Analyzes large documents, repositories, and knowledge collections.
+Multimodal Understanding – Accepts text and image inputs and generates text outputs.
+Knowledge Work – Supports document understanding, research synthesis, and specialist technical workflows.
+Agentic Workflows – Supports tool-enabled, multi-step tasks and workflow automation.
+Flexible Reasoning – Provides multiple reasoning-effort settings to match task complexity.
+Key use cases
+Complex reasoning, planning, and decision support
+Software development, debugging, and repository analysis
+Scientific and specialist technical workflows
+Large-document and knowledge-base analysis
+Enterprise knowledge work and research synthesis
+Tool-enabled agents and workflow automation
+Out of scope use cases
+Fine-tuning
+Reinforcement fine-tuning graders
+Predicted outputs
+Deprecated local-shell tooling
+Pricing
+Training disclosure
+Training, testing and validation
+
+GPT-6.1-Sol underwent capability, safety, alignment, and deployment-safeguard evaluations. Evaluation results reflect specific test conditions and may not represent production performance across every workload. Customers should evaluate the model using representative tasks and deployment configurations
+
+Distribution
+More information
+Quick facts
+Publisher
+OpenAI
+Author
+OpenAI
+Type
+Chat completion, Responses
+Lifecycle
+Generally available (GA)
+Hosted on
+Azure
+Input type
+text, image
+Output type
+text
+Context window
+1050k
+Token limits
+128k output
+Pricing
+View pricing 
+Quick start
+Sign in to get started
+View documentation
+Azure support
+Related models
+grok-4

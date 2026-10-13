@@ -1,0 +1,52 @@
+{
+  "official_announcement": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+  "videos": [
+    {
+      "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/CC__Calendar.mp4",
+      "file": "01-official-calendar.mp4",
+      "bytes": 11623180,
+      "sha256": "fdd2c39bdf382b6f4b78ab0f867da8b925cdb26c8d4d10570f12fe71cf153a10",
+      "md5": "13926aec765000719bbd23bfe4eb99c0",
+      "original_md5_matches_google_header": true,
+      "decode_check": "passed",
+      "resolution": "1920x1080",
+      "audio": false,
+      "duration": 12.1
+    },
+    {
+      "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/CC__Completing_Tasks.mp4",
+      "file": "02-official-tasks.mp4",
+      "bytes": 6788527,
+      "sha256": "f1d1245e08d7204ea40ddbe6f2b6d0032736fd915d3ddb0e1d56c3a94fcebd2e",
+      "md5": "4c5895e383ad414606d56ed188b680b4",
+      "original_md5_matches_google_header": true,
+      "decode_check": "passed",
+      "resolution": "1920x1080",
+      "audio": false,
+      "duration": 19
+    }
+  ],
+  "format": "standalone",
+  "account": "LeoGuoLabs",
+  "status": "published and public page verified",
+  "text_file": "post-en-v1.txt",
+  "composer_characters_remaining": 24100,
+  "published_url": "https://x.com/LeoGuoLabs/status/2104788415132872759",
+  "approved_by_user": true,
+  "public_text_verified": true,
+  "native_video_count": 2,
+  "playback_verified": [
+    {
+      "duration": 12.1,
+      "currentTime": 5.296988,
+      "readyState": 4,
+      "paused": false
+    },
+    {
+      "duration": 18.999999,
+      "currentTime": 5.349484,
+      "readyState": 4,
+      "paused": false
+    }
+  ]
+}

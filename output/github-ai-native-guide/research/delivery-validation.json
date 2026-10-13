@@ -1,0 +1,11 @@
+{
+  "sections": 16,
+  "prompts": 28,
+  "figures": 12,
+  "diagrams": 11,
+  "approximate_english_words": 6515,
+  "archive_files": 70,
+  "archive_bytes": 7614749,
+  "required_hidden_companion_files": true,
+  "zip_crc_and_sha256": "pass"
+}

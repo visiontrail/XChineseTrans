@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {
+    "title": "A branch names history; a worktree holds files",
+    "subtitle": "Separate working areas can share the same repository history.",
+    "viewBox": [
+      1000,
+      530
+    ]
+  },
+  "components": [
+    {
+      "id": "a",
+      "label": "Base commit A",
+      "sublabel": "Chosen starting revision",
+      "pos": [
+        50,
+        190
+      ],
+      "size": [
+        200,
+        78
+      ],
+      "type": "database"
+    },
+    {
+      "id": "b",
+      "label": "main points to B",
+      "sublabel": "Main history advances",
+      "pos": [
+        360,
+        80
+      ],
+      "size": [
+        240,
+        78
+      ],
+      "type": "database"
+    },
+    {
+      "id": "c",
+      "label": "task points to C",
+      "sublabel": "One focused change",
+      "pos": [
+        360,
+        300
+      ],
+      "size": [
+        240,
+        78
+      ],
+      "type": "database"
+    },
+    {
+      "id": "mainfiles",
+      "label": "Main checkout",
+      "sublabel": "Working files + its index",
+      "pos": [
+        710,
+        80
+      ],
+      "size": [
+        240,
+        78
+      ],
+      "type": "frontend"
+    },
+    {
+      "id": "taskfiles",
+      "label": "Agent worktree",
+      "sublabel": "Separate files + its index",
+      "pos": [
+        710,
+        300
+      ],
+      "size": [
+        240,
+        78
+      ],
+      "type": "backend"
+    }
+  ],
+  "connections": [
+    {
+      "from": "a",
+      "to": "b",
+      "variant": "emphasis",
+      "fromSide": "top",
+      "toSide": "left",
+      "via": [
+        [
+          150,
+          119
+        ]
+      ]
+    },
+    {
+      "from": "a",
+      "to": "c",
+      "variant": "emphasis",
+      "fromSide": "bottom",
+      "toSide": "left",
+      "via": [
+        [
+          150,
+          339
+        ]
+      ]
+    },
+    {
+      "from": "b",
+      "to": "mainfiles",
+      "variant": "emphasis"
+    },
+    {
+      "from": "c",
+      "to": "taskfiles",
+      "variant": "emphasis"
+    }
+  ],
+  "cards": []
+}

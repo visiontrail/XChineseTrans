@@ -1,0 +1,35 @@
+{
+  "source": "https://x.com/dotey/status/2107896388163919908",
+  "original": "https://x.com/claudeai/status/2107894039626277339",
+  "format": "standalone",
+  "account": "LeoGuoLabs",
+  "text_path": "post-en.txt",
+  "media": [
+    "haiku-5-5-verified.mp4"
+  ],
+  "state": "submitted_public_text_verified_video_playback_blocked",
+  "approval": {
+    "user_message": "\u53d1\u5e03",
+    "received_at": "2026-10-08T02:20:47.767691+00:00",
+    "scope": "previously reviewed exact English text plus verified full original video"
+  },
+  "published_url": "https://x.com/LeoGuoLabs/status/2108057315492385169",
+  "primary_source": "https://www.anthropic.com/claude-haiku-5-5",
+  "browser_blocker": null,
+  "checks": {
+    "full_decode": "passed",
+    "duration_seconds": 11.083333,
+    "resolution": "3840x2160",
+    "audio_streams": 0,
+    "beginning_middle_end_frames": "inspected",
+    "browser_playback": "observed progressing to 0:11 / 0:11",
+    "composer": "Approved full copy and one video; video Ready, Post enabled; submitted once",
+    "public_text": "Full approved wording confirmed at published URL",
+    "public_media": "One video at actual published URL; 11.083 seconds. Player remained buffering at 0 seconds after reload and replay attempts. Playback not verified."
+  },
+  "review_url": "http://172.16.10.59:18799/",
+  "media_sha256": "3463d43bea0e400ae77b923784bc274c583085334af6ef2e8da24cd38953c5a9",
+  "evidence": [
+    "published.jpg"
+  ]
+}

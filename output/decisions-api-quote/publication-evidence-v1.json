@@ -1,0 +1,21 @@
+{
+  "rectangle": {
+    "height": 1062,
+    "width": 598,
+    "x": 276,
+    "y": 53
+  },
+  "text": "Leo Guo\n@LeoGuoLabs\nBoost\nA lot of useful AI automation comes down to choosing the next branch.\n\nDecisions API lets you define a question and a finite set of answers, using text or images as context. OpenAI’s routing demo shows about 150 ms per request versus 1.6 s with the Responses API. It’s currently in limited preview.\n\nI like the engineering direction: use a focused model for frequent, narrow decisions, and reserve deeper reasoning for harder steps. Ticket triage, content classification, and tool selection are natural fits. A valid answer can still be the wrong choice, so accuracy and confidence calibration matter.\n\nTypeSafe’s Jev is pursuing a similar idea. That competition should be judged on real workloads: decision quality, latency under load, and cost per completed task. Faster decisions are useful when they make the whole workflow work better.\nQuote\nOpenAI Developers\n@OpenAIDevs\n·\n13h\nGive your app real-time decision-making with Decisions API, powered by GPT-6 Luna.\n\nDefine questions and possible answers to classify content, route requests, or choose an agent’s next action.\n\nAvailable in limited preview.\n0:13\n4:14 PM · Sep 30, 2026\n·\n1\n View",
+  "text_matches": true,
+  "video": [
+    {
+      "currentTime": 15.706705,
+      "duration": 28.821333,
+      "paused": false,
+      "readyState": 4
+    }
+  ],
+  "url": "https://x.com/LeoGuoLabs/status/2105209621149528092",
+  "quote_target": "https://x.com/OpenAIDevs/status/2105003318917697873",
+  "screenshot_method": "Two normal viewport captures cropped to the post and stitched at the quote-card boundary using observed scroll and DOM geometry; both originals preserved"
+}

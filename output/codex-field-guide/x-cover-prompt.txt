@@ -1,0 +1,2 @@
+Built-in ImageGen. Reference: images/01-cover.png.
+Adapt the existing editorial cover into an X Article hero banner, very wide 5:2 aspect ratio. Preserve ivory paper texture, navy serif typography, warm engineering desk with laptop, task brief and check sheet. Recompose for a horizontal banner, not crop. Exact prominent text: LeoGuoLabs; CODEX; A practical field guide; Define the work. Let it run. Verify the result. All text fully visible with generous safe margins, readable at 600 pixels wide. Laptop and desk on right, text on left. No extra slogans.

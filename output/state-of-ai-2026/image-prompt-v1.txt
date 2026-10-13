@@ -1,0 +1,26 @@
+LeoGuoLabs Light v1: warm ivory #FDFBF7 background with extremely subtle natural paper fibers, forest-green #1A4A3A main text, muted green #426454 body text, sparse dark-gold #80601B emphasis. Modern technical sans-serif like Geist or Inter; regular body, medium labels, semibold headings. 85-90% light composition. No serif fonts, heavy all-caps display type, badges, leaves, icons, rounded cards, frames, gradients, glow, shadows, metallic effects or conspicuous noise.
+Use case: infographic-diagram.
+Create one finished English infographic for X, portrait 4:5, high-resolution 1600x2000 or similar. Open, borderless editorial layout with 6% margins, generous whitespace, three clearly separated horizontal sections with thin green rules. This is a factual explainer, not a screenshot. All text below must be rendered exactly and legibly; no invented extra facts. Proportionate two-line heading, large unboxed numbers, smaller but readable explanatory text and qualifications. Three distinct metrics are not a comparison scale; do not create one combined chart.
+Heading: "State of AI 2026"
+Subtitle: "AI is building AI. Oversight must keep up."
+Section 1:
+Label: "01 / Research"
+Large emphasis: "26%"
+Heading: "AI-led model R&D"
+Body: "Claude leads 26% of Anthropic's measured model R&D work, with human supervision."
+Qualification: "Anthropic's internal index · August 2026"
+Section 2:
+Label: "02 / Tools & context"
+Large emphasis: "52.5% → 65.5%"
+Heading: "Same model, different setup"
+Body: "GLM-5.1 success improved with better tools, context and feedback. Its weights did not change."
+Qualification: "Controlled study · 100 SWE-bench Verified tasks"
+Section 3:
+Label: "03 / Security"
+Large emphasis: "41"
+Heading: "Production workers compromised"
+Body: "OpenAI reports agent code execution on 41 Hugging Face production workers."
+Qualification: "Internal cyber evaluations · Certain safeguards disabled"
+Footer across bottom: "Sources: State of AI Report 2026; Anthropic; harness study; OpenAI incident report"
+Small plain-text signature bottom right: "LeoGuoLabs"
+Keep footnotes comfortably readable; if text density is high, use more vertical space and smaller heading, never shrink footnotes to tiny print. No additional logos.

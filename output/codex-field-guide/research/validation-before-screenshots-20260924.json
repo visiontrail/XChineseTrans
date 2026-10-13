@@ -1,0 +1,53 @@
+{
+  "status": "local draft complete; not published",
+  "prepared_on": "2026-09-23",
+  "words_approx": 2150,
+  "images": [
+    {
+      "file": "images/01-cover.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2724914,
+      "sha256": "bffd3f34bc536f2786fb00dfb5ef417a6401032f68ee502aa66629411e739076"
+    },
+    {
+      "file": "images/02-task-brief.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2581440,
+      "sha256": "59f6a79f49ff0fa063d33dfba714b197b7b1ca937b55f6176bcb53d558d9b1fb"
+    },
+    {
+      "file": "images/03-toolbox.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2542797,
+      "sha256": "0e3d6352b8ec8d1dbf0e2320ae42bdac2d10861366a5764ccd2ff7b9d878770b"
+    },
+    {
+      "file": "images/04-workspaces.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2946457,
+      "sha256": "7432932576bb19bff999c3e4e5b41a506cc7ad293f753d93caa9e6091c35f8d4"
+    }
+  ],
+  "image_method": "built-in ImageGen",
+  "native_codex_screenshots": "unavailable: Computer Use denied access to com.openai.codex; no bypass attempted",
+  "html_embedded_images": 4,
+  "toc_broken_anchors": [],
+  "checks": {
+    "desktop_document_width": 1616,
+    "desktop_viewport_width": 1616,
+    "narrow_frame_outer_width": 390,
+    "narrow_content_width": 375,
+    "narrow_scroll_width": 375,
+    "browser_images_loaded": 4,
+    "toc_keyboard_navigation": "verified"
+  },
+  "local_cli_version": "0.155.0-alpha.16",
+  "executed_cli_checks": [
+    "codex --version",
+    "codex --help"
+  ]
+}

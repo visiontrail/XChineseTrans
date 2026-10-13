@@ -1,0 +1,9 @@
+Before comparing AI agents, check what the benchmark actually tests.
+
+Writing mergeable code, completing a workflow across apps, and producing a usable report are different capabilities. These eight benchmarks help separate them.
+
+My rule: start with the task you need done. Then check the benchmark version, tools, time budget and scoring method before comparing results.
+
+Use the scores to build a shortlist. Test the agents on your own tasks, inspect the outputs, and measure reliability and cost per successful completion.
+
+The result that matters is work you can verify and use.

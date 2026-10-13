@@ -1,0 +1,44 @@
+[
+  {
+    "path": "source/dotey-1.jpg",
+    "url": "https://pbs.twimg.com/media/HT5fVBhWcAEUOVt?format=jpg&name=large",
+    "bytes": 104884,
+    "sha256": "21c49b8be4fbe8a5d6bd04d96110c4f684125c3c35eb4b9fdd0b4b2a799224eb",
+    "retrieved_at": "2026-10-06T04:36:38.283320+00:00"
+  },
+  {
+    "path": "source/dotey-2.jpg",
+    "url": "https://pbs.twimg.com/media/HT5fW1hWYAAisnz?format=jpg&name=large",
+    "bytes": 106306,
+    "sha256": "2a1b4a25ba2e49b35fc17a5cdf0f54398a280ed664f899969db35e3b9ee96060",
+    "retrieved_at": "2026-10-06T04:36:38.654703+00:00"
+  },
+  {
+    "path": "source/dotey-3.jpg",
+    "url": "https://pbs.twimg.com/media/HT5fbe2WQAAz-Hz?format=jpg&name=large",
+    "bytes": 92316,
+    "sha256": "9c17a744c3b49a60b1a37fee37aad570b9d854d2e3dfb24441bd46c516d1f61b",
+    "retrieved_at": "2026-10-06T04:36:38.462265+00:00"
+  },
+  {
+    "path": "source/dotey-4.jpg",
+    "url": "https://pbs.twimg.com/media/HT5fqOCXMAAXjMD?format=jpg&name=large",
+    "bytes": 109398,
+    "sha256": "484a0869fcba59f8ad77535e09fdb2e807c29e051a121bf1272ea1f0a230cae2",
+    "retrieved_at": "2026-10-06T04:36:38.217594+00:00"
+  },
+  {
+    "path": "media/api-equivalent-value.png",
+    "url": "https://substack-post-media.s3.amazonaws.com/public/images/44bfcff4-5589-4822-a348-bc4e83cf478b_2048x1161.png",
+    "bytes": 322643,
+    "sha256": "05de70b86d67c7db20c5ccabf6518a31a8586cafa7c5078fd683297574fd88d3",
+    "retrieved_at": "2026-10-06T04:37:22.054830+00:00"
+  },
+  {
+    "path": "media/raw-token-volume.png",
+    "url": "https://substack-post-media.s3.amazonaws.com/public/images/e6b9e23d-8049-4235-8c21-9a5a2b0cd1f0_2048x1153.png",
+    "bytes": 322405,
+    "sha256": "1db6eabd8c2391bbf98b702bfc813c1827840d8a207ef1f6cff0b0d997761439",
+    "retrieved_at": "2026-10-06T04:37:20.065434+00:00"
+  }
+]

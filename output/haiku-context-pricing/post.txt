@@ -1,0 +1,7 @@
+Haiku 5.5’s headline price comes with a 100K-token cliff.
+
+Up to 100K prompt tokens: $0.10 input / $0.50 output per million tokens. Above 100K: $0.50 / $2.50. Both rates jump 5×; cached-token rates do too.
+
+Artificial Analysis disclosed that its provisional cost figures didn’t yet include that higher tier. That matters if you’re using those charts to budget for long agent sessions.
+
+I’d compare cost per completed task at the context lengths I actually use. Short requests and long-running agents can have very different economics.

@@ -1,0 +1,242 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 1030830,
+    "duration": 386659,
+    "text": "A"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 1546250,
+    "duration": 5541250,
+    "text": "research"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7087500,
+    "duration": 4767910,
+    "text": "cycle"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11855830,
+    "duration": 2835000,
+    "text": "needs"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 14690830,
+    "duration": 902080,
+    "text": "an"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15721660,
+    "duration": 7474160,
+    "text": "idea"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 27577500,
+    "duration": 773330,
+    "text": "an"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 28479580,
+    "duration": 9149580,
+    "text": "implementation"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 42139160,
+    "duration": 515409,
+    "text": "an"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 42654580,
+    "duration": 6700830,
+    "text": "experiment"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 54252500,
+    "duration": 902080,
+    "text": "and"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 55283330,
+    "duration": 644160,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 56056660,
+    "duration": 5025830,
+    "text": "judgment"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 62113330,
+    "duration": 2061660,
+    "text": "about"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 64175410,
+    "duration": 644160,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 64948330,
+    "duration": 4897080,
+    "text": "result"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 73840000,
+    "duration": 2706250,
+    "text": "Making"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 76546250,
+    "duration": 902080,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 77577500,
+    "duration": 9278330,
+    "text": "implementation"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 87886660,
+    "duration": 5283330,
+    "text": "faster"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 93170000,
+    "duration": 5025830,
+    "text": "helps"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 102448330,
+    "duration": 1288750,
+    "text": "But"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 103737080,
+    "duration": 773330,
+    "text": "an"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 104510410,
+    "duration": 7732080,
+    "text": "idea"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 114432910,
+    "duration": 4510410,
+    "text": "still"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 118943330,
+    "duration": 3221660,
+    "text": "has"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 122293750,
+    "duration": 1030830,
+    "text": "to"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 123324580,
+    "duration": 7474160,
+    "text": "survive"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 130927910,
+    "duration": 6056660,
+    "text": "testing"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 141881250,
+    "duration": 3221660,
+    "text": "and"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 148067080,
+    "duration": 3737080,
+    "text": "somebody"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 151804160,
+    "duration": 2061660,
+    "text": "has"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 153865830,
+    "duration": 773330,
+    "text": "to"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 154639160,
+    "duration": 5799160,
+    "text": "decide"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 160567080,
+    "duration": 2319580,
+    "text": "whether"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 162886660,
+    "duration": 1030830,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 163917500,
+    "duration": 3865830,
+    "text": "apparent"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 167912500,
+    "duration": 6056660,
+    "text": "improvement"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 174484580,
+    "duration": 1288750,
+    "text": "is"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 175902080,
+    "duration": 5541250,
+    "text": "real"
+  }
+]

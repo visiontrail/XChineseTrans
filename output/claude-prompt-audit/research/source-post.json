@@ -1,0 +1,285 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/xiaohu/status/2104032431212998998",
+    "id": "2104032431212998998",
+    "text": "使用这个命令\n\n可以修复和整理你的Claude.md和技能\n\n/checkup prompt-audit\n\n它会检查你的 CLAUDE.md、技能和Agent，找出你的当前模型不再需要的指令和阻碍它发挥能力的提示内容，还会修复你的技能...\n",
+    "raw_text": {
+      "text": "使用这个命令\n\n可以修复和整理你的Claude.md和技能\n\n/checkup prompt-audit\n\n它会检查你的 CLAUDE.md、技能和Agent，找出你的当前模型不再需要的指令和阻碍它发挥能力的提示内容，还会修复你的技能...\n https://t.co/wo0ywbyh72",
+      "display_text_range": [
+        0,
+        145
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            122,
+            145
+          ],
+          "id": "2103617597879230464",
+          "display": "pic.x.com/wo0ywbyh72",
+          "original": "https://t.co/wo0ywbyh72",
+          "replacement": "https://x.com/lydiahallie/status/2103617988918485226/video/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "xiaohu",
+      "url": "https://x.com/xiaohu",
+      "id": "1764818331822182400",
+      "followers": 122757,
+      "following": 1753,
+      "likes": 2442,
+      "media_count": 6853,
+      "name": "小互",
+      "description": "带你了解全球最前沿科技、AI动态...\n\nAI 精华，讲到你懂：https://best.xiaohu.ai/",
+      "raw_description": {
+        "text": "带你了解全球最前沿科技、AI动态...\n\nAI 精华，讲到你懂：https://t.co/nvuDIvoNg1",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              32,
+              55
+            ],
+            "original": "https://t.co/nvuDIvoNg1",
+            "replacement": "https://best.xiaohu.ai/",
+            "display": "best.xiaohu.ai"
+          }
+        ]
+      },
+      "location": "Mars",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1764818331822182400/1717126346",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1765404718959095808/BX7VN1hS_200x200.jpg",
+      "joined": "Tue Mar 05 01:01:23 +0000 2024",
+      "protected": false,
+      "website": {
+        "url": "http://xiaohu.ai",
+        "display_url": "xiaohu.ai"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 6,
+    "retweets": 9,
+    "likes": 68,
+    "bookmarks": 94,
+    "quotes": 0,
+    "created_at": "Sun Sep 27 02:16:37 +0000 2026",
+    "created_timestamp": 1790475397,
+    "possibly_sensitive": false,
+    "views": 11756,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "id": "2103617597879230464",
+          "url": "https://video.twimg.com/amplify_video/2103617597879230464/vid/avc1/1920x1080/K66bHvP0TNPPOWZQ.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103617597879230464/img/hzeX3nfdHNl1lViQ.jpg",
+          "duration": 9.233,
+          "width": 1920,
+          "height": 1080,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2103617597879230464/pl/k2rVH5i6zLwX0W_3.m3u8?tag=29",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2103617597879230464/vid/avc1/480x270/g9fEG8NBmck9FAt4.mp4?tag=29",
+              "bitrate": 256000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2103617597879230464/vid/avc1/640x360/0bRDZTm4LGWkeHsO.mp4?tag=29",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2103617597879230464/vid/avc1/1280x720/WnKqU5CLU9wn7_xV.mp4?tag=29",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2103617597879230464/vid/avc1/1920x1080/K66bHvP0TNPPOWZQ.mp4?tag=29",
+              "bitrate": 10368000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": {
+            "screen_name": "lydiahallie",
+            "url": "https://x.com/lydiahallie",
+            "id": "879696238953865217",
+            "followers": 132762,
+            "following": 27,
+            "likes": 5126,
+            "media_count": 120,
+            "statuses": 1432,
+            "name": "Lydia Hallie ✨",
+            "description": "claude code @AnthropicAI @ClaudeDevs",
+            "raw_description": {
+              "text": "claude code @AnthropicAI @ClaudeDevs",
+              "facets": []
+            },
+            "location": "San Francisco, CA",
+            "banner_url": "https://pbs.twimg.com/profile_banners/879696238953865217/1503010457",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1994238936345137154/exEBW2UI_normal.jpg",
+            "joined": "Tue Jun 27 13:41:42 +0000 2017",
+            "protected": false,
+            "website": null,
+            "verification": {
+              "verified": true,
+              "verified_at": null,
+              "type": "individual"
+            },
+            "type": "profile"
+          },
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2103617597879230464/pl/k2rVH5i6zLwX0W_3.m3u8?tag=29",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2103617597879230464/vid/avc1/480x270/g9fEG8NBmck9FAt4.mp4?tag=29",
+              "bitrate": 256000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2103617597879230464/vid/avc1/640x360/0bRDZTm4LGWkeHsO.mp4?tag=29",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2103617597879230464/vid/avc1/1280x720/WnKqU5CLU9wn7_xV.mp4?tag=29",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2103617597879230464/vid/avc1/1920x1080/K66bHvP0TNPPOWZQ.mp4?tag=29",
+              "bitrate": 10368000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "id": "2103617597879230464",
+          "url": "https://video.twimg.com/amplify_video/2103617597879230464/vid/avc1/1920x1080/K66bHvP0TNPPOWZQ.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103617597879230464/img/hzeX3nfdHNl1lViQ.jpg",
+          "duration": 9.233,
+          "width": 1920,
+          "height": 1080,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2103617597879230464/pl/k2rVH5i6zLwX0W_3.m3u8?tag=29",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2103617597879230464/vid/avc1/480x270/g9fEG8NBmck9FAt4.mp4?tag=29",
+              "bitrate": 256000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2103617597879230464/vid/avc1/640x360/0bRDZTm4LGWkeHsO.mp4?tag=29",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2103617597879230464/vid/avc1/1280x720/WnKqU5CLU9wn7_xV.mp4?tag=29",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2103617597879230464/vid/avc1/1920x1080/K66bHvP0TNPPOWZQ.mp4?tag=29",
+              "bitrate": 10368000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": {
+            "screen_name": "lydiahallie",
+            "url": "https://x.com/lydiahallie",
+            "id": "879696238953865217",
+            "followers": 132762,
+            "following": 27,
+            "likes": 5126,
+            "media_count": 120,
+            "statuses": 1432,
+            "name": "Lydia Hallie ✨",
+            "description": "claude code @AnthropicAI @ClaudeDevs",
+            "raw_description": {
+              "text": "claude code @AnthropicAI @ClaudeDevs",
+              "facets": []
+            },
+            "location": "San Francisco, CA",
+            "banner_url": "https://pbs.twimg.com/profile_banners/879696238953865217/1503010457",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1994238936345137154/exEBW2UI_normal.jpg",
+            "joined": "Tue Jun 27 13:41:42 +0000 2017",
+            "protected": false,
+            "website": null,
+            "verification": {
+              "verified": true,
+              "verified_at": null,
+              "type": "individual"
+            },
+            "type": "profile"
+          },
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2103617597879230464/pl/k2rVH5i6zLwX0W_3.m3u8?tag=29",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2103617597879230464/vid/avc1/480x270/g9fEG8NBmck9FAt4.mp4?tag=29",
+              "bitrate": 256000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2103617597879230464/vid/avc1/640x360/0bRDZTm4LGWkeHsO.mp4?tag=29",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2103617597879230464/vid/avc1/1280x720/WnKqU5CLU9wn7_xV.mp4?tag=29",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2103617597879230464/vid/avc1/1920x1080/K66bHvP0TNPPOWZQ.mp4?tag=29",
+              "bitrate": 10368000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "player",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

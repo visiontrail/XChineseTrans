@@ -1,0 +1,72 @@
+{
+  "source": "2094964831061155845",
+  "source_url": "https://x.com/dotey/status/2094964831061155845",
+  "updated_source_url": "https://x.com/dotey/status/2108669008283402744",
+  "format": "standalone",
+  "account": "LeoGuoLabs",
+  "text_path": "post-v1.txt",
+  "media_paths": [
+    "tip-v1.png",
+    "lydia-original.mp4"
+  ],
+  "alt_path": "alt-v1.txt",
+  "state": "publicly_verified",
+  "authorization": {
+    "user_message": "好的确认发布。",
+    "approved_at_utc": "2026-10-10T00:57:06.260879+00:00",
+    "scope": "exact post-v1.txt plus tip-v1.png then lydia-original.mp4"
+  },
+  "public_url": "https://x.com/LeoGuoLabs/status/2108723509379899738",
+  "review_url": "http://172.16.10.59:65224/review.html",
+  "checks": {
+    "live_account": "LeoGuoLabs",
+    "full_text_accepted": true,
+    "weighted_characters": 440,
+    "media_order": "image then video",
+    "video_ready": true,
+    "image_alt_saved": true,
+    "video_full_decode": "passed",
+    "video_local_playback": "0 to 5.95 seconds; readyState 4; no error",
+    "image_visual_qa": "passed",
+    "public_account": "LeoGuoLabs",
+    "public_full_text": "matches approved copy",
+    "public_format": "standalone",
+    "public_media_order": [
+      "image",
+      "video"
+    ],
+    "public_media_count": 2,
+    "public_image_alt": "matches alt-v1.txt",
+    "public_link": "t.co redirects to exact approved Claude docs URL",
+    "public_video": {
+      "currentTime_observations": [
+        0.037162,
+        6.660495
+      ],
+      "duration": 6.999999,
+      "paused": false,
+      "readyState": 4,
+      "error": null
+    },
+    "public_platform_label": "Made with AI"
+  },
+  "media_sha256": {
+    "tip-v1.png": "0539ab2c45c70edc74f5073ae8fb196e9c9a0cc50bdfe6f8ad51b941d2912286",
+    "lydia-original.mp4": "68a59cecf54e9b31d18538e9116d97711ecf5c0714fbc06e20ed0a97046cec36"
+  },
+  "evidence": [
+    "composer-review.png",
+    "video-verification.json",
+    "video-probe.json",
+    "research.md",
+    "public-page.png",
+    "public-image.png"
+  ],
+  "image_generation": {
+    "tool": "built-in imagegen",
+    "prompt": "image-prompt-v1.txt"
+  },
+  "publication_submitted": true,
+  "submitted_at_utc": "2026-10-10T00:57:22.123262+00:00",
+  "public_verified_at_utc": "2026-10-10T00:58:53.059909+00:00"
+}

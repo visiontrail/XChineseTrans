@@ -1,0 +1,15 @@
+import fs from 'node:fs';
+import {spawnSync} from 'node:child_process';
+const ff=process.env.FFMPEG_BIN||(fs.existsSync('/opt/homebrew/bin/ffmpeg')?'/opt/homebrew/bin/ffmpeg':'ffmpeg');
+const input='route-around-failure-v1.mp4',output='route-around-failure.mp4';
+const first=spawnSync(ff,['-hide_banner','-i',input,'-af','loudnorm=I=-18:TP=-2:LRA=9:print_format=json','-f','null','-'],{encoding:'utf8',maxBuffer:10e6});
+if(first.status!==0)throw new Error(first.stderr||String(first.error));
+fs.writeFileSync('evidence/master-pass1.log',first.stderr);
+const measurement=JSON.parse(first.stderr.match(/\{\s*"input_i"[\s\S]*?\}/)[0]);
+const filter=`loudnorm=I=-18:TP=-2:LRA=9:measured_I=${measurement.input_i}:measured_TP=${measurement.input_tp}:measured_LRA=${measurement.input_lra}:measured_thresh=${measurement.input_thresh}:offset=${measurement.target_offset}:linear=false:print_format=json`;
+const args=['-hide_banner','-y','-i',input,'-map','0:v:0','-map','0:a:0','-vf','scale=in_range=pc:out_range=tv:in_color_matrix=bt601:out_color_matrix=bt709,format=yuv420p','-c:v','libx264','-crf','18','-preset','medium','-color_range','tv','-colorspace','bt709','-color_primaries','bt709','-color_trc','bt709','-af',filter,'-ar','48000','-c:a','aac','-b:a','256k','-t','24','-movflags','+faststart','-metadata','title=A route around failure','-metadata','artist=LeoGuoLabs',output];
+const t=Date.now();const second=spawnSync(ff,args,{encoding:'utf8',maxBuffer:10e6});
+fs.writeFileSync('evidence/master-pass2.log',second.stderr);
+if(second.status!==0)throw new Error(second.stderr||String(second.error));
+fs.writeFileSync('evidence/master.json',JSON.stringify({input,output,seconds:(Date.now()-t)/1000,filter,videoFormat:'H.264, yuv420p, limited range, BT.709',audioTarget:{LUFS:-18,truePeakDBTP:-2,LRA:9},firstPass:measurement},null,2));
+console.log(`Mastered ${output} in ${(Date.now()-t)/1000} seconds`);

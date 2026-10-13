@@ -1,0 +1,18 @@
+{
+  "notes": [
+    "--ff-only advances a reference only when it can fast-forward; it refuses divergent history.",
+    "git merge --abort attempts to return to the pre-merge state. Preserve unfinished work first."
+  ],
+  "headings": [
+    [
+      "MERGE / git merge joins both histories",
+      50,
+      28
+    ],
+    [
+      "REBASE / replay the task on the current main",
+      50,
+      435
+    ]
+  ]
+}

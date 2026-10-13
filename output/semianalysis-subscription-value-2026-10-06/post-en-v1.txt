@@ -1,0 +1,11 @@
+Same $200/month. Very different usage allowances.
+
+In SemiAnalysis's Oct. 5 tests, Claude Max with Opus 5.5 offered about 5.6x the API-equivalent value of ChatGPT Pro with GPT-6.1 Sol. The raw token gap was about 2.8x.
+
+The distinction matters: API-equivalent value depends on each model's list price. Their agentic workload was 96.6% cached-input tokens, so these figures don't measure output tokens or completed work.
+
+The comparison uses OpenAI's reduced $200 allowance. Subscribers on the old $200 plan keep their limits until Oct. 29; Pro still has no 5-hour cap.
+
+Claude looks generous for heavy agent use under these assumptions. I'd still judge a subscription by the useful work it finishes before the limit hits.
+
+https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x

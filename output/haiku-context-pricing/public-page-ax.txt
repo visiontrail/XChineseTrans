@@ -1,0 +1,89 @@
+Browser tab: 2, Title: "Leo Guo on X: \"Haiku 5.5’s headline price comes with a 100K-token cliff. Up to 100K prompt tokens: $0.10 input / $0.50 output per million tokens. Above 100K: $0.50 / $2.50. Both rates jump 5×; cached-token rates do too. Artificial Analysis disclosed that its provisional cost figures didn’t https://t.co/s13oyNlaBy\" / X", URL: "https://x.com/LeoGuoLabs/status/2108191913056882820".
+0 AXWebArea URL: x.com/LeoGuoLabs/status/2108191913056882820, Leo Guo on X: "Haiku 5.5’s headline price comes with a 100K-token cliff. Up to 100K prompt tokens: $0.10 input / $0.50 output per million tokens. Above 100K: $0.50 / $2.50. Both rates jump 5×; cached-token rates do too. Artificial Analysis disclosed that its provisional cost figures didn’t https://t.co/s13oyNlaBy" / X
+	1 container
+		2 heading To view keyboard shortcuts, press question mark View keyboard shortcuts, Value: 2
+			3 text To view keyboard shortcuts, press question mark
+			4 link Description: View keyboard shortcuts, Value: x.com/i/keyboard_shortcuts
+		30 button Skip to home timeline
+		31 button Skip to trending
+		7 container
+			8 heading X, Value: 1
+				9 link Description: X, Value: x.com/home
+			10 container Primary
+				11 link Description: Home (New unread posts), Value: x.com/home
+				12 link Description: Search and explore, Value: x.com/explore
+				13 link Description: Notifications, Value: x.com/notifications
+				14 link Description: Follow, Value: x.com/i/connect_people
+				15 link Description: Direct Messages, Value: x.com/i/chat
+				16 link Description: Grok, Value: x.com/i/grok
+				17 link Description: Premium, Value: x.com/i/premium
+				18 link Description: History, Value: x.com/i/history
+				19 link Description: Creator Studio, Value: x.com/i/jf/creators/studio
+				20 link Description: Articles, Value: x.com/compose/articles
+				21 link Description: Profile, Value: x.com/LeoGuoLabs
+				22 pop up button (collapsed) Description: More menu items, Secondary Actions: Expand
+			23 link Description: Post, Value: x.com/compose/post
+			24 button Account menu
+				25 container
+					26 container
+						27 container Leo Guo
+							28 image Leo Guo
+					29 container undefined unread items
+		32 container Home timeline
+			33 container
+				34 container
+					35 button Back
+					36 heading Post, Value: 2
+						37 text Post
+			38 container Conversation
+				39 heading Conversation, Value: 1, ID: accessible-list-3
+					40 text Conversation
+				41 container Timeline: Conversation
+					42 container
+						43 container
+							44 container Leo Guo Verified account @LeoGuoLabs Haiku 5.5’s headline price comes with a 100K-token cliff. Up to 100K prompt tokens: $0.10 input / $0.50 output per million tokens. Above 100K: $0.50 / $2.50. Both rates jump 5×; cached-token rates do too. Artificial Analysis disclosed that its provisional cost figures didn’t yet include that higher tier. That matters if you’re using those charts to budget for long agent sessions. I’d compare cost per completed task at the context lengths I actually use. Short requests and long-running agents can have very different economics. Artificial Analysis article dated October 7, 2026, explaining that Haiku 5.5 token prices rise fivefold above 100,000 prompt tokens and that its provisional cost figures do not yet include the higher tier. ALT
+								45 container
+									46 link x.com/LeoGuoLabs
+									47 container
+										48 container id__m1xz4j8hvo
+											49 link Description: Leo Guo Verified account, Value: x.com/LeoGuoLabs
+											50 link Description: @LeoGuoLabs, Value: x.com/LeoGuoLabs
+										51 container
+											52 button Boost
+												53 text Boost
+											54 button Grok actions
+											55 pop up button (collapsed) Description: More, Secondary Actions: Expand
+									56 text Haiku 5.5’s headline price comes with a 100K-token cliff.
+
+Up to 100K prompt tokens: $0.10 input / $0.50 output per million tokens. Above 100K: $0.50 / $2.50. Both rates jump 5×; cached-token rates do too.
+
+Artificial Analysis disclosed that its provisional cost figures didn’t yet include that higher tier. That matters if you’re using those charts to budget for long agent sessions.
+
+I’d compare cost per completed task at the context lengths I actually use. Short requests and long-running agents can have very different economics.
+									57 container
+										58 link Value: x.com/LeoGuoLabs/status/2108191913056882820/photo/1, Description: Artificial Analysis article dated October 7, 2026, explaining that Haiku 5.5 token prices rise fivefold above 100,000 prompt tokens and that its provisional cost figures do not yet include the higher tier.
+										59 button ALT
+											60 text ALT
+									61 container
+										62 container
+											63 link Description: 9:44 PM · Oct 8, 2026, Value: x.com/LeoGuoLabs/status/2108191913056882820
+											64 link Description: 1 View, Value: x.com/LeoGuoLabs/status/2108191913056882820/analytics
+									65 container Description: 1 view, ID: id__gxaimm3iol7
+										66 button 0 Replies. Reply
+										67 pop up button (collapsed) Description: 0 reposts. Repost, Secondary Actions: Expand
+										68 button 0 Likes. Like
+										69 button 0 Bookmarks. Bookmark
+										70 pop up button (collapsed) Description: Share post, Secondary Actions: Expand
+							71 container
+								72 container
+									73 link Description: Leo Guo, Value: x.com/LeoGuoLabs
+									74 container
+										75 container
+											76 container
+												77 text Post your reply
+												78 text entry area (settable) Description: Post text, Value: 
+
+										79 button (disabled) Reply
+											80 text Reply
+
+The focused UI element is 46 link x.com/LeoGuoLabs

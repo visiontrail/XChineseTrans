@@ -1,0 +1,155 @@
+- heading "To view keyboard shortcuts, press question mark View keyboard shortcuts" [level=2]:
+  - generic: To view keyboard shortcuts, press question mark
+  - link "View keyboard shortcuts":
+    - /url: /i/keyboard_shortcuts
+- button "Grok":
+- button "Chat":
+- button "Skip to home timeline"
+- button "Skip to trending"
+- banner:
+  - heading "X" [level=1]:
+    - link "X":
+      - /url: /home
+  - navigation "Primary":
+    - link "Home":
+      - /url: /home
+      - generic: Home
+    - link "Search and explore":
+      - /url: /explore
+      - generic: Explore
+    - link "Notifications":
+      - /url: /notifications
+      - generic: Notifications
+    - link "Follow":
+      - /url: /i/connect_people
+      - generic: Follow
+    - link "Direct Messages":
+      - /url: /i/chat
+      - generic: Chat
+    - link "Grok":
+      - /url: /i/grok
+      - generic: Grok
+    - link "Premium":
+      - /url: /i/premium
+      - generic: Premium
+    - link "History":
+      - /url: /i/history
+      - generic: History
+    - link "Profile":
+      - /url: /LeoGuoLabs
+      - generic: Profile
+    - button "More menu items":
+      - generic: More
+  - link "Post":
+    - /url: /compose/post
+    - generic: Post
+  - button "Account menu":
+    - generic "Leo Guo":
+      - img "Leo Guo"
+    - generic: Leo Guo
+    - img "Verified account"
+    - generic: "@LeoGuoLabs"
+- main:
+  - generic "Home timeline":
+    - button "Back":
+    - heading "Post" [level=2]
+    - status:
+      - button:
+        - generic: See new posts
+    - region "Conversation":
+      - heading "Conversation" [level=1]
+      - 'generic "Timeline: Conversation"':
+        - 'article "Leo Guo Verified account @LeoGuoLabs More agents won’t fix a verification bottleneck. Lauren Tan’s pstack workflow starts with agents that can run the product, reproduce bugs and verify their own changes. Recurring failures become skills. Those skills get evals. Critical rules get enforced in CI. That’s the part worth copying: build a process you can trust, then scale it. Otherwise, parallel coding just creates a longer queue for one human reviewer. Video: reposted edit with an altered background. github.com/cursor/plugins Embedded video 1:04:02 Unmute"':
+          - link [active]:
+            - /url: /LeoGuoLabs
+          - link "Leo Guo Verified account":
+            - /url: /LeoGuoLabs
+            - generic: Leo Guo
+            - img "Verified account"
+          - link "@LeoGuoLabs":
+            - /url: /LeoGuoLabs
+            - generic: "@LeoGuoLabs"
+          - button "Grok actions":
+          - button "More":
+          - text: "More agents won’t fix a verification bottleneck. Lauren Tan’s pstack workflow starts with agents that can run the product, reproduce bugs and verify their own changes. Recurring failures become skills. Those skills get evals. Critical rules get enforced in CI. That’s the part worth copying: build a process you can trust, then scale it. Otherwise, parallel coding just creates a longer queue for one human reviewer. Video: reposted edit with an altered background."
+          - link "github.com/cursor/plugins":
+            - /url: https://t.co/EDyh7X6HJV
+            - text: github.com/cursor/plugins …
+          - generic "Embedded video"
+          - generic: 1:04:02
+          - button "Unmute":
+          - link "2:56 PM · Oct 6, 2026":
+            - /url: /LeoGuoLabs/status/2107364417243611494
+            - time: 2:56 PM · Oct 6, 2026
+          - button "0 Replies. Reply":
+          - button "0 reposts. Repost":
+          - button "0 Likes. Like":
+          - button "0 Bookmarks. Bookmark":
+          - button "Share post":
+        - link "Leo Guo":
+          - /url: /LeoGuoLabs
+          - generic "Leo Guo":
+            - img "Leo Guo"
+        - generic: Post your reply
+        - textbox "Post text"
+        - button "Reply" [disabled]:
+          - generic: Reply
+  - generic "Trending":
+    - search "Search":
+      - combobox "Search query"
+    - complementary "Relevant people":
+      - heading "Relevant people" [level=2]:
+        - generic: Relevant people
+      - list:
+        - link:
+          - /url: /LeoGuoLabs
+        - link "Leo Guo Verified account":
+          - /url: /LeoGuoLabs
+          - generic: Leo Guo
+          - img "Verified account"
+        - link "@LeoGuoLabs":
+          - /url: /LeoGuoLabs
+          - generic: "@LeoGuoLabs"
+    - region "Trending now":
+      - heading "Trending now" [level=1]
+      - 'generic "Timeline: Trending now"':
+        - heading "What’s happening" [level=2]:
+          - generic: What’s happening
+        - link "Politics · Trending Quebec More":
+          - generic: Politics · Trending
+          - generic: Quebec
+          - button "More":
+        - link "Business & finance · Trending Steve Jobs More":
+          - generic: Business & finance · Trending
+          - generic: Steve Jobs
+          - button "More":
+        - 'link "Trending in Singapore #JoongArchen More"':
+          - generic: Trending in Singapore
+          - generic: "#JoongArchen"
+          - button "More":
+        - link "Fashion & beauty · Trending Within Paris Fashion Week More":
+          - generic: Fashion & beauty · Trending
+          - generic: Within Paris Fashion Week
+          - button "More":
+        - link "Show more":
+          - /url: /explore/tabs/for-you
+          - generic: Show more
+    - navigation "Footer":
+      - link "Terms":
+        - /url: https://x.com/tos
+      - generic: ·
+      - link "Privacy":
+        - /url: https://x.com/privacy
+      - generic: ·
+      - link "Cookies":
+        - /url: https://support.x.com/articles/20170514
+      - generic: ·
+      - link "Accessibility":
+        - /url: https://help.x.com/resources/accessibility
+      - generic: ·
+      - link "Ads Info":
+        - /url: https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo
+      - generic: ·
+      - button "More":
+        - text: More
+      - generic: © 2026 X Corp.

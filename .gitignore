@@ -1,2 +1,86 @@
+# macOS metadata
 .DS_Store
 ._*
+
+# Local dependencies and reproducible build caches
+node_modules
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.next/
+.bundle/
+.cache/
+.pytest_cache/
+*.tsbuildinfo
+
+# Local secrets and authentication state
+.env
+.env.*
+!.env.example
+cookies.txt
+cookies.json
+storage-state.json
+storageState.json
+
+# Editor, process, and temporary files (keep verification logs)
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+*.pid
+*.stdout
+*.stderr
+tmp/
+temp/
+*-server.log
+npm-install.log
+
+# Interrupted downloads, CDN probes, and assembly fragments
+*.part
+*.part-*
+*.partial
+*.partial.*
+*.incomplete
+*.incomplete.*
+*-incomplete.*
+*.initial-partial.*
+*-partial-download.bin
+*.ytdl
+*.m4s
+*.tail
+*-parts/
+parts/
+parts720/
+*-chunks/
+*-ranges/
+ranges/
+ranges-*/
+hls-window/
+*.bin
+*.headers
+*-headers.txt
+
+# Oversized local assets: videos >50 MiB; other files >100 MiB.
+# https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github
+/output/amd-world-labs/original-interview-1080p.mp4
+/output/amd-world-labs/research/original-video.mp4
+/output/anthropic-prompting-101/official-full-h264-30fps.mp4
+/output/anthropic-prompting-101/official-full-h264-60fps.mp4
+/output/anthropic-prompting-101/official-full-h264.mp4
+/output/anthropic-prompting-101/official-original.mkv
+/output/anthropic-prompting-101/official-video-h264.mp4
+/output/atlas-gr3-hands/atlas-gr3-official-original.mp4
+/output/claude-code-reusable-context/original-video.mp4
+/output/figure-02-decommission/01-decommission-video.mp4
+/output/higgsfield-passport-rush/original-video-1080p.mp4
+/output/lauren-tan-pstack/media/lauren-tan-session-65m-720p.mp4
+/output/lauren-tan-pstack/verification/prefix-preview.mp4
+/output/maextro-v800-brake-safety-20261009/source-136.mp4
+/output/maextro-v800-brake-safety-20261009/test-video.mp4
+/output/muse-three-differentiators/muse-zuckerberg-full-1080p.mp4
+/output/qualcomm-ai-phone-2028/source/interview-full-720p-verified.mp4
+/output/satellite-beam-steering/research/reference-sample.mp4
+/output/zuckerberg-wang-conviction-20261013/media/official-full-270p.mp4
+/output/zuckerberg-wang-conviction-20261013/media/official-full-720p.incomplete

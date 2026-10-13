@@ -1,0 +1,40 @@
+{
+  "browser": "Codex in-app browser",
+  "url": "http://127.0.0.1:8753/review.html",
+  "video_sha256": "fa1e51f22a996ec1bb148ad28841f3e02108884ddc0060acd56151e1c43ac031",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "readyState": 4,
+  "observations": [
+    {
+      "time": 0,
+      "state": "playing"
+    },
+    {
+      "time": 46.6,
+      "state": "playing"
+    },
+    {
+      "time": 62.47,
+      "state": "playing after Feedback loop seek"
+    },
+    {
+      "time": 75.96,
+      "state": "paused after continued playback"
+    },
+    {
+      "time": 210.47,
+      "state": "playing after Final 8 seconds seek"
+    },
+    {
+      "time": 218.47,
+      "state": "ended"
+    }
+  ],
+  "media_error": false,
+  "visual_review": "10 representative final shot stills plus longest-caption frame; browser motion sample",
+  "audio_listening": "Not available to agent; see qa.md",
+  "publication_submitted": false
+}

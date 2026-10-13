@@ -1,0 +1,69 @@
+{
+  "source": "https://x.com/vista8/status/2107860239584526597",
+  "primary_source": "https://github.com/yetone/magpie",
+  "author_clarification": "https://x.com/vista8/status/2107860481503625545",
+  "account": "@LeoGuoLabs",
+  "format": "standalone",
+  "state": "publicly_verified",
+  "approval": {
+    "user_message": "确认发布",
+    "approved_at": "2026-10-09T06:29:58.947027+00:00",
+    "approved_text_file": "post-en.txt",
+    "approved_media": [
+      "official-add-provider-light.png"
+    ]
+  },
+  "final_text": "Building an AI tool with multiple models? Magpie is worth a look before you write the provider settings and login flows.\n\nIt’s an MIT-licensed local gateway that brings provider presets, API keys, subscription sign-ins and model switching together for agents like Claude Code, Codex and Gemini CLI.\n\nIf you’re building something similar, give the repo to your coding agent. Ask it to explain the provider configuration and OAuth flows, then adapt the pieces your app needs. The provider picker is a nice UI reference, too.\n\nhttps://github.com/yetone/magpie",
+  "media": [
+    {
+      "path": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/magpie-provider-infrastructure/official-add-provider-light.png",
+      "kind": "official_repository_ui_image",
+      "alt": "Magpie’s Add a Provider screen, with separate sections for subscription sign-ins, API vendors, relay services and local model servers such as Ollama and LM Studio."
+    }
+  ],
+  "checks": {
+    "source_live_read": true,
+    "source_original_language": true,
+    "author_relevant_reply_read": true,
+    "source_videos": 0,
+    "source_images_inspected": 2,
+    "official_readme_and_reference_verified": true,
+    "MIT_license": true,
+    "oauth_and_lobehub_documented": true,
+    "media_visually_inspected": true,
+    "composer_checked": true,
+    "product_runtime_tested": false,
+    "composer_text_matches_after_paragraph_normalization": true,
+    "composer_media_count": 1,
+    "composer_post_enabled": true,
+    "composer_alt_saved": true,
+    "account_live_verified": "@LeoGuoLabs",
+    "link_present": true,
+    "native_link_card_after_attachment": false,
+    "profile_new_post_found": true,
+    "public_account_verified": "@LeoGuoLabs",
+    "public_text_matches_approved": true,
+    "public_format": "standalone",
+    "public_media_count": 1,
+    "public_image_loaded": true,
+    "public_image_inspected": true,
+    "public_alt_matches": true,
+    "public_github_link_visible": true
+  },
+  "review_notes": [
+    "Original second image is Qiaomu Clipper after learning from Magpie, not Magpie UI; replaced with authentic official repository Add a Provider image.",
+    "Selected official English UI image is unedited, and includes the original third-party vendor names."
+  ],
+  "published_url": "https://x.com/LeoGuoLabs/status/2108444980700447020",
+  "evidence": {
+    "composer_screenshot": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/magpie-provider-infrastructure/composer-review.png",
+    "composer_text": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/magpie-provider-infrastructure/composer-text.txt",
+    "public_text": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/magpie-provider-infrastructure/public-post-text.txt",
+    "public_page_screenshot": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/magpie-provider-infrastructure/public-post-viewport.png",
+    "public_media_screenshot": "/Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans/output/magpie-provider-infrastructure/public-media.png"
+  },
+  "updated_at": "2026-10-09T03:46:00.460216+00:00",
+  "submitted_at": "2026-10-09T06:30:43.046644+00:00",
+  "submission_evidence": "Authenticated X page showed: Your post was sent. You have 1 hour to make any edits.",
+  "publicly_verified_at": "2026-10-09T06:33:34.615774+00:00"
+}

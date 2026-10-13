@@ -1,0 +1,1 @@
+OpenAI’s official Decisions API documentation describes typed answers from text and images, and states that the API is in public beta using gpt-6-luna.

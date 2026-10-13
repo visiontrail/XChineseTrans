@@ -1,0 +1,34 @@
+{
+  "article": {
+    "height": 1915.75,
+    "width": 598,
+    "x": 276,
+    "y": 53
+  },
+  "frames": [
+    {
+      "scrollY": 0,
+      "viewportHeight": 720,
+      "viewportWidth": 1280,
+      "file": "public-view-clean-0.png"
+    },
+    {
+      "scrollY": 576,
+      "viewportHeight": 720,
+      "viewportWidth": 1280,
+      "file": "public-view-clean-1.png"
+    },
+    {
+      "scrollY": 1152,
+      "viewportHeight": 720,
+      "viewportWidth": 1280,
+      "file": "public-view-clean-2.png"
+    },
+    {
+      "scrollY": 1534,
+      "viewportHeight": 720,
+      "viewportWidth": 1280,
+      "file": "public-view-clean-3.png"
+    }
+  ]
+}

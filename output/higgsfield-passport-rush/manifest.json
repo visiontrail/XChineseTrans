@@ -1,0 +1,55 @@
+{
+  "status": "approved_waiting_ten_minute_interval",
+  "format": "quote",
+  "account": "LeoGuoLabs",
+  "text": "post.txt",
+  "video": "original-video-1080p.mp4",
+  "video_source_post": "https://x.com/higgsfield_ai/status/2103570077325095208",
+  "original_youtube": "https://www.youtube.com/watch?v=reFzEtCG_m8",
+  "bytes": 448171054,
+  "sha256": "11bfd1aea54a4b9a426a78891c3b2de0f456a5b01ceb1b036c0a87b9adeb29d6",
+  "duration_seconds": 1685.290667,
+  "width": 1920,
+  "height": 1080,
+  "video_codec": "h264",
+  "full_audio_video_decode": "passed",
+  "sampled_frames": 20,
+  "subtitle_streams": 0,
+  "visual_subtitle_check": "No Chinese subtitles observed in the opening frame and 20 evenly spaced frames spanning the complete video.",
+  "approval": {
+    "user_message": "除了那篇文章，视频方法论的那篇文章，其他另外两个都可以帮忙发布了。 然后这两个推文中间间隔十分钟再发。",
+    "date": "2026-10-02",
+    "scope": "Existing Gemini standalone copy/image and Passport Rush English copy with official original post/video."
+  },
+  "composer_verified": {
+    "account": "LeoGuoLabs",
+    "exact_text_match": true,
+    "characters": 1104,
+    "attached_filename": "original-video-1080p.mp4"
+  },
+  "publication_submitted": false,
+  "browser_handoff": {
+    "standalone_upload_tab_id": "2",
+    "official_original_tab_id": "3",
+    "last_upload_progress_percent": 27
+  },
+  "pre_20261002_preparation": {
+    "status": "awaiting_quote_source_selection",
+    "format": "standalone",
+    "approval": {
+      "user_message": "请你帮忙发布吧",
+      "scope": "Previously displayed exact English copy and original-video-1080p.mp4; standalone LeoGuoLabs post",
+      "recorded_at": "2026-09-28T11:18:02.898837+00:00"
+    },
+    "pending_question": "Quote the official Higgsfield English original with its native video, or quote the supplied Chinese post and upload the clean original video separately?",
+    "browser_handoff": {
+      "standalone_upload_tab_id": "2",
+      "official_original_tab_id": "3",
+      "last_upload_progress_percent": 27
+    }
+  },
+  "quote_target": "https://x.com/higgsfield_ai/status/2103570077325095208",
+  "media_delivery": "Official quoted post retains its original full 28-minute video.",
+  "earliest_submit_at": "2026-10-02T07:59:07.000Z",
+  "preceding_publication_url": "https://x.com/LeoGuoLabs/status/2105928046918476177"
+}

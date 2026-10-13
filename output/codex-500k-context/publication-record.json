@@ -1,0 +1,31 @@
+{
+  "source_url": "https://x.com/dotey/status/2109436840155697267",
+  "original_url": "https://x.com/thsottiaux/status/2109430343346581527",
+  "billing_followup_url": "https://x.com/thsottiaux/status/2109430894604026039",
+  "account": "LeoGuoLabs",
+  "format": "quote",
+  "text_path": "post-en.txt",
+  "media": [],
+  "state": "publicly_verified",
+  "review": "approved",
+  "authorization": "User approved revised one-sentence copy, then explicitly instructed Quote Tibo and publish.",
+  "publication_url": "https://x.com/LeoGuoLabs/status/2109449041327394937",
+  "prepared_date": "2026-10-12",
+  "checks": {
+    "authenticated_account_verified": true,
+    "source_original_language_read": true,
+    "original_announcement_read": true,
+    "billing_followup_read": true,
+    "relevant_source_media": false,
+    "full_copy_accepted_in_composer": true,
+    "post_button_enabled": true,
+    "quote_target_verified_in_composer": true,
+    "profile_published_copy_verified": true,
+    "public_permalink_verified": true,
+    "exact_approved_comment_verified": true,
+    "public_quote_target_verified": true
+  },
+  "quote_target": "https://x.com/thsottiaux/status/2109430343346581527",
+  "evidence": "published-quote.png",
+  "published_at": "2026-10-12T09:00:00+08:00"
+}

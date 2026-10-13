@@ -1,0 +1,69 @@
+{
+  "source": "https://x.com/huxlab/status/2108470589946253799",
+  "source_video_post": "https://x.com/kuzeyinoncusu/status/2108224522620948678",
+  "verified_original_publisher": "Forbes",
+  "original_interview": "https://www.youtube.com/watch?v=adgbH9FixW0",
+  "interview_publication_date": "2026-05-19",
+  "account": "LeoGuoLabs",
+  "format": "standalone",
+  "state": "publicly_verified",
+  "final_text_path": "output/musk-ai-work-three-years/post-en-v1.txt",
+  "final_text": "In this May 2026 Forbes interview, Musk predicts that AI will exceed humanity’s combined intelligence by 2031, alongside at least 100 million humanoid robots. He also expects the economy to roughly double within five to seven years.\n\nAn aggressive forecast. My takeaway is practical: use AI to build something you own—a useful product, an audience that trusts you, and a way to reach customers.\n\nStart with one problem people will pay to solve. Use AI to handle the repeatable work, so growth doesn’t always require another hour of your time.\n\nAI can make building cheaper. You still need to make something people want.",
+  "media": [
+    {
+      "path": "output/musk-ai-work-three-years/media/source-video-720p.mp4",
+      "duration_seconds": 68.336327,
+      "width": 1280,
+      "height": 720,
+      "bytes": 3952822,
+      "sha256": "4e5f96807333ad2e9007c3626decc9e880917c90f23d19fa257061344fa1d537",
+      "type": "video",
+      "retains": "Forbes watermark and English word captions",
+      "full_source_clip": true,
+      "original_full_interview": false
+    }
+  ],
+  "checks": {
+    "fresh_download": true,
+    "byte_ranges_verified": true,
+    "ffprobe": true,
+    "full_decode": "passed, empty error log",
+    "sampled_frames": "beginning, middle, end inspected",
+    "official_transcript": "fresh export from Forbes YouTube, 15:44-16:49 relevant",
+    "source_browser_playback": "observed 0 to 64.115 seconds, readyState 4, paused false",
+    "composer_full_text_accepted": true,
+    "composer_media_ready": true,
+    "composer_preview_playback": "observed progressing from 0:00 to 0:12 of 1:08, no visible error",
+    "preview_audio": "AAC stream present and fully decoded; no subjective audio-quality claim made"
+  },
+  "review_authorization": {
+    "user_message": "确认发布",
+    "scope": "exact reviewed English text and complete 68-second video, standalone @LeoGuoLabs post",
+    "recorded_at": "2026-10-09T08:49:56.314698+00:00"
+  },
+  "publication_submitted": true,
+  "scheduled": false,
+  "published_url": "https://x.com/LeoGuoLabs/status/2108480101092581432",
+  "prepared_at": "2026-10-09T08:36:15.742470+00:00",
+  "evidence": [
+    "composer-review-text.jpg",
+    "composer-review-video.jpg"
+  ],
+  "notes": "Published once after explicit user confirmation. Actual public URL reopened; full text, account, standalone format, one native video and progressing public playback verified.",
+  "submitted_at": "2026-10-09T08:50:12.700401+00:00",
+  "publicly_verified_at": "2026-10-09T08:52:09.361843+00:00",
+  "public_verification": {
+    "url": "https://x.com/LeoGuoLabs/status/2108480101092581432",
+    "account": "LeoGuoLabs",
+    "format": "standalone",
+    "complete_text_matches_approved": true,
+    "media_count": 1,
+    "media_type": "native uploaded video",
+    "duration_seconds": 68.336,
+    "playback": "observed progressing from 0 to 27.030936 seconds without error; readyState 4, paused false, 1280x720",
+    "evidence": [
+      "public-post-verified.jpg",
+      "public-playback.json"
+    ]
+  }
+}

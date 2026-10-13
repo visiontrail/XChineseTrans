@@ -1,0 +1,9 @@
+OpenAI’s Decisions API looks like a useful building block for agents.
+
+It uses gpt-6-luna to turn text and images into a probability, a choice from your options, or a score against a rubric. It’s in public beta.
+
+You could use it to triage support requests or choose which specialist handles a task. I like this division of labor: a fast decision step picks the path, then the larger model does the work.
+
+Vercel lists it as openai/gpt-6-luna-decisions. Built-in Codex routing would be an interesting next step, but that remains speculation.
+
+https://developers.openai.com/api/docs/guides/decisions

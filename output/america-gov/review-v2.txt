@@ -1,0 +1,7 @@
+2026-10-01: Added https://america.gov as a standalone first line. All previously reviewed body paragraphs retained.
+Format: standalone @LeoGuoLabs post with America.gov native link card. No image or video upload.
+Prepared in authenticated Codex in-app browser at https://x.com/compose/post.
+Verified blue first-line URL and blue America.gov text in the composer, visible America.gov card, and enabled Post button.
+Screenshots: composer-link-v2.jpg and composer-card-v2.jpg.
+Text file: post-v2.txt (841 plain characters, 132 words).
+Publication not submitted. Final review pending for the revised text and card.

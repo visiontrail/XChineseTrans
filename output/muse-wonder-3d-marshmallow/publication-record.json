@@ -1,0 +1,136 @@
+{
+  "state": "publicly_verified",
+  "review": "approved",
+  "account": "@LeoGuoLabs",
+  "format": "quote",
+  "source": "https://x.com/leo114119/status/2109700950424514982",
+  "original": "https://x.com/cherry_mx_reds/status/2109699568849781051",
+  "text_path": "output/muse-wonder-3d-marshmallow/post-en.txt",
+  "text": "Muse Wonder’s Japanese voxel world looks like it’s built out of marshmallows. 😂\n\nThe torii gate and floating island are recognizable, and there’s something charming about the pastel toy-world look. But the chunky shapes and sparse detail make it feel like a first draft.\n\nI’d want another pass before calling this a finished 3D scene.",
+  "media": [
+    {
+      "path": "output/muse-wonder-3d-marshmallow/originals/muse-wonder-3d-source-verified.mp4",
+      "source_url": "https://video.twimg.com/amplify_video/2109696966577754112/vid/avc1/1426x1080/8_bwWt4u6ivzrjbq.mp4?tag=29",
+      "retrieved_at": "2026-10-13T01:31:01.296607+00:00",
+      "bytes": 3869871,
+      "sha256": "37b734ef8ca35613c216953b3e3e40a7057f4d6bff3c96e3bc6a30549b6ae5ea",
+      "duration_seconds": 10.197333,
+      "resolution": [
+        1426,
+        1080
+      ],
+      "codecs": [
+        "h264",
+        "aac"
+      ],
+      "upload_path": "output/muse-wonder-3d-marshmallow/upload-video.mp4",
+      "upload_sha256": "fa8b578158c6a1fe0c2bb3fbd032076dcbc58670fbdfa5999e5b61c0836e8fed",
+      "upload_bytes": 4246920,
+      "compatibility": "Full length H.264/AAC, constant 30fps, faststart; source preserved"
+    }
+  ],
+  "checks": {
+    "range_assembly": "8 ranges validated against Content-Range and exact byte counts",
+    "full_decode": "passed with empty decode-errors.txt",
+    "frames": "beginning/middle/end inspected",
+    "live_source_account": "@LeoGuoLabs session verified",
+    "local_playback": {
+      "status": "passed",
+      "time_start": 0.270275,
+      "time_end": 10.197333,
+      "readyState": 4,
+      "ended": true,
+      "error": null,
+      "tested_device": "local computer via LAN endpoint"
+    },
+    "upload_decode": "passed",
+    "review_served_file_matches_upload": true,
+    "compatible_playback": {
+      "time_start": 0.243576,
+      "duration": 10.197,
+      "readyState": 4,
+      "paused": false,
+      "error": null,
+      "time_end": 10.197,
+      "ended": true
+    },
+    "standalone_composer": {
+      "status": "ready",
+      "full_text_exact": true,
+      "media_count": 1,
+      "filename": "upload-video.mp4",
+      "ui_status": "Ready",
+      "post_enabled": true,
+      "submitted": false,
+      "screenshot": "output/muse-wonder-3d-marshmallow/composer-ready.png"
+    },
+    "quote_composer": {
+      "status": "ready",
+      "full_text_exact": true,
+      "native_quote_author": "@cherry_mx_reds",
+      "native_quote_target": "https://x.com/cherry_mx_reds/status/2109699568849781051",
+      "post_enabled": true,
+      "screenshot": "output/muse-wonder-3d-marshmallow/quote-composer-ready.png"
+    },
+    "submission": {
+      "composer_closed": true,
+      "source_repost_count_before": 3,
+      "source_repost_count_after": 4,
+      "public_url": "pending lookup",
+      "submission_retried": false
+    },
+    "public_verification": {
+      "account": "LeoGuoLabs",
+      "full_text_exact": true,
+      "format": "native_quote",
+      "quote_target": "2109699568849781051",
+      "quote_author": "cherry_mx_reds",
+      "quote_video_id": "2109696966577754112",
+      "video_count": 1,
+      "playback": {
+        "start": {
+          "currentTime": 0.167473,
+          "duration": 10.135,
+          "readyState": 4,
+          "paused": false,
+          "error": null
+        },
+        "later": [
+          {
+            "currentTime": 4.093191,
+            "duration": 10.197333,
+            "ended": false,
+            "error": null,
+            "paused": false,
+            "readyState": 4,
+            "videoHeight": 270,
+            "videoWidth": 356
+          }
+        ]
+      },
+      "screenshot": "output/muse-wonder-3d-marshmallow/published.png"
+    },
+    "quote_list": "Published post found in original source Quotes list under @LeoGuoLabs"
+  },
+  "review_url": "http://172.16.10.59:8766/",
+  "authorization": {
+    "publish": true,
+    "basis": "User approved the reviewed copy and authorized either mentioning the original author or native Quote; selected native Quote of the exact original video post.",
+    "user_text": "确认，可以 @原作者 或者使用quote的方式发这个推",
+    "recorded_at": "2026-10-13T02:29:02.209488+00:00"
+  },
+  "published_url": "https://x.com/LeoGuoLabs/status/2109836447528489047",
+  "review_server": {
+    "pid_session": 67412,
+    "url": "http://172.16.10.59:8766/",
+    "http_status": 200,
+    "directory": "output/muse-wonder-3d-marshmallow/review"
+  },
+  "previous_format": "standalone",
+  "quote_target": "https://x.com/cherry_mx_reds/status/2109699568849781051",
+  "media_delivery": "original native video in quoted post; verified local source retained",
+  "submission_attempted_at": "2026-10-13T02:39:57.834684+00:00",
+  "publication_browser": "Codex in-app browser",
+  "published_time_local": "2026-10-13 10:39 Asia/Singapore",
+  "verified_at": "2026-10-13T02:48:51.280190+00:00"
+}

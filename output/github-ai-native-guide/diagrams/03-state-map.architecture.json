@@ -1,0 +1,170 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {
+    "title": "Where an agent moves the work",
+    "subtitle": "Each transition establishes a different result.",
+    "viewBox": [
+      1030,
+      500
+    ]
+  },
+  "components": [
+    {
+      "id": "files",
+      "label": "Working files",
+      "sublabel": "Current edits",
+      "pos": [
+        50,
+        100
+      ],
+      "size": [
+        170,
+        78
+      ],
+      "type": "frontend"
+    },
+    {
+      "id": "index",
+      "label": "Index",
+      "sublabel": "Next snapshot",
+      "pos": [
+        300,
+        100
+      ],
+      "size": [
+        170,
+        78
+      ],
+      "type": "messagebus"
+    },
+    {
+      "id": "local",
+      "label": "Local history",
+      "sublabel": "Commits + branches",
+      "pos": [
+        550,
+        100
+      ],
+      "size": [
+        170,
+        78
+      ],
+      "type": "database"
+    },
+    {
+      "id": "remote",
+      "label": "Remote branch",
+      "sublabel": "Shared history",
+      "pos": [
+        800,
+        100
+      ],
+      "size": [
+        170,
+        78
+      ],
+      "type": "cloud"
+    },
+    {
+      "id": "pr",
+      "label": "Pull request",
+      "sublabel": "Review + integration",
+      "pos": [
+        800,
+        330
+      ],
+      "size": [
+        170,
+        78
+      ],
+      "type": "security"
+    },
+    {
+      "id": "live",
+      "label": "Delivered site",
+      "sublabel": "Observed at real URL",
+      "pos": [
+        550,
+        330
+      ],
+      "size": [
+        170,
+        78
+      ],
+      "type": "backend"
+    }
+  ],
+  "connections": [
+    {
+      "from": "files",
+      "to": "index",
+      "variant": "emphasis",
+      "label": "git add"
+    },
+    {
+      "from": "index",
+      "to": "local",
+      "variant": "emphasis",
+      "label": "git commit"
+    },
+    {
+      "from": "local",
+      "to": "remote",
+      "variant": "emphasis",
+      "label": "git push"
+    },
+    {
+      "from": "remote",
+      "to": "local",
+      "variant": "dashed",
+      "fromSide": "bottom",
+      "toSide": "bottom",
+      "via": [
+        [
+          885,
+          245
+        ],
+        [
+          635,
+          245
+        ]
+      ],
+      "label": "git fetch",
+      "labelAt": [
+        760,
+        264
+      ]
+    },
+    {
+      "from": "remote",
+      "to": "pr",
+      "variant": "emphasis",
+      "fromSide": "right",
+      "toSide": "right",
+      "via": [
+        [
+          995,
+          139
+        ],
+        [
+          995,
+          369
+        ]
+      ]
+    },
+    {
+      "from": "pr",
+      "to": "live",
+      "variant": "emphasis",
+      "fromSide": "left",
+      "toSide": "right",
+      "labelAt": [
+        760,
+        303
+      ],
+      "label": "deploy + verify"
+    }
+  ],
+  "cards": []
+}

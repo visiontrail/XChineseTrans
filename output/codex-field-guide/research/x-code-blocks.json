@@ -1,0 +1,7 @@
+[
+  "Fix the settings page so the selected language survives a refresh.\n\nFirst inspect how preferences are stored and how the page restores them.\nKeep the existing design and support every language already available.\n\nMake the necessary changes and run the relevant checks.\nIf browser access is available, change the language, refresh the page,\nand reopen settings to verify that the saved choice is still selected.\n\nDo not deploy this change or modify production data.\nAt handoff, report the cause, the changes, the checks you ran,\nand anything you could not verify.",
+  "# Working instructions\n\n- Read the existing code and project documentation before editing.\n- Keep changes focused on the requested outcome.\n- Preserve unrelated work already present in the checkout.\n- Run the relevant checks and name any checks you could not run.\n- Fix shared causes when several failures come from the same mechanism.\n- Report code changes, test results, deployment, and live verification\n  as separate claims.\n- Ask before publishing, deploying, or changing production data\n  unless the current task already authorizes it.",
+  "npm install -g @openai/codex",
+  "cd /path/to/your/project\ncodex",
+  "codex --version\ncodex --help\ncodex --cd /path/to/your/project\ncodex resume --last\ncodex --worktree\ncodex --search\ncodex -i screenshot.png \"Investigate this layout problem\"\ncodex exec \"Summarize the repository structure without editing files\""
+]

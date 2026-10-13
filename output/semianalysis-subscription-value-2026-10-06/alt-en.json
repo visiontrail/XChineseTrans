@@ -1,0 +1,4 @@
+[
+  "SemiAnalysis comparison of estimated monthly API-equivalent value for GPT-6.1 Sol and Claude Opus 5.5 under an agentic workload. At $200 per month: ChatGPT Pro $2,084; Claude Max $11,726. At $100: $1,055 versus $5,725. At $20: $211 versus $1,178. Values assume full monthly usage at first-party API list prices; 96.6% of workload tokens are cached input.",
+  "SemiAnalysis comparison of total monthly token allowances for GPT-6.1 Sol and Claude Opus 5.5 under the same agentic workload. At $200 per month: ChatGPT Pro 10.2 billion tokens; Claude Max 28.6 billion. At $100: 5.1 billion versus 14.0 billion. At $20: 1.0 billion versus 2.9 billion. Totals include input, cached input, cache writes and output; 96.6% are cached input."
+]

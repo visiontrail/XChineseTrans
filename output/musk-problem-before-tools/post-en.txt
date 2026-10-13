@@ -1,0 +1,7 @@
+Learning a tool is a lot more interesting when you have something to fix.
+
+Musk’s engine example gets this right: take the engine apart, then introduce the wrench and screwdriver. The task gives the tools a purpose. Math and physics can be taught the same way—through the problems they help us understand.
+
+I think AI tutorials often get this backwards too. Before collecting another prompt template, pick something real: a report you repeat every week, a bug you can’t explain, or a workflow that keeps getting stuck. Then learn what you need to make progress.
+
+You’ll still need the fundamentals. A real problem gives you a reason to learn them.

@@ -1,0 +1,377 @@
+- link "Skip to content":
+  - /url: "#start-of-content"
+- banner "Global navigation menu":
+  - button "Open menu":
+  - link "Homepage (g then d)":
+    - /url: /
+  - navigation "Breadcrumbs":
+    - list:
+      - link "pallets":
+        - /url: /pallets
+        - generic: pallets
+      - link "flask":
+        - /url: /pallets/flask
+      - button "Switch repository (alt shift r)":
+  - button "Open quick search dialog, type / to search":
+    - text: Type
+    - generic: /
+    - text: to search
+  - link "Chat with Copilot":
+    - /url: /copilot
+  - button "Open Copilot…":
+  - button "Create new...":
+  - link "All issues":
+    - /url: /issues
+  - link "All pull requests":
+    - /url: /pulls
+  - link "All repositories":
+    - /url: /repos
+  - link "You have no unread notifications (g then n)":
+    - /url: /notifications
+  - button "Open user navigation menu":
+    - img "LeoGuo"
+  - heading "Repository navigation" [level=2]
+  - navigation "Repository":
+    - list:
+      - link "Code":
+        - /url: /pallets/flask
+        - generic: Code
+      - link "Issues (1)":
+        - /url: /pallets/flask/issues
+        - generic: Issues
+        - generic: "1"
+        - generic: (1)
+      - link "Pull requests (3)":
+        - /url: /pallets/flask/pulls
+        - generic: Pull requests
+        - generic: "3"
+        - generic: (3)
+      - link "Agents":
+        - /url: /pallets/flask/agents?author=visiontrail
+        - generic: Agents
+      - link "Discussions":
+        - /url: /pallets/flask/discussions
+        - generic: Discussions
+      - link "Actions":
+        - /url: /pallets/flask/actions
+        - generic: Actions
+      - link "Security and quality (3)":
+        - /url: /pallets/flask/security
+        - generic: Security and quality
+        - generic: "3"
+        - generic: (3)
+      - link "Insights":
+        - /url: /pallets/flask/pulse
+        - generic: Insights
+- main:
+  - img "pallets"
+  - generic "flask":
+    - strong:
+      - link "flask":
+        - /url: /pallets/flask
+  - generic: Public
+  - list:
+    - button "Sponsor pallets/flask" [disabled]:
+      - generic: Sponsor
+    - 'button "Watch: Participating in pallets/flask. 2119 users are watching this repository. Click to change subscription settings."':
+      - generic: Watch
+      - generic: "2119"
+      - generic: (2119)
+    - link "Fork your own copy of pallets/flask":
+      - /url: /pallets/flask/fork
+      - text: Fork
+      - generic: 17k
+      - generic: (17k)
+    - button "See your forks of this repository":
+    - button "Star pallets/flask":
+      - text: Star
+      - generic: 74.8k
+      - generic: (74.8k)
+    - button "Star lists":
+  - button "main branch":
+    - generic: main
+  - link "Branches":
+    - /url: /pallets/flask/branches
+    - generic: Branches
+  - link "Tags":
+    - /url: /pallets/flask/tags
+    - generic: Tags
+  - combobox "Go to file"
+  - generic: t
+  - generic: T
+  - heading "Add file" [level=2]
+  - button "Add file":
+    - text: Add file
+  - button "Code":
+    - generic: Code
+  - heading "Latest commit" [level=2]
+  - heading "History" [level=2]
+  - link "5,557 Commits":
+    - /url: /pallets/flask/commits/main/
+    - generic: 5,557 Commits
+  - heading "Folders and files" [level=2]
+  - table "Folders and files":
+    - rowgroup:
+      - row "Name Last commit message Last commit date":
+        - columnheader "Name"
+        - columnheader "Last commit message":
+          - generic "Last commit message"
+        - columnheader "Last commit date":
+          - generic "Last commit date"
+    - rowgroup:
+      - row ".devcontainer, (Directory)":
+        - cell ".devcontainer, (Directory)":
+          - link ".devcontainer, (Directory)":
+            - /url: /pallets/flask/tree/main/.devcontainer
+            - text: .devcontainer
+        - cell
+        - cell
+      - row ".github, (Directory)":
+        - cell ".github, (Directory)":
+          - link ".github, (Directory)":
+            - /url: /pallets/flask/tree/main/.github
+            - text: .github
+        - cell
+        - cell
+      - row "docs, (Directory)":
+        - cell "docs, (Directory)":
+          - link "docs, (Directory)":
+            - /url: /pallets/flask/tree/main/docs
+            - text: docs
+        - cell
+        - cell
+      - row "examples, (Directory)":
+        - cell "examples, (Directory)":
+          - link "examples, (Directory)":
+            - /url: /pallets/flask/tree/main/examples
+            - text: examples
+        - cell
+        - cell
+      - row "src/flask, (Directory)":
+        - cell "src/flask, (Directory)":
+          - link "src/flask, (Directory)":
+            - /url: /pallets/flask/tree/main/src/flask
+            - text: src/flask
+        - cell
+        - cell
+      - row "tests, (Directory)":
+        - cell "tests, (Directory)":
+          - link "tests, (Directory)":
+            - /url: /pallets/flask/tree/main/tests
+            - text: tests
+        - cell
+        - cell
+      - row ".editorconfig, (File)":
+        - cell ".editorconfig, (File)":
+          - link ".editorconfig, (File)":
+            - /url: /pallets/flask/blob/main/.editorconfig
+            - text: .editorconfig
+        - cell
+        - cell
+      - row ".gitignore, (File)":
+        - cell ".gitignore, (File)":
+          - link ".gitignore, (File)":
+            - /url: /pallets/flask/blob/main/.gitignore
+            - text: .gitignore
+        - cell
+        - cell
+      - row ".pre-commit-config.yaml, (File)":
+        - cell ".pre-commit-config.yaml, (File)":
+          - link ".pre-commit-config.yaml, (File)":
+            - /url: /pallets/flask/blob/main/.pre-commit-config.yaml
+            - text: .pre-commit-config.yaml
+        - cell
+        - cell
+      - row ".readthedocs.yaml, (File)":
+        - cell ".readthedocs.yaml, (File)":
+          - link ".readthedocs.yaml, (File)":
+            - /url: /pallets/flask/blob/main/.readthedocs.yaml
+            - text: .readthedocs.yaml
+        - cell
+        - cell
+      - row "CHANGES.rst, (File)":
+        - cell "CHANGES.rst, (File)":
+          - link "CHANGES.rst, (File)":
+            - /url: /pallets/flask/blob/main/CHANGES.rst
+            - text: CHANGES.rst
+        - cell
+        - cell
+      - row "LICENSE.txt, (File)":
+        - cell "LICENSE.txt, (File)":
+          - link "LICENSE.txt, (File)":
+            - /url: /pallets/flask/blob/main/LICENSE.txt
+            - text: LICENSE.txt
+        - cell
+        - cell
+      - row "README.md, (File)":
+        - cell "README.md, (File)":
+          - link "README.md, (File)":
+            - /url: /pallets/flask/blob/main/README.md
+            - text: README.md
+        - cell
+        - cell
+      - row "pyproject.toml, (File)":
+        - cell "pyproject.toml, (File)":
+          - link "pyproject.toml, (File)":
+            - /url: /pallets/flask/blob/main/pyproject.toml
+            - text: pyproject.toml
+        - cell
+        - cell
+      - row "uv.lock, (File)":
+        - cell "uv.lock, (File)":
+          - link "uv.lock, (File)":
+            - /url: /pallets/flask/blob/main/uv.lock
+            - text: uv.lock
+        - cell
+        - cell
+  - heading "Repository files navigation" [level=2]
+  - navigation "Repository files":
+    - list:
+      - link "README":
+        - /url: "#"
+        - generic: README
+      - link "Code of conduct":
+        - /url: "#"
+        - generic: Code of conduct
+      - link "Contributing":
+        - /url: "#"
+        - generic: Contributing
+      - link "BSD-3-Clause license":
+        - /url: "#"
+        - generic: BSD-3-Clause license
+      - link "Security":
+        - /url: "#"
+        - generic: Security
+  - button "Ask Copilot about this repository":
+  - button "Edit file":
+  - button "Outline":
+  - article:
+    - link:
+      - /url: https://raw.githubusercontent.com/pallets/flask/refs/heads/stable/docs/_static/flask-name.svg
+    - heading "Flask" [level=1]
+    - 'link "Permalink: Flask"':
+      - /url: "#flask"
+    - paragraph:
+      - text: Flask is a lightweight
+      - link "WSGI":
+        - /url: https://wsgi.readthedocs.io/
+      - text: web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It began as a simple wrapper around
+      - link "Werkzeug":
+        - /url: https://werkzeug.palletsprojects.com/
+      - text: and
+      - link "Jinja":
+        - /url: https://jinja.palletsprojects.com/
+      - text: ", and has become one of the most popular Python web application frameworks."
+    - paragraph: Flask offers suggestions, but doesn't enforce any dependencies or project layout. It is up to the developer to choose the tools and libraries they want to use. There are many extensions provided by the community that make adding new functionality easy.
+    - heading "A Simple Example" [level=2]
+    - 'link "Permalink: A Simple Example"':
+      - /url: "#a-simple-example"
+    - text: "# save this as app.py from flask import Flask app = Flask(__name__)"
+    - generic: "@app.route(\"/\")"
+    - text: "def hello(): return \"Hello, World!\""
+    - code: $ flask run * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+    - heading "Donate" [level=2]
+    - 'link "Permalink: Donate"':
+      - /url: "#donate"
+    - paragraph:
+      - text: The Pallets organization develops and supports Flask and the libraries it uses. In order to grow the community of contributors and users, and allow the maintainers to devote more time to the projects,
+      - link "please donate today":
+        - /url: https://palletsprojects.com/donate
+      - text: .
+    - heading "Contributing" [level=2]
+    - 'link "Permalink: Contributing"':
+      - /url: "#contributing"
+    - paragraph:
+      - text: See our
+      - link "detailed contributing documentation":
+        - /url: https://palletsprojects.com/contributing/
+      - text: for many ways to contribute, including reporting issues, requesting features, asking or answering questions, and making PRs.
+  - heading "About" [level=2]
+  - paragraph: The Python micro framework for building web applications.
+  - generic "https://flask.palletsprojects.com":
+    - link "flask.palletsprojects.com":
+      - /url: https://flask.palletsprojects.com
+  - heading "Topics" [level=3]
+  - link "flask":
+    - /url: /topics/flask
+  - link "jinja":
+    - /url: /topics/jinja
+  - link "pallets":
+    - /url: /topics/pallets
+  - link "python":
+    - /url: /topics/python
+  - link "web-framework":
+    - /url: /topics/web-framework
+  - link "werkzeug":
+    - /url: /topics/werkzeug
+  - link "wsgi":
+    - /url: /topics/wsgi
+  - heading "Resources" [level=3]
+  - link "Readme":
+    - /url: "#readme-ov-file"
+    - text: Readme
+  - link "BSD-3-Clause license":
+    - /url: "#BSD-3-Clause-1-ov-file"
+    - text: BSD-3-Clause license
+  - heading "Code of conduct" [level=3]
+  - link "Code of conduct":
+    - /url: /pallets/flask#coc-ov-file
+    - text: Code of conduct
+  - heading "Contributing" [level=3]
+  - link "Contributing":
+    - /url: "#contributing-ov-file"
+    - text: Contributing
+  - heading "Security policy" [level=3]
+  - link "Security policy":
+    - /url: "#security-ov-file"
+    - text: Security policy
+  - link "Activity":
+    - /url: /pallets/flask/activity
+    - text: Activity
+  - link "Custom properties":
+    - /url: /pallets/flask/custom-properties
+    - text: Custom properties
+  - heading "Stars" [level=3]
+  - strong: 74.8k
+  - text: stars
+  - heading "Watchers" [level=3]
+  - strong: 2.1k
+  - text: watching
+  - heading "Forks" [level=3]
+  - link "17.0k forks":
+    - /url: /pallets/flask/forks
+    - strong: 17.0k
+    - text: forks
+  - link "Report repository":
+    - /url: /contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fpallets%2Fflask&report=pallets+%28user%29
+  - heading "Releases" [level=2]
+  - heading "Sponsor this project" [level=2]
+  - heading "Deployments" [level=2]
+  - list:
+  - heading "Used by" [level=2]
+  - heading "Contributors" [level=2]
+  - heading "Languages" [level=2]
+- contentinfo:
+  - heading "Footer" [level=2]
+  - link "GitHub Homepage":
+    - /url: https://github.com
+  - generic: © 2026 GitHub, Inc.
+  - navigation "Footer":
+    - heading "Footer navigation" [level=3]
+    - list "Footer navigation":
+      - link "Terms":
+        - /url: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+      - link "Privacy":
+        - /url: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+      - link "Security":
+        - /url: https://github.com/security
+      - link "Status":
+        - /url: https://www.githubstatus.com/
+      - link "Community":
+        - /url: https://github.community/
+      - link "Docs":
+        - /url: https://docs.github.com/
+      - link "Contact":
+        - /url: https://support.github.com?tags=dotcom-footer
+      - button "Manage cookies"
+      - button "Do not share my personal information"

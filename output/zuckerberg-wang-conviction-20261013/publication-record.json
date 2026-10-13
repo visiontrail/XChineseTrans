@@ -1,0 +1,98 @@
+{
+  "source": "https://x.com/Michaelzsguo/status/2109782088031559845",
+  "original_source": "https://x.com/collision/status/2109714250226905248",
+  "primary_transcript": "https://cheekypint.substack.com/p/muse-wonder-zuckerberg-and-wangs",
+  "account": "@LeoGuoLabs",
+  "format": "standalone",
+  "text_path": "post-en.txt",
+  "state": "publicly_verified",
+  "approval": {
+    "instruction": "请在15分钟后发布",
+    "recorded_at": "2026-10-13T02:27:33Z",
+    "approved_text_path": "post-en.txt",
+    "approved_media_path": "media/upload-video.mp4"
+  },
+  "media": {
+    "source_clip": "media/source-clip-zh.mp4",
+    "official_full": "media/official-full-270p.mp4",
+    "selected_clip": "media/upload-video.mp4"
+  },
+  "public_url": "https://x.com/LeoGuoLabs/status/2109838195643072819",
+  "preparation_checks": {
+    "source_clip_full_decode": true,
+    "official_full_decode": true,
+    "upload_clip_full_decode": true,
+    "resolution": "1280x720",
+    "duration_seconds": 154.666667,
+    "browser_playback_verified": true
+  },
+  "review_url": "http://172.16.10.59:55617/",
+  "composer": {
+    "text_accepted": true,
+    "text_chars": 611,
+    "video_upload": "Ready",
+    "browser": "Codex built-in",
+    "submission_attempted": true,
+    "fallback": "Ego Lite X composer remained on loading screen; temporary tab closed without submission",
+    "approved_paragraphs_match": true,
+    "raw_dom_chars": 614,
+    "canonical_chars": 611,
+    "attempt_started_at": "2026-10-13T02:46:38.084Z"
+  },
+  "review": {
+    "copy_and_media_shown": true,
+    "preview_image": "review-preview.jpg",
+    "approval": {
+      "instruction": "请在15分钟后发布",
+      "recorded_at": "2026-10-13T02:27:33Z",
+      "approved_text_path": "post-en.txt",
+      "approved_media_path": "media/upload-video.mp4"
+    }
+  },
+  "publication_blocker": null,
+  "updated_at": "2026-10-13T03:04:08.959Z",
+  "requested_publish_time": "2026-10-13T02:42:33Z",
+  "schedule": {
+    "executor": "Codex one-time heartbeat",
+    "automation_id": "zuckerberg-wang",
+    "requested_publish_time": "2026-10-13T02:42:33Z",
+    "requested_publish_time_singapore": "2026-10-13T10:42:33+08:00",
+    "expected_wake_time": "2026-10-13T02:42:31Z",
+    "one_future_run": true,
+    "native_x_queue_confirmed": false,
+    "instruction": "Publish the exact approved text and full upload-video.mp4 once, then verify actual public playback.",
+    "execution_completed": true,
+    "automation_status": "PAUSED",
+    "stopped_after_completion_at": "2026-10-13T03:07:47.266007+00:00",
+    "duplicate_callback_handled_without_submission": true
+  },
+  "submitted_observed_at": "2026-10-13T02:48:19.495Z",
+  "published_at": "2026-10-13T02:46:39.000Z",
+  "published_time_singapore": "2026-10-13T10:46:39+08:00",
+  "publication_delay_seconds": 246,
+  "verification": {
+    "url": "https://x.com/LeoGuoLabs/status/2109838195643072819",
+    "verified_at": "2026-10-13T03:04:08.959Z",
+    "account": "@LeoGuoLabs",
+    "format": "standalone",
+    "exact_text_match": true,
+    "text_characters": 611,
+    "published_at": "2026-10-13T02:46:39.000Z",
+    "video_count": 1,
+    "public_video_duration_seconds": 154.666,
+    "playback_verified": true,
+    "playback_method": "Ego Lite native UI: started the public video, observed audio-playing and Mute controls, then observed motion from the initial close-up to a later wide three-person interview shot without an error. Native inspection stopped when the user switched to Gemini.",
+    "initial_in_app_playback": {
+      "currentTime": 23.957715,
+      "duration": 154.666,
+      "error": null,
+      "paused": false,
+      "readyState": 2,
+      "videoHeight": 270,
+      "videoWidth": 480
+    },
+    "final_in_app_video_elements": [],
+    "evidence_image": "research/public-post-verified.jpg"
+  },
+  "review_server_stopped_after_public_delivery": false
+}

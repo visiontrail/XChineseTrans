@@ -1,0 +1,5 @@
+Agent engineering is a moving boundary.
+
+Retrieval, memory, retries, permissions and tests turn model capability into reliable work. They also add latency, maintenance and new failure modes.
+
+As models improve, some scaffolding can disappear. The job is to keep reassessing what the model can handle, what still needs external controls, and what can be removed.

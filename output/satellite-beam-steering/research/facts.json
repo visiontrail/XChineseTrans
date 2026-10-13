@@ -1,0 +1,123 @@
+{
+  "topic": "Electronic beam steering for satellite links",
+  "reviewed_on": "2026-09-30",
+  "scope": "Generic conceptual demonstration of one satellite carrying an electronically steered phased array; not a model of a named satellite or a claim about every LEO system.",
+  "captions": [
+    {
+      "time": "0–5 s",
+      "text": "A moving satellite.",
+      "support": "LEO satellite-to-ground geometry changes during a pass."
+    },
+    {
+      "time": "5–10 s",
+      "text": "A changing look angle.",
+      "support": "The direction from a moving satellite to a fixed ground terminal changes."
+    },
+    {
+      "time": "10–16 s",
+      "text": "One array. Controlled phase.",
+      "support": "The array elements contribute coherently, with relative phase controlled."
+    },
+    {
+      "time": "16–23 s",
+      "text": "Shift the phase. Steer the beam.",
+      "support": "A progressive phase change moves the main lobe within the available scan range."
+    },
+    {
+      "time": "23–30 s",
+      "text": "Keep the beam on the terminal.",
+      "support": "Conceptual electronic pointing during part of a pass, not an end-to-end link guarantee."
+    }
+  ],
+  "voiceover": "A satellite moves across the sky, and the direction to a ground terminal keeps changing. A phased array can steer its main beam without rotating the antenna panel. Each element contributes a radio wave. Change the relative phase, and those waves add most strongly in a new direction. The result is electronic pointing, within the antenna’s scan range. Real arrays still have sidelobes and losses.",
+  "voiceover_word_count": 65,
+  "formula": {
+    "array": "Ideal narrowband uniform linear array, elements at x_n = n d; inspect the x–z plane.",
+    "angle_convention": "theta is measured from the panel normal (+z); positive theta tilts toward +x.",
+    "phasor_convention": "Time dependence exp(+i omega t), outward propagation exp(-i k r).",
+    "steering_weights": "w_n = exp(-i k n d sin(theta_0))",
+    "adjacent_phase_rad": "delta_phi = -2 pi (d/lambda) sin(theta_0)",
+    "adjacent_phase_deg": "delta_phi_deg = -360 (d/lambda) sin(theta_0)",
+    "array_factor": "AF(theta) = (1/N) sum[n=0..N-1] exp(i n k d [sin(theta)-sin(theta_0)])",
+    "magnitude_alternative": "|delta_phi| = 2 pi (d/lambda) |sin(theta_0)|",
+    "example": {
+      "d_over_lambda": 0.5,
+      "theta0_deg": 30,
+      "delta_phi_deg": -90,
+      "first_four_phases_deg": [
+        0,
+        -90,
+        -180,
+        -270
+      ],
+      "equivalent_wrapped_phases_deg": [
+        0,
+        270,
+        180,
+        90
+      ]
+    },
+    "source_note": "Analog Devices derives the adjacent path difference d sin(theta) and the phase-shift magnitude. The signed transmit expression here is derived under the explicit phasor convention; another convention may flip the sign without changing the physics."
+  },
+  "animation_rules": [
+    "Keep the array panel mechanically fixed to the satellite while changing the main-beam direction relative to that panel.",
+    "Show all elements radiating simultaneously. Phase offset is not switching individual elements on in sequence.",
+    "On a small array inset, show same-phase emission at broadside and a phase ramp for an off-normal direction.",
+    "A 30-degree example with half-wavelength spacing needs a 90-degree phase-step magnitude.",
+    "Treat cone, rings, beam footprint, orbital speed, sizes, and timing as visual explanation. Do not present them as RF measurements or an orbital simulation.",
+    "A line or translucent cone indicates the main-beam pointing direction; it does not depict all radiated power.",
+    "If showing a normalized pattern, use the array factor consistently and retain sidelobes; do not label a single cone as the full radiation pattern."
+  ],
+  "must_not_claim": [
+    "All LEO satellites or every terminal use the same antenna architecture.",
+    "No spacecraft motion, attitude control, or mechanical setup is ever needed.",
+    "Arbitrary 360-degree steering from one planar aperture, unlimited scan range, or equal gain at every angle.",
+    "Zero sidelobes, zero losses, or the absence of grating lobes for arbitrary element spacing.",
+    "A fixed phase shift steers every frequency to exactly the same angle.",
+    "Instantaneous, lossless, or interruption-free handover; RF pointing alone does not establish that.",
+    "Specific throughput, latency, altitude, wavelength, element count, tracking accuracy, or switching time for a commercial constellation without specific evidence.",
+    "The sample demonstrates a tested RF system or physically accurate propagation timing."
+  ],
+  "sources": [
+    {
+      "id": "esa-electronic-steering",
+      "title": "ESA — The silicon brains steering next-generation antennas",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/The_silicon_brains_steering_next-generation_antennas",
+      "supports": [
+        "Electronic steering without dish rotation",
+        "Phase and amplitude control",
+        "Satellite communications applicability"
+      ]
+    },
+    {
+      "id": "adi-array-factor",
+      "title": "Analog Devices — Phased Array Antenna Patterns, Part 1",
+      "url": "https://www.analog.com/en/resources/analog-dialogue/articles/phased-array-antenna-patterns-part1.html",
+      "supports": [
+        "Boresight angle convention",
+        "Adjacent path and phase relation",
+        "Main lobe and sidelobes",
+        "Element pattern and scan limitations"
+      ]
+    },
+    {
+      "id": "adi-limitations",
+      "title": "Analog Devices — Phased Array Antenna Patterns, Part 2",
+      "url": "https://www.analog.com/en/resources/analog-dialogue/articles/phased-array-antenna-patterns-part2.html",
+      "supports": [
+        "Grating lobes and element spacing",
+        "Finite scan range",
+        "Frequency-dependent beam squint with phase shifters"
+      ]
+    },
+    {
+      "id": "spacex-example",
+      "title": "SpaceX — Starlink Progress 2024, enabling technologies",
+      "url": "https://starlink.com/public-files/starlinkProgressReport_2024.pdf",
+      "supports": [
+        "A real LEO satellite system uses spacecraft phased-array antennas",
+        "Satellite motion, Doppler, timing, and handoff are distinct system challenges"
+      ]
+    }
+  ]
+}

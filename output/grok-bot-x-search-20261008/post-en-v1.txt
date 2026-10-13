@@ -1,0 +1,3 @@
+Grok Bot can now search, read, and monitor X. The demo shows a simple use case: ask what people are saying about your app, then pull the feedback into recurring themes.
+
+The part I’m interested in is ongoing monitoring: catching repeated complaints and feature requests without spending the day in the feed. The real test is whether it finds useful signals consistently and gives you the original posts to check.

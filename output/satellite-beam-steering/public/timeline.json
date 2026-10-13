@@ -1,0 +1,30 @@
+{
+  "fps": 60,
+  "duration": 36,
+  "events": [
+    {
+      "id": "Spacecraft",
+      "frame": 150
+    },
+    {
+      "id": "Aperture",
+      "frame": 510
+    },
+    {
+      "id": "Layers",
+      "frame": 870
+    },
+    {
+      "id": "Phase \u2192 beam",
+      "frame": 1320
+    },
+    {
+      "id": "Pointing",
+      "frame": 1590
+    },
+    {
+      "id": "Return",
+      "frame": 1950
+    }
+  ]
+}
