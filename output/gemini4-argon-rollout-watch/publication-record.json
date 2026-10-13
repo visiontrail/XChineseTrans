@@ -1,0 +1,49 @@
+{
+  "source_url": "https://x.com/xiaohu/status/2110000958361239653",
+  "source_text": "Google今晚可能正式发布\n\nGemini 4 Argon...",
+  "source_media": {
+    "images": 1,
+    "videos": 0
+  },
+  "format": "standalone",
+  "account": "LeoGuoLabs",
+  "state": "pending_approval",
+  "text_path": "post-en.txt",
+  "media": [
+    {
+      "path": "google-official-cover.png",
+      "alt_path": "alt-en.txt",
+      "source_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.width-1300.png",
+      "bytes": 1256846,
+      "sha256": "896f00d5d2f42a2153a04825ac5ee513074be810ba30ccc0b204af75e99c4042"
+    }
+  ],
+  "checked_at": "2026-10-13T14:02:57.308710+00:00",
+  "verification": {
+    "official_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+    "announcement_date": "2026-09-30",
+    "initial_access": "trusted cyber defenders through Fairwind",
+    "planned_expansion": "paid API customers and Google AI Ultra subscribers first",
+    "tonight_release": "unconfirmed; not specified by official announcement and no matching official Oct 13 announcement found in focused search",
+    "source_read_in_authenticated_browser": true,
+    "account_verified_in_browser": true,
+    "composer_checked": true,
+    "full_text_accepted": true,
+    "post_button_enabled": true,
+    "uploaded_images": 1,
+    "alt_saved": true,
+    "image_dimensions": [
+      1300,
+      731
+    ],
+    "image_visually_inspected": true,
+    "composer_screenshot": "composer-review.png",
+    "submitted": false
+  },
+  "approval": null,
+  "published_url": null,
+  "related_prior_work": {
+    "path": "output/gemini4-argon-cross-comparison/publication-state.json",
+    "subject": "Previously published model comparison; distinct from this rollout timing update"
+  }
+}

@@ -1,0 +1,7 @@
+Gemini 4 Argon tonight? Still unconfirmed.
+
+Google announced Argon on September 30 with limited access for trusted cyber defenders. Its wider rollout is planned to start with paid API customers and Google AI Ultra subscribers.
+
+I’m keen to see how it handles a messy codebase over a long task. Sustained progress with fewer course corrections would be a meaningful upgrade.
+
+https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/
