@@ -7,8 +7,8 @@
   },
   "format": "standalone",
   "account": "LeoGuoLabs",
-  "state": "pending_approval",
-  "text_path": "post-en.txt",
+  "state": "publicly_verified",
+  "text_path": "post-en-approved-v2.txt",
   "media": [
     {
       "path": "google-official-cover.png",
@@ -37,13 +37,30 @@
       731
     ],
     "image_visually_inspected": true,
-    "composer_screenshot": "composer-review.png",
-    "submitted": false
+    "composer_screenshot": "composer-approved-v2.png",
+    "submitted": true,
+    "exact_approved_text_match": true,
+    "tomorrow_release": "User-requested speculative wording; no confirmed release date claimed.",
+    "public_text_exact_match": true,
+    "public_account": "LeoGuoLabs",
+    "public_image_count": 1,
+    "public_image_loaded": true,
+    "public_alt_match": true,
+    "public_format": "standalone",
+    "public_screenshot": "public-verified.png",
+    "public_readback": "public-readback.json"
   },
-  "approval": null,
-  "published_url": null,
+  "approval": {
+    "user_message": "确认发布。",
+    "approved_text": "Gemini 4 Argon might launch tomorrow, and I’m really looking forward to it—I have Google AI Pro, but I’ve barely used my allowance beyond chatting in the web app and generating a few videos.",
+    "timestamp": "2026-10-13T14:13:07.114593+00:00",
+    "media": "Previously reviewed official cover unchanged"
+  },
+  "published_url": "https://x.com/LeoGuoLabs/status/2110010982349357478",
   "related_prior_work": {
     "path": "output/gemini4-argon-cross-comparison/publication-state.json",
     "subject": "Previously published model comparison; distinct from this rollout timing update"
-  }
+  },
+  "submitted_at": "2026-10-13T14:13:48.413319+00:00",
+  "verified_at": "2026-10-13T14:14:24.250974+00:00"
 }
