@@ -1,0 +1,41 @@
+{
+  "source": "https://x.com/kfhshl/status/2109843316418158649",
+  "primary_repository": "https://github.com/mattpocock/skills",
+  "verified_commit": "49dd158d1076134a641b33efb035946536778336",
+  "destination": "@LeoGuoLabs",
+  "format": "standalone",
+  "state": "pending_approval",
+  "prepared_at": "2026-10-13T15:46:00.924661+00:00",
+  "text_path": "post-en.txt",
+  "media": [
+    {
+      "path": "github-readme-en.jpg",
+      "type": "image",
+      "bytes": 58514,
+      "sha256": "9387f3fa3c71ac97a18a3ce0bebd55333fff27076648a8af54cd4717d3def6fd",
+      "alt_path": "alt-en.txt",
+      "origin": "Fresh built-in-browser capture of official English GitHub README; cropped without content changes",
+      "original_capture": "github-readme-original.jpg"
+    }
+  ],
+  "checks": {
+    "source_post_read": true,
+    "relevant_video": false,
+    "primary_skill_files_read": true,
+    "english_image_inspected": true,
+    "live_account_verified": true,
+    "full_text_accepted": true,
+    "media_ready": true,
+    "alt_entered": true,
+    "post_button_enabled": true
+  },
+  "authorization": "Final review required under AGENTS.md; user has not approved publication.",
+  "published_url": null,
+  "editorial_notes": [
+    "Corrected Grim to grill-me. Current grill-me delegates to grilling.",
+    "Omitted #1 trending, 240K stars, 16 skills, 42 words, former Vercel and early Next.js claims: unnecessary and not established as current by primary evidence.",
+    "Current tdd file specifies red-green cycles and places refactoring at review stage; draft follows skill file rather than outdated README wording.",
+    "No personal testing or guaranteed performance claimed.",
+    "Native GitHub card rendered before image attachment; final format is one screenshot plus visible repository URL."
+  ]
+}

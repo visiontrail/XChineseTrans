@@ -1,0 +1,55 @@
+- heading "To view keyboard shortcuts, press question mark View keyboard shortcuts" [level=2]:
+  - generic: To view keyboard shortcuts, press question mark
+  - link "View keyboard shortcuts":
+    - /url: /i/keyboard_shortcuts
+- button "Grok":
+- button "Chat":
+- dialog:
+  - dialog:
+    - progressbar
+    - button "Close":
+    - button "Drafts":
+      - generic: Drafts
+    - generic "Leo Guo":
+      - img "Leo Guo"
+    - textbox "Post text" [active]:
+      - generic: An AI agent can write a lot of code before discovering you meant something else.
+      - generic: "Matt Pocock’s skills repo tackles that with a useful habit: let the agent interview you before it builds. /grill-me works through the decisions in your idea and offers recommended answers. For code projects, /grill-with-docs also records shared terminology and design decisions."
+      - generic: "Then /tdd makes the feedback concrete: write a test for the behavior you want, watch it fail, and add just enough code to pass. One behavior at a time."
+      - generic: I like this approach. A few well-placed questions and a meaningful failing test can save a lot of confidently written wrong code.
+      - generic: https://github.com/mattpocock/skills
+    - group "English README from Matt Pocock’s skills repository, headed “Skills For Real Engineers,” with his portrait and an introduction describing small, adaptable, composable agent skills.":
+      - button "ALT":
+        - generic: ALT
+      - button "Edit media":
+        - generic: Edit
+      - button "Remove media":
+    - link "Tag people":
+      - /url: /compose/post/tags
+      - text: Tag people
+    - link "Add description":
+      - /url: /compose/post/media
+      - text: English README from Matt Pocock’s skills repository, headed “Skills For Real Engineers,” with his portrait and an introduction describing small, adaptable, composable agent skills.
+    - link "Try out":
+      - /url: /compose/articles
+    - text: the new article composer for new formatting options.
+    - button "Close":
+    - button "Everyone can reply":
+      - generic: Everyone can reply
+    - navigation:
+      - button "Previous" [disabled]:
+      - tablist:
+        - button "Choose File"
+        - button "Add media":
+        - button "Add a GIF":
+        - button "Add poll" [disabled]:
+        - button "Add emoji":
+        - button "Schedule post":
+        - button "Tag location" [disabled]:
+        - button "Content disclosure":
+      - button "Next" [disabled]:
+    - generic: 24,331 characters remaining
+    - progressbar:
+    - button "Add post":
+    - button "Post":
+      - generic: Post

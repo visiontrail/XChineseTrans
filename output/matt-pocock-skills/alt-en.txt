@@ -1,0 +1,1 @@
+English README from Matt Pocock’s skills repository, headed “Skills For Real Engineers,” with his portrait and an introduction describing small, adaptable, composable agent skills.
