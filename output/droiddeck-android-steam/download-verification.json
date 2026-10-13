@@ -1,0 +1,158 @@
+{
+  "url": "https://video.twimg.com/amplify_video/2109941498641039360/vid/avc1/1920x1080/Tn8lbasmigBTEkks.mp4?tag=29",
+  "retrieved_at": "2026-10-13T14:11:12Z",
+  "bytes": 12595960,
+  "sha256": "1a402d54a4125185f7e97e908bde89d3fc288565a4d623d852144b9a8ad984c0",
+  "parts": [
+    {
+      "part": 0,
+      "status": 206,
+      "content_range": "bytes 0-524287/12595960",
+      "bytes": 524288
+    },
+    {
+      "part": 1,
+      "status": 206,
+      "content_range": "bytes 524288-1048575/12595960",
+      "bytes": 524288
+    },
+    {
+      "part": 2,
+      "status": 206,
+      "content_range": "bytes 1048576-1572863/12595960",
+      "bytes": 524288
+    },
+    {
+      "part": 3,
+      "status": 206,
+      "content_range": "bytes 1572864-2097151/12595960",
+      "bytes": 524288
+    },
+    {
+      "part": 4,
+      "status": 206,
+      "content_range": "bytes 2097152-2621439/12595960",
+      "bytes": 524288
+    },
+    {
+      "part": 5,
+      "status": 206,
+      "content_range": "bytes 2621440-3145727/12595960",
+      "bytes": 524288
+    },
+    {
+      "part": 6,
+      "status": 206,
+      "content_range": "bytes 3145728-3670015/12595960",
+      "bytes": 524288
+    },
+    {
+      "part": 7,
+      "status": 206,
+      "content_range": "bytes 3670016-4194303/12595960",
+      "bytes": 524288
+    },
+    {
+      "part": 8,
+      "status": 206,
+      "content_range": "bytes 4194304-4718591/12595960",
+      "bytes": 524288
+    },
+    {
+      "part": 9,
+      "status": 206,
+      "content_range": "bytes 4718592-5242879/12595960",
+      "bytes": 524288
+    },
+    {
+      "part": 10,
+      "status": 206,
+      "content_range": "bytes 5242880-5767167/12595960",
+      "bytes": 524288
+    },
+    {
+      "part": 11,
+      "status": 206,
+      "content_range": "bytes 5767168-6291455/12595960",
+      "bytes": 524288
+    },
+    {
+      "part": 12,
+      "status": 206,
+      "content_range": "bytes 6291456-6815743/12595960",
+      "bytes": 524288
+    },
+    {
+      "part": 13,
+      "status": 206,
+      "content_range": "bytes 6815744-7340031/12595960",
+      "bytes": 524288
+    },
+    {
+      "part": 14,
+      "status": 206,
+      "content_range": "bytes 7340032-7864319/12595960",
+      "bytes": 524288
+    },
+    {
+      "part": 15,
+      "status": 206,
+      "content_range": "bytes 7864320-8388607/12595960",
+      "bytes": 524288
+    },
+    {
+      "part": 16,
+      "status": 206,
+      "content_range": "bytes 8388608-8912895/12595960",
+      "bytes": 524288
+    },
+    {
+      "part": 17,
+      "status": 206,
+      "content_range": "bytes 8912896-9437183/12595960",
+      "bytes": 524288
+    },
+    {
+      "part": 18,
+      "status": 206,
+      "content_range": "bytes 9437184-9961471/12595960",
+      "bytes": 524288
+    },
+    {
+      "part": 19,
+      "status": 206,
+      "content_range": "bytes 9961472-10485759/12595960",
+      "bytes": 524288
+    },
+    {
+      "part": 20,
+      "status": 206,
+      "content_range": "bytes 10485760-11010047/12595960",
+      "bytes": 524288
+    },
+    {
+      "part": 21,
+      "status": 206,
+      "content_range": "bytes 11010048-11534335/12595960",
+      "bytes": 524288
+    },
+    {
+      "part": 22,
+      "status": 206,
+      "content_range": "bytes 11534336-12058623/12595960",
+      "bytes": 524288
+    },
+    {
+      "part": 23,
+      "status": 206,
+      "content_range": "bytes 12058624-12582911/12595960",
+      "bytes": 524288
+    },
+    {
+      "part": 24,
+      "status": 206,
+      "content_range": "bytes 12582912-12595959/12595960",
+      "bytes": 13048
+    }
+  ]
+}

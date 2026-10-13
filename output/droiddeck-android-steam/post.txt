@@ -1,0 +1,9 @@
+Your next pocket gaming setup might be the Android phone you already own.
+
+DroidDeck is an open-source project that brings Steam's Big Picture interface to Android, with Windows games running locally through Valve's ARM64 Proton. No root required.
+
+Pair a supported phone with a small controller, and taking part of your PC library on a trip starts to look pretty appealing.
+
+Compatibility is the catch: Android 9+, a supported Adreno GPU, and results that vary by device and game. Check the project's requirements before installing—this isn't a promise that your entire Steam library will work.
+
+https://github.com/Droid-Deck/DroidDeck

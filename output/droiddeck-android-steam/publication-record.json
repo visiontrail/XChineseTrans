@@ -1,0 +1,57 @@
+{
+  "account": "@LeoGuoLabs",
+  "format": "standalone",
+  "state": "prepared_pending_review",
+  "sources": [
+    "https://x.com/op7418/status/2109941901868834836",
+    "https://x.com/op7418/status/2109942154957373508"
+  ],
+  "primary_reference": "https://github.com/Droid-Deck/DroidDeck",
+  "text_path": "post.txt",
+  "media": [
+    {
+      "path": "source-video.mp4",
+      "duration_seconds": 85.824,
+      "width": 1920,
+      "height": 1080,
+      "codecs": [
+        "h264",
+        "aac"
+      ],
+      "bytes": 12595960,
+      "sha256": "1a402d54a4125185f7e97e908bde89d3fc288565a4d623d852144b9a8ad984c0",
+      "fresh_download": true,
+      "full_decode": "passed with no errors",
+      "frame_inspection_seconds": [
+        2,
+        42,
+        83
+      ],
+      "limitation": "The supplied post video contains Chinese subtitles and Chinese explanatory slides. No matching clean English original located. Full source version preserved unchanged."
+    }
+  ],
+  "authorization": {
+    "publication_approved": false,
+    "rule": "Final text and media require user review under AGENTS.md."
+  },
+  "public_url": null,
+  "prepared_at": "2026-10-13T14:13:11.629233+00:00",
+  "preparation_checks": {
+    "account_verified": "@LeoGuoLabs visible in live session",
+    "composer_full_text": "exact Draft.js paragraph blocks match post.txt",
+    "composer_media": "source-video.mp4: Ready",
+    "post_button_enabled": true,
+    "preview_playback": {
+      "start_seconds": 0.187527,
+      "later_seconds": 36.369357,
+      "duration_seconds": 85.824,
+      "readyState": 4,
+      "error": null
+    },
+    "publication_submitted": false,
+    "screenshots": [
+      "composer-text.jpg",
+      "composer-video-ready.jpg"
+    ]
+  }
+}
