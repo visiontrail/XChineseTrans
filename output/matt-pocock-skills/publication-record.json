@@ -4,7 +4,7 @@
   "verified_commit": "49dd158d1076134a641b33efb035946536778336",
   "destination": "@LeoGuoLabs",
   "format": "standalone",
-  "state": "pending_approval",
+  "state": "publicly_verified",
   "prepared_at": "2026-10-13T15:46:00.924661+00:00",
   "text_path": "post-en.txt",
   "media": [
@@ -27,15 +27,27 @@
     "full_text_accepted": true,
     "media_ready": true,
     "alt_entered": true,
-    "post_button_enabled": true
+    "post_button_enabled": true,
+    "public_account_verified": true,
+    "public_full_text_verified": true,
+    "public_image_count": 1,
+    "public_image_readable": true,
+    "public_alt_verified": true,
+    "public_repository_link_verified": true
   },
-  "authorization": "Final review required under AGENTS.md; user has not approved publication.",
-  "published_url": null,
+  "authorization": "User approved exact reviewed text and image: 好的确认发布。",
+  "published_url": "https://x.com/LeoGuoLabs/status/2110035875845562446",
   "editorial_notes": [
     "Corrected Grim to grill-me. Current grill-me delegates to grilling.",
     "Omitted #1 trending, 240K stars, 16 skills, 42 words, former Vercel and early Next.js claims: unnecessary and not established as current by primary evidence.",
     "Current tdd file specifies red-green cycles and places refactoring at review stage; draft follows skill file rather than outdated README wording.",
     "No personal testing or guaranteed performance claimed.",
     "Native GitHub card rendered before image attachment; final format is one screenshot plus visible repository URL."
+  ],
+  "verified_at": "2026-10-13T15:53:25.669838+00:00",
+  "public_evidence": [
+    "public-post.txt",
+    "published-post.jpg",
+    "published-media.jpg"
   ]
 }

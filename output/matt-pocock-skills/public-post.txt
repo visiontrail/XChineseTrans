@@ -1,0 +1,18 @@
+Leo Guo
+@LeoGuoLabs
+Boost
+An AI agent can write a lot of code before discovering you meant something else.
+
+Matt Pocock’s skills repo tackles that with a useful habit: let the agent interview you before it builds. /grill-me works through the decisions in your idea and offers recommended answers. For code projects, /grill-with-docs also records shared terminology and design decisions.
+
+Then /tdd makes the feedback concrete: write a test for the behavior you want, watch it fail, and add just enough code to pass. One behavior at a time.
+
+I like this approach. A few well-placed questions and a meaningful failing test can save a lot of confidently written wrong code.
+
+
+https://
+github.com/mattpocock/ski
+lls
+…
+ALT
+11:52 PM · Oct 13, 2026
