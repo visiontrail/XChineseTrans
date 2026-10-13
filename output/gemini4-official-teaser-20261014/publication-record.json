@@ -41,8 +41,13 @@
     "composer_upload_state": "ready",
     "public_verification": false,
     "post_button_enabled": true,
-    "composer_screenshot": "composer-review.png",
+    "composer_screenshot": "composer-review-v2.png",
     "media_ready_screenshot": "composer-media-ready.png"
   },
-  "media_manifest": "download-manifest.json"
+  "media_manifest": "download-manifest.json",
+  "revision": {
+    "request": "只保留第一段话",
+    "previous_text_path": "post-en-v1.txt",
+    "media_unchanged": true
+  }
 }

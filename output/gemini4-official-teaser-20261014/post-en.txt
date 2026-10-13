@@ -1,5 +1,1 @@
 Gemini 4 Argon is finally rolling out in the Gemini app, globally, to Google AI Pro and Ultra subscribers.
-
-Google is pitching it around things you can actually use: shareable web apps, 3D-printable files, and finished slides and reports. Antigravity’s coding interface is also now built into the Gemini app on macOS.
-
-That’s what I want to try: give it a real project and see how far it can get from the initial idea to something worth shipping.
