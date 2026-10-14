@@ -4,12 +4,12 @@
   "continuation": "https://x.com/xiaohu/status/2110175403231084961",
   "primary_verification": "https://www.justice.gov/usao-ndca/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai-san",
   "account": "@LeoGuoLabs",
-  "format": "standalone",
-  "state": "pending_approval",
+  "format": "quote",
+  "state": "publicly_verified",
   "final_text_file": "post.txt",
   "final_text": "OpenAI found a hidden recording device in one of its offices—and says its own models helped analyze the device, trace its origins, and identify the employee suspected of planting it.\n\nThe company fired the employee and referred the case to the FBI. The Justice Department confirms an arrest and criminal charge; the investigation is ongoing.\n\nOpenAI says it currently has no indication that model weights, source code, or customer data were improperly accessed or taken.\n\nThat’s an AI use case I didn’t expect to see in a company announcement. I’d be interested in the technical breakdown: what did the models infer, and how did investigators verify it?",
   "selected_media": [],
-  "media_decision": "Text-only. Main post and official quote have no video. Continuation contains a surveillance still of the accused, not a device photo; excluded as unnecessary. DOJ device image download timed out.",
+  "media_decision": "Native Quote Post of the text-only official statement; no extra attachments.",
   "prepared_at": "2026-10-14T01:20:40.456835+00:00",
   "checks": {
     "original_chinese_read": true,
@@ -17,12 +17,16 @@
     "doj_release_read_via_web": true,
     "account_verified_live": true,
     "later_official_response_check": "OpenAI profile failed to load; cannot claim exhaustive later-response check.",
-    "composer": "Full exact 653-character text verified in Ego Lite native composer; Post enabled; no attachments; not submitted.",
-    "composer_screenshot": "composer-review.png",
+    "composer": "Built-in browser recovered; Playwright fill accepted exact 653-character text, counter showed 24,347 remaining; native Quote card verified. Submitted once.",
+    "composer_screenshot": "quote-composer.png",
     "composer_account": "@LeoGuoLabs visible in live screenshot"
   },
-  "approval": null,
-  "published_url": null,
+  "approval": {
+    "user_instruction": "用quote的方式发布",
+    "scope": "Publish previously reviewed exact English copy as native Quote Post of the official OpenAI source.",
+    "recorded_at": "2026-10-14T01:47:16.659640+00:00"
+  },
+  "published_url": "https://x.com/LeoGuoLabs/status/2110186542694273371",
   "rejected_media": [
     {
       "file": "device-photo-source.png",
@@ -31,5 +35,18 @@
       "bytes": 92020,
       "sha256": "32e1e2c40161ef1c75000cf3952d0fe12f8bdd6d8552e76f44341d665aa999ea"
     }
-  ]
+  ],
+  "quote_target": "https://x.com/OpenAINewsroom/status/2110095403198849132",
+  "submitted_at": "2026-10-14T01:51:32.288364+00:00",
+  "verified_at": "2026-10-14T01:52:15.582653+00:00",
+  "verification": {
+    "account": "@LeoGuoLabs",
+    "complete_text_matches": true,
+    "format": "native Quote Post",
+    "quote_target": "https://x.com/OpenAINewsroom/status/2110095403198849132",
+    "quote_target_verified_by": "Clicked native quote card on actual published page and confirmed destination URL",
+    "direct_media_count": 0,
+    "screenshot": "public-post.png",
+    "page_snapshot": "public-page.txt"
+  }
 }
