@@ -1,15 +1,31 @@
 {
   "account": "@LeoGuoLabs",
-  "format": "standalone_text",
+  "format": "native_quote",
   "state": "published_and_publicly_verified",
-  "published_url": "https://x.com/LeoGuoLabs/status/2110207010872643998",
-  "published_at_utc": "2026-10-14T03:12:00Z",
-  "verified_at_utc": "2026-10-14T03:12:30Z",
+  "published_url": "https://x.com/LeoGuoLabs/status/2110211414740901928",
+  "published_at_utc": "2026-10-14T03:29:35Z",
+  "verified_at_utc": "2026-10-14T03:30:35Z",
   "final_text": "Disk usage has been a real problem in my own use of Codex.\n\nI'm glad it's being addressed, but keeping an app from eating up your SSD should be basic housekeeping. Calling that an optimization feels a little generous.",
   "final_text_file": "post-en-final.txt",
   "media": [],
   "approval": "User explicitly requested a personal disk-usage critique and authorized publication after that revision.",
-  "verification": "Reopened the published permalink and checked account, exact complete body, paragraph break and text-only standalone format.",
+  "verification": "Reopened actual replacement permalink; verified @LeoGuoLabs, complete unchanged approved two-paragraph commentary and native Tibo @thsottiaux Quote card.",
   "source_url": "https://x.com/leo114119/status/2110155148844752920",
-  "primary_source_url": "https://x.com/thsottiaux/status/2110151780478927344"
+  "primary_source_url": "https://x.com/thsottiaux/status/2110151780478927344",
+  "quote_target_url": "https://x.com/thsottiaux/status/2110151780478927344",
+  "replaced_publication": {
+    "published_url": "https://x.com/LeoGuoLabs/status/2110207010872643998",
+    "published_at_utc": "2026-10-14T03:12:00Z",
+    "format": "standalone_text",
+    "state": "permanently_deleted",
+    "deleted_at_utc": "2026-10-14T03:27:50Z",
+    "deletion_verified_at_utc": "2026-10-14T03:28:10Z",
+    "verification": "Reopened old permalink; X displayed: Hmm...this page doesn’t exist. Try searching for something else.",
+    "approval_message_ids": [
+      "Sentinel_5ec2b76c7b408191a64d1d9753b04836",
+      "Sentinel_489c01f5397081918ac739691ead7f55"
+    ]
+  },
+  "correction_authorization": "User requested deleting the standalone and republishing unchanged commentary as native Quote, then explicitly confirmed irreversible deletion and republication at action time.",
+  "repository_rules_check": "Fetched origin/main and verified current cf1be2e; existing AGENTS.md requires quoting the relevant original when the supplied source has a Quote."
 }
