@@ -1,7 +1,7 @@
 import pathlib,zipfile,json,hashlib
 p=pathlib.Path(__file__).resolve().parents[1]
 roots=['src','public','scripts','research','evidence']
-files=[p/f for f in ['README.md','director-brief.md','shot-plan.md','script.json','narration.txt','captions.srt','review.html','poster.jpg','package.json','package-lock.json','requirements.txt','delivery.json','publication-record.json','scion-explained.mp4']]
+files=[p/f for f in ['README.md','post-en.txt','director-brief.md','shot-plan.md','script.json','narration.txt','captions.srt','review.html','poster.jpg','package.json','package-lock.json','requirements.txt','delivery.json','publication-record.json','scion-explained.mp4']]
 for d in roots:
  files.extend(f for f in (p/d).rglob('*') if f.is_file() and '__pycache__' not in f.parts)
 archive=p/'scion-explained-project.zip'

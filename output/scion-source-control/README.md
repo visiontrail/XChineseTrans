@@ -42,4 +42,4 @@ Primary factual sources are linked in `research/claim-checks.json` and in the re
 
 Geist’s license is in `public/Geist-LICENSE.txt`. Voice uses Microsoft’s Andrew neural voice through edge-tts; no cloned voice. The short transition cue is original synthesis from `scripts/sound.py`.
 
-Publication was not requested or submitted. `publication-record.json` tracks the local review state.
+Published to @LeoGuoLabs after user approval: https://x.com/LeoGuoLabs/status/2110407310346788915. The reopened public post contains the complete title and one 3:06 video. Playback advanced from 10.26 to 27.94 seconds with no media error. `publication-record.json` and `evidence/public-playback.json` record the result.

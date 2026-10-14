@@ -1,0 +1,33 @@
+{
+  "verified_at": "2026-10-14T16:29:01.370Z",
+  "url": "https://x.com/LeoGuoLabs/status/2110407310346788915",
+  "account": "@LeoGuoLabs",
+  "text": "When code outruns the plumbing",
+  "format": "standalone native video",
+  "video_count": 1,
+  "playback_samples": [
+    [
+      {
+        "currentTime": 10.260935,
+        "duration": 186.332,
+        "error": null,
+        "paused": false,
+        "readyState": 4,
+        "videoHeight": 360,
+        "videoWidth": 640
+      }
+    ],
+    [
+      {
+        "currentTime": 27.943047,
+        "duration": 186.332,
+        "error": null,
+        "paused": false,
+        "readyState": 4,
+        "videoHeight": 360,
+        "videoWidth": 640
+      }
+    ]
+  ],
+  "screenshot": "public-post.jpg"
+}

@@ -18,7 +18,10 @@
   "subtitle_text_coverage": true,
   "rendered_visual_review": "20 representative stills across all 10 shots; not every frame",
   "audio_listening": "Unavailable: assistant environment rejects audio input. Playback has an unmuted AAC track; no subjective listening claim.",
-  "publicly_published": false,
+  "publicly_published": true,
   "browser_playback_verified": true,
-  "browser_evidence": "evidence/browser-playback.json"
+  "browser_evidence": "evidence/browser-playback.json",
+  "publication_url": "https://x.com/LeoGuoLabs/status/2110407310346788915",
+  "public_playback_verified": true,
+  "public_browser_evidence": "evidence/public-playback.json"
 }
