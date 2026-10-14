@@ -1,0 +1,9 @@
+LeoGuoLabs Light v1 palette and typography: warm ivory #FDFBF7 with barely visible paper grain, forest green #1A4A3A, secondary muted green #426454, sparse dark gold #80601B and small muted gold #D4AF37 accents. 90% light background. Modern technical sans-serif like Inter, highly readable mobile typography, generous 6% margins.
+Use case: stylized-concept. Create one original editorial concept illustration, landscape 1536x1024, for a thoughtful X post asking how humans and platforms can distinguish AI replies as models improve.
+Top headline, large but not oversized, exact text: "Can you tell?"
+Under it exact small subtitle: "One human. One AI. Two natural replies."
+Center composition: two equally weighted minimalist editorial conversation vignettes side by side, using borderless layouts rather than UI cards. The left and right anonymous speakers are both simple abstract human-shaped bust silhouettes drawn with fine forest-green lines, with a small gold question mark above each. Do not reveal which is AI. Each speaker has a clear speech balloon, large readable short text. Left balloon exact: "That makes sense. I'd check the source first." Right balloon exact: "Fair point. I'd verify the source before sharing."
+The two balloons should appear equally natural and credible; no robot giveaway, no circuit face, no claim of a real test. Use a thin understated vertical separator. No app logo, handles, timestamps, like counters, fake screenshot, X interface or real person.
+Below vignettes, exact small but readable caption: "Illustrative examples, not a detection test."
+Small plain-text signature at bottom: "LeoGuoLabs".
+Tasteful simple line illustration, flat colors, no shadows, gradients, glow, heavy frames, rounded cards, ornaments, leaves, serif or condensed type. No policy claims or implication that consent rules depend solely on detecting AI. No other text.

@@ -1,0 +1,7 @@
+Before plugging an AI reply bot into X, read the automation rules.
+
+X requires prior written approval for AI-powered reply bots. Automated replies also need the recipient to opt in, an easy way to opt out, and a limit of one reply per interaction. Following your account alone doesn't count as consent.
+
+But how can X—or any of us—tell? As models improve and AI sounds more human, do restrictions like these still make sense?
+
+https://help.x.com/en/rules-and-policies/x-automation

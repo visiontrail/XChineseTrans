@@ -1,0 +1,28 @@
+{
+  "account": "@LeoGuoLabs",
+  "format": "standalone",
+  "source_url": "https://x.com/leo114119/status/2110210682633466266",
+  "published_url": "https://x.com/LeoGuoLabs/status/2110337061798469782",
+  "post_id": "2110337061798469782",
+  "submitted_at_utc": "2026-10-14T11:48:50Z",
+  "verified_at_utc": "2026-10-14T11:50:30.156305+00:00",
+  "text_file": "post-en-v2.txt",
+  "media": [
+    "media/human-ai-replies-v1.png"
+  ],
+  "alt_file": "media/alt-en-v1.txt",
+  "approval_receipt": "Sentinel_193348eb1e7081919d5f46f96a6a0f1e",
+  "full_text_review_receipt": "Sentinel_3284966991c08191a1462153c52669fc",
+  "image_review_receipt": "Sentinel_f7ba72998098819193978580b9afbb39",
+  "verification": {
+    "account": true,
+    "complete_approved_text": true,
+    "standalone": true,
+    "one_correct_image": true,
+    "image_visual_checked": true,
+    "alt_present": true,
+    "official_policy_link_present": true,
+    "live_policy_rechecked_before_publication": true
+  },
+  "notes": "Official automation policy B.2 and B.3 rechecked immediately before publishing. Image is illustrative, not a detection test. The platform displayed Made with AI automatically."
+}
