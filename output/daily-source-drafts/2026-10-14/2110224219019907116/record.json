@@ -1,0 +1,38 @@
+{
+  "singapore_date": "2026-10-14",
+  "batch": "13:00",
+  "draft_id": "2110224219019907116",
+  "title": "OpenCode 新增 Argon：核对实际优惠期限",
+  "source_ids": [
+    "2110224219019907116"
+  ],
+  "source_urls": [
+    "https://x.com/leo114119/status/2110224219019907116"
+  ],
+  "primary_source_urls": [
+    "https://opencode.ai/v2/docs/console/models/",
+    "https://x.com/opencode/status/2110078016688648606"
+  ],
+  "topic_key": "opencode-argon-availability-promotion-20261014",
+  "package_path": "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-14/2110224219019907116",
+  "text_path": "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-14/2110224219019907116/post-en-v1.txt",
+  "media_paths": [],
+  "media_required": false,
+  "verification_state": "verified_with_explicit_qualifications",
+  "delivery_state": "delivered_for_review",
+  "created_at": "2026-10-14T05:05:33.800845+00:00",
+  "publication_state": "published_and_publicly_verified",
+  "git_state": "ready_to_commit",
+  "duplicate_findings": "Full output text/JSON/Markdown archive had no source or quoted ID. Prior Oct 2 post covered original launch pricing and benchmarks (2105928046918476177). This package covers NEW OpenCode availability and its documented November 30 promotion deadline, not a repeat model launch comparison.",
+  "long_post_permission": "full_text_accepted_and_published",
+  "format": "native_quote",
+  "quote_target_url": "https://x.com/opencode/status/2110078016688648606",
+  "delivered_at": "2026-10-14T05:08:21Z",
+  "delivery_receipt": "Sentinel_2966d45b53a4819195b41da94e270fa6",
+  "approval_state": "approved",
+  "approval_receipt": "Sentinel_5698b30055a481918be4cd4324231267",
+  "published_url": "https://x.com/LeoGuoLabs/status/2110239065400365454",
+  "published_at": "2026-10-14T05:19:31Z",
+  "verified_at": "2026-10-14T05:20:03Z",
+  "pricing_rechecked_at": "2026-10-14T05:18:28Z"
+}

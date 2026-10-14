@@ -1,0 +1,7 @@
+Gemini 4 Argon is now in OpenCode, with a useful detail missing from the announcement: Console currently lists a 50% discount through November 30, 2026.
+
+Per million tokens: US$2 input, US$10 output, and US$0.10 cached input.
+
+That gives existing OpenCode users a way to compare it inside the same workflow. Keep the tasks and agent setup fixed, then track accepted changes, retries, latency, and total spend. A temporary token discount is a good reason to run that comparison; it isn’t evidence that the model will be cheaper for your work.
+
+Pricing: https://opencode.ai/v2/docs/console/models/
