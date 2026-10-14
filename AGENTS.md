@@ -6,7 +6,7 @@ Turn source material about technology, AI, and engineering into publication-read
 
 **A bare X link starts the complete preparation workflow:** read the actual post and relevant context, identify its point and media, trace primary sources, verify important claims, adapt the writing, prepare the appropriate English visuals and original videos, and return one concrete publication-ready result for review. Do not respond with only a summary, a literal translation, a menu of services, or “what would you like me to do with this?”
 
-Without a more specific instruction or continuing conversation context, prepare **one new standalone English post**, with the actual source video attached when present. A link alone does not waive the final publication review. When the user approves the prepared result, publish and verify it without asking again.
+Without a more specific instruction or continuing conversation context, choose the format from the source: **when a supplied post contains a relevant quoted original, trace the quote chain and prepare one native Quote Post of that original with fresh English commentary for @LeoGuoLabs.** Apply this automatically to every such source; the user does not need to request Quote again. When there is no relevant quoted original, prepare one new standalone English post, with the actual source video attached when present. A link alone does not waive the final publication review. When the user approves the prepared result, publish and verify it without asking again.
 
 Communicate with the user in Chinese; write public copy in English. Keep this file in English. The goal is useful, credible content with a recognizable voice that can grow the account, not generic engagement bait.
 
@@ -16,8 +16,10 @@ Apply these project defaults after higher-priority instructions. Within the user
 
 | User input or context | Intended action |
 | --- | --- |
-| Only an X link; “按我的风格”; “同样要求”; “按常规要求” | Continue any established task format; otherwise prepare a standalone English adaptation with the relevant media. |
-| “全新发布”; “重新发送”; “独立 post”; “不要转发” | Create a new standalone post. Do not silently replace it with a quote card or a reply. |
+| Only an X link; “按我的风格”; “同样要求”; “按常规要求” | Follow an explicit task-specific format; otherwise use native Quote of the relevant original when the supplied post contains one, and standalone English adaptation when it does not. |
+| A supplied post quotes a relevant original, including through a chain of intermediary Quote Posts | Trace the chain and use native Quote Post of the original containing the relevant material, with fresh English commentary. This is the standing default, not an optional alternative. |
+| “全新发布”; “重新发送” | Prepare a new English post using the source-based default above: Quote the relevant quoted original when present; otherwise use standalone. These phrases alone do not request removal of the original Quote. |
+| “独立 post”; “不要转发”; an explicit request not to use Quote | Create a new standalone post as a task-specific override. |
 | “转发”, without any request or context for added commentary | Use native Repost of the relevant original source post. |
 | “quote”; “引用转发”; “转发并评论”; “转发并重新组织文字” | Use native Quote Post with concise English commentary and the relevant original post. |
 | “全新转发” | Use Quote Post with fresh English commentary on the original source; this phrase was explicitly clarified in project history. |
@@ -31,7 +33,7 @@ Apply these project defaults after higher-priority instructions. Within the user
 | “这次不确认直接发布”; “无需确认，直接发布” | Explicit waiver for this task: finish preparation, publish, and verify without another approval question. |
 | A link to the user's own post | Read it and check local records first. Use any requested revision or new-edition context. With no purpose given, ask one focused question about the desired change; do not duplicate, delete, or replace it automatically. |
 
-Do not choose Quote merely because a source post quotes someone, or because reusing native media would be easier. Conversely, “全新” does not override an explicit Quote request. If the user explicitly names an intermediary as the intended target, honor that choice.
+When the supplied post quotes the original material, quote that original directly rather than the intermediary's commentary. Follow nested quotes to the original that actually contains the relevant announcement, claim, or media; do not substitute an unrelated earlier post. A new post with the user's own English commentary can be a Quote Post, so “全新” alone does not override this default. Do not ask the user to choose Quote versus standalone when this rule resolves the format. Explicit task-specific format instructions take precedence; if the user explicitly names an intermediary as the intended target, honor that choice. The existing source-verification, video-download, final-content approval, and public-verification requirements still apply.
 
 For multiple related links, inspect them together, remove duplicates, and choose a coherent presentation. Default to one post when it works. Split genuinely separate stories or incompatible media when useful, show the exact grouping for review, and follow explicit requests for threads or separate posts. Do not create a thread simply to satisfy an obsolete 280-character default.
 
