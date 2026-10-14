@@ -1,0 +1,15 @@
+{
+  "account": "@LeoGuoLabs",
+  "format": "standalone_text",
+  "state": "published_and_publicly_verified",
+  "published_url": "https://x.com/LeoGuoLabs/status/2110207010872643998",
+  "published_at_utc": "2026-10-14T03:12:00Z",
+  "verified_at_utc": "2026-10-14T03:12:30Z",
+  "final_text": "Disk usage has been a real problem in my own use of Codex.\n\nI'm glad it's being addressed, but keeping an app from eating up your SSD should be basic housekeeping. Calling that an optimization feels a little generous.",
+  "final_text_file": "post-en-final.txt",
+  "media": [],
+  "approval": "User explicitly requested a personal disk-usage critique and authorized publication after that revision.",
+  "verification": "Reopened the published permalink and checked account, exact complete body, paragraph break and text-only standalone format.",
+  "source_url": "https://x.com/leo114119/status/2110155148844752920",
+  "primary_source_url": "https://x.com/thsottiaux/status/2110151780478927344"
+}

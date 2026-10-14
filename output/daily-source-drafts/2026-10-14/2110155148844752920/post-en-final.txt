@@ -1,0 +1,3 @@
+Disk usage has been a real problem in my own use of Codex.
+
+I'm glad it's being addressed, but keeping an app from eating up your SSD should be basic housekeeping. Calling that an optimization feels a little generous.
