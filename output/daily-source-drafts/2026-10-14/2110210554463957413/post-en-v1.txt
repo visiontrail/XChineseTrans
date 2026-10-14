@@ -1,0 +1,9 @@
+AI coding can make source control the bottleneck.
+
+Anthropic says daily merges grew from roughly 2,500 in May to over 30,000 in September. Its response was Scion: move more work to servers, let always-online agents request history and diffs through APIs, and fetch files only when needed.
+
+The interesting question for other teams is where their own pipeline starts queuing up: checkout, review, tests, or deployment. Faster code generation only helps if the rest can absorb it.
+
+Scion targets an unusually large monorepo. Anthropic explicitly says it isn’t a general-purpose Git replacement.
+
+https://www.anthropic.com/engineering/redesigning-source-control
