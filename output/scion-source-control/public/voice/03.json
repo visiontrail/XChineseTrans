@@ -1,0 +1,224 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 1030830,
+    "duration": 4381250,
+    "text": "Scion"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 5412500,
+    "duration": 3865830,
+    "text": "shifts"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 9278330,
+    "duration": 1030830,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 10438330,
+    "duration": 7602910,
+    "text": "contract"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22036250,
+    "duration": 3865830,
+    "text": "clients"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 25902080,
+    "duration": 2061660,
+    "text": "stay"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 28092910,
+    "duration": 5799160,
+    "text": "online"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36855830,
+    "duration": 2061660,
+    "text": "keep"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39046250,
+    "duration": 773330,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 40592910,
+    "duration": 4639160,
+    "text": "bounded"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 45232080,
+    "duration": 6185410,
+    "text": "cache"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 52963750,
+    "duration": 773330,
+    "text": "and"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 53737080,
+    "duration": 3995000,
+    "text": "delegate"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 57860830,
+    "duration": 5670000,
+    "text": "history"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 67525830,
+    "duration": 6572080,
+    "text": "merges"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 76546250,
+    "duration": 1417500,
+    "text": "and"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 77963750,
+    "duration": 4767910,
+    "text": "commits"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 82860830,
+    "duration": 773330,
+    "text": "to"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 83634160,
+    "duration": 772910,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 84407080,
+    "duration": 4897080,
+    "text": "server"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 93556660,
+    "duration": 515409,
+    "text": "The"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 94072080,
+    "duration": 3995000,
+    "text": "design"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 98067080,
+    "duration": 4123750,
+    "text": "question"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 102319580,
+    "duration": 4510410,
+    "text": "changes"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 106830000,
+    "duration": 1932910,
+    "text": "from"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 108762910,
+    "duration": 2319580,
+    "text": "what"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 112371250,
+    "duration": 2190830,
+    "text": "each"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 114690830,
+    "duration": 5927910,
+    "text": "machine"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 122551660,
+    "duration": 1288330,
+    "text": "can"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 123840000,
+    "duration": 2061660,
+    "text": "do"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 125902080,
+    "duration": 4252500,
+    "text": "alone"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 130798750,
+    "duration": 1030830,
+    "text": "to"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 131830000,
+    "duration": 1675000,
+    "text": "what"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 133505000,
+    "duration": 644160,
+    "text": "it"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 134149580,
+    "duration": 3737080,
+    "text": "actually"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 138015410,
+    "duration": 3092910,
+    "text": "needs"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 141237080,
+    "duration": 6185410,
+    "text": "nearby"
+  }
+]

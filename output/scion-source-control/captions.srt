@@ -1,0 +1,159 @@
+1
+00:00:00,700 --> 00:00:04,067
+What happens when writing code becomes faster than moving it?
+
+2
+00:00:04,400 --> 00:00:08,033
+Anthropic says its daily merges grew from about twenty-five
+
+3
+00:00:08,033 --> 00:00:11,300
+hundred in May to over thirty thousand in September.
+
+4
+00:00:11,633 --> 00:00:15,000
+More code means more work for everything downstream.
+
+5
+00:00:17,467 --> 00:00:21,700
+Git gives you a local history you can inspect without asking a server.
+
+6
+00:00:22,067 --> 00:00:26,500
+You can compare versions, create commits, and keep working offline.
+
+7
+00:00:26,867 --> 00:00:29,867
+Think of a workshop with its own reference library: the
+
+8
+00:00:29,867 --> 00:00:33,233
+information stays close to the person doing the work.
+
+9
+00:00:35,633 --> 00:00:38,000
+A clone does not always have to bring everything.
+
+10
+00:00:38,333 --> 00:00:40,267
+Shallow clones limit history.
+
+11
+00:00:40,600 --> 00:00:44,633
+Partial clones can leave file contents on the server until needed.
+
+12
+00:00:45,000 --> 00:00:47,533
+Sparse checkouts limit the working tree.
+
+13
+00:00:47,900 --> 00:00:53,467
+These solve different problems, and choosing one does not automatically give you the others.
+
+14
+00:00:55,900 --> 00:01:00,333
+Scion shifts the contract: clients stay online, keep a bounded
+
+15
+00:01:00,333 --> 00:01:04,800
+cache, and delegate history, merges, and commits to the server.
+
+16
+00:01:05,167 --> 00:01:07,933
+The design question changes from what each machine
+
+17
+00:01:08,067 --> 00:01:10,600
+can do alone to what it actually needs nearby.
+
+18
+00:01:13,067 --> 00:01:15,500
+Picture a test that only needs a parser.
+
+19
+00:01:15,900 --> 00:01:19,000
+First, it checks for the requested object locally.
+
+20
+00:01:19,367 --> 00:01:22,100
+If the object is missing, it asks upstream.
+
+21
+00:01:22,467 --> 00:01:24,533
+The file appears where the test needs it.
+
+22
+00:01:24,867 --> 00:01:27,967
+A later request can reuse that cached object.
+
+23
+00:01:30,433 --> 00:01:34,800
+Scion also exposes source-control queries as APIs.
+
+24
+00:01:35,133 --> 00:01:38,767
+A job can ask for a diff without creating a working copy.
+
+25
+00:01:39,100 --> 00:01:44,667
+It creates changesets on the server: changed paths point to content-addressed file data.
+
+26
+00:01:47,133 --> 00:01:51,400
+Files move through node, regional, and server caches.
+
+27
+00:01:51,767 --> 00:01:57,967
+Immutable objects make reuse straightforward: the same identifier refers to the same content.
+
+28
+00:01:58,333 --> 00:02:00,967
+Imagine many tests reading the same parser.
+
+29
+00:02:01,333 --> 00:02:06,267
+Reusing the nearby copy avoids sending the same bytes on every trip.
+
+30
+00:02:08,700 --> 00:02:13,500
+Anthropic reports a two-hundred-fold smaller CPU and memory footprint for
+
+31
+00:02:13,500 --> 00:02:18,900
+source-control infrastructure, and a twenty-five percent CPU capacity gain in CI.
+
+32
+00:02:19,233 --> 00:02:20,933
+These are results from its own workload.
+
+33
+00:02:23,333 --> 00:02:28,633
+Scion is specialized for enormous monorepos, not a general Git replacement.
+
+34
+00:02:28,967 --> 00:02:32,233
+Its surrounding development tools also had to change.
+
+35
+00:02:32,600 --> 00:02:36,667
+For your own system, start with the job: what must remain local,
+
+36
+00:02:37,033 --> 00:02:41,067
+what can be shared, and what happens when the network is unavailable?
+
+37
+00:02:43,500 --> 00:02:48,700
+A faster code generator does not automatically create a faster development system.
+
+38
+00:02:49,067 --> 00:02:54,067
+Trace the whole path: write, retrieve, build, test, review.
+
+39
+00:02:54,400 --> 00:02:56,900
+Measure where time and resources go.
+
+40
+00:02:57,233 --> 00:03:03,167
+Then move less data, reuse more of it, and give each operation only the work it needs.

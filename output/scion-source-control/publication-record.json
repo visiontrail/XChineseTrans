@@ -1,0 +1,19 @@
+{
+  "source": "https://x.com/dotey/status/2110165779228336493",
+  "original": "https://x.com/AnthropicAI/status/2110047081414987957",
+  "format": "original authored explainer video",
+  "destination": "local review for @LeoGuoLabs",
+  "state": "prepared_for_review",
+  "publication_authorized": false,
+  "publication_url": null,
+  "method": "video-director; established six-stage methodology",
+  "language": "en",
+  "text_path": "narration.txt",
+  "video_path": "scion-explained.mp4",
+  "sha256": "7e6e7bd81030654a28c8a611a70e02229b60740f4f0a929255b74007f6437d52",
+  "review_path": "review.html",
+  "duration_seconds": 186.3,
+  "full_decode_passed": true,
+  "local_playback_verified": true,
+  "browser_evidence": "evidence/browser-playback.json"
+}

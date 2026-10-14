@@ -1,0 +1,31 @@
+{
+  "player": "Codex built-in browser",
+  "url": "http://127.0.0.1:8756/review.html",
+  "observed_at": "2026-10-14T15:32:34.721Z",
+  "start_progress": [
+    0.137471,
+    22.310696
+  ],
+  "middle_progress": [
+    106.4,
+    121.822949,
+    126.076707
+  ],
+  "seeks": [
+    "1:12 A job needs one file.",
+    "1:46 Reuse at every layer.",
+    "Check ending at 181 seconds"
+  ],
+  "ending": {
+    "currentTime": 186.3,
+    "duration": 186.3,
+    "ended": true,
+    "error": null,
+    "muted": false,
+    "paused": true,
+    "readyState": 4
+  },
+  "screenshot": "browser-review.jpg",
+  "ending_screenshot": "browser-ending.jpg",
+  "scope": "Observed beginning, middle, chapter seeking, and end; not uninterrupted full-duration human listening."
+}

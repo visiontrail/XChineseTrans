@@ -84,3 +84,9 @@ hls-window/
 /output/satellite-beam-steering/research/reference-sample.mp4
 /output/zuckerberg-wang-conviction-20261013/media/official-full-270p.mp4
 /output/zuckerberg-wang-conviction-20261013/media/official-full-720p.incomplete
+
+# Scion source videos and intermediate renders (preserved locally)
+/output/scion-source-control/source/reference-zh.mp4
+/output/scion-source-control/source/reference-en.mp4
+/output/scion-source-control/scion-render-v1.mp4
+/output/scion-source-control/scion-render.mp4

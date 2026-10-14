@@ -1,0 +1,18 @@
+[
+  {
+    "source_post": "https://x.com/dotey/status/2110165779228336493",
+    "media_url": "https://video.twimg.com/amplify_video/2110163933445099520/vid/avc1/1920x1080/bYoA9NmQ8qNOsnZk.mp4?tag=29",
+    "path": "output/scion-source-control/source/reference-en.mp4",
+    "bytes": 74617875,
+    "sha256": "68931e570380f372a7ed07fd2f5f6ccc463451896a4f78c2e1fc92c66f0be099",
+    "retrieved_at": "2026-10-14T15:19:47.279337+00:00"
+  },
+  {
+    "source_post": "https://x.com/dotey/status/2110165779228336493",
+    "media_url": "https://video.twimg.com/amplify_video/2110163933482942464/vid/avc1/1080x1920/h6zl8cMUjfnZrCRo.mp4?tag=29",
+    "path": "output/scion-source-control/source/reference-zh.mp4",
+    "bytes": 73041977,
+    "sha256": "0247a96c6801a28c724bec65943d209deab46d093b293d07496cc2b0d47f9884",
+    "retrieved_at": "2026-10-14T15:21:29.513208+00:00"
+  }
+]

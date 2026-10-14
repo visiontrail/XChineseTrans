@@ -1,0 +1,218 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 1030830,
+    "duration": 902080,
+    "text": "What"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 1932910,
+    "duration": 3608330,
+    "text": "happens"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 5670000,
+    "duration": 1417500,
+    "text": "when"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7216660,
+    "duration": 3607910,
+    "text": "writing"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 10824580,
+    "duration": 4767910,
+    "text": "code"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 17525830,
+    "duration": 3995000,
+    "text": "becomes"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21649580,
+    "duration": 5670000,
+    "text": "faster"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 27319580,
+    "duration": 1030830,
+    "text": "than"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 28350410,
+    "duration": 3479580,
+    "text": "moving"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31958750,
+    "duration": 1932910,
+    "text": "it"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 37886660,
+    "duration": 6314580,
+    "text": "Anthropic"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 46005000,
+    "duration": 3608330,
+    "text": "says"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 49613330,
+    "duration": 1546250,
+    "text": "its"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 51288750,
+    "duration": 3350410,
+    "text": "daily"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 54639160,
+    "duration": 5283330,
+    "text": "merges"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 59922500,
+    "duration": 3479580,
+    "text": "grew"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 63530830,
+    "duration": 1675410,
+    "text": "from"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 65206250,
+    "duration": 2963750,
+    "text": "about"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 68170000,
+    "duration": 6185410,
+    "text": "twenty-five"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 74484580,
+    "duration": 2577500,
+    "text": "hundred"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 77190830,
+    "duration": 1030830,
+    "text": "in"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 78221660,
+    "duration": 3865830,
+    "text": "May"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 84407080,
+    "duration": 1417500,
+    "text": "to"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 85824580,
+    "duration": 2577500,
+    "text": "over"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 88402080,
+    "duration": 3995000,
+    "text": "thirty"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 92525830,
+    "duration": 5799160,
+    "text": "thousand"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 98453750,
+    "duration": 902080,
+    "text": "in"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 99355830,
+    "duration": 6958750,
+    "text": "September"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 110309160,
+    "duration": 2061660,
+    "text": "More"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 112500000,
+    "duration": 3865830,
+    "text": "code"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 118170000,
+    "duration": 2706250,
+    "text": "means"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 121005000,
+    "duration": 3350410,
+    "text": "more"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 124355830,
+    "duration": 3092910,
+    "text": "work"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 128608330,
+    "duration": 2835000,
+    "text": "for"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 132989580,
+    "duration": 3865830,
+    "text": "everything"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 136855830,
+    "duration": 6572080,
+    "text": "downstream"
+  }
+]

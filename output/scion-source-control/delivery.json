@@ -1,0 +1,24 @@
+{
+  "title": "When code outruns the plumbing",
+  "video": "scion-explained.mp4",
+  "sha256": "7e6e7bd81030654a28c8a611a70e02229b60740f4f0a929255b74007f6437d52",
+  "bytes": 9458414,
+  "duration_seconds": "186.300000",
+  "video_frames": 5585,
+  "fps": 30.0,
+  "width": 1920,
+  "height": 1080,
+  "audio": {
+    "input_i": "-16.01",
+    "input_tp": "-1.50",
+    "input_lra": "6.20",
+    "input_thresh": "-26.84"
+  },
+  "full_decode_passed": true,
+  "subtitle_text_coverage": true,
+  "rendered_visual_review": "20 representative stills across all 10 shots; not every frame",
+  "audio_listening": "Unavailable: assistant environment rejects audio input. Playback has an unmuted AAC track; no subjective listening claim.",
+  "publicly_published": false,
+  "browser_playback_verified": true,
+  "browser_evidence": "evidence/browser-playback.json"
+}

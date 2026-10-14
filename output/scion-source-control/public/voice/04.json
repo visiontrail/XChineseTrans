@@ -1,0 +1,242 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 1160000,
+    "duration": 2705830,
+    "text": "Picture"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3865830,
+    "duration": 515409,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4381250,
+    "duration": 5025830,
+    "text": "test"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11597910,
+    "duration": 1546250,
+    "text": "that"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 13273330,
+    "duration": 2835000,
+    "text": "only"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16237080,
+    "duration": 2190830,
+    "text": "needs"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18427910,
+    "duration": 386659,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18943330,
+    "duration": 5670000,
+    "text": "parser"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 29252500,
+    "duration": 4767910,
+    "text": "First"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36340000,
+    "duration": 644160,
+    "text": "it"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36984580,
+    "duration": 2706250,
+    "text": "checks"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39690830,
+    "duration": 902080,
+    "text": "for"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 40592910,
+    "duration": 772910,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 41365830,
+    "duration": 5412500,
+    "text": "requested"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 46907080,
+    "duration": 5541250,
+    "text": "object"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 54252500,
+    "duration": 5541250,
+    "text": "locally"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 64046250,
+    "duration": 773330,
+    "text": "If"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 64819580,
+    "duration": 902080,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 65850410,
+    "duration": 4381250,
+    "text": "object"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 70232080,
+    "duration": 1159580,
+    "text": "is"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 71391660,
+    "duration": 5670000,
+    "text": "missing"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 81572080,
+    "duration": 773330,
+    "text": "it"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 82345410,
+    "duration": 3221660,
+    "text": "asks"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 85567080,
+    "duration": 5154580,
+    "text": "upstream"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 94845410,
+    "duration": 644160,
+    "text": "The"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 95489580,
+    "duration": 2963750,
+    "text": "file"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 98453750,
+    "duration": 5025410,
+    "text": "appears"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 103479160,
+    "duration": 902080,
+    "text": "where"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 104381250,
+    "duration": 902080,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 105412500,
+    "duration": 4381250,
+    "text": "test"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 109922500,
+    "duration": 3092910,
+    "text": "needs"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 113015410,
+    "duration": 1932910,
+    "text": "it"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 118943330,
+    "duration": 515409,
+    "text": "A"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 119458750,
+    "duration": 2706250,
+    "text": "later"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 122293750,
+    "duration": 5541250,
+    "text": "request"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 127835000,
+    "duration": 2190830,
+    "text": "can"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 130025830,
+    "duration": 7602910,
+    "text": "reuse"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 137757910,
+    "duration": 1675000,
+    "text": "that"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 139432910,
+    "duration": 4510410,
+    "text": "cached"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 143943330,
+    "duration": 5412500,
+    "text": "object"
+  }
+]

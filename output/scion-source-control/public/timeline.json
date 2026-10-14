@@ -1,0 +1,497 @@
+{
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "duration_frames": 5585,
+  "shots": [
+    {
+      "id": "bottleneck",
+      "kicker": "THE PRESSURE",
+      "title": "When code outruns\nthe plumbing",
+      "lines": [
+        "What happens when writing code becomes faster than moving it? Anthropic says its daily merges grew from about twenty-five hundred in May to over thirty thousand in September. More code means more work for everything downstream."
+      ],
+      "purpose": "A 2,500 bar grows beside a >30,000 bar; then code packets queue at a narrow checkout gate.",
+      "start": 0,
+      "end": 503,
+      "voiceStart": 18,
+      "voiceFrames": 443,
+      "voice": "voice/00.mp3",
+      "cues": {
+        "growth": 316,
+        "downstream": 349
+      }
+    },
+    {
+      "id": "git",
+      "kicker": "THE ORIGINAL CONTRACT",
+      "title": "Your history.\nOn your machine.",
+      "lines": [
+        "Git gives you a local history you can inspect without asking a server. You can compare versions, create commits, and keep working offline. Think of a workshop with its own reference library: the information stays close to the person doing the work."
+      ],
+      "purpose": "A repository tree and timeline move from the server to one laptop; its network link dims while local history remains accessible.",
+      "start": 503,
+      "end": 1048,
+      "voiceStart": 521,
+      "voiceFrames": 485,
+      "voice": "voice/01.mp3",
+      "cues": {
+        "offline": 776
+      }
+    },
+    {
+      "id": "partial",
+      "kicker": "GIT ALREADY HAS OPTIONS",
+      "title": "You can take less.",
+      "lines": [
+        "A clone does not always have to bring everything. Shallow clones limit history. Partial clones can leave file contents on the server until needed. Sparse checkouts limit the working tree. These solve different problems, and choosing one does not automatically give you the others."
+      ],
+      "purpose": "Three clearly distinct regions: history depth, object content, and working-tree directories.",
+      "start": 1048,
+      "end": 1656,
+      "voiceStart": 1066,
+      "voiceFrames": 548,
+      "voice": "voice/02.mp3",
+      "cues": {
+        "shallow": 1150,
+        "partial": 1218,
+        "sparse": 1350
+      }
+    },
+    {
+      "id": "contract",
+      "kicker": "SCION\u2019S STARTING POINT",
+      "title": "Assume the server\nis reachable.",
+      "lines": [
+        "Scion shifts the contract: clients stay online, keep a bounded cache, and delegate history, merges, and commits to the server. The design question changes from what each machine can do alone to what it actually needs nearby."
+      ],
+      "purpose": "The large client history collapses into a bounded object cache. History and merge functions move to the service.",
+      "start": 1656,
+      "end": 2171,
+      "voiceStart": 1674,
+      "voiceFrames": 455,
+      "voice": "voice/03.mp3",
+      "cues": {
+        "server": 1927
+      }
+    },
+    {
+      "id": "demand",
+      "kicker": "FOLLOW ONE REQUEST",
+      "title": "A job needs one file.",
+      "lines": [
+        "Picture a test that only needs a parser. First, it checks for the requested object locally. If the object is missing, it asks upstream. The file appears where the test needs it. A later request can reuse that cached object."
+      ],
+      "purpose": "One highlighted parser object travels to a workspace; repeat request takes the short local path. Label as a conceptual example.",
+      "start": 2171,
+      "end": 2692,
+      "voiceStart": 2189,
+      "voiceFrames": 461,
+      "voice": "voice/04.mp3",
+      "cues": {
+        "locally": 2352,
+        "upstream": 2446,
+        "appears": 2484,
+        "reuse": 2579
+      }
+    },
+    {
+      "id": "api",
+      "kicker": "SKIP UNNECESSARY WORK",
+      "title": "Sometimes, just ask.",
+      "lines": [
+        "Scion also exposes source-control queries as APIs. A job can ask for a diff without creating a working copy. It creates changesets on the server: changed paths point to content-addressed file data."
+      ],
+      "purpose": "One path carries a diff query and response. A second view reveals a compact changeset with two paths linked to blob objects.",
+      "start": 2692,
+      "end": 3191,
+      "voiceStart": 2710,
+      "voiceFrames": 439,
+      "voice": "voice/05.mp3",
+      "cues": {
+        "changeset": 2988,
+        "content": 3090
+      }
+    },
+    {
+      "id": "cache",
+      "kicker": "MOVE DATA CLOSE TO WORK",
+      "title": "Reuse at every layer.",
+      "lines": [
+        "Files move through node, regional, and server caches. Immutable objects make reuse straightforward: the same identifier refers to the same content. Imagine many tests reading the same parser. Reusing the nearby copy avoids sending the same bytes on every trip."
+      ],
+      "purpose": "Job \u2192 node daemon \u2192 regional cache \u2192 server; successive return arrows demonstrate cache hits without claiming measured request percentages.",
+      "start": 3191,
+      "end": 3840,
+      "voiceStart": 3209,
+      "voiceFrames": 589,
+      "voice": "voice/06.mp3",
+      "cues": {
+        "reuse": 3550
+      }
+    },
+    {
+      "id": "results",
+      "kicker": "ANTHROPIC\u2019S REPORTED RESULTS",
+      "title": "Less infrastructure.\nMore room for CI.",
+      "lines": [
+        "Anthropic reports a two-hundred-fold smaller CPU and memory footprint for source-control infrastructure, and a twenty-five percent CPU capacity gain in CI. These are results from its own workload."
+      ],
+      "purpose": "Two separate denominators with no bar comparing unlike metrics: 200\u00d7 smaller infrastructure; 25% CI CPU capacity gain.",
+      "start": 3840,
+      "end": 4279,
+      "voiceStart": 3858,
+      "voiceFrames": 379,
+      "voice": "voice/07.mp3",
+      "cues": {
+        "ci": 4063
+      }
+    },
+    {
+      "id": "tradeoff",
+      "kicker": "THE TRADEOFF",
+      "title": "A different contract\nhas a cost.",
+      "lines": [
+        "Scion is specialized for enormous monorepos, not a general Git replacement. Its surrounding development tools also had to change. For your own system, start with the job: what must remain local, what can be shared, and what happens when the network is unavailable?"
+      ],
+      "purpose": "Offline independence and online service reliance shown as explicit design choices. End with three practical questions.",
+      "start": 4279,
+      "end": 4885,
+      "voiceStart": 4297,
+      "voiceFrames": 546,
+      "voice": "voice/08.mp3",
+      "cues": {
+        "questions": 4578
+      }
+    },
+    {
+      "id": "close",
+      "kicker": "THE ENGINEERING LESSON",
+      "title": "Follow the bottleneck.",
+      "lines": [
+        "A faster code generator does not automatically create a faster development system. Trace the whole path: write, retrieve, build, test, review. Measure where time and resources go. Then move less data, reuse more of it, and give each operation only the work it needs."
+      ],
+      "purpose": "Five-stage pipeline; the focus moves from code to retrieval, then build/test/review; final takeaway holds for reading.",
+      "start": 4885,
+      "end": 5585,
+      "voiceStart": 4903,
+      "voiceFrames": 602,
+      "voice": "voice/09.mp3",
+      "cues": {
+        "lesson": 5317
+      }
+    }
+  ],
+  "captions": [
+    {
+      "start": 21,
+      "end": 122,
+      "text": "What happens when writing code becomes faster than moving it?"
+    },
+    {
+      "start": 132,
+      "end": 241,
+      "text": "Anthropic says its daily merges grew from about twenty-five"
+    },
+    {
+      "start": 241,
+      "end": 339,
+      "text": "hundred in May to over thirty thousand in September."
+    },
+    {
+      "start": 349,
+      "end": 450,
+      "text": "More code means more work for everything downstream."
+    },
+    {
+      "start": 524,
+      "end": 651,
+      "text": "Git gives you a local history you can inspect without asking a server."
+    },
+    {
+      "start": 662,
+      "end": 795,
+      "text": "You can compare versions, create commits, and keep working offline."
+    },
+    {
+      "start": 806,
+      "end": 896,
+      "text": "Think of a workshop with its own reference library: the"
+    },
+    {
+      "start": 896,
+      "end": 997,
+      "text": "information stays close to the person doing the work."
+    },
+    {
+      "start": 1069,
+      "end": 1140,
+      "text": "A clone does not always have to bring everything."
+    },
+    {
+      "start": 1150,
+      "end": 1208,
+      "text": "Shallow clones limit history."
+    },
+    {
+      "start": 1218,
+      "end": 1339,
+      "text": "Partial clones can leave file contents on the server until needed."
+    },
+    {
+      "start": 1350,
+      "end": 1426,
+      "text": "Sparse checkouts limit the working tree."
+    },
+    {
+      "start": 1437,
+      "end": 1604,
+      "text": "These solve different problems, and choosing one does not automatically give you the others."
+    },
+    {
+      "start": 1677,
+      "end": 1810,
+      "text": "Scion shifts the contract: clients stay online, keep a bounded"
+    },
+    {
+      "start": 1810,
+      "end": 1944,
+      "text": "cache, and delegate history, merges, and commits to the server."
+    },
+    {
+      "start": 1955,
+      "end": 2038,
+      "text": "The design question changes from what each machine"
+    },
+    {
+      "start": 2042,
+      "end": 2118,
+      "text": "can do alone to what it actually needs nearby."
+    },
+    {
+      "start": 2192,
+      "end": 2265,
+      "text": "Picture a test that only needs a parser."
+    },
+    {
+      "start": 2277,
+      "end": 2370,
+      "text": "First, it checks for the requested object locally."
+    },
+    {
+      "start": 2381,
+      "end": 2463,
+      "text": "If the object is missing, it asks upstream."
+    },
+    {
+      "start": 2474,
+      "end": 2536,
+      "text": "The file appears where the test needs it."
+    },
+    {
+      "start": 2546,
+      "end": 2639,
+      "text": "A later request can reuse that cached object."
+    },
+    {
+      "start": 2713,
+      "end": 2844,
+      "text": "Scion also exposes source-control queries as APIs."
+    },
+    {
+      "start": 2854,
+      "end": 2963,
+      "text": "A job can ask for a diff without creating a working copy."
+    },
+    {
+      "start": 2973,
+      "end": 3140,
+      "text": "It creates changesets on the server: changed paths point to content-addressed file data."
+    },
+    {
+      "start": 3214,
+      "end": 3342,
+      "text": "Files move through node, regional, and server caches."
+    },
+    {
+      "start": 3353,
+      "end": 3539,
+      "text": "Immutable objects make reuse straightforward: the same identifier refers to the same content."
+    },
+    {
+      "start": 3550,
+      "end": 3629,
+      "text": "Imagine many tests reading the same parser."
+    },
+    {
+      "start": 3640,
+      "end": 3788,
+      "text": "Reusing the nearby copy avoids sending the same bytes on every trip."
+    },
+    {
+      "start": 3861,
+      "end": 4005,
+      "text": "Anthropic reports a two-hundred-fold smaller CPU and memory footprint for"
+    },
+    {
+      "start": 4005,
+      "end": 4167,
+      "text": "source-control infrastructure, and a twenty-five percent CPU capacity gain in CI."
+    },
+    {
+      "start": 4177,
+      "end": 4228,
+      "text": "These are results from its own workload."
+    },
+    {
+      "start": 4300,
+      "end": 4459,
+      "text": "Scion is specialized for enormous monorepos, not a general Git replacement."
+    },
+    {
+      "start": 4469,
+      "end": 4567,
+      "text": "Its surrounding development tools also had to change."
+    },
+    {
+      "start": 4578,
+      "end": 4700,
+      "text": "For your own system, start with the job: what must remain local,"
+    },
+    {
+      "start": 4711,
+      "end": 4832,
+      "text": "what can be shared, and what happens when the network is unavailable?"
+    },
+    {
+      "start": 4905,
+      "end": 5061,
+      "text": "A faster code generator does not automatically create a faster development system."
+    },
+    {
+      "start": 5072,
+      "end": 5222,
+      "text": "Trace the whole path: write, retrieve, build, test, review."
+    },
+    {
+      "start": 5232,
+      "end": 5307,
+      "text": "Measure where time and resources go."
+    },
+    {
+      "start": 5317,
+      "end": 5495,
+      "text": "Then move less data, reuse more of it, and give each operation only the work it needs."
+    }
+  ],
+  "events": [
+    {
+      "id": "bottleneck-reveal",
+      "frame": 15
+    },
+    {
+      "id": "git-reveal",
+      "frame": 518
+    },
+    {
+      "id": "partial-reveal",
+      "frame": 1063
+    },
+    {
+      "id": "contract-reveal",
+      "frame": 1671
+    },
+    {
+      "id": "demand-reveal",
+      "frame": 2186
+    },
+    {
+      "id": "api-reveal",
+      "frame": 2707
+    },
+    {
+      "id": "cache-reveal",
+      "frame": 3206
+    },
+    {
+      "id": "results-reveal",
+      "frame": 3855
+    },
+    {
+      "id": "tradeoff-reveal",
+      "frame": 4294
+    },
+    {
+      "id": "close-reveal",
+      "frame": 4900
+    },
+    {
+      "id": "bottleneck-growth",
+      "frame": 316
+    },
+    {
+      "id": "bottleneck-downstream",
+      "frame": 349
+    },
+    {
+      "id": "git-offline",
+      "frame": 776
+    },
+    {
+      "id": "partial-shallow",
+      "frame": 1150
+    },
+    {
+      "id": "partial-partial",
+      "frame": 1218
+    },
+    {
+      "id": "partial-sparse",
+      "frame": 1350
+    },
+    {
+      "id": "contract-server",
+      "frame": 1927
+    },
+    {
+      "id": "demand-locally",
+      "frame": 2352
+    },
+    {
+      "id": "demand-upstream",
+      "frame": 2446
+    },
+    {
+      "id": "demand-appears",
+      "frame": 2484
+    },
+    {
+      "id": "demand-reuse",
+      "frame": 2579
+    },
+    {
+      "id": "api-changeset",
+      "frame": 2988
+    },
+    {
+      "id": "api-content",
+      "frame": 3090
+    },
+    {
+      "id": "cache-reuse",
+      "frame": 3550
+    },
+    {
+      "id": "results-ci",
+      "frame": 4063
+    },
+    {
+      "id": "tradeoff-questions",
+      "frame": 4578
+    },
+    {
+      "id": "close-lesson",
+      "frame": 5317
+    }
+  ]
+}

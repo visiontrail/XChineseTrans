@@ -1,0 +1,92 @@
+[
+  {
+    "id": "bottleneck",
+    "kicker": "THE PRESSURE",
+    "title": "When code outruns\nthe plumbing",
+    "lines": [
+      "What happens when writing code becomes faster than moving it? Anthropic says its daily merges grew from about twenty-five hundred in May to over thirty thousand in September. More code means more work for everything downstream."
+    ],
+    "purpose": "A 2,500 bar grows beside a >30,000 bar; then code packets queue at a narrow checkout gate."
+  },
+  {
+    "id": "git",
+    "kicker": "THE ORIGINAL CONTRACT",
+    "title": "Your history.\nOn your machine.",
+    "lines": [
+      "Git gives you a local history you can inspect without asking a server. You can compare versions, create commits, and keep working offline. Think of a workshop with its own reference library: the information stays close to the person doing the work."
+    ],
+    "purpose": "A repository tree and timeline move from the server to one laptop; its network link dims while local history remains accessible."
+  },
+  {
+    "id": "partial",
+    "kicker": "GIT ALREADY HAS OPTIONS",
+    "title": "You can take less.",
+    "lines": [
+      "A clone does not always have to bring everything. Shallow clones limit history. Partial clones can leave file contents on the server until needed. Sparse checkouts limit the working tree. These solve different problems, and choosing one does not automatically give you the others."
+    ],
+    "purpose": "Three clearly distinct regions: history depth, object content, and working-tree directories."
+  },
+  {
+    "id": "contract",
+    "kicker": "SCION’S STARTING POINT",
+    "title": "Assume the server\nis reachable.",
+    "lines": [
+      "Scion shifts the contract: clients stay online, keep a bounded cache, and delegate history, merges, and commits to the server. The design question changes from what each machine can do alone to what it actually needs nearby."
+    ],
+    "purpose": "The large client history collapses into a bounded object cache. History and merge functions move to the service."
+  },
+  {
+    "id": "demand",
+    "kicker": "FOLLOW ONE REQUEST",
+    "title": "A job needs one file.",
+    "lines": [
+      "Picture a test that only needs a parser. First, it checks for the requested object locally. If the object is missing, it asks upstream. The file appears where the test needs it. A later request can reuse that cached object."
+    ],
+    "purpose": "One highlighted parser object travels to a workspace; repeat request takes the short local path. Label as a conceptual example."
+  },
+  {
+    "id": "api",
+    "kicker": "SKIP UNNECESSARY WORK",
+    "title": "Sometimes, just ask.",
+    "lines": [
+      "Scion also exposes source-control queries as APIs. A job can ask for a diff without creating a working copy. It creates changesets on the server: changed paths point to content-addressed file data."
+    ],
+    "purpose": "One path carries a diff query and response. A second view reveals a compact changeset with two paths linked to blob objects."
+  },
+  {
+    "id": "cache",
+    "kicker": "MOVE DATA CLOSE TO WORK",
+    "title": "Reuse at every layer.",
+    "lines": [
+      "Files move through node, regional, and server caches. Immutable objects make reuse straightforward: the same identifier refers to the same content. Imagine many tests reading the same parser. Reusing the nearby copy avoids sending the same bytes on every trip."
+    ],
+    "purpose": "Job → node daemon → regional cache → server; successive return arrows demonstrate cache hits without claiming measured request percentages."
+  },
+  {
+    "id": "results",
+    "kicker": "ANTHROPIC’S REPORTED RESULTS",
+    "title": "Less infrastructure.\nMore room for CI.",
+    "lines": [
+      "Anthropic reports a two-hundred-fold smaller CPU and memory footprint for source-control infrastructure, and a twenty-five percent CPU capacity gain in CI. These are results from its own workload."
+    ],
+    "purpose": "Two separate denominators with no bar comparing unlike metrics: 200× smaller infrastructure; 25% CI CPU capacity gain."
+  },
+  {
+    "id": "tradeoff",
+    "kicker": "THE TRADEOFF",
+    "title": "A different contract\nhas a cost.",
+    "lines": [
+      "Scion is specialized for enormous monorepos, not a general Git replacement. Its surrounding development tools also had to change. For your own system, start with the job: what must remain local, what can be shared, and what happens when the network is unavailable?"
+    ],
+    "purpose": "Offline independence and online service reliance shown as explicit design choices. End with three practical questions."
+  },
+  {
+    "id": "close",
+    "kicker": "THE ENGINEERING LESSON",
+    "title": "Follow the bottleneck.",
+    "lines": [
+      "A faster code generator does not automatically create a faster development system. Trace the whole path: write, retrieve, build, test, review. Measure where time and resources go. Then move less data, reuse more of it, and give each operation only the work it needs."
+    ],
+    "purpose": "Five-stage pipeline; the focus moves from code to retrieval, then build/test/review; final takeaway holds for reading."
+  }
+]

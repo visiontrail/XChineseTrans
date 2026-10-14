@@ -1,0 +1,242 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 1546250,
+    "duration": 3221660,
+    "text": "Files"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4767910,
+    "duration": 4897080,
+    "text": "move"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11855830,
+    "duration": 2448330,
+    "text": "through"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 14304160,
+    "duration": 4381250,
+    "text": "node"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23582500,
+    "duration": 4897080,
+    "text": "regional"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 32989580,
+    "duration": 644160,
+    "text": "and"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 33762910,
+    "duration": 3350410,
+    "text": "server"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 37113330,
+    "duration": 6700830,
+    "text": "caches"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 47938330,
+    "duration": 4510410,
+    "text": "Immutable"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 52577500,
+    "duration": 5154580,
+    "text": "objects"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 57860830,
+    "duration": 2835000,
+    "text": "make"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 60824580,
+    "duration": 8118750,
+    "text": "reuse"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 69072080,
+    "duration": 7860830,
+    "text": "straightforward"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 81700830,
+    "duration": 902080,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 82602910,
+    "duration": 2706250,
+    "text": "same"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 85438330,
+    "duration": 6958750,
+    "text": "identifier"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 92397080,
+    "duration": 5154580,
+    "text": "refers"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 97551660,
+    "duration": 902080,
+    "text": "to"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 98453750,
+    "duration": 902080,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 99484580,
+    "duration": 4123750,
+    "text": "same"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 103608330,
+    "duration": 5799160,
+    "text": "content"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 113530830,
+    "duration": 4252500,
+    "text": "Imagine"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 117783330,
+    "duration": 2706250,
+    "text": "many"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 120489580,
+    "duration": 5927910,
+    "text": "tests"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 127190830,
+    "duration": 2835000,
+    "text": "reading"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 130025830,
+    "duration": 644160,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 130670000,
+    "duration": 3092910,
+    "text": "same"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 133891660,
+    "duration": 5541250,
+    "text": "parser"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 143685410,
+    "duration": 4897080,
+    "text": "Reusing"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 148582500,
+    "duration": 644160,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 149355830,
+    "duration": 5283330,
+    "text": "nearby"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 154639160,
+    "duration": 4897080,
+    "text": "copy"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 159665000,
+    "duration": 7087500,
+    "text": "avoids"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 168298750,
+    "duration": 3479580,
+    "text": "sending"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 171778330,
+    "duration": 773330,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 172551660,
+    "duration": 3092500,
+    "text": "same"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 175644160,
+    "duration": 5025830,
+    "text": "bytes"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 181958750,
+    "duration": 2319580,
+    "text": "on"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 185695830,
+    "duration": 2448330,
+    "text": "every"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 188144160,
+    "duration": 4123750,
+    "text": "trip"
+  }
+]

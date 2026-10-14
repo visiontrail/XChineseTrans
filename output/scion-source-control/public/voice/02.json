@@ -1,0 +1,266 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 902080,
+    "duration": 644160,
+    "text": "A"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 1546250,
+    "duration": 3350410,
+    "text": "clone"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4897080,
+    "duration": 1675000,
+    "text": "does"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6572080,
+    "duration": 2835000,
+    "text": "not"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 9536250,
+    "duration": 3995000,
+    "text": "always"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 13660000,
+    "duration": 1803750,
+    "text": "have"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15463750,
+    "duration": 773330,
+    "text": "to"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16365830,
+    "duration": 2190830,
+    "text": "bring"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18685410,
+    "duration": 5154580,
+    "text": "everything"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 27835000,
+    "duration": 3995000,
+    "text": "Shallow"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31830000,
+    "duration": 5799160,
+    "text": "clones"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 38273330,
+    "duration": 2706250,
+    "text": "limit"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 40979580,
+    "duration": 5541250,
+    "text": "history"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50773330,
+    "duration": 3350410,
+    "text": "Partial"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 54123750,
+    "duration": 6572080,
+    "text": "clones"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 61855830,
+    "duration": 2319580,
+    "text": "can"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 64304160,
+    "duration": 2448330,
+    "text": "leave"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 66881250,
+    "duration": 3221660,
+    "text": "file"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 70102910,
+    "duration": 5283330,
+    "text": "contents"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 75515410,
+    "duration": 644160,
+    "text": "on"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 76159580,
+    "duration": 644160,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 76932910,
+    "duration": 5283330,
+    "text": "server"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 83634160,
+    "duration": 2835000,
+    "text": "until"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 86469160,
+    "duration": 3995000,
+    "text": "needed"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 94587500,
+    "duration": 3737080,
+    "text": "Sparse"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 98453750,
+    "duration": 6185410,
+    "text": "checkouts"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 104767910,
+    "duration": 4639160,
+    "text": "limit"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 109536250,
+    "duration": 1159580,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 110695830,
+    "duration": 4252500,
+    "text": "working"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 115077500,
+    "duration": 4381250,
+    "text": "tree"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 123582500,
+    "duration": 1804160,
+    "text": "These"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 125515410,
+    "duration": 3350410,
+    "text": "solve"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 129510410,
+    "duration": 3221660,
+    "text": "different"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 132732080,
+    "duration": 7216660,
+    "text": "problems"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 144072080,
+    "duration": 3479580,
+    "text": "and"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 149097910,
+    "duration": 4510410,
+    "text": "choosing"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 153608330,
+    "duration": 2319580,
+    "text": "one"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 156056660,
+    "duration": 1675410,
+    "text": "does"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 157860830,
+    "duration": 3737080,
+    "text": "not"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 162242080,
+    "duration": 7087500,
+    "text": "automatically"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 169458750,
+    "duration": 1932910,
+    "text": "give"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 171391660,
+    "duration": 773330,
+    "text": "you"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 172293750,
+    "duration": 1160000,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 173582500,
+    "duration": 5154580,
+    "text": "others"
+  }
+]

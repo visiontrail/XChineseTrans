@@ -1,0 +1,36 @@
+{
+  "sources": [
+    {
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "published": "2026-10-13",
+      "role": "Primary technical account; metrics are vendor-reported"
+    },
+    {
+      "url": "https://x.com/AnthropicAI/status/2110047081414987957",
+      "role": "Original announcement quoted by supplied post"
+    },
+    {
+      "url": "https://x.com/dotey/status/2110165779228336493",
+      "role": "User reference; two bilingual explainer videos"
+    },
+    {
+      "url": "https://git-scm.com/docs/git-clone",
+      "role": "Shallow and partial clone semantics"
+    },
+    {
+      "url": "https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F",
+      "role": "Local operations and snapshot model"
+    }
+  ],
+  "verified_at": "2026-10-14",
+  "claim_decisions": [
+    "Do not claim Git or GitHub is universally broken.",
+    "A full clone is one mode; shallow, partial, and sparse options exist.",
+    "Growth: approximately 2,500/day in May versus >30,000/day in September 2026.",
+    "200x compares infrastructure CPU and memory footprint, not all operations or end-to-end developer speed.",
+    "25% concerns CI CPU capacity, not all company compute.",
+    "Scion targets unusual enormous monorepos; online availability and bespoke tooling are tradeoffs.",
+    "The animated parser.ts example is explanatory, not an observed benchmark."
+  ],
+  "review_state": "preparation; not published"
+}

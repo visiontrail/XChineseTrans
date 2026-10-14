@@ -1,0 +1,19 @@
+What happens when writing code becomes faster than moving it? Anthropic says its daily merges grew from about twenty-five hundred in May to over thirty thousand in September. More code means more work for everything downstream.
+
+Git gives you a local history you can inspect without asking a server. You can compare versions, create commits, and keep working offline. Think of a workshop with its own reference library: the information stays close to the person doing the work.
+
+A clone does not always have to bring everything. Shallow clones limit history. Partial clones can leave file contents on the server until needed. Sparse checkouts limit the working tree. These solve different problems, and choosing one does not automatically give you the others.
+
+Scion shifts the contract: clients stay online, keep a bounded cache, and delegate history, merges, and commits to the server. The design question changes from what each machine can do alone to what it actually needs nearby.
+
+Picture a test that only needs a parser. First, it checks for the requested object locally. If the object is missing, it asks upstream. The file appears where the test needs it. A later request can reuse that cached object.
+
+Scion also exposes source-control queries as APIs. A job can ask for a diff without creating a working copy. It creates changesets on the server: changed paths point to content-addressed file data.
+
+Files move through node, regional, and server caches. Immutable objects make reuse straightforward: the same identifier refers to the same content. Imagine many tests reading the same parser. Reusing the nearby copy avoids sending the same bytes on every trip.
+
+Anthropic reports a two-hundred-fold smaller CPU and memory footprint for source-control infrastructure, and a twenty-five percent CPU capacity gain in CI. These are results from its own workload.
+
+Scion is specialized for enormous monorepos, not a general Git replacement. Its surrounding development tools also had to change. For your own system, start with the job: what must remain local, what can be shared, and what happens when the network is unavailable?
+
+A faster code generator does not automatically create a faster development system. Trace the whole path: write, retrieve, build, test, review. Measure where time and resources go. Then move less data, reuse more of it, and give each operation only the work it needs.

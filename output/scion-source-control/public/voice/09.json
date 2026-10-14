@@ -1,0 +1,266 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 773330,
+    "duration": 515409,
+    "text": "A"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 1288750,
+    "duration": 4252500,
+    "text": "faster"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 5670000,
+    "duration": 2577500,
+    "text": "code"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8376250,
+    "duration": 5541250,
+    "text": "generator"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15721660,
+    "duration": 1804160,
+    "text": "does"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 17654580,
+    "duration": 4252500,
+    "text": "not"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22422500,
+    "duration": 7216660,
+    "text": "automatically"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 29639160,
+    "duration": 4767910,
+    "text": "create"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36469160,
+    "duration": 386659,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36984580,
+    "duration": 5927910,
+    "text": "faster"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 42912500,
+    "duration": 4639160,
+    "text": "development"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 47551660,
+    "duration": 4381250,
+    "text": "system"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 56185410,
+    "duration": 2706250,
+    "text": "Trace"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 58891660,
+    "duration": 902080,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 59793750,
+    "duration": 2706250,
+    "text": "whole"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 62500000,
+    "duration": 5025830,
+    "text": "path"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 73067080,
+    "duration": 3479580,
+    "text": "write"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 79123750,
+    "duration": 7602910,
+    "text": "retrieve"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 88659580,
+    "duration": 4252500,
+    "text": "build"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 94974160,
+    "duration": 4510410,
+    "text": "test"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 101417500,
+    "duration": 4123750,
+    "text": "review"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 109793750,
+    "duration": 3092910,
+    "text": "Measure"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 112886660,
+    "duration": 1546250,
+    "text": "where"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 114432910,
+    "duration": 5154580,
+    "text": "time"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 121907080,
+    "duration": 1546250,
+    "text": "and"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 123582500,
+    "duration": 6700830,
+    "text": "resources"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 130283330,
+    "duration": 3608330,
+    "text": "go"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 138144160,
+    "duration": 1675410,
+    "text": "Then"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 139948330,
+    "duration": 3221660,
+    "text": "move"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 143170000,
+    "duration": 3221660,
+    "text": "less"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 146391660,
+    "duration": 4767910,
+    "text": "data"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 156700830,
+    "duration": 3865830,
+    "text": "reuse"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 160567080,
+    "duration": 3221660,
+    "text": "more"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 163788750,
+    "duration": 772910,
+    "text": "of"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 164561660,
+    "duration": 2061660,
+    "text": "it"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 171134160,
+    "duration": 772910,
+    "text": "and"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 171907080,
+    "duration": 1932910,
+    "text": "give"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 173840000,
+    "duration": 1932910,
+    "text": "each"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 175773330,
+    "duration": 7345410,
+    "text": "operation"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 184536250,
+    "duration": 2835000,
+    "text": "only"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 187371250,
+    "duration": 1030830,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 188530830,
+    "duration": 2190830,
+    "text": "work"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 190721660,
+    "duration": 644160,
+    "text": "it"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 191365830,
+    "duration": 5283330,
+    "text": "needs"
+  }
+]

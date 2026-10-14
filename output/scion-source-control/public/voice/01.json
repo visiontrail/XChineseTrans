@@ -1,0 +1,254 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 902080,
+    "duration": 1804160,
+    "text": "Git"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 2706250,
+    "duration": 1675000,
+    "text": "gives"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4381250,
+    "duration": 1030830,
+    "text": "you"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 5412500,
+    "duration": 386659,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 5799160,
+    "duration": 4767910,
+    "text": "local"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 10567080,
+    "duration": 6314580,
+    "text": "history"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 19072080,
+    "duration": 1030830,
+    "text": "you"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 20102910,
+    "duration": 1160000,
+    "text": "can"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21262910,
+    "duration": 5670000,
+    "text": "inspect"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 27963750,
+    "duration": 4252500,
+    "text": "without"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 33247500,
+    "duration": 3994580,
+    "text": "asking"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 37242080,
+    "duration": 386659,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 37757910,
+    "duration": 5025830,
+    "text": "server"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 47036250,
+    "duration": 772910,
+    "text": "You"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 47809160,
+    "duration": 902080,
+    "text": "can"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 48711250,
+    "duration": 4123750,
+    "text": "compare"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 52963750,
+    "duration": 6572080,
+    "text": "versions"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 61855830,
+    "duration": 3479160,
+    "text": "create"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 65335000,
+    "duration": 6958750,
+    "text": "commits"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 76030830,
+    "duration": 2190830,
+    "text": "and"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 79510410,
+    "duration": 2319580,
+    "text": "keep"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 81830000,
+    "duration": 3092500,
+    "text": "working"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 84922500,
+    "duration": 5670000,
+    "text": "offline"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 94845410,
+    "duration": 1417500,
+    "text": "Think"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 96262910,
+    "duration": 515409,
+    "text": "of"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 96907080,
+    "duration": 644160,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 97551660,
+    "duration": 6056660,
+    "text": "workshop"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 103737080,
+    "duration": 1417500,
+    "text": "with"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 105154580,
+    "duration": 1417500,
+    "text": "its"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 107860830,
+    "duration": 2319580,
+    "text": "own"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 110309160,
+    "duration": 4381250,
+    "text": "reference"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 114690830,
+    "duration": 6185410,
+    "text": "library"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 124097910,
+    "duration": 902080,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 125000000,
+    "duration": 6958750,
+    "text": "information"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 131958750,
+    "duration": 4767910,
+    "text": "stays"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 136855830,
+    "duration": 3994580,
+    "text": "close"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 140850410,
+    "duration": 1030830,
+    "text": "to"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 141881250,
+    "duration": 1030830,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 143041250,
+    "duration": 5412500,
+    "text": "person"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 149484580,
+    "duration": 2835000,
+    "text": "doing"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 152319580,
+    "duration": 773330,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 153092910,
+    "duration": 4767910,
+    "text": "work"
+  }
+]

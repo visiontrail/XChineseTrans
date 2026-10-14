@@ -1,0 +1,33 @@
+{
+  "visual_review": "20 representative stills; not a claim of every-frame manual review",
+  "revisions": [
+    {
+      "defect": "Initial May bar had inconsistent scale against September lower bound",
+      "change": "Reduced May bar to approximately 1/12 width"
+    },
+    {
+      "defect": "Repeat-request annotation intersected return arrow",
+      "change": "Moved label right into its own reading area"
+    },
+    {
+      "defect": "Minimal post-speech hold rushed diagrams",
+      "change": "Added 0.75 seconds per scene; final scene has 2.65-second voice tail hold"
+    },
+    {
+      "defect": "Generic cue matching found the earlier for in tradeoff narration",
+      "change": "Use final matching word for the practical questions reveal"
+    }
+  ],
+  "timeline": {
+    "frames": 5585,
+    "fps": 30,
+    "duration_seconds": 186.16666666666666
+  },
+  "speech": {
+    "provider": "Microsoft Edge speech service",
+    "voice": "en-US-AndrewMultilingualNeural",
+    "client": "edge-tts 7.3.1",
+    "note": "Previously installed client received 403; isolated update to 7.3.1 resolved it. No voice cloning."
+  },
+  "audio_review": "AAC audio normalized and measured at -16.01 LUFS / -1.50 dBTP. Audio-input tool explicitly unavailable; no subjective listening verification."
+}

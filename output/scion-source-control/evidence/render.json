@@ -1,0 +1,21 @@
+{
+  "composition": {
+    "id": "ScionExplained",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "durationInFrames": 5585,
+    "props": {},
+    "defaultProps": {},
+    "defaultCodec": null,
+    "defaultOutName": null,
+    "defaultVideoImageFormat": null,
+    "defaultPixelFormat": null,
+    "defaultProResProfile": null,
+    "defaultSampleRate": null
+  },
+  "seconds": 82.928,
+  "finishedAt": "2026-10-14T15:29:13.792Z",
+  "crf": 20,
+  "concurrency": 6
+}

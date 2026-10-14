@@ -1,0 +1,22 @@
+{
+  "en": {
+    "duration": 445.33551,
+    "progress_seconds": [
+      20.583583,
+      26.613464
+    ],
+    "paused": false,
+    "readyState": 4
+  },
+  "zh": {
+    "duration": 442.688435,
+    "progress_seconds": [
+      20.534113,
+      34.413871
+    ],
+    "paused": false,
+    "readyState": 4
+  },
+  "surface": "Codex built-in browser; direct local source MP4",
+  "scope": "Sampled playback, beginning/middle/end contact frames, full-file decode; not full human listening"
+}

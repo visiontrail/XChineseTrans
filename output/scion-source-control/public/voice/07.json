@@ -1,0 +1,170 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 1030830,
+    "duration": 5283330,
+    "text": "Anthropic"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6443330,
+    "duration": 4381250,
+    "text": "reports"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 12242080,
+    "duration": 644160,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 13015410,
+    "duration": 8376250,
+    "text": "two-hundred-fold"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21520410,
+    "duration": 5283330,
+    "text": "smaller"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 26804160,
+    "duration": 6830000,
+    "text": "CPU"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34536250,
+    "duration": 1675000,
+    "text": "and"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36211250,
+    "duration": 3479580,
+    "text": "memory"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39819580,
+    "duration": 5541250,
+    "text": "footprint"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 47293750,
+    "duration": 1546250,
+    "text": "for"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 48840000,
+    "duration": 7216660,
+    "text": "source-control"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 56056660,
+    "duration": 6958750,
+    "text": "infrastructure"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 67010410,
+    "duration": 515409,
+    "text": "and"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 67525830,
+    "duration": 515409,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 68170000,
+    "duration": 5412500,
+    "text": "twenty-five"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 73582500,
+    "duration": 3995000,
+    "text": "percent"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 77706250,
+    "duration": 5541250,
+    "text": "CPU"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 83247500,
+    "duration": 6314580,
+    "text": "capacity"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 92912500,
+    "duration": 2190410,
+    "text": "gain"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 95102910,
+    "duration": 1030830,
+    "text": "in"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 96262910,
+    "duration": 5927910,
+    "text": "CI"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 106443330,
+    "duration": 1932910,
+    "text": "These"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 108376250,
+    "duration": 644160,
+    "text": "are"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 109020410,
+    "duration": 3737080,
+    "text": "results"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 112757910,
+    "duration": 1159580,
+    "text": "from"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 113917500,
+    "duration": 1160000,
+    "text": "its"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 115206250,
+    "duration": 1804160,
+    "text": "own"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 117010410,
+    "duration": 5541250,
+    "text": "workload"
+  }
+]

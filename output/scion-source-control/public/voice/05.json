@@ -1,0 +1,194 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 1030830,
+    "duration": 3865830,
+    "text": "Scion"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4897080,
+    "duration": 4123330,
+    "text": "also"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 9020410,
+    "duration": 6830000,
+    "text": "exposes"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18041250,
+    "duration": 7860830,
+    "text": "source-control"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 25902080,
+    "duration": 5283330,
+    "text": "queries"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 33891660,
+    "duration": 1804160,
+    "text": "as"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 35824580,
+    "duration": 8118750,
+    "text": "APIs"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 47938330,
+    "duration": 515409,
+    "text": "A"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 48582500,
+    "duration": 3092910,
+    "text": "job"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 51675410,
+    "duration": 1288330,
+    "text": "can"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 52963750,
+    "duration": 3221660,
+    "text": "ask"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 56185410,
+    "duration": 1546250,
+    "text": "for"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 57732080,
+    "duration": 515409,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 58247500,
+    "duration": 4252500,
+    "text": "diff"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 63917500,
+    "duration": 3995000,
+    "text": "without"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 67912500,
+    "duration": 5670000,
+    "text": "creating"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 74226660,
+    "duration": 515409,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 74871250,
+    "duration": 3865830,
+    "text": "working"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 78865830,
+    "duration": 4639160,
+    "text": "copy"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 87757910,
+    "duration": 772910,
+    "text": "It"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 88530830,
+    "duration": 3865830,
+    "text": "creates"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 92525830,
+    "duration": 8891660,
+    "text": "changesets"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 102319580,
+    "duration": 902080,
+    "text": "on"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 103350410,
+    "duration": 644160,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 103995000,
+    "duration": 4381250,
+    "text": "server"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 112628750,
+    "duration": 4123750,
+    "text": "changed"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 116752500,
+    "duration": 3995000,
+    "text": "paths"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 120747500,
+    "duration": 3865830,
+    "text": "point"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 125386660,
+    "duration": 1159580,
+    "text": "to"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 126546250,
+    "duration": 8891660,
+    "text": "content-addressed"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 135438330,
+    "duration": 2706250,
+    "text": "file"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 138273330,
+    "duration": 4252500,
+    "text": "data"
+  }
+]
