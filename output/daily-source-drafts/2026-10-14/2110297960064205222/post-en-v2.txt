@@ -1,0 +1,9 @@
+OpenAI is taking applications for Codex Ambassadors, with paths for event organizers and content creators.
+
+The useful detail is the commitment: six months, with at least one useful contribution each month. Support includes a Pro subscription plus Codex and API credits; the role is voluntary and unpaid.
+
+If you already turn coding workflows into demos or tutorials, this looks worth a closer look. The application asks for public examples and a short introduction video.
+
+I don't have a workflow worth showing off yet, and my spoken English could use some work, so I'll just watch from the sidelines for now.
+
+https://developers.openai.com/community/codex-ambassadors
