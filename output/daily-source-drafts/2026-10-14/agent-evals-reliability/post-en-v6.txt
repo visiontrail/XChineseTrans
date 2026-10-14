@@ -1,0 +1,15 @@
+You’re building an AI agent system. It completes the task in your demo, and everything looks promising. But how do you know it will work reliably when people actually use it?
+
+Drawing on Anthropic’s guide to agent evaluations, here are four questions to work through.
+
+First: what actually counts as success? Define the requirements before running the evaluation, then check whether the actual outcome in the environment meets them. A convincing “done” message isn’t the outcome.
+
+Next: can it repeat that success? Run the same task multiple times in clean environments. Getting one good result after several attempts tells you something different from succeeding consistently. That’s the distinction between pass@k and pass^k.
+
+Then: can you trust the test? A weak grader can accept broken work; an overly rigid one can reject a valid solution. Inspect the actual runs alongside the scores. Sometimes the thing that needs fixing is the evaluation.
+
+Finally: does the test reflect what users need? Start with a small set of real failures and tasks you already check manually. Keep rerunning them as the model, prompts, or tools change, so an improvement in one area doesn’t quietly break another.
+
+The goal isn’t to prove the agent is flawless. It’s to make its limits visible—and catch regressions before users do. A demo shows what can work. An evaluation helps you decide what to rely on.
+
+https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents
