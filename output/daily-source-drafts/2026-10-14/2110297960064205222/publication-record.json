@@ -1,0 +1,24 @@
+{
+  "account": "@LeoGuoLabs",
+  "format": "standalone",
+  "source_url": "https://x.com/leo114119/status/2110297960064205222",
+  "primary_url": "https://developers.openai.com/community/codex-ambassadors",
+  "final_text_file": "post-en-v2.txt",
+  "media": [
+    "media/ambassadors-en-v1.png"
+  ],
+  "alt_file": "alt-en-v1.txt",
+  "approval_receipt": "Sentinel_3fda310c866c8191a95c9c2530a0613c",
+  "revision_receipt": "Sentinel_f01109ed83808191817455b478ef9511",
+  "publication_url": "https://x.com/LeoGuoLabs/status/2110339824095785111",
+  "published_at": "2026-10-14T11:59:53Z",
+  "verified_at": "2026-10-14T12:01:38.113450+00:00",
+  "checks": [
+    "Current official page verified applications, six-month commitment, monthly contribution, credits and unpaid FAQ before publication",
+    "Live authenticated account @LeoGuoLabs verified",
+    "Full v2 text and original English image accepted in composer",
+    "Reopened actual post URL: full approved text, link, standalone format, one image and ALT verified",
+    "Full-size published image visually inspected; no truncation or unreadable labels"
+  ],
+  "status": "published_and_publicly_verified"
+}

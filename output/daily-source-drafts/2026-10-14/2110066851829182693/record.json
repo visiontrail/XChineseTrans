@@ -1,0 +1,38 @@
+{
+  "singapore_date": "2026-10-14",
+  "batch": "10:00",
+  "draft_id": "2110066851829182693",
+  "title": "Cat Jam 免费上线，但数据保留说法需要核对",
+  "source_ids": [
+    "2110066851829182693"
+  ],
+  "source_urls": [
+    "https://x.com/leo114119/status/2110066851829182693"
+  ],
+  "primary_source_urls": [
+    "https://x.com/opencode/status/2110068008945381853",
+    "https://opencode.ai/v2/docs/console/models/#privacy"
+  ],
+  "topic_key": "opencode-cat-jam-retention-discrepancy-20261014",
+  "package_path": "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-14/2110066851829182693",
+  "text_path": "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-14/2110066851829182693/post-en-v1.txt",
+  "media_paths": [],
+  "media_required": false,
+  "verification_state": "verified_with_explicit_qualifications",
+  "delivery_state": "delivered_for_review",
+  "created_at": "2026-10-14T02:12:34.792305+00:00",
+  "delivered_at": "2026-10-14T02:14:53Z",
+  "publication_state": "published_and_publicly_verified",
+  "duplicate_findings": "No matching story in complete output archive before creation",
+  "long_post_permission": "full_text_accepted_and_published",
+  "delivery_receipt": "Sentinel_57fd6585cb8c8191911ef8a54a104ef5",
+  "approval_state": "approved",
+  "policy_recheck_required_before_publication": false,
+  "format": "native_quote",
+  "quote_target_url": "https://x.com/opencode/status/2110068008945381853",
+  "published_url": "https://x.com/LeoGuoLabs/status/2110215788867072410",
+  "published_at": "2026-10-14T03:47:00Z",
+  "verified_at": "2026-10-14T03:48:24Z",
+  "policy_rechecked_at": "2026-10-14T03:44:55Z",
+  "approval_receipt": "Sentinel_4701e93247f081919b0996e12de302e4"
+}

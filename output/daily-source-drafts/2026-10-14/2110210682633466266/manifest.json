@@ -1,0 +1,34 @@
+{
+  "draft_id": "2110210682633466266",
+  "format": "standalone",
+  "quote_target_url": null,
+  "source_url": "https://x.com/leo114119/status/2110210682633466266",
+  "primary_source_urls": [
+    "https://help.x.com/en/rules-and-policies/x-automation"
+  ],
+  "text_file": "post-en-v2.txt",
+  "media": [
+    "media/human-ai-replies-v1.png"
+  ],
+  "alt": "media/alt-en-v1.txt",
+  "verification_state": "verified_official_policy_and_original_source",
+  "approval_state": "approved",
+  "publication_state": "published_and_publicly_verified",
+  "delivery_state": "delivered_for_review",
+  "created_at": "2026-10-14T08:10:28.207756+00:00",
+  "delivered_at": "2026-10-14T08:11:26.083543Z",
+  "delivery_receipt": "Sentinel_c65fc27db70c8191a785e8d062a48994",
+  "current_version": 2,
+  "revision_request_receipt": "Sentinel_9ac087a99b348191a9341804ab643b30",
+  "revision_delivery_receipt": "Sentinel_ad5e520c852c81918e8d456ac0ef0e21",
+  "image_review_state": "approved",
+  "image_request_receipt": "Sentinel_6cb75c2a6a4c81919e31fdcac0a7231f",
+  "image_library_file_id": "libfile_d9f0794aa3f88191ad88047515e71cfb",
+  "image_provenance": "media/provenance-v1.md",
+  "image_review_delivery_receipt": "Sentinel_f7ba72998098819193978580b9afbb39",
+  "image_review_delivered_at": "2026-10-14T08:48:38.438144Z",
+  "approval_receipt": "Sentinel_193348eb1e7081919d5f46f96a6a0f1e",
+  "published_url": "https://x.com/LeoGuoLabs/status/2110337061798469782",
+  "verified_at": "2026-10-14T11:50:30.156305+00:00",
+  "final_review_receipt": "Sentinel_3284966991c08191a1462153c52669fc"
+}

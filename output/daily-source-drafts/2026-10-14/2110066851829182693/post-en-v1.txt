@@ -1,0 +1,7 @@
+Cat Jam is available free in OpenCode for a limited time. OpenCode calls it a stealth model; useful evaluations will tell us more than guesses about the lab behind it.
+
+One detail needs clarification: OpenCode’s announcement says zero data retention, while its current Console docs say Cat Jam Free inputs aren’t used for training but are retained for 30 days for safety.
+
+Until that discrepancy is resolved, use an isolated sandbox with public or synthetic code. Check the policy for the endpoint you’re actually using before giving it access to a private repository.
+
+https://opencode.ai/v2/docs/console/models/#privacy

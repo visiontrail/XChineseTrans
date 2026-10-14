@@ -1,0 +1,17 @@
+{
+  "account": "@LeoGuoLabs",
+  "format": "standalone",
+  "source_url": "https://x.com/xiaohu/status/2110210554463957413",
+  "primary_source_url": "https://www.anthropic.com/engineering/redesigning-source-control",
+  "text": "post-en-v1.txt",
+  "media": [
+    "media/scion-concept-v1.png"
+  ],
+  "alt": "alt-en-v1.txt",
+  "status": "published_and_publicly_verified",
+  "published_url": "https://x.com/LeoGuoLabs/status/2110248429964099986",
+  "published_at": "2026-10-14T05:56:40Z",
+  "verified_at": "2026-10-14T05:57:30Z",
+  "verification": "Reopened published URL; verified account, full approved body, one complete original infographic, ALT and official article link. Native standalone format; source had no quoted original. X displays its automatic Made with AI label.",
+  "image_sha256": "ae51cd13d6e2d9ba07aa26d07878bd261bff63ac475ea312a63859521a6fc0af"
+}

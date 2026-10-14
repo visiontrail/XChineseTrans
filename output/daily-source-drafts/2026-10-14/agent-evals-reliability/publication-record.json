@@ -1,0 +1,35 @@
+{
+  "account": "@LeoGuoLabs",
+  "format": "standalone",
+  "revision": "v6",
+  "source_urls": [
+    "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents"
+  ],
+  "approval_receipt": "Sentinel_44f4ebc7848c81919299762e5c7a4bb2",
+  "approval_context_receipt": "Sentinel_7442b5905c048191b3d4e165d9b8daf0",
+  "publication_state": "published_and_publicly_verified",
+  "published_url": "https://x.com/LeoGuoLabs/status/2110381378923569304",
+  "published_at": "2026-10-14T14:45:01Z",
+  "verified_at": "2026-10-14T14:45:43Z",
+  "verification": [
+    "Exact published URL reopened; full approved body visible with paragraph breaks and official article link",
+    "One v6 infographic visible, readable and domain-neutral",
+    "Exact v6 ALT present on live image",
+    "No Quote target applicable; official web source"
+  ],
+  "platform_label": "X automatically displayed Made with AI; retained unchanged",
+  "files": {
+    "post-en-v6.txt": {
+      "bytes": 1484,
+      "sha256": "ba71a2f5acf0e33e36ddef0fa7ba56e7782b9fe8fb05b094251fb5f0edbf6740"
+    },
+    "alt-en-v6.txt": {
+      "bytes": 605,
+      "sha256": "53317282a5af1cde7b65d5399b6c04afc72bca5e00f977cb71917a35e5232dde"
+    },
+    "media/agent-evals-reliability-v6.png": {
+      "bytes": 1665020,
+      "sha256": "5bce106ea91c6bb5aed9917b25aaf7304df44a2e43350e8a36da488ca1d1597a"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "account": "@LeoGuoLabs",
+  "publication_state": "published_and_publicly_verified",
+  "approval_state": "approved",
+  "approval_receipt": "Sentinel_5698b30055a481918be4cd4324231267",
+  "published_url": "https://x.com/LeoGuoLabs/status/2110239065400365454",
+  "published_at": "2026-10-14T05:19:31Z",
+  "verified_at": "2026-10-14T05:20:03Z",
+  "pricing_rechecked_at": "2026-10-14T05:18:28Z",
+  "long_post_permission": "full_text_accepted_and_published",
+  "git_state": "ready_to_commit",
+  "format": "native_quote",
+  "quote_target_url": "https://x.com/opencode/status/2110078016688648606",
+  "text_file": "post-en-v1.txt",
+  "media": [],
+  "verification": {
+    "full_text": "Matched approved text with paragraph breaks on reopened public detail page",
+    "quote_target": "Clicked native Quote card from published post; opened exact official announcement 2110078016688648606",
+    "pricing": "Official production Console table unchanged: USD per 1M input 2, output 10, cache read 0.10; 50% discount through November 30, 2026",
+    "submission": "One Post click; sent toast then public URL verified"
+  }
+}

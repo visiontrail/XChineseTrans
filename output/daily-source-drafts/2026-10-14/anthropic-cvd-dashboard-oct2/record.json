@@ -1,0 +1,65 @@
+{
+  "singapore_date": "2026-10-14",
+  "batch": "22:00",
+  "draft_id": "anthropic-cvd-dashboard-oct2",
+  "title": "AI vulnerability discovery: the remediation pipeline",
+  "topic_key": "anthropic-cvd-dashboard-oct2",
+  "format": "standalone",
+  "source_ids": [],
+  "source_urls": [
+    "https://red.anthropic.com/2026/cvd/"
+  ],
+  "primary_source_urls": [
+    "https://red.anthropic.com/2026/cvd/",
+    "https://red.anthropic.com/2026/cvd/about/"
+  ],
+  "source_date": "2026-10-02",
+  "retrieved_at": "2026-10-14T14:03:33Z",
+  "package_path": "output/daily-source-drafts/2026-10-14/anthropic-cvd-dashboard-oct2",
+  "text_path": "post-en-v1.txt",
+  "media_paths": [
+    "media/cvd-workflow-en-v1.png"
+  ],
+  "verification_state": "verified_with_explicit_qualifications",
+  "preparation_state": "ready",
+  "delivery_state": "delivered_for_review",
+  "publication_state": "publicly_verified",
+  "media_inspection_complete": true,
+  "notes": "Published the approved standalone English post and illustration. Reopened actual status URL; verified full text, official link, one image and exact English ALT. Opened live image full-size and verified readability. No Quote target.",
+  "source_media_inspection_complete": true,
+  "source_media_inspection_note": "Cloud browser full text plus visible flow diagram inspected October14; filters show all assessment sources/severities. Diagram reports 6157 disclosed,5103 acknowledged,516 patched,584 advisories; snapshot October2. Read explanatory scope and glossary. Original conceptual illustration in preparation.",
+  "media_required": true,
+  "library_file_id": "libfile_0ab8f4b1e7848191b23d8dad3425ceb9",
+  "file_id": "file_00000000227c81f489da066126942ca3",
+  "long_post_permission": "verified_in_composer_and_live_post",
+  "delivery_receipt": "Sentinel_01a19cef8e0481918839f940b92f5a22",
+  "delivered_at": "2026-10-14T14:16:45.924748Z",
+  "approval_state": "approved",
+  "published_url": "https://x.com/LeoGuoLabs/status/2110390275491189097",
+  "published_at": "2026-10-14T15:20:25.489000Z",
+  "verified_at": "2026-10-14T15:21:30Z",
+  "account": "@LeoGuoLabs",
+  "alt_path": "alt-en-v1.txt",
+  "approval": {
+    "review_receipt": "Sentinel_01a19cef8e0481918839f940b92f5a22",
+    "approval_receipt": "Sentinel_29c6026708bc81918e5d76e41aae78e8",
+    "instruction": "确认发布",
+    "scope": "Original reviewed English post and English illustration; subsequent Chinese translation was for review only."
+  },
+  "public_verification": {
+    "body_matches_approved": true,
+    "account_verified": true,
+    "standalone_verified": true,
+    "image_count": 1,
+    "image_visual_verified": true,
+    "alt_matches_file": true,
+    "official_link_present": true,
+    "duplicate_check": "Prepublication live profile latest posts plus existing topic research archive dedup; no matching post found."
+  },
+  "sha256": {
+    "post-en-v1.txt": "e50fbde2aeb0d3bddea47eccba07b09d958bee983c1207932d970192327b43e7",
+    "alt-en-v1.txt": "a34ed9251268278f61f2658a531e5309c1f02ae008c8fc26f115be23d5d782e4",
+    "media/cvd-workflow-en-v1.png": "9f1b9e0db5c2efcd6082c8e336a274184c6b67cab63a55f1873c2659ea028f39"
+  },
+  "published_at_basis": "X status ID timestamp, consistent with visible 8:20 AM browser-local timestamp"
+}
