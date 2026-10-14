@@ -1,0 +1,13 @@
+Finding a vulnerability is the start of the work.
+
+Anthropic’s disclosure dashboard, updated October 2, reports 6,157 findings sent to maintainers across 591 open-source projects, with 516 known to have been patched.
+
+Those figures cover multiple Claude models. They also mix independently triaged reports with direct disclosures, so they are not a count of independently confirmed Mythos-only bugs.
+
+One detail worth reading carefully: “acknowledged” means a maintainer responded. It does not mean a fix shipped. And a patch upstream does not mean users have installed it.
+
+AI can accelerate discovery while validation, maintainer capacity, and deployment still determine how much risk actually gets removed.
+
+The useful dashboard is the whole pipeline, not just the biggest number at the top.
+
+https://red.anthropic.com/2026/cvd/

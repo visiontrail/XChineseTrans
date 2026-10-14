@@ -1,0 +1,11 @@
+{
+  "filename": "cvd-workflow-en-v1.png",
+  "width": 1122,
+  "height": 1402,
+  "bytes": 1804132,
+  "sha256": "9f1b9e0db5c2efcd6082c8e336a274184c6b67cab63a55f1873c2659ea028f39",
+  "generator": "built-in image_gen",
+  "qa": "Inspected full-size and 450px phone preview. Heading, four stages, descriptions, qualification, date and signature correct. No clipping. Main explanatory text readable at phone size; small source footer readable at full size. Conceptual workflow explicitly labeled, no measured funnel or counts.",
+  "library_file_id": "libfile_0ab8f4b1e7848191b23d8dad3425ceb9",
+  "file_id": "file_00000000227c81f489da066126942ca3"
+}
