@@ -1,0 +1,7 @@
+OpenAI found a hidden recording device in one of its offices—and says its own models helped analyze the device, trace its origins, and identify the employee suspected of planting it.
+
+The company fired the employee and referred the case to the FBI. The Justice Department confirms an arrest and criminal charge; the investigation is ongoing.
+
+OpenAI says it currently has no indication that model weights, source code, or customer data were improperly accessed or taken.
+
+That’s an AI use case I didn’t expect to see in a company announcement. I’d be interested in the technical breakdown: what did the models infer, and how did investigators verify it?
