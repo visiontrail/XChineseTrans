@@ -1,0 +1,206 @@
+{
+  "review_date": "2026-10-15",
+  "source": {
+    "title": "运营商手机直连卫星业务盘点和展望",
+    "url": "https://mp.weixin.qq.com/s/Lj5BTFHSt4TTnn-7JLtzdg",
+    "acquisition": "User pasted complete article into chat; blocked original page was not retried"
+  },
+  "scope": "Chinese visual synthesis and engineering advice; no publication requested",
+  "design": {
+    "skill": "diagram-design",
+    "brand": "LeoGuoLabs Light v1 from project AGENTS.md; overrides default skill colors and serif typography",
+    "preset": "slide-16x9",
+    "viewbox": [
+      1280,
+      720
+    ],
+    "fonts": "Geist, Inter, PingFang SC, Microsoft YaHei, sans-serif; actual platform resolution checked at render time",
+    "language": "zh-CN",
+    "figures": [
+      {
+        "slug": "01-service-routes",
+        "title": "三类业务入口，先看能力边界",
+        "type": "architecture",
+        "sources": [
+          "S4",
+          "S6",
+          "S7",
+          "S8",
+          "S13"
+        ],
+        "note": "北斗区域短报文的系统能力，不能直接写成所有手机可发送的字数；手机支持北斗定位也不能计为支持卫星消息。NTN 可覆盖不同轨道，不能直接与“低轨宽带”画等号。"
+      },
+      {
+        "slug": "02-operator-paths",
+        "title": "三家起点各异，业务入口逐渐融合",
+        "type": "architecture",
+        "sources": [
+          "S2",
+          "S3",
+          "S4",
+          "S9",
+          "S10",
+          "S11",
+          "S12",
+          "S15"
+        ],
+        "note": "工信部公告先披露联通获牌，再披露移动获牌，原文称联通“补齐最晚”不成立。“星网批发、运营商零售”可作为一种合作理解，不宜画成排他的既定行业分工。资本与合作关系也不能直接推导为网络已可商用。"
+      },
+      {
+        "slug": "03-payload-architecture",
+        "title": "基站放在哪里，决定工程难点",
+        "type": "architecture",
+        "sources": [
+          "S13",
+          "S14"
+        ],
+        "note": "结合 XY-2.1 当前本地架构学习资料与 V0.6 详细设计报告阅读。星载基带只是系统的一部分，不能用单机性能替代端到端通信能力。未复制项目内部器件数量、容量参数、成本、计划或受控接口细节。"
+      },
+      {
+        "slug": "04-commercial-gates",
+        "title": "从试验到商用，需要三次判定",
+        "type": "flowchart",
+        "sources": [],
+        "note": "建议把端到端用例作为 XY-2.1 的验证主线：终端接入 → 波束生效 → 业务承载 → 切换或异常恢复 → 日志及地面确认。扩波束评估应同时列明带宽、并发、处理与接口余量、功耗以及故障后的可用能力。商业运营关口属于系统与运营层，不应全部变成基带单机承诺。"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "2026 年政府工作报告",
+      "url": "https://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2026/2026_zt03/baogao/202603/t20260314_1430876.html"
+    },
+    {
+      "id": "S2",
+      "title": "工信部：向中国联通颁发卫星移动通信业务经营许可（2025-09-08）",
+      "url": "https://wap.miit.gov.cn/xwfb/gxdt/sjdt/art/2025/art_ea54d95b58fc49a3be5315c7ddc2fac0.html"
+    },
+    {
+      "id": "S3",
+      "title": "工信部：向中国移动颁发卫星移动通信业务经营许可（2025-09-29）",
+      "url": "https://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2025/art_a6f24798ae08410d9b4cb3126c319d19.html"
+    },
+    {
+      "id": "S4",
+      "title": "中国电信：天通直连卫星系统规模应用（2025-11-10）",
+      "url": "https://www.chinatelecom.com.cn/ct/news/jtxw/162457.html"
+    },
+    {
+      "id": "S5",
+      "title": "中国电信：三星 S25 Ultra 与中科晶上天通芯片（2025-02-11）",
+      "url": "https://www.chinatelecom.com.cn/ct/news/jtxw/152975.html"
+    },
+    {
+      "id": "S6",
+      "title": "中国电信：小米 15 Ultra 卫星数据与图片业务（2025-02-28）",
+      "url": "https://www.chinatelecom.com.cn/ct/news/jtxw/152980.html"
+    },
+    {
+      "id": "S7",
+      "title": "北斗官方：2019 年系统发展报告，区域与全球短报文能力",
+      "url": "https://www.beidou.gov.cn/xt/gfxz/201912/P020191227337020425733.pdf"
+    },
+    {
+      "id": "S8",
+      "title": "华为：北斗卫星消息操作类常见问题",
+      "url": "https://consumer.huawei.com/cn/support/content/zh-cn15986536/"
+    },
+    {
+      "id": "S9",
+      "title": "中国联通：ESG 社会报告，低轨窄带物联卫星",
+      "url": "https://www.chinaunicom.com.hk/sc/esg/social.php"
+    },
+    {
+      "id": "S10",
+      "title": "中国联通：董事长报告书，天通与北斗服务上线",
+      "url": "https://www.chinaunicom.com.hk/sc/about/chairman.php"
+    },
+    {
+      "id": "S11",
+      "title": "工信部：垣信试验星与中国移动 02 星发射（2026-06-09）",
+      "url": "https://wap.miit.gov.cn/jgsj/wgj/gzdt/art/2026/art_047c93af39774b978f0a21cf420b9568.html"
+    },
+    {
+      "id": "S12",
+      "title": "中国移动：2024 年半年度报告摘要，01 星与星核验证星",
+      "url": "https://www.chinamobileltd.com/en/file/view.php?id=300969"
+    },
+    {
+      "id": "S13",
+      "title": "ITU-R M.2177-0：NR-NTN 与 IoT-NTN（2026-02）",
+      "url": "https://www.itu.int/epublications/publication/recommendation-itu-r-m-2177-0-02-2026-detailed-specifications-of-the-satellite-radio-interfaces-of-international-mobile-telecommunications-2020-imt-2020"
+    },
+    {
+      "id": "S14",
+      "title": "Ericsson：透明转发与再生载荷架构",
+      "url": "https://www.ericsson.com/en/blog/2024/10/ntn-payload-architecture"
+    },
+    {
+      "id": "S15",
+      "title": "中国电信：2024 MWC 上海，回顾 2023 年 9 月业务发布",
+      "url": "https://www.chinatelecom.com.cn/ct/news/jtxw/152882.html"
+    }
+  ],
+  "claim_review": [
+    {
+      "status": "有依据，需分清解读",
+      "claim": "“卫星互联网”与“航空航天”进入政府工作报告",
+      "assessment": "2026 年报告明确提出加快发展卫星互联网，并将航空航天列入新兴支柱产业。“不再是地面网络的补充”是作者的进一步解读，不是报告原文规定的业务定位。",
+      "references": "S1"
+    },
+    {
+      "status": "需纠正",
+      "claim": "“天通国产基带芯片只有华力创通一家量产”",
+      "assessment": "中国电信官方披露与中科晶上为三星 S25 Ultra 提供定制天通芯片，不能保留“国产唯一”的表述。",
+      "references": "S5"
+    },
+    {
+      "status": "需纠正",
+      "claim": "“联通补齐最晚”",
+      "assessment": "工信部获牌公告：联通为 2025-09-08，移动为 2025-09-29。公告日不必等于许可证签发日。",
+      "references": "S2、S3"
+    },
+    {
+      "status": "需限定",
+      "claim": "“北斗短报文能传 1000 个汉字”",
+      "assessment": "这是区域短报文的系统能力口径，全球服务与手机产品的限制不同。华为具体产品的消息长度远小于 1000 字，应按机型、服务和运营商说明。",
+      "references": "S7、S8"
+    },
+    {
+      "status": "需更新",
+      "claim": "“天通只解决语音和短信”",
+      "assessment": "部分手机与应用已支持压缩图片和即时消息；这仍不能等同于通用宽带上网。",
+      "references": "S6"
+    },
+    {
+      "status": "需区分",
+      "claim": "“北斗芯片出货或定位渗透率”",
+      "assessment": "定位接收能力与短报文通信能力不同，不能把定位终端规模当成卫星通信用户规模。",
+      "references": "S7、S8"
+    },
+    {
+      "status": "证据不足",
+      "claim": "“11 / 3.6 Mbps 接近 4G 体验”及其与 04 星的关系",
+      "assessment": "二手报道将该 NR-NTN 试验追溯到 2024 年 2 月。本文未取得足以支持原文拼接关系的一手试验记录，因此不将该速率归因于 2025 年发射的窄带物联 04 星，也不将峰值速率写成连续服务体验。",
+      "references": "S9、S13；速率不进入主图"
+    },
+    {
+      "status": "仅可作分析",
+      "claim": "“星网批发、三大运营商零售”",
+      "assessment": "这可描述一种合作模式，不是已核实且排他的行业分工；中国时空信息集团是带宽计费枢纽的说法也未得到本次一手来源支持。",
+      "references": "原文分析，非确定事实"
+    },
+    {
+      "status": "待核实，主图不采用",
+      "claim": "芯片具体工艺与功耗、出货量、订单金额、采购禁令、资本持股、2664 颗申报、128 波束和降低 20% 功耗、两极通话",
+      "assessment": "这些口径需要分别追溯公司公告、产品数据表、监管决定、ITU 申报和测试条件。缺少一手证据不等于判定为假，但不宜据此画排名、技术能力或投资结论。",
+      "references": "未完成一手核实"
+    }
+  ],
+  "local_context": [
+    "XY-2.1/learn/基带处理组件入门笔记.md",
+    "XY-2.1/DesignReports/详细设计报告-CRD/XY2.1-星载基站基带处理组件详细设计报告-V0.6.md"
+  ],
+  "privacy": "No internal numeric specification, costs, schedule, or controlled interfaces copied into deliverables."
+}

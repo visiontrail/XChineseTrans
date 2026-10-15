@@ -1,0 +1,197 @@
+{
+  "renderedAt": "2026-10-15T12:59:07.272Z",
+  "scope": "Offline local artifact rendering; all network requests blocked",
+  "figures": [
+    {
+      "file": "01-service-routes.html",
+      "geometry": [
+        {
+          "outOfBounds": [],
+          "textCollisions": [],
+          "diagonalLines": 0,
+          "nodes": 9,
+          "computedFont": "Geist, Inter, \"PingFang SC\", \"Microsoft YaHei\", sans-serif"
+        }
+      ],
+      "platformFonts": [
+        {
+          "familyName": "PingFang SC",
+          "postScriptName": "PingFangSC-Medium",
+          "isCustomFont": false,
+          "glyphCount": 11
+        }
+      ],
+      "mobile": {
+        "width": 390,
+        "documentWidth": 390,
+        "localScrollers": [
+          {
+            "client": 358,
+            "scroll": 1280,
+            "overflow": "auto"
+          }
+        ]
+      }
+    },
+    {
+      "file": "02-operator-paths.html",
+      "geometry": [
+        {
+          "outOfBounds": [],
+          "textCollisions": [],
+          "diagonalLines": 0,
+          "nodes": 7,
+          "computedFont": "Geist, Inter, \"PingFang SC\", \"Microsoft YaHei\", sans-serif"
+        }
+      ],
+      "platformFonts": [
+        {
+          "familyName": "PingFang SC",
+          "postScriptName": "PingFangSC-Medium",
+          "isCustomFont": false,
+          "glyphCount": 11
+        }
+      ],
+      "mobile": {
+        "width": 390,
+        "documentWidth": 390,
+        "localScrollers": [
+          {
+            "client": 358,
+            "scroll": 1280,
+            "overflow": "auto"
+          }
+        ]
+      }
+    },
+    {
+      "file": "03-payload-architecture.html",
+      "geometry": [
+        {
+          "outOfBounds": [],
+          "textCollisions": [],
+          "diagonalLines": 0,
+          "nodes": 8,
+          "computedFont": "Geist, Inter, \"PingFang SC\", \"Microsoft YaHei\", sans-serif"
+        }
+      ],
+      "platformFonts": [
+        {
+          "familyName": "PingFang SC",
+          "postScriptName": "PingFangSC-Medium",
+          "isCustomFont": false,
+          "glyphCount": 11
+        }
+      ],
+      "mobile": {
+        "width": 390,
+        "documentWidth": 390,
+        "localScrollers": [
+          {
+            "client": 358,
+            "scroll": 1280,
+            "overflow": "auto"
+          }
+        ]
+      }
+    },
+    {
+      "file": "04-commercial-gates.html",
+      "geometry": [
+        {
+          "outOfBounds": [],
+          "textCollisions": [],
+          "diagonalLines": 0,
+          "nodes": 5,
+          "computedFont": "Geist, Inter, \"PingFang SC\", \"Microsoft YaHei\", sans-serif"
+        }
+      ],
+      "platformFonts": [
+        {
+          "familyName": "PingFang SC",
+          "postScriptName": "PingFangSC-Medium",
+          "isCustomFont": false,
+          "glyphCount": 11
+        }
+      ],
+      "mobile": {
+        "width": 390,
+        "documentWidth": 390,
+        "localScrollers": [
+          {
+            "client": 358,
+            "scroll": 1280,
+            "overflow": "auto"
+          }
+        ]
+      }
+    },
+    {
+      "file": "index.html",
+      "geometry": [
+        {
+          "outOfBounds": [],
+          "textCollisions": [],
+          "diagonalLines": 0,
+          "nodes": 9,
+          "computedFont": "Geist, Inter, \"PingFang SC\", \"Microsoft YaHei\", sans-serif"
+        },
+        {
+          "outOfBounds": [],
+          "textCollisions": [],
+          "diagonalLines": 0,
+          "nodes": 7,
+          "computedFont": "Geist, Inter, \"PingFang SC\", \"Microsoft YaHei\", sans-serif"
+        },
+        {
+          "outOfBounds": [],
+          "textCollisions": [],
+          "diagonalLines": 0,
+          "nodes": 8,
+          "computedFont": "Geist, Inter, \"PingFang SC\", \"Microsoft YaHei\", sans-serif"
+        },
+        {
+          "outOfBounds": [],
+          "textCollisions": [],
+          "diagonalLines": 0,
+          "nodes": 5,
+          "computedFont": "Geist, Inter, \"PingFang SC\", \"Microsoft YaHei\", sans-serif"
+        }
+      ],
+      "platformFonts": [
+        {
+          "familyName": "PingFang SC",
+          "postScriptName": "PingFangSC-Medium",
+          "isCustomFont": false,
+          "glyphCount": 11
+        }
+      ],
+      "mobile": {
+        "width": 390,
+        "documentWidth": 390,
+        "localScrollers": [
+          {
+            "client": 358,
+            "scroll": 1280,
+            "overflow": "auto"
+          },
+          {
+            "client": 358,
+            "scroll": 1280,
+            "overflow": "auto"
+          },
+          {
+            "client": 358,
+            "scroll": 1280,
+            "overflow": "auto"
+          },
+          {
+            "client": 358,
+            "scroll": 1280,
+            "overflow": "auto"
+          }
+        ]
+      }
+    }
+  ]
+}
