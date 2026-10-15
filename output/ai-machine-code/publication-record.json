@@ -1,0 +1,45 @@
+{
+  "prepared_at": "2026-10-15T03:39:18.197818+00:00",
+  "account": "@LeoGuoLabs",
+  "source_url": "https://x.com/leo114119/status/2110570184968896612",
+  "source_text": "Ai用机器语言写软件肯定是大趋势了。。。。\n\n所以真的不要纠结什么一定要看懂代码，审查。。。\n\n以 AI 的进化速度，再过两年估计写的代码人类都看不懂了。。。\n\n量子计算机未来的编程语言估计要由 AI 来开发了",
+  "format": "native_quote",
+  "quote_target": "https://x.com/elonmusk/status/2110567668810121295",
+  "quote_text": "@wholemars There won’t be lines of software as we know them, just machine code",
+  "context": [
+    {
+      "url": "https://x.com/wholemars/status/2110558139938742279",
+      "text": "soon the entire world will be running on code that nobody has read"
+    },
+    {
+      "url": "https://x.com/elonmusk/status/2110567475087831291",
+      "text": "💯"
+    }
+  ],
+  "post_text": "AI generating machine code directly is a plausible direction. I'd be happy to spend less time reading implementation details.\n\nI'd still want clear answers to three questions: does it do what I asked, what can it access, and can I undo a bad change? The less code we read, the stronger those checks need to be.",
+  "text_file": "post-en.txt",
+  "attachments": [],
+  "media_note": "Source and selected Quote target are text only. Unrelated reaction GIFs in replies are not selected media.",
+  "checks": {
+    "source_and_quote_read_live": true,
+    "account_verified_live": true,
+    "duplicate_search": "No matching source or target found in output records.",
+    "composer_checked": true,
+    "composer_text_complete": true,
+    "post_button_enabled": true,
+    "native_quote_card_verified": true,
+    "composer_characters_remaining": 24690,
+    "screenshot": "composer-review.jpg",
+    "note": "DraftJS innerText adds an extra blank line; displayed wording and the composer character counter match the 310-character source."
+  },
+  "research": {
+    "primary_source": "Selected Elon Musk post verified live in authenticated browser.",
+    "technical_reference": "https://gcc.gnu.org/onlinedocs/gcc/Overall-Options.html",
+    "finding": "GCC already translates source through compilation, assembly and linking into executables. Direct AI generation without human-readable source is a forecast; executable output alone is not a new capability.",
+    "editorial": "Keep the future possibility conditional. Omit unsupported two-year deadline and quantum-language speculation. Verification and rollback statements are editorial judgment, not claimed test results."
+  },
+  "state": "pending_approval",
+  "approval": null,
+  "published_url": null,
+  "review_rule": "Final content approval required by AGENTS.md; no publication submitted."
+}
