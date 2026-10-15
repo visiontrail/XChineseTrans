@@ -9,8 +9,8 @@
     "videos": 0,
     "extra_attachments": []
   },
-  "state": "pending_approval",
-  "authorization": "Final content review required by project instructions. Not submitted.",
+  "state": "publicly_verified",
+  "authorization": "User explicitly approved exact reviewed text and native Quote: 确认发布",
   "prepared_at": "2026-10-15T04:49:00.474625+00:00",
   "checks": {
     "source_read_live": true,
@@ -22,5 +22,15 @@
     "composer_full_text_verified": true,
     "review_screenshot": "review.png"
   },
-  "url": null
+  "url": "https://x.com/LeoGuoLabs/status/2110593918924640745",
+  "verified_at": "2026-10-15T04:50:03.966615+00:00",
+  "verification": {
+    "account": "@LeoGuoLabs",
+    "complete_text_matches": true,
+    "native_quote_target": "https://x.com/thsottiaux/status/2110591392691159317",
+    "quoted_image_visible": true,
+    "extra_attachments": 0,
+    "screenshot": "public-verification.png",
+    "dom": "published-dom.txt"
+  }
 }

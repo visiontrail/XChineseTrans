@@ -1,0 +1,101 @@
+- heading "To view keyboard shortcuts, press question mark View keyboard shortcuts" [level=2]:
+  - generic: To view keyboard shortcuts, press question mark
+  - link "View keyboard shortcuts":
+    - /url: /i/keyboard_shortcuts
+- button "Skip to home timeline"
+- button "Skip to trending"
+- banner:
+  - heading "X" [level=1]:
+    - link "X":
+      - /url: /home
+  - navigation "Primary":
+    - link "Home":
+      - /url: /home
+    - link "Search and explore":
+      - /url: /explore
+    - link "Notifications (3 unread notifications)":
+      - /url: /notifications
+      - generic "3 unread items":
+        - generic: "3"
+    - link "Follow":
+      - /url: /i/connect_people
+    - link "Direct Messages":
+      - /url: /i/chat
+    - link "Calls":
+      - /url: /i/calls
+    - link "Grok":
+      - /url: /i/grok
+    - link "Subscription":
+      - /url: /i/premium
+    - link "History":
+      - /url: /i/history
+    - link "Articles":
+      - /url: /compose/articles
+    - link "Profile":
+      - /url: /LeoGuoLabs
+    - button "More menu items":
+  - link "Post":
+    - /url: /compose/post
+  - button "Account menu":
+    - generic "Leo Guo":
+      - img "Leo Guo"
+    - generic "undefined unread items"
+- main:
+  - generic "Home timeline":
+    - button "Back":
+    - heading "Post" [level=2]
+    - status:
+      - button:
+        - generic: See new posts
+    - region "Conversation":
+      - heading "Conversation" [level=1]
+      - 'generic "Timeline: Conversation"':
+        - article "Leo Guo Verified account @LeoGuoLabs Glad you’re alive, Tibo, but “still breathing” doesn’t count as today’s update—reset button, please 😂 Quote Tibo Verified account @thsottiaux 10 minutes ago Replying to @poteto and @theo I made it alive Image":
+          - link [active]:
+            - /url: /LeoGuoLabs
+          - link "Leo Guo Verified account":
+            - /url: /LeoGuoLabs
+            - generic: Leo Guo
+            - img "Verified account"
+          - link "@LeoGuoLabs":
+            - /url: /LeoGuoLabs
+            - generic: "@LeoGuoLabs"
+          - button "Boost":
+            - generic: Boost
+          - button "Grok actions":
+          - button "More":
+          - generic: Glad you’re alive, Tibo, but “still breathing” doesn’t count as today’s update—reset button, please 😂
+          - generic "Quote Tibo Verified account @thsottiaux 10 minutes ago Replying to @poteto and @theo I made it alive Image":
+            - generic: Quote
+            - link "Tibo Verified account @thsottiaux 10 minutes ago Replying to @poteto and @theo I made it alive Image":
+              - generic: Tibo
+              - img "Verified account"
+              - generic: "@thsottiaux"
+              - generic: ·
+              - generic "10 minutes ago":
+                - time: 10m
+              - text: Replying to
+              - generic: "@poteto"
+              - text: and
+              - generic: "@theo"
+              - generic: I made it alive
+              - link "Image":
+                - /url: /thsottiaux/status/2110591392691159317/photo/1
+                - generic "Image":
+                  - img "Image"
+          - link "12:49 PM · Oct 15, 2026":
+            - /url: /LeoGuoLabs/status/2110593918924640745
+            - time: 12:49 PM · Oct 15, 2026
+          - button "0 Replies. Reply":
+          - button "0 reposts. Repost":
+          - button "0 Likes. Like":
+          - button "0 Bookmarks. Bookmark":
+          - button "Share post":
+        - link "Leo Guo":
+          - /url: /LeoGuoLabs
+          - generic "Leo Guo":
+            - img "Leo Guo"
+        - generic: Post your reply
+        - textbox "Post text"
+        - button "Reply" [disabled]:
+          - generic: Reply
