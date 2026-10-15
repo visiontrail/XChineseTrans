@@ -1,0 +1,1 @@
+I run models locally and only fall back to DeepSeek under heavy load, so getting those few days of API spending back as credit effectively makes that usage free—pretty nice.

@@ -1,0 +1,33 @@
+{
+  "format": "standalone_image_post",
+  "account": "@LeoGuoLabs",
+  "publication_state": "publicly_verified",
+  "published_url": "https://x.com/LeoGuoLabs/status/2110731586757185847",
+  "published_at": "2026-10-15T13:56:40.436000+00:00",
+  "verified_at": "2026-10-15T13:57:35Z",
+  "related_prior_post": "https://x.com/LeoGuoLabs/status/2110705464887349668",
+  "text_path": "post-en.txt",
+  "media_path": "original-usage-screenshot.png",
+  "alt_path": "alt-en.txt",
+  "media_bytes": 168220,
+  "media_sha256": "19016f69e3c95f0f8921285ccbb8ba24f59c74d800dce0cdae4725e88bc004e9",
+  "text_sha256": "f12d17d7e477510e6dac29277d5a63e814e09e06f38ecebc461a11959d8bb6ab",
+  "approval": {
+    "content_message": "Sentinel_1532e43fd5948191b6d9d7606b54e64d",
+    "latest_format_message": "Sentinel_4eff0dbd77e08191bbb79e538729c5d7",
+    "summary": "Exact sentence and original screenshot approved after disclosure of visible account amounts; user then explicitly changed to a new standalone post before submission."
+  },
+  "checks": {
+    "correct_account": true,
+    "exact_approved_text": true,
+    "original_uncropped_image": true,
+    "english_alt_verified": true,
+    "standalone_not_reply_or_quote": true,
+    "reopened_live_permalink": true,
+    "public_image_visually_verified": true,
+    "single_submission": true
+  },
+  "canceled_reply": "Unsubmitted reply composer discarded before standalone publication. No reply was published.",
+  "daily_draft_quota": "User-requested continuation; not a newly researched independent daily draft.",
+  "published_at_source": "X status ID timestamp; live UI showed Oct 15, 2026 at 6:56 AM Pacific"
+}
