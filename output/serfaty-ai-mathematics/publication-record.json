@@ -5,7 +5,7 @@
   "context_quote": "https://x.com/Fabien_Mikol/status/2098324358296957133",
   "account": "@LeoGuoLabs",
   "format": "native_quote",
-  "state": "pending_approval",
+  "state": "scheduled",
   "prepared_at": "2026-10-15T04:00:15.563741+00:00",
   "text_path": "post-en.txt",
   "text": "Mathematician Sylvia Serfaty makes an uncomfortable point: humans may not have a monopoly on mathematical beauty either.\n\nIf AI can produce proofs faster than we can absorb them, understanding becomes the next bottleneck. I'd love to see AI help turn those proofs into ideas we can explain, teach, and build on—and help us find better questions to ask.",
@@ -43,7 +43,11 @@
   ],
   "approval": {
     "required": true,
-    "received": false
+    "received": true,
+    "user_instruction": "确认，请在20分钟后发布",
+    "recorded_at": "2026-10-15T04:13:18Z",
+    "approved_text_unchanged": true,
+    "approved_format_unchanged": true
   },
   "composer": {
     "checked": true,
@@ -61,6 +65,29 @@
   "publication": {
     "submitted": false,
     "url": null,
-    "publicly_verified": false
+    "publicly_verified": false,
+    "schedule_submitted": true
+  },
+  "schedule": {
+    "provider": "X native scheduler",
+    "scheduled_for": "2026-10-15T12:33:00+08:00",
+    "timezone": "Asia/Singapore",
+    "displayed_timezone": "Singapore Standard Time",
+    "queue_verified": true,
+    "queue_url": "https://x.com/compose/post/unsent/scheduled",
+    "queue_label": "Will send on Thu, Oct 15, 2026 at 12:33 PM",
+    "quote_target_verified": true,
+    "text_exact_match_before_submission": true,
+    "evidence": "research/scheduled-confirmation.jpg",
+    "verified_at": "2026-10-15T04:17:06.656219+00:00",
+    "note": "X scheduler has minute precision; target is approximately 20 minutes after approval."
+  },
+  "follow_up": {
+    "provider": "Codex heartbeat",
+    "automation_id": "serfaty-quote",
+    "status": "ACTIVE",
+    "scheduled_for": "2026-10-15T12:35:00+08:00",
+    "one_time": true,
+    "purpose": "Verify actual published URL, exact text, native Quote and advancing video playback."
   }
 }
