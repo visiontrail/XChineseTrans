@@ -1,0 +1,66 @@
+{
+  "source_url": "https://x.com/huxlab/status/2110565738457248054",
+  "quote_target": "https://x.com/Fabien_Mikol/status/2110316777850671405",
+  "primary_recording": "https://www.youtube.com/watch?v=m6JLrjfUL_c",
+  "context_quote": "https://x.com/Fabien_Mikol/status/2098324358296957133",
+  "account": "@LeoGuoLabs",
+  "format": "native_quote",
+  "state": "pending_approval",
+  "prepared_at": "2026-10-15T04:00:15.563741+00:00",
+  "text_path": "post-en.txt",
+  "text": "Mathematician Sylvia Serfaty makes an uncomfortable point: humans may not have a monopoly on mathematical beauty either.\n\nIf AI can produce proofs faster than we can absorb them, understanding becomes the next bottleneck. I'd love to see AI help turn those proofs into ideas we can explain, teach, and build on—and help us find better questions to ask.",
+  "media": [
+    {
+      "path": "media/serfaty-original-720p.mp4",
+      "duration_seconds": 295.4581,
+      "use": "retain target native video; no redundant upload",
+      "fresh_download": true,
+      "full_decode": "passed",
+      "frames_inspected_seconds": [
+        0,
+        5,
+        145,
+        289
+      ],
+      "playback_verified": true,
+      "language": "French",
+      "subtitles_added": false
+    }
+  ],
+  "context_media": [
+    {
+      "path": "media/serfaty-hayat-context-720p.mp4",
+      "duration_seconds": 389.770159,
+      "use": "nested quoted discussion, research context; not a separate attachment",
+      "fresh_download": true,
+      "full_decode": "passed",
+      "frames_inspected_seconds": [
+        5,
+        195,
+        384
+      ]
+    }
+  ],
+  "approval": {
+    "required": true,
+    "received": false
+  },
+  "composer": {
+    "checked": true,
+    "browser": "Ego Lite fallback",
+    "account_verified": true,
+    "text_exact_match": true,
+    "post_enabled": true,
+    "evidence": "research/composer-ready.jpg"
+  },
+  "preview": {
+    "port": 62340,
+    "local_url": "http://127.0.0.1:62340/",
+    "lan_url": "http://172.16.10.59:62340/"
+  },
+  "publication": {
+    "submitted": false,
+    "url": null,
+    "publicly_verified": false
+  }
+}

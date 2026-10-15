@@ -1,0 +1,1028 @@
+YouTube transcript
+Video ID: m6JLrjfUL_c
+Language: fr
+Captions: auto-generated
+
+[0:10] Bien bonjour à tous. Merci d'être
+[0:13] d'être venu. Euh donc aujourd'hui, comme
+[0:16] l'a dit Marguéritable, je vais je vais
+[0:19] en fait je vais faire un peu en deux
+[0:20] parties. d'abord vous parler un petit
+[0:22] peu de de mon livre qui puisque c'était
+[0:26] c'était un petit peu ce qui était promis
+[0:28] dans l'affiche de la conférence euh et
+[0:32] aussi le relié avec une réflexion sur
+[0:35] les mathématiques autour du thème de
+[0:37] l'année saveur savante
+[0:40] et autour que je vais réinterpréter en
+[0:42] fait comme une question autour des
+[0:44] mathématiques humaines et vous allez
+[0:45] voir pourquoi. Euh donc d'abord le livre
+[0:48] donc voilà il est là il est joli. vous
+[0:50] pouvez le trouver en librairie. Pourquoi
+[0:52] ce livre ? Parce que j'ai eu envie en
+[0:55] fait de témoigner, de d'apporter un
+[0:59] témoignage très personnel. Donc c'est
+[1:01] vraiment écrit à la première personne
+[1:03] sur l'expérience
+[1:05] de ce que ça peut être d'être une
+[1:06] mathématicienne aujourd'hui,
+[1:09] comment je me suis trouvé devenir
+[1:11] mathématicienne,
+[1:13] ce que j'ai trouvé dans les
+[1:14] mathématiques, ce qu'elles m'ont appris
+[1:17] euh sur l'univers et aussi peut-être sur
+[1:20] moi-même, ce que j'y aime. Et en même
+[1:23] temps, je dans le livre, je je traesse
+[1:25] ce ce fil avec une réflexion sur les
+[1:29] mathématiques en tant que que
+[1:32] discipline, leurs pratiques,
+[1:35] leur parfois leur dérives. L'idée
+[1:38] c'était de donner donc un témoignage qui
+[1:41] pourrait donner une image assez complète
+[1:43] et pas tronquée,
+[1:46] pas une image d'épinale du métier.
+[1:48] Voilà, je voulais une image vraie, pas
+[1:50] celle que les journalistes vous donnent
+[1:52] parfois à voir.
+[1:54] Et si dans cette image vraie, voilà,
+[1:57] pouvait se reconnaître, être inspiré des
+[2:01] des jeunes gens, des jeunes filles en
+[2:03] particulier qui peut-être pourraient se
+[2:04] dire "Bah finalement, les maths, c'est
+[2:05] pas tout à fait ce que je croyais et euh
+[2:08] et peut-être que c'est possible, voilà,
+[2:10] de les appréhender autrement."
+[2:13] Euh ça c'était aussi euh une des idées.
+[2:17] Une des idées. Donc je raconte comme
+[2:20] j'ai dit comment je suis arrivée aux
+[2:21] mathématiques. C'est une une histoire un
+[2:23] peu longue mais une vocation plutôt
+[2:25] tardive en fait.
+[2:27] Ça part des années de lycée, ça arrive
+[2:29] aux années de d'études.
+[2:32] Euh tout ça en partant d'un
+[2:33] environnement familial qui a priori me
+[2:35] prédisposait pas particulièrement à
+[2:37] cette discipline.
+[2:39] Euh
+[2:40] dans les études, l'expérience d'être
+[2:43] dans une classe prépa scientifique
+[2:45] prestigieuse parce que c'était à à cette
+[2:48] époque d'être une fille dans une telle
+[2:49] classe prépa.
+[2:51] Euh et aussi euh
+[2:55] l'influence énorme, le rôle énorme qui a
+[2:56] joué pour moi un professeur qui était
+[2:59] mon prof de Matsup, une personne
+[3:01] formidable
+[3:03] qui m'a à la fois inspiré, encouragé
+[3:07] et à qui je rends hommage beaucoup dans
+[3:09] le livre.
+[3:11] Les années à l'école normale supérieure,
+[3:13] la thèse et surtout
+[3:16] finalement ce que je raconte
+[3:19] c'est beaucoup d'airment.
+[3:21] beaucoup de voilà de doutes, d'échecs
+[3:26] temporaires. Finalement, ça c'est plutôt
+[3:28] bien fini. Euh mais de voilà pour
+[3:30] montrer aussi ce que c'est de trouver sa
+[3:32] voix comme c'est pas toujours linéaire.
+[3:35] Et euh et je pense que c'était
+[3:37] intéressant aussi, en tout cas, on m'a
+[3:39] fait le retour que c'était intéressant
+[3:41] de montrer aussi les doutes qu'on peut
+[3:44] avoir nous en tant que scientifique, les
+[3:45] fragilités qu'on peut avoir quand on
+[3:47] fait de la recherche.
+[3:49] Euh voilà, donc ça c'est pour la la
+[3:51] partie personnelle et puis comme je
+[3:52] disais après il y a une sorte de ça ça
+[3:55] migre en une réflexion plus générale et
+[3:58] euh j'ai abordé un certain nombre de
+[4:00] thèmes en particulier.
+[4:02] comme elle m'a suggéré d'utiliser le
+[4:04] tableau. Ben je vais les écrire au
+[4:05] tableau pour m'amuser et vous allez voir
+[4:07] pourquoi.
+[4:09] Donc
+[4:11] dans les thèmes qu'il y a dans le livre,
+[4:14] il y a effectivement ce en quoi consiste
+[4:17] le travail mathématique
+[4:22] et le travail de découverte.
+[4:27] Donc travail de découverte.
+[4:39] La question de la recherche de la
+[4:40] vérité,
+[4:50] la vision, le point de vue,
+[5:00] l'aspect aventure intérieur,
+[5:09] la place de l'ego,
+[5:18] la communauté des mathématiciens,
+[5:28] ces aspects
+[5:31] parfois il veut même sociologique ou
+[5:33] psychologique.
+[5:40] Voilà. Et puis il y en a d'autres
+[5:42] évidemment et ça c'était pour faire une
+[5:43] petite liste. J'y reviendrai après.
+[5:47] Et donc
+[5:50] je vais pas vous raconter non plus tout
+[5:52] ce qu'il y a dans le livre puisque
+[5:54] l'idée c'est juste de vous donner envie
+[5:55] de le lire. Mais on va essayer de de
+[5:58] connecter un petit peu avec ce thème des
+[6:01] saveurs savantes. Et quand je préparais
+[6:03] cette conférence euh je me suis dit "OK,
+[6:06] saveur savante à quoi je pense ?" Il m'a
+[6:08] quand même semblé que
+[6:11] il y avait quelque chose que je pouvais
+[6:12] pas éluder
+[6:14] parce qu'on est d'ailleurs aujourd'hui
+[6:15] le 9 octobre et il s'est passé beaucoup
+[6:19] de choses entre septembre et octobre
+[6:22] dont vous avez peut-être entendu parler.
+[6:23] en particulier le 6 octobre il y a 3
+[6:25] jours.
+[6:27] et ben c'est l'arrivée en force de
+[6:28] l'intelligence artificielle dans les
+[6:30] mathématiques
+[6:31] avec des annonces spectaculaires
+[6:35] le 9 septembre et puis donc le 6 octobre
+[6:39] notamment d'Open AI
+[6:42] qui nous a balancé des résultats
+[6:44] incroyables en quantité abondante
+[6:49] pas moins de 400 résultats dont je sais
+[6:52] pas si pour vous donner une petite idée
+[6:54] la plupart d'entre eux ça mériterait la
+[6:55] médaille fields enfin
+[6:57] quelque chose de ce niveau-là.
+[7:00] Et donc pour moi finalement ça m'a amené
+[7:03] à me dire mais oui c'est une réflexion
+[7:05] qui date pas pour moi de ce mois-ci mais
+[7:08] nous interroge vraiment sur ce que c'est
+[7:11] des mathématiques non artificielles
+[7:13] finalement c'estàdire des mathématiques
+[7:16] humaines. Je crois qu'avant ça c'était
+[7:18] pas une question qui paraissait si
+[7:20] importante. Bah mathématique humaine.
+[7:21] Oui bien sûr. Et puis tout d'un coup on
+[7:23] est là
+[7:25] et je pense que cette question tout d'un
+[7:27] coup elle nous apparaît très clairement.
+[7:29] Qu'est-ce que c'est finalement de faire
+[7:31] des mathématiques de manière humaine ?
+[7:34] Qu'est-ce qui distingue notre pratique
+[7:36] de celle de la machine ?
+[7:38] Voilà. Et de la même manière en fait
+[7:40] quand j'ai écrit ce livre, j'ai voulu
+[7:42] que vous dit commencer par un
+[7:44] témoignage, essayer d'expliquer les mat
+[7:46] et au fur et à mesure que j'écrivais le
+[7:48] livre, donc ça s'est fait sur pas mal
+[7:49] d'années, je l'ai écris assez voilà par
+[7:50] petite bribe, au fur et à mesure je
+[7:52] voyais l'IA progresser et avancer.
+[7:54] C'està dire, je voyais la la marée
+[7:56] monter
+[7:58] et euh
+[8:00] d'ailleurs les collègues en général, ils
+[8:02] avaient pas envie de la voir. Je vous
+[8:03] dis franchement, il y avait une un
+[8:04] aveuglement assez assez incroyable. Et
+[8:07] j'en disais parce que au début, si vous
+[8:10] avez suivi, au début dans les années
+[8:12] 2023 tout ça, elle était assez mauvaise
+[8:14] en mat. C'était assez ridicule. On lui
+[8:15] posait des questions, répondait à côté
+[8:18] euh et puis petit à petit, elle devenait
+[8:20] moins idiote, moins mauvaise jusqu'à
+[8:22] arriver à démontrer résoudre des
+[8:25] problèmes d'Olympiade, c'est quand même
+[8:26] pas mal. Puis quand elle a commencé à
+[8:29] résoudre des problèmes d'olympiades, les
+[8:30] gens disaient "Oui, oui, mais d'accord,
+[8:31] elle résout des problèmes d'olympiade
+[8:32] mais quand même, elle va pas être
+[8:33] créative comme nous, résoudre des vrais
+[8:35] problèmes de niveau recherche."
+[8:37] Et donc, il m'a semblé que je pouvais
+[8:39] pas faire l'impasse sur ce sujet-là non
+[8:41] plus. Et le livre en parle aussi.
+[8:44] Et donc, j'ai commencé à me renseigner
+[8:46] d'abord et puis à m'interroger
+[8:49] pour essayer de percevoir cet avenir qui
+[8:53] se profilait comme possible
+[8:56] et euh
+[8:58] et ce qui pourrait ce qui pourrait y
+[9:00] avoir, voilà, ce qui pourrait se passer.
+[9:02] Donc j'ai fait un certain nombre de
+[9:03] d'hypothèses, enfin en tout cas de de
+[9:07] d'interrogations qui se sont avérées pas
+[9:10] trop mauvaises. Je bon vous vous pourrez
+[9:12] juger.
+[9:17] et voilà pour essayer de comprendre de
+[9:21] vraiment prendre au sérieux les
+[9:23] bouleversements
+[9:25] qui qui se profilait et la possibilité
+[9:29] que finalement Lia en arrive même à
+[9:32] à déplacer à dépasser complètement les
+[9:34] humains.
+[9:39] Et finalement, en réfléchissant à ça, je
+[9:41] me suis rendu compte que
+[9:43] ça mettait d'autant plus en relief
+[9:45] finalement le cœur du livre qui était
+[9:48] cette question de euh du témoignage sur
+[9:51] une expérience finalement complètement
+[9:53] humaine de faire des mathématiques.
+[9:56] Le goût pour les mathématiques, comment
+[9:57] on les goûte, comment on développe notre
+[10:00] goût personnel, pourquoi on aime
+[10:02] certains genres de math et pas d'autres.
+[10:04] Euh et c'est de ça dont je vais vous
+[10:07] parler un petit peu
+[10:10] et je voulais le décliner en en appelant
+[10:13] euh quelques
+[10:14] quelques voix du passé et en particulier
+[10:18] deux
+[10:19] euh deux mathématiciens. Donc Henry
+[10:22] Pocré et Alexandre Grotendic.
+[10:25] [grognement]
+[10:26] Donc point carré, bah parce qu'on est
+[10:29] ici chez lui, n'est-ce pas, dans sa
+[10:31] maison
+[10:33] et parce que c'est en fait un des
+[10:34] premiers qui enfin pas un des premiers
+[10:36] mais quelqu'un qui a vraiment longuement
+[10:39] réfléchi et écrit de manière approfondie
+[10:42] sur pour analyser ce que c'était notre
+[10:44] pratique des mathématiques
+[10:46] et Grotendic, lui, il a creusé peut-être
+[10:48] encore plus loin
+[10:51] cette réflexion.
+[10:53] Si vous connaissez un peu l'histoire du
+[10:55] monsieur, bon il a arrêté les
+[10:57] mathématiques
+[10:59] à un moment pour après une carrière
+[11:01] assez fulgurante pour justement se
+[11:03] consacrer à des choses qui ressentaient
+[11:05] comme plus urgentes et notamment il nous
+[11:08] livre une espèce de très longue
+[11:09] méditation personnelle dans ce livre qui
+[11:11] s'appelle Récolte semaille qui fait
+[11:14] seulement 1800 pages et euh dans lequel
+[11:18] il nous livre justement sa vision de la
+[11:21] recherche mathématique de la créativité.
+[11:24] Et le livre
+[11:25] est lui-même très intéressant parce que
+[11:28] enfin, il est particulier mais ce qui
+[11:31] est frappant dans ce livre, c'est que le
+[11:32] livre lui-même est une forme de
+[11:33] recherche. C'estàdire c'est une
+[11:34] métaphore en fait de ce que c'est que la
+[11:38] recherche. Donc
+[11:40] je vous avoué donc la façon ça s'est
+[11:42] passé pour moi, c'est qu'en fait j'ai
+[11:43] écrit ce livre là et j'avais j'avais les
+[11:46] livres de Grotendic sur mon étagère
+[11:49] mais je les avais pas ouvert. Et après
+[11:52] avoir écrit le livre, je sais pas
+[11:53] pourquoi, j'ai ressenti qu'il fallait
+[11:54] que j'aille l'ouvrir et tout d'un coup,
+[11:57] j'ai commencé à le lire
+[11:59] et là, j'ai été frappé parce que dès les
+[12:01] premières pages, il nous dévoile un peu
+[12:04] le plan des thèmes qu'il va aborder dans
+[12:07] son livre. Et en fait, les thèmes qu'il
+[12:09] aborde dans son livre, bah c'est
+[12:11] exactement ça.
+[12:13] C'est exactement ces thèmes là. Donc
+[12:15] c'est-à-dire, c'est exactement les
+[12:16] thèmes que j'avais euh
+[12:20] essayé d'aborder dans le mien. Donc je
+[12:22] me suis dit bon, il faut que je lise ce
+[12:23] livre. Voilà.
+[12:26] Euh
+[12:28] donc revenons à au sujet qui nous
+[12:29] intéressait, donc euh
+[12:32] les mathématiques
+[12:34] et le lien avec les saveurs savantes, le
+[12:37] goût, l'humain, tout ça. Donc commençons
+[12:39] déjà par reprendre un peu au début
+[12:42] peut-être une définition. Qu'est-ce que
+[12:44] c'est que les mathématiques ? Donc là,
+[12:45] point carré nous dit, donc je vais
+[12:47] donner quelques citations de ces deux
+[12:50] grands esprits.
+[12:52] Les mathématiques ont un triple but.
+[12:54] Elles doivent fournir un instrument pour
+[12:56] l'étude de la nature, mais ce n'est pas
+[12:58] tout. Elles ont un but philosophique
+[13:01] et j'ose le dire, un but esthétique.
+[13:05] Et donc, point carré nous explique aussi
+[13:09] assez longuement que les mathématiques
+[13:11] se reposent sur deux piliers.
+[13:13] l'utilisation de notre capacité de
+[13:16] raisonnement, notre logique en gros, ça
+[13:18] n'étonnera personne
+[13:21] mais en plus quelque chose d'autre de
+[13:24] pas très bien défini d'ailleurs qu'on
+[13:25] appelle l'intuition. D'accord ? Donc il
+[13:28] il a souligné lui-même cette dualité,
+[13:31] la logique qui peut seul donner la
+[13:33] certitude et l'instrument de la
+[13:34] démonstration, l'intuition et
+[13:37] l'instrument de l'invention. L'intuition
+[13:43] pour un mathématicien disons, je dirais
+[13:46] que c'est notre capacité à faire des
+[13:47] raccourc de pensée et aussi à apprendre
+[13:50] du recul, à voir loin pour un pour un
+[13:54] chercheur la capacité
+[13:57] à sentir où la preuve va nous amener à
+[14:00] voir à l'avance comment ça va se passer
+[14:02] avant d'avoir commencé à vraiment écrire
+[14:05] une preuve, c'est-à-dire percevoir le
+[14:08] chemin probable d'une démonstration,
+[14:10] sentir ce qui a des chances d'être vrai.
+[14:14] Et notre intuition en mathématique, en
+[14:16] fait, elle s'appuie comme notre
+[14:17] intuition dans la vie réelle sur notre
+[14:21] expérience. C'estàd c'est comme une
+[14:22] sorte de condensé de notre expérience,
+[14:24] quelque chose que nous avons construit
+[14:27] tout au long de notre vie
+[14:30] et qui également est connecté à notre
+[14:34] sensibilité et à notre expérience
+[14:35] sensorielle. Et donc c'est là que de
+[14:38] nouveau on se demande et pour tout ce
+[14:40] que je vais raconter, vous pouvez vous
+[14:41] demander en parallèle tiens qu'est-ce
+[14:42] que ça voudrait dire pour unia tout ça
+[14:46] notre spécificité en tant qu'humain par
+[14:48] rapport à une machine disons tout
+[14:50] simplement on le voit tout de suite
+[14:51] c'est c'est qu'on a des sens d'accord on
+[14:54] est capable de voir de toucher.
+[14:57] Et on a aussi d'ailleurs une deuxième
+[14:59] chose que les machines n'ont pas une
+[15:02] expérience de situation. Ça c'est assez
+[15:04] important en fait quand on y pense. Bon
+[15:07] donc on vit dans un monde, on interagit
+[15:09] avec lui, on parle avec des gens et
+[15:11] notre expérience sensorielle, on voit
+[15:13] rapidement que elle joue évidemment un
+[15:14] rôle important. En mathématiques, on on
+[15:16] peut penser à des objets géométriques
+[15:18] parce qu'on on en a vu, on en a touché,
+[15:21] on les a fait tourner. Euh donc
+[15:23] évidemment en math, on on travaille sur
+[15:25] des concepts, sur des objets
+[15:27] mathématiques idéaux.
+[15:29] Euh donc des concepts, des choses
+[15:30] invisibles, mais en réalité ce qu'on
+[15:32] fait c'est qu'on se les représente
+[15:34] mentalement. Donc si vous parlez d'un
+[15:35] triangle, vous allez peut-être dans
+[15:37] votre tête voir un triangle. Donc chose
+[15:40] qu'on peut appeler concept incarné
+[15:43] suivant le terme d'ailleurs qui qui est
+[15:46] utilisé dans le récent livre de du mini
+[15:49] le copain et Sander.
+[15:52] Donc on peut visualiser dans son esprit
+[15:53] bon des choses géométriques mais pas
+[15:55] seulement des nombres, des fonctions,
+[15:57] des espaces de dimension infinies,
+[16:01] toutes sortes de choses finalement. Et
+[16:03] au passage,
+[16:06] un petit truc, c'est qu'on parle
+[16:07] toujours de la visualisation mentale
+[16:10] dans les mathématiques.
+[16:13] Mais ce que je j'essaie de souligner
+[16:14] dans le livre, c'est que je pense qu'il
+[16:15] faut plutôt y penser comme
+[16:17] représentation mentale et
+[16:20] parce qu'il y a un exemple qui est assez
+[16:22] instructif, c'est celui des
+[16:23] mathématiciens aveugles. Euh donc je
+[16:26] raconte un peu ça dans le livre. Ils
+[16:27] sont capables eux de se représenter
+[16:30] mentalement des choses qu'ils ont jamais
+[16:32] vu en fait.
+[16:34] Et d'une certaine manière, ils sont
+[16:36] peut-être même avantagés, on découvre
+[16:38] qu'ils sont peut-être avantagés
+[16:40] pour l'abstraction du fait d'avoir dû
+[16:42] développer dans leur vie des capacités
+[16:45] alternatives
+[16:47] à la vue, notamment s'appuyant sur
+[16:50] d'autres sensations comme le toucher par
+[16:52] exemple.
+[16:53] Et il y a des mathématiciens qui nous
+[16:55] racontent que ils sont pas capables de
+[16:57] visualiser et qu'à la place
+[17:01] ben ils utilisent d'autres
+[17:02] représentations un peu synesthésiques
+[17:05] comme des sensations de rythme, des
+[17:08] sensations de toucher comme celle d'un
+[17:10] flux d'air ou d'une vibration dans
+[17:12] l'espace et cetera. Donc ça c'est tout
+[17:14] un sujet d'ailleurs assez assez
+[17:17] passionnant je trouve. Mais donc voilà,
+[17:19] nos sens, notre sensibilité
+[17:22] et notre sensibilité, nos sens c'est
+[17:24] aussi le substrat de notre expérience
+[17:26] esthétique puisque comme point carré
+[17:29] nous a dit euh les mathématiques c'est
+[17:32] aussi l'expérience d'une beauté qui
+[17:35] c'est l'un des buts dont il dit qui sont
+[17:37] poursuivis
+[17:39] par les mathématiques. Alors voilà ce
+[17:41] qu'il écrit. On peut s'étonner de voir
+[17:43] invoquer la sensibilité
+[17:45] à propos de démonstrations mathématiques
+[17:47] qui, semble-t-il, ne peuvent intéresser
+[17:48] que l'intelligence.
+[17:50] Ce serait oublié le sentiment de la
+[17:52] beauté mathématique, de l'harmonie des
+[17:55] nombres et des formes, de l'élégance
+[17:56] géométrique. C'est un véritable
+[17:58] sentiment esthétique que tous les vrais
+[17:59] mathématiciens connaissent et c'est bien
+[18:01] là de la sensibilité.
+[18:03] et il nous indique que cette sensibilité
+[18:05] au beau, c'est notre guide dans la
+[18:07] recherche du vrai en mathématiques. Ça
+[18:10] c'est quelque chose que Grotendic dit
+[18:12] beaucoup. Donc là il là je vais vous
+[18:14] lire ce qu'il écrit. Sans un minimum
+[18:16] d'ouverture à la beauté des choses,
+[18:17] j'aurais été bien incapable de
+[18:19] fonctionner comme mathématicien. Et je
+[18:21] doute que quiconque puisse faire un
+[18:22] travail utile en mathématique s'il ne
+[18:24] reste vivant en lui temp soit peu ce
+[18:26] sens de la beauté. Ce n'est pas tant, me
+[18:29] semble-t-il, une prétendue puissance
+[18:31] cérébrale qui fait la différence entre
+[18:33] tel mathématicien et tel autre, mais
+[18:35] plutôt la qualité de finesse, de
+[18:37] délicatesse plus ou moins grande de
+[18:39] cette ouverture ou sensibilité d'un
+[18:41] chercheur à un autre ou d'un moment à
+[18:44] l'autre chez le même chercheur. Le
+[18:46] travail le plus profond, le plus fécond
+[18:48] est aussi celui qui cesse de la
+[18:50] sensibilité la plus déliée pour
+[18:52] appréhender la beauté cachée des choses.
+[18:55] Et donc dès qu'on arrive à cette idée de
+[18:57] sensibilité pour goûter les
+[18:59] mathématiques,
+[19:00] celle qui nous sert de boussole en fait
+[19:02] pour chercher la vérité, ben on comprend
+[19:05] que ça devient quelque chose d'assez
+[19:06] individuel. Chacun va avoir la sienne.
+[19:10] Et il dit la compréhension d'une
+[19:12] situation mathématique ou autre est en
+[19:15] elle-même une chose d'essence
+[19:16] personnelle, une expérience personnelle
+[19:18] dont le fruit est une vision
+[19:20] nécessairement personnelle elle aussi.
+[19:23] Et à chaque fois, je vous invite à vous
+[19:24] interroger à ce que ça veut dire si on
+[19:26] fait faire les maths par une IA. Mais
+[19:29] voilà, donc maintenant on peut parler
+[19:31] des des mathématiciens. Point point
+[19:33] carré, lui il distinguait deux types de
+[19:35] mathématiciens en reprenant ses critères
+[19:37] du début. Ceux qui sont préoccupés par
+[19:39] la logique et ceux qui se laissent
+[19:41] davantage guidés par leur intuition. Et
+[19:44] il continuent, il commence à catégoriser
+[19:46] les mathématiciens de son époque. Il dit
+[19:47] "Regardez machin, lui il est plutôt dans
+[19:49] la case là. Bidule, il est plutôt dans
+[19:51] la case là.
+[19:54] Et en fait, je je pense qu'on peut
+[19:55] trouver bien plus de catégories que ça
+[19:56] quand on y réfléchit.
+[19:59] Euh il y a par exemple des
+[20:01] mathématiciens qu'on appelle des
+[20:03] hérissons et d'autres qu'on appelle des
+[20:04] renards. Alors les hérissons,
+[20:08] c'est ceux qui vont creuser un sujet,
+[20:11] l'approfondir
+[20:13] de plus en plus tout au long de leur
+[20:14] vie. Les renards, c'est ceux qui aiment
+[20:17] bien sauter d'une question à l'autre,
+[20:19] d'un sujet à l'autre pour éventuellement
+[20:21] faire des liens, établir des ponts entre
+[20:24] les disciplines,
+[20:26] les sous-disciplines disons. Il y a un
+[20:29] célèbre physicien mathématicien qui
+[20:32] s'appelait Dyson et qui lui proposait
+[20:35] les catégories des grenouilles et des
+[20:37] oiseaux. Encore avec des animaux.
+[20:40] Les oiseaux, d'après lui, sont ceux qui
+[20:41] volent haut dans les airs et scrutent de
+[20:44] vastes perspectives mathématiques
+[20:46] jusqu'à l'horizon lointain. Il se
+[20:48] délecte des concepts qui unifient notre
+[20:50] pensée. Les grenouilles, elle elles
+[20:53] vivent dans la boue, en contrebas. Elle
+[20:55] ne voit que les fleurs qui poussent près
+[20:57] d'elle et elle se délecte des détails
+[20:59] d'objets particuliers et résolvent les
+[21:01] problèmes un par un.
+[21:03] Autrement dit, les grenouilles, c'est
+[21:05] ceux qui s'intéressent à des questions
+[21:06] très spécifiques,
+[21:08] plus incarnées.
+[21:10] Et je me pose la question dans le livre,
+[21:12] mais je suis pas sûr qu'en fait ce soit
+[21:15] une bonne dénomination ces deux. Savoir
+[21:18] si on peut vraiment avoir une grande
+[21:20] vision très lointaine si on n pas déjà
+[21:22] expérimenté des problèmes spécifiques et
+[21:25] incarnés.
+[21:27] Grotendic, lui, il parle par exemple des
+[21:29] pionniers
+[21:30] ou bâtisseurs et des héritiers.
+[21:33] Donc les bâtisseurs pour lui, c'est ceux
+[21:34] qui construisent des théories qui se
+[21:36] représentent lui comme de grandes
+[21:38] maisons construites à la main à partir
+[21:40] de rien depuis les fondations.
+[21:43] Et les héritiers, ce sont ceux qui
+[21:45] habitent dans les maisons et qui en
+[21:46] profitent.
+[21:48] Autrement dit, ceux qui peuvent
+[21:49] exploiter et tirer les conséquences des
+[21:51] théories.
+[21:53] Et je vous laisse deviner pour lesquels
+[21:54] il a le plus de sympathie.
+[21:59] Il y a des gens qui sont des techniciens
+[22:01] en mathématiques, des gens qui aiment
+[22:03] voilà affuter leurs outils, des gens qui
+[22:06] sont un peu bulldoires quand ils voient
+[22:07] à un passage
+[22:09] une possibilité de preuve, ils passent
+[22:11] en force. Et il y en a d'autres qui au
+[22:12] contraire sont des esthettes. Ils aiment
+[22:14] avoir une preuve très jolie, très
+[22:16] simple, la plus belle, la plus épurée.
+[22:20] Et puis il y a une catégorisation qui je
+[22:22] pense devient très importante à l'heure
+[22:25] actuelle.
+[22:26] C'est ce qu'on appelle en anglais
+[22:28] les problemers
+[22:31] contre les theory builders.
+[22:33] Donc les problem sers,
+[22:36] d'un côté,
+[22:38] ben c'est des gens qui s'attachent à
+[22:40] résoudre des problème très difficile.
+[22:42] Ceux qui sont dans la performance, on
+[22:44] pourrait même dire l'athlétisme
+[22:47] mathématique, le mathlétisme,
+[22:51] puissance technique,
+[22:53] intelligence,
+[22:56] parfois astuces. Et puis d'un autre
+[22:58] côté, les bâtisseurs de théorie, on
+[23:02] pourrait dire ceux qui essayent de
+[23:03] tracer des chemins nouveaux vers du
+[23:06] nouveau, introduire de nouvelles
+[23:07] théories, de nouveaux concepts, poser de
+[23:09] nouvelles questions.
+[23:12] Et euh Grotendck a beaucoup réfléchi à
+[23:14] ça
+[23:16] et d'ailleurs il voyait ça dans une
+[23:18] optique. Alors, il y avait quelque chose
+[23:20] qui le devait être pas mal à la mode à
+[23:22] son époque, c'est le yin et le yang. Il
+[23:25] écrit beaucoup dans son livre de choses
+[23:27] sur la dualité yin yang
+[23:30] et l'équilibre entre ces deux énergies.
+[23:33] Alors le yang c'est bon, on peut le
+[23:35] comprendre pour résumer comme l'énergie
+[23:37] masculine
+[23:40] qui l'associe à cette idée de
+[23:42] performance de résolution de problèmes
+[23:44] difficiles.
+[23:46] Exactement ce que Open et est capable de
+[23:48] faire par exemple maintenant.
+[23:52] Et de l'autre côté le yin,
+[23:56] énergie féminine pour simplifier. Dans
+[23:59] sa dans sa théorie, c'est celle de la
+[24:01] vision pourquoi féminine à cause de la
+[24:03] fécondité, la fécondité des idées. Les
+[24:07] choses qui peuvent vraiment
+[24:09] avoir une sorte de descendance.
+[24:11] et il les voit comme un couple
+[24:14] inséparable un peu. Il dit qu'il faut
+[24:15] avoir de l'harmonie entre les deux mais
+[24:18] clairement finalement il a plus
+[24:20] d'affection pour la seconde et lui-même
+[24:23] dit à plusieurs passages à plusieurs
+[24:24] reprises qui qui se considère comme un
+[24:26] mathématicien à dominante yin.
+[24:30] Voilà. Est-ce que l'avenir est au
+[24:31] mathématicien yin ? Je vous pose la
+[24:34] question.
+[24:36] Et pour continuer sur la thématique de
+[24:39] chacun son goût,
+[24:41] et ben c'est une expérience qu'on peut
+[24:43] tous faire quand on est quand on est
+[24:45] maticien. Quand on encadre des jeunes,
+[24:46] on se rend compte que on peut leur
+[24:48] proposer des problèmes, mais finalement
+[24:50] il y en a il y en a qui aiment pas les
+[24:52] problèmes qu'on nous propose
+[24:55] parce que ils se sentent peut-être plus
+[24:57] appelés par d'autres problèmes.
+[25:01] On avait une une regrettée collègue
+[25:04] mathématicienne française qui s'appelait
+[25:06] Michel Shatzman et qui l'a formulé
+[25:09] dans un billet de manière que je trouve
+[25:13] très bonne.
+[25:15] Justement en parlant des étudiants, elle
+[25:16] m'a dit "Je me suis rendu compte que les
+[25:18] modes de réflexion des uns et des autres
+[25:19] sont tous différents, tous singuliers,
+[25:22] mais qu'il n'y a jamais de petits robots
+[25:23] sans affect qui faisait qui feraiit des
+[25:26] bonnes maths."
+[25:30] C'était bien avant Lia.
+[25:34] Voilà donc Rotendic lui voilà ce qu'il
+[25:36] dit au sujet de des problèmes qui nous
+[25:38] appellent
+[25:40] pour ce qui est de ce drive de cette
+[25:42] force de motivation en moi qui me
+[25:44] poussait vers la réalisation des tâches,
+[25:47] ce n'était pas une certaine importance
+[25:49] objective qui était en jeu alors que
+[25:52] l'importance alors là c'est pour les
+[25:53] spécialistes mais c'est quand même à
+[25:55] apprécier l'importance de la conjecture
+[25:57] de ferma de l'hypothèse de Riman ou de
+[25:59] celle de point carré me laissait parfait
+[26:00] complètement froid
+[26:02] que je ne les sentais pas vraiment. Ce
+[26:05] qui distinguait ces tâches de toutes les
+[26:06] autres dans ma relation à elle, c'est
+[26:08] que c'était mes tâches, celles que
+[26:11] j'avais sentie et faite mienne.
+[26:15] Et une autre chose qui raconte
+[26:16] d'ailleurs, c'est qu'il dit que si euh
+[26:20] il se trouve il se trouvait donc c'est
+[26:22] hypothétique s'il se trouvait réfléchir
+[26:23] à un problème dont tout d'un coup il
+[26:25] découvrirait qu'il y avait la réponse
+[26:27] dans un livre dans la bibliothèque
+[26:28] c'estàdire que le problème avait été
+[26:29] déjà résolu. Il dit bah je perdrai tout
+[26:32] intérêt pour ce problème. Ça m'intéresse
+[26:35] plus. Le désir avait disparu.
+[26:39] Voilà. Donc
+[26:41] les maths humaines finalement c'est un
+[26:43] univers où il y a autant de manières
+[26:46] de faire et d'appréhender les
+[26:48] mathématiques que de mathématiciens
+[26:50] d'une certaine manière. Chacun a son
+[26:52] style. Si on les écoute, on l'entendra
+[26:55] bien. Chacun a sa façon de raconter les
+[26:57] mathématiques, mais plus important,
+[26:58] chacun a sa façon de choisir ses
+[27:00] problèmes
+[27:01] et les voix qu'il explore, qu'il ou elle
+[27:04] explore d'ailleurs. Et et donc un
+[27:06] mathématicien, on peut le définir
+[27:07] presque autant par les questions
+[27:10] qu'il ou elle a choisi d'aborder
+[27:13] et aussi creux par celle qu'il ou elle a
+[27:15] choisi de laisser de côté. C'est ça qui
+[27:17] fait qu'on est pas interchangeable,
+[27:21] on est unique. Et et par ailleurs, il y
+[27:24] a aussi la trace de l'expérience qu'on a
+[27:28] tout au long de notre vie qui nous amène
+[27:29] à aborder des questions, passer parci
+[27:31] par là, rencontrer des gens avec qui on
+[27:33] va apprendre telle chose, telle chose et
+[27:35] qui nous rend en fait dépositaire,
+[27:38] réceptacle d'une sorte de savoir
+[27:41] qui est unique, qui nous donne un regard
+[27:43] sur les questions qui est unique.
+[27:47] Ça c'est pour les mathématiques
+[27:48] humaines.
+[27:53] Bon donc les mathématiques,
+[27:56] revenons de nouveau à ce en quoi ça
+[27:58] consiste. On pourrait dire que ça
+[28:00] consiste à inventer des nouvelles
+[28:02] formes, de nouveaux concepts pour
+[28:05] décrire une réalité abstraite, celle des
+[28:07] objets mathématiques de quelque chose
+[28:09] qui est de l'ordre de la vérité.
+[28:13] Et de là, de nouveau, j'ai apporté un
+[28:15] autre livre
+[28:18] que j'étais en train de lire par hasard.
+[28:20] C'est un livre plutôt philosophique. Ça
+[28:21] s'appelle Le vrai du beau regard sur la
+[28:24] peinture. Et en fait, quand on lit ce
+[28:26] livre, il y a des phrases qui vous
+[28:30] parlent d'art
+[28:31] et qui vous parlent de vérité et qui
+[28:33] pourraient exactement s'appliquer aux
+[28:34] mathématiques.
+[28:37] Exactement.
+[28:39] Et le mathématicien Hardi, lui disait
+[28:41] même "Je ne m'intéresse aux
+[28:42] mathématiques que comme un art créatif."
+[28:45] Donc les mathématique, c'est aussi
+[28:49] une activité créatrice. Et en tant
+[28:50] qu'activité créatrice, on le on le
+[28:53] ressent quand on est mathématicien et
+[28:55] c'est quelque chose que j'ai pas mal
+[28:56] essayé de décrire dans le livre, c'est
+[28:58] que ça nous confronte en fait à nos
+[29:00] limites humaines,
+[29:02] à nos à nos capacités.
+[29:04] Ça c'est une discipline où on passe son
+[29:07] temps à tourner en rond.
+[29:10] souvent infructueusement jusqu'à tomber,
+[29:13] jusqu'à sentir, jusqu'à trouver ce qui
+[29:15] est juste, exactement comme ce que
+[29:18] ferait un artiste en fait. Et ce
+[29:20] cheminement d'ailleurs qui consiste à
+[29:22] tourner en rond, à tâtonner
+[29:25] dans un labyrinthe dont on connaît pas
+[29:27] vraiment la sortie, ce cheminement, il
+[29:30] est justement pas consigné dans les
+[29:31] livres parce qu'en général les livres
+[29:33] nous présentent le résultat tout cuit et
+[29:36] pas tellement le processus
+[29:38] et le chemin qui nous ont amené au
+[29:41] résultat.
+[29:42] Et on peut se demander d'ailleurs
+[29:44] pourquoi on trouve pas si facilement la
+[29:46] sortie du labyrinthe. Parfois, c'est
+[29:47] parce que on regarde pas dans la bonne
+[29:50] direction tout simplement. On a nos
+[29:52] présupposés, nos angles morts.
+[29:55] On a aussi notre petite voix intérieure,
+[30:00] celle dont Grotendic disait que il elle
+[30:02] lui indiquait qu'il était sur la bonne
+[30:03] voie. Donc celle qui au contraire nous
+[30:05] met sur la bonne voie et aussi celle qui
+[30:08] nous alerte sur des dissonances
+[30:10] cognitives, des sentiments parfois des
+[30:12] sensation que l'image n'est pas
+[30:14] complète, quelque chose ne colle pas, il
+[30:16] faut qu'on aille creuser plus loin. Donc
+[30:18] on a cette espèce de 6e sens
+[30:22] à aller voir plus loin.
+[30:25] et chercher en mathématiques humaine. Ça
+[30:27] implique donc de se confronter à ça, de
+[30:29] devoir se remettre en question, de
+[30:31] devoir parfois
+[30:33] tout jeter dans dans un travail qu'on a
+[30:35] ébauché et tout reprendre de zéro parce
+[30:37] qu'on se rend compte que la piste ne
+[30:39] marche pas ou parce qu'une preuve s'est
+[30:42] effondrée, qu'on a découvert une erreur,
+[30:45] chose qui est plus courante que ce qu'on
+[30:46] croirait.
+[30:48] nous confronter à nos limites, apprendre
+[30:50] finalement apprendre progresser par
+[30:52] rapport à nouvelle et c'est aussi une
+[30:55] activité artisanale qui demande du temps
+[30:57] et de la patience.
+[31:01] Les découvertes
+[31:03] en math, on s'imagine toujours ces
+[31:05] moments j'ai trouvé, ça y est, j'ai
+[31:08] compris les illuminations.
+[31:11] Point carré lui-même le décrivait
+[31:14] et tous les matticiens peuvent vous les
+[31:16] décrire ces déclics où tout d'un coup
+[31:20] le jour se fait, la vérité se apparaît.
+[31:23] Mais ces déclics, ils sont uniquement
+[31:24] possibles sur un esprit qui est préparé
+[31:28] par un long travail.
+[31:29] En fait, pour avancer en mathématique
+[31:33] sur des problèmes difficiles, pour un
+[31:35] humain, il faut avoir habité longtemps
+[31:38] avec un problème, parfois des années
+[31:41] pour arriver à le résoudre.
+[31:44] Et c'est ce temps long
+[31:47] des mathématiques artisanales,
+[31:50] pas des mathématiques artificielles, qui
+[31:52] permet
+[31:54] une décantation, un murissement des
+[31:56] idées.
+[31:57] D'ailleurs, Grotendic lui, il a une
+[31:59] vision presque mystique de ça. Il dit
+[32:01] "Les moments créateurs nous viennent
+[32:03] dans les instants seulement où nous en
+[32:05] sommes dignes, c'est-à-dire en état de
+[32:07] les accueillir."
+[32:10] Ce processus de murissement,
+[32:14] c'est quelque chose de l'ordre du
+[32:16] biologique finalement qu'on a en nous.
+[32:18] C'est exactement ça
+[32:21] qui est difficile à reproduire par une
+[32:23] machine. Qu'est-ce qui va remplacer
+[32:27] cette idée de maturation des idées ?
+[32:31] Je pense que c'est vraiment ça le côté
+[32:33] artisanal, le la façon de faire les
+[32:36] choses en les comprenant complètement
+[32:40] et entièrement par soi-même. Réfléchir
+[32:41] sur un temps long qui se trouve
+[32:44] profondément bouleversé
+[32:47] par l'arrivée de Lia.
+[32:51] Et enfin, il y a un dernier point qui me
+[32:52] paraît
+[32:54] important de souligner qui définit aussi
+[32:56] les mathématiques humaines,
+[32:59] c'est que les mathématiques sont
+[33:02] une activité humaine en tant qu'activité
+[33:04] collective.
+[33:05] C'est-à-dire que c'est quelque chose qui
+[33:06] n'a de sens que pour être partagé avec
+[33:09] les autres humains.
+[33:11] Et Turston écrivait à ce sujet : "Les
+[33:13] mathématiques n'existent que dans une
+[33:15] communauté vivante de mathématiciens
+[33:19] qui diffusent la compréhension et
+[33:21] donnent vie aux idées anciennes comme
+[33:22] nouvelles."
+[33:24] Et Grotendic lui, il dit "Quand je fais
+[33:25] des maths, je crois que quelque part en
+[33:27] moi,
+[33:29] il est bien entendu que ces maths sont
+[33:31] fait pour être communiqué à autrui, pour
+[33:33] être part d'une chose plus vaste à
+[33:35] laquelle je concours,
+[33:37] une chose qui n'est nullement de nature
+[33:39] individuelle."
+[33:41] Et aussi il dit, s'il n'y avait pas
+[33:42] d'autres mathématiciens au monde et
+[33:44] qu'ils ne doivent plus y en avoir, je ne
+[33:46] crois pas que faire des maths garderit
+[33:48] un sens pour moi.
+[33:55] Les mathématiques étymologiquement,
+[33:58] qu'est-ce que ça veut dire en grec ? Ça
+[33:59] veut dire la science qui s'apprend, qui
+[34:01] s'enseigne, alternativement s'apprend ou
+[34:04] s'enseigne. Donc c'est un savoir qui est
+[34:06] transmis.
+[34:07] Cette notion de transmission est très
+[34:09] importante de génération en génération.
+[34:11] Même si les vérités mathématiques, on
+[34:13] peut penser que c'est quelque chose
+[34:14] d'universel
+[34:16] et d'immuable. Et même si ce qui était
+[34:18] vrai hier en mathématique, et ça c'est
+[34:21] spécifique aux mathématiques quand même,
+[34:23] ce qui était vrai hier, elle est
+[34:24] toujours aujourd'hui.
+[34:26] Quelque chose de rassurant.
+[34:29] Et quand même, comme je le raconte dans
+[34:30] mon livre, chaque génération de
+[34:32] mathématiciens en fait se se
+[34:34] réapproprie,
+[34:37] réécrit, réinterprète
+[34:39] les résultats du passé. C'est-à-dire
+[34:41] qu'on raconte pas les théorèmes du 18e
+[34:42] siècle de la même manière qu'au 18e
+[34:44] siècle. On les comprend, on les on les
+[34:47] explique, on les comprend même
+[34:48] différemment à la lumière de nos
+[34:50] connaissances actuelles et de nos
+[34:52] motivations. C'est-à-dire que c'est un
+[34:55] savoir vivant.
+[34:58] Donc
+[34:59] les mathématiques, elles doivent habiter
+[35:02] si vous voulez dans la tête des humains.
+[35:04] Il est crucial qu'on soit capable de les
+[35:06] comprendre et de les raconter même si
+[35:09] elles nous ont été fournies peut-être
+[35:11] par une machine. Et pour ça d'ailleurs,
+[35:14] je crois à l'importance de la de la
+[35:17] narration pour l'intelligibilité et la
+[35:19] transmission. C'est-à-dire qu'on en tant
+[35:21] qu'humain, on a on a du mal à suivre un
+[35:23] raisonnement s'il nous est pas raconté.
+[35:25] En fait, je pense qu'il faut raconter
+[35:27] les maths, l'exploration comme une
+[35:29] histoire avec ses articulations, ses
+[35:32] points saillants, ses moments
+[35:34] d'interrogation. Voilà pourquoi on a
+[35:35] pensé ça, ce qu'on a pas compris,
+[35:38] une forme de suspense d'ailleurs puis de
+[35:41] résolution.
+[35:43] Il y a certains mativiens qui sont
+[35:44] d'ailleurs particulièrement bons à faire
+[35:46] ça.
+[35:49] Et voilà. Donc pour arriver vers la fin,
+[35:53] on est donc maintenant entré dans une
+[35:54] nouvelle ère, hein, celle de
+[35:57] l'intelligence artificielle qui qui
+[35:58] constitue
+[36:00] pour moi une sorte de révolution
+[36:01] industrielle
+[36:03] pour les mathématiques et pas seulement
+[36:05] pour les mathématiques.
+[36:07] On va le voir, qui les fait
+[36:09] sortirédiablement,
+[36:12] qu'on le veuille ou non, de l'artisanat
+[36:15] et promettre de produire
+[36:18] des résultats en masse. et les premiers
+[36:19] résultats qu'on a vu de top niveau
+[36:22] fournis par les par les systèmes d'IA,
+[36:26] c'est de grandes questions sur les
+[36:28] lesquelles les mathématiciens étaient
+[36:29] restés bloqués
+[36:31] et qui nous sont résolus avec des
+[36:33] preuves
+[36:35] pas faciles à suivre mais d'une
+[36:36] complexité
+[36:39] incroyable et aussi parfois d'une beauté
+[36:41] impressionnante.
+[36:44] C'està-dire que nous n'avons pas le
+[36:46] monopole de la beauté. trop blanc, non ?
+[36:51] Donc je pense qu'on vit on vit
+[36:54] une époque de vertige un peu dans la
+[36:56] comm dans la communauté des
+[36:58] mathématiciens les deux dernières
+[36:59] semaines. Je pense que tout le monde
+[37:01] s'est arrêté pour ne penser qu'à ça.
+[37:03] Enfin, j'ai l'impression. Et beaucoup
+[37:05] des points que
+[37:07] qu'on a discuté nous nous interrogent
+[37:10] immédiatement. C'estàdire comment
+[37:12] comment tout ça se traduit à l'époque de
+[37:14] l'intelligence artificielle. comment
+[37:16] l'IA remplace cette sensibilité qu'on a
+[37:19] qui nous appelle, cette intuition qui
+[37:21] nous guide vers les solutions ?
+[37:25] Comment elle elle condense l'expérience
+[37:27] de toute l'humanité d'un coup pour
+[37:29] remplacer notre expérience individuelle
+[37:31] ?
+[37:33] Est-ce que elle aussi elle peut être
+[37:34] créative ? La question que tous les
+[37:36] mathématiciens se posent. Est-ce qu'elle
+[37:38] va être capable de sortir du cadre et
+[37:40] d'inventer des nouveaux concepts et pas
+[37:42] juste de peut-être recombiner des
+[37:44] concepts déjà ? introduit par les
+[37:47] humains. Est-ce qu'on va pouvoir
+[37:49] comprendre ces preuves ? Est-ce qu'on va
+[37:50] pouvoir se les approprier pour pouvoir
+[37:52] ensuite les transmettre et les passer
+[37:55] comme un savoir vivant ? Est-ce qu'on va
+[37:57] changer finalement ? Est-ce que est-ce
+[37:58] que les preuves de Lia vont nous faire
+[38:00] modifier notre manière de penser ?
+[38:03] Est-ce qu'on va se mettre à découvrir
+[38:05] des nouveaux des nouvelles façons de
+[38:07] faire des preuves comme finalement aux
+[38:09] échecs ou au GO, on a appris des
+[38:11] nouveaux coûts avec la machine ?
+[38:15] parce que de nouveau, un savoir qui
+[38:16] serait pas réapproprié
+[38:19] par les humains ne nous serait plus
+[38:21] utile.
+[38:23] Et puis autre chose, est-ce qu'il y a
+[38:25] est-ce qu'il y a un risque si on délègue
+[38:28] beaucoup de choses à la machine ? Est-ce
+[38:29] qu'il y a un risque qu'on se rouille
+[38:30] nous-même dans nos capacités
+[38:32] intellectuelles ? C'estàdire qu'à force
+[38:34] d'aller ne plus aller regarder les
+[38:35] petits détails d'épreuves qu'on peut
+[38:37] automatiser, on perde un peu de notre
+[38:40] savoir-faire ou est-ce qu'au contraire
+[38:42] on va acquérir de nouvelles compétences
+[38:43] ? Est-ce qu'il y a pas un risque de
+[38:46] paresse intellectuelle ? Et ça je le dis
+[38:49] à tous les étages, c'està dire pas
+[38:51] seulement pour les chercheurs mais pour
+[38:53] les étudiants, pour les élèves.
+[38:56] Est-ce qu'on va garder notre curiosité
+[38:59] s'il y a pas la saveur d'avoir trouvé
+[39:01] les résultats par nous-mêmes ?
+[39:05] Un peu comme Grotandy qui disait "Bah si
+[39:07] j'ai la solution dans un livre à la
+[39:08] bibliothèque, le problème ne m'intéresse
+[39:10] plus."
+[39:13] Voilà. Donc je pense qu'on peut ouvrir
+[39:17] le
+[39:18] la discussion autour de de ces questions
+[39:21] et et et des autres. Mais euh pour
+[39:25] donner une petite conclusion,
+[39:28] je vous dirai celle que que j'ai mis un
+[39:29] petit peu en conclusion du livre,
+[39:30] c'estàdire que j'espère qu'on va garder
+[39:32] de toute façon
+[39:34] notre capacité à nous interroger et
+[39:36] notre capacité à nous émerveiller qui
+[39:39] est quelque chose de vraiment important.
+[39:43] Merci.
+[39:45] [applaudissements]
+[39:54] [applaudissements]
+[39:56] [musique]

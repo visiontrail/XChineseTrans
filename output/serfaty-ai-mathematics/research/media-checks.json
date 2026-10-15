@@ -1,0 +1,27 @@
+{
+  "checked_at": "2026-10-15T04:00:15.563741+00:00",
+  "full_decode_exit_code": {
+    "main": 0,
+    "context": 0
+  },
+  "selected_video_playback": {
+    "start": 0.014291,
+    "later": 63.009867,
+    "readyState": 4,
+    "error": null,
+    "observed_end": 295.4581,
+    "paused_at_end": true
+  },
+  "review_http": {
+    "page_status": 200,
+    "range_status": 206,
+    "content_range": "bytes 0-1023/21898907",
+    "prefix_bytes": 1024
+  },
+  "phone_playback_verified": false,
+  "context_timestamp_check": {
+    "initial_null_muxer_duplicate_dts_warnings": true,
+    "passthrough_decode_exit_code": 0,
+    "passthrough_log_bytes": 0
+  }
+}
