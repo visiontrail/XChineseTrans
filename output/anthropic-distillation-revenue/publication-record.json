@@ -1,5 +1,5 @@
 {
-  "state": "prepared_pending_approval",
+  "state": "publicly_verified",
   "account": "@LeoGuoLabs",
   "source": "https://x.com/dotey/status/2110733274448306267",
   "quote_target": "https://x.com/simonw/status/2110721515130089787",
@@ -22,7 +22,7 @@
     "composer_full_text_accepted": true,
     "post_button_enabled": true,
     "composer_screenshot": "evidence/composer-review.jpg",
-    "published": false
+    "published": true
   },
   "sources": [
     {
@@ -44,6 +44,18 @@
     "Native source screenshot and its original ALT retained in quote; no additional ALT field is involved.",
     "Official article corroborates the commercial trade-off, not the numerical revenue share."
   ],
-  "authorization": "Final content approval required by AGENTS.md; not yet received",
-  "published_url": null
+  "authorization": "User approved the exact reviewed copy and native quote with 发布 on 2026-10-15.",
+  "published_url": "https://x.com/LeoGuoLabs/status/2110738842055811537",
+  "verified_at": "2026-10-15T14:26:36.185805+00:00",
+  "public_verification": {
+    "url_reopened": true,
+    "account": "@LeoGuoLabs",
+    "exact_copy_match": true,
+    "format": "native_quote",
+    "quote_target": "https://x.com/simonw/status/2110721515130089787",
+    "native_images": 1,
+    "videos": 0,
+    "screenshot": "evidence/published-page.jpg",
+    "visible_text": "evidence/published-page.txt"
+  }
 }

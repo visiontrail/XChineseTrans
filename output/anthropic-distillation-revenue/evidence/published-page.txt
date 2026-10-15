@@ -1,0 +1,21 @@
+Leo Guo
+@LeoGuoLabs
+Boost
+Rivals paying you to train your future competition is quite a business problem. FT reports that distillation accounted for 5–7% of Anthropic's revenue, and that it was substantially curtailed in Q3.
+
+Treat the half-billion-dollar figure as an estimate: the period behind that percentage isn't clear. Anthropic itself says it has turned away substantial paid traffic. Protecting Claude's capabilities comes with a real revenue trade-off.
+Quote
+Simon Willison
+@simonw
+·
+1h
+"Anthropic told investors on Wednesday distillation accounted for 5 per cent to 7 per cent of revenue"
+
+If true, and Q2 revenue was $11.5B, then that's more than half a billion dollars spent by other labs to distill Anthropic's models!
+
+https://
+ft.com/content/11632d
+03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1
+…
+ALT
+10:25 PM · Oct 15, 2026
