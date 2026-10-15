@@ -1,0 +1,18 @@
+{
+  "account": "@LeoGuoLabs",
+  "url": "https://x.com/LeoGuoLabs/status/2110880764313170167",
+  "quote_target_url": "https://x.com/ClaudeDevs/status/2110825294655562048",
+  "approved_version": 2,
+  "approval_message_id": "Sentinel_1f09a1456c9c819193695556650e480f",
+  "verified_at": "2026-10-15T23:51:05Z",
+  "full_text": "Opus 5.5 fast mode is now out of research preview on the Claude Platform, with no waitlist.\n\nThe billing detail matters: Claude Code's /fast still uses paid usage credits, even if you have subscription allowance left. API pricing is $8 per million input tokens and $40 per million output tokens.\n\nAnthropic's “up to 2.5x” refers to output tokens per second. An agent that spends most of its time waiting on tools won't get a 2.5x faster workflow from that alone.\n\nhttps://platform.claude.com/docs/en/build-with-claude/fast-mode",
+  "checks": [
+    "Exact full approved prose visible on post detail",
+    "Official documentation link retained",
+    "Native Quote of approved ClaudeDevs announcement visible",
+    "Removed final prose paragraph absent",
+    "Long post accepted",
+    "Latest profile checked before single submission; no duplicate"
+  ],
+  "media": []
+}

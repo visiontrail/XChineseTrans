@@ -1,0 +1,63 @@
+{
+  "singapore_date": "2026-10-16",
+  "batch": "07:00",
+  "draft_id": "2110846329341837698",
+  "title": "Opus 5.5 fast mode：正式开放与收费边界",
+  "topic_key": "opus55-fast-ga-waitlist-removed-oct15",
+  "source_urls": [
+    "https://x.com/dotey/status/2110846329341837698"
+  ],
+  "source_ids": [
+    "2110846329341837698"
+  ],
+  "primary_source_urls": [
+    "https://x.com/ClaudeDevs/status/2110825294655562048",
+    "https://platform.claude.com/docs/en/build-with-claude/fast-mode",
+    "https://code.claude.com/docs/en/fast-mode"
+  ],
+  "format": "native_quote",
+  "quote_target_url": "https://x.com/ClaudeDevs/status/2110825294655562048",
+  "package_path": "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-16/2110846329341837698",
+  "text_path": "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-16/2110846329341837698/post-en-v2.txt",
+  "media_paths": [],
+  "source_media_paths": [],
+  "media_required": false,
+  "media_inspection_complete": true,
+  "source_original_language_read": true,
+  "source_media_inspection_complete": true,
+  "preparation_state": "ready",
+  "verification_state": "complete_quote_chain_and_current_official_docs_verified; workflow_speed_inference_not_benchmark",
+  "delivery_state": "approved_published",
+  "approval_state": "approved",
+  "publication_state": "published_verified",
+  "git_state": "approved_final_archive_prepared",
+  "long_post_permission": "confirmed_by_successful_publication_and_full_body_readback",
+  "created_at": "2026-10-15T23:11:59.218706+00:00",
+  "character_count": 527,
+  "delivery_message_id": "Sentinel_3c1f73717bc8819183bc2043825dfec2",
+  "delivered_at": "2026-10-15T23:46:16.201325Z",
+  "review_path": "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-16/2110846329341837698/review-zh-v2.md",
+  "current_version": 2,
+  "revision_request_message_id": "Sentinel_0da168df4fa481919960a537b6f5d5cd",
+  "revision_summary": "Remove only final prose paragraph beginning For an interactive agent; official URL, preceding copy and native Quote target unchanged.",
+  "delivery_history": [
+    {
+      "text_path": "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-16/2110846329341837698/post-en-v1.txt",
+      "delivery_message_id": "Sentinel_8475d93806dc819183c3a7c300b15ac4",
+      "delivered_at": "2026-10-15T23:12:46.719149Z",
+      "version": "v1"
+    },
+    {
+      "version": "v2",
+      "text_path": "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-16/2110846329341837698/post-en-v2.txt",
+      "delivery_message_id": "Sentinel_3c1f73717bc8819183bc2043825dfec2",
+      "delivered_at": "2026-10-15T23:46:16.201325Z"
+    }
+  ],
+  "approval_message_id": "Sentinel_1f09a1456c9c819193695556650e480f",
+  "published_url": "https://x.com/LeoGuoLabs/status/2110880764313170167",
+  "published_id": "2110880764313170167",
+  "published_at_utc": "2026-10-15T23:49:00Z",
+  "published_time_precision": "minute; UI 4:49 PM UTC-07:00",
+  "verified_at": "2026-10-15T23:51:05Z"
+}

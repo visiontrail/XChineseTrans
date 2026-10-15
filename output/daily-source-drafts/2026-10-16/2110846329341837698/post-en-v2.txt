@@ -1,0 +1,7 @@
+Opus 5.5 fast mode is now out of research preview on the Claude Platform, with no waitlist.
+
+The billing detail matters: Claude Code's /fast still uses paid usage credits, even if you have subscription allowance left. API pricing is $8 per million input tokens and $40 per million output tokens.
+
+Anthropic's “up to 2.5x” refers to output tokens per second. An agent that spends most of its time waiting on tools won't get a 2.5x faster workflow from that alone.
+
+https://platform.claude.com/docs/en/build-with-claude/fast-mode
