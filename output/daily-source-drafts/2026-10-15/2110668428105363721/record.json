@@ -1,0 +1,54 @@
+{
+  "singapore_date": "2026-10-15",
+  "batch": "19:00",
+  "draft_id": "2110668428105363721",
+  "title": "DeepSeek 故障补偿：七天用量赠金，以及重试该停在哪",
+  "topic_key": "deepseek-oct15-outage-credit-compensation",
+  "source_urls": [
+    "https://x.com/op7418/status/2110668428105363721"
+  ],
+  "source_ids": [
+    "2110668428105363721",
+    "2110663080246132855"
+  ],
+  "primary_source_urls": [
+    "https://x.com/tianyi/status/2110663080246132855",
+    "https://status.deepseek.com/incidents/7116348214287"
+  ],
+  "format": "native_quote",
+  "quote_target_url": "https://x.com/tianyi/status/2110663080246132855",
+  "package_path": "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-15/2110668428105363721",
+  "text_path": "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-15/2110668428105363721/post-en-v1.txt",
+  "media_paths": [],
+  "source_media_paths": [],
+  "media_required": false,
+  "media_inspection_complete": true,
+  "source_original_language_read": true,
+  "source_media_inspection_complete": true,
+  "verification_state": "primary_sources_verified_with_explicit_qualifications; editorial_scenarios_not_tested",
+  "preparation_state": "ready",
+  "delivery_state": "delivered",
+  "approval_state": "approved",
+  "publication_state": "publicly_verified",
+  "git_state": "included_in_scoped_publication_commit",
+  "long_post_permission": "full_text_accepted_in_live_quote_composer",
+  "created_at": "2026-10-15T11:08:48.289442+00:00",
+  "character_count": 857,
+  "published_url": "https://x.com/LeoGuoLabs/status/2110705464887349668",
+  "published_at": "2026-10-15T12:12:49Z",
+  "verified_at": "2026-10-15T12:14:31.693197+00:00",
+  "account": "@LeoGuoLabs",
+  "approved_text_sha256": "0b7d0d27a8ebbd2f52c409a5f536a0195c64fb28c3177dc601d98528f2a1abe1",
+  "publication_checks": {
+    "account": true,
+    "complete_approved_text": true,
+    "paragraph_breaks": true,
+    "native_quote": true,
+    "quote_target_opened_and_verified": true,
+    "official_link_full_url_visible_in_rendered_dom": true,
+    "new_media_count": 0,
+    "single_submission": true,
+    "duplicate_check": "Recent profile and existing package records checked before submission"
+  },
+  "approval_note": "User explicitly confirmed publication after the full English body and native Quote target were presented."
+}
