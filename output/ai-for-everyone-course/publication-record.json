@@ -3,7 +3,7 @@
   "original_target": null,
   "format": "standalone",
   "account": "@LeoGuoLabs",
-  "state": "pending_approval",
+  "state": "scheduled",
   "prepared_at": "2026-10-15T01:58:01.814757+00:00",
   "final_text_path": "output/ai-for-everyone-course/post.txt",
   "final_text": "If you use AI at work but still feel lost when the conversation turns to data, models or choosing a project, Andrew Ng’s AI For Everyone is a useful place to start.\n\nFour modules cover what AI can and can’t do, how projects get built, how companies adopt it, and the social implications. It’s non-technical and self-paced; Coursera currently estimates about 7 hours.\n\nThe part I’d pay attention to: choosing a problem worth solving and knowing what to ask the team building it. That’s useful well beyond the next model release.\n\nhttps://www.coursera.org/learn/ai-for-everyone",
@@ -25,12 +25,31 @@
     "composer_copy_exact_match": true,
     "composer_characters": 575,
     "composer_post_enabled": true,
-    "composer_screenshot": "output/ai-for-everyone-course/composer-preview.jpg"
+    "composer_screenshot": "output/ai-for-everyone-course/composer-preview.jpg",
+    "approved_copy_exact_match_before_scheduling": true
   },
   "authorization": {
-    "publication_approved": false,
-    "direct_publish_waiver": false
+    "publication_approved": true,
+    "direct_publish_waiver": false,
+    "approved_instruction": "确认，请在10分钟后发布",
+    "approved_at_observed_utc": "2026-10-15T04:12:41Z"
   },
   "actual_url": null,
-  "next_step": "Publish this exact copy and native course card only after user approval; reopen the resulting URL and verify."
+  "next_step": "After the scheduled time, find and reopen the actual published URL; verify account, complete approved copy and Coursera card before setting publicly_verified. Check for an existing post before any retry.",
+  "schedule": {
+    "provider": "X native scheduler",
+    "scheduled_at": "2026-10-15T12:23:00+08:00",
+    "timezone": "Asia/Singapore",
+    "requested_delay_minutes": 10,
+    "rounding": "Next whole minute after request observation plus 10 minutes",
+    "queue_verified": true,
+    "queue_url": "https://x.com/compose/post/unsent/scheduled",
+    "queue_evidence": "output/ai-for-everyone-course/scheduled-queue.jpg",
+    "submitted_at_observed_utc": "2026-10-15T04:15:22.146357+00:00"
+  },
+  "followup": {
+    "automation_id": "ai-for-everyone",
+    "purpose": "One-time public verification",
+    "intended_at": "2026-10-15T12:24:00+08:00"
+  }
 }
