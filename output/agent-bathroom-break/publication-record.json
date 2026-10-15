@@ -22,19 +22,19 @@
   "format_reason": "Source is a text-only post with no relevant quoted original",
   "quote_target": null,
   "final_text_path": "post.txt",
-  "final_text": "AI agents have introduced a new kind of productivity anxiety: “I need the bathroom, but let me queue one more task first.” 😂\n\nEven your bladder has a dependency now.",
+  "final_text": "AI agents have introduced a new kind of productivity anxiety: “Let me queue one more task before I eat, sleep, or even go to the bathroom.” 😂\n\nEven basic human needs have dependencies now.",
   "media": [],
   "alt": [],
   "preparation_checks": {
     "account_verified_live": "@LeoGuoLabs",
     "composer_checked": true,
     "text_accepted": true,
-    "screenshot_path": "composer-preview.jpg",
+    "screenshot_path": "composer-preview-v2.jpg",
     "complete_text_matches_saved_draft": true,
     "post_button_enabled": true,
-    "uncropped_screenshot_path": "composer-original.jpg",
+    "uncropped_screenshot_path": "composer-original-v2.jpg",
     "browser": "Codex built-in browser",
-    "checked_at": "2026-10-15T03:58:32.425826+00:00",
+    "checked_at": "2026-10-15T04:06:13.023780+00:00",
     "recovery": "Compose modal and home initially stalled; a fresh built-in tab eventually loaded. Existing drafts in other browser tabs were not touched."
   },
   "state": "pending_approval",
@@ -45,5 +45,9 @@
   },
   "submitted": false,
   "published_url": null,
-  "publicly_verified": false
+  "publicly_verified": false,
+  "revision": 2,
+  "revision_request": "还有吃饭睡觉",
+  "revision_notes": "Added eating and sleeping at the user’s request; the illustrative line is an adaptation, not a literal translation or a claimed personal experience.",
+  "previous_text_path": "post-v1.txt"
 }
