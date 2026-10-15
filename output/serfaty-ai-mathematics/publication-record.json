@@ -5,7 +5,7 @@
   "context_quote": "https://x.com/Fabien_Mikol/status/2098324358296957133",
   "account": "@LeoGuoLabs",
   "format": "native_quote",
-  "state": "scheduled",
+  "state": "publicly_verified",
   "prepared_at": "2026-10-15T04:00:15.563741+00:00",
   "text_path": "post-en.txt",
   "text": "Mathematician Sylvia Serfaty makes an uncomfortable point: humans may not have a monopoly on mathematical beauty either.\n\nIf AI can produce proofs faster than we can absorb them, understanding becomes the next bottleneck. I'd love to see AI help turn those proofs into ideas we can explain, teach, and build on—and help us find better questions to ask.",
@@ -63,10 +63,29 @@
     "lan_url": "http://172.16.10.59:62340/"
   },
   "publication": {
-    "submitted": false,
-    "url": null,
-    "publicly_verified": false,
-    "schedule_submitted": true
+    "submitted": true,
+    "url": "https://x.com/LeoGuoLabs/status/2110589734804189460",
+    "publicly_verified": true,
+    "schedule_submitted": true,
+    "published_at": "2026-10-15T12:33:00+08:00",
+    "verified_at": "2026-10-15T04:38:15.437Z",
+    "account_verified": true,
+    "text_exact_match": true,
+    "format_verified": "native_quote",
+    "quote_target_verified": true,
+    "native_video_count": 1,
+    "video_duration_seconds": 295.433,
+    "playback_advancing": true,
+    "playback_samples_seconds": [
+      22.772485,
+      34.541906
+    ],
+    "media_error": null,
+    "evidence": "research/public-verification.json",
+    "screenshots": [
+      "research/public-post.jpg",
+      "research/public-post-lower.jpg"
+    ]
   },
   "schedule": {
     "provider": "X native scheduler",
@@ -85,9 +104,12 @@
   "follow_up": {
     "provider": "Codex heartbeat",
     "automation_id": "serfaty-quote",
-    "status": "ACTIVE",
+    "status": "PAUSED",
     "scheduled_for": "2026-10-15T12:35:00+08:00",
     "one_time": true,
-    "purpose": "Verify actual published URL, exact text, native Quote and advancing video playback."
+    "purpose": "Verify actual published URL, exact text, native Quote and advancing video playback.",
+    "completed": true,
+    "completed_at": "2026-10-15T04:39:12.509303+00:00",
+    "result": "Public page, exact copy, native Quote and video playback verified; one-time follow-up disabled."
   }
 }

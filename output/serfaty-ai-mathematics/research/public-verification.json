@@ -1,0 +1,42 @@
+{
+  "verified_at": "2026-10-15T04:38:15.437Z",
+  "browser": "Codex built-in browser",
+  "url": "https://x.com/LeoGuoLabs/status/2110589734804189460",
+  "account": "@LeoGuoLabs",
+  "displayed_publication_time": "12:33 PM · Oct 15, 2026",
+  "text": "Mathematician Sylvia Serfaty makes an uncomfortable point: humans may not have a monopoly on mathematical beauty either.\n\nIf AI can produce proofs faster than we can absorb them, understanding becomes the next bottleneck. I'd love to see AI help turn those proofs into ideas we can explain, teach, and build on—and help us find better questions to ask.",
+  "text_exact_match": true,
+  "text_characters": 352,
+  "format": "native_quote",
+  "quote_target": "https://x.com/Fabien_Mikol/status/2110316777850671405",
+  "quote_target_verified_by_navigation": true,
+  "native_video_count": 1,
+  "playback_samples": [
+    {
+      "currentTime": 22.772485,
+      "duration": 295.433,
+      "ended": false,
+      "error": null,
+      "paused": false,
+      "readyState": 4,
+      "videoHeight": 360,
+      "videoWidth": 680
+    },
+    {
+      "currentTime": 34.541906,
+      "duration": 295.433,
+      "ended": false,
+      "error": null,
+      "paused": false,
+      "readyState": 4,
+      "videoHeight": 360,
+      "videoWidth": 680
+    }
+  ],
+  "playback_advancing": true,
+  "media_error": null,
+  "screenshots": [
+    "public-post.jpg",
+    "public-post-lower.jpg"
+  ]
+}
