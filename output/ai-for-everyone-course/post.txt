@@ -1,0 +1,7 @@
+If you use AI at work but still feel lost when the conversation turns to data, models or choosing a project, Andrew Ng’s AI For Everyone is a useful place to start.
+
+Four modules cover what AI can and can’t do, how projects get built, how companies adopt it, and the social implications. It’s non-technical and self-paced; Coursera currently estimates about 7 hours.
+
+The part I’d pay attention to: choosing a problem worth solving and knowing what to ask the team building it. That’s useful well beyond the next model release.
+
+https://www.coursera.org/learn/ai-for-everyone

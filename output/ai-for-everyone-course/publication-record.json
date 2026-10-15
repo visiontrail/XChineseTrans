@@ -1,0 +1,36 @@
+{
+  "source": "https://x.com/leo114119/status/2110531348192436478",
+  "original_target": null,
+  "format": "standalone",
+  "account": "@LeoGuoLabs",
+  "state": "pending_approval",
+  "prepared_at": "2026-10-15T01:58:01.814757+00:00",
+  "final_text_path": "output/ai-for-everyone-course/post.txt",
+  "final_text": "If you use AI at work but still feel lost when the conversation turns to data, models or choosing a project, Andrew Ng’s AI For Everyone is a useful place to start.\n\nFour modules cover what AI can and can’t do, how projects get built, how companies adopt it, and the social implications. It’s non-technical and self-paced; Coursera currently estimates about 7 hours.\n\nThe part I’d pay attention to: choosing a problem worth solving and knowing what to ask the team building it. That’s useful well beyond the next model release.\n\nhttps://www.coursera.org/learn/ai-for-everyone",
+  "final_text_sha256": "05215a9d6917577ed2765d9ea0daa6d8a0010baa912feb735b53f9754a4d1f06",
+  "media": [],
+  "native_link_card": {
+    "url": "https://www.coursera.org/learn/ai-for-everyone",
+    "title": "AI For Everyone",
+    "rendered": true,
+    "screenshot": "output/ai-for-everyone-course/link-card-preview.jpg"
+  },
+  "checks": {
+    "source_original_language_read": true,
+    "source_quote_absent": true,
+    "source_video_absent": true,
+    "primary_source_verified": true,
+    "authenticated_account_verified": true,
+    "composer_initially_empty": true,
+    "composer_copy_exact_match": true,
+    "composer_characters": 575,
+    "composer_post_enabled": true,
+    "composer_screenshot": "output/ai-for-everyone-course/composer-preview.jpg"
+  },
+  "authorization": {
+    "publication_approved": false,
+    "direct_publish_waiver": false
+  },
+  "actual_url": null,
+  "next_step": "Publish this exact copy and native course card only after user approval; reopen the resulting URL and verify."
+}
