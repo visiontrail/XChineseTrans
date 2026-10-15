@@ -1,0 +1,3 @@
+AI generating machine code directly is a plausible direction. I'd be happy to spend less time reading implementation details.
+
+I'd still want clear answers to three questions: does it do what I asked, what can it access, and can I undo a bad change? The less code we read, the stronger those checks need to be.

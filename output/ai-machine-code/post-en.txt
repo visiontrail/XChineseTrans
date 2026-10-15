@@ -1,3 +1,5 @@
 AI generating machine code directly is a plausible direction. I'd be happy to spend less time reading implementation details.
 
-I'd still want clear answers to three questions: does it do what I asked, what can it access, and can I undo a bad change? The less code we read, the stronger those checks need to be.
+That's where Spec-Driven Development (SDD) becomes more important. A clear written spec gives people something they can read, question and refine: what the software should do, its constraints, and how we'll know it works.
+
+I'd still want to check the implementation against that spec, limit what it can access, and be able to roll back a bad change.

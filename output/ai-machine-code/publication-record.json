@@ -16,7 +16,7 @@
       "text": "💯"
     }
   ],
-  "post_text": "AI generating machine code directly is a plausible direction. I'd be happy to spend less time reading implementation details.\n\nI'd still want clear answers to three questions: does it do what I asked, what can it access, and can I undo a bad change? The less code we read, the stronger those checks need to be.",
+  "post_text": "AI generating machine code directly is a plausible direction. I'd be happy to spend less time reading implementation details.\n\nThat's where Spec-Driven Development (SDD) becomes more important. A clear written spec gives people something they can read, question and refine: what the software should do, its constraints, and how we'll know it works.\n\nI'd still want to check the implementation against that spec, limit what it can access, and be able to roll back a bad change.",
   "text_file": "post-en.txt",
   "attachments": [],
   "media_note": "Source and selected Quote target are text only. Unrelated reaction GIFs in replies are not selected media.",
@@ -28,18 +28,24 @@
     "composer_text_complete": true,
     "post_button_enabled": true,
     "native_quote_card_verified": true,
-    "composer_characters_remaining": 24690,
-    "screenshot": "composer-review.jpg",
-    "note": "DraftJS innerText adds an extra blank line; displayed wording and the composer character counter match the 310-character source."
+    "composer_characters_remaining": 24524,
+    "screenshot": "composer-review-v2.jpg",
+    "note": "Displayed wording and composer counter match the complete 476-character revision. Native Quote target unchanged. Post button enabled; not submitted."
   },
   "research": {
     "primary_source": "Selected Elon Musk post verified live in authenticated browser.",
     "technical_reference": "https://gcc.gnu.org/onlinedocs/gcc/Overall-Options.html",
     "finding": "GCC already translates source through compilation, assembly and linking into executables. Direct AI generation without human-readable source is a forecast; executable output alone is not a new capability.",
-    "editorial": "Keep the future possibility conditional. Omit unsupported two-year deadline and quantum-language speculation. Verification and rollback statements are editorial judgment, not claimed test results."
+    "editorial": "Keep the future possibility conditional. Omit unsupported two-year deadline and quantum-language speculation. Verification and rollback statements are editorial judgment, not claimed test results.",
+    "sdd_reference": "https://github.com/github/spec-kit/blob/main/docs/concepts/sdd.md",
+    "sdd_finding": "Official Spec Kit documentation describes intent-driven development, rich specifications and multi-step refinement. The claim that this grows in importance with less human code reading is editorial judgment."
   },
   "state": "pending_approval",
   "approval": null,
   "published_url": null,
-  "review_rule": "Final content approval required by AGENTS.md; no publication submitted."
+  "review_rule": "Final content approval required by AGENTS.md; no publication submitted.",
+  "revision": 2,
+  "updated_at": "2026-10-15T03:44:28.985816+00:00",
+  "revision_request": "Add why Spec-Driven Development matters: clear written specifications that humans can read.",
+  "previous_text_file": "post-en-v1.txt"
 }
