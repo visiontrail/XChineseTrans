@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-10-15T04:01:56.159326+00:00",
+  "retrieval_url": "https://api.fxtwitter.com/status/2110558025476128968",
+  "source": {
+    "url": "https://x.com/leo114119/status/2110558025476128968",
+    "id": "2110558025476128968",
+    "text": "我觉得马斯克应该赶紧找 Amazon 去谈一个合作。。。\n\n用 Grok Bot 来下单，可以有满减或者折扣。。。。\n\n保证 Grok Bot 的用户量爆涨啊。。。\n\n从这个角度来看。。阿里做 qwen go大有可用啊。。\n\n以后淘宝天猫闪购用qwen go下单打五折。。。用户量马上破亿。。。。",
+    "raw_text": {
+      "text": "我觉得马斯克应该赶紧找 Amazon 去谈一个合作。。。\n\n用 Grok Bot 来下单，可以有满减或者折扣。。。。\n\n保证 Grok Bot 的用户量爆涨啊。。。\n\n从这个角度来看。。阿里做 qwen go大有可用啊。。\n\n以后淘宝天猫闪购用qwen go下单打五折。。。用户量马上破亿。。。。",
+      "display_text_range": [
+        0,
+        148
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "leo114119",
+      "url": "https://x.com/leo114119",
+      "id": "1647958531461480448",
+      "followers": 5215,
+      "following": 4197,
+      "likes": 3220,
+      "media_count": 805,
+      "name": "Leo · Building w/ AI",
+      "description": "Building with AI everyday.\nSharing verified AI news daily.\n#AI #VibeCoding #BuildInPublic #Follow",
+      "raw_description": {
+        "text": "Building with AI everyday.\nSharing verified AI news daily.\n#AI #VibeCoding #BuildInPublic #Follow",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1647958531461480448/1790408643",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2097524411033100288/TICgviAl_200x200.jpg",
+      "joined": "Mon Apr 17 13:42:04 +0000 2023",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 0,
+    "retweets": 0,
+    "likes": 1,
+    "bookmarks": 1,
+    "quotes": 0,
+    "created_at": "Thu Oct 15 02:27:00 +0000 2026",
+    "created_timestamp": 1792031220,
+    "views": 352,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "quote": {
+      "url": "https://x.com/elonmusk/status/2110541862389911574",
+      "id": "2110541862389911574",
+      "text": "@farzyness @amazon Just ask Grok Bot to find the best deal on the Internet for what you want. Doesn’t need to come from Amazon. \n\nMy Bot bought LEGO directly from the LEGO website no problem.",
+      "raw_text": {
+        "text": "@farzyness @amazon Just ask Grok Bot to find the best deal on the Internet for what you want. Doesn’t need to come from Amazon. \n\nMy Bot bought LEGO directly from the LEGO website no problem.",
+        "display_text_range": [
+          19,
+          191
+        ],
+        "facets": [
+          {
+            "type": "mention",
+            "indices": [
+              0,
+              10
+            ],
+            "original": "farzyness",
+            "id": "17862108"
+          },
+          {
+            "type": "mention",
+            "indices": [
+              11,
+              18
+            ],
+            "original": "amazon",
+            "id": "20793816"
+          }
+        ]
+      },
+      "author": {
+        "screen_name": "elonmusk",
+        "url": "https://x.com/elonmusk",
+        "id": "44196397",
+        "followers": 241485331,
+        "following": 1420,
+        "likes": 252953,
+        "media_count": 4738,
+        "name": "Elon Musk",
+        "description": "http://Terafab.AI",
+        "raw_description": {
+          "text": "https://t.co/ZdBx5WABYx",
+          "facets": [
+            {
+              "type": "url",
+              "indices": [
+                0,
+                23
+              ],
+              "original": "https://t.co/ZdBx5WABYx",
+              "replacement": "http://Terafab.AI",
+              "display": "Terafab.AI"
+            }
+          ]
+        },
+        "location": "",
+        "banner_url": "https://pbs.twimg.com/profile_banners/44196397/1774145451",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_200x200.jpg",
+        "joined": "Tue Jun 02 20:12:29 +0000 2009",
+        "protected": false,
+        "website": null,
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "individual"
+        },
+        "avatar_color": null
+      },
+      "replies": 260,
+      "retweets": 170,
+      "likes": 2614,
+      "bookmarks": 128,
+      "quotes": 28,
+      "created_at": "Thu Oct 15 01:22:46 +0000 2026",
+      "created_timestamp": 1792027366,
+      "views": 279792,
+      "is_note_tweet": false,
+      "community_note": null,
+      "lang": "en",
+      "replying_to": "farzyness",
+      "replying_to_status": "2110436733493903746",
+      "twitter_card": "tweet",
+      "color": null,
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}
