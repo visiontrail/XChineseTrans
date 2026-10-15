@@ -1,0 +1,21 @@
+{
+  "published_url": "https://x.com/LeoGuoLabs/status/2110604145765777864",
+  "account": "@LeoGuoLabs",
+  "verified_at": "2026-10-15T05:31:04Z",
+  "format": "standalone",
+  "complete_approved_body_verified": true,
+  "text_file": "post-en-v1.txt",
+  "text_sha256": "18b510e2f572004244d3973c079b2c05cf3d2bc393e0c3c93abca30fd30cbd5d",
+  "media_count": 1,
+  "media_file": "media/seed-safety-lifecycle-v1.png",
+  "media_sha256": "cda3585a3f1b448ae14f97997596f231d76fc94bbb9861e99b41a1965af7c475",
+  "image_visually_verified_on_public_photo_view": true,
+  "alt_file": "media/alt-en.txt",
+  "exact_alt_verified": true,
+  "official_link_present": true,
+  "official_url": "https://seed.bytedance.com/zh/blog/seed-alignment-preparedness-team-looking-for-global-talents",
+  "reference_images_published": false,
+  "quote_target": null,
+  "video_attached": false,
+  "evidence": "Reopened the actual post URL in authenticated cloud browser. Full English body and image ALT visible in public post accessibility tree; public photo view visually matches approved English infographic. Composer accepted full copy with 24,233 characters remaining. Submission toast confirmed sent, then latest profile entry and permalink confirmed."
+}
