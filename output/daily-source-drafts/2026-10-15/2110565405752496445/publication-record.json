@@ -1,0 +1,49 @@
+{
+  "account": "@LeoGuoLabs",
+  "format": "standalone",
+  "quote_target_url": null,
+  "publication_state": "publicly_verified",
+  "published_url": "https://x.com/LeoGuoLabs/status/2110755939624345806",
+  "published_at": "2026-10-15T15:33:27Z",
+  "verified_at": "2026-10-15T15:34:34Z",
+  "approval_message_id": "Sentinel_ea052f9cf0b8819195e0b29bbb266b44",
+  "approved_review_message_id": "Sentinel_b8c0ec2f71708191b1601165d05170dc",
+  "text_path": "post-en-v1.txt",
+  "media_paths": [
+    "media/jev-box-presence-v1.png"
+  ],
+  "alt_path": "media/jev-box-presence-alt.txt",
+  "media_library_file_id": "libfile_85ece569cb5881919a789d1f86d9b4ac",
+  "official_link": "https://typesafe.ai/blog/jev-1-14",
+  "checks": {
+    "signed_in_account_verified": true,
+    "recent_profile_duplicate_check": true,
+    "full_text_accepted_by_composer": true,
+    "composer_characters_remaining": 24284,
+    "full_text_verified_on_reopened_live_page": true,
+    "official_link_visible": true,
+    "single_original_english_diagram_verified": true,
+    "live_image_full_size_visually_checked": true,
+    "english_alt_verified": true,
+    "native_quote_absent": true,
+    "submitted_once": true
+  },
+  "platform_label": "Made with AI (automatically displayed after upload)",
+  "files": [
+    {
+      "path": "post-en-v1.txt",
+      "bytes": 739,
+      "sha256": "b4a8d9357d459c81a9f576bc7004f64db65db348b272d6e73da6a79f7597fecc"
+    },
+    {
+      "path": "media/jev-box-presence-v1.png",
+      "bytes": 1340008,
+      "sha256": "61ce79252f4b9698545fe3748a47c20c41a781acf2d9e212832781b2a9ef49be"
+    },
+    {
+      "path": "media/jev-box-presence-alt.txt",
+      "bytes": 452,
+      "sha256": "6c3e91e0915a39c279056ce4cdf8072cd814b2bcb9fd3635384ef125f0d66c59"
+    }
+  ]
+}

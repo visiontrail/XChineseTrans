@@ -1,0 +1,9 @@
+If you’re prototyping a scanned-form review tool, Jev 1.14.0’s new Box type could locate a signature so your app can crop it for a reviewer.
+
+The catch: Box returns coordinates even when the target is missing. Pair it with a separate presence check. A valid box isn’t proof the right object was found.
+
+TypeSafe also unlocked images in state, instructions, and criteria, plus optional 262K-token context. Those work on 1.13 too; Box needs 1.14. The company expects the biggest model improvements in multilingual support.
+
+Images, Box, and long context are experimental features behind “danger zone” headers. TypeSafe isn’t vouching for their production use. 1.14 is currently on jev-preview.
+
+https://typesafe.ai/blog/jev-1-14
