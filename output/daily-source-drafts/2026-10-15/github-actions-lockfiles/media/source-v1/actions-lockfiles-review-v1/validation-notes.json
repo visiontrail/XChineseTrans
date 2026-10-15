@@ -1,0 +1,17 @@
+{
+  "svg_xml_valid": true,
+  "embedded_woff2_font_count": 3,
+  "raw_skill_self_check": "Flags only three non-fragment CSS data font URLs; these are embedded offline WOFF2 bytes, not network references.",
+  "skill_self_check_after_removing_only_font_data_rules": "OK /tmp/actions-lockfiles-safety-no-font-data.html",
+  "text_contrast_ratios": {
+    "#1A4A3A on #FDFBF7": 9.75,
+    "#1A4A3A on #F6EDCF": 8.6,
+    "#426454 on #FDFBF7": 6.38,
+    "#426454 on #F6EDCF": 5.63,
+    "#80601B on #FDFBF7": 5.63,
+    "#80601B on #F6EDCF": 4.97
+  },
+  "semantic_review": "A and B are illustrative commits. Readable v2 is retained. Commit B is only adopted on the locked path after review, approval and a lockfile update. No claim that locking certifies safety.",
+  "connector_review": "6 arrows; orthogonal, r=8 elbows; unique ports; no shared paths, crossings, label intersections or transit behind unrelated nodes. 8 process/outcome nodes.",
+  "scope": "Pending asset review only. No X composer, publication, git commit or push."
+}

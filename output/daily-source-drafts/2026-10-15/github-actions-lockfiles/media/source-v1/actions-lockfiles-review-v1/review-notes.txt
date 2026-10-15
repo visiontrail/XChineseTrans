@@ -1,0 +1,49 @@
+GitHub Actions lockfiles — review asset v1
+Prepared on bogon, 2026-10-15. Status: pending review; no publication.
+
+DELIVERABLES
+actions-lockfiles-flow-v1.png — 2160 × 2160 PNG; the full square figure.
+actions-lockfiles-flow-v1.html — editable, self-contained source with inline SVG and embedded Geist fonts.
+actions-lockfiles-flow-v1.svg — editable vector export from the HTML using diagram-design's export_svg.py.
+alt-en.txt — English ALT; keep it separate from the tweet body.
+build_diagram.py — regeneration source; uses existing font files in XChineseTrans.
+render_and_check.cjs — local render and text-bound checks using bogon's existing Playwright/Chromium.
+qa.json / validation-notes.json — machine-readable QA results and manual semantic checks.
+qa-feed-390.png — full-figure phone-feed preview at 390 CSS px (2× screenshot).
+qa-html-mobile.png — local scrolling HTML view at a 390px viewport.
+
+PROJECT AND DESIGN SPECIFICATION
+Host verified by hostname and uname: bogon, Darwin arm64.
+Project: /Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans
+Read: project AGENTS.md, especially Default Image Style: LeoGuoLabs Light v1;
+assets/brand/leoguolabs-light-v1/README.md; and the current reference-infographic-paper-v2.png.
+The project has no .diagram-design marker and no project-local skill copy. Its existing output/diagram-design-mermaid-archify records the diagram-design project. The installed tool on bogon is:
+/Users/leoguo/.codex/skills/diagram-design/SKILL.md (version 2.6).
+Applied references: type-flowchart.md, style-guide.md, semantic-patterns.md, profiles.md, primitives-core.md, layout-budget.md, output-spec.md, export.md, and the minimal light template.
+
+Applied project skin: LeoGuoLabs Light v1. Warm ivory #FDFBF7; forest green #1A4A3A; muted green #426454; sparse dark gold #80601B; one pale-butter #F6EDCF outcome. Barely visible paper grain. Geist 400/500/600 embedded from existing project WOFF2 files and verified loaded. Plain LeoGuoLabs signature.
+The project instructions explicitly supersede the skill's default serif typography and coral palette. No installed skill files, saved profiles, project markers, or unrelated project files were changed.
+
+LAYOUT AND SCOPE DECISIONS
+Visual type: ordinary flowchart, two aligned comparison paths plus an explicit upgrade procedure. No semantic-pattern preset fits more closely; this is not a policy rule-by-rule PASS/FAIL trace.
+Size: social-square, 1080 × 1080 viewBox, PNG at 2×. All eight nodes and six connectors fit within the skill's complexity budget. Orthogonal connectors use r=8 bends; text remains in the static frame.
+Type sizes are enlarged for the user's phone-readability requirement: main node labels 30–36, secondary labels 24–28, headline 52. This intentionally overrides the skill's much smaller default presentation ramp. The project brand and readability requirements govern.
+Process rectangles and terminal ovals are semantic diagram symbols, not decorative cards. Two gold focal elements only. No fake GitHub interface, icons, badge chrome, shadows, gradients or poster serif.
+The shared line states that project and workflow are unchanged and still use build@v2. The readable v2 stays visible on both paths. A and B are illustrative commit names, not real SHAs or a claim about an actual incident.
+The locked path assumes the workflow is onboarded and A was already locked. Reviewing and approving B is a recommended change-control step, not a claim that the lockfile mechanically certifies the upgrade's safety.
+Dependabot details stay in the parent tweet, rather than adding another crowded branch. The figure retains transitive-action coverage and the reusable-workflow boundary in its footnotes.
+
+FACT SOURCES (opened and checked 2026-10-15)
+https://docs.github.com/en/actions/concepts/security/workflow-dependency-lockfiles
+Supports runtime tag resolution, the locked commit executing, transitive action dependencies, and reusable workflows using their defining repository's lockfile. The feature is in public preview.
+https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview/
+Supports retaining readable workflow references, public-preview status, locking not deciding whether a dependency is safe, and Dependabot updating workflow references and matching lock entries in the same PR for onboarded workflows.
+
+VERIFICATION
+Rendered the original HTML's SVG with existing headless Chromium on bogon; inspected the final PNG and a full-figure 390px feed preview. No external network requests. All three embedded Geist weights loaded. Zero text overlaps, out-of-canvas text, or text overflowing its process/outcome node. HTML has an accessible SVG title and description, a local horizontal scroller on narrow screens, and print scaling.
+Text contrast ratios are at least 4.97:1 on the surfaces used. The standalone SVG parses as XML and was exported with the skill's namespaced export helper. Embedded font support can vary in non-browser SVG editors; the PNG preserves the checked appearance.
+The installed self_check.py flags the three data: font URLs as non-fragment CSS URLs. They are embedded offline WOFF2 fonts, not remote resources. A clone with only those three @font-face rules removed passes the checker; original fonts were kept for portable appearance. This is documented in validation-notes.json, not reported as an unqualified raw-check pass.
+The installed skill has no verify-geometry.py; connector geometry was reviewed directly and DOM text bounds were checked in render_and_check.cjs.
+
+AUTHORIZATION BOUNDARY
+Draft visual only. No X editor opened; no post sent, scheduled, or published. No Git commit or push. The explicit task instructions override the project's usual commit/push default.

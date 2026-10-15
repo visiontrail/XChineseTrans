@@ -1,0 +1,15 @@
+Your code hasn't changed. So why did CI break?
+
+Imagine your automated test-and-build workflow uses a third-party build action tagged v2. Today, v2 points to commit A. Tomorrow, its maintainer moves the tag to commit B. Your next run can pick up that change and fail, even though you haven't touched your project.
+
+GitHub's new Actions lockfiles, now in public preview, let you keep the readable v2 reference while locking execution to commit A. Moving the tag won't change the action you run; you update the lockfile when you're ready to review the new version.
+
+That helps when rerunning a failed build or maintaining a release branch: fewer surprises from action versions changing underneath you. It also covers transitive action dependencies, including actions called by other actions.
+
+One boundary matters: a called reusable workflow uses its own repository's lockfile. Your project's lockfile doesn't cover the actions inside it.
+
+Dependabot can update the workflow reference and matching lockfile entry in one PR, putting upgrades through review.
+
+This makes action versions reproducible. A locked dependency can still contain bugs or malicious code, so reviewing what you lock still matters.
+
+https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview/

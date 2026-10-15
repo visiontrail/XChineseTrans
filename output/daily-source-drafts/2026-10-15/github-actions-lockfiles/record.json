@@ -1,0 +1,89 @@
+{
+  "singapore_date": "2026-10-15",
+  "batch": "07:00",
+  "draft_id": "github-actions-lockfiles",
+  "title": "GitHub Actions：代码没改，CI 依赖却可能变了",
+  "source_urls": [
+    "https://x.com/GHchangelog/status/2110373844431098172"
+  ],
+  "source_ids": [
+    "2110373844431098172"
+  ],
+  "format": "standalone",
+  "quote_target_url": null,
+  "media_required": true,
+  "media_paths": [
+    "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-15/github-actions-lockfiles/media/actions-lockfiles-flow-v1.png"
+  ],
+  "preparation_state": "ready",
+  "delivery_state": "delivered_for_review",
+  "publication_state": "published_and_publicly_verified",
+  "git_state": "publication_archive_prepared_for_commit",
+  "text_path": "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-15/github-actions-lockfiles/post-en-v2.txt",
+  "package_path": "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-15/github-actions-lockfiles",
+  "primary_source_urls": [
+    "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview/",
+    "https://docs.github.com/en/actions/concepts/security/workflow-dependency-lockfiles"
+  ],
+  "source_date": "2026-10-14",
+  "retrieved_at": "2026-10-14T23:09:25Z",
+  "verification_state": "verified_with_explicit_qualifications",
+  "media_inspection_complete": true,
+  "source_media_inspection_complete": true,
+  "source_media_inspection_note": "Cloud browser read original posts and visually inspected generic GitHub Changelog article-card artwork. No attached substantive images, video, or quoted original. Text-only editorial selection.",
+  "long_post_permission": "verified_in_live_composer_25000_character_capacity",
+  "approval_state": "approved",
+  "topic_key": "github-actions-lockfiles",
+  "version": "v2",
+  "revision_requested_by": "Sentinel_b4e2f60f96b48191b93ec8dbbf13be3c",
+  "revision_request": "请你把应用场景加入到推文",
+  "revised_at": "2026-10-15T01:05:00Z",
+  "revision_summary": "Add a hypothetical test-and-build CI scenario with mutable v2 tag, commits A/B, release branch and rerun applications; retain transitive dependencies, reusable workflow boundary, and security qualification.",
+  "current_version": 2,
+  "delivery_receipt": "Sentinel_7436d375e7c48191bd2c28d1da31134e",
+  "delivered_at": "2026-10-15T01:06:00.846425Z",
+  "alt_path": "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-15/github-actions-lockfiles/media/source-v1/actions-lockfiles-review-v1/alt-en.txt",
+  "media_approval_state": "approved",
+  "approved": true,
+  "media_sync_state": "verified",
+  "media_version": "v1",
+  "editable_media_paths": [
+    "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-15/github-actions-lockfiles/media/source-v1/actions-lockfiles-review-v1/actions-lockfiles-flow-v1.html",
+    "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-15/github-actions-lockfiles/media/source-v1/actions-lockfiles-review-v1/actions-lockfiles-flow-v1.svg"
+  ],
+  "media_review_notes_path": "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-15/github-actions-lockfiles/media/source-v1/actions-lockfiles-review-v1/review-notes.txt",
+  "media_sha256": "93fadf2b4e15631f0ef47d69d5cde4228b21210773a17b7ffb9a04e05f962f1c",
+  "media_qa": "PNG decoded at 2160x2160 and visually inspected; ZIP CRC/path checks and all eleven manifest sizes/hashes verified; standalone and ZIP PNG bytes identical; SVG parses; Library identity xattrs verified. Creator QA caveat: raw skill checker flags embedded offline font data URLs. No scripts rerun in cloud; no X composer or publication check.",
+  "media_delivery_receipts": [
+    {
+      "role": "review_image",
+      "library_file_id": "libfile_54ea519c38ac8191a9beddb89f2816a1",
+      "file_id": "file_0000000078e881fd89c249f74e3210de",
+      "message_id": "Sentinel_b2442c29242c8191852425b1db1bed89",
+      "delivered_at": "2026-10-15T01:15:51Z"
+    },
+    {
+      "role": "editable_source_package",
+      "library_file_id": "libfile_a5b830131c088191a21995e996d96062",
+      "file_id": "file_00000000bf1c81fdbc9facc75a799284",
+      "message_id": "Sentinel_5dda6f3455048191891af9ea29302964",
+      "delivered_at": "2026-10-15T01:15:52Z"
+    }
+  ],
+  "approved_by_message": "Sentinel_f809a5546e988191b023881c8d6f19e7",
+  "approval_text": "带着配图发布吧",
+  "approved_at": "2026-10-15T01:41:00Z",
+  "published_url": "https://x.com/LeoGuoLabs/status/2110547350192095437",
+  "published_at": "2026-10-15T01:44:35Z",
+  "publicly_verified_at": "2026-10-15T01:45:24Z",
+  "verification_record": "public-verification.json",
+  "previous_versions_local_only": [
+    {
+      "version": "v1",
+      "text_path": "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-15/github-actions-lockfiles/post-en-v1.txt",
+      "delivery_state": "delivered_for_review",
+      "delivery_receipt": "Sentinel_43332085928481918e6a657913288ef5",
+      "delivered_at": "2026-10-14T23:11:48.645134Z"
+    }
+  ]
+}
