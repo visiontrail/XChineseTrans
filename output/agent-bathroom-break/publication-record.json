@@ -37,17 +37,35 @@
     "checked_at": "2026-10-15T04:06:13.023780+00:00",
     "recovery": "Compose modal and home initially stalled; a fresh built-in tab eventually loaded. Existing drafts in other browser tabs were not touched."
   },
-  "state": "pending_approval",
+  "state": "publicly_verified",
   "review_authorization": {
     "required": true,
-    "approved": false,
-    "direct_publish_waiver": false
+    "approved": true,
+    "direct_publish_waiver": false,
+    "approval_text": "确认发布",
+    "approved_revision": 2,
+    "approved_at": "2026-10-15T04:07:34.537426+00:00"
   },
-  "submitted": false,
-  "published_url": null,
-  "publicly_verified": false,
+  "submitted": true,
+  "published_url": "https://x.com/LeoGuoLabs/status/2110583354911498543",
+  "publicly_verified": true,
   "revision": 2,
   "revision_request": "还有吃饭睡觉",
   "revision_notes": "Added eating and sleeping at the user’s request; the illustrative line is an adaptation, not a literal translation or a claimed personal experience.",
-  "previous_text_path": "post-v1.txt"
+  "previous_text_path": "post-v1.txt",
+  "submission_attempted_at": "2026-10-15T04:07:44.968335+00:00",
+  "submitted_at": "2026-10-15T04:08:00.941094+00:00",
+  "public_verification": {
+    "verified_at": "2026-10-15T04:08:34.690446+00:00",
+    "method": "Opened actual published status URL in authenticated Codex built-in browser",
+    "account": "@LeoGuoLabs",
+    "complete_text_matches_approved_revision": true,
+    "paragraph_break_preserved": true,
+    "format": "standalone",
+    "media_count": 0,
+    "quote_target": null,
+    "published_time_displayed": "12:07 PM · Oct 15, 2026",
+    "screenshot_path": "published-preview.jpg",
+    "uncropped_screenshot_path": "published-original.jpg"
+  }
 }
