@@ -1,0 +1,49 @@
+{
+  "state": "prepared_pending_approval",
+  "account": "@LeoGuoLabs",
+  "source": "https://x.com/dotey/status/2110733274448306267",
+  "quote_target": "https://x.com/simonw/status/2110721515130089787",
+  "format": "native_quote",
+  "copy": "Rivals paying you to train your future competition is quite a business problem. FT reports that distillation accounted for 5–7% of Anthropic's revenue, and that it was substantially curtailed in Q3.\n\nTreat the half-billion-dollar figure as an estimate: the period behind that percentage isn't clear. Anthropic itself says it has turned away substantial paid traffic. Protecting Claude's capabilities comes with a real revenue trade-off.",
+  "media": {
+    "native_quote_images": 1,
+    "videos": 0,
+    "additional_uploads": 0,
+    "local_reference": "source-ft-excerpt.jpg",
+    "source_url": "https://pbs.twimg.com/media/HUrKCAwboAAuIww.jpg?name=orig",
+    "bytes": 181769,
+    "sha256": "fcca7fdb5fd9c0586482708bb1eeba944078472bdbbc1cbb24571251b987b5d9"
+  },
+  "checked_at": "2026-10-15T14:20:44.384487+00:00",
+  "checks": {
+    "source_original_language_read": true,
+    "quote_chain_traced": true,
+    "account_verified_in_live_browser": true,
+    "composer_full_text_accepted": true,
+    "post_button_enabled": true,
+    "composer_screenshot": "evidence/composer-review.jpg",
+    "published": false
+  },
+  "sources": [
+    {
+      "url": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b",
+      "access": "Direct web retrieval failed and built-in browser connection timed out. Relevant excerpt inspected in Simon original screenshot; numeric claim remains attributed reporting."
+    },
+    {
+      "url": "https://www.anthropic.com/research/distillation-defenses",
+      "date": "2026-10-12",
+      "verified": "Company states it turned away meaningful revenue and trillions of tokens of paying traffic from distillers. Does not establish the reported 5-7% share."
+    },
+    {
+      "url": "https://www.business-standard.com/world-news/anthropic-s-revenue-rises-45-to-16-8-billion-in-q3-ahead-of-ipo-126101500124_1.html",
+      "verified": "Secondary report repeats FT 5-7% and material Q3 curtailment."
+    }
+  ],
+  "editorial_notes": [
+    "Dollar estimate excluded as an asserted fact because the period for the reported percentage is unspecified.",
+    "Native source screenshot and its original ALT retained in quote; no additional ALT field is involved.",
+    "Official article corroborates the commercial trade-off, not the numerical revenue share."
+  ],
+  "authorization": "Final content approval required by AGENTS.md; not yet received",
+  "published_url": null
+}

@@ -1,0 +1,3 @@
+Rivals paying you to train your future competition is quite a business problem. FT reports that distillation accounted for 5–7% of Anthropic's revenue, and that it was substantially curtailed in Q3.
+
+Treat the half-billion-dollar figure as an estimate: the period behind that percentage isn't clear. Anthropic itself says it has turned away substantial paid traffic. Protecting Claude's capabilities comes with a real revenue trade-off.
