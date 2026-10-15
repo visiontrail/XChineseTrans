@@ -1,0 +1,30 @@
+{
+  "source": "https://x.com/leo114119/status/2110709901756678199",
+  "source_observed_date": "2026-10-15",
+  "account": "@LeoGuoLabs",
+  "format": "standalone",
+  "quote_target": null,
+  "state": "pending_approval",
+  "text_file": "post.txt",
+  "media_attachments": [],
+  "native_link_card": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
+  "composer_screenshot": "composer-review.jpg",
+  "checks": {
+    "source_original_chinese_read": true,
+    "source_image_inspected": true,
+    "source_quote": false,
+    "source_video": false,
+    "source_image_description": "Chinese IT Home news excerpt citing CNBC and Bank of America CEO Brian Moynihan. No new graphic is needed; use the English reporting link card.",
+    "primary_reporting_read": "CNBC article read in the authenticated built-in browser; web fetch failed but browser access succeeded.",
+    "facts": "Moynihan told CNBC that 1,000 contractors joined in Q2 and were still working alongside 3,000 internal staff at the October 14 interview. Work covered internal and vendor software. No count of vulnerabilities inferred.",
+    "omitted": "Combined remediation and AML expense figure is not a Mythos-only cost. No claim about net job creation, exclusive manual patching, or specific Mythos version.",
+    "editorial_comment": "Triage, fixes, testing and safe deployment are commentary on remediation work, not a claim to have tested the bank's systems.",
+    "live_account_verified": true,
+    "full_copy_accepted": true,
+    "post_button_enabled": true,
+    "native_link_card_rendered": true
+  },
+  "authorization": "Preparation authorized by bare-link workflow. Final content approval remains required by AGENTS.md.",
+  "submitted": false,
+  "published_url": null
+}
