@@ -1,0 +1,7 @@
+AI is creating work in a very literal way here.
+
+Bank of America added 1,000 contractors in Q2 to help patch software flaws exposed by models including Anthropic’s Mythos, CEO Brian Moynihan told CNBC. They’re still working alongside 3,000 internal staff.
+
+Finding a vulnerability starts a whole chain of work: triage, fixes, testing and safe deployment. AI can make old security debt much harder to ignore.
+
+https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html
