@@ -1,0 +1,27 @@
+{
+  "verified_at": "2026-10-15T04:27:11.752776+00:00",
+  "actual_url": "https://x.com/LeoGuoLabs/status/2110587217890439299",
+  "account": "@LeoGuoLabs",
+  "published_time_display": "12:23 PM · Oct 15, 2026",
+  "timezone": "Asia/Singapore",
+  "format": "standalone",
+  "visible_body": "If you use AI at work but still feel lost when the conversation turns to data, models or choosing a project, Andrew Ng’s AI For Everyone is a useful place to start.\n\nFour modules cover what AI can and can’t do, how projects get built, how companies adopt it, and the social implications. It’s non-technical and self-paced; Coursera currently estimates about 7 hours.\n\nThe part I’d pay attention to: choosing a problem worth solving and knowing what to ask the team building it. That’s useful well beyond the next model release.",
+  "body_exact_match": true,
+  "link_rendering": "X renders the approved trailing URL as the native Coursera card rather than repeating it in the visible body.",
+  "public_short_link": "https://t.co/rzii4gk3OF",
+  "resolved_link": "https://www.coursera.org/learn/ai-for-everyone",
+  "resolved_page_title": "AI For Everyone | Coursera",
+  "card_title": "AI For Everyone",
+  "native_card_count": 1,
+  "native_card_visually_verified": true,
+  "uploaded_media_count": 0,
+  "quote_target": null,
+  "queue_check": {
+    "target_post_absent": true,
+    "unrelated_scheduled_posts_untouched": true
+  },
+  "screenshots": [
+    "output/ai-for-everyone-course/published-page.jpg",
+    "output/ai-for-everyone-course/published-post.jpg"
+  ]
+}

@@ -3,7 +3,7 @@
   "original_target": null,
   "format": "standalone",
   "account": "@LeoGuoLabs",
-  "state": "scheduled",
+  "state": "publicly_verified",
   "prepared_at": "2026-10-15T01:58:01.814757+00:00",
   "final_text_path": "output/ai-for-everyone-course/post.txt",
   "final_text": "If you use AI at work but still feel lost when the conversation turns to data, models or choosing a project, Andrew Ng’s AI For Everyone is a useful place to start.\n\nFour modules cover what AI can and can’t do, how projects get built, how companies adopt it, and the social implications. It’s non-technical and self-paced; Coursera currently estimates about 7 hours.\n\nThe part I’d pay attention to: choosing a problem worth solving and knowing what to ask the team building it. That’s useful well beyond the next model release.\n\nhttps://www.coursera.org/learn/ai-for-everyone",
@@ -34,8 +34,8 @@
     "approved_instruction": "确认，请在10分钟后发布",
     "approved_at_observed_utc": "2026-10-15T04:12:41Z"
   },
-  "actual_url": null,
-  "next_step": "After the scheduled time, find and reopen the actual published URL; verify account, complete approved copy and Coursera card before setting publicly_verified. Check for an existing post before any retry.",
+  "actual_url": "https://x.com/LeoGuoLabs/status/2110587217890439299",
+  "next_step": null,
   "schedule": {
     "provider": "X native scheduler",
     "scheduled_at": "2026-10-15T12:23:00+08:00",
@@ -50,6 +50,17 @@
   "followup": {
     "automation_id": "ai-for-everyone",
     "purpose": "One-time public verification",
-    "intended_at": "2026-10-15T12:24:00+08:00"
+    "intended_at": "2026-10-15T12:24:00+08:00",
+    "completed_at": "2026-10-15T04:27:11.752776+00:00",
+    "result": "Public page verified; one-time follow-up complete."
+  },
+  "public_verification": {
+    "verified_at": "2026-10-15T04:27:11.752776+00:00",
+    "evidence_path": "output/ai-for-everyone-course/public-verification.json",
+    "published_time_display": "12:23 PM · Oct 15, 2026",
+    "approved_body_exact_match": true,
+    "official_link_resolved": true,
+    "native_card_verified": true,
+    "scheduled_item_removed": true
   }
 }
