@@ -30,7 +30,8 @@
     "native_quote_card_verified": true,
     "composer_characters_remaining": 24524,
     "screenshot": "composer-review-v2.jpg",
-    "note": "Displayed wording and composer counter match the complete 476-character revision. Native Quote target unchanged. Post button enabled; not submitted."
+    "note": "Preparation checks passed for the complete 476-character revision. Publication subsequently verified; see publication_verification.",
+    "account_reverified_before_submission": true
   },
   "research": {
     "primary_source": "Selected Elon Musk post verified live in authenticated browser.",
@@ -40,12 +41,35 @@
     "sdd_reference": "https://github.com/github/spec-kit/blob/main/docs/concepts/sdd.md",
     "sdd_finding": "Official Spec Kit documentation describes intent-driven development, rich specifications and multi-step refinement. The claim that this grows in importance with less human code reading is editorial judgment."
   },
-  "state": "pending_approval",
-  "approval": null,
-  "published_url": null,
-  "review_rule": "Final content approval required by AGENTS.md; no publication submitted.",
+  "state": "publicly_verified",
+  "approval": {
+    "user_message": "确认发布",
+    "revision": 2,
+    "recorded_at": "2026-10-15T03:57:12.813144+00:00"
+  },
+  "published_url": "https://x.com/LeoGuoLabs/status/2110580743940518102",
+  "review_rule": "User approved the complete revision 2 with 确认发布; publish exactly that text and native Quote target.",
   "revision": 2,
   "updated_at": "2026-10-15T03:44:28.985816+00:00",
   "revision_request": "Add why Spec-Driven Development matters: clear written specifications that humans can read.",
-  "previous_text_file": "post-en-v1.txt"
+  "previous_text_file": "post-en-v1.txt",
+  "submission": {
+    "submitted_at": "2026-10-15T03:57:34.844392+00:00",
+    "ui_confirmation": "Your post was sent. You have 1 hour to make any edits.",
+    "url_discovered_on": "Authenticated @LeoGuoLabs profile timeline"
+  },
+  "publication_verification": {
+    "verified_at": "2026-10-15T03:59:12.254410+00:00",
+    "url": "https://x.com/LeoGuoLabs/status/2110580743940518102",
+    "account": "@LeoGuoLabs",
+    "format": "native_quote",
+    "exact_text_match": true,
+    "characters": 476,
+    "displayed_timestamp": "2026-10-15 11:57 Asia/Singapore",
+    "quote_target": "https://x.com/elonmusk/status/2110567668810121295",
+    "quote_target_verified_by": "Clicked the native quote card from the published page and confirmed the destination URL, then returned.",
+    "attachment_count": 0,
+    "screenshot": "published-verification.jpg",
+    "method": "Reopened actual published URL in authenticated built-in browser; inspected full public text and native quote card."
+  }
 }
