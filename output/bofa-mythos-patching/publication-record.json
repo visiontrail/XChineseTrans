@@ -4,7 +4,7 @@
   "account": "@LeoGuoLabs",
   "format": "standalone",
   "quote_target": null,
-  "state": "pending_approval",
+  "state": "publicly_verified",
   "text_file": "post.txt",
   "media_attachments": [],
   "native_link_card": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
@@ -24,9 +24,21 @@
     "post_button_enabled": true,
     "native_link_card_rendered": true
   },
-  "authorization": "Preparation authorized by bare-link workflow. Final content approval remains required by AGENTS.md.",
-  "submitted": false,
-  "published_url": null,
+  "authorization": "User explicitly approved revision 2: 确认发布. Published unchanged.",
+  "submitted": true,
+  "published_url": "https://x.com/LeoGuoLabs/status/2110739576990179802",
   "revision": 2,
-  "revision_request": "Lighter tone: react to AI creating new jobs; remove serious engineering analysis."
+  "revision_request": "Lighter tone: react to AI creating new jobs; remove serious engineering analysis.",
+  "published_at": "2026-10-15T22:28:00+08:00",
+  "public_verification": {
+    "account": "@LeoGuoLabs",
+    "complete_approved_text": true,
+    "format": "standalone",
+    "native_link_card": true,
+    "card_title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
+    "card_domain": "cnbc.com",
+    "public_link": "https://t.co/nxepxf4g8V",
+    "screenshot": "published-verified.jpg",
+    "video": "not applicable: article link card, no video attachment"
+  }
 }
