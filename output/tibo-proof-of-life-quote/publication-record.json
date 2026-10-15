@@ -1,0 +1,26 @@
+{
+  "source": "https://x.com/thsottiaux/status/2110591392691159317",
+  "quote_target": "https://x.com/thsottiaux/status/2110591392691159317",
+  "format": "quote",
+  "account": "@LeoGuoLabs",
+  "text": "Glad you’re alive, Tibo, but “still breathing” doesn’t count as today’s update—reset button, please 😂",
+  "media": {
+    "native_quote_images": 1,
+    "videos": 0,
+    "extra_attachments": []
+  },
+  "state": "pending_approval",
+  "authorization": "Final content review required by project instructions. Not submitted.",
+  "prepared_at": "2026-10-15T04:49:00.474625+00:00",
+  "checks": {
+    "source_read_live": true,
+    "source_text": "I made it alive",
+    "source_image_inspected": true,
+    "absence_context": "Theo parent post says over 24 hours without posting.",
+    "reset_context": "User supplied 28-day daily improvement or reset premise; prior project record codex-28-day-weekend-quote corroborates previous related joke.",
+    "account_verified_live": true,
+    "composer_full_text_verified": true,
+    "review_screenshot": "review.png"
+  },
+  "url": null
+}
