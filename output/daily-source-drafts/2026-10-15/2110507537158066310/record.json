@@ -1,0 +1,62 @@
+{
+  "singapore_date": "2026-10-15",
+  "batch": "10:00",
+  "draft_id": "2110507537158066310",
+  "title": "Grok Bot：用邮箱别名选择工作流",
+  "source_urls": [
+    "https://x.com/dotey/status/2110507537158066310"
+  ],
+  "source_ids": [
+    "2110507537158066310",
+    "2110496237241667621"
+  ],
+  "primary_source_urls": [
+    "https://x.com/SamSokolin/status/2110496237241667621",
+    "https://x.ai/bot",
+    "https://x.ai/changelog/bot#v0.70.2"
+  ],
+  "topic_key": "grok-bot-plus-alias-routing",
+  "format": "native_quote",
+  "quote_target_url": "https://x.com/SamSokolin/status/2110496237241667621",
+  "package_path": "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-15/2110507537158066310",
+  "text_path": "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-15/2110507537158066310/post-en-v1.txt",
+  "media_paths": [],
+  "source_media_paths": [
+    "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-15/2110507537158066310/source/grok-plus-aliases-reference.png"
+  ],
+  "source_reference_library_file_id": "libfile_f1fa7643d11c81918f573387a07232cb",
+  "source_reference_file_id": "file_00000000bf6481fd99fe2c2ec707add8",
+  "source_media_sha256": "f4e663919c13c758f3b5797450538ed5b6ef131c13c43d8f33e8d54f2f6e5f1b",
+  "media_required": true,
+  "media_handling": "retain_native_quote_media; reference_attachment_for_private_review_only",
+  "media_inspection_complete": true,
+  "verification_state": "official_product_identity_verified; primary_builder_alias_announcement_verified; proposed_use_cases_not_tested",
+  "preparation_state": "ready",
+  "delivery_state": "delivered_for_review",
+  "publication_state": "publicly_verified",
+  "approval_state": "approved",
+  "git_state": "included_in_scoped_publication_commit",
+  "long_post_permission": "live_quote_composer_accepted_453_characters; 24547_remaining; enabled_post_button",
+  "created_at": "2026-10-15T02:05:17.075742+00:00",
+  "delivered_at": "2026-10-15T02:08:09.718598Z",
+  "delivery_message_id": "Sentinel_56717384fed8819189891ff632ebbe64",
+  "reference_image_message_id": "Sentinel_adc6c77ee50c8191ac48b304c449a082",
+  "reference_image_delivered_at": "2026-10-15T02:08:10.513891Z",
+  "published_url": "https://x.com/LeoGuoLabs/status/2110555737961140432",
+  "published_account": "@LeoGuoLabs",
+  "approval_message_id": "Sentinel_a721af04e6a48191afb88de3db469172",
+  "approved_review_message_id": "Sentinel_56717384fed8819189891ff632ebbe64",
+  "approval_text": "确认发布",
+  "verified_at": "2026-10-15T02:19:25.991199+00:00",
+  "final_text_path": "output/daily-source-drafts/2026-10-15/2110507537158066310/post-en-final.txt",
+  "final_text_sha256": "51e269268ccefb837d74ed9d39be87d5f2eeac4bfa942ec6cc3887689bc0c288",
+  "public_verification": {
+    "account": true,
+    "exact_approved_body": true,
+    "native_quote": true,
+    "quote_target": "https://x.com/SamSokolin/status/2110496237241667621",
+    "quoted_image_count": 1,
+    "image_rendered": true,
+    "separate_upload_count": 0
+  }
+}

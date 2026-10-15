@@ -1,0 +1,5 @@
+Your bot shouldn't need to guess which workflow every email belongs to.
+
+Grok Bot now supports plus aliases and routines triggered by a specific alias. You could send newsletters to +news and travel confirmations to +travel, then give each a different job: summarize the reading pile, or pull out the itinerary details.
+
+The useful bit is choosing the workflow before the message even arrives. The address handles routing; the model handles the content.
