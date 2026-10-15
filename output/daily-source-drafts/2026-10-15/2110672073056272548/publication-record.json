@@ -1,0 +1,25 @@
+{
+  "account": "@LeoGuoLabs",
+  "format": "native_quote",
+  "published_url": "https://x.com/LeoGuoLabs/status/2110703158490014086",
+  "quote_target_url": "https://x.com/ItsmeAjayKV/status/2110669258736930901",
+  "approved_version": 2,
+  "final_text_file": "post-en-v2.txt",
+  "final_text_sha256": "c742be1d987f045136a11ac6e10fa11b0ef1eb768b2d213fc698e148833aca94",
+  "published_at": "2026-10-15T12:03:37Z",
+  "verified_at": "2026-10-15T12:05:34.503612+00:00",
+  "publication_state": "published_and_publicly_verified",
+  "approval": "User explicitly confirmed publication of the reviewed v2",
+  "verification": {
+    "account": true,
+    "full_approved_text": true,
+    "paragraphs": true,
+    "native_quote_target": true,
+    "original_image_retained": true,
+    "official_url_redirect": true,
+    "long_post_accepted": true,
+    "separate_media_upload": false
+  },
+  "official_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+  "source_image_handling": "Retained natively in original Quote; private reference image excluded from Git because rights are unknown."
+}

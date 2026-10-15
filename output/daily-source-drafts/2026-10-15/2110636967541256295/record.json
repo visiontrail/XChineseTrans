@@ -1,0 +1,56 @@
+{
+  "singapore_date": "2026-10-15",
+  "batch": "16:00",
+  "draft_id": "2110636967541256295",
+  "title": "OpenCode：限时免费 DeepSeek，先选对模型再比较",
+  "topic_key": "opencode-deepseek-v41-flash-free-oct15",
+  "source_urls": [
+    "https://x.com/leo114119/status/2110636967541256295"
+  ],
+  "source_ids": [
+    "2110636967541256295",
+    "2110635747648909472"
+  ],
+  "primary_source_urls": [
+    "https://x.com/opencode/status/2110635747648909472",
+    "https://opencode.ai/v2/docs/console/models/"
+  ],
+  "format": "native_quote",
+  "quote_target_url": "https://x.com/opencode/status/2110635747648909472",
+  "package_path": "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-15/2110636967541256295",
+  "text_path": "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-15/2110636967541256295/post-en-v2.txt",
+  "media_paths": [],
+  "source_media_paths": [],
+  "media_required": false,
+  "media_inspection_complete": true,
+  "source_original_language_read": true,
+  "verification_state": "official_announcement_and_model_catalog_verified; comparison_advice_editorial_not_tested",
+  "preparation_state": "ready",
+  "delivery_state": "delivered_for_review",
+  "approval_state": "approved",
+  "publication_state": "published_verified",
+  "git_state": "ready_for_scoped_commit",
+  "long_post_permission": "verified_live_composer",
+  "created_at": "2026-10-15T08:07:00.794310+00:00",
+  "character_count": 554,
+  "delivered_at": "2026-10-15T08:07:39.194569Z",
+  "delivery_message_id": "Sentinel_5ca7913450308191b0942ce054027b85",
+  "current_version": 2,
+  "revision_request_message_id": "Sentinel_c53839e9f5048191ad6ac29dc4ea55f2",
+  "revision_ack_message_id": "Sentinel_d0d154b3206481918500ae9a3897129c",
+  "revision_summary": "Append official models documentation URL only; native Quote target unchanged",
+  "approval_message_id": "Sentinel_d643d340d1f081919d33aca958679baf",
+  "submitted_at": "2026-10-15T08:14:37Z",
+  "submission_confirmation": "X displayed: Your post was sent. You have 1 hour to make any edits.",
+  "published_url": "https://x.com/LeoGuoLabs/status/2110645506384794103",
+  "published_at": "2026-10-15T08:14:33Z",
+  "verified_at": "2026-10-15T08:16:40Z",
+  "account": "LeoGuoLabs",
+  "verification_checks": {
+    "full_approved_v2_text": true,
+    "official_documentation_url": true,
+    "native_quote_target_opened_and_matched": true,
+    "no_media": true,
+    "live_account": true
+  }
+}

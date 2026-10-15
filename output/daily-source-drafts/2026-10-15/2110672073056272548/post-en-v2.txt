@@ -1,0 +1,7 @@
+If Nemotron 3.5 Bolt E4B can run well locally on a phone, what would you actually use it for?
+
+NVIDIA lists E4B 4GB for October 23, while the larger 74B-A9B 24GB model is scheduled for October 15. That 4GB figure alone doesn't establish usable phone performance.
+
+I won't be rushing to try it. I don't yet have a useful application for a local model on my phone. If you've found one that earns its place in your daily routine, I'd like to hear it.
+
+https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/

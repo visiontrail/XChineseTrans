@@ -1,0 +1,7 @@
+DeepSeek V4.1 Flash is free in OpenCode for a limited time. One detail worth checking before you start: select deepseek-v4.1-flash-free. The regular model is still listed separately with paid pricing.
+
+A useful way to try it: give it and your usual model the same small bug, the same starting code and a failing test. Compare the patches, regressions and how much steering each needs.
+
+Free tokens make that comparison cheaper. The result that matters is how much work remains before you can trust the change.
+
+https://opencode.ai/v2/docs/console/models/

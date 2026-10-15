@@ -1,0 +1,9 @@
+DeepSeek is compensating for its October 15 API outage with account credit equal to API spending from October 8–14, according to the notice shared by its product-team member Tianyi Cui. The credit is automatic and gets used before the paid balance.
+
+The official status page marks the incident resolved. The announced disruption ran from 08:11 to 13:04 Beijing time.
+
+For an app that depends on the API, this is a useful moment to check what happens after a timeout. If a workflow already sent an email or changed a record before the next model call failed, restarting the entire job can repeat that action.
+
+Keep track of completed steps, make side effects safe to retry, and put a limit on retries. A fallback model helps with availability; your workflow still needs to know where it can safely resume.
+
+https://status.deepseek.com/incidents/7116348214287

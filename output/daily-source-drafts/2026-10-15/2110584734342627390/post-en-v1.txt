@@ -1,0 +1,11 @@
+ByteDance Seed has created an Alignment & Preparedness team and plans to recruit 10 researchers globally.
+
+The interesting part is the remit: safety training across pretraining, midtraining, supervised fine-tuning and reinforcement learning; automated attack-and-defense between models; monitoring, blocking and attributing unknown risks; and external testing.
+
+Seed says this research should feed into training, evaluation and deployment.
+
+For anyone building an agent system, that raises a practical question: when a new failure is found, does it become a regression test, change a deployment decision, or trigger a clear intervention?
+
+That’s the evidence I’d look for next: a documented path from finding a failure to changing the system.
+
+https://seed.bytedance.com/zh/blog/seed-alignment-preparedness-team-looking-for-global-talents
