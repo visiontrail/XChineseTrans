@@ -1,0 +1,49 @@
+{
+  "source_url": "https://x.com/ameliax111/status/2110559205115736380",
+  "source_author": "Ameliayu 余一 (@ameliax111)",
+  "source_published_at_displayed": "2026-10-15 10:31 Asia/Singapore",
+  "source_original_text": "昨天在 office 听到最疯的一句话是，我好想去卫生间啊，但是我得给 agent 下个指令，要不然时间浪费了。😂",
+  "source_checked_at": "2026-10-15T03:55:11Z",
+  "source_checks": {
+    "method": "Authenticated X page in Codex built-in browser; Show original selected",
+    "full_original_text_read": true,
+    "quoted_post": null,
+    "attached_media": [],
+    "relevant_author_reply": {
+      "url": "https://x.com/ameliax111/status/2110570533410451795",
+      "text": "肯定都有，是我们技术弟弟，所以才觉得疯",
+      "context": "The author responds to a question about setting up a loop. The adaptation does not assert that a loop was missing."
+    },
+    "duplicate_check": "No matching source ID or bathroom topic found in output text, Markdown, or JSON records",
+    "claim_scope": "A humorous adaptation of the reported anecdote, not a first-person experience or measured productivity claim; no external technical verification needed"
+  },
+  "destination_account": "@LeoGuoLabs",
+  "format": "standalone",
+  "format_reason": "Source is a text-only post with no relevant quoted original",
+  "quote_target": null,
+  "final_text_path": "post.txt",
+  "final_text": "AI agents have introduced a new kind of productivity anxiety: “I need the bathroom, but let me queue one more task first.” 😂\n\nEven your bladder has a dependency now.",
+  "media": [],
+  "alt": [],
+  "preparation_checks": {
+    "account_verified_live": "@LeoGuoLabs",
+    "composer_checked": true,
+    "text_accepted": true,
+    "screenshot_path": "composer-preview.jpg",
+    "complete_text_matches_saved_draft": true,
+    "post_button_enabled": true,
+    "uncropped_screenshot_path": "composer-original.jpg",
+    "browser": "Codex built-in browser",
+    "checked_at": "2026-10-15T03:58:32.425826+00:00",
+    "recovery": "Compose modal and home initially stalled; a fresh built-in tab eventually loaded. Existing drafts in other browser tabs were not touched."
+  },
+  "state": "pending_approval",
+  "review_authorization": {
+    "required": true,
+    "approved": false,
+    "direct_publish_waiver": false
+  },
+  "submitted": false,
+  "published_url": null,
+  "publicly_verified": false
+}
