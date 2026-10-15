@@ -1,0 +1,6 @@
+Google AI Plus is losing the option to select Gemini Pro models.
+
+Google’s official change notice says Plus will retain Flash-Lite and Flash, while selecting Pro will require Google AI Pro or Ultra. November 13, 2026 is the date in subscriber emails reported by 9to5Google; Google’s public notice tells Plus members to check their own email for timing.
+
+Official details: https://support.google.com/gemini/answer/17004136?hl=en
+Reported email: https://9to5google.com/2026/10/14/gemini-ai-plus-loses-pro-november/

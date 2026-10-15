@@ -1,0 +1,33 @@
+{
+  "account": "@LeoGuoLabs",
+  "format": "standalone_text_only",
+  "approved_version": "v2",
+  "final_text_file": "post-en-v2.txt",
+  "text_sha256": "939ae3c3fdd4e25afb219023df26013e8e68ccace1d7f035e0b9b4a9cafa732a",
+  "character_count": 512,
+  "media": [],
+  "quote_target": null,
+  "approval_message_id": "Sentinel_290f5d44f8d88191902587a74b0ff26e",
+  "review_message_id": "Sentinel_764d06a608d0819199f1d7ca680f6c96",
+  "publication_state": "published_and_verified",
+  "published_url": "https://x.com/LeoGuoLabs/status/2110756619663417563",
+  "published_at_utc": "2026-10-15T15:36:09Z",
+  "verified_at_utc": "2026-10-15T15:36:42Z",
+  "verification": {
+    "account_checked": true,
+    "full_body_matches_approved": true,
+    "both_source_links_present": true,
+    "composer_accepted_full_text": true,
+    "composer_characters_remaining": 24565,
+    "submitted_once": true,
+    "actual_public_url_reopened": true,
+    "no_quote": true,
+    "no_uploaded_media": true,
+    "deduplication": "Recent profile inspected before publication; no duplicate Gemini brief found. Earlier October 4 comparison is a separate development."
+  },
+  "source_urls": [
+    "https://support.google.com/gemini/answer/17004136?hl=en",
+    "https://9to5google.com/2026/10/14/gemini-ai-plus-loses-pro-november/"
+  ],
+  "archive_scope": "Approved v2 text, source-verification research, and real publication result only."
+}
