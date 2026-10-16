@@ -1,0 +1,71 @@
+{
+  "singapore_date": "2026-10-16",
+  "batch": "10:00",
+  "draft_id": "2110787582808441277",
+  "title": "Muse Spark Open: active parameters versus deployment memory",
+  "topic_key": "muse-spark-open-release-hardware-oct15",
+  "source_urls": [
+    "https://x.com/dotey/status/2110787582808441277"
+  ],
+  "source_ids": [
+    "2110787582808441277"
+  ],
+  "primary_source_urls": [
+    "https://x.com/AIatMeta/status/2110779754274292212",
+    "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
+    "https://huggingface.co/docs/transformers/en/model_doc/muse_spark"
+  ],
+  "format": "native_quote",
+  "quote_target_url": "https://x.com/AIatMeta/status/2110779754274292212",
+  "package_path": "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-16/2110787582808441277",
+  "text_path": "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-16/2110787582808441277/post-en-v4.txt",
+  "review_path": "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-16/2110787582808441277/review-zh-v4.md",
+  "media_paths": [],
+  "source_media_paths": [
+    "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-16/2110787582808441277/source/meta-official-cover.jpg",
+    "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-16/2110787582808441277/source/meta-official-benchmarks.jpg"
+  ],
+  "media_required": true,
+  "media_inspection_complete": true,
+  "source_original_language_read": true,
+  "source_media_inspection_complete": true,
+  "preparation_state": "ready",
+  "verification_state": "official_quote_chain_model_card_license_and_images_verified",
+  "delivery_state": "delivered_pending_review",
+  "approval_state": "approved",
+  "publication_state": "live_verified",
+  "git_state": "ready_for_scoped_commit",
+  "long_post_permission": "verified_composer_25000_limit",
+  "created_at": "2026-10-16T02:11:35.042060+00:00",
+  "character_count": 1764,
+  "reference_attachments": [
+    {
+      "library_file_id": "libfile_fcb381c739088191aa0c69b9a427a724",
+      "file_id": "file_000000001fd481f5bbcb34413b68f6f3",
+      "role": "official cover reference"
+    },
+    {
+      "library_file_id": "libfile_f02ac4049e1c81918bec6f3aeadcf01d",
+      "file_id": "file_000000006f1081f5b64579356b5bbd6d",
+      "role": "official benchmark reference"
+    }
+  ],
+  "delivery_message_id": "Sentinel_3f50e46fdf4081918fbbad4b64fd1879",
+  "delivered_at": "2026-10-16T02:16:04.436344Z",
+  "reference_image_message_id": "Sentinel_6870e2778f348191b8c8dd080fa5bf90",
+  "reference_image_delivered_at": "2026-10-16T02:16:05.992304Z",
+  "current_version": "v4",
+  "revision_message_id": "Sentinel_667654a04f948191b7f68378810b0332",
+  "revised_at": "2026-10-16T02:42:14.615535+00:00",
+  "revision_delivery_state": "delivered_pending_review",
+  "revision_message_ids": [
+    "Sentinel_a70a18b45bcc8191b929292df7e82a45",
+    "Sentinel_667654a04f948191b7f68378810b0332"
+  ],
+  "revision_delivery_message_id": "Sentinel_95f88022d2cc8191950d2fbc1d4493bd",
+  "revision_delivered_at": "2026-10-16T02:42:54.552753Z",
+  "approval_message_id": "Sentinel_4735cbf55a908191b1dc7995c31ff07b",
+  "publication_url": "https://x.com/LeoGuoLabs/status/2110925664341926194",
+  "published_post_id": "2110925664341926194",
+  "verified_at": "2026-10-16T02:49:34.739474+00:00"
+}

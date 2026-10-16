@@ -1,0 +1,20 @@
+{
+  "account": "@LeoGuoLabs",
+  "publication_url": "https://x.com/LeoGuoLabs/status/2110925664341926194",
+  "post_id": "2110925664341926194",
+  "format": "native_quote",
+  "quote_target_url": "https://x.com/AIatMeta/status/2110779754274292212",
+  "approved_text_file": "post-en-v4.txt",
+  "approved_text_sha256": "9ea0747e90c751e9fe9f5b9f19951b9b9ddab4f4da0502b1302e0269add1a87d",
+  "approval_message_id": "Sentinel_4735cbf55a908191b1dc7995c31ff07b",
+  "verified_at": "2026-10-16T02:49:34.739474+00:00",
+  "verification": {
+    "full_body": true,
+    "all_three_reference_links": true,
+    "native_quote_target": true,
+    "two_official_images_in_quote": true,
+    "new_media_uploaded": false
+  },
+  "submitted_once": true,
+  "submission_observed_utc": "2026-10-16T02:47:47Z"
+}

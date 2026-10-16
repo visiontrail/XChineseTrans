@@ -1,0 +1,16 @@
+[
+  {
+    "name": "meta-official-cover.jpg",
+    "bytes": 679433,
+    "sha256": "2035bb1ba217f9cacfb3c1024d0d33da28d24daa868990d5e468f2ec890c90b0",
+    "credit": "AI at Meta / Meta",
+    "use": "private review reference; preserve native Quote media"
+  },
+  {
+    "name": "meta-official-benchmarks.jpg",
+    "bytes": 453355,
+    "sha256": "95710313df56acdeb401b737bea15ce578dc20e9d3f52c7dcb880c767cd0fa70",
+    "credit": "AI at Meta / Meta",
+    "use": "private review reference; preserve native Quote media"
+  }
+]
