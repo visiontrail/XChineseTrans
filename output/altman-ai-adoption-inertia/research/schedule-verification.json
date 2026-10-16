@@ -1,0 +1,15 @@
+{
+  "checkedAtUtc": "2026-10-16T11:37:19.467Z",
+  "account": "@LeoGuoLabs",
+  "approvedText": "Sam Altman expected GPT-4 to disrupt software businesses much faster. He underestimated how strongly people stick with familiar tools and suppliers.\n\nI think that’s a useful challenge for AI builders: make one everyday task easier without asking people to redesign their whole workday. Give them a reason to use it again tomorrow.",
+  "exactTextMatch": true,
+  "scheduledPacific": "2026-10-16T12:00:00-07:00",
+  "scheduledSingapore": "2026-10-17T03:00:00+08:00",
+  "scheduledUtc": "2026-10-16T19:00:00Z",
+  "xSchedulerTimezone": "Singapore Standard Time",
+  "queueUrl": "https://x.com/compose/post/unsent/scheduled",
+  "queueEntry": "Will send on Sat, Oct 17, 2026 at 3:00 AM\nhttps://x.com/vikktorrrre/status/2110821312318865692\nSam Altman expected GPT-4 to disrupt software businesses much faster. He underestimated how strongly people stick with familiar tools and suppliers.\n\nI think that’s a useful challenge for AI builders: make one everyday task easier without asking people to redesign their whole wor...",
+  "quoteTarget": "https://x.com/vikktorrrre/status/2110821312318865692",
+  "state": "scheduled_queue_verified",
+  "publiclyVerified": false
+}
