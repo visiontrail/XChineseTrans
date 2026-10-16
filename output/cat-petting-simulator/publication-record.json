@@ -6,10 +6,10 @@
   "account": "@LeoGuoLabs",
   "format": "native_quote",
   "format_reason": "User requested original author or mention; direct Quote of original publisher with @gmi_cloud in commentary.",
-  "state": "pending_approval",
-  "approved": false,
-  "published_url": null,
-  "text": "GPT-6 Astra finished nearly 3× faster in @gmi_cloud's test. But looking at these two cat-petting simulators, Gemini 4 Argon is the one I'd want to play with.\n\nAlso, why does GPT-6's arm look like a tree branch with fingers?",
+  "state": "publicly_verified",
+  "approved": true,
+  "published_url": "https://x.com/LeoGuoLabs/status/2110910324983636220",
+  "text": "GPT-6 Astra finished nearly 3× faster in @gmi_cloud's test. But looking at these two cat-petting simulators, Gemini 4 Argon is the one I'd want to play with.\n\nAlso, did GPT-6 build that entire arm and hand out of sticks?",
   "media": {
     "path": "original-video.mp4",
     "url": "https://video.twimg.com/amplify_video/2110531558918791168/vid/avc1/1920x2400/fh2az1YcXgDsuuvc.mp4?tag=29",
@@ -40,15 +40,29 @@
     "account_live_verified": true,
     "composer_exact_text_accepted": true,
     "native_quote_target_verified": true,
-    "composer_screenshot": "composer-review-v2.png",
+    "composer_screenshot": "approved-composer-v3.png",
     "browser": "Built-in X stuck loading; authenticated Ego Lite fallback succeeded.",
     "preview_url": "http://172.16.10.59:8766/review.html",
     "preview_http": 200,
     "remote_phone_playback_tested": false,
-    "x_draft_saved": true,
+    "x_draft_saved": false,
     "input_note": "Reopening v1 found native input punctuation had not persisted. Replaced full text using browser locator fill, including corrected @gmi_cloud and multiplication sign.",
-    "persisted_draft_text_verified": true
+    "persisted_draft_text_verified": true,
+    "public_account": "@LeoGuoLabs",
+    "public_text_matches_approved": true,
+    "public_quote_original_publisher": "@gmi_cloud",
+    "public_video_count": 1,
+    "public_playback": "Advanced from 14.375201 to 32.86605 seconds, readyState 4, paused false, no error",
+    "public_screenshot": "public-post.png",
+    "public_evidence": [
+      "public-page.txt",
+      "public-playback.json"
+    ],
+    "draft_consumed_by_publication": true
   },
-  "review_authorization": "Final publication approval required by project AGENTS.md; no submission performed.",
-  "revision": "v2: user requested a joke about the stick-like GPT-6 hand"
+  "review_authorization": "User explicitly confirmed publication after v3 wording: Also, did GPT-6 build that entire arm and hand out of sticks?",
+  "revision": "v3: whole arm and hand joke explicitly approved",
+  "approved_at_utc": "2026-10-16T01:46:30.706840+00:00",
+  "submission_clicked_at_utc": "2026-10-16T01:47:01.623162+00:00",
+  "verified_at_utc": "2026-10-16T01:48:35.280292+00:00"
 }
