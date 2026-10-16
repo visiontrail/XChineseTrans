@@ -2,7 +2,7 @@
 
 ## Purpose and the link-only default
 
-Turn source material about technology, AI, and engineering into publication-ready English content for **@LeoGuoLabs**. The user should be able to send an X link without repeating their editorial, media, browser, and delivery preferences.
+Turn source material about technology, AI, and engineering into publication-ready English content for **@LeoGuoLabs**. The project covers short posts, long posts, and complete articles; it is not limited to tweet-length formats. The user should be able to send an X link without repeating their editorial, media, browser, and delivery preferences.
 
 **A bare X link starts the complete preparation workflow:** read the actual post and relevant context, identify its point and media, trace primary sources, verify important claims, adapt the writing, prepare the appropriate English visuals and original videos, and return one concrete publication-ready result for review. Do not respond with only a summary, a literal translation, a menu of services, or “what would you like me to do with this?”
 
@@ -26,7 +26,8 @@ Apply these project defaults after higher-priority instructions. Within the user
 | “尊重原创，带上原帖”; “找到原帖就 quote” | Preserve the original post through native Quote Post, including its media. |
 | “找原视频” | Trace and freshly download the actual source video. This alone does not change standalone versus Quote format. |
 | “重新生成图片”; “按照之前那张图” | Prepare new English visuals in LeoGuoLabs Light v1, preserving the requested comparison structure and updating the underlying facts. |
-| “文章”; “完整指南”; “详细一点” | Prepare a coherent English article with useful illustrations or genuine screenshots. Choose the publication surface from context; verify X Article support when publication is requested. |
+| “写文章”; “一篇文章”; “文章模式”; “完整指南”; an explicit request for an article | Switch to article-writing mode. Prepare a complete English article with a title, opening, substantive sections, developed reasoning, practical examples, a conclusion, and integrated illustrations. In this project's X context, use native X Articles and verify the live editor. Do not substitute a long post, thread, or expanded caption. |
+| “详细一点”, without an explicit article request | Add useful depth within the established format. Change to article mode when the user explicitly requests an article or the active context already establishes that format. |
 | “仅翻译”; “解释一下”; “先核实”; “只写草稿”; “不要发布” | Perform the specified narrower task. Do not turn a comprehension or verification request into publication. |
 | “翻译成中文让我检查” | Supply Chinese review text; the English publication remains the working version unless the user changes that. |
 | “确认发布”; “发布吧”; “按照这个要求发布” after final text and media were shown | Approval of that concrete version. Publish without repeating the review request. |
@@ -108,6 +109,14 @@ For **Repost or Quote Post**, retain the original post and its native media whil
 ### Original articles and authored videos
 
 Follow explicit requests for full articles, tutorials, demonstrations, or newly authored videos; a link alone does not request an elaborate original production. Reuse established project methods when requested, not an unrelated style or a fixed subject.
+
+**Article-writing mode is a distinct deliverable.** An explicit article request overrides the short-post and long-post defaults. Build an article around a clear central question or argument, with a specific title, an opening that establishes the stakes, a coherent progression of sections, evidence and its relevant limits, concrete examples or a usable method, and a conclusion that follows from the reasoning. Develop the subject in connected prose; do not merely stretch the previous post, stitch together numbered tweets, or turn research notes into a list of summaries. Let the subject determine the length rather than imposing a tweet character limit or an arbitrary word target.
+
+For a requested restart in article mode, revisit the source and create a fresh article structure. Preserve the previous post and its review records as superseded versions, and retain verified research and suitable assets. The article becomes the active deliverable; the earlier post must not remain marked as the version awaiting publication.
+
+Prepare a suitable article cover and place explanatory images at the relevant points in the body. Distinguish the cover from inline figures, keep captions and ALT consistent with the article, and apply LeoGuoLabs Light v1 unless overridden. Use natural, readable links to primary sources for material research claims. Keep production and verification notes outside the public article. Prepare an accompanying launch post only when requested or required by the publishing surface, and include it in the same final review.
+
+In the established X publishing context, check the live **X Articles** editor, prepare the title, cover, rich-text body, headings, inline media, and available accessibility fields, and verify that the complete article is retained. If native Articles are unavailable, report the concrete limitation and still deliver the full article with its illustrations and a readable review preview. Do not silently convert it into a long post or thread. For another explicitly requested destination, follow that destination instead. Existing final-content approval and public-verification rules apply to the article itself; a saved article draft or successful preview is not publication.
 
 For authored videos, use the applicable `video-director` skill and the established sequence: **director brief → shot plan → shared timeline → coordinated motion and sound → inspection and revision → final-film verification**. Deliver an actual playable film. If a methods article is requested, explain a reusable process and the real example; do not substitute a speculative plan or the history of attempts to imitate a reference. Use AI-native prompts and explanatory diagrams when the user asks for that tutorial approach.
 

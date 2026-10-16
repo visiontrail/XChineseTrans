@@ -1,0 +1,22 @@
+[
+  {
+    "file": "00-article-cover-v1.png",
+    "role": "cover",
+    "alt": "Learning With AI After You Close the Chat. A line character reconstructs a diagram on paper beside a closed laptop; a second diagram changes the order of the shapes. Build skill that survives the next problem."
+  },
+  {
+    "file": "01-four-measures-v1.png",
+    "alt": "Four illustrated checks distinguish task completion from learning: finish with AI; rebuild the solution without AI; recall and use it after a delay; choose and adapt the method on a changed problem. A line character works at a laptop, writes independently, returns later and rearranges shapes. A correct answer is only the first check.",
+    "role": "inline"
+  },
+  {
+    "file": "02-two-scoreboards-v1.png",
+    "alt": "Bastani et al., PNAS 2025: nearly 1,000 students at one Turkish high school. Relative to the no-AI group, GPT Base raised assisted math practice scores 48% but lowered subsequent unaided exam scores 17%. GPT Tutor raised practice scores 127%; its exam result did not differ significantly from control. These are percent changes, not percentage points. The short-term exam did not test lasting retention.",
+    "role": "inline"
+  },
+  {
+    "file": "03-fade-help-v2.png",
+    "alt": "Make the help fade. Four line-character scenes suggest: learn a new topic from a worked example; attempt a step and ask for a hint or error diagnosis; hide the answer, explain from memory and correct mistakes; solve a changed problem with AI closed and return later. Measure what you can do on your own.",
+    "role": "inline"
+  }
+]

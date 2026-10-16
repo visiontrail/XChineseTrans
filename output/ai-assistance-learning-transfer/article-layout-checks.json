@@ -1,0 +1,68 @@
+{
+  "desktop": {
+    "images": [
+      {
+        "complete": true,
+        "height": 793,
+        "src": "00-article-cover-v1.png",
+        "width": 1983
+      },
+      {
+        "complete": true,
+        "height": 1402,
+        "src": "01-four-measures-v1.png",
+        "width": 1122
+      },
+      {
+        "complete": true,
+        "height": 1402,
+        "src": "02-two-scoreboards-v1.png",
+        "width": 1122
+      },
+      {
+        "complete": true,
+        "height": 1402,
+        "src": "03-fade-help-v2.png",
+        "width": 1122
+      }
+    ],
+    "overflow": false,
+    "viewport": {
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "mobile": {
+    "images": [
+      {
+        "complete": true,
+        "height": 793,
+        "src": "00-article-cover-v1.png",
+        "width": 1983
+      },
+      {
+        "complete": true,
+        "height": 1402,
+        "src": "01-four-measures-v1.png",
+        "width": 1122
+      },
+      {
+        "complete": true,
+        "height": 1402,
+        "src": "02-two-scoreboards-v1.png",
+        "width": 1122
+      },
+      {
+        "complete": true,
+        "height": 1402,
+        "src": "03-fade-help-v2.png",
+        "width": 1122
+      }
+    ],
+    "overflow": false,
+    "viewport": {
+      "height": 844,
+      "width": 390
+    }
+  }
+}

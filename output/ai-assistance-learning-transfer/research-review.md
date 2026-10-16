@@ -1,5 +1,7 @@
 # AI assistance and learning transfer — review record
 
+> Superseded delivery format: the user requested a restart in article-writing mode on 2026-10-16. This file describes the earlier long-post package. The active deliverable is now `article.md`; see `article-review.md` and the current `publication-record.json`.
+
 Prepared on 2026-10-16 (Asia/Singapore) for @LeoGuoLabs.
 
 ## Source and scope
