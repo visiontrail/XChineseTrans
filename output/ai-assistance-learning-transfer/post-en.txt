@@ -1,0 +1,26 @@
+AI can help you finish a task without teaching you how to do the next one.
+
+Think of a spreadsheet formula: you paste in the fix, follow the explanation, and everything makes sense. Then the data changes. Can you rebuild it with the chat closed?
+
+Four different things are being measured:
+• Performance: can you finish with help?
+• Independence: can you do it without help?
+• Retention: can you still do it later?
+• Transfer: can you adapt the method to a changed problem?
+
+In a randomized study of nearly 1,000 students at a Turkish high school, unrestricted GPT-4 help raised math practice scores by 48%. On the subsequent exam without AI, that group scored 17% below the no-AI group. A tutor using teacher-designed hints largely removed the exam penalty, but did not produce a significant exam gain over the control group.
+
+Those were short-term results. In a separate Harvard physics trial, a carefully structured AI tutor improved immediate learning compared with an active classroom lesson. Assistance design matters; neither study establishes lasting transfer.
+
+My takeaway: protect the part of the task you want to get better at. If AI supplies every decision, explanation and correction, you lose opportunities to practise those moves yourself.
+
+For a new topic, a clear worked example can be a useful starting point. As you gain familiarity, try reducing the help:
+
+1. Make an attempt. Ask for a small hint or a diagnosis of your specific mistake.
+2. Hide the answer. Rebuild the solution and explain why the steps work.
+3. Check your reasoning and correct errors.
+4. Change a constraint, dataset or use case. Solve again without AI, then return to a fresh problem after a delay.
+
+For that spreadsheet, try a missing match or a duplicate key. Can you explain how the formula should behave before you ask AI?
+
+The question I would keep asking: what can I now do with the chat closed?

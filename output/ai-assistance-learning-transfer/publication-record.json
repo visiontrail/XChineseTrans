@@ -1,0 +1,83 @@
+{
+  "title": "When AI Helps You Finish but Not Learn: What Makes Assistance Transfer",
+  "prepared_at": "2026-10-16T14:22:47.612179+08:00",
+  "account": "@LeoGuoLabs",
+  "format": "standalone_long_post",
+  "state": "pending_review",
+  "published_url": null,
+  "source": {
+    "project": "FrontierTechSN",
+    "explainer_id": "exp-8bd965b901ba40b4b734271f",
+    "path": "/Volumes/TP-1TB/WorspacePlus/IslaProject/FrontierTechSN/outputs/explainers/exp-8bd965b901ba40b4b734271f/project.json",
+    "snapshot": "source-explainer.md",
+    "scene_count": 167,
+    "access": "read_only"
+  },
+  "final_text": "post-en.txt",
+  "media_order": [
+    "01-four-measures-v1.png",
+    "02-two-scoreboards-v1.png",
+    "03-fade-help-v2.png"
+  ],
+  "alt_text": "alt-text.json",
+  "research": "research-review.md",
+  "authorization": {
+    "preparation": "User asked for one X post summarizing the named Explainer, with mixed LeoGuoLabs and line-character illustrations.",
+    "publication": "awaiting_final_content_approval"
+  },
+  "checks": {
+    "primary_sources_checked": true,
+    "source_scope_preserved": true,
+    "images_visually_inspected": true,
+    "png_decode_passed": true,
+    "live_account_verified": "@LeoGuoLabs",
+    "full_text_accepted": true,
+    "characters_remaining": 23104,
+    "composer_text_comparison": "matches after normalizing DOM-added blank-line separators",
+    "image_count": 3,
+    "image_processing_complete": true,
+    "alt_saved_and_read_back": true,
+    "post_button_enabled": true,
+    "submitted": false,
+    "browser": "Codex in-app browser",
+    "composer": "https://x.com/compose/post",
+    "review_screenshots": [
+      "composer-review.jpg",
+      "composer-media-review.jpg"
+    ]
+  },
+  "image_generation": {
+    "tool": "built-in imagegen",
+    "prompts": [
+      "image-prompt-01-v1.txt",
+      "image-prompt-02-v1.txt",
+      "image-prompt-03-v1.txt",
+      "image-prompt-03-v2.txt"
+    ],
+    "retained_rejected_versions": [
+      "03-fade-help-v1.png"
+    ]
+  },
+  "files": [
+    {
+      "path": "post-en.txt",
+      "bytes": 1901,
+      "sha256": "f5dab5e3b96ed9bdc37bb61f2738af5f75a0930dc65c363bd04ae2d5e50fda26"
+    },
+    {
+      "path": "01-four-measures-v1.png",
+      "bytes": 1505058,
+      "sha256": "83825e635f51617f84409fd583e995325d95cf78becc91b7cca80fc1bc5b8817"
+    },
+    {
+      "path": "02-two-scoreboards-v1.png",
+      "bytes": 1525382,
+      "sha256": "bfc864d9506934a8ab9b29135a6b0de7a13a7f2bd418006d2124d2a79a8a5c1d"
+    },
+    {
+      "path": "03-fade-help-v2.png",
+      "bytes": 1667011,
+      "sha256": "09f4db47b2b73dd5b434bfd3869e8c07be4341faaeddf172e111333d5023097f"
+    }
+  ]
+}

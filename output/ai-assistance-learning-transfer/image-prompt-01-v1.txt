@@ -1,0 +1,14 @@
+Warm ivory #FDFBF7 paper with barely visible natural fiber grain, forest-green #1A4A3A text and linework, muted green #426454 secondary text, readable dark-gold #80601B emphasis, sparse flat warm-yellow #E5C158 accents. Modern technical sans serif like Geist or Inter, regular body and semibold headings. 90% light canvas. This is LeoGuoLabs Light v1.
+Use case: infographic-diagram with illustration-story.
+Create one finished portrait 4:5 editorial infographic, approximately 1536x1920. Mix precise, elegant English typography with charming hand-drawn line people: round white heads, two small dot eyes, expressive tiny mouth, thin forest-green limbs and a simple small pale-butter shirt. Keep figures consistent, anatomically coherent, thoughtful and approachable. Slight natural line variation; no childish clutter. Generous 6% margins, clear alignment, spacious borderless layout, subtle thin rules only.
+No serif fonts, no heavy poster type, no all-caps headings, no cards or boxes around sections, no gradients, shadows, glows, badges, ornamental icons, distressed paper, watermarks, logos or extra text. Keep all English exact and large enough for phone viewing. Plain small 'LeoGuoLabs' at bottom right.
+Primary request: Image 1 of a cohesive three-image series about AI assistance and learning.
+Title at top, two lines: "Finishing is only" / "one measurement."
+Smaller subtitle: "What stays when the help is gone?"
+Below, four spacious horizontal rows. Each row has a simple unboxed number at left, the exact heading and supporting sentence in the middle, and one clear line-person vignette at right. Do not draw a table or actual product interface.
+01 heading "With AI"; supporting line "Finish the current task." Figure at an open laptop checking off a worksheet.
+02 heading "Without AI"; supporting line "Rebuild the solution." Same figure writing on paper, closed laptop clearly to the side.
+03 heading "After a delay"; supporting line "Recall and use it later." Same figure writing with a simple calendar nearby.
+04 heading "On a changed problem"; supporting line "Choose and adapt the method." Same figure thoughtfully rearranging three connected geometric pieces into a different shape.
+Bottom takeaway in dark gold: "A correct answer is only the first check."
+Make the four vignettes informative and visually memorable, not generic icons. Avoid mathematical claims or extra labels.

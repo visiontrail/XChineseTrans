@@ -1,0 +1,14 @@
+Warm ivory #FDFBF7 paper with barely visible natural fiber grain, forest-green #1A4A3A text and linework, muted green #426454 secondary text, readable dark-gold #80601B emphasis, sparse flat warm-yellow #E5C158 accents. Modern technical sans serif like Geist or Inter, regular body and semibold headings. 90% light canvas. This is LeoGuoLabs Light v1.
+Use case: infographic-diagram with illustration-story.
+Create one finished portrait 4:5 editorial infographic, approximately 1536x1920. Mix precise, elegant English typography with charming hand-drawn line people: round white heads, two small dot eyes, expressive tiny mouth, thin forest-green limbs and a simple small pale-butter shirt. Keep figures consistent, anatomically coherent, thoughtful and approachable. Slight natural line variation; no childish clutter. Generous 6% margins, clear alignment, spacious borderless layout, subtle thin rules only.
+No serif fonts, no heavy poster type, no all-caps headings, no cards or boxes around sections, no gradients, shadows, glows, badges, ornamental icons, distressed paper, watermarks, logos or extra text. Keep all English exact and large enough for phone viewing. Plain small 'LeoGuoLabs' at bottom right.
+Primary request: Image 3 of a cohesive three-image series about AI assistance and learning.
+Title at top: "Make the help fade."
+Subtitle: "Keep the reasoning on your side of the desk."
+Four spacious rows with a plain number, exact heading, one explanatory line and meaningful line-person vignette, using the same character throughout:
+01 heading "Learn the pattern"; sentence "New topic? Start with a worked example." Figure studying a paper with three simple connected steps, finger tracing the steps, no fake equations.
+02 heading "Ask for less"; sentence "Try a step. Ask for a hint or error diagnosis." Figure working with pencil, small open laptop beside them, compact speech bubble containing only one small question mark.
+03 heading "Hide, explain, check"; sentence "Rebuild from memory, then correct mistakes." Figure explaining a small diagram drawn on paper with laptop shut, simple correction mark on a second sheet. No floating hands.
+04 heading "Change it. Return later."; sentence "Solve a new variation with AI closed." Figure confidently writing on a changed worksheet, small calendar beside a shut laptop. No victory trophy.
+Bottom takeaway in dark gold: "Measure what you can do on your own."
+Do not call this a guaranteed protocol, assign time limits, or claim that hints always beat examples. No additional labels.

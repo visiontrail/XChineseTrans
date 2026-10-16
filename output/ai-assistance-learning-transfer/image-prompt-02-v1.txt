@@ -1,0 +1,17 @@
+Warm ivory #FDFBF7 paper with barely visible natural fiber grain, forest-green #1A4A3A text and linework, muted green #426454 secondary text, readable dark-gold #80601B emphasis, sparse flat warm-yellow #E5C158 accents. Modern technical sans serif like Geist or Inter, regular body and semibold headings. 90% light canvas. This is LeoGuoLabs Light v1.
+Use case: infographic-diagram with illustration-story.
+Create one finished portrait 4:5 editorial infographic, approximately 1536x1920. Mix precise, elegant English typography with charming hand-drawn line people: round white heads, two small dot eyes, expressive tiny mouth, thin forest-green limbs and a simple small pale-butter shirt. Keep figures consistent, anatomically coherent, thoughtful and approachable. Slight natural line variation; no childish clutter. Generous 6% margins, clear alignment, spacious borderless layout, subtle thin rules only.
+No serif fonts, no heavy poster type, no all-caps headings, no cards or boxes around sections, no gradients, shadows, glows, badges, ornamental icons, distressed paper, watermarks, logos or extra text. Keep all English exact and large enough for phone viewing. Plain small 'LeoGuoLabs' at bottom right.
+Primary request: Image 2 of a cohesive three-image series about AI assistance and learning.
+Title at top, two lines: "One study." / "Two scoreboards."
+Subtitle in two short lines: "Nearly 1,000 students at one Turkish high school" / "GPT-4 math experiment"
+Main area: an airy three-column comparison with exactly two rows of data and no boxed cells. Left column contains condition names. The middle column is headed "Practice with AI"; the right column is headed "Exam without AI". Keep clear typographic hierarchy and enough width so all labels fit.
+First row label: "GPT Base" with smaller "Unrestricted chat". Middle cell "+48%" large forest green. Right cell "−17%" large dark gold.
+Second row label: "GPT Tutor" with smaller "Teacher-designed hints". Middle cell "+127%" large forest green. Right cell uses readable words, never a number: "No significant" / "difference".
+Directly below the comparison, legible explanatory footnote: "Compared with the no-AI group. Percent changes, not percentage points."
+Below that, two small line-person vignettes joined by a restrained thin arrow: on left a pleased learner at an open laptop holding a completed worksheet; on right same learner at a desk with paper and closed laptop, thinking carefully. No speech bubbles or extra words.
+Bottom takeaway: "The practice boost did not guarantee an exam gain."
+Small caveat directly below: "Short-term exam; not a test of lasting retention."
+Readable source footer, left aligned: "Bastani et al. · PNAS · 2025"
+Plain small 'LeoGuoLabs' bottom right.
+Accuracy crucial: +48%, −17%, +127% must appear exactly once each. Do not invent bars, scores, confidence intervals, equality signs, or claim zero effect.
