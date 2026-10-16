@@ -1,0 +1,7 @@
+A bug spans your frontend and backend repos. The discussion is already in Slack. GitHub Copilot can now investigate across those repositories in one conversation, rather than making you rebuild the context in separate chats.
+
+The Oct. 15 update brings multi-repo conversations to Slack and Microsoft Teams: track pull requests, investigate issues, or pull together project activity. Slack also gains better use of shared messages and threads as context.
+
+One detail worth knowing before you invoke it: GitHub says the full Slack thread becomes agent context. For a focused task, a clean thread or DM can keep unrelated discussion out of scope.
+
+https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates/

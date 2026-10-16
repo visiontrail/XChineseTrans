@@ -1,0 +1,47 @@
+{
+  "singapore_date": "2026-10-16",
+  "batch": "19:00",
+  "draft_id": "2110932530497040656",
+  "title": "Copilot 跨仓库对话：Slack / Teams 中调查前后端问题",
+  "topic_key": "github-copilot-slack-teams-multi-repo-oct15",
+  "source_ids": [
+    "2110932530497040656"
+  ],
+  "source_urls": [
+    "https://x.com/GHchangelog/status/2110932530497040656"
+  ],
+  "source_account": "@GHchangelog",
+  "primary_source_urls": [
+    "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates/",
+    "https://docs.github.com/en/copilot/how-tos/copilot-integrations/integrate-cloud-agent-with-slack"
+  ],
+  "format": "standalone",
+  "quote_target_url": null,
+  "format_reason": "Official source post contains website card, no related quoted X post. Independent English post with official URL.",
+  "package_path": "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-16/2110932530497040656",
+  "text_path": "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-16/2110932530497040656/post-en-v1.txt",
+  "media_paths": [],
+  "media_library_ids": [],
+  "media_required": false,
+  "source_original_language_read": true,
+  "source_media_inspection_complete": true,
+  "verification_state": "official_changelog_and_docs_verified",
+  "delivery_state": "delivered_for_review",
+  "approval_state": "approved_for_scheduled_publication",
+  "publication_state": "published_verified",
+  "git_state": "pending_archive",
+  "long_post_permission": "full_approved_text_accepted_live",
+  "prepared_at": "2026-10-16T11:08:00Z",
+  "delivery_message_id": "Sentinel_3b7e88ae2c848191aa087659cc838095",
+  "delivered_at": "2026-10-16T11:09:21Z",
+  "approval_message_id": "Sentinel_247894ad81608191af160c7ea8c561ed",
+  "scheduled_publish_at": "2026-10-16T16:00:00Z",
+  "scheduled_timezone": "America/Los_Angeles",
+  "scheduled_local_time": "2026-10-16T09:00:00-07:00",
+  "schedule_automation_id": "6ad209901db48191a63a7270302d043c",
+  "schedule_state": "executed",
+  "schedule_note": "Published after the requested not-before time. Live time element verified 2026-10-16T16:01:13.000Z.",
+  "published_url": "https://x.com/LeoGuoLabs/status/2111125319981637814",
+  "published_at": "2026-10-16T16:01:13Z",
+  "verified_at": "2026-10-16T16:01:55Z"
+}
