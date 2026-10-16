@@ -1,0 +1,37 @@
+{
+  "checkedAtUtc": "2026-10-16T19:08:41.781Z",
+  "url": "https://x.com/LeoGuoLabs/status/2111170314067701856",
+  "account": "@LeoGuoLabs",
+  "text": "Sam Altman expected GPT-4 to disrupt software businesses much faster. He underestimated how strongly people stick with familiar tools and suppliers.\n\nI think that’s a useful challenge for AI builders: make one everyday task easier without asking people to redesign their whole workday. Give them a reason to use it again tomorrow.",
+  "exactTextMatch": true,
+  "format": "native_quote",
+  "expectedQuoteTarget": "https://x.com/vikktorrrre/status/2110821312318865692",
+  "quoteTargetMetadata": "research/public-metadata.json",
+  "nativeQuoteVisible": true,
+  "mediaCount": 1,
+  "mediaType": "native video",
+  "firstPlayback": {
+    "currentTime": 2.654757,
+    "duration": 78.794,
+    "error": null,
+    "paused": false,
+    "readyState": 4,
+    "src": "blob:https://x.com/b5f19788-f0d5-45c3-9384-7e0032d39179"
+  },
+  "secondPlayback": {
+    "currentTime": 16.289297,
+    "duration": 78.794,
+    "error": null,
+    "height": 270,
+    "paused": false,
+    "readyState": 4,
+    "width": 480
+  },
+  "playbackAdvancing": true,
+  "mediaError": null,
+  "browser": "Ego Lite (fallback after Codex built-in browser detail page remained on Loading)",
+  "browserIdentityEvidence": "Matched native com.citrolabs.ego.lite tab Languages - YouTube Studio at studio.youtube.com/video/9TXN2mH1bqg/translations to the extension connection before opening verification tab.",
+  "screenshot": "research/public-post.png",
+  "actualQuoteTarget": "https://x.com/vikktorrrre/status/2110821312318865692",
+  "quoteTargetExactMatch": true
+}
