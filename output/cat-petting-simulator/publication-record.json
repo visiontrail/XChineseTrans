@@ -1,0 +1,51 @@
+{
+  "source": "https://x.com/leo114119/status/2110842399412949313",
+  "original_target": "https://x.com/gmi_cloud/status/2110532511067771187",
+  "original_publisher": "@gmi_cloud",
+  "author_evidence": "GMI Cloud original post says we asked both models to build the simulator; matching GMI watermark and media ID 2110531558918791168. No named individual creator identified.",
+  "account": "@LeoGuoLabs",
+  "format": "native_quote",
+  "format_reason": "User requested original author or mention; direct Quote of original publisher with @gmi_cloud in commentary.",
+  "state": "pending_approval",
+  "approved": false,
+  "published_url": null,
+  "text": "GPT-6 Astra finished nearly 3× faster in @gmi_cloud's test. But looking at these two cat-petting simulators, Gemini 4 Argon is the one I'd want to play with.",
+  "media": {
+    "path": "original-video.mp4",
+    "url": "https://video.twimg.com/amplify_video/2110531558918791168/vid/avc1/1920x2400/fh2az1YcXgDsuuvc.mp4?tag=29",
+    "retrieved_at_utc": "2026-10-16T01:32:49.506344+00:00",
+    "bytes": 33456517,
+    "sha256": "e18a375d09422d3b8dd7a8fb6fbca5640e3c7b7b3eef1d7f50742f589f91cd0f",
+    "duration_seconds": 34.965333,
+    "resolution": [
+      1920,
+      2400
+    ],
+    "video": "H.264, 24 fps",
+    "audio": "AAC stereo 48 kHz",
+    "download": "64 verified HTTP 206 byte ranges assembled in order; exact total 33456517 bytes",
+    "full_decode": "ffmpeg -xerror completed with exit 0 and empty decode.log",
+    "frames_reviewed_seconds": [
+      1,
+      17,
+      33
+    ],
+    "playback": "Local review video advanced from 5.04 to 27.50 seconds, then ended at 34.965333; readyState 4, no error.",
+    "attachment": "Retained natively in quoted post; local source download kept, no duplicate upload."
+  },
+  "checks": {
+    "source_live_read": true,
+    "relevant_author_reply": "Only laughing emoji reply, no factual update in loaded relevant conversation.",
+    "source_claim_qualification": "Timing and cost are GMI reported single-demo results, not independently reproduced; 202/70=2.886. Preference is explicitly subjective.",
+    "account_live_verified": true,
+    "composer_exact_text_accepted": true,
+    "native_quote_target_verified": true,
+    "composer_screenshot": "composer-review.png",
+    "browser": "Built-in X stuck loading; authenticated Ego Lite fallback succeeded.",
+    "preview_url": "http://172.16.10.59:8766/review.html",
+    "preview_http": 200,
+    "remote_phone_playback_tested": false,
+    "x_draft_saved": true
+  },
+  "review_authorization": "Final publication approval required by project AGENTS.md; no submission performed."
+}
