@@ -1,7 +1,7 @@
 Leo Guo
 @LeoGuoLabs
 Boost
-GPT-6 Astra finished nearly 3× faster in 
+GPT-6 Astra finished nearly 3× faster in
 @gmi_cloud
 's test. But looking at these two cat-petting simulators, Gemini 4 Argon is the one I'd want to play with.
 
@@ -11,9 +11,9 @@ GMI Cloud
 @gmi_cloud
 ·
 Oct 15
-Gemini 4 Argon is better at petting a cat than most AI 
+Gemini 4 Argon is better at petting a cat than most AI
 
-we asked Gemini and GPT 6 Astra to build a realistic 3D cat petting simulator. 
+we asked Gemini and GPT 6 Astra to build a realistic 3D cat petting simulator.
 
 Gemini 4 Argon: 3h 22m · $30.50
 GPT 6 Astra: 1h 10m · $29
