@@ -1,0 +1,3 @@
+The useful detail here is the separate quota: paid Pro users can try Gemini 4 Argon in Antigravity without eating into their Gemini 3.8 Flash allowance. Argon’s Pro quota is weekly-only, so don’t expect a five-hour refill.
+
+If you’re looking for it, check the Antigravity app, CLI, or IDE extension. It isn’t available in Antigravity IDE yet, and Pro trials aren’t eligible.

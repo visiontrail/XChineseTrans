@@ -1,0 +1,64 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/antigravity/status/2110866531932316011",
+    "id": "2110866531932316011",
+    "text": "We’re rolling out Gemini 4 Argon in Antigravity to paid Google AI Pro subscribers today. Demand has been incredible and we've scaled capacity deliberately to get here. We’ve rolled out a separate weekly-only Argon quota for Pro on top of the existing Gemini bucket for 3.8 Flash so you have the best of Gemini for all your tasks.",
+    "raw_text": {
+      "text": "We’re rolling out Gemini 4 Argon in Antigravity to paid Google AI Pro subscribers today. Demand has been incredible and we've scaled capacity deliberately to get here. We’ve rolled out a separate weekly-only Argon quota for Pro on top of the existing Gemini bucket for 3.8 Flash so you have the best of Gemini for all your tasks.",
+      "display_text_range": [
+        0,
+        329
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "antigravity",
+      "url": "https://x.com/antigravity",
+      "id": "1965856473084473347",
+      "followers": 196564,
+      "following": 20,
+      "likes": 117,
+      "media_count": 200,
+      "name": "Google Antigravity",
+      "description": "An agent-first software development platform @GoogleDeepMind",
+      "raw_description": {
+        "text": "An agent-first software development platform @GoogleDeepMind",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1965856473084473347/1763427646",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1990585614279049216/-Zz6T2nk_200x200.png",
+      "joined": "Wed Sep 10 19:15:00 +0000 2025",
+      "protected": false,
+      "website": {
+        "url": "https://antigravity.google/",
+        "display_url": "antigravity.google"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "organization"
+      },
+      "avatar_color": null
+    },
+    "replies": 386,
+    "retweets": 679,
+    "likes": 6287,
+    "bookmarks": 692,
+    "quotes": 545,
+    "created_at": "Thu Oct 15 22:52:53 +0000 2026",
+    "created_timestamp": 1792104773,
+    "views": 314189,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}
