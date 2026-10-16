@@ -1,0 +1,18 @@
+Muse Spark Open is out: 816B total parameters, 42B active per token, and a 1M-token context window. It takes text, images, video and audio, and generates text.
+
+The deployment detail worth checking is memory. “42B active” describes which parameters are used for a token; it doesn't turn an 816B model into a 42B-sized download or memory footprint.
+
+Meta lists at least 700GB of GPU memory for NVFP4, NVIDIA's memory-saving 4-bit format, and 2TB for BF16, a common 16-bit format. Its deployment examples use 4 NVIDIA B300 GPUs for NVFP4 or 8 for BF16.
+
+There's an Apple route too. Meta says it is optimized for two M5 Ultra Mac Studios, each with 512GB of unified memory, connected via Thunderbolt 5. They use MLX, Apple's framework for running AI on Apple silicon, and load the NVFP4 version too. The weight format and the software running it are separate choices.
+
+For a rough hardware budget as of Oct 16: Gatewell lists an 8-B300 server at US$577k–735k per system, with a five-system minimum order and final pricing by configuration. Budget separately for taxes, site infrastructure and running costs. A four-GPU setup needs its own quote, not half that price.
+
+For a Mac budget reference, Apple lists a refurbished M3 Ultra with 512GB memory and a 2TB SSD at US$14,869. Two would be about US$30k before tax and cables. That's previous-generation refurbished pricing, not an M5 quote or a performance comparison. Apple's 512GB M5 Ultra option arrives in late October.
+
+Hardware price references:
+https://www.apple.com/shop/product/g1ce8ll/a
+https://gatewellusa.com/ai-compute/p/nvidia-hgx-b300-8gpu
+
+The weights use the Muse Model License, with commercial conditions. Official model card and license:
+https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B
