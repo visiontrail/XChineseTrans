@@ -6,8 +6,8 @@
   "text_file": "post.txt",
   "text": "The useful detail here is the separate quota: paid Pro users can try Gemini 4 Argon in Antigravity without eating into their Gemini 3.8 Flash allowance. Argon’s Pro quota is weekly-only, so don’t expect a five-hour refill.\n\nIf you’re looking for it, check the Antigravity app, CLI, or IDE extension. It isn’t available in Antigravity IDE yet, and Pro trials aren’t eligible.",
   "media": [],
-  "state": "prepared_pending_review",
-  "authorization": "Final content review required; no publication authorized yet.",
+  "state": "publicly_verified",
+  "authorization": "User explicitly approved the reviewed English copy and native Quote with 确认发布.",
   "prepared_at": "2026-10-16T01:13:01.507134+00:00",
   "checks": {
     "source_original_language_read": true,
@@ -23,7 +23,18 @@
     "composer_quote_target_verified": true,
     "composer_post_button_enabled": true
   },
-  "published_url": null,
+  "published_url": "https://x.com/LeoGuoLabs/status/2110905442817954150",
   "review_screenshot": "composer-review.jpg",
-  "browser_note": "Built-in browser stalled at X loading screen. Switched to Ego Lite per project fallback rule; correlated native tabs with connector and confirmed @LeoGuoLabs."
+  "browser_note": "Built-in browser stalled at X loading screen. Switched to Ego Lite per project fallback rule; correlated native tabs with connector and confirmed @LeoGuoLabs.",
+  "submitted_at": "2026-10-16T01:27:40.606488+00:00",
+  "verified_at": "2026-10-16T01:28:38.878331+00:00",
+  "public_verification": {
+    "account": "@LeoGuoLabs",
+    "complete_approved_text_matches": true,
+    "format": "native_quote",
+    "quote_target_confirmed_by_click": "https://x.com/antigravity/status/2110866531932316011",
+    "attached_media_count": 0,
+    "screenshot": "published-review.jpg",
+    "page_evidence": "published-page.txt"
+  }
 }

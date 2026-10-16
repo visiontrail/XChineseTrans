@@ -1,0 +1,61 @@
+Browser tab: 303263164, Title: "Leo Guo on X: \"The useful detail here is the separate quota: paid Pro users can try Gemini 4 Argon in Antigravity without eating into their Gemini 3.8 Flash allowance. Argon’s Pro quota is weekly-only, so don’t expect a five-hour refill. If you’re looking for it, check the Antigravity app,\" / X", URL: "https://x.com/LeoGuoLabs/status/2110905442817954150".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 186-193, 195-224
+~0 AXWebArea URL: x.com/LeoGuoLabs/status/2110905442817954150, Leo Guo on X: "The useful detail here is the separate quota: paid Pro users can try Gemini 4 Argon in Antigravity without eating into their Gemini 3.8 Flash allowance. Argon’s Pro quota is weekly-only, so don’t expect a five-hour refill. If you’re looking for it, check the Antigravity app," / X
+~								183 container Leo Guo Verified account @LeoGuoLabs The useful detail here is the separate quota: paid Pro users can try Gemini 4 Argon in Antigravity without eating into their Gemini 3.8 Flash allowance. Argon’s Pro quota is weekly-only, so don’t expect a five-hour refill. If you’re looking for it, check the Antigravity app, CLI, or IDE extension. It isn’t available in Antigravity IDE yet, and Pro trials aren’t eligible. Quote Square profile picture Google Antigravity Verified account @antigravity 2 hours ago We’re rolling out Gemini 4 Argon in Antigravity to paid Google AI Pro subscribers today. Demand has been incredible and we've scaled capacity deliberately to get here. We’ve rolled out a separate weekly-only Argon quota for Pro on top of the existing Gemini bucket for 3.8 Flash
+~										185 container
++											186 container id__34riomwq9aa
++												187 link Description: Leo Guo Verified account, Value: x.com/LeoGuoLabs
++												188 link Description: @LeoGuoLabs, Value: x.com/LeoGuoLabs
++											189 container
++												190 button Boost
++													191 text Boost
++												192 button Grok actions
++												193 pop up button (collapsed) Description: More, Secondary Actions: Expand
+~										194 text The useful detail here is the separate quota: paid Pro users can try Gemini 4 Argon in Antigravity without eating into their Gemini 3.8 Flash allowance. Argon’s Pro quota is weekly-only, so don’t expect a five-hour refill.
+
+If you’re looking for it, check the Antigravity app, CLI, or IDE extension. It isn’t available in Antigravity IDE yet, and Pro trials aren’t eligible.
++										195 container ID: id__rujwupalnai, Description: Quote Square profile picture Google Antigravity Verified account @antigravity 2 hours ago We’re rolling out Gemini 4 Argon in Antigravity to paid Google AI Pro subscribers today. Demand has been incredible and we've scaled capacity deliberately to get here. We’ve rolled out a separate weekly-only Argon quota for Pro on top of the existing Gemini bucket for 3.8 Flash
++											196 container id__xjbi8a47rr
++												197 text Quote
++												198 link Square profile picture Google Antigravity Verified account @antigravity 2 hours ago We’re rolling out Gemini 4 Argon in Antigravity to paid Google AI Pro subscribers today. Demand has been incredible and we've scaled capacity deliberately to get here. We’ve rolled out a separate weekly-only Argon quota for Pro on top of the existing Gemini bucket for 3.8 Flash
++													199 container
++														200 container
++															201 container
++																202 container Square profile picture
++																	203 image Square profile picture
++															204 container
++																205 container
++																	206 text Google Antigravity
++																	207 image Verified account
++																	208 link
++																209 container
++																	210 text @antigravity
++																	211 container 2 hours ago
++																		212 text 2h
++														213 text We’re rolling out Gemini 4 Argon in Antigravity to paid Google AI Pro subscribers today. Demand has been incredible and we've scaled capacity deliberately to get here. We’ve rolled out a separate weekly-only Argon quota for Pro on top of the existing Gemini bucket for 3.8 Flash
++										214 container
++											215 link Description: 9:27 AM · Oct 16, 2026, Value: x.com/LeoGuoLabs/status/2110905442817954150
++										216 container id__kylqbpplk8
++											217 button 0 Replies. Reply
++											218 pop up button (collapsed) Description: 0 reposts. Repost, Secondary Actions: Expand
++											219 button 0 Likes. Like
++											220 button 0 Bookmarks. Bookmark
++											221 pop up button (collapsed) Description: Share post, Secondary Actions: Expand
++								222 container
++									223 container
++										224 link Description: Leo Guo, Value: x.com/LeoGuoLabs
++										225 container
++											226 container
++												227 container
++													228 text Post your reply
++													229 text entry area (settable) Description: Post text, Value:
+
++											230 button (disabled) Reply
++												231 text Reply
++								232 container
++									233 container
++										234 link Description: Leo Guo Verified account, Value: x.com/LeoGuoLabs
++										235 link Description: @LeoGuoLabs, Value: x.com/LeoGuoLabs
++									236 text Previously a senior C/C++ engineer in telecom. Now exploring AI and emerging tech, sharing useful tools and an engineering perspective.
+The focused UI element is 0 AXWebArea URL: x.com/LeoGuoLabs/status/2110905442817954150, Leo Guo on X: "The useful detail here is the separate quota: paid Pro users can try Gemini 4 Argon in Antigravity without eating into their Gemini 3.8 Flash allowance. Argon’s Pro quota is weekly-only, so don’t expect a five-hour refill. If you’re looking for it, check the Antigravity app," / X
