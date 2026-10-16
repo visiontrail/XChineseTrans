@@ -1,0 +1,82 @@
+{
+  "method": "Local MLX Whisper small; approximate machine transcript, checked against official show transcript",
+  "model": "mlx-community/whisper-small-mlx",
+  "text": " I thought when we got to GBT-4, which was back in 2023, I think, that very quickly after that, there was going to be much more disruption in software business speed and up for grabs right away than it turned out to be. And the thing that I think I was wrong about a few things, but one of them in terms of the speed, one of them is the economy just has so much inertia. People keep doing the same things they're doing. They keep buying from the same company. They keep sort of wanting to use their tools in the same way. I think this is actually a positive in many ways, and it's going to make this big transition in front of us go smoother and slower. I'm grateful for it. But I think it means we've all been too ambitious on timelines, even with this incredible technology. I think it has one of the most incredible technologies humanity's ever invented. Society and the economy will adapt more slowly. Yeah, it's funny. We were talking before we started recording that there's all these parallels to history. Obviously, I read history for a living. When you were just talking, I wasn't even thinking about open AI and AI and Sam Altman. I was thinking of reading the biography of Larry Ellison in the 80s. He was just like, guys, this isn't a software problem. It's a people problem. We have to convince them. We can install software. They're not using it. We have to change their behavior.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 11.200000000000001,
+      "text": " I thought when we got to GBT-4, which was back in 2023, I think, that very quickly after that,"
+    },
+    {
+      "start": 11.200000000000001,
+      "end": 16.56,
+      "text": " there was going to be much more disruption in software business speed and up for grabs"
+    },
+    {
+      "start": 17.2,
+      "end": 23.28,
+      "text": " right away than it turned out to be. And the thing that I think I was wrong about a few things,"
+    },
+    {
+      "start": 24.0,
+      "end": 29.6,
+      "text": " but one of them in terms of the speed, one of them is the economy just has so much inertia."
+    },
+    {
+      "start": 30.08,
+      "end": 34.96,
+      "text": " People keep doing the same things they're doing. They keep buying from the same company. They keep"
+    },
+    {
+      "start": 34.96,
+      "end": 38.96,
+      "text": " sort of wanting to use their tools in the same way. I think this is actually a positive in many"
+    },
+    {
+      "start": 38.96,
+      "end": 43.68,
+      "text": " ways, and it's going to make this big transition in front of us go smoother and slower. I'm grateful"
+    },
+    {
+      "start": 43.68,
+      "end": 49.28,
+      "text": " for it. But I think it means we've all been too ambitious on timelines, even with this incredible"
+    },
+    {
+      "start": 49.28,
+      "end": 53.2,
+      "text": " technology. I think it has one of the most incredible technologies humanity's ever invented."
+    },
+    {
+      "start": 53.84,
+      "end": 55.92,
+      "text": " Society and the economy will adapt more slowly."
+    },
+    {
+      "start": 56.64,
+      "end": 60.64,
+      "text": " Yeah, it's funny. We were talking before we started recording that there's all these parallels"
+    },
+    {
+      "start": 60.64,
+      "end": 64.16,
+      "text": " to history. Obviously, I read history for a living. When you were just talking, I wasn't even thinking"
+    },
+    {
+      "start": 64.16,
+      "end": 70.24000000000001,
+      "text": " about open AI and AI and Sam Altman. I was thinking of reading the biography of Larry Ellison in the"
+    },
+    {
+      "start": 70.24000000000001,
+      "end": 74.96000000000001,
+      "text": " 80s. He was just like, guys, this isn't a software problem. It's a people problem. We have to convince"
+    },
+    {
+      "start": 74.96000000000001,
+      "end": 78.8,
+      "text": " them. We can install software. They're not using it. We have to change their behavior."
+    }
+  ]
+}

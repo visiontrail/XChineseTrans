@@ -1,0 +1,76 @@
+{
+  "topic": "altman-ai-adoption-inertia",
+  "updated_at_utc": "2026-10-16T09:06:13.792100+00:00",
+  "account": "@LeoGuoLabs",
+  "format": "native_quote",
+  "state": "awaiting_user_review",
+  "source_url": "https://x.com/huxlab/status/2111017501400481846",
+  "quote_target_url": "https://x.com/vikktorrrre/status/2110821312318865692",
+  "target_reason": "The supplied Chinese post embeds this exact 79-second video via /video/1. This clip post has no further quote. Veee is the clip publisher, not asserted to be the interview creator.",
+  "primary_source": {
+    "publisher": "David Senra",
+    "url": "https://www.davidsenra.com/episode/sam-altman",
+    "date": "2026-08-23",
+    "full_episode_x_post": "https://x.com/davidsenra/status/2091525869638434945",
+    "full_episode_youtube": "https://www.youtube.com/watch?v=kG8AoExkX40"
+  },
+  "text_path": "post-en.txt",
+  "text": "Sam Altman expected GPT-4 to disrupt software businesses much faster. He underestimated how strongly people stick with familiar tools and suppliers.\n\nI think that’s a useful challenge for AI builders: make one everyday task easier without asking people to redesign their whole workday. Give them a reason to use it again tomorrow.",
+  "media": [
+    {
+      "path": "original-video-1080p.mp4",
+      "role": "Verified local source clip retained; native video remains on quoted post",
+      "duration_seconds": 78.826667,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "byte_count": 18531529,
+      "sha256": "3eacdd6a0e20dac524f4497bf5b036cd19be2c08fcd0236644c3a9b3269ac64e",
+      "retrieved_at_utc": "2026-10-16T08:58:34.909272+00:00",
+      "preserved_full_clip": true,
+      "processing": "Unchanged source download; no cropping, muting, subtitles, or overlays added."
+    }
+  ],
+  "fact_check": [
+    "Official episode transcript supports Altman expecting faster disruption after GPT-4 and underestimating economic inertia and familiar tools/suppliers.",
+    "He describes a slower, smoother transition positively. The draft avoids suggesting there has been no software disruption.",
+    "No source support found for the Chinese post claiming behavior change is 100 times harder, or that model capability has never been a bottleneck; omitted.",
+    "The final paragraph is proposed product advice in the account voice, not a claim of personal testing or an Altman quotation.",
+    "The episode predates the clip repost; public copy does not frame the remarks as a new interview."
+  ],
+  "checks": {
+    "fresh_download": true,
+    "http_ranges_validated": true,
+    "ffprobe": "research/ffprobe.json",
+    "full_decode": "research/full-decode-verification.json",
+    "decode_log": "research/decode-errors.log",
+    "frames_inspected_seconds": [
+      0,
+      39,
+      77
+    ],
+    "native_composer": "research/composer-verification.json",
+    "composer_screenshot": "research/composer-review.png",
+    "playback": "research/playback-verification.json",
+    "audio_content_verification": "research/audio-transcript-asr.json; local ASR confirms the selected clip content agrees with the official show transcript. Machine transcript may misspell names; official transcript used for copy. Direct model audio listening unavailable; no audio-quality judgment claimed.",
+    "source_timestamp_note": "Combined null muxer warns about duplicate terminal DTS; direct raw-frame/PCM decoding and browser playback checked separately. Original bytes preserved.",
+    "full_decode_result": "All 1890 video frames and complete audio decoded. Original terminal duplicate timestamp logged; sequential-timestamp validation sink completed with no errors. Playback advanced from 13.41s to 40.52s without errors.",
+    "source_research": "Live supplied and target X pages read in authenticated built-in browser; @LeoGuoLabs session verified. FxTwitter used for downloadable media metadata; primary show page used for consequential claims."
+  },
+  "approval": {
+    "required": true,
+    "received": false,
+    "basis": "User standing final-content review rule in AGENTS.md; bare link does not waive approval."
+  },
+  "publication": {
+    "submitted": false,
+    "scheduled": false,
+    "url": null,
+    "publicly_verified": false
+  },
+  "images_attached": [],
+  "media_order": [
+    "Native video on quoted source post; no redundant new attachment"
+  ]
+}

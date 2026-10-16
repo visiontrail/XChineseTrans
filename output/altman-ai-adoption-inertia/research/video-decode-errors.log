@@ -1,0 +1,2 @@
+[rawvideo @ 0xafec17700] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 1888 >= 1888
+    Last message repeated 1 times

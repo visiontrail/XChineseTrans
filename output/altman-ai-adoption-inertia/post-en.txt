@@ -1,0 +1,3 @@
+Sam Altman expected GPT-4 to disrupt software businesses much faster. He underestimated how strongly people stick with familiar tools and suppliers.
+
+I think that’s a useful challenge for AI builders: make one everyday task easier without asking people to redesign their whole workday. Give them a reason to use it again tomorrow.

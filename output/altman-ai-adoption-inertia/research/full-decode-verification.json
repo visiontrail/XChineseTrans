@@ -1,0 +1,10 @@
+{
+  "video_decode_exit_code": 0,
+  "audio_decode_exit_code": 0,
+  "video_decode_stderr": "[rawvideo @ 0xafec17700] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 1888 >= 1888\n    Last message repeated 1 times\n",
+  "audio_decode_stderr": "",
+  "note": "Source has a duplicate terminal timestamp that is reported by output muxers, not a decoder failure. Both source decode exit codes are 0. Separate normalized validation below confirms all frames and samples decode cleanly; original bytes remain unchanged.",
+  "normalized_decode_exit_code": 0,
+  "normalized_decode_stderr": "",
+  "normalized_decode_note": "setpts assigns sequential 24 fps timestamps to the validation sink only; all 1890 source frames and all audio samples decoded. Source file bytes unchanged."
+}

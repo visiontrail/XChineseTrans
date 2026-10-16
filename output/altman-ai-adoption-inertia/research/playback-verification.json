@@ -1,0 +1,23 @@
+{
+  "checkedAtUtc": "2026-10-16T09:01:53.279Z",
+  "asset": "original-video-1080p.mp4",
+  "first": {
+    "currentTime": 13.410182,
+    "duration": 78.826667,
+    "error": null,
+    "height": 1080,
+    "muted": false,
+    "paused": false,
+    "readyState": 4,
+    "width": 1920
+  },
+  "second": {
+    "currentTime": 40.524063,
+    "duration": 78.826667,
+    "error": null,
+    "paused": false,
+    "readyState": 4
+  },
+  "advancing": true,
+  "notes": "Playback of fresh local download in Codex built-in browser; no public publication performed."
+}
