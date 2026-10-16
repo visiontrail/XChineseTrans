@@ -1,0 +1,7 @@
+GLM 5.3 Flash is now free in OpenCode for a limited time.
+
+The model picker matters: select GLM-5.3-Flash Free (glm-5.3-flash-free). The regular GLM 5.3 Flash entry is still listed separately with paid pricing.
+
+OpenCode says the free model’s provider retains no data and does not use it for training. The docs don’t give an end date.
+
+https://opencode.ai/v2/docs/console/models/#free-models

@@ -1,0 +1,38 @@
+{
+  "singapore_date": "2026-10-16",
+  "batch": "16:00",
+  "draft_id": "2110988167268688284",
+  "title": "OpenCode新增GLM 5.3 Flash限时免费",
+  "topic_key": "opencode-glm53flash-free-oct16",
+  "source_urls": [
+    "https://x.com/leo114119/status/2110988167268688284"
+  ],
+  "source_ids": [
+    "2110988167268688284"
+  ],
+  "primary_source_urls": [
+    "https://x.com/opencode/status/2110986357539754114",
+    "https://opencode.ai/v2/docs/console/models/"
+  ],
+  "format": "native_quote",
+  "quote_target_url": "https://x.com/opencode/status/2110986357539754114",
+  "package_path": "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-16/2110988167268688284",
+  "text_path": "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-16/2110988167268688284/post-en-v1.txt",
+  "media_paths": [],
+  "media_required": false,
+  "source_original_language_read": true,
+  "source_media_inspection_complete": true,
+  "verification_state": "official_post_and_current_model_table_verified",
+  "delivery_state": "delivered_for_review",
+  "approval_state": "approved",
+  "publication_state": "live_verified",
+  "git_state": "ready_for_scoped_commit",
+  "long_post_permission": "check_at_publication",
+  "created_at": "2026-10-16T08:07:05.442769+00:00",
+  "delivery_message_id": "Sentinel_445394d2c0cc8191b3d4cc7b67265e4d",
+  "delivered_at": "2026-10-16T08:07:36Z",
+  "approval_message_id": "Sentinel_627cb4b404588191917980f1024f5244",
+  "published_url": "https://x.com/LeoGuoLabs/status/2111007805054324892",
+  "published_at": "2026-10-16T08:14:11Z",
+  "verified_at": "2026-10-16T08:15:12Z"
+}
