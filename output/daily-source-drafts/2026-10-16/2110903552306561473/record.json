@@ -1,0 +1,50 @@
+{
+  "singapore_date": "2026-10-16",
+  "batch": "16:00",
+  "draft_id": "2110903552306561473",
+  "title": "Hermes community phone-harness and phone-app workflows",
+  "topic_key": "hermes-phone-harness-community-plugin",
+  "source_urls": [
+    "https://x.com/Lonely__MH/status/2110903552306561473"
+  ],
+  "source_ids": [
+    "2110903552306561473"
+  ],
+  "primary_source_urls": [
+    "https://hermes-agent.nousresearch.com/docs/plugins/phone-harness",
+    "https://github.com/ShawnPana/phone-harness"
+  ],
+  "format": "standalone",
+  "quote_target_url": null,
+  "format_reason": "Quoted old v0.22 release is unrelated to selected phone-harness plugin material; chain inspected",
+  "package_path": "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-16/2110903552306561473",
+  "text_path": "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-16/2110903552306561473/post-en-v1.txt",
+  "media_paths": [
+    "/workspace/shared/XChineseTrans/output/daily-source-drafts/2026-10-16/2110903552306561473/media/phone-harness-official.png"
+  ],
+  "media_required": true,
+  "source_original_language_read": true,
+  "source_media_inspection_complete": true,
+  "verification_state": "official_catalog_and_repository_verified",
+  "delivery_state": "delivered_for_review",
+  "approval_state": "approved_for_scheduled_publication",
+  "publication_state": "published_verified",
+  "git_state": "pending_commit_push",
+  "long_post_permission": "check_at_publication",
+  "media_library_ids": [
+    "libfile_e0ee655510f48191b6246fd929dc7bc1"
+  ],
+  "delivery_message_id": "Sentinel_dbb0861404e08191bc28fd7d2792f807",
+  "delivered_at": "2026-10-16T08:20:51Z",
+  "approval_message_id": "Sentinel_c4b204c37000819184ae953e98225a06",
+  "scheduled_publish_at": "2026-10-16T15:45:00Z",
+  "scheduled_timezone": "America/Los_Angeles",
+  "scheduled_local_time": "2026-10-16T08:45:00-07:00",
+  "schedule_automation_id": "6ad1e1b53e6c8191972dcbb0da7377de",
+  "schedule_state": "executed_late",
+  "schedule_note": "Published about seven minutes after requested time, after shared browser release and recovery of editor input; full approved content verified.",
+  "published_url": "https://x.com/LeoGuoLabs/status/2111123142177354180",
+  "published_at": "2026-10-16T15:52:00Z",
+  "published_at_precision": "minute; live page shows 8:52 AM PDT",
+  "verified_at": "2026-10-16T15:53:15Z"
+}

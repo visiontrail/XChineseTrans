@@ -1,0 +1,1 @@
+Official Hermes Agent plugin catalog page for phone-harness, showing its Community label, maintainer ShawnPana, supported phone connections, local Python execution disclosure, and installation command.

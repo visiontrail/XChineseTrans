@@ -1,0 +1,9 @@
+If the information you need is stuck inside a phone app with no API, Hermes now has another way in: the community phone-harness plugin.
+
+It can read the screen, open apps, tap, swipe and type. A possible workflow: ask it to look up information in a mobile-only app and bring the result back into your conversation, instead of copying it over by hand.
+
+Your iPhone connects through iPhone Mirroring on a Mac; Android uses ADB, the Android debugging bridge. Cloud phones are also supported.
+
+One important detail: the plugin runs model-written Python on your computer with your user permissions. Script approval is on by default. Keep that boundary in mind before giving an agent access to your everyday phone and its logged-in apps.
+
+https://hermes-agent.nousresearch.com/docs/plugins/phone-harness
