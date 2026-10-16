@@ -9,7 +9,7 @@
   "state": "pending_approval",
   "approved": false,
   "published_url": null,
-  "text": "GPT-6 Astra finished nearly 3× faster in @gmi_cloud's test. But looking at these two cat-petting simulators, Gemini 4 Argon is the one I'd want to play with.",
+  "text": "GPT-6 Astra finished nearly 3× faster in @gmi_cloud's test. But looking at these two cat-petting simulators, Gemini 4 Argon is the one I'd want to play with.\n\nAlso, why does GPT-6's arm look like a tree branch with fingers?",
   "media": {
     "path": "original-video.mp4",
     "url": "https://video.twimg.com/amplify_video/2110531558918791168/vid/avc1/1920x2400/fh2az1YcXgDsuuvc.mp4?tag=29",
@@ -40,12 +40,15 @@
     "account_live_verified": true,
     "composer_exact_text_accepted": true,
     "native_quote_target_verified": true,
-    "composer_screenshot": "composer-review.png",
+    "composer_screenshot": "composer-review-v2.png",
     "browser": "Built-in X stuck loading; authenticated Ego Lite fallback succeeded.",
     "preview_url": "http://172.16.10.59:8766/review.html",
     "preview_http": 200,
     "remote_phone_playback_tested": false,
-    "x_draft_saved": true
+    "x_draft_saved": true,
+    "input_note": "Reopening v1 found native input punctuation had not persisted. Replaced full text using browser locator fill, including corrected @gmi_cloud and multiplication sign.",
+    "persisted_draft_text_verified": true
   },
-  "review_authorization": "Final publication approval required by project AGENTS.md; no submission performed."
+  "review_authorization": "Final publication approval required by project AGENTS.md; no submission performed.",
+  "revision": "v2: user requested a joke about the stick-like GPT-6 hand"
 }

@@ -1,1 +1,3 @@
 GPT-6 Astra finished nearly 3× faster in @gmi_cloud's test. But looking at these two cat-petting simulators, Gemini 4 Argon is the one I'd want to play with.
+
+Also, why does GPT-6's arm look like a tree branch with fingers?
