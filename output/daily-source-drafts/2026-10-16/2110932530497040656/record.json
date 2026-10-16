@@ -29,7 +29,7 @@
   "delivery_state": "delivered_for_review",
   "approval_state": "approved_for_scheduled_publication",
   "publication_state": "published_verified",
-  "git_state": "pending_archive",
+  "git_state": "committed_and_pushed",
   "long_post_permission": "full_approved_text_accepted_live",
   "prepared_at": "2026-10-16T11:08:00Z",
   "delivery_message_id": "Sentinel_3b7e88ae2c848191aa087659cc838095",
@@ -43,5 +43,7 @@
   "schedule_note": "Published after the requested not-before time. Live time element verified 2026-10-16T16:01:13.000Z.",
   "published_url": "https://x.com/LeoGuoLabs/status/2111125319981637814",
   "published_at": "2026-10-16T16:01:13Z",
-  "verified_at": "2026-10-16T16:01:55Z"
+  "verified_at": "2026-10-16T16:01:55Z",
+  "archive_content_commit": "f70ed36141db6dfde5ff522e5783edfeb418d5a1",
+  "archive_remote": "visiontrail/XChineseTrans main"
 }
