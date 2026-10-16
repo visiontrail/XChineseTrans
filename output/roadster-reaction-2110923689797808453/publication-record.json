@@ -1,0 +1,37 @@
+{
+  "state": "publicly_verified",
+  "account": "@LeoGuoLabs",
+  "source_url": "https://x.com/elonmusk/status/2110923689797808453",
+  "original_target": "https://x.com/AutismCapital/status/2110905474484940939",
+  "format": "native_quote",
+  "text": "This is so good it should be illegal. 🤯",
+  "authorization": "User approved adding one emoji and publishing; explicitly reconfirmed 确认发布 in composer",
+  "source_note": "Musk embeds media ID 2110905334193860608 from the AutismCapital post. This identifies the embedded-video publisher, not independently verified original creator. No additional technical claims in commentary.",
+  "media_path": "source-video.mp4",
+  "updated_at": "2026-10-16T03:09:31.502335+00:00",
+  "media_verification": {
+    "bytes": 11326087,
+    "sha256": "b5cea5e3f3babdeea378259ddbfb6e18fde97a57b0d4d60c9c5f6c2ce4a1a99b",
+    "retrieved_at": "2026-10-16T03:07:14.303456+00:00",
+    "duration_seconds": 48.576,
+    "full_decode": "passed",
+    "download_method": "173 ranges, each exact Content-Range and byte count checked",
+    "source_url": "https://video.twimg.com/amplify_video/2110905334193860608/vid/avc1/1398x782/bS5HCrsq9VCpqLPu.mp4?tag=29",
+    "sampled_frames": "Beginning, middle and end visually inspected; no added Chinese captions, Tesla Live mark preserved"
+  },
+  "published_url": "https://x.com/LeoGuoLabs/status/2110930322485629334",
+  "public_verification": {
+    "account": "@LeoGuoLabs",
+    "exact_text": true,
+    "format": "native_quote",
+    "quote_target": "https://x.com/AutismCapital/status/2110905474484940939",
+    "native_video_count": 1,
+    "playback_samples_seconds": [
+      18.447548,
+      26.694928
+    ],
+    "playback_error": null,
+    "screenshot": "public-post.png",
+    "details": "Reopened actual status URL, confirmed text/account/quote and observed video advancing after one reload to recover initial buffering."
+  }
+}
