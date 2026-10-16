@@ -90,3 +90,6 @@ hls-window/
 /output/scion-source-control/source/reference-en.mp4
 /output/scion-source-control/scion-render-v1.mp4
 /output/scion-source-control/scion-render.mp4
+
+# Casa Serra source compilation (>50 MiB); preserved locally.
+/output/casa-serra-scroll-house/media/source-video.mp4

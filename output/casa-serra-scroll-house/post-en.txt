@@ -1,0 +1,12 @@
+A floor plan you can scroll into. Walls rise off the page, the camera walks through the front door, and line drawings give way to textured rooms.
+
+The clever detail in Casa Serra: the plan is already a horizontal slice of the same 3D model. Raise the cut, move the camera, and the house reveals itself.
+
+The workflow is worth borrowing: ask the coding agent for layout options and a camera route before it writes code. Pick one, build only as far as the first room, review the recording, then continue room by room.
+
+The creator says the full demo took about 70 prompts over two weeks with Claude Code and Opus 5.5. A separate test of the shared starter prompt reached the first room in about an hour.
+
+I can see this being useful for showing someone a house or hotel concept. Much easier to discuss a space when you can walk through it.
+
+Demo + starter prompt:
+https://github.com/Sam1983Aing/casa-serra

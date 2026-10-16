@@ -1,0 +1,13 @@
+{
+  "first_sample": 0.265442,
+  "later_sample": [
+    {
+      "currentTime": 36.609976,
+      "duration": 107.333333,
+      "error": null,
+      "paused": false,
+      "readyState": 4
+    }
+  ],
+  "checked_at": "2026-10-16T15:58:37.000Z"
+}

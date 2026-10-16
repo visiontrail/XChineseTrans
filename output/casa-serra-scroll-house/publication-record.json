@@ -1,0 +1,128 @@
+{
+  "source_url": "https://x.com/leo114119/status/2110997563029778599",
+  "primary_source": "https://github.com/Sam1983Aing/casa-serra",
+  "primary_source_tree_sha": "b47b775fae642439e8d42d6201ab5d1677d67f99",
+  "author_video_url": "https://raw.githubusercontent.com/Sam1983Aing/casa-serra/main/media/walk.mp4",
+  "author_video_git_blob_verified": {
+    "expected": "0fc25cf2a8580b9cfb01faf596c67bfee77dd400",
+    "actual": "0fc25cf2a8580b9cfb01faf596c67bfee77dd400",
+    "match": true
+  },
+  "source_video_url": "https://video.twimg.com/amplify_video/2110994917250277376/vid/avc1/1280x720/kHW9ws4tPKck4cBN.mp4?tag=29",
+  "account": "@LeoGuoLabs",
+  "format": "standalone_post_with_native_video",
+  "quote_target": null,
+  "format_reason": "The supplied post contains no relevant native quote card. Use standalone adaptation with the complete clean video from the linked creator repository.",
+  "state": "awaiting_final_approval",
+  "prepared_at": "2026-10-16T16:00:02.411913+00:00",
+  "text_path": "post-en.txt",
+  "text": "A floor plan you can scroll into. Walls rise off the page, the camera walks through the front door, and line drawings give way to textured rooms.\n\nThe clever detail in Casa Serra: the plan is already a horizontal slice of the same 3D model. Raise the cut, move the camera, and the house reveals itself.\n\nThe workflow is worth borrowing: ask the coding agent for layout options and a camera route before it writes code. Pick one, build only as far as the first room, review the recording, then continue room by room.\n\nThe creator says the full demo took about 70 prompts over two weeks with Claude Code and Opus 5.5. A separate test of the shared starter prompt reached the first room in about an hour.\n\nI can see this being useful for showing someone a house or hotel concept. Much easier to discuss a space when you can walk through it.\n\nDemo + starter prompt:\nhttps://github.com/Sam1983Aing/casa-serra",
+  "media": [
+    {
+      "path": "media/author-walk.mp4",
+      "use": "Selected sole attachment: complete author-provided demo, unmodified; no audio stream.",
+      "bytes": 13560421,
+      "sha256": "716cf3cade6fa0edacead65e780546d0d6b2b1645c58c9d807cc3b903087aec5",
+      "duration_seconds": 107.333333,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 960,
+          "height": 600,
+          "r_frame_rate": "30/1"
+        }
+      ],
+      "fresh_download": true,
+      "retrieved_at": "2026-10-16T15:57:35Z",
+      "full_decode": "passed",
+      "frames_inspected_seconds": [
+        0,
+        53.333,
+        106
+      ]
+    },
+    {
+      "path": "media/source-video.mp4",
+      "use": "Research only: full supplied-post compilation with Chinese captions and other demos; not attached.",
+      "bytes": 53780975,
+      "sha256": "2580cc64db865c4cb38af221db791d304a23885b9a254a48534cf78926f762b8",
+      "duration_seconds": 318.592,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 1280,
+          "height": 720,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "width": null,
+          "height": null,
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "fresh_download": true,
+      "retrieved_at": "2026-10-16T15:57:35Z",
+      "full_decode": "passed",
+      "frames_inspected_seconds": [
+        2,
+        159,
+        316
+      ]
+    }
+  ],
+  "checks": {
+    "source_original_chinese_read": true,
+    "relevant_author_replies_read": true,
+    "primary_readme_and_starter_prompt_read": true,
+    "claims_attributed_to_creator": true,
+    "important_distinction": "The full Casa Serra demo reportedly took about 70 prompts over two weeks. The about-one-hour result was a separate Casa Larga first-checkpoint test. The plan is a cut of existing 3D geometry, not an imported 2D image reconstructed automatically.",
+    "live_demo_limit": "The live site exposed its loading fallback clip during this check; no claim of complete interactive-app validation.",
+    "local_video_playback_advancing": true,
+    "playback_samples_seconds": [
+      0.265442,
+      36.609976
+    ],
+    "media_error": null,
+    "responsive_preview_checked": [
+      "desktop",
+      "390x844"
+    ],
+    "lan_endpoint_checked": true,
+    "range_1024_bytes": "206 and exact Content-Range confirmed",
+    "remote_phone_playback_tested": false
+  },
+  "composer": {
+    "checked": true,
+    "browser": "Codex built-in browser",
+    "account_verified": true,
+    "text_exact_match": true,
+    "readback_path": "research/composer-text.txt",
+    "native_video_count": 1,
+    "video_status": "Ready",
+    "post_enabled": true,
+    "screenshots": [
+      "research/composer-ready.jpg",
+      "research/composer-media-ready.jpg"
+    ],
+    "pending_composer_kept_open": true
+  },
+  "preview": {
+    "port": 59119,
+    "lan_ip": "172.16.10.59",
+    "url": "http://172.16.10.59:59119/"
+  },
+  "approval": {
+    "required": true,
+    "received": false,
+    "source": "AGENTS.md final-content review rule"
+  },
+  "publication": {
+    "submitted": false,
+    "url": null,
+    "publicly_verified": false
+  }
+}
