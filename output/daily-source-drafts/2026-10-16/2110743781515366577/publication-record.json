@@ -1,0 +1,16 @@
+{
+  "state": "live_verified",
+  "account": "@LeoGuoLabs",
+  "format": "standalone_text",
+  "source_url": "https://x.com/GHchangelog/status/2110743781515366577",
+  "approval_message": "Sentinel_8476295700c481918ac8363db2a3a1ca",
+  "review_message": "Sentinel_db83070ccd0481918d1883723337b1ac",
+  "final_text": "post-en-v1.txt",
+  "text_sha256": "e41cbd355b3bd92a08be7f3a9ddea13c820903abd2f5485d1163e6d706ab061f",
+  "published_url": "https://x.com/LeoGuoLabs/status/2110976666897969639",
+  "verified_at_utc": "2026-10-16T06:11:05Z",
+  "attachments": [],
+  "verification": "Reopened live URL in authenticated cloud browser; @LeoGuoLabs, all four approved paragraphs and native GitHub official article card verified. No Quote or separate media attachments. Paragraph spacing normal on live page.",
+  "official_url": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability/",
+  "rendered_short_url": "https://t.co/oOxP0qLPMp"
+}
