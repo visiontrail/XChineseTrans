@@ -1,0 +1,9 @@
+GitHub's agentic autofix is now generally available: assign a code-scanning alert to Copilot, and it explores the code, proposes a fix, reruns CodeQL, then opens a draft PR for review.
+
+If you're working through a security backlog, you can group up to 25 alerts into one PR. It currently works on default-branch alerts. Alerts found only in a PR or another branch aren't eligible.
+
+A passing rerun shows the scanner no longer flags that issue. Reviewers still need to check the behavior change and test coverage before merging.
+
+Access requires GitHub Enterprise Cloud with Code Security or Advanced Security, admin enablement, and a Copilot billing method. Usage consumes Code Security AI credits plus GitHub Actions minutes.
+
+https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability/
