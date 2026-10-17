@@ -16,5 +16,10 @@
     "Recent own replies checked; no duplicate",
     "Actual published URL reopened: complete text, account and direct parent verified"
   ],
-  "git_sync": "Pending commit and push"
+  "git_sync": {
+    "status": "pushed_remote_verified",
+    "content_commit": "ba58243a0634c5afe16c7035b7f40ac7ea064634",
+    "remote_branch": "origin/main",
+    "verified_at_utc": "2026-10-17T14:53:35Z"
+  }
 }
