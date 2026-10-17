@@ -1,0 +1,20 @@
+{
+  "status": "published_verified",
+  "account": "@LeoGuoLabs",
+  "format": "reply",
+  "reply_to": "https://x.com/PublicAI_/status/2111091985427943551",
+  "conversation_root": "https://x.com/LeoGuoLabs/status/2110880764313170167",
+  "text": "Exactly. That’s why I usually leave fast mode off.",
+  "published_url": "https://x.com/LeoGuoLabs/status/2111276235561062492",
+  "verified_at_utc": "2026-10-17T02:01:34Z",
+  "authorization": "Explicit user approval on 2026-10-17 after reviewing the English reply",
+  "verification": {
+    "account": true,
+    "full_text": true,
+    "parent_comment_visible_on_reload": true,
+    "media_count": 0
+  },
+  "git": {
+    "state": "pending_archive"
+  }
+}
