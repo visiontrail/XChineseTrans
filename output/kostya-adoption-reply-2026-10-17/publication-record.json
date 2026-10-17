@@ -1,0 +1,22 @@
+{
+  "status": "published_verified",
+  "account": "@LeoGuoLabs",
+  "format": "reply",
+  "reply_to": "https://x.com/KostyaAI/status/2111171333631680897",
+  "conversation_root": "https://x.com/LeoGuoLabs/status/2111170314067701856",
+  "text": "Agreed. New ways of working take time to catch on.",
+  "published_url": "https://x.com/LeoGuoLabs/status/2111281283821392380",
+  "verified_at_utc": "2026-10-17T02:21:20Z",
+  "authorization": {
+    "final_review_message": "Sentinel_169aa628c33c8191b99e0302463845a6",
+    "approval_message": "Sentinel_e4ea4b39f33c819191fc7b489d0daf3b",
+    "approval_text": "答复吧"
+  },
+  "verification": {
+    "account": true,
+    "full_text": true,
+    "parent_comment_visible_on_reopen": true,
+    "media_count": 0
+  },
+  "source_comment_text": "Switching costs are the moat nobody puts into those timelines. The first win usually has to slot into the spreadsheet people already open every morning."
+}
