@@ -1,0 +1,7 @@
+DeepSeek has opened Search and Fetch APIs: Search returns structured web results; Fetch turns a page into Markdown.
+
+Each costs $0.75 per 1,000 successful requests. Failed requests and empty search results aren't billed.
+
+One pricing detail: server-side Search/Fetch calls through DeepSeek Harness, Claude Code, or Codex are temporarily free for DeepSeek API users. Billing for those calls starts October 31 at 16:00 UTC.
+
+Docs: https://api-docs.deepseek.com/guides/search

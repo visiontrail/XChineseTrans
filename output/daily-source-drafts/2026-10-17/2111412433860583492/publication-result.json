@@ -1,0 +1,27 @@
+{
+  "account": "@LeoGuoLabs",
+  "format": "standalone",
+  "quote_target_url": null,
+  "media_paths": [],
+  "text_file": "post-en-v1.txt",
+  "text_sha256": "a29883ee7859401ffe6f0e781d14fab40073aef370f0c109ff7ec5d2a8709c80",
+  "approval_message_id": "Sentinel_da98d54e12d08191bb66e9d00902d23c",
+  "scheduled_not_before": "2026-10-17T15:13:57Z",
+  "published_at": "2026-10-17T15:16:10Z",
+  "published_url": "https://x.com/LeoGuoLabs/status/2111476367783076241",
+  "public_verified_at": "2026-10-17T15:18:02Z",
+  "verification": {
+    "logged_in_account": "Profile link /LeoGuoLabs and Edit profile visible before composing",
+    "duplicate_check": "Latest profile post was Flash 2111471961670905966; no Search/Fetch post; package and local records scheduled_not_published. Parent verified no later user withdrawal or change at 15:14:56Z.",
+    "composer_text": "DOM paragraph blocks joined by newline exactly matched approved file without final file newline. 24,548 characters remaining; Post enabled.",
+    "public_text": "All three paragraphs read back exactly, including price and Oct 31 16:00 UTC. Docs URL rendered by X as native website card.",
+    "official_link": "Clicked live t.co/jEwqRmjCGu card and observed final URL https://api-docs.deepseek.com/guides/search/. Official billing section verified $0.75/1000 each, failed/empty free and listed server-side calls free until Nov 1 00:00 Beijing time.",
+    "format": "Single independent post, no quoted post, parent reply or uploaded images.",
+    "timestamp": "Live time element datetime 2026-10-17T15:16:10.000Z"
+  },
+  "git_scope": [
+    "post-en-v1.txt",
+    "verification.md",
+    "publication-result.json"
+  ]
+}
