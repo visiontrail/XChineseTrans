@@ -1,0 +1,7 @@
+GitHub's AI Scan became generally available on October 15. It checks pull requests for security issues in areas CodeQL doesn't cover, including PHP, Shell scripts, Terraform and Dockerfiles.
+
+Its findings are advisory and cannot block merges through rulesets.
+
+That leaves me wondering: if the AI checking the code is less capable than the AI writing it, could subtle vulnerabilities slip through?
+
+https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available/
