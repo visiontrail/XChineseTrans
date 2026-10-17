@@ -1,0 +1,5 @@
+DeepSeek-V4.1-Flash-1017 is out on the web, app, and API, with weights released under MIT.
+
+In DeepSeek's own evaluations, Terminal-Bench 4.0 rises from 31.2 to 42.3, and DeepSWE v1.1 from 74.2 to 77.0. The company also reports faster task completion and shorter outputs than the previous version.
+
+Model card: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017

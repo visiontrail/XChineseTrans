@@ -1,0 +1,23 @@
+{
+  "approval_state": "approved",
+  "approval_message_id": "Sentinel_96a9cb51e1788191abf5aeb01e2afd12",
+  "publication_state": "published_and_publicly_verified",
+  "published_url": "https://x.com/LeoGuoLabs/status/2111471961670905966",
+  "published_at": "2026-10-17T14:58:39Z",
+  "verified_at": "2026-10-17T14:59:51Z",
+  "long_post_permission": "full_text_accepted_and_live_verified",
+  "git_state": "pending_commit",
+  "account": "@LeoGuoLabs",
+  "format": "standalone",
+  "media": [],
+  "quote_target": null,
+  "approved_text_sha256": "285756052854c1d0271085d32788e6e1def4260d19a978463c5822e883454dbd",
+  "body": "DeepSeek-V4.1-Flash-1017 is out on the web, app, and API, with weights released under MIT.\n\nIn DeepSeek's own evaluations, Terminal-Bench 4.0 rises from 31.2 to 42.3, and DeepSWE v1.1 from 74.2 to 77.0. The company also reports faster task completion and shorter outputs than the previous version.\n\nModel card: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+  "verification": {
+    "body": "All approved sentences present exactly once with paragraph breaks; URL rendered as native link card. No uploaded image, quote, or reply context.",
+    "link_short_url": "https://t.co/TYaJ2GEj6k",
+    "link_redirect_target": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "target_load": "Correct destination URL verified; destination returned temporary HTTP 502.",
+    "submission": "Initial attempt blocked on prior malformed editor evidence. Fresh empty editor rebuilt and single-copy body read back; one approved retry submitted successfully. No duplicate submission."
+  }
+}
