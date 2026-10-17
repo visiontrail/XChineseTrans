@@ -1,0 +1,50 @@
+- heading "To view keyboard shortcuts, press question mark View keyboard shortcuts" [level=2]:
+  - generic: To view keyboard shortcuts, press question mark
+  - link "View keyboard shortcuts":
+    - /url: /i/keyboard_shortcuts
+- button "Grok":
+- button "Chat":
+- dialog:
+  - dialog:
+    - progressbar
+    - button "Close":
+    - button "Drafts":
+      - generic: Drafts
+    - generic "Leo Guo":
+      - img "Leo Guo"
+    - textbox "Post text":
+      - generic: Anthropic says its employee-directed AI agents logged 6× the estimated human work hours by August. Yet roughly 80% of interactive session time was spent waiting for human input.
+      - generic: "That’s the tension I’d watch: you can add agents faster than you can add human attention. The useful next step is to make their work easier to inspect, give them clear boundaries, and bring you in when a decision actually needs you. One fast-growing AI lab isn’t the whole economy, but this is a concrete glimpse of how the job changes."
+    - generic: Quote
+    - 'button "Peter McCrory Verified account @PeterMcCrory Oct 17 Today, we''re publishing two new findings from inside Anthropic: how work and hiring are changing at a company at the frontier of AI adoption, and how Anthropic staff expect AI to change the economy. anthropic.com/research/expec"':
+      - generic: Peter McCrory
+      - img "Verified account"
+      - generic: "@PeterMcCrory"
+      - generic: ·
+      - generic "Oct 17":
+        - time: Oct 17
+      - text: "Today, we're publishing two new findings from inside Anthropic: how work and hiring are changing at a company at the frontier of AI adoption, and how Anthropic staff expect AI to change the economy."
+      - generic: anthropic.com/research/expec …
+    - link "Try out":
+      - /url: /compose/articles
+    - text: the new article composer for new formatting options.
+    - button "Close":
+    - button "Everyone can reply":
+      - generic: Everyone can reply
+    - navigation:
+      - button "Previous" [disabled]:
+      - tablist:
+        - button "Choose File"
+        - button "Add photos or video":
+        - button "Add a GIF":
+        - button "Add poll" [disabled]:
+        - button "Add emoji":
+        - button "Schedule post":
+        - button "Tag location" [disabled]:
+        - button "Content disclosure":
+      - button "Next" [disabled]:
+    - generic: 24,485 characters remaining
+    - progressbar:
+    - button "Add post":
+    - button "Post":
+      - generic: Post

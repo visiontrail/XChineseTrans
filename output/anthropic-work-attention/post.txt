@@ -1,0 +1,3 @@
+Anthropic says its employee-directed AI agents logged 6× the estimated human work hours by August. Yet roughly 80% of interactive session time was spent waiting for human input.
+
+That’s the tension I’d watch: you can add agents faster than you can add human attention. The useful next step is to make their work easier to inspect, give them clear boundaries, and bring you in when a decision actually needs you. One fast-growing AI lab isn’t the whole economy, but this is a concrete glimpse of how the job changes.

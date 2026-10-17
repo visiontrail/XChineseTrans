@@ -1,0 +1,290 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/dotey/status/2111223306061836484",
+    "id": "2111223306061836484",
+    "text": "Anthropic 公布内部数据：AI agent 工作时长已是员工 6 倍，技术岗新招的初级员工占比从 27% 降到 9%\n\nAnthropic 10 月 16 日发布两份报告。一份讲 AI 怎么改变了 Anthropic 自己的招聘和工作方式，另一份比较 Anthropic 员工和普通美国人对 AI 前景的预期。两份报告合起来的结论是：员工和公众对 AI 怎么影响就业的理解差不多，预期差距主要来自每天用 AI 的亲身体验不同。\n\n先看招聘。Anthropic 技术部门新招的人里，初级岗位的比例从 27% 降到 9%，2025 年 12 月之后初级职位的招聘明显减少。技术部门员工占全公司的比例从 61% 降到 56%，不过技术岗的绝对人数还在增长。\n\n面试评价里提到候选人会不会用 AI 工具的次数，比 2024 年多了好几倍，技术岗约 3 倍，非技术岗约 4 倍。\n\n再看 AI 干了多少活。2026 年 3 月，AI agent 的累计工作时长第一次超过员工。到 8 月，员工自己调用的 agent 工作时长已是员工的 6 倍。这里员工工时按每人每周 40 小时估算，agent 只算实际运行和调用工具的时间。\n\n产出跟着涨。\n\n工程师人均代码提交量是半年前的 5 倍，律师处理的合同、销售签下的单子也变多了。\n\n研究人员追踪了 192 位开始用编程 agent 的工程师，发现他们用上之后写的代码明显增多，而且 agent 写的代码和人写的代码，后来被删掉或撤回的比例没有差别。\n\n新的瓶颈是人的注意力。\n\n报告统计，Claude 的会话里大约 80% 的时间在等人回复。员工花在“管 AI”上的精力越来越多，比如给 agent 写固定指令、检查 agent 的产出、搭监控流程，这类工作在员工使用 Claude 的过程中占比从 2025 年秋天的 10% 涨到 2026 年春天的 22%。\n\n4 月的内部调查里，20% 的员工说自己的角色正从亲手干活变成管理一群 Claude。\n\nAnthropic 认为自己可能是个先行指标，AI 用得最深的公司现在出现的招聘和分工变化，以后可能出现在更多行业。报告也提醒，它是 AI 公司，又处在高速扩张期，这些数字不能直接套到普通企业身上。\n\n第二份报告用 1334 名员工的内部问卷，和调查公司 Morning Consult 8 月对近 1.1 万名美国成年人的调查做对比。\n\n差距最大的两道题：认为 AI 到 2030 年能做出诺贝尔奖级别发现的，员工 91%，美国人 39%；认为到 2030 年 AI 能干自己现在八成以上工作的，员工超过一半，美国人只有约 5%。员工内部也有分歧，大约 2 成员工的预期和普通美国人差不多。\n\n预期差这么多，推理方式却相近。两组人都是觉得 AI 能替自己干的活越多，就预测失业率越高。\n\n比如美国受访者里，预计 AI 能干自己八成以上工作的人，预测 2030 年美国失业率会到 12.2%，目前大约是 4.2%。按 Anthropic 的解释，两边对 AI 如何影响劳动力市场的判断逻辑一样，区别在于亲眼见到的 AI 能力不同。\n\n原文：https://www.anthropic.com/research/expectations-for-the-future\n员工就业报告：https://www.anthropic.com/research/employment-at-anthropic\n预期差距报告：https://www.anthropic.com/research/ai-expectations-gap",
+    "raw_text": {
+      "text": "Anthropic 公布内部数据：AI agent 工作时长已是员工 6 倍，技术岗新招的初级员工占比从 27% 降到 9%\n\nAnthropic 10 月 16 日发布两份报告。一份讲 AI 怎么改变了 Anthropic 自己的招聘和工作方式，另一份比较 Anthropic 员工和普通美国人对 AI 前景的预期。两份报告合起来的结论是：员工和公众对 AI 怎么影响就业的理解差不多，预期差距主要来自每天用 AI 的亲身体验不同。\n\n先看招聘。Anthropic 技术部门新招的人里，初级岗位的比例从 27% 降到 9%，2025 年 12 月之后初级职位的招聘明显减少。技术部门员工占全公司的比例从 61% 降到 56%，不过技术岗的绝对人数还在增长。\n\n面试评价里提到候选人会不会用 AI 工具的次数，比 2024 年多了好几倍，技术岗约 3 倍，非技术岗约 4 倍。\n\n再看 AI 干了多少活。2026 年 3 月，AI agent 的累计工作时长第一次超过员工。到 8 月，员工自己调用的 agent 工作时长已是员工的 6 倍。这里员工工时按每人每周 40 小时估算，agent 只算实际运行和调用工具的时间。\n\n产出跟着涨。\n\n工程师人均代码提交量是半年前的 5 倍，律师处理的合同、销售签下的单子也变多了。\n\n研究人员追踪了 192 位开始用编程 agent 的工程师，发现他们用上之后写的代码明显增多，而且 agent 写的代码和人写的代码，后来被删掉或撤回的比例没有差别。\n\n新的瓶颈是人的注意力。\n\n报告统计，Claude 的会话里大约 80% 的时间在等人回复。员工花在“管 AI”上的精力越来越多，比如给 agent 写固定指令、检查 agent 的产出、搭监控流程，这类工作在员工使用 Claude 的过程中占比从 2025 年秋天的 10% 涨到 2026 年春天的 22%。\n\n4 月的内部调查里，20% 的员工说自己的角色正从亲手干活变成管理一群 Claude。\n\nAnthropic 认为自己可能是个先行指标，AI 用得最深的公司现在出现的招聘和分工变化，以后可能出现在更多行业。报告也提醒，它是 AI 公司，又处在高速扩张期，这些数字不能直接套到普通企业身上。\n\n第二份报告用 1334 名员工的内部问卷，和调查公司 Morning Consult 8 月对近 1.1 万名美国成年人的调查做对比。\n\n差距最大的两道题：认为 AI 到 2030 年能做出诺贝尔奖级别发现的，员工 91%，美国人 39%；认为到 2030 年 AI 能干自己现在八成以上工作的，员工超过一半，美国人只有约 5%。员工内部也有分歧，大约 2 成员工的预期和普通美国人差不多。\n\n预期差这么多，推理方式却相近。两组人都是觉得 AI 能替自己干的活越多，就预测失业率越高。\n\n比如美国受访者里，预计 AI 能干自己八成以上工作的人，预测 2030 年美国失业率会到 12.2%，目前大约是 4.2%。按 Anthropic 的解释，两边对 AI 如何影响劳动力市场的判断逻辑一样，区别在于亲眼见到的 AI 能力不同。\n\n原文：https://t.co/JUr67nLMkY\n员工就业报告：https://t.co/Mfho9bNa0j\n预期差距报告：https://t.co/ooInCG1eb1",
+      "display_text_range": [
+        0,
+        1406
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            181,
+            204
+          ],
+          "id": "2111223118656098304",
+          "display": "pic.x.com/E6k0OAlcTl",
+          "original": "https://t.co/E6k0OAlcTl",
+          "replacement": "https://x.com/dotey/status/2111223306061836484/photo/1"
+        },
+        {
+          "type": "media",
+          "indices": [
+            181,
+            204
+          ],
+          "id": "2111223215359971328",
+          "display": "pic.x.com/E6k0OAlcTl",
+          "original": "https://t.co/E6k0OAlcTl",
+          "replacement": "https://x.com/dotey/status/2111223306061836484/photo/1"
+        },
+        {
+          "type": "media",
+          "indices": [
+            181,
+            204
+          ],
+          "id": "2111223266039795712",
+          "display": "pic.x.com/E6k0OAlcTl",
+          "original": "https://t.co/E6k0OAlcTl",
+          "replacement": "https://x.com/dotey/status/2111223306061836484/photo/1"
+        },
+        {
+          "type": "media",
+          "indices": [
+            181,
+            204
+          ],
+          "id": "2111223298918858753",
+          "display": "pic.x.com/E6k0OAlcTl",
+          "original": "https://t.co/E6k0OAlcTl",
+          "replacement": "https://x.com/dotey/status/2111223306061836484/photo/1"
+        },
+        {
+          "type": "url",
+          "indices": [
+            1321,
+            1344
+          ],
+          "original": "https://t.co/JUr67nLMkY",
+          "replacement": "https://www.anthropic.com/research/expectations-for-the-future",
+          "display": "anthropic.com/research/expec…"
+        },
+        {
+          "type": "url",
+          "indices": [
+            1352,
+            1375
+          ],
+          "original": "https://t.co/Mfho9bNa0j",
+          "replacement": "https://www.anthropic.com/research/employment-at-anthropic",
+          "display": "anthropic.com/research/emplo…"
+        },
+        {
+          "type": "url",
+          "indices": [
+            1383,
+            1406
+          ],
+          "original": "https://t.co/ooInCG1eb1",
+          "replacement": "https://www.anthropic.com/research/ai-expectations-gap",
+          "display": "anthropic.com/research/ai-ex…"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "dotey",
+      "url": "https://x.com/dotey",
+      "id": "3178231",
+      "followers": 259610,
+      "following": 1756,
+      "likes": 56202,
+      "media_count": 6031,
+      "name": "宝玉",
+      "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "raw_description": {
+        "text": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "facets": []
+      },
+      "location": "Chicago, IL",
+      "banner_url": "",
+      "avatar_url": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_200x200.jpeg",
+      "joined": "Mon Apr 02 03:42:14 +0000 2007",
+      "protected": false,
+      "website": {
+        "url": "https://baoyu.io",
+        "display_url": "baoyu.io"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 132,
+    "retweets": 51,
+    "likes": 272,
+    "bookmarks": 203,
+    "quotes": 20,
+    "created_at": "Fri Oct 16 22:30:35 +0000 2026",
+    "created_timestamp": 1792189835,
+    "possibly_sensitive": false,
+    "views": 38395,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2111223118656098304",
+          "url": "https://pbs.twimg.com/media/HUySPZ0W0AAB8Pu.jpg?name=orig",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "type": "photo",
+          "id": "2111223215359971328",
+          "url": "https://pbs.twimg.com/media/HUySVCEW0AAxvZ4.jpg?name=orig",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "type": "photo",
+          "id": "2111223266039795712",
+          "url": "https://pbs.twimg.com/media/HUySX-3XkAAegbr.jpg?name=orig",
+          "width": 1920,
+          "height": 1252
+        },
+        {
+          "type": "photo",
+          "id": "2111223298918858753",
+          "url": "https://pbs.twimg.com/media/HUySZ5WWQAEQDCN.jpg?name=orig",
+          "width": 1920,
+          "height": 1641
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2111223118656098304",
+          "url": "https://pbs.twimg.com/media/HUySPZ0W0AAB8Pu.jpg?name=orig",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "type": "photo",
+          "id": "2111223215359971328",
+          "url": "https://pbs.twimg.com/media/HUySVCEW0AAxvZ4.jpg?name=orig",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "type": "photo",
+          "id": "2111223266039795712",
+          "url": "https://pbs.twimg.com/media/HUySX-3XkAAegbr.jpg?name=orig",
+          "width": 1920,
+          "height": 1252
+        },
+        {
+          "type": "photo",
+          "id": "2111223298918858753",
+          "url": "https://pbs.twimg.com/media/HUySZ5WWQAEQDCN.jpg?name=orig",
+          "width": 1920,
+          "height": 1641
+        }
+      ],
+      "mosaic": {
+        "type": "mosaic_photo",
+        "formats": {
+          "jpeg": "https://mosaic.fxtwitter.com/jpeg/2111223306061836484/HUySPZ0W0AAB8Pu/HUySVCEW0AAxvZ4/HUySX-3XkAAegbr/HUySZ5WWQAEQDCN",
+          "webp": "https://mosaic.fxtwitter.com/webp/2111223306061836484/HUySPZ0W0AAB8Pu/HUySVCEW0AAxvZ4/HUySX-3XkAAegbr/HUySZ5WWQAEQDCN"
+        }
+      }
+    },
+    "quote": {
+      "url": "https://x.com/PeterMcCrory/status/2111197592285860233",
+      "id": "2111197592285860233",
+      "text": "Today, we're publishing two new findings from inside Anthropic: how work and hiring are changing at a company at the frontier of AI adoption, and how Anthropic staff expect AI to change the economy.\n\nhttps://anthropic.com/research/expectations-for-the-future",
+      "raw_text": {
+        "text": "Today, we're publishing two new findings from inside Anthropic: how work and hiring are changing at a company at the frontier of AI adoption, and how Anthropic staff expect AI to change the economy.\n\nhttps://t.co/ehPoxeJGH2",
+        "display_text_range": [
+          0,
+          223
+        ],
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              200,
+              223
+            ],
+            "original": "https://t.co/ehPoxeJGH2",
+            "replacement": "https://anthropic.com/research/expectations-for-the-future",
+            "display": "anthropic.com/research/expec…"
+          }
+        ]
+      },
+      "author": {
+        "screen_name": "PeterMcCrory",
+        "url": "https://x.com/PeterMcCrory",
+        "id": "56429402",
+        "followers": 48694,
+        "following": 473,
+        "likes": 2663,
+        "media_count": 82,
+        "name": "Peter McCrory",
+        "description": "Chief Economist at Anthropic. Views are my own.",
+        "raw_description": {
+          "text": "Chief Economist at Anthropic. Views are my own.",
+          "facets": []
+        },
+        "location": "America",
+        "banner_url": "https://pbs.twimg.com/profile_banners/56429402/1736389486",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2011984403191500800/KLJy_IKI_200x200.jpg",
+        "joined": "Mon Jul 13 17:10:21 +0000 2009",
+        "protected": false,
+        "website": null,
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "individual"
+        },
+        "avatar_color": null
+      },
+      "replies": 59,
+      "retweets": 113,
+      "likes": 1199,
+      "bookmarks": 1319,
+      "quotes": 53,
+      "created_at": "Fri Oct 16 20:48:24 +0000 2026",
+      "created_timestamp": 1792183704,
+      "possibly_sensitive": false,
+      "views": 146047,
+      "is_note_tweet": false,
+      "community_note": null,
+      "lang": "en",
+      "replying_to": null,
+      "replying_to_status": null,
+      "card": {
+        "url": "https://anthropic.com/research/expectations-for-the-future",
+        "title": "Working at the frontier shapes expectations for the future",
+        "description": "We’re sharing two reports: the first covers how AI is changing employment inside Anthropic, and the second looks at the gap between how the public and Anthropic employees expect AI to affect work and...",
+        "domain": "www.anthropic.com",
+        "image": {
+          "width": 800,
+          "height": 419,
+          "url": "https://pbs.twimg.com/card_img/2111197636162379776/xomjhjCW?format=jpg&name=800x419",
+          "alt": "Anthropic logo"
+        }
+      },
+      "twitter_card": "tweet",
+      "color": null,
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

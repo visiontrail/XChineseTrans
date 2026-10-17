@@ -1,0 +1,66 @@
+{
+  "checked_at": "2026-10-17T23:54:38.969281+00:00",
+  "sources": [
+    {
+      "url": "https://www.anthropic.com/research/expectations-for-the-future",
+      "published": "2026-10-16",
+      "role": "Official overview linking both reports"
+    },
+    {
+      "url": "https://www.anthropic.com/research/employment-at-anthropic",
+      "published": "2026-10-16",
+      "role": "Primary source for both numeric claims in the draft",
+      "checks": [
+        "By August 2026 employee-directed interactive agent runtime reached six times estimated human work hours. Interactive sessions pool subagents; runtime includes inference and active tool use, excludes waits longer than 30 minutes; human denominator assumes 40 hours/week per employee.",
+        "Around 80% of interactive multi-turn session wall-clock time is idle waiting for human input. This has a different denominator from the six-to-one runtime ratio.",
+        "Junior technical hires fell from 27% to 9% of technical hires, not a 27-to-9 headcount change. Overall technical hiring grew in absolute terms.",
+        "Code commits per engineer increased around fivefold; this is not a direct measure of business value. Adoption was not randomized.",
+        "The report describes rising agent-management work and human attention bottlenecks. Its single rapidly growing AI-lab setting limits generalization."
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/research/ai-expectations-gap",
+      "published": "2026-10-16",
+      "role": "Context checked; numeric forecasts omitted from focused Quote commentary",
+      "checks": [
+        "August survey: 10980 US adults, weighted; 1334 staff, unweighted. Job-specific comparisons restrict the US sample to employed respondents.",
+        "91% of staff versus 39% of US adults expect Nobel-level discoveries by 2030. These are expectations, not measured AI capability.",
+        "A September public follow-up raised the Nobel-level response to 44%; the published main comparisons use August results."
+      ]
+    }
+  ],
+  "editorial_judgment": "The practical recommendations about inspectability, boundaries and selective escalation are commentary inspired by the report, not tested outcomes or claimed personal experience.",
+  "media_selection": "Native original announcement only. The intermediary has four English charts, no videos; the target has a link card, no video. No decorative visual needed.",
+  "source_files": [
+    {
+      "file": "research/source-image-1.jpg",
+      "bytes": 126219,
+      "sha256": "9f3dea832ad69c9830ba894e158ca9cdc30f7de9e20639efd32bd48beca8cf9f"
+    },
+    {
+      "file": "research/source-image-2.jpg",
+      "bytes": 86110,
+      "sha256": "71a72db403eab40df853008ece389674e187a926be0e1d89af7410d56190c9d8"
+    },
+    {
+      "file": "research/source-image-3.jpg",
+      "bytes": 121466,
+      "sha256": "78b45054f7340afdd0998293ca3980139fcc1ca806856342e1cd7a14b9259d39"
+    },
+    {
+      "file": "research/source-image-4.jpg",
+      "bytes": 180938,
+      "sha256": "a239c385b28323f33a395f498eaf2a4b9e01e2769b2e5c53fab601b8e43df30c"
+    }
+  ],
+  "live_author_thread_checked": [
+    "2111197592285860233",
+    "2111197595943256119",
+    "2111197599852302346",
+    "2111197604264763461",
+    "2111197608945611260",
+    "2111197613521572033"
+  ],
+  "live_author_thread_notes": "Read the original announcement and five directly relevant continuation posts covering capability expectations, agent hours, output, junior hiring and unemployment expectations. No video in selected material.",
+  "additional_metric_qualification": "Meta-work 10% to 22% refers to share of interactive Claude sessions classified from 2000 summaries, not measured employee work-hour share; omitted from draft."
+}
