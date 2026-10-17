@@ -19,5 +19,8 @@
     "x_short_url": "https://t.co/Zc2JUks8Rm",
     "long_post_accepted": true
   },
-  "git_status": "pending_commit"
+  "git_state": "pushed_verified",
+  "git_content_commit": "60f9bc5307d2cdfe67b56a43395a717f6074146e",
+  "remote_branch": "origin/main",
+  "remote_contains_content_commit_verified": true
 }
