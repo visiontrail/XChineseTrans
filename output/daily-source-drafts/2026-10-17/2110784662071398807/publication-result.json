@@ -1,0 +1,26 @@
+{
+  "account": "@LeoGuoLabs",
+  "publication_state": "published_verified",
+  "published_url": "https://x.com/LeoGuoLabs/status/2111499261271478665",
+  "published_display_time": "9:47 AM PDT · Oct 17, 2026",
+  "verified_at": "2026-10-17T16:48:38.581653+00:00",
+  "scheduled_not_before": "2026-10-17T16:45:00Z",
+  "approval_message_id": "Sentinel_d72a875f5fec8191b3fec36b402d4cb1",
+  "approved_review_message_id": "Sentinel_fc52ec4c7fa0819189cb2e103f6a6138",
+  "final_text_file": "post-en-v3.txt",
+  "text_sha256": "0deceb583fe48e331be37dfa6c31d186b142cff3832b3562808e024c8ee250d7",
+  "format": "standalone",
+  "media": [],
+  "quote_target": null,
+  "reply_to": null,
+  "verification": {
+    "full_three_paragraphs_match": true,
+    "official_link": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+    "published_short_link": "https://t.co/Kn5qLA4Qka",
+    "redirect_verified": true,
+    "native_article_card": true,
+    "long_post_accepted": true,
+    "duplicate_check": "Local package scheduled/unpublished and recent live profile through prior Search post; no METR duplicate.",
+    "submitted_once": true
+  }
+}

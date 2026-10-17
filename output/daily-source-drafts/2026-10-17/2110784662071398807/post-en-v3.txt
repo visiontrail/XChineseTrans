@@ -1,0 +1,7 @@
+Anthropic says six staff from METR, a nonprofit AI evaluation organization, now have employee-like access to its internal tools and systems to assess AI risks.
+
+That access has limits, including exclusions for customer data and model architecture details. METR can publish its findings without Anthropic vetoing publication, but Anthropic can require redactions in predefined categories and decides what falls into them. METR retains some rights to comment on the access and information it received.
+
+Anthropic can be uncompromising on policy, but I think its contributions to AI capabilities and safety are undeniable.
+
+https://www.anthropic.com/news/an-update-on-independent-evaluators
