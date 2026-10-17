@@ -1,0 +1,20 @@
+{
+  "status": "published_verified",
+  "account": "LeoGuoLabs",
+  "format": "reply",
+  "body": "Nice! Now I’m tempted to try it on my spare Android phone. Thanks for the tip!",
+  "media": [],
+  "reply_to": "https://x.com/porobertdev/status/2111423109639405997",
+  "root_post": "https://x.com/LeoGuoLabs/status/2111123142177354180",
+  "published_url": "https://x.com/LeoGuoLabs/status/2111470369542652056",
+  "verified_at_utc": "2026-10-17T14:52:36Z",
+  "authorization_message": "Sentinel_ad952c2648988191a98a023b09c0921f",
+  "authorization_text": "可以答复：不错不错，我都想用我闲置的Android试试看了，多谢多谢",
+  "checks": [
+    "Authenticated profile is LeoGuoLabs",
+    "Target comment text and Hermes parent chain read",
+    "Recent own replies checked; no duplicate",
+    "Actual published URL reopened: complete text, account and direct parent verified"
+  ],
+  "git_sync": "Pending commit and push"
+}
