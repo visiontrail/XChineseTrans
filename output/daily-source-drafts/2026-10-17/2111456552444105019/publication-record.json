@@ -1,0 +1,33 @@
+{
+  "account": "@LeoGuoLabs",
+  "url": "https://x.com/LeoGuoLabs/status/2111481877148086412",
+  "format": "standalone_video",
+  "published_at": "2026-10-17T15:38:03.605000+00:00",
+  "verified_at": "2026-10-17T15:39:05.151551+00:00",
+  "approved_text": "post-en-v1.txt",
+  "text_sha256": "41187c0eedc5f0b2c617527ab185254d5da4076e220235dd69a387d918f3d8cc",
+  "approved_media": "media/digup-demo.mp4",
+  "media_sha256": "5bd9f3cbb911803c46b3430825b2d3c2470df8f60fb0b2607e9b5af205598d98",
+  "approval_message_id": "Sentinel_bca94b95b0448191bb2a6f8ec32c050a",
+  "not_before": "2026-10-17T15:35:20Z",
+  "verification": {
+    "account": "@LeoGuoLabs",
+    "format": "standalone",
+    "full_text_verified": true,
+    "official_link": "https://github.com/ARahim3/DigUp",
+    "media_count": 1,
+    "video_duration_seconds": 28.27,
+    "playback_seconds": [
+      11.523178,
+      16.134259
+    ],
+    "paused": false,
+    "ready_state": 4,
+    "video_error": null,
+    "alt_state": "unavailable_in_video_editor",
+    "alt_note": "Editor exposes Captions/SRT and Content warning; no ALT field. Prepared ALT not appended to public copy.",
+    "submitted_once": true
+  },
+  "rights_note": "Review disclosed MIT repository license and unverified underlying sample-media rights. User subsequently explicitly requested download and standalone reupload of this video; this is informed selection, not new permission from the creator or clearance of third-party rights. No specific no-reposting restriction found in inspected repository LICENSE.",
+  "published_time_evidence": "X timestamp displayed 8:38 AM Oct17 PDT; exact UTC decoded from actual published snowflake ID"
+}

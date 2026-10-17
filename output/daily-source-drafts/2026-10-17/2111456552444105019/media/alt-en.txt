@@ -1,0 +1,1 @@
+DigUp demonstration across macOS, Windows and Linux, showing natural-language searches for a zebra in a video, a podcast passage, a clause in a document, multilingual image searches, and code results. Original screen demonstration; no audio.
