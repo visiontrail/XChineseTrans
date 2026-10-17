@@ -1,0 +1,7 @@
+GitHub’s open source license compliance feature became generally available on October 16.
+
+Enterprises can set one license policy across their repositories and use active rulesets to block pull requests that introduce dependencies that violate it. A new API also lets teams check a package against that policy before adding it.
+
+It requires GitHub Enterprise Cloud and GitHub Code Security enabled on the repository.
+
+https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available/

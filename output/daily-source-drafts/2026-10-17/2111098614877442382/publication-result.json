@@ -1,0 +1,23 @@
+{
+  "account": "@LeoGuoLabs",
+  "format": "standalone",
+  "revision": "v2",
+  "final_text_file": "post-en-v2.txt",
+  "text_sha256": "7378632c2af4eab3a21598b4d4aa0c1210b36950744625f6c01cd1ae52b501de",
+  "approval_message_id": "Sentinel_c1919f892dd481918b22c8ecfda8f574",
+  "review_message_id": "Sentinel_8ea7f2be3c948191bb480618c85884d1",
+  "url": "https://x.com/LeoGuoLabs/status/2111374199121907993",
+  "submitted_at_utc": "2026-10-17T08:30:06Z",
+  "verified_at_utc": "2026-10-17T08:31:14.847244+00:00",
+  "verification": {
+    "account": true,
+    "complete_three_paragraphs": true,
+    "standalone_not_reply_or_quote": true,
+    "uploaded_media_count": 0,
+    "official_link_card_title": "Open source license compliance generally available - GitHub Changelog",
+    "official_url": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available/",
+    "x_short_url": "https://t.co/Zc2JUks8Rm",
+    "long_post_accepted": true
+  },
+  "git_status": "pending_commit"
+}
