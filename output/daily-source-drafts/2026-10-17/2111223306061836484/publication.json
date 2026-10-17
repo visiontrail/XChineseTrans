@@ -1,0 +1,18 @@
+{
+  "account": "@LeoGuoLabs",
+  "url": "https://x.com/LeoGuoLabs/status/2111291299668111561",
+  "format": "native_quote",
+  "quote_target_url": "https://x.com/PeterMcCrory/status/2111197592285860233",
+  "approved_text_sha256": "560a1e2e733e79a56a76ce5c6c444dd79cfd7bee5551d93fbca24bc671070c69",
+  "verified_at": "2026-10-17T03:04:02.166372+00:00",
+  "verification": {
+    "full_body_read_back": true,
+    "official_url_visible": "https://www.anthropic.com/research/employment-at-anthropic",
+    "quote_author": "@PeterMcCrory",
+    "quote_text_matches_target": true,
+    "uploaded_media_count": 0,
+    "long_post_accepted": true
+  },
+  "time_note": "X displayed 8:00 PM Oct 16 in browser timezone; publication executed about 03:00 UTC Oct 17 (11:00 Singapore).",
+  "approval_message_id": "Sentinel_72df33f453788191b1c4d206857c07b1"
+}

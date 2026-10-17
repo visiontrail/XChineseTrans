@@ -1,0 +1,11 @@
+What happens when an agent system can generate work faster than people can review it?
+
+Anthropic's new internal study offers a concrete example: by August, employee-directed agents logged about 6 times the estimated human work hours. That's a runtime comparison, not a 6x productivity claim. Human hours assume a 40-hour week; agent hours include inference and tool use, with waits longer than 30 minutes excluded.
+
+Meanwhile, roughly 80% of elapsed time in interactive Claude sessions was spent waiting for human input. Employees increasingly built instructions, review loops and monitoring tools to manage the flow of work.
+
+If you're building an agent system, that raises a practical question: which decisions genuinely need a person? A useful next step is to separate routine status updates from exceptions that need judgment, and give reviewers enough context to decide without rereading every run.
+
+This is evidence from one rapidly growing AI company, so it shouldn't be treated as a forecast for every workplace.
+
+https://www.anthropic.com/research/employment-at-anthropic
