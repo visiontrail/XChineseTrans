@@ -15,6 +15,10 @@
     "media_count": 0
   },
   "git": {
-    "state": "pending_archive"
+    "state": "pushed_verified",
+    "archive_commit": "ee1c21c5e319ae362c1cb6a89eac2f977a5ba7f0",
+    "remote": "https://github.com/visiontrail/XChineseTrans",
+    "branch": "main",
+    "verified_at_utc": "2026-10-17T02:02:20Z"
   }
 }
