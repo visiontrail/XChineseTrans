@@ -1,0 +1,73 @@
+{
+  "checked_at_utc": "2026-10-18T15:49:24.351660+00:00",
+  "method": "Authenticated Codex built-in browser: source text, Musk Quote Post, original user photo, and directly relevant author replies inspected live.",
+  "source_url": "https://x.com/alanchen/status/2111639652939497507",
+  "quote_target": "https://x.com/elonmusk/status/2111612315204272233",
+  "target_text": "This really works!\n\nGrok @Bot can pay for itself.",
+  "original_user_post": "https://x.com/mikepat711/status/2111452223838224866",
+  "source_image_url": "https://pbs.twimg.com/media/HU1im5cXoAAg58_?format=jpg&name=large",
+  "source_image_acquisition": "Fresh browser downloadMedia download for this task; original retained without editing.",
+  "media": {
+    "relevant_images": 1,
+    "relevant_videos": 0,
+    "publication_attachment": "Native nested Quote card only; no duplicate attachment."
+  },
+  "primary_observations": [
+    {
+      "source": "original_user_post_photo",
+      "fact": "The bot message claims a 300 Mbps Xfinity plan at $70.90/month, no contract, no mobile line or Peacock; $43/month below the October $113.90 bill."
+    },
+    {
+      "source": "original_user_post_photo",
+      "fact": "The message says the price adjustment will appear on next month's bill and that it will check that bill later."
+    },
+    {
+      "source": "https://x.com/mikepat711/status/2111818868985385427",
+      "text": "No but I was watching the entire thing, and it was def a bot on their end negotiating with my agent lol. And I had to authorize the final deal"
+    },
+    {
+      "source": "https://x.com/mikepat711/status/2111453597057593759",
+      "text": "I had to log homie in"
+    },
+    {
+      "source": "https://x.com/mikepat711/status/2111473898298744909",
+      "text": "Chat. I watched the whole thing 😂 some bot on not negotiating"
+    }
+  ],
+  "limits": [
+    "One user report and screenshot, not an independently verified Xfinity transaction or later bill.",
+    "Prior plan speed and equivalent service terms are not established. Do not describe a same-plan price cut.",
+    "Human login, observation, and final authorization are reported; do not claim no human involvement.",
+    "Intermediary subscription price and tier were not verified and are omitted from public copy."
+  ],
+  "duplicate_check": {
+    "local_and_origin_main": "No source, quote target, or original user IDs found in existing output records after git fetch origin."
+  },
+  "assets": [
+    {
+      "path": "post-en.txt",
+      "bytes": 300,
+      "sha256": "28b939448deb15c90f507bf1e7438b15eb9d6500e80c052db196c49812707d75"
+    },
+    {
+      "path": "research/musk-source.jpg",
+      "bytes": 103803,
+      "sha256": "dc4678041e620c7e4ea036a8985d11c392ed64afd50466c0eb816d4d5557cf07"
+    },
+    {
+      "path": "research/quote-composer.jpg",
+      "bytes": 91131,
+      "sha256": "0a71437ee3c35038049851882113f0d74e0995d34f9792d3608e0b71949f61c8"
+    },
+    {
+      "path": "research/source-image.jpeg",
+      "bytes": 132751,
+      "sha256": "e07c4f468d450f57fa9f43a416afdcec72b587f3d0cdf0cd89c4e4819f67250b"
+    },
+    {
+      "path": "research/source-user-photo.jpg",
+      "bytes": 136514,
+      "sha256": "1b55859ba1c29f6c30b872052e6139b2ffab2ff1d90ec2dee0431372127d270d"
+    }
+  ]
+}
