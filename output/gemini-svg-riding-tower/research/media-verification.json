@@ -1,0 +1,30 @@
+[
+  {
+    "path": "media/riding-tower-cat-original.mp4",
+    "duration_seconds": 25.6,
+    "resolution": [
+      2560,
+      1440
+    ],
+    "codec": "h264",
+    "audio_streams": 0,
+    "complete_decode": "passed without errors",
+    "sampled_frames": "beginning, middle, end visually inspected",
+    "playback": "verified advancing",
+    "checksum_verified": true
+  },
+  {
+    "path": "media/riding-tower-previous-original.mp4",
+    "duration_seconds": 38.0,
+    "resolution": [
+      2560,
+      1440
+    ],
+    "codec": "h264",
+    "audio_streams": 0,
+    "complete_decode": "passed without errors",
+    "sampled_frames": "beginning, middle, end visually inspected",
+    "playback": "verified advancing",
+    "checksum_verified": true
+  }
+]

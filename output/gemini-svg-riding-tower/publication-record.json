@@ -1,0 +1,49 @@
+{
+  "topic": "gemini-svg-riding-tower",
+  "status": "awaiting_final_approval",
+  "created_at": "2026-10-18T15:41:29.492598+00:00",
+  "account": "@LeoGuoLabs",
+  "supplied_source": "https://x.com/leo114119/status/2111834005142372654",
+  "format": "native_quote",
+  "quote_target": "https://x.com/HarshithLucky3/status/2111831036330123698",
+  "earlier_context": "https://x.com/HarshithLucky3/status/2111806390704693317",
+  "post_text_file": "post-en.txt",
+  "post_text": "The pelican does all the pedaling. The cat gets the glory. 😺\n\nHarshith’s Gemini 4 Argon High SVG demo turns an absurd stack of animals and vehicles into a tiny circus. I like the camera move: follow the cat up, then pull back to reveal how ridiculous the whole tower is.",
+  "native_media_preserved": true,
+  "additional_uploads": [],
+  "local_original_videos": [
+    "media/riding-tower-cat-original.mp4",
+    "media/riding-tower-previous-original.mp4"
+  ],
+  "selected_video": "media/riding-tower-cat-original.mp4",
+  "authorization": {
+    "preparation": "link-only standing workflow",
+    "publication": "pending final content approval",
+    "direct_publish_waiver": false
+  },
+  "composer_check": "research/composer-check.json",
+  "research_notes": "research/verification.md",
+  "download_manifest": "research/downloads.json",
+  "review_page": "review/index.html",
+  "review_access": {
+    "port": 58980,
+    "local_url": "http://127.0.0.1:58980/",
+    "lan_url": "http://172.16.10.59:58980/"
+  },
+  "published_url": null,
+  "publication_submitted": false,
+  "public_verification": null,
+  "prepared_at": "2026-10-18T15:43:13.234783+00:00",
+  "media_verification": "research/media-verification.json",
+  "checks": {
+    "fresh_original_downloads": true,
+    "decode_all": true,
+    "sampled_frames_inspected": true,
+    "playback_verified": true,
+    "composer_ready": true,
+    "desktop_review": true,
+    "narrow_review": true,
+    "lan_http_and_range_verified": true,
+    "remote_phone_playback_tested": false
+  }
+}

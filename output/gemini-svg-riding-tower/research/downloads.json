@@ -1,0 +1,24 @@
+[
+  {
+    "source_post": "https://x.com/HarshithLucky3/status/2111831036330123698",
+    "media_url": "https://video.twimg.com/amplify_video/2111830909330808832/vid/avc1/2560x1440/4aBU7KAk4-UOz0Bh.mp4?tag=29",
+    "path": "output/gemini-svg-riding-tower/media/riding-tower-cat-original.mp4",
+    "retrieved_at": "2026-10-18T15:39:41.900021+00:00",
+    "bytes": 28541227,
+    "sha256": "96520e8396384a3130f6bb9492f37c361f5d568f68fe9c18f3e13f50a1b95324",
+    "download_method": "HTTP ranges; each status 206, Content-Range and byte count verified",
+    "range_chunk_bytes": 262144,
+    "range_count": 109
+  },
+  {
+    "source_post": "https://x.com/HarshithLucky3/status/2111806390704693317",
+    "media_url": "https://video.twimg.com/amplify_video/2111806177973841920/vid/avc1/2560x1440/xFyxL_RkQwnXWsW6.mp4?tag=29",
+    "path": "output/gemini-svg-riding-tower/media/riding-tower-previous-original.mp4",
+    "retrieved_at": "2026-10-18T15:42:25.577587+00:00",
+    "bytes": 37523388,
+    "sha256": "01f711dc19c1cf9e1182d601d34f7e0167258a16e5da83709da005f29e6edf09",
+    "download_method": "HTTP ranges; each status 206, Content-Range and byte count verified",
+    "range_chunk_bytes": 262144,
+    "range_count": 144
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "first": {
+    "duration": 38,
+    "error": null,
+    "paused": false,
+    "time": 0.184666
+  },
+  "second": {
+    "duration": 38,
+    "error": null,
+    "paused": false,
+    "time": 13.578687
+  },
+  "advancing": true
+}
