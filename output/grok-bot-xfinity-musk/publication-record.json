@@ -1,5 +1,5 @@
 {
-  "state": "awaiting_final_approval",
+  "state": "scheduled",
   "account": "@LeoGuoLabs",
   "format": "native_quote_post",
   "source_url": "https://x.com/alanchen/status/2111639652939497507",
@@ -23,10 +23,36 @@
   },
   "approval": {
     "required": true,
-    "received": false,
-    "basis": "AGENTS.md standing final-content approval rule; current request sets Quote format and target but does not waive final review."
+    "received": true,
+    "user_instruction": "请你在美国西部时间的中午12点23分发布。",
+    "scope": "Previously reviewed exact English copy, direct native Quote of Elon Musk, and existing native source media.",
+    "date": "2026-10-18"
   },
   "published_url": null,
   "submitted": false,
-  "prepared_at_utc": "2026-10-18T15:49:24.351660+00:00"
+  "prepared_at_utc": "2026-10-18T15:49:24.351660+00:00",
+  "schedule": {
+    "provider": "X native scheduler",
+    "timezone": "America/Los_Angeles",
+    "pacific": "2026-10-18T12:23:00-07:00",
+    "singapore": "2026-10-19T03:23:00+08:00",
+    "utc": "2026-10-18T19:23:00Z",
+    "submitted": true,
+    "queue_verified": true,
+    "full_copy_reopened_and_matched": true,
+    "quote_target_verified": true,
+    "evidence": "research/schedule-verification.json",
+    "screenshot": "research/scheduled-queue.jpg"
+  },
+  "schedule_submitted": true,
+  "publicly_verified": false,
+  "follow_up": {
+    "provider": "Codex heartbeat",
+    "automation_id": "musk-grok-quote",
+    "status": "ACTIVE",
+    "one_time": true,
+    "at": "2026-10-19T03:25:00+08:00",
+    "purpose": "Verify actual public URL, exact reviewed text, direct Musk Quote target, and native nested source image after the scheduled time."
+  },
+  "updated_at_utc": "2026-10-18T15:59:01.539672+00:00"
 }

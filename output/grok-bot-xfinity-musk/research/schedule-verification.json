@@ -1,0 +1,17 @@
+{
+  "checked_at_utc": "2026-10-18T15:58:48.441Z",
+  "account": "@LeoGuoLabs",
+  "provider": "X native scheduler",
+  "queue_entry_seen": true,
+  "queue_entry_count_for_this_topic": 1,
+  "quote_target": "https://x.com/elonmusk/status/2111612315204272233",
+  "displayed_time": "Mon, Oct 19, 2026 at 3:23 AM",
+  "displayed_timezone": "Singapore Standard Time",
+  "scheduled_pacific": "2026-10-18T12:23:00-07:00",
+  "scheduled_singapore": "2026-10-19T03:23:00+08:00",
+  "scheduled_utc": "2026-10-18T19:23:00Z",
+  "reopened_text": "“Go pay for yourself” is a pretty good assignment for an AI agent.\n\n\nOne user says Grok Bot arranged a 300 Mbps Xfinity plan for $70.90/month, $43 below his October bill. He still had to approve the final deal. I'd happily delegate the customer-service back-and-forth and keep that last decision.",
+  "normalized_text_matches_approved": true,
+  "schedule_submitted": true,
+  "publicly_verified": false
+}
