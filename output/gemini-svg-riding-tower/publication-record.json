@@ -1,6 +1,6 @@
 {
   "topic": "gemini-svg-riding-tower",
-  "status": "awaiting_final_approval",
+  "status": "scheduled",
   "created_at": "2026-10-18T15:41:29.492598+00:00",
   "account": "@LeoGuoLabs",
   "supplied_source": "https://x.com/leo114119/status/2111834005142372654",
@@ -18,8 +18,10 @@
   "selected_video": "media/riding-tower-cat-original.mp4",
   "authorization": {
     "preparation": "link-only standing workflow",
-    "publication": "pending final content approval",
-    "direct_publish_waiver": false
+    "publication": "approved by user after review, with explicit scheduled publication time",
+    "direct_publish_waiver": false,
+    "user_instruction": "请你在美国西部时间的中午十二点四十六分的时候发布。",
+    "recorded_at": "2026-10-18T16:00:49.303513+00:00"
   },
   "composer_check": "research/composer-check.json",
   "research_notes": "research/verification.md",
@@ -45,5 +47,31 @@
     "narrow_review": true,
     "lan_http_and_range_verified": true,
     "remote_phone_playback_tested": false
+  },
+  "schedule": {
+    "provider": "X native scheduler",
+    "timezone_requested": "America/Los_Angeles",
+    "pacific": "2026-10-18T12:46:00-07:00",
+    "pacific_abbreviation": "PDT",
+    "utc": "2026-10-18T19:46:00Z",
+    "singapore": "2026-10-19T03:46:00+08:00",
+    "browser_timezone_label": "Singapore Standard Time",
+    "queue_text": "Will send on Mon, Oct 19, 2026 at 3:46 AM",
+    "saved_and_reopened": true,
+    "checked_at": "2026-10-18T16:00:49.303513+00:00",
+    "evidence": [
+      "research/schedule-time.jpg",
+      "research/scheduled-confirmation.jpg",
+      "research/scheduled-queue.txt"
+    ]
+  },
+  "schedule_submitted": true,
+  "followup": {
+    "automation_id": "gemini-quote",
+    "kind": "heartbeat",
+    "runs": 1,
+    "status": "ACTIVE",
+    "verification_time_singapore": "2026-10-19T03:50:00+08:00",
+    "purpose": "Verify actual published URL, exact copy, Quote target and advancing video playback without duplicating the post."
   }
 }

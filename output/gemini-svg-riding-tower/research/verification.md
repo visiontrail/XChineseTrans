@@ -14,3 +14,7 @@
 
 - Final media checks: both 1440p H.264 originals downloaded in full (25.6 s and 38.0 s), both contain no audio streams, both fully decode without errors, beginning/middle/end frames inspected, browser playback advances without errors. Cat version also reached ended=true at 25.6 s.
 - Review endpoint responds on the freshly discovered LAN address, including HTTP 206 ranges; desktop and 390-pixel-width rendering inspected. No claim of playback on the user's actual phone.
+
+- User approved the reviewed version and requested 12:46 PM US West Coast time. At action time the next occurrence was October 18, 2026, 12:46 PDT (UTC-7), equivalent to October 19, 03:46 Singapore / October 18, 19:46 UTC.
+- X native schedule was submitted, then reopened in Scheduled posts. The persisted queue displays the exact approved full text, the original cat-version target URL, and October 19, 03:46 AM. This is verified queue acceptance, not public publication.
+- Created one-time thread follow-up gemini-quote for October 19, 03:50 Singapore to verify the actual public result and playback. The follow-up must not blindly repost and stops after this check. Local follow-up requires the computer and Codex app to be running; X native delivery is already queued.
