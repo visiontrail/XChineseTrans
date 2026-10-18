@@ -1,0 +1,16 @@
+{
+  "checkedAt": "2026-10-18T11:14:31.167Z",
+  "account": "@LeoGuoLabs",
+  "format": "native_quote",
+  "quoteTarget": "https://x.com/vikktorrrre/status/2110767343483637947",
+  "text": "Alexandr Wang’s argument in this April 2025 interview: the U.S. led on compute, the two countries were roughly level on algorithms, and China led on data.\n\nFor me, the useful question is what turns data into an advantage. Reliable labels, examples of real failures, and feedback from deployment matter more than a growing pile of files. That’s the system I’d want to build around a model.",
+  "textExactMatch": true,
+  "postEnabled": true,
+  "submitted": false,
+  "domBlocks": [
+    "Alexandr Wang’s argument in this April 2025 interview: the U.S. led on compute, the two countries were roughly level on algorithms, and China led on data.",
+    "",
+    "For me, the useful question is what turns data into an advantage. Reliable labels, examples of real failures, and feedback from deployment matter more than a growing pile of files. That’s the system I’d want to build around a model."
+  ],
+  "verificationMethod": "Visible Draft.js text blocks joined with newline; innerText adds a layout newline for the empty paragraph."
+}

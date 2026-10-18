@@ -1,0 +1,19 @@
+{
+  "before": {
+    "currentTime": 0.804191,
+    "duration": 80,
+    "paused": false,
+    "readyState": 4,
+    "muted": false
+  },
+  "after": [
+    {
+      "currentTime": 17.538902,
+      "duration": 80,
+      "error": null,
+      "muted": false,
+      "paused": false,
+      "readyState": 4
+    }
+  ]
+}
