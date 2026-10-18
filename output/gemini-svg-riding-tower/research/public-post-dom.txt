@@ -1,0 +1,195 @@
+- heading "To view keyboard shortcuts, press question mark View keyboard shortcuts" [level=2]:
+  - generic: To view keyboard shortcuts, press question mark
+  - link "View keyboard shortcuts":
+    - /url: /i/keyboard_shortcuts
+- button "Grok":
+- button "Chat":
+- button "Skip to home timeline"
+- button "Skip to trending"
+- banner:
+  - heading "X" [level=1]:
+    - link "X":
+      - /url: /home
+  - navigation "Primary":
+    - link "Home":
+      - /url: /home
+      - generic: Home
+    - link "Search and explore":
+      - /url: /explore
+      - generic: Explore
+    - link "Notifications (2 unread notifications)":
+      - /url: /notifications
+      - generic "2 unread items":
+        - generic: "2"
+      - generic: Notifications
+    - link "Direct Messages":
+      - /url: /i/chat
+      - generic: Chat
+    - link "Calls":
+      - /url: /i/calls
+      - generic: Calls
+    - link "Grok":
+      - /url: /i/grok
+      - generic: Grok
+    - link "Subscription":
+      - /url: /i/premium
+      - generic: Subscription
+    - link "History":
+      - /url: /i/history
+      - generic: History
+    - link "Profile":
+      - /url: /LeoGuoLabs
+      - generic: Profile
+    - button "More menu items":
+      - generic: More
+  - link "Post":
+    - /url: /compose/post
+    - generic: Post
+  - button "Account menu":
+    - generic "Leo Guo":
+      - img "Leo Guo"
+    - generic: Leo Guo
+    - img "Verified account"
+    - generic: "@LeoGuoLabs"
+    - generic "undefined unread items"
+- main:
+  - generic "Home timeline":
+    - button "Back":
+    - heading "Post" [level=2]
+    - status:
+      - button:
+        - generic: See new posts
+    - region "Conversation":
+      - heading "Conversation" [level=1]
+      - 'generic "Timeline: Conversation"':
+        - 'article "Leo Guo Verified account @LeoGuoLabs The pelican does all the pedaling. The cat gets the glory. 😺 Harshith’s Gemini 4 Argon High SVG demo turns an absurd stack of animals and vehicles into a tiny circus. I like the camera move: follow the cat up, then pull back to reveal how ridiculous the whole tower is. Quote Harshith Verified account @HarshithLucky3 5 hours ago now i added cat as mvp of tower 😺 Gemini 4 Argon High > SVG of a 11 layer riding tower: a pelican on a bicycle, carrying a scooter, flamingo, tricycle, turtle, unicycle, crab, skateboard, and a tiny-limbed game controller - mvp cat leading the tower by jump all through x.com/HarshithLucky3… Embedded video Play Video. 26 seconds long 0:25"':
+          - link [active]:
+            - /url: /LeoGuoLabs
+          - link "Leo Guo Verified account":
+            - /url: /LeoGuoLabs
+            - generic: Leo Guo
+            - img "Verified account"
+          - link "@LeoGuoLabs":
+            - /url: /LeoGuoLabs
+            - generic: "@LeoGuoLabs"
+          - button "Boost":
+            - generic: Boost
+          - button "Grok actions":
+          - button "More":
+          - generic: "The pelican does all the pedaling. The cat gets the glory. 😺 Harshith’s Gemini 4 Argon High SVG demo turns an absurd stack of animals and vehicles into a tiny circus. I like the camera move: follow the cat up, then pull back to reveal how ridiculous the whole tower is."
+          - 'generic "Quote Harshith Verified account @HarshithLucky3 5 hours ago now i added cat as mvp of tower 😺 Gemini 4 Argon High > SVG of a 11 layer riding tower: a pelican on a bicycle, carrying a scooter, flamingo, tricycle, turtle, unicycle, crab, skateboard, and a tiny-limbed game controller - mvp cat leading the tower by jump all through x.com/HarshithLucky3… Embedded video Play Video. 26 seconds long 0:25"':
+            - generic: Quote
+            - 'link "Harshith Verified account @HarshithLucky3 5 hours ago now i added cat as mvp of tower 😺 Gemini 4 Argon High > SVG of a 11 layer riding tower: a pelican on a bicycle, carrying a scooter, flamingo, tricycle, turtle, unicycle, crab, skateboard, and a tiny-limbed game controller - mvp cat leading the tower by jump all through x.com/HarshithLucky3… Embedded video Play Video. 26 seconds long 0:25"':
+              - generic: Harshith
+              - img "Verified account"
+              - generic: "@HarshithLucky3"
+              - generic: ·
+              - generic "5 hours ago":
+                - time: 5h
+              - generic: "now i added cat as mvp of tower 😺 Gemini 4 Argon High > SVG of a 11 layer riding tower: a pelican on a bicycle, carrying a scooter, flamingo, tricycle, turtle, unicycle, crab, skateboard, and a tiny-limbed game controller - mvp cat leading the tower by jump all through x.com/HarshithLucky3…"
+              - generic "Embedded video"
+              - button "Play Video. 26 seconds long"
+              - progressbar:
+              - generic: 0:25
+          - link "3:46 AM · Oct 19, 2026":
+            - /url: /LeoGuoLabs/status/2111906662005236079
+            - time: 3:46 AM · Oct 19, 2026
+          - generic: ·
+          - link "9 Views":
+            - /url: /LeoGuoLabs/status/2111906662005236079/analytics
+            - generic: "9"
+            - generic: Views
+          - group "9 views":
+            - button "0 Replies. Reply":
+            - button "0 reposts. Repost":
+            - button "0 Likes. Like":
+            - button "0 Bookmarks. Bookmark":
+            - button "Share post":
+        - link "Leo Guo":
+          - /url: /LeoGuoLabs
+          - generic "Leo Guo":
+            - img "Leo Guo"
+        - generic: Post your reply
+        - textbox "Post text"
+        - button "Reply" [disabled]:
+          - generic: Reply
+  - generic "Trending":
+    - search "Search":
+      - combobox "Search query"
+    - complementary "Relevant people":
+      - heading "Relevant people" [level=2]:
+        - generic: Relevant people
+      - list:
+        - link:
+          - /url: /LeoGuoLabs
+        - link "Leo Guo Verified account":
+          - /url: /LeoGuoLabs
+          - generic: Leo Guo
+          - img "Verified account"
+        - link "@LeoGuoLabs":
+          - /url: /LeoGuoLabs
+          - generic: "@LeoGuoLabs"
+        - generic: Previously a senior C/C++ engineer in telecom. Now exploring AI and emerging tech, sharing useful tools and an engineering perspective.
+        - link:
+          - /url: /HarshithLucky3
+        - link "Harshith Verified account":
+          - /url: /HarshithLucky3
+          - generic: Harshith
+          - img "Verified account"
+        - link "@HarshithLucky3":
+          - /url: /HarshithLucky3
+          - generic: "@HarshithLucky3"
+        - button "Follow @HarshithLucky3":
+          - generic: Follow
+        - generic: AI AI AI → AGI → ASI
+    - heading "Live on X" [level=2]:
+      - generic: Live on X
+    - button "Space, Whole Mars Catalog is hosting, Hosted by Whole Mars Catalog, Tesla & SpaceX Earnings Week (Subscribe to speak), Whole Mars Catalog, Dallas Tesla David, and Robert Scoble joined":
+      - generic: Whole Mars Catalog
+      - img "Verified account"
+      - text: is hosting
+      - generic: Tesla & SpaceX Earnings Week (Subscribe to speak)
+      - generic: "+220"
+    - region "Trending now":
+      - heading "Trending now" [level=1]
+      - 'generic "Timeline: Trending now"':
+        - heading "What’s happening" [level=2]:
+          - generic: What’s happening
+        - link "Trending Anthropic More":
+          - generic: Trending
+          - generic: Anthropic
+          - button "More":
+        - link "Music · Trending taeyong More":
+          - generic: Music · Trending
+          - generic: taeyong
+          - button "More":
+        - link "Politics · Trending Egypt More":
+          - generic: Politics · Trending
+          - generic: Egypt
+          - button "More":
+        - link "Politics · Trending Vance More":
+          - generic: Politics · Trending
+          - generic: Vance
+          - button "More":
+        - link "Show more":
+          - /url: /explore/tabs/for-you
+          - generic: Show more
+    - navigation "Footer":
+      - link "Terms":
+        - /url: https://x.com/tos
+      - generic: ·
+      - link "Privacy":
+        - /url: https://x.com/privacy
+      - generic: ·
+      - link "Cookies":
+        - /url: https://support.x.com/articles/20170514
+      - generic: ·
+      - link "Accessibility":
+        - /url: https://help.x.com/resources/accessibility
+      - generic: ·
+      - link "Ads Info":
+        - /url: https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo
+      - generic: ·
+      - button "More":
+        - text: More
+      - generic: © 2026 X Corp.

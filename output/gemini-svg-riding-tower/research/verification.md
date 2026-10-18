@@ -18,3 +18,12 @@
 - User approved the reviewed version and requested 12:46 PM US West Coast time. At action time the next occurrence was October 18, 2026, 12:46 PDT (UTC-7), equivalent to October 19, 03:46 Singapore / October 18, 19:46 UTC.
 - X native schedule was submitted, then reopened in Scheduled posts. The persisted queue displays the exact approved full text, the original cat-version target URL, and October 19, 03:46 AM. This is verified queue acceptance, not public publication.
 - Created one-time thread follow-up gemini-quote for October 19, 03:50 Singapore to verify the actual public result and playback. The follow-up must not blindly repost and stops after this check. Local follow-up requires the computer and Codex app to be running; X native delivery is already queued.
+
+## Post-publication verification — October 18, 2026
+
+- Located the existing public post on @LeoGuoLabs before taking any publication action: https://x.com/LeoGuoLabs/status/2111906662005236079. No duplicate was submitted.
+- Opened the actual public URL in Codex’s built-in authenticated browser. Complete approved English copy matches post-en.txt; the post’s DOM timestamp is 2026-10-18T19:46:00.000Z, exactly the requested 12:46 PDT / 03:46 Singapore.
+- Clicked the native Quote card and verified it resolves to https://x.com/HarshithLucky3/status/2111831036330123698.
+- Observed its single 25.6-second video playing on the published page: 2.933313 s to 8.403105 s, paused=false, no media errors. The first player load stayed on the poster; after a refresh and a direct click on the visible video, playback proceeded. No post/media edits were made.
+- Evidence: public-verification.json, public-playback.json, public-quote-target.json, public-post-dom.txt and public-*.jpg under research/.
+- Paused the completed one-time gemini-quote automation using the app automation tool; reread its configuration to confirm PAUSED. No ongoing monitoring.

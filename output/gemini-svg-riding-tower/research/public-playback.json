@@ -1,0 +1,38 @@
+{
+  "samples": [
+    {
+      "captured_at": "2026-10-18T19:54:03.616Z",
+      "url": "https://x.com/LeoGuoLabs/status/2111906662005236079",
+      "videos": [
+        {
+          "duration": 25.6,
+          "ended": false,
+          "error": null,
+          "paused": false,
+          "readyState": 2,
+          "time": 2.933313,
+          "videoHeight": 1440,
+          "videoWidth": 2560
+        }
+      ]
+    },
+    {
+      "captured_at": "2026-10-18T19:54:10.844Z",
+      "url": "https://x.com/LeoGuoLabs/status/2111906662005236079",
+      "videos": [
+        {
+          "duration": 25.6,
+          "ended": false,
+          "error": null,
+          "paused": false,
+          "readyState": 4,
+          "time": 8.403105,
+          "videoHeight": 270,
+          "videoWidth": 480
+        }
+      ]
+    }
+  ],
+  "playback_advancing": true,
+  "no_errors": true
+}
