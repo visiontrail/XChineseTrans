@@ -1,0 +1,35 @@
+{
+  "account": "@LeoGuoLabs",
+  "source_url": "https://x.com/leo114119/status/2111673281229058247",
+  "official_source_url": "https://www.anthropic.com/research/employment-at-anthropic",
+  "format": "standalone",
+  "quote_target_url": null,
+  "text_file": "post-en-v1.txt",
+  "text_sha256": "780b56c9b7c1c80e16e17600a7823ac43d2ca2d39374757e7c894525c57e1390",
+  "media": [],
+  "native_link_card_requested": false,
+  "source_has_relevant_video": false,
+  "source_has_native_quote": false,
+  "status": "awaiting_final_approval",
+  "approval": null,
+  "published_url": null,
+  "related_previous_publication": "https://x.com/LeoGuoLabs/status/2111291299668111561",
+  "differentiation": "This draft addresses junior hiring and skill development. The previous post focuses on agent runtime and human attention.",
+  "updated_at": "2026-10-18T15:43:02.058302+00:00",
+  "preparation_checks": {
+    "account_verified_in_live_browser": "@LeoGuoLabs",
+    "composer_initially_empty": true,
+    "full_text_readback_match_after_DOM_paragraph_normalization": true,
+    "text_truncated": false,
+    "post_button_enabled": true,
+    "native_official_article_card_visible": true,
+    "quote_card_present": false,
+    "uploads": 0,
+    "submitted": false
+  },
+  "composer_evidence": [
+    "research/composer-review.jpg",
+    "research/composer-link-card.jpg",
+    "research/composer-readback.txt"
+  ]
+}

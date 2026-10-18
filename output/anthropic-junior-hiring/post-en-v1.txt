@@ -1,0 +1,11 @@
+The junior hiring numbers in Anthropic's new report are hard to ignore.
+
+Since early 2025, juniors' share of technical hires fell from 27% to 9%; their share of technical staff fell from 21% to 14%. Overall technical hiring still grew in absolute terms. This is one rapidly growing AI company, so we should be careful about generalizing.
+
+What concerns me is the training gap. Hiring managers increasingly value autonomy and judgment, but people need real work, feedback and responsibility to develop those skills.
+
+If agents take over the small bug fixes and first drafts, companies need another deliberate way for juniors to learn. Give them bounded problems to own, let them use AI, and have experienced engineers review both the result and the reasoning.
+
+Keeping existing employees employed matters. So does giving the next generation a way in.
+
+https://www.anthropic.com/research/employment-at-anthropic

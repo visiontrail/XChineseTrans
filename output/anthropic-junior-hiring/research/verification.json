@@ -1,0 +1,32 @@
+{
+  "verified_at": "2026-10-18T15:41:41.763559+00:00",
+  "source_read": "Authenticated built-in browser; Show original selected; original Chinese post and relevant author replies inspected.",
+  "source_media": "One official article link card, no native quote or attached image/video.",
+  "primary_report": {
+    "url": "https://www.anthropic.com/research/employment-at-anthropic",
+    "title": "How employment is changing at Anthropic",
+    "date": "2026-10-16"
+  },
+  "verified_claims": [
+    "Junior share of technical hires declined from 27% to 9%; junior share of technical-department employees declined from 21% to 14% since early 2025.",
+    "Overall technical hiring continued growing in absolute terms. Falling shares are not a count of jobs eliminated or evidence that hiring stopped.",
+    "Hiring assessments increasingly emphasize autonomy and judgment.",
+    "The report notes that protections for current employees do not benefit people who are never hired."
+  ],
+  "source_claims_not_carried_into_draft": [
+    "A blanket announcement that Anthropic will not hire newcomers is not supported.",
+    "A guaranteed succession gap in three to five years is the commentator’s forecast, not a measured report result.",
+    "Agent work hours are runtime with a distinct denominator, not productivity. Code commits are not overall engineering quality.",
+    "The 75% versus 28% forecast concerns respondents’ expectations for 2030, not measured current automation."
+  ],
+  "editorial_inference": "Training pathways, bounded ownership and review of reasoning are the proposed perspective, not a tested company policy or reported research finding.",
+  "later_response_check": "Focused primary-source search returned the original report; no later corrective response was identified.",
+  "duplicate_check": {
+    "git_fetch_origin": true,
+    "initial_divergence": "0 0",
+    "exact_source_id_local_match": false,
+    "prior_related_record": "output/daily-source-drafts/2026-10-17/2111223306061836484/publication.json",
+    "prior_related_copy_inspected": true,
+    "result": "Different angle; no duplicate of this source identified in inspected local/remote records."
+  }
+}
