@@ -1,0 +1,22 @@
+{
+  "start": {
+    "at": "2026-10-18T15:32:44.190Z",
+    "currentTime": 0.083475,
+    "duration": 44.48,
+    "error": null,
+    "muted": false,
+    "paused": false,
+    "readyState": 4
+  },
+  "end": {
+    "at": "2026-10-18T15:32:59.939Z",
+    "currentTime": 15.831168,
+    "duration": 44.48,
+    "error": null,
+    "muted": false,
+    "paused": false,
+    "readyState": 4
+  },
+  "advancing": true,
+  "scope": "Local prepared video; not a published post. Audio stream decoded; direct listening unavailable to this model."
+}

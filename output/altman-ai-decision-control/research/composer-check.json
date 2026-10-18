@@ -1,0 +1,12 @@
+{
+  "checked_at": "2026-10-18T15:31:23.943Z",
+  "account": "@LeoGuoLabs",
+  "format": "native_quote",
+  "target": "https://x.com/vikktorrrre/status/2110102474862313501",
+  "expected_text": "Altman's 2025 thought experiment still lands: follow the better recommendation, repeat, and gradually lose the ability to make the call yourself.\n\nEach decision could make sense on its own while leaving society dependent on a system it can't fully understand. Keeping humans in control means preserving the skills and authority to challenge the advice—and act without it.",
+  "observed_text": "Altman's 2025 thought experiment still lands: follow the better recommendation, repeat, and gradually lose the ability to make the call yourself.\n\n\nEach decision could make sense on its own while leaving society dependent on a system it can't fully understand. Keeping humans in control means preserving the skills and authority to challenge the advice—and act without it.",
+  "paragraph_normalized_match": true,
+  "characters_remaining": 24629,
+  "post_enabled": true,
+  "submitted": false
+}

@@ -1,0 +1,38 @@
+{
+  "updated_at": "2026-10-18T15:33:35.808509+00:00",
+  "account": "@LeoGuoLabs",
+  "state": "awaiting_final_approval",
+  "format": "native_quote",
+  "supplied_source": "https://x.com/huxlab/status/2111636343432589371",
+  "quote_target": "https://x.com/vikktorrrre/status/2110102474862313501",
+  "copy_path": "post-en.txt",
+  "copy": "Altman's 2025 thought experiment still lands: follow the better recommendation, repeat, and gradually lose the ability to make the call yourself.\n\nEach decision could make sense on its own while leaving society dependent on a system it can't fully understand. Keeping humans in control means preserving the skills and authority to challenge the advice—and act without it.",
+  "media": [
+    {
+      "path": "media/altman-decision-control-source.mp4",
+      "role": "Native video retained through Quote; verified local original download",
+      "duration_seconds": 44.48,
+      "sha256": "e1d7b911336f52b06aa07d04da58a4f4b90232688935d242f19d646e33aadc0e"
+    }
+  ],
+  "primary_source": "https://www.federalreserve.gov/mediacenter/files/capital-framework-conference-fireside-chat-transcript.pdf#page=22",
+  "event_date": "2025-07-22",
+  "checks": {
+    "source_chain_read": true,
+    "official_transcript_checked": true,
+    "local_and_origin_history_reconciled": true,
+    "complete_decode_passed": true,
+    "start_middle_end_frames_inspected": true,
+    "browser_video_playback_advanced": true,
+    "live_account_verified": true,
+    "complete_composer_copy_accepted": true,
+    "native_quote_target_verified": true,
+    "desktop_and_mobile_preview_checked": true,
+    "local_lan_endpoint_http_ok": true,
+    "remote_phone_playback_tested": false
+  },
+  "review_url": "http://172.16.10.59:58392/",
+  "publication_authorization": "Bare link permits preparation; final review required by AGENTS.md. No publication approval received.",
+  "submitted": false,
+  "public_url": null
+}

@@ -1,0 +1,39 @@
+{
+  "retrieved_at": "2026-10-18T15:31:49.102321+00:00",
+  "source_post": "https://x.com/vikktorrrre/status/2110102474862313501",
+  "source_url": "https://video.twimg.com/amplify_video/2110102337561776128/vid/avc1/1920x1080/PboAyRQnZdffL_jv.mp4?tag=29",
+  "path": "output/altman-ai-decision-control/media/altman-decision-control-source.mp4",
+  "bytes": 12494531,
+  "sha256": "e1d7b911336f52b06aa07d04da58a4f4b90232688935d242f19d646e33aadc0e",
+  "duration": "44.480000",
+  "streams": [
+    {
+      "codec_type": "video",
+      "codec_name": "h264",
+      "width": 1920,
+      "height": 1080,
+      "sample_rate": null,
+      "channels": null,
+      "duration": "44.429333"
+    },
+    {
+      "codec_type": "audio",
+      "codec_name": "aac",
+      "width": null,
+      "height": null,
+      "sample_rate": "48000",
+      "channels": 2,
+      "duration": "44.480000"
+    }
+  ],
+  "full_decode_exit_code": 0,
+  "decode_error_bytes": 0,
+  "download": "Initial GET timed out at 10630527 bytes; curl resume returned 206 bytes 10630527-12494530/12494531 with 1864004 bytes. Final total matched 12494531 bytes.",
+  "frames_inspected_seconds": [
+    1,
+    22,
+    43
+  ],
+  "visual_observations": "Interview footage, no Chinese captions or intermediary text overlays seen. Small pointer is present at lower left of source. No edits made to downloaded source.",
+  "audio_review": "Both audio and video completely decoded with no errors; browser playback unmuted. Direct listening unavailable to model; speech context verified from official Federal Reserve transcript, page 22."
+}
