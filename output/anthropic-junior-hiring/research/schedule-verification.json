@@ -1,0 +1,28 @@
+{
+  "checked_at": "2026-10-18T15:47:54.895972+00:00",
+  "account": "@LeoGuoLabs",
+  "schedule": {
+    "provider": "X native scheduler",
+    "timezone": "America/Los_Angeles",
+    "pacific": "2026-10-18T09:38:00-07:00",
+    "pacific_abbreviation": "PDT",
+    "singapore": "2026-10-19T00:38:00+08:00",
+    "utc": "2026-10-18T16:38:00Z",
+    "displayed_timezone": "Singapore Standard Time",
+    "displayed_time": "Mon, Oct 19, 2026 at 12:38 AM",
+    "queue_entry_seen": true,
+    "matching_queue_entries": 1,
+    "submitted": true,
+    "full_text_reopened_and_checked": true,
+    "official_link_card_present": true,
+    "evidence": [
+      "research/schedule-time.jpg",
+      "research/schedule-queue.jpg",
+      "research/scheduled-readback.txt"
+    ]
+  },
+  "approved_text_unchanged": true,
+  "native_link_card_visible_on_reopen": true,
+  "schedule_submitted": true,
+  "publicly_verified": false
+}
