@@ -1,5 +1,5 @@
 {
-  "state": "scheduled",
+  "state": "publicly_verified",
   "account": "@LeoGuoLabs",
   "format": "native_quote_post",
   "source_url": "https://x.com/alanchen/status/2111639652939497507",
@@ -28,8 +28,8 @@
     "scope": "Previously reviewed exact English copy, direct native Quote of Elon Musk, and existing native source media.",
     "date": "2026-10-18"
   },
-  "published_url": null,
-  "submitted": false,
+  "published_url": "https://x.com/LeoGuoLabs/status/2111900873886765522",
+  "submitted": true,
   "prepared_at_utc": "2026-10-18T15:49:24.351660+00:00",
   "schedule": {
     "provider": "X native scheduler",
@@ -45,14 +45,27 @@
     "screenshot": "research/scheduled-queue.jpg"
   },
   "schedule_submitted": true,
-  "publicly_verified": false,
+  "publicly_verified": true,
   "follow_up": {
     "provider": "Codex heartbeat",
     "automation_id": "musk-grok-quote",
-    "status": "ACTIVE",
+    "status": "PAUSED",
     "one_time": true,
     "at": "2026-10-19T03:25:00+08:00",
-    "purpose": "Verify actual public URL, exact reviewed text, direct Musk Quote target, and native nested source image after the scheduled time."
+    "purpose": "Verify actual public URL, exact reviewed text, direct Musk Quote target, and native nested source image after the scheduled time.",
+    "completed_at_utc": "2026-10-18T19:27:35.954268+00:00",
+    "outcome": "Publicly verified; one-time follow-up disabled."
   },
-  "updated_at_utc": "2026-10-18T15:59:01.539672+00:00"
+  "updated_at_utc": "2026-10-18T19:27:35.954496+00:00",
+  "published_at_utc": "2026-10-18T19:23:00.000Z",
+  "public_verification": {
+    "checked_at_utc": "2026-10-18T19:27:17.004Z",
+    "account_verified": true,
+    "exact_approved_text_match": true,
+    "native_quote_target_verified": true,
+    "native_nested_source_image_loaded": true,
+    "published_at_requested_time": true,
+    "evidence": "research/public-verification.json",
+    "screenshot": "research/public-page.jpg"
+  }
 }

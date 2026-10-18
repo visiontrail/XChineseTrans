@@ -1,0 +1,425 @@
+- heading "To view keyboard shortcuts, press question mark View keyboard shortcuts" [level=2]:
+  - generic: To view keyboard shortcuts, press question mark
+  - link "View keyboard shortcuts":
+    - /url: /i/keyboard_shortcuts
+- button "Grok":
+- button "Chat":
+- button "Skip to home timeline"
+- button "Skip to trending"
+- banner:
+  - heading "X" [level=1]:
+    - link "X":
+      - /url: /home
+  - navigation "Primary":
+    - link "Home":
+      - /url: /home
+      - generic: Home
+    - link "Search and explore":
+      - /url: /explore
+      - generic: Explore
+    - link "Notifications (1 unread notification)":
+      - /url: /notifications
+      - generic "1 unread items":
+        - generic: "1"
+      - generic: Notifications
+    - link "Direct Messages":
+      - /url: /i/chat
+      - generic: Chat
+    - link "Calls":
+      - /url: /i/calls
+      - generic: Calls
+    - link "Grok":
+      - /url: /i/grok
+      - generic: Grok
+    - link "Subscription":
+      - /url: /i/premium
+      - generic: Subscription
+    - link "History":
+      - /url: /i/history
+      - generic: History
+    - link "Profile":
+      - /url: /LeoGuoLabs
+      - generic: Profile
+    - button "More menu items":
+      - generic: More
+  - link "Post":
+    - /url: /compose/post
+    - generic: Post
+  - button "Account menu":
+    - generic "Leo Guo":
+      - img "Leo Guo"
+    - generic: Leo Guo
+    - img "Verified account"
+    - generic: "@LeoGuoLabs"
+    - generic "undefined unread items"
+- main:
+  - generic "Home timeline":
+    - button "Back":
+    - heading "Post" [level=2]
+    - status:
+      - button:
+        - generic: See new posts
+    - region "Conversation":
+      - heading "Conversation" [level=1]
+      - 'generic "Timeline: Conversation"':
+        - article "Elon Musk Verified account @elonmusk This really works! Grok @Bot can pay for itself. Quote Mike P Verified account @mikepat711 Oct 17 I told my Grok Bot to go figure out how to pay for itself. I love this app Image 1144 replies, 1401 reposts, 11707 likes, 3245 bookmarks, 2549508 views":
+          - link [active]:
+            - /url: /elonmusk
+          - link "Elon Musk Verified account":
+            - /url: /elonmusk
+            - generic: Elon Musk
+            - img "Verified account"
+            - link
+          - link "@elonmusk":
+            - /url: /elonmusk
+            - generic: "@elonmusk"
+          - button "Subscribe to @elonmusk":
+            - generic: Subscribe
+          - button "Grok actions":
+          - button "More":
+          - text: This really works! Grok
+          - link "@Bot":
+            - /url: /bot
+          - text: can pay for itself.
+          - generic "Quote Mike P Verified account @mikepat711 Oct 17 I told my Grok Bot to go figure out how to pay for itself. I love this app Image":
+            - generic: Quote
+            - link "Mike P Verified account @mikepat711 Oct 17 I told my Grok Bot to go figure out how to pay for itself. I love this app Image":
+              - generic: Mike P
+              - img "Verified account"
+              - generic: "@mikepat711"
+              - generic: ·
+              - generic "Oct 17":
+                - time: Oct 17
+              - generic: I told my Grok Bot to go figure out how to pay for itself. I love this app
+              - link "Image":
+                - /url: /mikepat711/status/2111452223838224866/photo/1
+                - generic "Image":
+                  - img "Image"
+          - link "8:16 AM · Oct 18, 2026":
+            - /url: /elonmusk/status/2111612315204272233
+            - time: 8:16 AM · Oct 18, 2026
+          - generic: ·
+          - link "2.5M Views":
+            - /url: /elonmusk/status/2111612315204272233/analytics
+            - generic: 2.5M
+            - generic: Views
+          - group "1144 replies, 1401 reposts, 11707 likes, 3245 bookmarks, 2549508 views":
+            - button "1144 Replies. Reply":
+              - generic: 1.1K
+            - button "1401 reposts. Repost":
+              - generic: 1.4K
+            - button "11707 Likes. Like":
+              - generic: 11K
+            - button "3245 Bookmarks. Bookmark":
+              - generic: 3.2K
+            - button "Share post":
+          - button "Relevant":
+            - text: Relevant
+          - link "View quotes":
+            - /url: /elonmusk/status/2111612315204272233/quotes
+            - text: View quotes
+        - link "Leo Guo":
+          - /url: /LeoGuoLabs
+          - generic "Leo Guo":
+            - img "Leo Guo"
+        - generic: Post your reply
+        - textbox "Post text"
+        - button "Reply" [disabled]:
+          - generic: Reply
+        - article "Raman Singh Verified account @singhdraulic 5 hours ago Imagine your grok bot building its own revenue online and paying you 90%":
+          - link:
+            - /url: /singhdraulic
+          - link "Raman Singh Verified account":
+            - /url: /singhdraulic
+            - generic: Raman Singh
+            - img "Verified account"
+          - link "@singhdraulic":
+            - /url: /singhdraulic
+            - generic: "@singhdraulic"
+          - generic: ·
+          - link "5 hours ago":
+            - /url: /singhdraulic/status/2111824430766907448
+            - time: 5h
+          - button "Grok actions":
+          - button "More":
+          - generic: Imagine your grok bot building its own revenue online and paying you 90%
+          - group "64 views":
+            - button "0 Replies. Reply":
+            - button "0 reposts. Repost":
+            - button "0 Likes. Like":
+            - link "64 views. View post analytics":
+              - /url: /singhdraulic/status/2111824430766907448/analytics
+              - generic: "64"
+            - button "Bookmark":
+            - button "Share post":
+        - article "X Girls Verified account Provides details about protected accounts. @thesoragirls 19 hours ago Everyone on X after Grok Bot pays for itself 😂 Embedded video Play Video Play GIF 2 replies, 7 reposts, 30 likes, 3 bookmarks, 4004 views":
+          - link:
+            - /url: /thesoragirls
+          - link "X Girls Verified account Provides details about protected accounts.":
+            - /url: /thesoragirls
+            - generic: X Girls
+            - img "Verified account"
+            - button "Provides details about protected accounts.":
+              - img "Subscribed account"
+          - link "@thesoragirls":
+            - /url: /thesoragirls
+            - generic: "@thesoragirls"
+          - generic: ·
+          - link "19 hours ago":
+            - /url: /thesoragirls/status/2111612797272608792
+            - time: 19h
+          - button "Grok actions":
+          - button "More":
+          - generic: Everyone on X after Grok Bot pays for itself 😂
+          - generic "Embedded video"
+          - button "Play Video":
+          - button "Play":
+          - generic: GIF
+          - group "2 replies, 7 reposts, 30 likes, 3 bookmarks, 4004 views":
+            - button "2 Replies. Reply":
+              - generic: "2"
+            - button "7 reposts. Repost":
+              - generic: "7"
+            - button "30 Likes. Like":
+              - generic: "30"
+            - link "4004 views. View post analytics":
+              - /url: /thesoragirls/status/2111612797272608792/analytics
+              - generic: 4K
+            - button "Bookmark":
+            - button "Share post":
+        - article "Nicholas Royal Troon Ignatius Whelan Verified account @nicktwhelan0100 3 hours ago hey grok bot and 3d printer and optimus make chinese quality here in america in my dwelling that i can make millions selling online 3d printed assembly line produced small business mojo dojo casa houses":
+          - link:
+            - /url: /nicktwhelan0100
+          - link "Nicholas Royal Troon Ignatius Whelan Verified account":
+            - /url: /nicktwhelan0100
+            - generic: Nicholas Royal Troon Ignatius Whelan
+            - img "Verified account"
+          - link "@nicktwhelan0100":
+            - /url: /nicktwhelan0100
+            - generic: "@nicktwhelan0100"
+          - generic: ·
+          - link "3 hours ago":
+            - /url: /nicktwhelan0100/status/2111842962770444537
+            - time: 3h
+          - button "Grok actions":
+          - button "More":
+          - generic: hey grok bot and 3d printer and optimus make chinese quality here in america in my dwelling that i can make millions selling online 3d printed assembly line produced small business mojo dojo casa houses
+          - group "210 views":
+            - button "0 Replies. Reply":
+            - button "0 reposts. Repost":
+            - button "0 Likes. Like":
+            - link "210 views. View post analytics":
+              - /url: /nicktwhelan0100/status/2111842962770444537/analytics
+              - generic: "210"
+            - button "Bookmark":
+            - button "Share post":
+        - article "Brad White Verified account @attack_engineer 4 hours ago Can confirm. My Grok Bot just paid $500. It caught T-Mobile quietly raising my bill and got me a $260 credit plus $20 off a month for a year. One hour on a Sunday morning. ☕ 2 likes, 100 views":
+          - link:
+            - /url: /attack_engineer
+          - link "Brad White Verified account":
+            - /url: /attack_engineer
+            - generic: Brad White
+            - img "Verified account"
+          - link "@attack_engineer":
+            - /url: /attack_engineer
+            - generic: "@attack_engineer"
+          - generic: ·
+          - link "4 hours ago":
+            - /url: /attack_engineer/status/2111835093895655697
+            - time: 4h
+          - button "Grok actions":
+          - button "More":
+          - generic: Can confirm. My Grok Bot just paid $500. It caught T-Mobile quietly raising my bill and got me a $260 credit plus $20 off a month for a year. One hour on a Sunday morning. ☕
+          - group "2 likes, 100 views":
+            - button "0 Replies. Reply":
+            - button "0 reposts. Repost":
+            - button "2 Likes. Like":
+              - generic: "2"
+            - link "100 views. View post analytics":
+              - /url: /attack_engineer/status/2111835093895655697/analytics
+              - generic: "100"
+            - button "Bookmark":
+            - button "Share post":
+        - article "Thomas Gere Verified account @Tom_Gere 3 hours ago That sounds like a good use case, especially compared to all those $$ quick-win posts lately, which my own NewCo bot disqualified consistently...":
+          - link:
+            - /url: /Tom_Gere
+          - link "Thomas Gere Verified account":
+            - /url: /Tom_Gere
+            - generic: Thomas Gere
+            - img "Verified account"
+          - link "@Tom_Gere":
+            - /url: /Tom_Gere
+            - generic: "@Tom_Gere"
+          - generic: ·
+          - link "3 hours ago":
+            - /url: /Tom_Gere/status/2111851777033461936
+            - time: 3h
+          - button "Grok actions":
+          - button "More":
+          - generic: That sounds like a good use case, especially compared to all those $$ quick-win posts lately, which my own NewCo bot disqualified consistently...
+          - group "49 views":
+            - button "0 Replies. Reply":
+            - button "0 reposts. Repost":
+            - button "0 Likes. Like":
+            - link "49 views. View post analytics":
+              - /url: /Tom_Gere/status/2111851777033461936/analytics
+              - generic: "49"
+            - button "Bookmark":
+            - button "Share post":
+        - article "Todd Tracy Verified account @ToddTracy 18 hours ago In Elon’s world, the engineer is the rock star Embedded video Play Video. 6 seconds long Made with Grok ImagineMake your own 5 reposts, 31 likes, 2 bookmarks, 5113 views":
+          - link:
+            - /url: /ToddTracy
+          - link "Todd Tracy Verified account":
+            - /url: /ToddTracy
+            - generic: Todd Tracy
+            - img "Verified account"
+          - link "@ToddTracy":
+            - /url: /ToddTracy
+            - generic: "@ToddTracy"
+          - generic: ·
+          - link "18 hours ago":
+            - /url: /ToddTracy/status/2111622156677505354
+            - time: 18h
+          - button "Grok actions":
+          - button "More":
+          - generic: In Elon’s world, the engineer is the rock star
+          - generic "Embedded video"
+          - button "Play Video. 6 seconds long":
+          - text: Made with Grok Imagine
+          - generic: ·
+          - link "Make your own":
+            - /url: https://grok.com/imagine/post/238886fb-b0d5-4b1e-a444-bd7ae0e86832
+          - group "5 reposts, 31 likes, 2 bookmarks, 5113 views":
+            - button "0 Replies. Reply":
+            - button "5 reposts. Repost":
+              - generic: "5"
+            - button "31 Likes. Like":
+              - generic: "31"
+            - link "5113 views. View post analytics":
+              - /url: /ToddTracy/status/2111622156677505354/analytics
+              - generic: 5.1K
+            - button "Bookmark":
+            - button "Share post":
+        - article "LongbridgeAI Verified account @LongbridgeAI Initiate a chat with LongbridgeAI to unlock up to SGD 118* in rewards. Slide 1 of 3 - Carousel Previous One Conversation, Countless Moves. Next From longbridge.com 17 replies, 5 reposts, 170 likes, 28 bookmarks, 3646615 views":
+          - link:
+            - /url: /LongbridgeAI
+          - link "LongbridgeAI Verified account":
+            - /url: /LongbridgeAI
+            - generic: LongbridgeAI
+            - img "Verified account"
+          - link "@LongbridgeAI":
+            - /url: /LongbridgeAI
+            - generic: "@LongbridgeAI"
+          - generic: Ad
+          - button "More":
+          - generic: Initiate a chat with LongbridgeAI to unlock up to SGD 118* in rewards.
+          - generic "Slide 1 of 3 - Carousel Previous One Conversation, Countless Moves. Next":
+            - generic "Slide 1 of 3 - Carousel Previous One Conversation, Countless Moves. Next":
+              - generic: Slide 1 of 3 - Carousel
+              - navigation:
+                - button "Previous" [disabled]:
+                - tablist:
+                  - link "One Conversation, Countless Moves.":
+                    - /url: https://longbridge.com/ai?region=sg&intent=KeyQuestions&channel=SGAI3666&twclid=2cenlkr5pc23wzsyrw9ukp4n48
+                    - generic: One Conversation, Countless Moves.
+                  - link:
+                    - /url: https://longbridge.com/ai?region=sg&intent=KeyQuestions&channel=SGAI3666&twclid=2cenlkr5pc23wzsyrw9ukp4n48
+                    - generic: One Conversation, Countless Moves.
+                - button "Next" [disabled]:
+            - button "From longbridge.com"
+          - group "17 replies, 5 reposts, 170 likes, 28 bookmarks, 3646615 views":
+            - button "17 Replies. Reply":
+              - generic: "17"
+            - button "5 reposts. Repost":
+              - generic: "5"
+            - button "170 Likes. Like":
+              - generic: "170"
+            - link "3646615 views. View post analytics":
+              - /url: /LongbridgeAI/status/2096900660835049728/analytics
+              - generic: 3.6M
+            - button "Bookmark":
+            - button "Share post":
+  - generic "Trending":
+    - search "Search":
+      - combobox "Search query"
+    - complementary "Relevant people":
+      - heading "Relevant people" [level=2]:
+        - generic: Relevant people
+      - list:
+        - link:
+          - /url: /elonmusk
+        - link "Elon Musk Verified account":
+          - /url: /elonmusk
+          - generic: Elon Musk
+          - img "Verified account"
+          - link
+        - link "@elonmusk":
+          - /url: /elonmusk
+          - generic: "@elonmusk"
+        - button "Following @elonmusk":
+          - generic: Following
+        - link "Terafab.AI":
+          - /url: https://t.co/ZdBx5WABYx
+        - link:
+          - /url: /mikepat711
+        - link "Mike P Verified account":
+          - /url: /mikepat711
+          - generic: Mike P
+          - img "Verified account"
+        - link "@mikepat711":
+          - /url: /mikepat711
+          - generic: "@mikepat711"
+        - button "Follow @mikepat711":
+          - generic: Follow
+        - generic: Shitposting, PhD. Meme Researcher.
+    - heading "Live on X" [level=2]:
+      - generic: Live on X
+    - button "Space, Whole Mars Catalog is hosting, Hosted by Whole Mars Catalog, Tesla & SpaceX Earnings Week (Subscribe to speak), Whole Mars Catalog, Robert Scoble, and Overly Trev’s Future joined":
+      - generic: Whole Mars Catalog
+      - img "Verified account"
+      - text: is hosting
+      - generic: Tesla & SpaceX Earnings Week (Subscribe to speak)
+      - generic: "+152"
+    - region "Trending now":
+      - heading "Trending now" [level=1]
+      - 'generic "Timeline: Trending now"':
+        - heading "What’s happening" [level=2]:
+          - generic: What’s happening
+        - link "Technology · Trending Samsung More":
+          - generic: Technology · Trending
+          - generic: Samsung
+          - button "More":
+        - 'link "Trending in Singapore #cryptoairdrop More"':
+          - generic: Trending in Singapore
+          - generic: "#cryptoairdrop"
+          - button "More":
+        - link "Trending in Singapore zone 5900 a1 More":
+          - generic: Trending in Singapore
+          - generic: zone 5900 a1
+          - button "More":
+        - 'link "Trending in Singapore #savewrg More"':
+          - generic: Trending in Singapore
+          - generic: "#savewrg"
+          - button "More":
+        - link "Show more":
+          - /url: /explore/tabs/for-you
+          - generic: Show more
+    - navigation "Footer":
+      - link "Terms":
+        - /url: https://x.com/tos
+      - generic: ·
+      - link "Privacy":
+        - /url: https://x.com/privacy
+      - generic: ·
+      - link "Cookies":
+        - /url: https://support.x.com/articles/20170514
+      - generic: ·
+      - link "Accessibility":
+        - /url: https://help.x.com/resources/accessibility
+      - generic: ·
+      - link "Ads Info":
+        - /url: https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo
+      - generic: ·
+      - button "More":
+        - text: More
+      - generic: © 2026 X Corp.

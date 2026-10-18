@@ -1,0 +1,39 @@
+{
+  "checked_at_utc": "2026-10-18T19:27:17.004Z",
+  "public_url": "https://x.com/LeoGuoLabs/status/2111900873886765522",
+  "account": "@LeoGuoLabs",
+  "full_text": "“Go pay for yourself” is a pretty good assignment for an AI agent.\n\nOne user says Grok Bot arranged a 300 Mbps Xfinity plan for $70.90/month, $43 below his October bill. He still had to approve the final deal. I'd happily delegate the customer-service back-and-forth and keep that last decision.",
+  "exact_text_match": true,
+  "format": "native_quote_post",
+  "quote_target_url": "https://x.com/elonmusk/status/2111612315204272233",
+  "quote_target_verified_by": "Clicked native Quote card from the public post and observed the exact Elon Musk status URL.",
+  "source_post": "https://x.com/mikepat711/status/2111452223838224866",
+  "published_datetime_utc": "2026-10-18T19:23:00.000Z",
+  "displayed_datetime": "3:23 AM · Oct 19, 2026",
+  "expected_datetime_utc": "2026-10-18T19:23:00.000Z",
+  "published_at_requested_time": true,
+  "native_nested_source_image": [
+    {
+      "complete": true,
+      "naturalHeight": 168,
+      "naturalWidth": 240,
+      "src": "https://pbs.twimg.com/media/HU1im5cXoAAg58_?format=jpg&name=240x240"
+    }
+  ],
+  "source_image_in_quote_target": [
+    {
+      "complete": true,
+      "naturalHeight": 841,
+      "naturalWidth": 1200,
+      "src": "https://pbs.twimg.com/media/HU1im5cXoAAg58_?format=jpg&name=medium"
+    }
+  ],
+  "separate_upload_count": 0,
+  "publicly_verified": true,
+  "evidence": [
+    "research/public-page.jpg",
+    "research/public-page-ax.txt",
+    "research/public-quote-target.jpg",
+    "research/public-quote-target-ax.txt"
+  ]
+}
