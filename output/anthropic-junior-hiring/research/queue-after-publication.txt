@@ -1,3 +1,55 @@
 Browser tab: 2, Title: "(1) Home / X", URL: "https://x.com/compose/post/unsent/scheduled".
-There has been no change in the accessibility tree.
+1 AXWebArea (1) Home / X, URL: x.com/compose/post/unsent/scheduled
+	2 container
+		3 heading To view keyboard shortcuts, press question mark View keyboard shortcuts, Value: 2
+			4 text To view keyboard shortcuts, press question mark
+			5 link Description: View keyboard shortcuts, Value: x.com/i/keyboard_shortcuts
+		6 container layers
+			7 container
+				8 button Grok
+				9 button Chat
+			10 container
+				11 container Drafts
+					12 container
+						13 container
+							14 container
+								15 button Back
+								16 heading Drafts, Value: 2, ID: modal-header
+									17 text Drafts
+								18 button Edit
+									19 text Edit
+							20 container Drafts
+								21 container
+									22 button (disabled) Previous
+									23 tab group
+										24 tab (selectable, settable, boolean) Unsent posts, Value: 0
+Unsent posts
+										25 tab (selected, settable, boolean) Scheduled, Value: 1
+Scheduled
+									26 button (disabled) Next
+						27 button Will send on Mon, Oct 19, 2026 at 1:00 AM https://x.com/vikktorrrre/status/2110102474862313501 Altman's 2025 thought experiment still lands: follow the better recommendation, repeat, and gradually lose the ability to make the call yourself. Each decision could make sense on its own while leaving society dependent on a system it can't fully understand. Keeping humans in co...
+							28 container
+								29 text Will send on Mon, Oct 19, 2026 at 1:00 AM
+								30 container
+									31 text https://x.com/vikktorrrre/status/2110102474862313501
+								32 text Altman's 2025 thought experiment still lands: follow the better recommendation, repeat, and gradually lose the ability to make the call yourself.
+
+Each decision could make sense on its own while leaving society dependent on a system it can't fully understand. Keeping humans in co...
+						33 button Will send on Mon, Oct 19, 2026 at 3:23 AM https://x.com/elonmusk/status/2111612315204272233 “Go pay for yourself” is a pretty good assignment for an AI agent. One user says Grok Bot arranged a 300 Mbps Xfinity plan for $70.90/month, $43 below his October bill. He still had to approve the final deal. I'd happily delegate the customer-service back-and-forth and keep that...
+							34 container
+								35 text Will send on Mon, Oct 19, 2026 at 3:23 AM
+								36 container
+									37 text https://x.com/elonmusk/status/2111612315204272233
+								38 text “Go pay for yourself” is a pretty good assignment for an AI agent.
+
+One user says Grok Bot arranged a 300 Mbps Xfinity plan for $70.90/month, $43 below his October bill. He still had to approve the final deal. I'd happily delegate the customer-service back-and-forth and keep that...
+						39 button Will send on Mon, Oct 19, 2026 at 3:46 AM https://x.com/HarshithLucky3/status/2111831036330123698 The pelican does all the pedaling. The cat gets the glory. 😺 Harshith’s Gemini 4 Argon High SVG demo turns an absurd stack of animals and vehicles into a tiny circus. I like the camera move: follow the cat up, then pull back to reveal how ridiculous the whole tower is.
+							40 container
+								41 text Will send on Mon, Oct 19, 2026 at 3:46 AM
+								42 container
+									43 text https://x.com/HarshithLucky3/status/2111831036330123698
+								44 text The pelican does all the pedaling. The cat gets the glory. 😺
+
+Harshith’s Gemini 4 Argon High SVG demo turns an absurd stack of animals and vehicles into a tiny circus. I like the camera move: follow the cat up, then pull back to reveal how ridiculous the whole tower is.
+
 The focused UI element is 45 container
