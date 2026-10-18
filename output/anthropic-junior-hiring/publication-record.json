@@ -10,17 +10,17 @@
   "native_link_card_requested": false,
   "source_has_relevant_video": false,
   "source_has_native_quote": false,
-  "status": "scheduled",
+  "status": "publicly_verified",
   "approval": {
     "user_instruction": "请在美国西部时间早晨九点三十八分发布。",
     "scope": "Previously reviewed English standalone post with official report URL and native link card.",
     "received_date": "2026-10-18",
     "approved_text_sha256": "780b56c9b7c1c80e16e17600a7823ac43d2ca2d39374757e7c894525c57e1390"
   },
-  "published_url": null,
+  "published_url": "https://x.com/LeoGuoLabs/status/2111859350650466582",
   "related_previous_publication": "https://x.com/LeoGuoLabs/status/2111291299668111561",
   "differentiation": "This draft addresses junior hiring and skill development. The previous post focuses on agent runtime and human attention.",
-  "updated_at": "2026-10-18T15:47:54.895972+00:00",
+  "updated_at": "2026-10-18T16:42:03.277568+00:00",
   "preparation_checks": {
     "account_verified_in_live_browser": "@LeoGuoLabs",
     "composer_initially_empty": true,
@@ -57,7 +57,7 @@
       "research/scheduled-readback.txt"
     ]
   },
-  "publicly_verified": false,
+  "publicly_verified": true,
   "follow_up": {
     "provider": "Codex thread heartbeat",
     "automation_id": "anthropic",
@@ -65,6 +65,10 @@
     "local_timezone": "Asia/Singapore",
     "intended_at": "2026-10-19T00:40:00+08:00",
     "purpose": "One-time public-result verification only; do not duplicate publication.",
-    "status": "ACTIVE"
-  }
+    "status": "PAUSED",
+    "result": "Completed the requested one-time verification; no further runs needed.",
+    "completed_at": "2026-10-18T16:42:03.277568+00:00"
+  },
+  "published_at": "2026-10-18T16:38:00.000Z",
+  "public_verification_file": "research/public-verification.json"
 }

@@ -1,0 +1,33 @@
+{
+  "checked_at": "2026-10-18T16:42:03.277568+00:00",
+  "url": "https://x.com/LeoGuoLabs/status/2111859350650466582",
+  "account": "@LeoGuoLabs",
+  "format": "standalone",
+  "published_utc": "2026-10-18T16:38:00.000Z",
+  "published_pacific": "2026-10-18T09:38:00-07:00",
+  "published_singapore": "2026-10-19T00:38:00+08:00",
+  "visible_timestamp": "12:38 AM · Oct 19, 2026",
+  "published_at_requested_time": true,
+  "full_body_exact_match": true,
+  "body_comparison_note": "Compare all prose exactly; X represents the final approved URL as the native article card. Its short link was opened and resolved to the approved official URL.",
+  "approved_text_sha256": "780b56c9b7c1c80e16e17600a7823ac43d2ca2d39374757e7c894525c57e1390",
+  "official_link_verified": {
+    "short_url": "https://t.co/HRNqr5gmgt",
+    "resolved_url": "https://www.anthropic.com/research/employment-at-anthropic",
+    "title": "How employment is changing at Anthropic \\ Anthropic"
+  },
+  "native_link_card_visible": true,
+  "card_title": "How employment is changing at Anthropic",
+  "card_image_loaded": true,
+  "uploaded_media_count": 0,
+  "video_count": 0,
+  "remaining_queue_entries_for_this_topic": 0,
+  "duplicate_post_created": false,
+  "evidence": [
+    "research/public-page-dom.json",
+    "research/public-post-top.jpg",
+    "research/public-post-card-time.jpg",
+    "research/official-link-verified.json",
+    "research/queue-after-publication.txt"
+  ]
+}
