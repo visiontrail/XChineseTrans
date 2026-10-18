@@ -14,7 +14,7 @@
   "status": "awaiting_final_approval",
   "approval": null,
   "published_url": null,
-  "updated_at": "2026-10-18T11:15:16.786856+00:00",
+  "updated_at": "2026-10-18T11:26:12.411793+00:00",
   "checks": {
     "source_read_in_original_language": true,
     "primary_interview_and_date_verified": true,
@@ -24,6 +24,12 @@
     "playback_advancing": true,
     "composer_exact_text": true,
     "native_quote_target_verified": true,
-    "submitted": false
-  }
+    "submitted": false,
+    "token_share_primary_disclosure_checked": true
+  },
+  "version": 2,
+  "previous_version": "versions/v1",
+  "chinese_review_path": "post-zh-review.txt",
+  "revision_reason": "Verify reported China entertainment share; distinguish token use, compute and training data; qualify data-advantage argument",
+  "reused_media_verification": "Same ongoing task, unchanged SHA-256; original full decode, frame review and playback evidence retained."
 }

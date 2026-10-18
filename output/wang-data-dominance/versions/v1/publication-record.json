@@ -1,0 +1,29 @@
+{
+  "source": "https://x.com/huxlab/status/2111125438928142528",
+  "original_target": "https://x.com/vikktorrrre/status/2110767343483637947",
+  "interview_publisher": "New York Post / NYNext",
+  "interview_published_date": "2025-04-11",
+  "format": "native_quote",
+  "account": "@LeoGuoLabs",
+  "text_path": "post-en.txt",
+  "media_paths": [
+    "media/source-video.mp4"
+  ],
+  "media_role": "verified local copy; native video retained in quoted post",
+  "review_url": "http://172.16.10.59:8768/",
+  "status": "awaiting_final_approval",
+  "approval": null,
+  "published_url": null,
+  "updated_at": "2026-10-18T11:15:16.786856+00:00",
+  "checks": {
+    "source_read_in_original_language": true,
+    "primary_interview_and_date_verified": true,
+    "fresh_full_source_clip_downloaded": true,
+    "full_decode_passed": true,
+    "frames_inspected": true,
+    "playback_advancing": true,
+    "composer_exact_text": true,
+    "native_quote_target_verified": true,
+    "submitted": false
+  }
+}

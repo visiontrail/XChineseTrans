@@ -31,3 +31,11 @@
 - Minimal review server serves only review/, with relative symlinks to the two media assets. Current LAN URL http://172.16.10.59:8768/ returned HTTP 200 locally; actual phone access was not tested.
 - Desktop layout and 390x844 viewport checked. Temporary viewport override reset. No clipping/horizontal overflow observed in reviewed layout.
 - Pending final content approval under AGENTS.md. No public post URL exists for this task.
+
+## Version 2 revision, 2026-10-18
+
+- Added company-attributed token-consumption figures, no methodology qualification, and distinction from national compute and training data. Full evidence: token-share-verification.md.
+- Revised 825-character draft accepted by the same native Quote composer. Exact Draft.js block text matches post-en.txt; Post enabled; @LeoGuoLabs visible; selected Veee target retained; no submission.
+- V1 evidence archived under versions/v1/. Current composer-ready.png and composer-check.json describe V2.
+- Same source clip checksum reverified; original decode/frame/playback checks reused from earlier in this ongoing task. No new playback claim.
+- Review server restored after connection refusal; current LAN address rechecked and page HTTP 200 with V2 content. Full-page review screenshot: review-v2.png. Phone access not tested.
