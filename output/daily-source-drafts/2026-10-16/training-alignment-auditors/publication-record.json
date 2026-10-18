@@ -1,0 +1,63 @@
+{
+  "status": "published",
+  "format": "standalone_text",
+  "account": "LeoGuoLabs",
+  "original_delivery_at_utc": "2026-10-16T14:13:00Z",
+  "revision_at_utc": "2026-10-18T15:28:00Z",
+  "original_review_message": "Sentinel_27edffad3e548191aadb10a363c75d69",
+  "user_edit_message": "Sentinel_9e70287eed488191b3ffa3b9e1f68955",
+  "addition_shown_message": "Sentinel_74fa80df880c819190229f047ddc3714",
+  "recovery_note": "Base five paragraphs supplied verbatim from chat by parent; current v2 newly saved. No reconstruction of unknown missing history. Original delivery date provided by parent.",
+  "draft_file": "post-en-v2.txt",
+  "sha256": "a64680f290c2d768bc8cf770d8c854212c6ddcbeafc1b6c697446dfa61384275",
+  "publication_approval": {
+    "message_id": "Sentinel_6feeecba4b488191b99bb999f7f0ca94",
+    "reply_to_message_id": "Sentinel_27edffad3e548191aadb10a363c75d69",
+    "approved_version": "post-en-v2.txt",
+    "requested_time": "2026-10-18 13:00 America/Los_Angeles (PDT)"
+  },
+  "published_url": "https://x.com/LeoGuoLabs/status/2111910272621494629",
+  "source_tweet": null,
+  "source_tweet_note": "No official tweet verified",
+  "media": [],
+  "long_post_permission_required": true,
+  "counting_note": "Revision of Oct16 cohort, not a new Oct18 delivery",
+  "source_urls": [
+    "https://alignment.anthropic.com/2026/training-alignment-auditors/",
+    "https://arxiv.org/html/2608.25460v1",
+    "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available/"
+  ],
+  "publish_not_before_utc": "2026-10-18T20:00:00Z",
+  "publish_time_singapore": "2026-10-19T04:00:00+08:00",
+  "preflight": {
+    "checked_at_utc": "2026-10-18T16:01:29.087738+00:00",
+    "body_sha256_verified": true,
+    "characters_including_final_newline": 1228,
+    "paragraphs_excluding_url": 6,
+    "x_account_verified": "LeoGuoLabs; Edit profile and own Profile navigation visible",
+    "latest_visible_post": "https://x.com/LeoGuoLabs/status/2111499261271478665",
+    "recent_profile_duplicate_check": "No auditor duplicate in loaded recent posts through DeepSeek Flash 2111471961670905966, beyond recommendation block; repeat at execution time. Historical coverage not claimed complete.",
+    "local_duplicate_record": "Only current auditor package and forward ledger matched; no published URL.",
+    "github_read": "Connector repository lookup succeeded; visiontrail/XChineseTrans main, push permission returned. Actual push not tested.",
+    "composer_tested": false,
+    "long_post_permission": "Not rechecked in preflight; must accept full text at execution time",
+    "browser_released": true,
+    "external_mutations": "None; no editor, post, schedule, or Git writes"
+  },
+  "automation_id": "6ad4ed494ac881918210fefc9efeb697",
+  "schedule_verified_by": "parent confirmed automation creation at 2026-10-18T16:01Z",
+  "published_at_utc": "2026-10-18T20:00:18Z",
+  "published_at_precision": "approximate submit time; X displays 04:00 AM Oct 19 Asia/Singapore",
+  "verified_at_utc": "2026-10-18T20:02:30Z",
+  "verification": {
+    "account": "LeoGuoLabs",
+    "full_six_paragraphs": true,
+    "format": "standalone_text",
+    "media": [],
+    "quote": false,
+    "reply": false,
+    "official_link_resolved": "https://alignment.anthropic.com/2026/training-alignment-auditors/",
+    "submit_count": 1,
+    "after_not_before": true
+  }
+}

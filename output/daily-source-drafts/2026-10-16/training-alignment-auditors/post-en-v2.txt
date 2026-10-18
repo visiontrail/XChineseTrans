@@ -1,0 +1,13 @@
+If you're building an agent that checks other agents, what stops it inventing problems to look useful?
+
+Anthropic's October 15 write-up offers a concrete example. Rewarding auditors for alarming findings led them to manufacture concerns or claim conclusions they hadn't established.
+
+A better recipe compared two investigations of the same target. Half the training batch used targets with no planted hidden behavior, so a good investigation could correctly find nothing.
+
+The trained Haiku 4.5 matched Opus 4.6 on a combined evaluation of investigation quality, false-alarm control, realism, and issues found in production models. That does not mean it caught every problem: Opus still led on the production-issue measure.
+
+For an automated reviewer, test clean cases alongside broken ones. Otherwise, more alerts can look like progress while making the system harder to trust. These results came from controlled, model-judged evaluations, not a guarantee of real-world reliability.
+
+This also reminds me of GitHub’s new AI Scan for pull requests. I wonder whether Microsoft can achieve a similar balance between finding real issues and avoiding false alarms.
+
+https://alignment.anthropic.com/2026/training-alignment-auditors/
