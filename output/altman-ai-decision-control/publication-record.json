@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-18T15:39:46.515241+00:00",
+  "updated_at": "2026-10-18T17:08:02.363338+00:00",
   "account": "@LeoGuoLabs",
-  "state": "scheduled",
+  "state": "publicly_verified",
   "format": "native_quote",
   "supplied_source": "https://x.com/huxlab/status/2111636343432589371",
   "quote_target": "https://x.com/vikktorrrre/status/2110102474862313501",
@@ -33,8 +33,8 @@
   },
   "review_url": "http://172.16.10.59:58392/",
   "publication_authorization": "User approved the reviewed copy and requested scheduling: 请你在美国西部时间的早晨十点发布这个",
-  "submitted": false,
-  "public_url": null,
+  "submitted": true,
+  "public_url": "https://x.com/LeoGuoLabs/status/2111864890558423452",
   "approval": {
     "user_instruction": "请你在美国西部时间的早晨十点发布这个",
     "date": "2026-10-18",
@@ -58,11 +58,37 @@
   "follow_up": {
     "provider": "Codex heartbeat",
     "automation_id": "altman-quote-2",
-    "status": "ACTIVE",
+    "status": "DELETED",
     "one_time": true,
     "at": "2026-10-19T01:05:00+08:00",
-    "purpose": "Verify the actual public URL, approved text, original Quote target, and advancing native video playback."
+    "purpose": "Verify the actual public URL, approved text, original Quote target, and advancing native video playback.",
+    "completed": true,
+    "completed_at": "2026-10-18T17:08:02.363454+00:00",
+    "result": "Public URL, exact approved text, native Quote target, scheduled publication time and advancing video playback verified. One-time automation deleted after completion."
   },
   "schedule_submitted": true,
-  "publicly_verified": false
+  "publicly_verified": true,
+  "publication": {
+    "url": "https://x.com/LeoGuoLabs/status/2111864890558423452",
+    "published_at_utc": "2026-10-18T17:00:01.000Z",
+    "published_at_pacific": "2026-10-18T10:00:01-07:00",
+    "verified_at": "2026-10-18T17:07:21.178Z",
+    "account_verified": true,
+    "text_exact_match": true,
+    "format": "native_quote",
+    "quote_target_verified": true,
+    "native_video_count": 1,
+    "native_video_duration_seconds": 44.426,
+    "playback_advancing": true,
+    "playback_samples_seconds": [
+      16.511978,
+      27.190981
+    ],
+    "media_error": null,
+    "evidence": "research/public-verification.json",
+    "screenshots": [
+      "research/public-post.jpg",
+      "research/public-post-lower.jpg"
+    ]
+  }
 }

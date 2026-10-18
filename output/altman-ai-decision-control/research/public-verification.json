@@ -1,0 +1,39 @@
+{
+  "verified_at": "2026-10-18T17:07:21.178Z",
+  "url": "https://x.com/LeoGuoLabs/status/2111864890558423452",
+  "account": "@LeoGuoLabs",
+  "account_verified": true,
+  "text": "Altman's 2025 thought experiment still lands: follow the better recommendation, repeat, and gradually lose the ability to make the call yourself.\n\nEach decision could make sense on its own while leaving society dependent on a system it can't fully understand. Keeping humans in control means preserving the skills and authority to challenge the advice—and act without it.",
+  "text_exact_match": true,
+  "format": "native_quote",
+  "quote_target": "https://x.com/vikktorrrre/status/2110102474862313501",
+  "quote_target_verified": true,
+  "quote_verification_method": "Activated the native Quote card using Enter and observed destination URL.",
+  "published_at_utc": "2026-10-18T17:00:01.000Z",
+  "published_at_pacific": "2026-10-18T10:00:01-07:00",
+  "video_count": 1,
+  "video_duration_seconds": 44.426,
+  "playback_start": {
+    "currentTime": 16.511978,
+    "duration": 44.426,
+    "error": null,
+    "muted": true,
+    "paused": false,
+    "poster": "https://pbs.twimg.com/amplify_video_thumb/2110102337561776128/img/lShvDDvqmC7DpHBg.jpg",
+    "readyState": 4,
+    "src": "blob:https://x.com/39e90a42-6002-4fe3-81a5-18d973059f05",
+    "videoHeight": 1080,
+    "videoWidth": 1920
+  },
+  "playback_end": {
+    "currentTime": 27.190981,
+    "duration": 44.426,
+    "error": null,
+    "muted": true,
+    "paused": false,
+    "readyState": 4
+  },
+  "playback_advancing": true,
+  "media_error": null,
+  "evidence_source": "Live public page in authenticated Codex built-in browser; no re-publication performed."
+}
