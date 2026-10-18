@@ -1,0 +1,17 @@
+{
+  "checked_at": "2026-10-18T15:39:24.097Z",
+  "account": "@LeoGuoLabs",
+  "provider": "X native scheduler",
+  "queue_entry_seen": true,
+  "queue_entry_count_for_this_topic": 1,
+  "quote_target": "https://x.com/vikktorrrre/status/2110102474862313501",
+  "displayed_time": "Mon, Oct 19, 2026 at 1:00 AM",
+  "displayed_timezone": "Singapore Standard Time",
+  "scheduled_pacific": "2026-10-18T10:00:00-07:00",
+  "scheduled_singapore": "2026-10-19T01:00:00+08:00",
+  "scheduled_utc": "2026-10-18T17:00:00Z",
+  "reopened_text": "Altman's 2025 thought experiment still lands: follow the better recommendation, repeat, and gradually lose the ability to make the call yourself.\n\n\nEach decision could make sense on its own while leaving society dependent on a system it can't fully understand. Keeping humans in control means preserving the skills and authority to challenge the advice—and act without it.",
+  "normalized_text_matches_approved": true,
+  "schedule_submitted": true,
+  "publicly_verified": false
+}
