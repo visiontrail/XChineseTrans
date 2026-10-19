@@ -93,3 +93,6 @@ hls-window/
 
 # Casa Serra source compilation (>50 MiB); preserved locally.
 /output/casa-serra-scroll-house/media/source-video.mp4
+
+# Incomplete first-attempt REA demo downloads; preserved locally.
+/output/rea-reverse-engineering/perplexity-computer-20261019/media/*.incomplete

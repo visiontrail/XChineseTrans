@@ -1,0 +1,353 @@
+[
+  {
+    "name": "figma",
+    "source_post": "https://x.com/AskPerplexity/status/2111120664543596957",
+    "media_url": "https://video.twimg.com/amplify_video/2111120616019644416/vid/avc1/1920x1080/Px8BuKq7KlXTqxUl.mp4?tag=16",
+    "retrieved_at": "2026-10-19T00:38:44.156721+00:00",
+    "path": "media/figma-official-1080p.mp4",
+    "bytes": 8966874,
+    "sha256": "43bf6d0012ad908f8412a3d7f96cc5159c0b132c48470b35fb8f3aac44919969",
+    "duration": 93.166667,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "sample_rate": null,
+        "channels": null
+      }
+    ],
+    "full_decode_exit_code": 0,
+    "full_decode_errors": "",
+    "ranges": [
+      {
+        "start": 0,
+        "end": 1048575,
+        "content_range": "bytes 0-1048575/8966874",
+        "bytes": 1048576,
+        "status": 206
+      },
+      {
+        "start": 1048576,
+        "end": 2097151,
+        "content_range": "bytes 1048576-2097151/8966874",
+        "bytes": 1048576,
+        "status": 206
+      },
+      {
+        "start": 2097152,
+        "end": 3145727,
+        "content_range": "bytes 2097152-3145727/8966874",
+        "bytes": 1048576,
+        "status": 206
+      },
+      {
+        "start": 3145728,
+        "end": 4194303,
+        "content_range": "bytes 3145728-4194303/8966874",
+        "bytes": 1048576,
+        "status": 206
+      },
+      {
+        "start": 4194304,
+        "end": 5242879,
+        "content_range": "bytes 4194304-5242879/8966874",
+        "bytes": 1048576,
+        "status": 206
+      },
+      {
+        "start": 5242880,
+        "end": 6291455,
+        "content_range": "bytes 5242880-6291455/8966874",
+        "bytes": 1048576,
+        "status": 206
+      },
+      {
+        "start": 6291456,
+        "end": 7340031,
+        "content_range": "bytes 6291456-7340031/8966874",
+        "bytes": 1048576,
+        "status": 206
+      },
+      {
+        "start": 7340032,
+        "end": 8388607,
+        "content_range": "bytes 7340032-8388607/8966874",
+        "bytes": 1048576,
+        "status": 206
+      },
+      {
+        "start": 8388608,
+        "end": 8966873,
+        "content_range": "bytes 8388608-8966873/8966874",
+        "bytes": 578266,
+        "status": 206
+      }
+    ]
+  },
+  {
+    "name": "calc",
+    "source_post": "https://x.com/AskPerplexity/status/2111120738078044244",
+    "media_url": "https://video.twimg.com/amplify_video/2111120677885689857/vid/avc1/1920x1080/jQX1U_3s0_buPODw.mp4?tag=16",
+    "retrieved_at": "2026-10-19T00:38:46.306094+00:00",
+    "path": "media/calc-official-1080p.mp4",
+    "bytes": 5228006,
+    "sha256": "3e139e7d4274b289fc09dea525059a25c3152596390e09bff9b7b9f5b802096a",
+    "duration": 88.616667,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "sample_rate": null,
+        "channels": null
+      }
+    ],
+    "full_decode_exit_code": 0,
+    "full_decode_errors": "",
+    "ranges": [
+      {
+        "start": 0,
+        "end": 1048575,
+        "content_range": "bytes 0-1048575/5228006",
+        "bytes": 1048576,
+        "status": 206
+      },
+      {
+        "start": 1048576,
+        "end": 2097151,
+        "content_range": "bytes 1048576-2097151/5228006",
+        "bytes": 1048576,
+        "status": 206
+      },
+      {
+        "start": 2097152,
+        "end": 3145727,
+        "content_range": "bytes 2097152-3145727/5228006",
+        "bytes": 1048576,
+        "status": 206
+      },
+      {
+        "start": 3145728,
+        "end": 4194303,
+        "content_range": "bytes 3145728-4194303/5228006",
+        "bytes": 1048576,
+        "status": 206
+      },
+      {
+        "start": 4194304,
+        "end": 5228005,
+        "content_range": "bytes 4194304-5228005/5228006",
+        "bytes": 1033702,
+        "status": 206
+      }
+    ]
+  },
+  {
+    "name": "photopea",
+    "source_post": "https://x.com/AskPerplexity/status/2111120790683050106",
+    "media_url": "https://video.twimg.com/amplify_video/2111120751483039744/vid/avc1/1920x1080/Ibrl-Nd-Zv_s7OUJ.mp4?tag=16",
+    "retrieved_at": "2026-10-19T00:38:48.704260+00:00",
+    "path": "media/photopea-official-1080p.mp4",
+    "bytes": 6152019,
+    "sha256": "c9a424125b65f65ff5a9ec2e064034aecd47d13f3bfff3b2b7aca871886c952e",
+    "duration": 99.433333,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "sample_rate": null,
+        "channels": null
+      }
+    ],
+    "full_decode_exit_code": 0,
+    "full_decode_errors": "",
+    "ranges": [
+      {
+        "start": 0,
+        "end": 1048575,
+        "content_range": "bytes 0-1048575/6152019",
+        "bytes": 1048576,
+        "status": 206
+      },
+      {
+        "start": 1048576,
+        "end": 2097151,
+        "content_range": "bytes 1048576-2097151/6152019",
+        "bytes": 1048576,
+        "status": 206
+      },
+      {
+        "start": 2097152,
+        "end": 3145727,
+        "content_range": "bytes 2097152-3145727/6152019",
+        "bytes": 1048576,
+        "status": 206
+      },
+      {
+        "start": 3145728,
+        "end": 4194303,
+        "content_range": "bytes 3145728-4194303/6152019",
+        "bytes": 1048576,
+        "status": 206
+      },
+      {
+        "start": 4194304,
+        "end": 5242879,
+        "content_range": "bytes 4194304-5242879/6152019",
+        "bytes": 1048576,
+        "status": 206
+      },
+      {
+        "start": 5242880,
+        "end": 6152018,
+        "content_range": "bytes 5242880-6152018/6152019",
+        "bytes": 909139,
+        "status": 206
+      }
+    ]
+  },
+  {
+    "name": "harvey",
+    "source_post": "https://x.com/AskPerplexity/status/2111120848186982838",
+    "media_url": "https://video.twimg.com/amplify_video/2111120803911938048/vid/avc1/1920x1080/iqn2OOuzf6l7LR5W.mp4?tag=16",
+    "retrieved_at": "2026-10-19T00:38:50.661411+00:00",
+    "path": "media/harvey-official-1080p.mp4",
+    "bytes": 5917146,
+    "sha256": "8f155ca839201a66fb054f5863567585d78e4c538aab57ad997dcab4a81f160b",
+    "duration": 77.816667,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "sample_rate": null,
+        "channels": null
+      }
+    ],
+    "full_decode_exit_code": 0,
+    "full_decode_errors": "",
+    "ranges": [
+      {
+        "start": 0,
+        "end": 1048575,
+        "content_range": "bytes 0-1048575/5917146",
+        "bytes": 1048576,
+        "status": 206
+      },
+      {
+        "start": 1048576,
+        "end": 2097151,
+        "content_range": "bytes 1048576-2097151/5917146",
+        "bytes": 1048576,
+        "status": 206
+      },
+      {
+        "start": 2097152,
+        "end": 3145727,
+        "content_range": "bytes 2097152-3145727/5917146",
+        "bytes": 1048576,
+        "status": 206
+      },
+      {
+        "start": 3145728,
+        "end": 4194303,
+        "content_range": "bytes 3145728-4194303/5917146",
+        "bytes": 1048576,
+        "status": 206
+      },
+      {
+        "start": 4194304,
+        "end": 5242879,
+        "content_range": "bytes 4194304-5242879/5917146",
+        "bytes": 1048576,
+        "status": 206
+      },
+      {
+        "start": 5242880,
+        "end": 5917145,
+        "content_range": "bytes 5242880-5917145/5917146",
+        "bytes": 674266,
+        "status": 206
+      }
+    ]
+  },
+  {
+    "name": "audacity",
+    "source_post": "https://x.com/AskPerplexity/status/2111120943540289627",
+    "media_url": "https://video.twimg.com/amplify_video/2111120861503877120/vid/avc1/1920x1080/bgqNOL1zv0_TtjKk.mp4?tag=16",
+    "retrieved_at": "2026-10-19T00:38:53.036065+00:00",
+    "path": "media/audacity-official-1080p.mp4",
+    "bytes": 6789150,
+    "sha256": "d70bed8eb95a66c1e3644b6d2cc77027e9a02d411a7a904f4da12fe69c417a12",
+    "duration": 95.966667,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "sample_rate": null,
+        "channels": null
+      }
+    ],
+    "full_decode_exit_code": 0,
+    "full_decode_errors": "",
+    "ranges": [
+      {
+        "start": 0,
+        "end": 1048575,
+        "content_range": "bytes 0-1048575/6789150",
+        "bytes": 1048576,
+        "status": 206
+      },
+      {
+        "start": 1048576,
+        "end": 2097151,
+        "content_range": "bytes 1048576-2097151/6789150",
+        "bytes": 1048576,
+        "status": 206
+      },
+      {
+        "start": 2097152,
+        "end": 3145727,
+        "content_range": "bytes 2097152-3145727/6789150",
+        "bytes": 1048576,
+        "status": 206
+      },
+      {
+        "start": 3145728,
+        "end": 4194303,
+        "content_range": "bytes 3145728-4194303/6789150",
+        "bytes": 1048576,
+        "status": 206
+      },
+      {
+        "start": 4194304,
+        "end": 5242879,
+        "content_range": "bytes 4194304-5242879/6789150",
+        "bytes": 1048576,
+        "status": 206
+      },
+      {
+        "start": 5242880,
+        "end": 6291455,
+        "content_range": "bytes 5242880-6291455/6789150",
+        "bytes": 1048576,
+        "status": 206
+      },
+      {
+        "start": 6291456,
+        "end": 6789149,
+        "content_range": "bytes 6291456-6789149/6789150",
+        "bytes": 497694,
+        "status": 206
+      }
+    ]
+  }
+]

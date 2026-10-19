@@ -1,0 +1,60 @@
+{
+  "source_url": "https://x.com/0xLogicrw/status/2111647451384037421",
+  "quote_target_url": "https://x.com/AskPerplexity/status/2111120664543596957",
+  "account": "LeoGuoLabs",
+  "format": "native_quote",
+  "text_path": "post-en.txt",
+  "text_sha256": "c8b1aa718b6601c74fe91704bdd2ccdc3431983571eedec03a722d089926fb84",
+  "state": "awaiting_final_approval",
+  "submitted": false,
+  "scheduled": false,
+  "published_url": null,
+  "authorization": {
+    "preparation": "Bare X link under project AGENTS.md",
+    "final_content_approval": "pending"
+  },
+  "prepared_at": "2026-10-19T00:41:15.200455+00:00",
+  "media": [
+    {
+      "role": "native_quote_video",
+      "source_post": "https://x.com/AskPerplexity/status/2111120664543596957",
+      "path": "media/figma-official-1080p.mp4",
+      "duration": 93.166667,
+      "width": 1920,
+      "height": 1080,
+      "audio_streams": 0,
+      "separate_attachment": false
+    }
+  ],
+  "supplementary_source_videos": [
+    "media/calc-official-1080p.mp4",
+    "media/photopea-official-1080p.mp4",
+    "media/harvey-official-1080p.mp4",
+    "media/audacity-official-1080p.mp4"
+  ],
+  "media_manifest": "research/media-manifest.json",
+  "composer_screenshot": "composer-review.png",
+  "composer_page_evidence": "research/composer-page.txt",
+  "review_url": "http://172.16.10.59:54283/",
+  "checks": {
+    "source_original_language_read": true,
+    "live_official_original_and_continuations_read": true,
+    "original_quote_target_confirmed": true,
+    "primary_repo_checked": true,
+    "current_topic_deduplicated_local_and_origin": true,
+    "live_account_confirmed": true,
+    "composer_accepts_complete_text": true,
+    "post_button_enabled": true,
+    "character_count": 416,
+    "characters_remaining": 24584,
+    "fresh_videos_downloaded": 5,
+    "full_decode_passed": 5,
+    "beginning_middle_end_frames_reviewed": 5,
+    "source_video_playback_advanced": true,
+    "local_preview_desktop_and_390px_reviewed": true,
+    "lan_endpoint_verified": true,
+    "phone_device_playback_tested": false,
+    "downloaded_video_playback_advanced": 5
+  },
+  "local_playback_evidence": "research/local-playback-verification.json"
+}

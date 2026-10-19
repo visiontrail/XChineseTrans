@@ -1,0 +1,3 @@
+An app you already use can be a useful starting point for a coding agent. Perplexity has added REA to Computer to inspect software and build similar functionality; its Figma-style demo includes layers, auto-layout and multiplayer editing, according to the company.
+
+I’d start with one workflow: “Explain how this works, then build a smaller version for my team.” That gives you something concrete to test and refine.

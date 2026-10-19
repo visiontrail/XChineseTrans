@@ -1,0 +1,107 @@
+{
+  "before": [
+    {
+      "currentTime": 1.466858,
+      "duration": 93.166667,
+      "error": null,
+      "height": 1080,
+      "paused": false,
+      "readyState": 4,
+      "src": "http://127.0.0.1:54283/figma.mp4",
+      "width": 1920
+    },
+    {
+      "currentTime": 1.0675,
+      "duration": 88.616667,
+      "error": null,
+      "height": 1080,
+      "paused": false,
+      "readyState": 4,
+      "src": "http://127.0.0.1:54283/calc.mp4",
+      "width": 1920
+    },
+    {
+      "currentTime": 0.714512,
+      "duration": 99.433333,
+      "error": null,
+      "height": 1080,
+      "paused": false,
+      "readyState": 4,
+      "src": "http://127.0.0.1:54283/photopea.mp4",
+      "width": 1920
+    },
+    {
+      "currentTime": 0.374356,
+      "duration": 77.816667,
+      "error": null,
+      "height": 1080,
+      "paused": false,
+      "readyState": 4,
+      "src": "http://127.0.0.1:54283/harvey.mp4",
+      "width": 1920
+    },
+    {
+      "currentTime": 0.085796,
+      "duration": 95.966667,
+      "error": null,
+      "height": 1080,
+      "paused": false,
+      "readyState": 4,
+      "src": "http://127.0.0.1:54283/audacity.mp4",
+      "width": 1920
+    }
+  ],
+  "after": [
+    {
+      "currentTime": 46.929983,
+      "duration": 93.166667,
+      "error": null,
+      "height": 1080,
+      "paused": false,
+      "readyState": 4,
+      "src": "http://127.0.0.1:54283/figma.mp4",
+      "width": 1920
+    },
+    {
+      "currentTime": 46.530627,
+      "duration": 88.616667,
+      "error": null,
+      "height": 1080,
+      "paused": false,
+      "readyState": 4,
+      "src": "http://127.0.0.1:54283/calc.mp4",
+      "width": 1920
+    },
+    {
+      "currentTime": 46.177641,
+      "duration": 99.433333,
+      "error": null,
+      "height": 1080,
+      "paused": false,
+      "readyState": 4,
+      "src": "http://127.0.0.1:54283/photopea.mp4",
+      "width": 1920
+    },
+    {
+      "currentTime": 45.837486,
+      "duration": 77.816667,
+      "error": null,
+      "height": 1080,
+      "paused": false,
+      "readyState": 4,
+      "src": "http://127.0.0.1:54283/harvey.mp4",
+      "width": 1920
+    },
+    {
+      "currentTime": 45.548928,
+      "duration": 95.966667,
+      "error": null,
+      "height": 1080,
+      "paused": false,
+      "readyState": 4,
+      "src": "http://127.0.0.1:54283/audacity.mp4",
+      "width": 1920
+    }
+  ],
+  "allFiveAdvancing": true
+}
