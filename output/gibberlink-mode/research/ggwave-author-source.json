@@ -1,0 +1,208 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/ggerganov/status/1894057587441566081",
+    "id": "1894057587441566081",
+    "text": "Today I was sent the following cool demo:\n\nTwo AI agents on a phone call realize they\u2019re both AI and switch to a superior audio signal ggwave",
+    "raw_text": {
+      "text": "Today I was sent the following cool demo:\n\nTwo AI agents on a phone call realize they\u2019re both AI and switch to a superior audio signal ggwave https://t.co/TeewgxLEsP",
+      "display_text_range": [
+        0,
+        141
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            142,
+            165
+          ],
+          "id": "1894055065834467328",
+          "display": "pic.x.com/TeewgxLEsP",
+          "original": "https://t.co/TeewgxLEsP",
+          "replacement": "https://x.com/ggerganov/status/1894057587441566081/video/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "ggerganov",
+      "url": "https://x.com/ggerganov",
+      "id": "3300401027",
+      "followers": 73211,
+      "following": 296,
+      "likes": 3324,
+      "media_count": 316,
+      "name": "Georgi Gerganov",
+      "description": "24th at the Electrica puzzle challenge | building https://github.com/ggml-org | engineer @huggingface",
+      "raw_description": {
+        "text": "24th at the Electrica puzzle challenge | building https://t.co/baTQS2bL7I | engineer @huggingface",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              50,
+              73
+            ],
+            "original": "https://t.co/baTQS2bL7I",
+            "replacement": "https://github.com/ggml-org",
+            "display": "github.com/ggml-org"
+          }
+        ]
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/3300401027/1781278153",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1654097134315098113/zCZD0wYz_200x200.jpg",
+      "joined": "Wed May 27 12:56:54 +0000 2015",
+      "protected": false,
+      "website": {
+        "url": "https://github.com/ggerganov",
+        "display_url": "github.com/ggerganov"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 2894,
+    "retweets": 12844,
+    "likes": 90111,
+    "bookmarks": 37534,
+    "quotes": 6686,
+    "created_at": "Mon Feb 24 16:11:33 +0000 2025",
+    "created_timestamp": 1740413493,
+    "possibly_sensitive": false,
+    "views": 17567077,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "id": "1894055065834467328",
+          "url": "https://video.twimg.com/ext_tw_video/1894055065834467328/pu/vid/avc1/1280x720/REvGif4j3nKdtobk.mp4?tag=12",
+          "thumbnail_url": "https://pbs.twimg.com/ext_tw_video_thumb/1894055065834467328/pu/img/wJdBOWoyp9o05wG-.jpg",
+          "duration": 69.652,
+          "width": 1920,
+          "height": 1080,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/ext_tw_video/1894055065834467328/pu/pl/pxB59cGrj71Ojzrg.m3u8?tag=12&v=6c6",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/ext_tw_video/1894055065834467328/pu/vid/avc1/480x270/UzEFrP3E1p3V5El8.mp4?tag=12",
+              "bitrate": 256000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/ext_tw_video/1894055065834467328/pu/vid/avc1/640x360/Nd3szvB0YqJanLfu.mp4?tag=12",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/ext_tw_video/1894055065834467328/pu/vid/avc1/1280x720/REvGif4j3nKdtobk.mp4?tag=12",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": null,
+          "variants": [
+            {
+              "url": "https://video.twimg.com/ext_tw_video/1894055065834467328/pu/pl/pxB59cGrj71Ojzrg.m3u8?tag=12&v=6c6",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/ext_tw_video/1894055065834467328/pu/vid/avc1/480x270/UzEFrP3E1p3V5El8.mp4?tag=12",
+              "bitrate": 256000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/ext_tw_video/1894055065834467328/pu/vid/avc1/640x360/Nd3szvB0YqJanLfu.mp4?tag=12",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/ext_tw_video/1894055065834467328/pu/vid/avc1/1280x720/REvGif4j3nKdtobk.mp4?tag=12",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "id": "1894055065834467328",
+          "url": "https://video.twimg.com/ext_tw_video/1894055065834467328/pu/vid/avc1/1280x720/REvGif4j3nKdtobk.mp4?tag=12",
+          "thumbnail_url": "https://pbs.twimg.com/ext_tw_video_thumb/1894055065834467328/pu/img/wJdBOWoyp9o05wG-.jpg",
+          "duration": 69.652,
+          "width": 1920,
+          "height": 1080,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/ext_tw_video/1894055065834467328/pu/pl/pxB59cGrj71Ojzrg.m3u8?tag=12&v=6c6",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/ext_tw_video/1894055065834467328/pu/vid/avc1/480x270/UzEFrP3E1p3V5El8.mp4?tag=12",
+              "bitrate": 256000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/ext_tw_video/1894055065834467328/pu/vid/avc1/640x360/Nd3szvB0YqJanLfu.mp4?tag=12",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/ext_tw_video/1894055065834467328/pu/vid/avc1/1280x720/REvGif4j3nKdtobk.mp4?tag=12",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": null,
+          "variants": [
+            {
+              "url": "https://video.twimg.com/ext_tw_video/1894055065834467328/pu/pl/pxB59cGrj71Ojzrg.m3u8?tag=12&v=6c6",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/ext_tw_video/1894055065834467328/pu/vid/avc1/480x270/UzEFrP3E1p3V5El8.mp4?tag=12",
+              "bitrate": 256000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/ext_tw_video/1894055065834467328/pu/vid/avc1/640x360/Nd3szvB0YqJanLfu.mp4?tag=12",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/ext_tw_video/1894055065834467328/pu/vid/avc1/1280x720/REvGif4j3nKdtobk.mp4?tag=12",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ]
+    },
+    "twitter_card": "player",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

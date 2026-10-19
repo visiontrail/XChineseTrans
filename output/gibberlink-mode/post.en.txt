@@ -1,0 +1,15 @@
+GibberLink mode turns an audio channel into a data link. Think of it as a tiny modem attached to an AI agent.
+
+In the original 2025 demo, the developers prompted two agents to switch modes once they identified each other as AI and agreed to switch. The protocol and the switching tool were already supplied by humans.
+
+After the switch, the LLM still produces short text messages. The ggwave library encodes their bytes into tones; the receiving side decodes those tones back into text for its agent. The reasoning still happens in the LLM. What changes is how the message travels between them.
+
+Under the hood, ggwave uses frequency-shift keying and Reed–Solomon error correction. Its README lists roughly 8–16 bytes per second, depending on configuration. The useful saving is skipping speech synthesis and speech recognition—not gaining internet-like bandwidth or transmitting thoughts directly.
+
+That makes the use case quite specific. If both agents can exchange data through an API, send the data directly. An acoustic link becomes interesting when the available interface is a speaker and microphone, or an audio-only connection that can carry the tones. Real phone codecs and noise suppression still need testing.
+
+And a beep you can't understand by ear isn't automatically encrypted: the project explicitly shows how to decode the demo back into readable messages.
+
+I like the interface idea. If an agent makes a booking for me, though, I still want a readable record of the dates, price and commitments it agreed to. Faster transport doesn't replace that.
+
+https://github.com/PennyroyalTea/gibberlink

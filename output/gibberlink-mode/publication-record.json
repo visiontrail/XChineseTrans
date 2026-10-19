@@ -1,0 +1,36 @@
+{
+  "state": "prepared_pending_final_review",
+  "account": "@LeoGuoLabs",
+  "format": "native_quote",
+  "supplied_source": "https://x.com/huxlab/status/2112123190667542846",
+  "intermediary": "https://x.com/luqman_talks/status/2111790481759945007",
+  "quote_target": "https://x.com/ggerganov/status/1894057587441566081",
+  "target_author_role": "ggwave creator sharing demo sent to him; not GibberLink creator",
+  "text": "post.en.txt",
+  "media": [
+    {
+      "path": "media/gibberlink-demo-original.mp4",
+      "source_url": "https://video.twimg.com/ext_tw_video/1894055065834467328/pu/vid/avc1/1280x720/REvGif4j3nKdtobk.mp4?tag=12",
+      "retrieved_at": "2026-10-19T11:56:38.649072+00:00",
+      "bytes": 3393365,
+      "sha256": "b8a496259320df4f2dee09b519950fa2846cff9364250b1e3aa1526c38286d60",
+      "duration_seconds": 69.696,
+      "full_decode_errors": "",
+      "native_media_retained": true,
+      "separate_attachment": false
+    }
+  ],
+  "checks": {
+    "source_full_text_read": true,
+    "primary_repo_read": true,
+    "account_observed": "@LeoGuoLabs",
+    "composer_complete_text_accepted": true,
+    "composer_characters_remaining": 23410,
+    "source_playback_observed": [
+      "0:16 remaining",
+      "0:01 remaining"
+    ],
+    "publication_submitted": false
+  },
+  "published_url": null
+}
