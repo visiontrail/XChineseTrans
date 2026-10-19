@@ -35,3 +35,11 @@ All five official 1080p H.264 files were freshly downloaded via exact verified H
 The review page was checked at desktop and 390px width, and the viewport was restored. The LAN endpoint responded correctly and its video prefix matched the local source file; playback on a separate phone was not tested.
 
 All five local source files were also played in the built-in browser. Each advanced from roughly 0–1.5 seconds to 45–47 seconds at 1920×1080, readyState 4, without a media error. See research/local-playback-verification.json. Videos were paused after inspection.
+
+## Approved delayed publication — 2026-10-19
+
+User approved the displayed version with “请你在10分钟以后发布” at approximately 14:00 Singapore time. The current built-in browser session was re-established and @LeoGuoLabs was verified live. origin/main had no separate publication record for this target. Approved text and SHA-256 remain unchanged.
+
+X accepted the native scheduled Quote for October 19 at 14:11 Singapore Standard Time. The Scheduled queue was reopened and explicitly showed that time, the exact official target URL and the expected copy. See scheduled-queue.png and research/scheduled-queue.txt. This is scheduled, not publicly verified. No extra video was uploaded.
+
+A one-time thread heartbeat, rea-quote, is active for 14:12 Singapore time to verify the real public result and pause after that check. OpenAI Docs skill was used for scheduled-follow-up guidance: https://developers.openai.com/training/walkthroughs/scheduled-tasks .

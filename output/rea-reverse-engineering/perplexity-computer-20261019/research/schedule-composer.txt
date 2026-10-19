@@ -1,0 +1,84 @@
+Browser tab: 1, Title: "Computer on X: \"REA (Reverse Engineer Anything) by @morluto is now a skill in Computer. Ask Computer to reverse-engineer an app and it inspects how the app works without its source code, then builds a working version. Tasks that use /reverse-engineer are free through October 31, up to 10,000 https://t.co/GAlDt4sDZJ\" / X", URL: "https://x.com/compose/post".
+0 AXWebArea URL: x.com/compose/post, Computer on X: "REA (Reverse Engineer Anything) by @morluto is now a skill in Computer. Ask Computer to reverse-engineer an app and it inspects how the app works without its source code, then builds a working version. Tasks that use /reverse-engineer are free through October 31, up to 10,000 https://t.co/GAlDt4sDZJ" / X
+	1 container
+		2 progress indicator 0
+		3 container
+			4 button Close
+			5 button Drafts
+				6 text Drafts
+		7 container
+			8 container
+				9 container
+					10 container Leo Guo
+						11 image Leo Guo
+				12 button Will send on Mon, Oct 19, 2026 at 2:11 PM
+				13 container
+					14 container
+						15 container
+							16 text entry area (settable) Description: Post text, Value: An app you already use can be a useful starting point for a coding agent. Perplexity has added REA to Computer to inspect software and build similar functionality; its Figma-style demo includes layers, auto-layout and multiplayer editing, according to the company.
+
+
+I’d start with one workflow: “Explain how this works, then build a smaller version for my team.” That gives you something concrete to test and refine.
+								17 text An app you already use can be a useful starting point for a coding agent. Perplexity has added REA to Computer to inspect software and build similar functionality; its Figma-style demo includes layers, auto-layout and multiplayer editing, according to the company.
+								18 text I’d start with one workflow: “Explain how this works, then build a smaller version for my team.” That gives you something concrete to test and refine.
+						19 container
+							20 container
+								21 text Quote
+								22 button Square profile picture Computer Verified account @AskPerplexity Oct 16 REA (Reverse Engineer Anything) by @morluto is now a skill in Computer. Ask Computer to reverse-engineer an app and it inspects how the app works without its source code, then builds a working version. Tasks that use /reverse-engineer are free through October 31, up to 10,000
+									23 container
+										24 container
+											25 container
+												26 container Square profile picture
+													27 image Square profile picture
+											28 container
+												29 container
+													30 text Computer
+													31 image Verified account
+													32 link
+												33 container
+													34 text @AskPerplexity
+													35 container Oct 16
+														36 text Oct 16
+										37 container
+											38 text REA (Reverse Engineer Anything) by  @morluto  is now a skill in Computer.
+
+Ask Computer to reverse-engineer an app and it inspects how the app works without its source code, then builds a working version.
+
+Tasks that use /reverse-engineer are free through October 31, up to 10,000
+							39 container
+								40 text Computer
+								41 image Verified account
+							42 button Collapse
+					43 container
+						44 container id__96hwtbllbfm
+							45 link Description: Try out, Value: x.com/compose/articles
+							46 text  the new article composer for new formatting options.
+						47 button Close
+				48 button (disabled) Everyone can reply
+					49 text Everyone can reply
+				50 container
+					51 container
+						52 button (disabled) Previous
+						53 tab group
+							54 container
+								55 button Choose Files
+								56 pop up button (collapsed) Description: Add photos or video, Secondary Actions: Expand
+							57 button Add a GIF
+							58 button (disabled) Add poll
+							59 pop up button Add emoji
+							60 button Schedule post
+							61 button (disabled) Tag location
+							62 button Content disclosure
+						63 button (disabled) Next
+					64 container
+						65 text 24,584 characters remaining
+						66 progress indicator 1
+					67 container
+						68 button Add post
+					69 button Schedule
+						70 text Schedule
+
+The focused UI element is 16 text entry area (settable) Description: Post text, Value: An app you already use can be a useful starting point for a coding agent. Perplexity has added REA to Computer to inspect software and build similar functionality; its Figma-style demo includes layers, auto-layout and multiplayer editing, according to the company.
+
+
+I’d start with one workflow: “Explain how this works, then build a smaller version for my team.” That gives you something concrete to test and refine.

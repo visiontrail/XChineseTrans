@@ -5,13 +5,17 @@
   "format": "native_quote",
   "text_path": "post-en.txt",
   "text_sha256": "c8b1aa718b6601c74fe91704bdd2ccdc3431983571eedec03a722d089926fb84",
-  "state": "awaiting_final_approval",
+  "state": "scheduled",
   "submitted": false,
-  "scheduled": false,
+  "scheduled": true,
   "published_url": null,
   "authorization": {
     "preparation": "Bare X link under project AGENTS.md",
-    "final_content_approval": "pending"
+    "final_content_approval": {
+      "user_text": "请你在10分钟以后发布",
+      "scope": "Publish the previously displayed complete English copy as a native Quote of the same official target, after ten minutes.",
+      "request_observed_at": "2026-10-19T14:00:38+08:00"
+    }
   },
   "prepared_at": "2026-10-19T00:41:15.200455+00:00",
   "media": [
@@ -54,7 +58,30 @@
     "local_preview_desktop_and_390px_reviewed": true,
     "lan_endpoint_verified": true,
     "phone_device_playback_tested": false,
-    "downloaded_video_playback_advanced": 5
+    "downloaded_video_playback_advanced": 5,
+    "native_schedule_created": true,
+    "native_schedule_queue_verified": true
   },
-  "local_playback_evidence": "research/local-playback-verification.json"
+  "local_playback_evidence": "research/local-playback-verification.json",
+  "schedule_submitted": true,
+  "schedule": {
+    "method": "X native scheduler",
+    "publish_at": "2026-10-19T14:11:00+08:00",
+    "timezone": "Asia/Singapore",
+    "ui_timezone": "Singapore Standard Time",
+    "queue_verified": true,
+    "queue_url": "https://x.com/compose/post/unsent/scheduled",
+    "queue_screenshot": "scheduled-queue.png",
+    "queue_evidence": "research/scheduled-queue.txt",
+    "full_copy_verified_before_schedule": true,
+    "exact_quote_target_verified_in_queue": true,
+    "public_verification": "pending scheduled publication"
+  },
+  "followup": {
+    "automation_id": "rea-quote",
+    "kind": "heartbeat",
+    "one_time": true,
+    "expected_at": "2026-10-19T14:12:00+08:00",
+    "purpose": "Verify actual public post, complete text, exact native Quote target and advancing source-video playback. Pause after completion."
+  }
 }
