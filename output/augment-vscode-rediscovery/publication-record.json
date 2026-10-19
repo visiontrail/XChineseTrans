@@ -1,0 +1,64 @@
+{
+  "account": "@LeoGuoLabs",
+  "format": "standalone_post",
+  "state": "scheduled",
+  "source": "User-provided anecdote and VS Code screenshot in current chat",
+  "quote_target": null,
+  "copy_file": "post-en.txt",
+  "media": [
+    {
+      "path": "augment-vscode-user-screenshot.png",
+      "type": "image/png",
+      "origin": "User attachment; preserved without edits",
+      "bytes": 1116433,
+      "dimensions": [
+        2298,
+        1764
+      ],
+      "sha256": "509c779bac1d58e9e4b455640f9867d4919c0767c2e6cf223e7108cfdaa58bb5",
+      "alt_file": "image-alt-en.txt"
+    }
+  ],
+  "prepared_at": "2026-10-19T07:35:44.374277+00:00",
+  "approval": {
+    "state": "approved_for_scheduled_publication",
+    "user_instruction": "请你在美国西部时间，早晨10点发布",
+    "context": "User requested scheduling after the prepared live composer and full text plus screenshot were displayed. The current wording and media were preserved."
+  },
+  "publication_url": null,
+  "checks": {
+    "local_topic_search": "No prior Augment topic found",
+    "browser_account": "Live profile navigation points to x.com/LeoGuoLabs",
+    "technical_claims": "Only user-supplied personal experience; no product-performance claims added",
+    "remote_reconciliation": "Fetched origin; HEAD and origin/main matched. No previous Augment draft/publication found in relevant remote records or commit subjects.",
+    "composer": "Full approved text accepted; Post/Schedule enabled; one original screenshot attached; descriptive ALT saved.",
+    "queued_text": "Exact match to post-en.txt, including two newlines between paragraphs.",
+    "queue": "Native X scheduled queue shows the complete Augment text, one image, and correct time.",
+    "public_verification": "Pending scheduled publication; no public URL yet."
+  },
+  "schedule": {
+    "provider": "X native scheduler",
+    "time_zone": "America/Los_Angeles",
+    "local_time": "2026-10-19T10:00:00-07:00",
+    "abbreviation": "PDT",
+    "utc": "2026-10-19T17:00:00Z",
+    "singapore": "2026-10-20T01:00:00+08:00",
+    "ui_time_zone": "Singapore Standard Time",
+    "queue_url": "https://x.com/compose/post/unsent/scheduled",
+    "queue_label": "Will send on Tue, Oct 20, 2026 at 1:00 AM",
+    "verified_at": "2026-10-19T07:39:24.145858+00:00"
+  },
+  "evidence": [
+    "augment-vscode-user-screenshot.png",
+    "composer-review.png",
+    "schedule-ready.png",
+    "scheduled-queue.png"
+  ],
+  "follow_up": {
+    "automation_id": "augment",
+    "kind": "heartbeat",
+    "one_time": true,
+    "scheduled_for_singapore": "2026-10-20T01:05:00+08:00",
+    "purpose": "Verify existing public result only; do not republish. Pause after the check."
+  }
+}

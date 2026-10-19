@@ -1,0 +1,5 @@
+Anyone else remember Augment, the coding agent?
+
+I opened VS Code for the first time in ages and the extension popped up. I'd completely forgotten about it.
+
+If you're still using it, how's it holding up these days?
