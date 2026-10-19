@@ -1,0 +1,192 @@
+Browser tab: 2, Title: "(1) Leo Guo on X: \"GibberLink mode is essentially a tiny modem for AI agents. It turns text into tones, sends them over audio, then decodes them back into text. In this 2025 demo, the agents were prompted to switch after identifying each other as AI and agreeing to change modes. The LLM still\" / X", URL: "https://x.com/LeoGuoLabs/status/2112202109550559588".
+1 AXWebArea URL: x.com/LeoGuoLabs/status/2112202109550559588, (1) Leo Guo on X: "GibberLink mode is essentially a tiny modem for AI agents. It turns text into tones, sends them over audio, then decodes them back into text. In this 2025 demo, the agents were prompted to switch after identifying each other as AI and agreeing to change modes. The LLM still" / X
+	2 container
+		3 heading To view keyboard shortcuts, press question mark View keyboard shortcuts, Value: 2
+			4 text To view keyboard shortcuts, press question mark
+			5 link Description: View keyboard shortcuts, Value: x.com/i/keyboard_shortcuts
+		6 container
+			7 button Grok
+			8 button Chat
+		9 button Skip to home timeline
+		10 button Skip to trending
+		11 container
+			12 heading X, Value: 1
+				13 link Description: X, Value: x.com/home
+			14 container Primary
+				15 link Description: Home, Value: x.com/home
+				16 link Description: Search and explore, Value: x.com/explore
+				17 link Description: Notifications (1 unread notification), Value: x.com/notifications
+				18 link Description: Direct Messages, Value: x.com/i/chat
+				19 link Description: Calls, Value: x.com/i/calls
+				20 link Description: Grok, Value: x.com/i/grok
+				21 link Description: Subscription, Value: x.com/i/premium
+				22 link Description: History, Value: x.com/i/history
+				23 link Description: Profile, Value: x.com/LeoGuoLabs
+				24 pop up button (collapsed) Description: More menu items, Secondary Actions: Expand
+					25 container
+						26 text More
+			27 link Description: Post, Value: x.com/compose/post
+			28 button Account menu
+				29 container
+					30 container Leo Guo
+						31 image Leo Guo
+				32 container
+					33 container
+						34 text Leo Guo
+						35 image Verified account
+					36 text @LeoGuoLabs
+				37 container undefined unread items
+		38 container
+			39 container Home timeline
+				40 container
+					41 container
+						42 button Back
+						43 heading Post, Value: 2
+							44 text Post
+				45 container Conversation
+					46 heading Conversation, Value: 1, ID: accessible-list-0
+						47 text Conversation
+					48 container Timeline: Conversation
+						49 container
+							50 container
+								51 container Leo Guo Verified account @LeoGuoLabs GibberLink mode is essentially a tiny modem for AI agents. It turns text into tones, sends them over audio, then decodes them back into text. In this 2025 demo, the agents were prompted to switch after identifying each other as AI and agreeing to change modes. The LLM still generates the messages; ggwave handles their transmission, skipping speech synthesis and recognition. The idea is useful when audio is the available connection. If the agents already share an API, they can simply exchange data directly. And those beeps are decodable, not inherently secret. Even knowing the switch was designed by humans, I find the moment striking. AI increasingly feels like another intelligent species sharing our world. Watching two agents switch away from human speech makes that feeling oddly tangible. github.com/PennyroyalTea/ Quote Georgi Gerganov Verified account @ggerganov Feb 25, 2025 Today I was sent the following cool demo: Two AI agents on a phone call realize they’re both AI and switch to a superior audio signal ggwave Embedded video Play Video. 1 minute 10 seconds long
+									52 container
+										53 link x.com/LeoGuoLabs
+										54 container
+											55 container id__tw60pdt4znd
+												56 link Description: Leo Guo Verified account, Value: x.com/LeoGuoLabs
+												57 link Description: @LeoGuoLabs, Value: x.com/LeoGuoLabs
+											58 container
+												59 button Boost
+													60 text Boost
+												61 button Grok actions
+												62 pop up button (collapsed) Description: More, Secondary Actions: Expand
+										63 container id__8qonkwbpntq
+											64 text GibberLink mode is essentially a tiny modem for AI agents. It turns text into tones, sends them over audio, then decodes them back into text.
+
+In this 2025 demo, the agents were prompted to switch after identifying each other as AI and agreeing to change modes. The LLM still generates the messages; ggwave handles their transmission, skipping speech synthesis and recognition.
+
+The idea is useful when audio is the available connection. If the agents already share an API, they can simply exchange data directly. And those beeps are decodable, not inherently secret.
+
+Even knowing the switch was designed by humans, I find the moment striking. AI increasingly feels like another intelligent species sharing our world. Watching two agents switch away from human speech makes that feeling oddly tangible.
+
+
+											65 link Description: github.com/PennyroyalTea/, Value: t.co/q65YdGAABr
+										66 container ID: id__4jhbvearqn, Description: Quote Georgi Gerganov Verified account @ggerganov Feb 25, 2025 Today I was sent the following cool demo: Two AI agents on a phone call realize they’re both AI and switch to a superior audio signal ggwave Embedded video Play Video. 1 minute 10 seconds long
+											67 container id__64oqn54j4vn
+												68 text Quote
+												69 link Georgi Gerganov Verified account @ggerganov Feb 25, 2025 Today I was sent the following cool demo: Two AI agents on a phone call realize they’re both AI and switch to a superior audio signal ggwave Embedded video Play Video. 1 minute 10 seconds long
+													70 container
+														71 container
+															72 container
+																73 container
+																	74 text Georgi Gerganov
+																	75 image Verified account
+																76 container
+																	77 text @ggerganov
+																	78 container Feb 25, 2025
+																		79 text Feb 25, 2025
+														80 text Today I was sent the following cool demo:
+
+Two AI agents on a phone call realize they’re both AI and switch to a superior audio signal ggwave
+														81 container
+															82 container Embedded video
+															83 container
+																84 button Play Video. 1 minute 10 seconds long
+										85 container
+											86 container
+												87 link Description: 11:20 PM · Oct 19, 2026, Value: x.com/LeoGuoLabs/status/2112202109550559588
+												88 link Description: 4 Views, Value: x.com/LeoGuoLabs/status/2112202109550559588/analytics
+										89 container Description: 4 views, ID: id__onmua9ck61
+											90 button 0 Replies. Reply
+											91 pop up button (collapsed) Description: 0 reposts. Repost, Secondary Actions: Expand
+											92 button 0 Likes. Like
+											93 button 0 Bookmarks. Bookmark
+											94 pop up button (collapsed) Description: Share post, Secondary Actions: Expand
+								95 container
+									96 container
+										97 link Description: Leo Guo, Value: x.com/LeoGuoLabs
+										98 container
+											99 container
+												100 container
+													101 text Post your reply
+													102 text entry area (settable) Description: Post text, Value:
+
+											103 button (disabled) Reply
+												104 text Reply
+			105 container
+				106 container Trending
+					107 container
+						108 container Search
+							109 container
+								110 combo box (settable) Search query
+						111 container Relevant people
+							112 heading Relevant people, Value: 2
+								113 text Relevant people
+							114 content list
+								115 container
+									116 container
+										117 link Description: Leo Guo Verified account, Value: x.com/LeoGuoLabs
+										118 link Description: @LeoGuoLabs, Value: x.com/LeoGuoLabs
+									119 text Previously a senior C/C++ engineer in telecom. Now exploring AI and emerging tech, sharing useful tools and an engineering perspective.
+								120 container
+									121 container
+										122 container
+											123 link Description: Georgi Gerganov Verified account, Value: x.com/ggerganov
+											124 link Description: @ggerganov, Value: x.com/ggerganov
+										125 button Follow @ggerganov
+											126 text Follow
+									127 container
+										128 text 24th at the Electrica puzzle challenge | building
+										129 link Description: github.com/ggml-org, Value: t.co/baTQS2bL7I
+										130 text  | engineer
+										131 link Description: @huggingface, Value: x.com/huggingface
+						132 container Trending now
+							133 heading Trending now, Value: 1, ID: accessible-list-1
+								134 text Trending now
+							135 container Timeline: Trending now
+								136 container
+									137 heading What’s happening, Value: 2
+										138 text What’s happening
+									139 link Politics · Trending Western Civilization More
+										140 container id__sw3v38w4zb
+											141 text Politics · Trending
+											142 text Western Civilization
+											143 pop up button (collapsed) Description: More, Secondary Actions: Expand
+									144 link Trending Ethereum More
+										145 container id__nbzqya9sah7
+											146 text Trending
+											147 text Ethereum
+											148 pop up button (collapsed) Description: More, Secondary Actions: Expand
+									149 link Trending in Singapore The French More
+										150 container id__gnflull0h1k
+											151 text Trending in Singapore
+											152 text The French
+											153 pop up button (collapsed) Description: More, Secondary Actions: Expand
+									154 link Trending in Singapore #lalala2027 More
+										155 container id__b5jfpji30fi
+											156 text Trending in Singapore
+											157 text #lalala2027
+											158 pop up button (collapsed) Description: More, Secondary Actions: Expand
+									159 link Description: Show more, Value: x.com/explore/tabs/for-you
+						160 container Footer
+							161 container
+								162 link Description: Terms, Value: x.com/tos
+								163 text ·
+							164 container
+								165 link Description: Privacy, Value: x.com/privacy
+								166 text ·
+							167 container
+								168 link Description: Cookies, Value: support.x.com/articles/20170514
+								169 text ·
+							170 container
+								171 link Description: Accessibility, Value: help.x.com/resources/accessibility
+								172 text ·
+							173 container
+								174 link Description: Ads Info, Value: business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo
+								175 text ·
+							176 pop up button (collapsed) Description: More, Secondary Actions: Expand
+								177 text More
+							178 text © 2026 X Corp.
+
+The focused UI element is 53 link x.com/LeoGuoLabs

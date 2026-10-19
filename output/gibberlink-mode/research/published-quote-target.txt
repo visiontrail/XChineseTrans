@@ -1,0 +1,299 @@
+Browser tab: 2, Title: "(1) Georgi Gerganov on X: \"Today I was sent the following cool demo: Two AI agents on a phone call realize they’re both AI and switch to a superior audio signal ggwave https://t.co/TeewgxLEsP\" / X", URL: "https://x.com/ggerganov/status/1894057587441566081".
+1 AXWebArea URL: x.com/ggerganov/status/1894057587441566081, (1) Georgi Gerganov on X: "Today I was sent the following cool demo: Two AI agents on a phone call realize they’re both AI and switch to a superior audio signal ggwave https://t.co/TeewgxLEsP" / X
+	2 container
+		3 heading To view keyboard shortcuts, press question mark View keyboard shortcuts, Value: 2
+			4 text To view keyboard shortcuts, press question mark
+			5 link Description: View keyboard shortcuts, Value: x.com/i/keyboard_shortcuts
+		6 container
+			7 button Grok
+			8 button Chat
+		9 button Skip to home timeline
+		10 button Skip to trending
+		11 container
+			12 heading X, Value: 1
+				13 link Description: X, Value: x.com/home
+			14 container Primary
+				15 link Description: Home, Value: x.com/home
+				16 link Description: Search and explore, Value: x.com/explore
+				17 link Description: Notifications (1 unread notification), Value: x.com/notifications
+				18 link Description: Direct Messages, Value: x.com/i/chat
+				19 link Description: Calls, Value: x.com/i/calls
+				20 link Description: Grok, Value: x.com/i/grok
+				21 link Description: Subscription, Value: x.com/i/premium
+				22 link Description: History, Value: x.com/i/history
+				23 link Description: Profile, Value: x.com/LeoGuoLabs
+				24 pop up button (collapsed) Description: More menu items, Secondary Actions: Expand
+					25 container
+						26 text More
+			27 link Description: Post, Value: x.com/compose/post
+			28 button Account menu
+				29 container
+					30 container Leo Guo
+						31 image Leo Guo
+				32 container
+					33 container
+						34 text Leo Guo
+						35 image Verified account
+					36 text @LeoGuoLabs
+				37 container undefined unread items
+		38 container
+			39 container Home timeline
+				40 container
+					41 container
+						42 button Back
+						43 heading Post, Value: 2
+							44 text Post
+						228 link x.com/ggerganov/thread/1894057587441566081
+				45 container Conversation
+					46 heading Conversation, Value: 1, ID: accessible-list-0
+						47 text Conversation
+					48 container Timeline: Conversation
+						179 container
+							180 container
+								181 container Georgi Gerganov Verified account @ggerganov Today I was sent the following cool demo: Two AI agents on a phone call realize they’re both AI and switch to a superior audio signal ggwave Embedded video 2894 replies, 19529 reposts, 90112 likes, 37530 bookmarks, 17567098 views
+									182 container
+										183 link x.com/ggerganov
+										184 container
+											185 container id__xocd7eje84j
+												186 link Description: Georgi Gerganov Verified account, Value: x.com/ggerganov
+												187 link Description: @ggerganov, Value: x.com/ggerganov
+											188 container
+												189 button Grok actions
+												190 pop up button (collapsed) Description: More, Secondary Actions: Expand
+										191 text Today I was sent the following cool demo:
+
+Two AI agents on a phone call realize they’re both AI and switch to a superior audio signal ggwave
+										192 container Embedded video
+											193 container Embedded video
+												194 image Embedded video
+											195 text 1:09
+											196 button Play this video
+										197 container
+											198 container
+												199 link Description: 12:11 AM · Feb 25, 2025, Value: x.com/ggerganov/status/1894057587441566081
+												200 link Description: 17.5M Views, Value: x.com/ggerganov/status/1894057587441566081/analytics
+										201 container
+											202 container Description: 2894 replies, 19529 reposts, 90112 likes, 37530 bookmarks, 17567098 views, ID: id__0o4zbnhoeewi
+												203 button 2894 Replies. Reply
+													204 container
+														205 text 2.8K
+												206 pop up button (collapsed) Description: 19529 reposts. Repost, Secondary Actions: Expand
+													207 container
+														208 text 19K
+												209 button 90112 Likes. Like
+													210 container
+														211 text 90K
+												212 button 37530 Bookmarks. Bookmark
+													213 container
+														214 text 37K
+												215 pop up button (collapsed) Description: Share post, Secondary Actions: Expand
+											216 pop up button Relevant
+											217 link Description: View quotes, Value: x.com/ggerganov/status/1894057587441566081/quotes
+								218 container
+									219 container
+										220 link Description: Leo Guo, Value: x.com/LeoGuoLabs
+										221 container
+											222 container
+												223 container
+													224 text Post your reply
+													225 text entry area (settable) Description: Post text, Value:
+
+											226 button (disabled) Reply
+												227 text Reply
+							229 container Georgi Gerganov Verified account @ggerganov Feb 25, 2025 The developers (Anton and Boris) used the ggwave library to make the AIs communicate faster over a phone call github.com GitHub - ggerganov/ggwave: Tiny data-over-sound library From github.com 25 replies, 284 reposts, 3963 likes, 1032 bookmarks, 1123464 views
+								230 container
+									231 container
+										232 container
+											233 container id__ymzxs132jt
+												234 link Description: Georgi Gerganov Verified account, Value: x.com/ggerganov
+												235 container
+													236 link Description: @ggerganov, Value: x.com/ggerganov
+													237 link Description: Feb 25, 2025, Value: x.com/ggerganov/status/1894057589211582469
+											238 container
+												239 button Grok actions
+												240 pop up button (collapsed) Description: More, Secondary Actions: Expand
+										241 text The developers (Anton and Boris) used the ggwave library to make the AIs communicate faster over a phone call
+										242 container Description: github.com GitHub - ggerganov/ggwave: Tiny data-over-sound library, ID: id__84a0v91x1ek
+											243 container Description: github.com GitHub - ggerganov/ggwave: Tiny data-over-sound library, ID: id__4lnsxcz6lcq
+												244 link Description: github.com GitHub - ggerganov/ggwave: Tiny data-over-sound library, Value: t.co/xkOtjSG7Q7
+											245 link Description: From github.com, Value: t.co/xkOtjSG7Q7
+										246 container Description: 25 replies, 284 reposts, 3963 likes, 1032 bookmarks, 1123464 views, ID: id__r0fpbmplqg
+											247 button 25 Replies. Reply
+												248 container
+													249 text 25
+											250 pop up button (collapsed) Description: 284 reposts. Repost, Secondary Actions: Expand
+												251 container
+													252 text 284
+											253 button 3963 Likes. Like
+												254 container
+													255 text 3.9K
+											256 link Description: 1123464 views. View post analytics, Value: x.com/ggerganov/status/1894057589211582469/analytics
+											257 button Bookmark
+											258 pop up button (collapsed) Description: Share post, Secondary Actions: Expand
+							259 container Georgi Gerganov Verified account @ggerganov Feb 25, 2025 The "gibberlink" project is hosted here: github.com/PennyroyalTea/ They won 1st place in a hackaton competition! Congrats! github.com GitHub - PennyroyalTea/gibberlink: Two conversational AI agents switching from English to sound-l... From github.com 18 replies, 138 reposts, 2332 likes, 706 bookmarks, 609302 views
+								260 container
+									261 container
+										262 container
+											263 container id__w91iuupezj
+												264 link Description: Georgi Gerganov Verified account, Value: x.com/ggerganov
+												265 container
+													266 link Description: @ggerganov, Value: x.com/ggerganov
+													267 link Description: Feb 25, 2025, Value: x.com/ggerganov/status/1894057590746669089
+											268 container
+												269 button Grok actions
+												270 pop up button (collapsed) Description: More, Secondary Actions: Expand
+										271 container id__9qihh9hyact
+											272 text The "gibberlink" project is hosted here:
+
+
+											273 link Description: github.com/PennyroyalTea/, Value: t.co/gIggorA52V
+											274 text
+
+They won 1st place in a hackaton competition!
+Congrats!
+										275 container ID: id__1kyk92qf4ll, Description: github.com GitHub - PennyroyalTea/gibberlink: Two conversational AI agents switching from English to sound-l...
+											276 container ID: id__ghkxpqobc7n, Description: github.com GitHub - PennyroyalTea/gibberlink: Two conversational AI agents switching from English to sound-l...
+												277 link Value: t.co/gIggorA52V, Description: github.com GitHub - PennyroyalTea/gibberlink: Two conversational AI agents switching from English to sound-l...
+											278 link Description: From github.com, Value: t.co/gIggorA52V
+										279 container Description: 18 replies, 138 reposts, 2332 likes, 706 bookmarks, 609302 views, ID: id__s0i87npc0li
+											280 button 18 Replies. Reply
+												281 container
+													282 text 18
+											283 pop up button (collapsed) Description: 138 reposts. Repost, Secondary Actions: Expand
+												284 container
+													285 text 138
+											286 button 2332 Likes. Like
+												287 container
+													288 text 2.3K
+											289 link Description: 609302 views. View post analytics, Value: x.com/ggerganov/status/1894057590746669089/analytics
+											290 button Bookmark
+											291 pop up button (collapsed) Description: Share post, Secondary Actions: Expand
+							292 container Georgi Gerganov Verified account @ggerganov Feb 25, 2025 You can actually decode the audio messages from the video above using the waver webpage: waver.ggerganov.com Image 16 replies, 65 reposts, 1101 likes, 264 bookmarks, 444399 views
+								293 container
+									294 container
+										295 container
+											296 container id__ea5wxevju7
+												297 link Description: Georgi Gerganov Verified account, Value: x.com/ggerganov
+												298 container
+													299 link Description: @ggerganov, Value: x.com/ggerganov
+													300 link Description: Feb 25, 2025, Value: x.com/ggerganov/status/1894099024715636811
+											301 container
+												302 button Grok actions
+												303 pop up button (collapsed) Description: More, Secondary Actions: Expand
+										304 container id__2r6k3lex8p
+											305 text You can actually decode the audio messages from the video above using the waver webpage:
+
+
+											306 link Description: waver.ggerganov.com, Value: t.co/7fauJGRCaB
+										307 link Description: Image, Value: x.com/ggerganov/status/1894099024715636811/photo/1
+										308 container Description: 16 replies, 65 reposts, 1101 likes, 264 bookmarks, 444399 views, ID: id__x07hr63r4ag
+											309 button 16 Replies. Reply
+												310 container
+													311 text 16
+											312 pop up button (collapsed) Description: 65 reposts. Repost, Secondary Actions: Expand
+												313 container
+													314 text 65
+											315 button 1101 Likes. Like
+												316 container
+													317 text 1.1K
+											318 link Description: 444399 views. View post analytics, Value: x.com/ggerganov/status/1894099024715636811/analytics
+											319 button Bookmark
+											320 pop up button (collapsed) Description: Share post, Secondary Actions: Expand
+							321 container Molotoff Verified account @RealMolotoff Feb 25, 2025 We are so back baby! Image 41 replies, 195 reposts, 11513 likes, 183 bookmarks, 241070 views
+								322 container
+									323 container
+										324 container
+											325 container id__n2tf8axlyto
+												326 link Description: Molotoff Verified account, Value: x.com/RealMolotoff
+												327 container
+													328 link Description: @RealMolotoff, Value: x.com/RealMolotoff
+													329 link Description: Feb 25, 2025, Value: x.com/RealMolotoff/status/1894074550175907868
+											330 container
+												331 button Grok actions
+												332 pop up button (collapsed) Description: More, Secondary Actions: Expand
+										333 text We are so back baby!
+										334 link Description: Image, Value: x.com/RealMolotoff/status/1894074550175907868/photo/1
+										335 container Description: 41 replies, 195 reposts, 11513 likes, 183 bookmarks, 241070 views, ID: id__69xmz9g7hph
+											336 button 41 Replies. Reply
+												337 container
+													338 text 41
+											339 pop up button (collapsed) Description: 195 reposts. Repost, Secondary Actions: Expand
+												340 container
+													341 text 195
+											342 button 11513 Likes. Like
+												343 container
+													344 text 11K
+											345 link Description: 241070 views. View post analytics, Value: x.com/RealMolotoff/status/1894074550175907868/analytics
+											346 button Bookmark
+											347 pop up button (collapsed) Description: Share post, Secondary Actions: Expand
+			105 container
+				106 container Trending
+					107 container
+						108 container Search
+							109 container
+								110 combo box (settable) Search query
+						111 container Relevant people
+							112 heading Relevant people, Value: 2
+								113 text Relevant people
+							114 content list
+								120 container
+									121 container
+										122 container
+											123 link Description: Georgi Gerganov Verified account, Value: x.com/ggerganov
+											124 link Description: @ggerganov, Value: x.com/ggerganov
+										125 button Follow @ggerganov
+											126 text Follow
+									127 container
+										128 text 24th at the Electrica puzzle challenge | building
+										129 link Description: github.com/ggml-org, Value: t.co/baTQS2bL7I
+										130 text  | engineer
+										131 link Description: @huggingface, Value: x.com/huggingface
+						132 container Trending now
+							133 heading Trending now, Value: 1, ID: accessible-list-1
+								134 text Trending now
+							135 container Timeline: Trending now
+								136 container
+									137 heading What’s happening, Value: 2
+										138 text What’s happening
+									139 link Politics · Trending Western Civilization More
+										140 container id__sw3v38w4zb
+											141 text Politics · Trending
+											142 text Western Civilization
+											143 pop up button (collapsed) Description: More, Secondary Actions: Expand
+									144 link Trending Ethereum More
+										145 container id__nbzqya9sah7
+											146 text Trending
+											147 text Ethereum
+											148 pop up button (collapsed) Description: More, Secondary Actions: Expand
+									149 link Trending in Singapore The French More
+										150 container id__gnflull0h1k
+											151 text Trending in Singapore
+											152 text The French
+											153 pop up button (collapsed) Description: More, Secondary Actions: Expand
+									154 link Trending in Singapore #lalala2027 More
+										155 container id__b5jfpji30fi
+											156 text Trending in Singapore
+											157 text #lalala2027
+											158 pop up button (collapsed) Description: More, Secondary Actions: Expand
+									159 link Description: Show more, Value: x.com/explore/tabs/for-you
+						160 container Footer
+							161 container
+								162 link Description: Terms, Value: x.com/tos
+								163 text ·
+							164 container
+								165 link Description: Privacy, Value: x.com/privacy
+								166 text ·
+							167 container
+								168 link Description: Cookies, Value: support.x.com/articles/20170514
+								169 text ·
+							170 container
+								171 link Description: Accessibility, Value: help.x.com/resources/accessibility
+								172 text ·
+							173 container
+								174 link Description: Ads Info, Value: business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo
+								175 text ·
+							176 pop up button (collapsed) Description: More, Secondary Actions: Expand
+								177 text More
+							178 text © 2026 X Corp.
+
+The focused UI element is 183 link x.com/ggerganov

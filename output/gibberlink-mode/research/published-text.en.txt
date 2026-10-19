@@ -1,0 +1,9 @@
+GibberLink mode is essentially a tiny modem for AI agents. It turns text into tones, sends them over audio, then decodes them back into text.
+
+In this 2025 demo, the agents were prompted to switch after identifying each other as AI and agreeing to change modes. The LLM still generates the messages; ggwave handles their transmission, skipping speech synthesis and recognition.
+
+The idea is useful when audio is the available connection. If the agents already share an API, they can simply exchange data directly. And those beeps are decodable, not inherently secret.
+
+Even knowing the switch was designed by humans, I find the moment striking. AI increasingly feels like another intelligent species sharing our world. Watching two agents switch away from human speech makes that feeling oddly tangible.
+
+https://github.com/PennyroyalTea/gibberlink

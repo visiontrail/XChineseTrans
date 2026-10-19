@@ -1,0 +1,40 @@
+Browser tab: 2, Title: "(1) Home / X", URL: "https://x.com/compose/post/unsent/scheduled".
+1 AXWebArea (1) Home / X, URL: x.com/compose/post/unsent/scheduled
+	2 container Drafts
+		3 container
+			4 container
+				5 container
+					6 button Back
+					7 heading Drafts, Value: 2, ID: modal-header
+						8 text Drafts
+					9 button Edit
+						10 text Edit
+				11 container Drafts
+					12 container
+						13 button (disabled) Previous
+						14 tab group
+							15 tab (selectable, settable, boolean) Unsent posts, Value: 0
+Unsent posts
+							16 tab (selected, settable, boolean) Scheduled, Value: 1
+Scheduled
+						17 button (disabled) Next
+			18 button Will send on Tue, Oct 20, 2026 at 12:00 AM https://x.com/arena/status/2111894091168682086 DeepSeek-V4.1-Flash-20261017 (Max) now leads open-weight models on Code Arena’s WebDev board, ahead of Kimi K3 (Max). The pricing is hard to ignore: Arena lists $0.30/$1.20 per million input/output tokens for Flash, versus $3/$15 for K3. If you’re iterating on landing pages or p...
+				19 container
+					20 text Will send on Tue, Oct 20, 2026 at 12:00 AM
+					21 container
+						22 text https://x.com/arena/status/2111894091168682086
+					23 text DeepSeek-V4.1-Flash-20261017 (Max) now leads open-weight models on Code Arena’s WebDev board, ahead of Kimi K3 (Max).
+
+The pricing is hard to ignore: Arena lists $0.30/$1.20 per million input/output tokens for Flash, versus $3/$15 for K3. If you’re iterating on landing pages or p...
+			24 button Will send on Tue, Oct 20, 2026 at 1:00 AM Anyone else remember Augment, the coding agent? I opened VS Code for the first time in ages and the extension popped up. I'd completely forgotten about it. If you're still using it, how's it holding up these days? Augment extension page in VS Code, showing the installed coding agent, its description, and a product screenshot.
+				25 container
+					26 text Will send on Tue, Oct 20, 2026 at 1:00 AM
+					27 container
+						28 text Anyone else remember Augment, the coding agent?
+
+I opened VS Code for the first time in ages and the extension popped up. I'd completely forgotten about it.
+
+If you're still using it, how's it holding up these days?
+						29 link Value: pbs.twimg.com/media/HU-ij7ab0AAiQBW.jpg, Description: Augment extension page in VS Code, showing the installed coding agent, its description, and a product screenshot.
+
+The focused UI element is 6 button Back

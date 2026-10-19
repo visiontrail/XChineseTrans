@@ -41,3 +41,9 @@ User requested simplification and their personal impression of AI feeling increa
 ## Approved scheduled publication
 
 User approved revision 2 for US West Coast morning 08:20. Scheduled the next occurrence, 2026-10-19 08:20 America/Los_Angeles (PDT, UTC-7), equal to 2026-10-19 23:20 Asia/Singapore and 15:20 UTC. X schedule UI explicitly showed Singapore Standard Time. Submitted using X native Schedule, then verified the queue and reopened the scheduled item to confirm the complete approved text, personal reflection, GitHub link, and native Quote target. No public URL exists yet. One-time heartbeat gibberlink is set for 23:25 Singapore time to verify publication and advancing video playback, reconcile existing post before any action, avoid duplicates, and pause after the check. Screenshots and AX records are in research/.
+
+## Public publication verified
+
+Actual public URL: https://x.com/LeoGuoLabs/status/2112202109550559588 . Live page shows @LeoGuoLabs and 11:20 PM Oct 19, 2026 Singapore time, matching 08:20 America/Los_Angeles. Complete English body matches approved revision 2 after whitespace normalization, including the personal reflection. Followed the native Quote card to https://x.com/ggerganov/status/1894057587441566081 and returned to the public post. The GitHub shortlink resolved to the correct repository in the built-in browser. Refreshed native scheduled queue no longer contains GibberLink. The public post contains one native quoted video; read-only DOM samples show playback from 39.876045 to 58.072476 seconds, paused=false, readyState=4, no media error. Initial page player required scrolling into view and starting playback; no content was edited or reposted. One-time automation gibberlink paused after successful verification.
+
+The same public video subsequently reached its natural end: currentTime=duration=69.695999 seconds, ended=true, readyState=4, error=null. Completion screenshot and DOM sample retained.

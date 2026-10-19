@@ -1,5 +1,5 @@
 {
-  "state": "scheduled",
+  "state": "publicly_verified",
   "account": "@LeoGuoLabs",
   "format": "native_quote",
   "supplied_source": "https://x.com/huxlab/status/2112123190667542846",
@@ -29,11 +29,11 @@
       "0:16 remaining",
       "0:01 remaining"
     ],
-    "publication_submitted": false,
+    "publication_submitted": true,
     "composer_characters_remaining": 24172,
     "composer_revision": 2
   },
-  "published_url": null,
+  "published_url": "https://x.com/LeoGuoLabs/status/2112202109550559588",
   "revision": 2,
   "superseded_text": "post.v1.en.txt",
   "review_note": "User requested a shorter explanation plus personal reflection that AI increasingly feels like another intelligent species. This is framed as a subjective impression; the preset protocol-switch explanation remains.",
@@ -67,7 +67,66 @@
     "automation_id": "gibberlink",
     "scheduled_for_singapore": "2026-10-19T23:25:00+08:00",
     "purpose": "One post-publication public URL and video-playback check; pause after check.",
-    "created": true
+    "created": true,
+    "status": "PAUSED",
+    "result": "One-time public publication and advancing video playback check completed."
   },
-  "public_verification_status": "pending_scheduled_publication"
+  "public_verification_status": "publicly_verified",
+  "public_verification": {
+    "verified_at": "2026-10-19T15:28:55.154680+00:00",
+    "account": "@LeoGuoLabs",
+    "approved_revision": 2,
+    "complete_text_matches_after_whitespace_normalization": true,
+    "personal_reflection_present": true,
+    "native_quote_target_verified_by_navigation": "https://x.com/ggerganov/status/1894057587441566081",
+    "github_link_resolved": "https://github.com/PennyroyalTea/gibberlink",
+    "published_timestamp_display": "11:20 PM · Oct 19, 2026 (Singapore)",
+    "published_pacific": "2026-10-19T08:20:00-07:00",
+    "scheduled_queue_item_absent": true,
+    "video_count": 1,
+    "native_quoted_video": true,
+    "video_playback_advancing": true,
+    "playback_samples": [
+      {
+        "currentTime": 39.876045,
+        "duration": 69.666,
+        "ended": false,
+        "error": null,
+        "paused": false,
+        "readyState": 4,
+        "videoHeight": 360,
+        "videoWidth": 640
+      },
+      {
+        "currentTime": 58.072476,
+        "duration": 69.695999,
+        "ended": false,
+        "error": null,
+        "paused": false,
+        "readyState": 4,
+        "videoHeight": 360,
+        "videoWidth": 640
+      }
+    ],
+    "evidence": [
+      "research/published-page.txt",
+      "research/published-page.png",
+      "research/published-quote-target.txt",
+      "research/published-github-link.txt",
+      "research/published-text.en.txt",
+      "research/playback-a.json",
+      "research/playback-b.json",
+      "research/published-video-completed.png",
+      "research/post-publication-queue.txt",
+      "research/playback-completed.json"
+    ],
+    "video_playback_completed": {
+      "currentTime": 69.695999,
+      "duration": 69.695999,
+      "ended": true,
+      "error": null,
+      "paused": true,
+      "readyState": 4
+    }
+  }
 }
