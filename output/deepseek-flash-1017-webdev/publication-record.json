@@ -1,0 +1,43 @@
+{
+  "state": "awaiting_final_approval",
+  "destination_account": "@LeoGuoLabs",
+  "format": "native_quote_post",
+  "source_url": "https://x.com/leo114119/status/2111978647573934107",
+  "quote_target_url": "https://x.com/arena/status/2111894091168682086",
+  "target_selection_reason": "Arena is the primary publisher of the relevant leaderboard result and charts; nested DeepSeek announcement concerns the model update.",
+  "final_text_path": "output/deepseek-flash-1017-webdev/post-en-v1.txt",
+  "final_text": "DeepSeek-V4.1-Flash-20261017 (Max) now leads open-weight models on Code Arena’s WebDev board, ahead of Kimi K3 (Max).\n\nThe pricing is hard to ignore: Arena lists $0.30/$1.20 per million input/output tokens for Flash, versus $3/$15 for K3. If you’re iterating on landing pages or prototypes, that makes Flash worth testing. Kimi’s next release has a tougher bar to clear.",
+  "characters": 370,
+  "media": {
+    "mode": "native_quoted_source",
+    "count": 2,
+    "order": [
+      "Arena WebDev rank chart",
+      "Arena score versus blended token price chart"
+    ],
+    "local_previews": [
+      "output/deepseek-flash-1017-webdev/media/arena-01-browser.jpeg",
+      "output/deepseek-flash-1017-webdev/media/arena-02-browser.jpeg"
+    ],
+    "additional_attachments": [],
+    "alt": "No new image upload; source native accessibility metadata retained."
+  },
+  "preparation_checks": {
+    "live_account": "@LeoGuoLabs verified in account menu and profile link",
+    "composer_initially_empty": true,
+    "full_copy_accepted": true,
+    "remaining_characters": 24630,
+    "post_button_enabled": true,
+    "native_quote_target_confirmed": true,
+    "two_native_images_confirmed": true,
+    "screenshot": "output/deepseek-flash-1017-webdev/research/composer-ready.jpg"
+  },
+  "approval": {
+    "required": true,
+    "received": false,
+    "basis": "AGENTS.md standing final-content review rule"
+  },
+  "publication_url": null,
+  "submitted": false,
+  "prepared_at": "2026-10-19T02:27:37.668526+00:00"
+}

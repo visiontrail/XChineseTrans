@@ -1,0 +1,83 @@
+{
+  "verified_at": "2026-10-19T02:27:37.668526+00:00",
+  "sources": [
+    {
+      "url": "https://x.com/leo114119/status/2111978647573934107",
+      "role": "supplied Chinese commentary; original language inspected"
+    },
+    {
+      "url": "https://x.com/arena/status/2111894091168682086",
+      "role": "primary evaluator announcement, rankings and two charts; selected native Quote target"
+    },
+    {
+      "url": "https://x.com/deepseek_ai/status/2111375640717033777",
+      "role": "nested official model update announcement; inspected; not the source of Arena rankings"
+    },
+    {
+      "url": "https://arena.ai/leaderboard/code/webdev",
+      "role": "primary evaluator leaderboard; Oct 18 snapshot"
+    },
+    {
+      "url": "https://api-docs.deepseek.com/quick_start/pricing/",
+      "role": "first-party version and pricing documentation"
+    },
+    {
+      "url": "https://platform.kimi.ai/docs/guide/kimi-k3-quickstart",
+      "role": "K3 guide and Max effort support"
+    },
+    {
+      "url": "https://platform.kimi.ai/docs/pricing/chat",
+      "role": "billing definitions; numeric prices in draft attributed to evaluator table"
+    }
+  ],
+  "verified_facts": {
+    "deepseek_entry": "DeepSeek-V4.1-Flash-20261017 (Max)",
+    "deepseek_rank": 12,
+    "deepseek_score": 1670,
+    "deepseek_score_interval": [
+      1653,
+      1687
+    ],
+    "deepseek_votes": 1417,
+    "kimi_entry": "Kimi K3 (Max)",
+    "kimi_rank": 15,
+    "kimi_score": 1655,
+    "kimi_score_interval": [
+      1649,
+      1661
+    ],
+    "arena_listed_prices_usd_per_million_tokens": {
+      "deepseek_input": 0.3,
+      "deepseek_output": 1.2,
+      "kimi_input": 3,
+      "kimi_output": 15
+    },
+    "deepseek_peak_cache_miss_input": 0.3,
+    "deepseek_peak_cache_hit_input": 0.006,
+    "deepseek_peak_output": 1.2,
+    "deepseek_off_peak_cache_miss_input": 0.15,
+    "deepseek_off_peak_cache_hit_input": 0.003,
+    "deepseek_off_peak_output": 0.6
+  },
+  "editorial_notes": [
+    "Rank is the displayed WebDev point-estimate order, not general coding superiority or statistical separation; score intervals overlap.",
+    "Arena lists input/output token prices, not measured end-to-end task cost. Draft says Arena lists and proposes testing rather than claiming a successful test.",
+    "Do not forecast Kimi K3.1 performance or treat an unreleased model as a failure. Commentary about the next release is judgment, not a benchmark fact.",
+    "Arena claimed +52 versus previous entry; live table showed 1619 vs 1670 (51). Omitted this detail.",
+    "The selected evaluator post has two images and no relevant video. DeepSeek project-demo continuation is not selected for this ranking/pricing story.",
+    "Browser downloads are complete 680-pixel review renditions; high-resolution CDN attempts were incomplete and are preserved with .incomplete suffix. The native Quote retains source originals."
+  ],
+  "deduplication": {
+    "git_fetch_origin": "success",
+    "head_vs_origin_main": "0 0",
+    "local_and_origin_source_ids": [
+      "2111978647573934107",
+      "2111894091168682086"
+    ],
+    "existing_match": false
+  },
+  "source_access": {
+    "web_x": "403; authenticated browser succeeded",
+    "mirror": "read-only source text recovery; substantive claims checked against official evaluator and documentation"
+  }
+}

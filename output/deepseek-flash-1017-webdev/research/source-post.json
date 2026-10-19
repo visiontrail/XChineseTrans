@@ -1,0 +1,214 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/leo114119/status/2111978647573934107",
+    "id": "2111978647573934107",
+    "text": "DeepSeek-V4.1-Flash-20261017 (Max) 现已成为 Code Arena: WebDev 中排名第一的开源模型，超越了 Kimi K3 (Max)，且成本仅为其十分之一！\n\n有点担心，Kimi K3.1有没有可能还没发布就凉了。。。\n\n如果 K3.1 的实力比不上DeepSeek-V4.1-Flash-20261017，这对于KIMI来说，会非常尴尬。。。。。",
+    "raw_text": {
+      "text": "DeepSeek-V4.1-Flash-20261017 (Max) 现已成为 Code Arena: WebDev 中排名第一的开源模型，超越了 Kimi K3 (Max)，且成本仅为其十分之一！\n\n有点担心，Kimi K3.1有没有可能还没发布就凉了。。。\n\n如果 K3.1 的实力比不上DeepSeek-V4.1-Flash-20261017，这对于KIMI来说，会非常尴尬。。。。。",
+      "display_text_range": [
+        0,
+        195
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "leo114119",
+      "url": "https://x.com/leo114119",
+      "id": "1647958531461480448",
+      "followers": 6126,
+      "following": 4512,
+      "likes": 3595,
+      "media_count": 974,
+      "name": "Leo · Building w/ AI",
+      "description": "Building with AI everyday.\nSharing verified AI news daily.\n#AI #VibeCoding #BuildInPublic #Follow",
+      "raw_description": {
+        "text": "Building with AI everyday.\nSharing verified AI news daily.\n#AI #VibeCoding #BuildInPublic #Follow",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1647958531461480448/1790408643",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2097524411033100288/TICgviAl_200x200.jpg",
+      "joined": "Mon Apr 17 13:42:04 +0000 2023",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 13,
+    "retweets": 1,
+    "likes": 18,
+    "bookmarks": 1,
+    "quotes": 0,
+    "created_at": "Mon Oct 19 00:32:02 +0000 2026",
+    "created_timestamp": 1792369922,
+    "views": 2147,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "quote": {
+      "url": "https://x.com/arena/status/2111894091168682086",
+      "id": "2111894091168682086",
+      "text": "Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max) at 10x lower cost!\n\nHighlights:\n- #1 open model, ahead of Kimi K3 (Max)\n- #12 overall with 1670 pts, ahead of Claude Opus 5 (High) and within ~10 pts of GPT-6 Sol (Max)\n- Shifts the Pareto frontier at $0.3/$1.2 per million input/output tokens\n- +52 pts vs. the previous DeepSeek-V4.1-Flash-20260910\n\nCongrats to the @deepseek_ai team on another strong contribution to the open source ecosystem!",
+      "raw_text": {
+        "text": "Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max) at 10x lower cost!\n\nHighlights:\n- #1 open model, ahead of Kimi K3 (Max)\n- #12 overall with 1670 pts, ahead of Claude Opus 5 (High) and within ~10 pts of GPT-6 Sol (Max)\n- Shifts the Pareto frontier at $0.3/$1.2 per million input/output tokens\n- +52 pts vs. the previous DeepSeek-V4.1-Flash-20260910\n\nCongrats to the @deepseek_ai team on another strong contribution to the open source ecosystem!",
+        "display_text_range": [
+          0,
+          533
+        ],
+        "facets": [
+          {
+            "type": "mention",
+            "indices": [
+              53,
+              65
+            ],
+            "original": "deepseek_ai",
+            "id": "1714580962569588736"
+          },
+          {
+            "type": "media",
+            "indices": [
+              281,
+              304
+            ],
+            "id": "2111893511754948608",
+            "display": "pic.x.com/20zvkvnHpB",
+            "original": "https://t.co/20zvkvnHpB",
+            "replacement": "https://x.com/arena/status/2111894091168682086/photo/1"
+          },
+          {
+            "type": "media",
+            "indices": [
+              281,
+              304
+            ],
+            "id": "2111893521515106304",
+            "display": "pic.x.com/20zvkvnHpB",
+            "original": "https://t.co/20zvkvnHpB",
+            "replacement": "https://x.com/arena/status/2111894091168682086/photo/1"
+          },
+          {
+            "type": "mention",
+            "indices": [
+              455,
+              467
+            ],
+            "original": "deepseek_ai",
+            "id": "1714580962569588736"
+          }
+        ]
+      },
+      "author": {
+        "screen_name": "arena",
+        "url": "https://x.com/arena",
+        "id": "1641378826537295874",
+        "followers": 234876,
+        "following": 224,
+        "likes": 2796,
+        "media_count": 1859,
+        "name": "Arena.ai",
+        "description": "Where AI meets the real world. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → http://arena.ai/jobs",
+        "raw_description": {
+          "text": "Where AI meets the real world. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrsdD77",
+          "facets": [
+            {
+              "type": "url",
+              "indices": [
+                125,
+                148
+              ],
+              "original": "https://t.co/XBZCrsdD77",
+              "replacement": "http://arena.ai/jobs",
+              "display": "arena.ai/jobs"
+            }
+          ]
+        },
+        "location": "US",
+        "banner_url": "https://pbs.twimg.com/profile_banners/1641378826537295874/1769621104",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_200x200.jpg",
+        "joined": "Thu Mar 30 09:56:38 +0000 2023",
+        "protected": false,
+        "website": {
+          "url": "https://arena.ai",
+          "display_url": "arena.ai"
+        },
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "organization"
+        },
+        "avatar_color": null
+      },
+      "replies": 64,
+      "retweets": 110,
+      "likes": 1450,
+      "bookmarks": 173,
+      "quotes": 41,
+      "created_at": "Sun Oct 18 18:56:03 +0000 2026",
+      "created_timestamp": 1792349763,
+      "possibly_sensitive": false,
+      "views": 94978,
+      "is_note_tweet": true,
+      "community_note": null,
+      "lang": "en",
+      "replying_to": null,
+      "replying_to_status": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2111893511754948608",
+            "url": "https://pbs.twimg.com/media/HU7z9aubIAAen5a.jpg?name=orig",
+            "width": 4096,
+            "height": 4096
+          },
+          {
+            "type": "photo",
+            "id": "2111893521515106304",
+            "url": "https://pbs.twimg.com/media/HU7z9_FbUAA4j2r.jpg?name=orig",
+            "width": 1385,
+            "height": 1136
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2111893511754948608",
+            "url": "https://pbs.twimg.com/media/HU7z9aubIAAen5a.jpg?name=orig",
+            "width": 4096,
+            "height": 4096
+          },
+          {
+            "type": "photo",
+            "id": "2111893521515106304",
+            "url": "https://pbs.twimg.com/media/HU7z9_FbUAA4j2r.jpg?name=orig",
+            "width": 1385,
+            "height": 1136
+          }
+        ],
+        "mosaic": {
+          "type": "mosaic_photo",
+          "formats": {
+            "jpeg": "https://mosaic.fxtwitter.com/jpeg/2111894091168682086/HU7z9aubIAAen5a/HU7z9_FbUAA4j2r",
+            "webp": "https://mosaic.fxtwitter.com/webp/2111894091168682086/HU7z9aubIAAen5a/HU7z9_FbUAA4j2r"
+          }
+        }
+      },
+      "twitter_card": "summary_large_image",
+      "color": null,
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

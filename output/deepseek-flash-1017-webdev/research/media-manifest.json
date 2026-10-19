@@ -1,0 +1,32 @@
+[
+  {
+    "order": 1,
+    "path": "output/deepseek-flash-1017-webdev/media/arena-01-browser.jpeg",
+    "source_post": "https://x.com/arena/status/2111894091168682086",
+    "source_media_url": "https://pbs.twimg.com/media/HU7z9aubIAAen5a?format=jpg&name=small",
+    "retrieved_via": "live authenticated in-app browser downloadMedia",
+    "retrieved_at": "2026-10-19T02:27:37.668526+00:00",
+    "bytes": 79598,
+    "sha256": "f1ecf3af5544b571a7b91c033b741b9bc53bfad894125c6db5bd33815dd86cde",
+    "dimensions": [
+      680,
+      680
+    ],
+    "role": "review preview; original media remains native in quoted source"
+  },
+  {
+    "order": 2,
+    "path": "output/deepseek-flash-1017-webdev/media/arena-02-browser.jpeg",
+    "source_post": "https://x.com/arena/status/2111894091168682086",
+    "source_media_url": "https://pbs.twimg.com/media/HU7z9_FbUAA4j2r?format=jpg&name=small",
+    "retrieved_via": "live authenticated in-app browser downloadMedia",
+    "retrieved_at": "2026-10-19T02:27:37.668526+00:00",
+    "bytes": 55909,
+    "sha256": "efa010a924d567d452f913b53edd40fba15f70cf0148ae6ec8cfef3573cad871",
+    "dimensions": [
+      680,
+      558
+    ],
+    "role": "review preview; original media remains native in quoted source"
+  }
+]
