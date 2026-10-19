@@ -25,12 +25,17 @@
     "primary_repo_read": true,
     "account_observed": "@LeoGuoLabs",
     "composer_complete_text_accepted": true,
-    "composer_characters_remaining": 23410,
     "source_playback_observed": [
       "0:16 remaining",
       "0:01 remaining"
     ],
-    "publication_submitted": false
+    "publication_submitted": false,
+    "composer_characters_remaining": 24172,
+    "composer_revision": 2
   },
-  "published_url": null
+  "published_url": null,
+  "revision": 2,
+  "superseded_text": "post.v1.en.txt",
+  "review_note": "User requested a shorter explanation plus personal reflection that AI increasingly feels like another intelligent species. This is framed as a subjective impression; the preset protocol-switch explanation remains.",
+  "composer_screenshot": "research/composer-review-v2.png"
 }

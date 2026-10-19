@@ -33,3 +33,7 @@ User: supplied Hux post and requested slightly deeper coverage of Gibberlink mod
 Fresh source download: 3,393,365 bytes, 1280×720 H.264 video, stereo AAC at 48 kHz, 69.696 seconds. Full audio/video decode completed with zero errors. Representative beginning/middle/end frames inspected; native source playback advanced from 0:16 to 0:01 remaining. No listening-based audio quality assessment is claimed. The file preserves the source video and native English on-screen text. SHA-256 and retrieval time are in publication-record.json.
 
 Composer retained the complete text and the native Quote target, with 23,410 characters remaining. Screenshots show the text and the expanded original video card. Awaiting final content review; no Post click performed.
+
+## Revision 2
+
+User requested simplification and their personal impression of AI feeling increasingly like another intelligent species. Removed modulation details, rate figures, and deployment/audit digression; retained text-to-tones mechanism, prompted switch, and ongoing LLM generation. Final paragraph is explicitly subjective. Previous text preserved in post.v1.en.txt; revised text awaits review. Same Quote target and verified video.
