@@ -1,0 +1,31 @@
+{
+  "status": "publicly_verified",
+  "public_url": "https://x.com/LeoGuoLabs/status/2112184492786102768",
+  "account": "@LeoGuoLabs",
+  "verified_at_utc": "2026-10-19T14:15:24.124279+00:00",
+  "displayed_publication_time": "10:10 PM · Oct 19, 2026",
+  "display_timezone": "Asia/Singapore",
+  "corresponding_pacific_time": "2026-10-19 07:10 PDT",
+  "time_precision": "minute",
+  "checks": {
+    "actual_public_permalink_opened": true,
+    "account_matches": true,
+    "approved_text_exact_match_in_public_accessibility_text": true,
+    "native_quote_visible": true,
+    "quote_clicked_and_exact_target_verified": true,
+    "quote_target": "https://x.com/elonmusk/status/2112089556615123114",
+    "publication_minute_matches_approved_schedule": true,
+    "attached_image_count": 0,
+    "attached_video_count": 0,
+    "video_playback_check": "not applicable; no video in this post or quote",
+    "no_duplicate_submission": true,
+    "one_time_automation_paused": true
+  },
+  "evidence": {
+    "public_page_accessibility": "research/public-page.txt",
+    "quote_target_accessibility": "research/public-quote-target.txt",
+    "original_screenshot": "research/published-original.png",
+    "cropped_screenshot": "published.png"
+  },
+  "evidence_note": "Trailing whitespace normalized in saved accessibility text; target capture limited to the original post region; original screenshot preserved."
+}

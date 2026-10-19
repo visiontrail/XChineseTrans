@@ -1,5 +1,5 @@
 {
-  "status": "scheduled",
+  "status": "publicly_verified",
   "destination_account": "@LeoGuoLabs",
   "format": "native_quote",
   "supplied_source": "https://x.com/AlchainHust/status/2112111635645272505",
@@ -20,7 +20,7 @@
     "post_control_enabled": true,
     "draft_saved_and_reopened": true,
     "schedule_submitted": true,
-    "publicly_verified": false,
+    "publicly_verified": true,
     "immediate_post_submitted": false
   },
   "authorization": {
@@ -30,7 +30,7 @@
     "date_resolution": "Nearest future 07:10 in America/Los_Angeles; current Pacific date was 2026-10-19 at approximately 05:10.",
     "note": "Chinese translation was for review; the approved publication remains English."
   },
-  "public_url": null,
+  "public_url": "https://x.com/LeoGuoLabs/status/2112184492786102768",
   "prepared_at_utc": "2026-10-19T11:57:21.042858+00:00",
   "schedule": {
     "provider": "X native scheduler",
@@ -51,9 +51,18 @@
   "verification_followup": {
     "automation_id": "spacex-quote",
     "kind": "heartbeat",
-    "status": "ACTIVE",
+    "status": "PAUSED",
     "one_time": true,
     "planned_local_time": "2026-10-19T22:12:00+08:00",
-    "purpose": "Verify the existing public post after the X native scheduled time; never submit a duplicate."
+    "purpose": "Verify the existing public post after the X native scheduled time; never submit a duplicate.",
+    "completed_at_utc": "2026-10-19T14:15:24.124279+00:00"
+  },
+  "public_verification": {
+    "record": "public-verification.json",
+    "verified_at_utc": "2026-10-19T14:15:24.124279+00:00",
+    "screenshot": "published.png",
+    "text_matches_approved": true,
+    "quote_target_verified": true,
+    "observed_publication_time": "2026-10-19 22:10 Asia/Singapore / 07:10 PDT"
   }
 }

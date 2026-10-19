@@ -1,0 +1,98 @@
+Browser tab: 1, Title: "(1) Leo Guo on X: \"Give a kid a SpaceX share, and the next rocket launch might feel a little more personal. If Musk follows through on this pledge, it could be a neat way to spark curiosity about engineering, space and what it means to own a piece of a company.\" / X", URL: "https://x.com/LeoGuoLabs/status/2112184492786102768".
+1 AXWebArea URL: x.com/LeoGuoLabs/status/2112184492786102768, (1) Leo Guo on X: "Give a kid a SpaceX share, and the next rocket launch might feel a little more personal. If Musk follows through on this pledge, it could be a neat way to spark curiosity about engineering, space and what it means to own a piece of a company." / X
+	2 container
+		3 heading To view keyboard shortcuts, press question mark View keyboard shortcuts, Value: 2
+			23 text To view keyboard shortcuts, press question mark
+			4 link Description: View keyboard shortcuts, Value: x.com/i/keyboard_shortcuts
+		24 button Skip to home timeline
+		25 button Skip to trending
+		5 container
+			6 heading X, Value: 1
+				7 link Description: X, Value: x.com/home
+			8 container Primary
+				9 link Description: Home, Value: x.com/home
+				10 link Description: Search and explore, Value: x.com/explore
+				11 link Description: Notifications (1 unread notification), Value: x.com/notifications
+				12 link Description: Direct Messages, Value: x.com/i/chat
+				13 link Description: Calls, Value: x.com/i/calls
+				14 link Description: Grok, Value: x.com/i/grok
+				15 link Description: Subscription, Value: x.com/i/premium
+				16 link Description: History, Value: x.com/i/history
+				26 link Description: Creator Studio, Value: x.com/i/jf/creators/studio
+				18 link Description: Articles, Value: x.com/compose/articles
+				19 link Description: Profile, Value: x.com/LeoGuoLabs
+				20 pop up button (collapsed) Description: More menu items, Secondary Actions: Expand
+			21 link Description: Post, Value: x.com/compose/post
+			22 button Account menu
+				27 container
+					28 container
+						29 container Leo Guo
+							30 image Leo Guo
+					31 container undefined unread items
+		32 container Home timeline
+			33 container
+				34 container
+					35 button Back
+					36 heading Post, Value: 2
+						37 text Post
+			38 container Conversation
+				39 heading Conversation, Value: 1, ID: accessible-list-0
+					40 text Conversation
+				41 container Timeline: Conversation
+					42 container
+						43 container
+							44 container Leo Guo Verified account @LeoGuoLabs Give a kid a SpaceX share, and the next rocket launch might feel a little more personal. If Musk follows through on this pledge, it could be a neat way to spark curiosity about engineering, space and what it means to own a piece of a company. Quote Elon Musk Verified account @elonmusk 6 hours ago Next year, I will give one of my SpaceX shares to every kid in America. This will be the first of many.
+								45 container
+									46 container
+										47 container id__sya0ydfvaaf
+											48 link Description: Leo Guo Verified account, Value: x.com/LeoGuoLabs
+											49 link Description: @LeoGuoLabs, Value: x.com/LeoGuoLabs
+										50 container
+											51 button Boost
+												52 text Boost
+											53 button Grok actions
+											54 pop up button (collapsed) Description: More, Secondary Actions: Expand
+									55 text Give a kid a SpaceX share, and the next rocket launch might feel a little more personal.
+
+If Musk follows through on this pledge, it could be a neat way to spark curiosity about engineering, space and what it means to own a piece of a company.
+									56 container ID: id__ltk4qq48or, Description: Quote Elon Musk Verified account @elonmusk 6 hours ago Next year, I will give one of my SpaceX shares to every kid in America. This will be the first of many.
+										57 container id__2sx5j6cz1wk
+											58 text Quote
+											59 link Elon Musk Verified account @elonmusk 6 hours ago Next year, I will give one of my SpaceX shares to every kid in America. This will be the first of many.
+												60 container
+													61 container
+														62 container
+															63 container
+																64 text Elon Musk
+																65 image Verified account
+																66 link
+															67 container
+																68 text @elonmusk
+																69 container 6 hours ago
+																	70 text 6h
+													71 text Next year, I will give one of my SpaceX shares to every kid in America.
+
+This will be the first of many.
+									72 container
+										73 container
+											74 link Description: 10:10 PM · Oct 19, 2026, Value: x.com/LeoGuoLabs/status/2112184492786102768
+											75 link Description: 1 View, Value: x.com/LeoGuoLabs/status/2112184492786102768/analytics
+									76 container Description: 1 view, ID: id__izkitpwin5q
+										77 button 0 Replies. Reply
+										78 pop up button (collapsed) Description: 0 reposts. Repost, Secondary Actions: Expand
+										79 button 0 Likes. Like
+										80 button 0 Bookmarks. Bookmark
+										81 pop up button (collapsed) Description: Share post, Secondary Actions: Expand
+							82 container
+								83 container
+									84 link Description: Leo Guo, Value: x.com/LeoGuoLabs
+									85 container
+										86 container
+											87 container
+												88 text Post your reply
+												89 text entry area (settable) Description: Post text, Value:
+
+										90 button (disabled) Reply
+											91 text Reply
+
+The focused UI element is 1 AXWebArea URL: x.com/LeoGuoLabs/status/2112184492786102768, (1) Leo Guo on X: "Give a kid a SpaceX share, and the next rocket launch might feel a little more personal. If Musk follows through on this pledge, it could be a neat way to spark curiosity about engineering, space and what it means to own a piece of a company." / X

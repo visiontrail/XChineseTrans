@@ -1,0 +1,80 @@
+Browser tab: 1, Title: "(1) Elon Musk on X: \"Next year, I will give one of my SpaceX shares to every kid in America. This will be the first of many.\" / X", URL: "https://x.com/elonmusk/status/2112089556615123114".
+1 AXWebArea URL: x.com/elonmusk/status/2112089556615123114, (1) Elon Musk on X: "Next year, I will give one of my SpaceX shares to every kid in America. This will be the first of many." / X
+	2 container
+		3 heading To view keyboard shortcuts, press question mark View keyboard shortcuts, Value: 2
+			23 text To view keyboard shortcuts, press question mark
+			4 link Description: View keyboard shortcuts, Value: x.com/i/keyboard_shortcuts
+		24 button Skip to home timeline
+		25 button Skip to trending
+		5 container
+			6 heading X, Value: 1
+				7 link Description: X, Value: x.com/home
+			8 container Primary
+				9 link Description: Home, Value: x.com/home
+				10 link Description: Search and explore, Value: x.com/explore
+				11 link Description: Notifications (1 unread notification), Value: x.com/notifications
+				12 link Description: Direct Messages, Value: x.com/i/chat
+				13 link Description: Calls, Value: x.com/i/calls
+				14 link Description: Grok, Value: x.com/i/grok
+				15 link Description: Subscription, Value: x.com/i/premium
+				16 link Description: History, Value: x.com/i/history
+				26 link Description: Creator Studio, Value: x.com/i/jf/creators/studio
+				18 link Description: Articles, Value: x.com/compose/articles
+				19 link Description: Profile, Value: x.com/LeoGuoLabs
+				20 pop up button (collapsed) Description: More menu items, Secondary Actions: Expand
+			21 link Description: Post, Value: x.com/compose/post
+			22 button Account menu
+				27 container
+					28 container
+						29 container Leo Guo
+							30 image Leo Guo
+					31 container undefined unread items
+		32 container Home timeline
+			33 container
+				34 container
+					35 button Back
+					36 heading Post, Value: 2
+						37 text Post
+			38 container Conversation
+				39 heading Conversation, Value: 1, ID: accessible-list-0
+					40 text Conversation
+				41 container Timeline: Conversation
+					42 container
+						43 container
+							44 container Elon Musk Verified account @elonmusk Next year, I will give one of my SpaceX shares to every kid in America. This will be the first of many. 20737 replies, 41571 reposts, 327128 likes, 15851 bookmarks, 12792972 views
+								45 container
+									46 link x.com/elonmusk
+									47 container
+										48 container id__jari2e1rsgr
+											49 link Description: Elon Musk Verified account, Value: x.com/elonmusk
+											50 link Description: @elonmusk, Value: x.com/elonmusk
+										51 container
+											52 button Subscribe to @elonmusk
+												53 text Subscribe
+											54 button Grok actions
+											55 pop up button (collapsed) Description: More, Secondary Actions: Expand
+									56 text Next year, I will give one of my SpaceX shares to every kid in America.
+
+This will be the first of many.
+									57 container
+										58 container
+											59 link Description: 3:52 PM · Oct 19, 2026, Value: x.com/elonmusk/status/2112089556615123114
+											60 link Description: 12.7M Views, Value: x.com/elonmusk/status/2112089556615123114/analytics
+									61 container
+										62 container Description: 20737 replies, 41571 reposts, 327128 likes, 15851 bookmarks, 12792972 views, ID: id__cpq7dtx00li
+											63 button 20737 Replies. Reply
+												64 container
+													65 text 20K
+											66 pop up button (collapsed) Description: 41571 reposts. Repost, Secondary Actions: Expand
+												67 container
+													68 text 41K
+											69 button 327128 Likes. Like
+												70 container
+													71 text 327K
+											72 button 15851 Bookmarks. Bookmark
+												73 container
+													74 text 15K
+											75 pop up button (collapsed) Description: Share post, Secondary Actions: Expand
+										76 pop up button Relevant
+										77 link Description: View quotes, Value: x.com/elonmusk/status/2112089556615123114/quotes
+							78 container
