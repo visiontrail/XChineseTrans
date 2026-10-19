@@ -1,5 +1,5 @@
 {
-  "status": "pending_review",
+  "status": "scheduled",
   "destination_account": "@LeoGuoLabs",
   "format": "native_quote",
   "supplied_source": "https://x.com/AlchainHust/status/2112111635645272505",
@@ -18,10 +18,42 @@
     "complete_text_accepted_in_native_quote_composer": true,
     "correct_quote_target_visible": true,
     "post_control_enabled": true,
-    "submitted": false,
-    "draft_saved_and_reopened": true
+    "draft_saved_and_reopened": true,
+    "schedule_submitted": true,
+    "publicly_verified": false,
+    "immediate_post_submitted": false
   },
-  "authorization": "Bare link authorizes preparation. Final-content approval remains pending under AGENTS.md.",
+  "authorization": {
+    "state": "approved_for_scheduled_publication",
+    "user_request": "请你在美国西部时间，早晨的7点10分发布这个",
+    "approved_version": "post.md; unchanged reviewed English copy and native Quote target",
+    "date_resolution": "Nearest future 07:10 in America/Los_Angeles; current Pacific date was 2026-10-19 at approximately 05:10.",
+    "note": "Chinese translation was for review; the approved publication remains English."
+  },
   "public_url": null,
-  "prepared_at_utc": "2026-10-19T11:57:21.042858+00:00"
+  "prepared_at_utc": "2026-10-19T11:57:21.042858+00:00",
+  "schedule": {
+    "provider": "X native scheduler",
+    "requested_timezone": "America/Los_Angeles",
+    "requested_local_time": "2026-10-19T07:10:00-07:00",
+    "timezone_abbreviation": "PDT",
+    "utc": "2026-10-19T14:10:00+00:00",
+    "singapore_time": "2026-10-19T22:10:00+08:00",
+    "composer_timezone_label": "Singapore Standard Time",
+    "queue_label": "Will send on Mon, Oct 19, 2026 at 10:10 PM",
+    "queue_url": "https://x.com/compose/post/unsent/scheduled",
+    "queue_entry_verified": true,
+    "full_text_and_original_target_verified": true,
+    "evidence": "scheduled-queue.png",
+    "original_evidence": "research/scheduled-queue-original.png",
+    "verified_at_utc": "2026-10-19T12:13:28.829568+00:00"
+  },
+  "verification_followup": {
+    "automation_id": "spacex-quote",
+    "kind": "heartbeat",
+    "status": "ACTIVE",
+    "one_time": true,
+    "planned_local_time": "2026-10-19T22:12:00+08:00",
+    "purpose": "Verify the existing public post after the X native scheduled time; never submit a duplicate."
+  }
 }
