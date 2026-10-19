@@ -1,0 +1,20 @@
+Leo Guo
+@LeoGuoLabs
+Boost
+DeepSeek-V4.1-Flash-20261017 (Max) now leads open-weight models on Code Arena’s WebDev board, ahead of Kimi K3 (Max).
+
+The pricing is hard to ignore: Arena lists $0.30/$1.20 per million input/output tokens for Flash, versus $3/$15 for K3. If you’re iterating on landing pages or prototypes, that makes Flash worth testing. Kimi’s next release has a tougher bar to clear.
+Quote
+Arena.ai
+@arena
+·
+21h
+Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max) at 10x lower cost!
+
+Highlights:
+- #1 open model, ahead of Kimi K3 (Max)
+- #12 overall with 1670 pts, ahead of Claude Opus 5 (High) and within  x.com/deepseek_ai/st…
+12:00 AM · Oct 20, 2026
+·
+7
+ Views

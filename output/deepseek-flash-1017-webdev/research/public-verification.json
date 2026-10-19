@@ -1,0 +1,50 @@
+{
+  "verified_at": "2026-10-19T16:07:14.011Z",
+  "method": "Actual published URL reopened in authenticated built-in browser",
+  "publication_url": "https://x.com/LeoGuoLabs/status/2112212177939804498",
+  "account": "@LeoGuoLabs",
+  "published_at_utc": "2026-10-19T16:00:00.000Z",
+  "published_time_label": "12:00 AM · Oct 20, 2026",
+  "published_text": "DeepSeek-V4.1-Flash-20261017 (Max) now leads open-weight models on Code Arena’s WebDev board, ahead of Kimi K3 (Max).\n\nThe pricing is hard to ignore: Arena lists $0.30/$1.20 per million input/output tokens for Flash, versus $3/$15 for K3. If you’re iterating on landing pages or prototypes, that makes Flash worth testing. Kimi’s next release has a tougher bar to clear.",
+  "checks": {
+    "exact_text_match": true,
+    "correct_account": true,
+    "native_quote_present": true,
+    "quote_target": "https://x.com/arena/status/2111894091168682086",
+    "image_links": [
+      {
+        "href": "/arena/status/2111894091168682086/photo/1",
+        "text": ""
+      },
+      {
+        "href": "/arena/status/2111894091168682086/photo/2",
+        "text": ""
+      }
+    ],
+    "source_images": [
+      {
+        "alt": "Image",
+        "complete": true,
+        "naturalHeight": 680,
+        "naturalWidth": 680,
+        "src": "https://pbs.twimg.com/media/HU7z9aubIAAen5a?format=jpg&name=small"
+      },
+      {
+        "alt": "Image",
+        "complete": true,
+        "naturalHeight": 558,
+        "naturalWidth": 680,
+        "src": "https://pbs.twimg.com/media/HU7z9_FbUAA4j2r?format=jpg&name=small"
+      }
+    ],
+    "source_image_count": 2,
+    "all_source_images_loaded": true,
+    "order": [
+      "Arena WebDev ranking",
+      "Arena score versus blended token price"
+    ],
+    "visual_inspection": "Both charts render in the native Arena Quote card in expected order, without broken-image errors.",
+    "scheduled_time_match": true
+  },
+  "actions": "Read-only verification. No new post, editing, deletion, or rescheduling."
+}

@@ -1,5 +1,5 @@
 {
-  "state": "scheduled",
+  "state": "publicly_verified",
   "destination_account": "@LeoGuoLabs",
   "format": "native_quote_post",
   "source_url": "https://x.com/leo114119/status/2111978647573934107",
@@ -39,12 +39,12 @@
     "scope": "Previously reviewed complete English text, native Quote of Arena, original two images, scheduled publication",
     "recorded_at": "2026-10-19T06:05:02.303650+00:00"
   },
-  "publication_url": null,
-  "submitted": false,
+  "publication_url": "https://x.com/LeoGuoLabs/status/2112212177939804498",
+  "submitted": true,
   "prepared_at": "2026-10-19T02:27:37.668526+00:00",
   "schedule": {
     "provider": "X native scheduler",
-    "status": "saved_and_queue_verified",
+    "status": "published_at_requested_time",
     "requested_timezone": "America/Los_Angeles",
     "scheduled_pacific": "2026-10-19T09:00:00-07:00",
     "pacific_abbreviation": "PDT",
@@ -66,11 +66,32 @@
   "post_publication_check": {
     "automation_id": "deepseek-quote",
     "kind": "heartbeat",
-    "status": "ACTIVE",
+    "status": "completed",
     "one_time": true,
     "intended_at_singapore": "2026-10-20T00:05:00+08:00",
-    "purpose": "Verify the existing public post; no duplicate publication or editing authorized"
+    "purpose": "Verify the existing public post; no duplicate publication or editing authorized",
+    "completed_at": "2026-10-19T16:07:14.011Z"
   },
-  "public_verification_status": "pending_scheduled_publication",
-  "updated_at": "2026-10-19T06:05:02.303650+00:00"
+  "public_verification_status": "passed",
+  "updated_at": "2026-10-19T16:07:14.011Z",
+  "published_at": {
+    "utc": "2026-10-19T16:00:00+00:00",
+    "pacific": "2026-10-19T09:00:00-07:00",
+    "singapore": "2026-10-20T00:00:00+08:00"
+  },
+  "public_verification": {
+    "verified_at": "2026-10-19T16:07:14.011Z",
+    "evidence": [
+      "output/deepseek-flash-1017-webdev/research/public-verification.json",
+      "output/deepseek-flash-1017-webdev/research/public-post.txt",
+      "output/deepseek-flash-1017-webdev/research/public-verified.jpg"
+    ],
+    "exact_text_match": true,
+    "correct_account": true,
+    "native_quote_target": "https://x.com/arena/status/2111894091168682086",
+    "image_count": 2,
+    "images_loaded": true,
+    "image_order_verified": true,
+    "scheduled_time_match": true
+  }
 }
