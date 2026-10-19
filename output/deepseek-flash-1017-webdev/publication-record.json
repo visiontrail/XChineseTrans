@@ -1,5 +1,5 @@
 {
-  "state": "awaiting_final_approval",
+  "state": "scheduled",
   "destination_account": "@LeoGuoLabs",
   "format": "native_quote_post",
   "source_url": "https://x.com/leo114119/status/2111978647573934107",
@@ -34,10 +34,43 @@
   },
   "approval": {
     "required": true,
-    "received": false,
-    "basis": "AGENTS.md standing final-content review rule"
+    "received": true,
+    "instruction": "请你在美国西部时间，早晨9点发布",
+    "scope": "Previously reviewed complete English text, native Quote of Arena, original two images, scheduled publication",
+    "recorded_at": "2026-10-19T06:05:02.303650+00:00"
   },
   "publication_url": null,
   "submitted": false,
-  "prepared_at": "2026-10-19T02:27:37.668526+00:00"
+  "prepared_at": "2026-10-19T02:27:37.668526+00:00",
+  "schedule": {
+    "provider": "X native scheduler",
+    "status": "saved_and_queue_verified",
+    "requested_timezone": "America/Los_Angeles",
+    "scheduled_pacific": "2026-10-19T09:00:00-07:00",
+    "pacific_abbreviation": "PDT",
+    "scheduled_utc": "2026-10-19T16:00:00Z",
+    "scheduled_singapore": "2026-10-20T00:00:00+08:00",
+    "browser_schedule_timezone": "Singapore Standard Time",
+    "ui_queue_label": "Will send on Tue, Oct 20, 2026 at 12:00 AM",
+    "queue_url": "https://x.com/compose/post/unsent/scheduled",
+    "matching_queue_entries": 1,
+    "quote_target_verified": true,
+    "submitted_to_scheduler": true,
+    "verified_at": "2026-10-19T06:05:02.303650+00:00",
+    "evidence": [
+      "output/deepseek-flash-1017-webdev/research/schedule-ready.jpg",
+      "output/deepseek-flash-1017-webdev/research/scheduled-queue.jpg",
+      "output/deepseek-flash-1017-webdev/research/scheduled-queue.txt"
+    ]
+  },
+  "post_publication_check": {
+    "automation_id": "deepseek-quote",
+    "kind": "heartbeat",
+    "status": "ACTIVE",
+    "one_time": true,
+    "intended_at_singapore": "2026-10-20T00:05:00+08:00",
+    "purpose": "Verify the existing public post; no duplicate publication or editing authorized"
+  },
+  "public_verification_status": "pending_scheduled_publication",
+  "updated_at": "2026-10-19T06:05:02.303650+00:00"
 }
