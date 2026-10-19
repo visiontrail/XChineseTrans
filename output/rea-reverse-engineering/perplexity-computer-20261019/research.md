@@ -43,3 +43,11 @@ User approved the displayed version with “请你在10分钟以后发布” at 
 X accepted the native scheduled Quote for October 19 at 14:11 Singapore Standard Time. The Scheduled queue was reopened and explicitly showed that time, the exact official target URL and the expected copy. See scheduled-queue.png and research/scheduled-queue.txt. This is scheduled, not publicly verified. No extra video was uploaded.
 
 A one-time thread heartbeat, rea-quote, is active for 14:12 Singapore time to verify the real public result and pause after that check. OpenAI Docs skill was used for scheduled-follow-up guidance: https://developers.openai.com/training/walkthroughs/scheduled-tasks .
+
+## Public publication verified — 2026-10-19
+
+Actual public URL: https://x.com/LeoGuoLabs/status/2112063948518568314 . Reopened the real post in the authenticated built-in browser after finding it on @LeoGuoLabs. It displays 2:11 PM on October 19, 2026 (Singapore time), matching the native schedule. Every character and paragraph in the English public copy matches the approved text. The native Quote card was clicked and navigated to exactly https://x.com/AskPerplexity/status/2111120664543596957 .
+
+One native source video is present, duration 93.166 seconds. Real public-page playback advanced from 33.574811 to 51.940619 seconds, paused false, readyState 4, error null. The browser used adaptive playback resolution; no claim of public 1080p playback is made. See public-review.png, research/public-page.txt, research/quote-target-verification.txt and research/public-verification.json.
+
+No duplicate post, reply or extra upload was made during verification. The one-time rea-quote follow-up has been paused after this completed check. The publicly_verified record supersedes the earlier review and queue states.

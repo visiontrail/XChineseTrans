@@ -1,0 +1,188 @@
+Browser tab: 2, Title: "Leo Guo on X: \"An app you already use can be a useful starting point for a coding agent. Perplexity has added REA to Computer to inspect software and build similar functionality; its Figma-style demo includes layers, auto-layout and multiplayer editing, according to the company. I’d start with\" / X", URL: "https://x.com/LeoGuoLabs/status/2112063948518568314".
+1 AXWebArea URL: x.com/LeoGuoLabs/status/2112063948518568314, Leo Guo on X: "An app you already use can be a useful starting point for a coding agent. Perplexity has added REA to Computer to inspect software and build similar functionality; its Figma-style demo includes layers, auto-layout and multiplayer editing, according to the company. I’d start with" / X
+	2 container
+		3 heading To view keyboard shortcuts, press question mark View keyboard shortcuts, Value: 2
+			4 text To view keyboard shortcuts, press question mark
+			5 link Description: View keyboard shortcuts, Value: x.com/i/keyboard_shortcuts
+		6 container
+			7 button Grok
+			8 button Chat
+		9 button Skip to home timeline
+		10 button Skip to trending
+		11 container
+			12 heading X, Value: 1
+				13 link Description: X, Value: x.com/home
+			14 container Primary
+				15 link Description: Home, Value: x.com/home
+				16 link Description: Search and explore, Value: x.com/explore
+				17 link Description: Notifications, Value: x.com/notifications
+				18 link Description: Direct Messages, Value: x.com/i/chat
+				19 link Description: Calls, Value: x.com/i/calls
+				20 link Description: Grok, Value: x.com/i/grok
+				21 link Description: Subscription, Value: x.com/i/premium
+				22 link Description: History, Value: x.com/i/history
+				23 link Description: Profile, Value: x.com/LeoGuoLabs
+				24 pop up button (collapsed) Description: More menu items, Secondary Actions: Expand
+					25 container
+						26 text More
+			27 link Description: Post, Value: x.com/compose/post
+			28 button Account menu
+				29 container
+					30 container Leo Guo
+						31 image Leo Guo
+				32 container
+					33 container
+						34 text Leo Guo
+						35 image Verified account
+					36 text @LeoGuoLabs
+				37 container undefined unread items
+		38 container
+			39 container Home timeline
+				40 container
+					41 container
+						42 button Back
+						43 heading Post, Value: 2
+							44 text Post
+				45 container Conversation
+					46 heading Conversation, Value: 1, ID: accessible-list-0
+						47 text Conversation
+					48 container Timeline: Conversation
+						49 container
+							50 container
+								51 container Leo Guo Verified account @LeoGuoLabs An app you already use can be a useful starting point for a coding agent. Perplexity has added REA to Computer to inspect software and build similar functionality; its Figma-style demo includes layers, auto-layout and multiplayer editing, according to the company. I’d start with one workflow: “Explain how this works, then build a smaller version for my team.” That gives you something concrete to test and refine. Quote Square profile picture Computer Verified account @AskPerplexity Oct 16 REA (Reverse Engineer Anything) by @morluto is now a skill in Computer. Ask Computer to reverse-engineer an app and it inspects how the app works without its source code, then builds a working version. Tasks that use /reverse-engineer are free through October 31, up to 10,000
+									52 container
+										53 link x.com/LeoGuoLabs
+										54 container
+											55 container id__07q3ccur5628
+												56 link Description: Leo Guo Verified account, Value: x.com/LeoGuoLabs
+												57 link Description: @LeoGuoLabs, Value: x.com/LeoGuoLabs
+											58 container
+												59 button Boost
+													60 text Boost
+												61 button Grok actions
+												62 pop up button (collapsed) Description: More, Secondary Actions: Expand
+										63 text An app you already use can be a useful starting point for a coding agent. Perplexity has added REA to Computer to inspect software and build similar functionality; its Figma-style demo includes layers, auto-layout and multiplayer editing, according to the company.
+
+I’d start with one workflow: “Explain how this works, then build a smaller version for my team.” That gives you something concrete to test and refine.
+										64 container ID: id__0ygaljnmlp7h, Description: Quote Square profile picture Computer Verified account @AskPerplexity Oct 16 REA (Reverse Engineer Anything) by @morluto is now a skill in Computer. Ask Computer to reverse-engineer an app and it inspects how the app works without its source code, then builds a working version. Tasks that use /reverse-engineer are free through October 31, up to 10,000 Embedded video
+											65 container id__izmsvjhl9ws
+												66 text Quote
+												67 link Square profile picture Computer Verified account @AskPerplexity Oct 16 REA (Reverse Engineer Anything) by @morluto is now a skill in Computer. Ask Computer to reverse-engineer an app and it inspects how the app works without its source code, then builds a working version. Tasks that use /reverse-engineer are free through October 31, up to 10,000 Embedded video 0:59 Unmute
+													68 container
+														69 container
+															70 container
+																71 container Square profile picture
+																	72 image Square profile picture
+															73 container
+																74 container
+																	75 text Computer
+																	76 image Verified account
+																	77 link
+																78 container
+																	79 text @AskPerplexity
+																	80 container Oct 16
+																		81 text Oct 16
+														82 container
+															83 text REA (Reverse Engineer Anything) by  @morluto  is now a skill in Computer.
+
+Ask Computer to reverse-engineer an app and it inspects how the app works without its source code, then builds a working version.
+
+Tasks that use /reverse-engineer are free through October 31, up to 10,000
+														84 container
+															85 container Embedded video
+															86 container
+																87 text 0:59
+																88 button Unmute
+										89 container
+											90 container
+												91 link Description: 2:11 PM · Oct 19, 2026, Value: x.com/LeoGuoLabs/status/2112063948518568314
+												92 link Description: 5 Views, Value: x.com/LeoGuoLabs/status/2112063948518568314/analytics
+										93 container Description: 5 views, ID: id__sl3n0zvu5r
+											94 button 0 Replies. Reply
+											95 pop up button (collapsed) Description: 0 reposts. Repost, Secondary Actions: Expand
+											96 button 0 Likes. Like
+											97 button 0 Bookmarks. Bookmark
+											98 pop up button (collapsed) Description: Share post, Secondary Actions: Expand
+								99 container
+									100 container
+										101 link Description: Leo Guo, Value: x.com/LeoGuoLabs
+										102 container
+											103 container
+												104 container
+													105 text Post your reply
+													106 text entry area (settable) Description: Post text, Value:
+
+											107 button (disabled) Reply
+												108 text Reply
+			109 container
+				110 container Trending
+					111 container
+						112 container Search
+							113 container
+								114 combo box (settable) Search query
+						115 container Relevant people
+							116 heading Relevant people, Value: 2
+								117 text Relevant people
+							118 content list
+								119 container
+									120 container
+										121 link Description: Leo Guo Verified account, Value: x.com/LeoGuoLabs
+										122 link Description: @LeoGuoLabs, Value: x.com/LeoGuoLabs
+									123 text Previously a senior C/C++ engineer in telecom. Now exploring AI and emerging tech, sharing useful tools and an engineering perspective.
+								124 container
+									125 container
+										126 container
+											127 link Description: Computer Verified account, Value: x.com/AskPerplexity
+											128 link Description: @AskPerplexity, Value: x.com/AskPerplexity
+										129 button Follow @AskPerplexity
+											130 text Follow
+									131 text Everything is Computer.
+						132 container Trending now
+							133 heading Trending now, Value: 1, ID: accessible-list-1
+								134 text Trending now
+							135 container Timeline: Trending now
+								136 container
+									137 heading What’s happening, Value: 2
+										138 text What’s happening
+									139 link Politics · Trending Vance More
+										140 container id__m1wt4fueuw
+											141 text Politics · Trending
+											142 text Vance
+											143 pop up button (collapsed) Description: More, Secondary Actions: Expand
+									144 link Trending in Singapore The French More
+										145 container id__od4wixwv048
+											146 text Trending in Singapore
+											147 text The French
+											148 pop up button (collapsed) Description: More, Secondary Actions: Expand
+									149 link Politics · Trending Le Pen More
+										150 container id__qihlfqy61ke
+											151 text Politics · Trending
+											152 text Le Pen
+											153 pop up button (collapsed) Description: More, Secondary Actions: Expand
+									154 link Trending in Singapore #aylio More
+										155 container id__4tw8116mtp
+											156 text Trending in Singapore
+											157 text #aylio
+											158 pop up button (collapsed) Description: More, Secondary Actions: Expand
+									159 link Description: Show more, Value: x.com/explore/tabs/for-you
+						160 container Footer
+							161 container
+								162 link Description: Terms, Value: x.com/tos
+								163 text ·
+							164 container
+								165 link Description: Privacy, Value: x.com/privacy
+								166 text ·
+							167 container
+								168 link Description: Cookies, Value: support.x.com/articles/20170514
+								169 text ·
+							170 container
+								171 link Description: Accessibility, Value: help.x.com/resources/accessibility
+								172 text ·
+							173 container
+								174 link Description: Ads Info, Value: business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo
+								175 text ·
+							176 pop up button (collapsed) Description: More, Secondary Actions: Expand
+								177 text More
+							178 text © 2026 X Corp.
+
+The focused UI element is 53 link x.com/LeoGuoLabs

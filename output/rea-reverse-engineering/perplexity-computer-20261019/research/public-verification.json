@@ -1,0 +1,38 @@
+{
+  "published_url": "https://x.com/LeoGuoLabs/status/2112063948518568314",
+  "account": "LeoGuoLabs",
+  "published_time_display": "2:11 PM · Oct 19, 2026",
+  "timezone": "Asia/Singapore",
+  "text_exact_match": true,
+  "actual_text": "An app you already use can be a useful starting point for a coding agent. Perplexity has added REA to Computer to inspect software and build similar functionality; its Figma-style demo includes layers, auto-layout and multiplayer editing, according to the company.\n\nI’d start with one workflow: “Explain how this works, then build a smaller version for my team.” That gives you something concrete to test and refine.",
+  "format": "native_quote",
+  "expected_quote_target": "https://x.com/AskPerplexity/status/2111120664543596957",
+  "actual_quote_target": "https://x.com/AskPerplexity/status/2111120664543596957",
+  "quote_target_exact_match": true,
+  "quote_target_method": "Clicked the native Quote card text on the actual public post and verified resulting URL.",
+  "native_video_count": 1,
+  "playback_before": [
+    {
+      "currentTime": 33.574811,
+      "duration": 93.166,
+      "error": null,
+      "height": 360,
+      "paused": false,
+      "readyState": 4,
+      "width": 640
+    }
+  ],
+  "playback_after": [
+    {
+      "currentTime": 51.940619,
+      "duration": 93.166,
+      "error": null,
+      "height": 270,
+      "paused": false,
+      "readyState": 4,
+      "width": 480
+    }
+  ],
+  "playback_advancing": true,
+  "verified_at": "2026-10-19T06:14:16.293Z"
+}

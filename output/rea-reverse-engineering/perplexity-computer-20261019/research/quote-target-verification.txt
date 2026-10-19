@@ -1,0 +1,328 @@
+Native Quote card navigation resolved to https://x.com/AskPerplexity/status/2111120664543596957
+
+Browser tab: 2, Title: "Computer on X: \"REA (Reverse Engineer Anything) by @morluto is now a skill in Computer. Ask Computer to reverse-engineer an app and it inspects how the app works without its source code, then builds a working version. Tasks that use /reverse-engineer are free through October 31, up to 10,000 https://t.co/GAlDt4sDZJ\" / X", URL: "https://x.com/AskPerplexity/status/2111120664543596957".
+1 AXWebArea URL: x.com/AskPerplexity/status/2111120664543596957, Computer on X: "REA (Reverse Engineer Anything) by @morluto is now a skill in Computer. Ask Computer to reverse-engineer an app and it inspects how the app works without its source code, then builds a working version. Tasks that use /reverse-engineer are free through October 31, up to 10,000 https://t.co/GAlDt4sDZJ" / X
+	2 container
+		3 heading To view keyboard shortcuts, press question mark View keyboard shortcuts, Value: 2
+			4 text To view keyboard shortcuts, press question mark
+			5 link Description: View keyboard shortcuts, Value: x.com/i/keyboard_shortcuts
+		6 container
+			7 button Grok
+			8 button Chat
+		9 button Skip to home timeline
+		10 button Skip to trending
+		11 container
+			12 heading X, Value: 1
+				13 link Description: X, Value: x.com/home
+			14 container Primary
+				15 link Description: Home, Value: x.com/home
+				16 link Description: Search and explore, Value: x.com/explore
+				17 link Description: Notifications, Value: x.com/notifications
+				18 link Description: Direct Messages, Value: x.com/i/chat
+				19 link Description: Calls, Value: x.com/i/calls
+				20 link Description: Grok, Value: x.com/i/grok
+				21 link Description: Subscription, Value: x.com/i/premium
+				22 link Description: History, Value: x.com/i/history
+				179 link Description: Creator Studio, Value: x.com/i/jf/creators/studio
+				180 link Description: Articles, Value: x.com/compose/articles
+				23 link Description: Profile, Value: x.com/LeoGuoLabs
+				24 pop up button (collapsed) Description: More menu items, Secondary Actions: Expand
+					25 container
+						26 text More
+			27 link Description: Post, Value: x.com/compose/post
+			28 button Account menu
+				29 container
+					30 container Leo Guo
+						31 image Leo Guo
+				32 container
+					33 container
+						34 text Leo Guo
+						35 image Verified account
+					36 text @LeoGuoLabs
+				37 container undefined unread items
+		38 container
+			39 container Home timeline
+				40 container
+					41 container
+						42 button Back
+						43 heading Post, Value: 2
+							44 text Post
+						234 link x.com/AskPerplexity/thread/2111120664543596957
+				45 container Conversation
+					46 heading Conversation, Value: 1, ID: accessible-list-0
+						47 text Conversation
+					48 container Timeline: Conversation
+						181 container
+							182 container
+								183 container Computer Verified account @AskPerplexity REA (Reverse Engineer Anything) by @morluto is now a skill in Computer. Ask Computer to reverse-engineer an app and it inspects how the app works without its source code, then builds a working version. Tasks that use /reverse-engineer are free through October 31, up to 10,000 credits per user. Here are 5 apps Computer made with it, available to try for a limited time: 1) Figma: Design with layers and auto-layout, plus sign-in, cross-device sync, and multiplayer editing. Try it: ui-editing.pplx.app Embedded video 98 replies, 537 reposts, 3744 likes, 5453 bookmarks, 870472 views
+									184 container
+										185 link Description: Square profile picture, Value: x.com/AskPerplexity
+										186 container
+											187 container id__fenk9xxfwvf
+												188 link Description: Computer Verified account, Value: x.com/AskPerplexity
+												189 link Description: @AskPerplexity, Value: x.com/AskPerplexity
+											190 container
+												191 button Grok actions
+												192 pop up button (collapsed) Description: More, Secondary Actions: Expand
+										193 container id__05uavm9fkrou
+											194 text REA (Reverse Engineer Anything) by
+											195 link Description: @morluto, Value: x.com/morluto
+											196 text  is now a skill in Computer.
+
+Ask Computer to reverse-engineer an app and it inspects how the app works without its source code, then builds a working version.
+
+Tasks that use /reverse-engineer are free through October 31, up to 10,000 credits per user.
+
+Here are 5 apps Computer made with it, available to try for a limited time:
+
+1) Figma: Design with layers and auto-layout, plus sign-in, cross-device sync, and multiplayer editing. Try it:
+											197 link Description: ui-editing.pplx.app, Value: t.co/FGGTblkCWY
+										198 container Embedded video
+											199 container Embedded video
+												200 image Embedded video
+											201 text 1:33
+											202 button Play this video
+										203 container
+											204 container
+												205 link Description: 11:42 PM · Oct 16, 2026, Value: x.com/AskPerplexity/status/2111120664543596957
+												206 link Description: 870.4K Views, Value: x.com/AskPerplexity/status/2111120664543596957/analytics
+										207 container
+											208 container Description: 98 replies, 537 reposts, 3744 likes, 5453 bookmarks, 870472 views, ID: id__c0vfi7lwtcl
+												209 button 98 Replies. Reply
+													210 container
+														211 text 98
+												212 pop up button (collapsed) Description: 537 reposts. Repost, Secondary Actions: Expand
+													213 container
+														214 text 537
+												215 button 3744 Likes. Like
+													216 container
+														217 text 3.7K
+												218 button 5453 Bookmarks. Bookmark
+													219 container
+														220 text 5.4K
+												221 pop up button (collapsed) Description: Share post, Secondary Actions: Expand
+											222 pop up button Relevant
+											223 link Description: View quotes, Value: x.com/AskPerplexity/status/2111120664543596957/quotes
+								224 container
+									225 container
+										226 link Description: Leo Guo, Value: x.com/LeoGuoLabs
+										227 container
+											228 container
+												229 container
+													230 text Post your reply
+													231 text entry area (settable) Description: Post text, Value:
+
+											232 button (disabled) Reply
+												233 text Reply
+							235 container Computer Verified account @AskPerplexity Oct 16 2) LibreOffice Calc: Edit cells, write formulas, and watch charts update as your numbers change. Try it: spreadsheet-editor.pplx.app Embedded video 2 replies, 5 reposts, 112 likes, 67 bookmarks, 49170 views
+								236 container
+									237 container
+										238 link Description: Square profile picture, Value: x.com/AskPerplexity
+									239 container
+										240 container
+											241 container id__x1h8mhuyt2
+												242 link Description: Computer Verified account, Value: x.com/AskPerplexity
+												243 container
+													244 link Description: @AskPerplexity, Value: x.com/AskPerplexity
+													245 link Description: Oct 16, Value: x.com/AskPerplexity/status/2111120738078044244
+											246 container
+												247 button Grok actions
+												248 pop up button (collapsed) Description: More, Secondary Actions: Expand
+										249 container id__up5wq5105j
+											250 text 2) LibreOffice Calc: Edit cells, write formulas, and watch charts update as your numbers change.
+
+Try it:
+											251 link Description: spreadsheet-editor.pplx.app, Value: t.co/WKw6H98hw4
+										252 container Embedded video
+											253 container Embedded video
+												254 image Embedded video
+											255 text 1:28
+											256 button Play this video
+										257 container Description: 2 replies, 5 reposts, 112 likes, 67 bookmarks, 49170 views, ID: id__olvuq03adk
+											258 button 2 Replies. Reply
+												259 container
+													260 text 2
+											261 pop up button (collapsed) Description: 5 reposts. Repost, Secondary Actions: Expand
+												262 container
+													263 text 5
+											264 button 112 Likes. Like
+												265 container
+													266 text 112
+											267 link Description: 49170 views. View post analytics, Value: x.com/AskPerplexity/status/2111120738078044244/analytics
+											268 button Bookmark
+											269 pop up button (collapsed) Description: Share post, Secondary Actions: Expand
+							270 container Computer Verified account @AskPerplexity Oct 16 3) Photopea: Layer-based photo editing with masks, color adjustments, and editable text. Try it: photo-editor.pplx.app Embedded video 2 replies, 2 reposts, 90 likes, 46 bookmarks, 37632 views
+								271 container
+									272 container
+										273 link Description: Square profile picture, Value: x.com/AskPerplexity
+									274 container
+										275 container
+											276 container id__oy2dbgtswri
+												277 link Description: Computer Verified account, Value: x.com/AskPerplexity
+												278 container
+													279 link Description: @AskPerplexity, Value: x.com/AskPerplexity
+													280 link Description: Oct 16, Value: x.com/AskPerplexity/status/2111120790683050106
+											281 container
+												282 button Grok actions
+												283 pop up button (collapsed) Description: More, Secondary Actions: Expand
+										284 container id__ikpgoy142fl
+											285 text 3) Photopea: Layer-based photo editing with masks, color adjustments, and editable text.
+
+Try it:
+											286 link Description: photo-editor.pplx.app, Value: t.co/t207Kg7gYi
+										287 container Embedded video
+											288 container Embedded video
+												289 image Embedded video
+											290 text 1:39
+											291 button Play this video
+										292 container Description: 2 replies, 2 reposts, 90 likes, 46 bookmarks, 37632 views, ID: id__k8dzs8k7jtc
+											293 button 2 Replies. Reply
+												294 container
+													295 text 2
+											296 pop up button (collapsed) Description: 2 reposts. Repost, Secondary Actions: Expand
+												297 container
+													298 text 2
+											299 button 90 Likes. Like
+												300 container
+													301 text 90
+											302 link Description: 37632 views. View post analytics, Value: x.com/AskPerplexity/status/2111120790683050106/analytics
+											303 button Bookmark
+											304 pop up button (collapsed) Description: Share post, Secondary Actions: Expand
+							305 container Computer Verified account @AskPerplexity Oct 16 4) Harvey: Search contracts, compare versions, and flag clauses against your rules, with source citations. Try it: contract-review.pplx.app Embedded video 1 reply, 2 reposts, 100 likes, 105 bookmarks, 33506 views
+								306 container
+									307 container
+										308 link Description: Square profile picture, Value: x.com/AskPerplexity
+									309 container
+										310 container
+											311 container id__5bggpmx96n5
+												312 link Description: Computer Verified account, Value: x.com/AskPerplexity
+												313 container
+													314 link Description: @AskPerplexity, Value: x.com/AskPerplexity
+													315 link Description: Oct 16, Value: x.com/AskPerplexity/status/2111120848186982838
+											316 container
+												317 button Grok actions
+												318 pop up button (collapsed) Description: More, Secondary Actions: Expand
+										319 container id__ageqh4hjcxh
+											320 text 4) Harvey: Search contracts, compare versions, and flag clauses against your rules, with source citations.
+
+Try it:
+											321 link Description: contract-review.pplx.app, Value: t.co/KSW7mCb6A7
+										322 container Embedded video
+											323 container Embedded video
+												324 image Embedded video
+											325 text 1:17
+											326 button Play this video
+										327 container Description: 1 reply, 2 reposts, 100 likes, 105 bookmarks, 33506 views, ID: id__kluxep0vrcm
+											328 button 1 Reply. Reply
+												329 container
+													330 text 1
+											331 pop up button (collapsed) Description: 2 reposts. Repost, Secondary Actions: Expand
+												332 container
+													333 text 2
+											334 button 100 Likes. Like
+												335 container
+													336 text 100
+											337 link Description: 33506 views. View post analytics, Value: x.com/AskPerplexity/status/2111120848186982838/analytics
+											338 button Bookmark
+											339 pop up button (collapsed) Description: Share post, Secondary Actions: Expand
+							340 container Computer Verified account @AskPerplexity Oct 16 5) Audacity: Trim and mix audio tracks, adjust volume, add fades, and export a WAV. Try it: audio-editor.pplx.app Embedded video 2 reposts, 76 likes, 69 bookmarks, 29655 views
+								341 container
+									342 link Description: Square profile picture, Value: x.com/AskPerplexity
+									343 container
+										344 container
+											345 container id__bxsng7f90j8
+												346 link Description: Computer Verified account, Value: x.com/AskPerplexity
+												347 container
+													348 link Description: @AskPerplexity, Value: x.com/AskPerplexity
+													349 link Description: Oct 16, Value: x.com/AskPerplexity/status/2111120943540289627
+											350 container
+												351 button Grok actions
+												352 pop up button (collapsed) Description: More, Secondary Actions: Expand
+										353 container id__qzx380z59s
+											354 text 5) Audacity: Trim and mix audio tracks, adjust volume, add fades, and export a WAV.
+
+Try it:
+											355 link Description: audio-editor.pplx.app, Value: t.co/n06Dy4PA9g
+										356 container Embedded video
+											357 container Embedded video
+												358 image Embedded video
+											359 text 1:35
+											360 button Play this video
+										361 container Description: 2 reposts, 76 likes, 69 bookmarks, 29655 views, ID: id__5rjf9vw9gc9
+											362 button 0 Replies. Reply
+											363 pop up button (collapsed) Description: 2 reposts. Repost, Secondary Actions: Expand
+												364 container
+													365 text 2
+											366 button 76 Likes. Like
+												367 container
+													368 text 76
+											369 link Description: 29655 views. View post analytics, Value: x.com/AskPerplexity/status/2111120943540289627/analytics
+											370 button Bookmark
+											371 pop up button (collapsed) Description: Share post, Secondary Actions: Expand
+			109 container
+				110 container Trending
+					111 container
+						112 container Search
+							113 container
+								114 combo box (settable) Search query
+						115 container Relevant people
+							116 heading Relevant people, Value: 2
+								117 text Relevant people
+							118 content list
+								124 container
+									125 container
+										126 container
+											127 link Description: Computer Verified account, Value: x.com/AskPerplexity
+											128 link Description: @AskPerplexity, Value: x.com/AskPerplexity
+										129 button Follow @AskPerplexity
+											130 text Follow
+									131 text Everything is Computer.
+						132 container Trending now
+							133 heading Trending now, Value: 1, ID: accessible-list-1
+								134 text Trending now
+							135 container Timeline: Trending now
+								136 container
+									137 heading What’s happening, Value: 2
+										138 text What’s happening
+									139 link Politics · Trending Vance More
+										140 container id__m1wt4fueuw
+											141 text Politics · Trending
+											142 text Vance
+											143 pop up button (collapsed) Description: More, Secondary Actions: Expand
+									144 link Trending in Singapore The French More
+										145 container id__od4wixwv048
+											146 text Trending in Singapore
+											147 text The French
+											148 pop up button (collapsed) Description: More, Secondary Actions: Expand
+									149 link Politics · Trending Le Pen More
+										150 container id__qihlfqy61ke
+											151 text Politics · Trending
+											152 text Le Pen
+											153 pop up button (collapsed) Description: More, Secondary Actions: Expand
+									154 link Trending in Singapore #aylio More
+										155 container id__4tw8116mtp
+											156 text Trending in Singapore
+											157 text #aylio
+											158 pop up button (collapsed) Description: More, Secondary Actions: Expand
+									159 link Description: Show more, Value: x.com/explore/tabs/for-you
+						160 container Footer
+							161 container
+								162 link Description: Terms, Value: x.com/tos
+								163 text ·
+							164 container
+								165 link Description: Privacy, Value: x.com/privacy
+								166 text ·
+							167 container
+								168 link Description: Cookies, Value: support.x.com/articles/20170514
+								169 text ·
+							170 container
+								171 link Description: Accessibility, Value: help.x.com/resources/accessibility
+								172 text ·
+							173 container
+								174 link Description: Ads Info, Value: business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo
+								175 text ·
+							176 pop up button (collapsed) Description: More, Secondary Actions: Expand
+								177 text More
+							178 text © 2026 X Corp.
+
+The focused UI element is 185 link Description: Square profile picture, URL: x.com/AskPerplexity

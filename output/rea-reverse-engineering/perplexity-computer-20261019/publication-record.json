@@ -5,10 +5,10 @@
   "format": "native_quote",
   "text_path": "post-en.txt",
   "text_sha256": "c8b1aa718b6601c74fe91704bdd2ccdc3431983571eedec03a722d089926fb84",
-  "state": "scheduled",
-  "submitted": false,
-  "scheduled": true,
-  "published_url": null,
+  "state": "publicly_verified",
+  "submitted": true,
+  "scheduled": false,
+  "published_url": "https://x.com/LeoGuoLabs/status/2112063948518568314",
   "authorization": {
     "preparation": "Bare X link under project AGENTS.md",
     "final_content_approval": {
@@ -60,7 +60,14 @@
     "phone_device_playback_tested": false,
     "downloaded_video_playback_advanced": 5,
     "native_schedule_created": true,
-    "native_schedule_queue_verified": true
+    "native_schedule_queue_verified": true,
+    "public_account_verified": true,
+    "public_complete_copy_verified": true,
+    "public_native_quote_format_verified": true,
+    "public_exact_quote_target_verified": true,
+    "public_video_count": 1,
+    "public_video_playback_advanced": true,
+    "public_video_error": null
   },
   "local_playback_evidence": "research/local-playback-verification.json",
   "schedule_submitted": true,
@@ -75,13 +82,22 @@
     "queue_evidence": "research/scheduled-queue.txt",
     "full_copy_verified_before_schedule": true,
     "exact_quote_target_verified_in_queue": true,
-    "public_verification": "pending scheduled publication"
+    "public_verification": "Completed; the actual public page displays 2:11 PM on October 19, 2026.",
+    "completed": true
   },
   "followup": {
     "automation_id": "rea-quote",
     "kind": "heartbeat",
     "one_time": true,
     "expected_at": "2026-10-19T14:12:00+08:00",
-    "purpose": "Verify actual public post, complete text, exact native Quote target and advancing source-video playback. Pause after completion."
-  }
+    "purpose": "Verify actual public post, complete text, exact native Quote target and advancing source-video playback. Pause after completion.",
+    "status": "PAUSED",
+    "completed_at": "2026-10-19T06:14:56.374442+00:00"
+  },
+  "verified_at": "2026-10-19T06:14:16.293Z",
+  "published_time_display": "2:11 PM · Oct 19, 2026",
+  "published_timezone": "Asia/Singapore",
+  "public_screenshot": "public-review.png",
+  "public_page_evidence": "research/public-page.txt",
+  "public_verification_evidence": "research/public-verification.json"
 }
