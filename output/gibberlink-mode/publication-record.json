@@ -1,5 +1,5 @@
 {
-  "state": "prepared_pending_final_review",
+  "state": "scheduled",
   "account": "@LeoGuoLabs",
   "format": "native_quote",
   "supplied_source": "https://x.com/huxlab/status/2112123190667542846",
@@ -37,5 +37,37 @@
   "revision": 2,
   "superseded_text": "post.v1.en.txt",
   "review_note": "User requested a shorter explanation plus personal reflection that AI increasingly feels like another intelligent species. This is framed as a subjective impression; the preset protocol-switch explanation remains.",
-  "composer_screenshot": "research/composer-review-v2.png"
+  "composer_screenshot": "research/composer-review-v2.png",
+  "approval": {
+    "user_instruction": "请你在美国西部时间，早晨的8点20分发布这个",
+    "approved_revision": 2,
+    "scope": "Complete reviewed revision 2, native Quote with original video, scheduled publication",
+    "recorded_at": "2026-10-19T12:13:21.383078+00:00",
+    "text_sha256": "5d218cb21c982062d9eb5f043537325a5b4d940b63128b1b9a48ccf6cde62117"
+  },
+  "schedule": {
+    "provider": "X native scheduler",
+    "timezone": "America/Los_Angeles",
+    "scheduled_pacific": "2026-10-19T08:20:00-07:00",
+    "scheduled_utc": "2026-10-19T15:20:00Z",
+    "scheduled_singapore": "2026-10-19T23:20:00+08:00",
+    "browser_schedule_timezone": "Singapore Standard Time",
+    "submitted_to_scheduler": true,
+    "queue_verified": true,
+    "complete_scheduled_text_and_quote_verified": true,
+    "queue_url": "https://x.com/compose/post/unsent/scheduled",
+    "evidence": [
+      "research/schedule-ready.png",
+      "research/scheduled-queue.png",
+      "research/scheduled-queue.txt",
+      "research/scheduled-content.txt"
+    ]
+  },
+  "follow_up": {
+    "automation_id": "gibberlink",
+    "scheduled_for_singapore": "2026-10-19T23:25:00+08:00",
+    "purpose": "One post-publication public URL and video-playback check; pause after check.",
+    "created": true
+  },
+  "public_verification_status": "pending_scheduled_publication"
 }

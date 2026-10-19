@@ -37,3 +37,7 @@ Composer retained the complete text and the native Quote target, with 23,410 cha
 ## Revision 2
 
 User requested simplification and their personal impression of AI feeling increasingly like another intelligent species. Removed modulation details, rate figures, and deployment/audit digression; retained text-to-tones mechanism, prompted switch, and ongoing LLM generation. Final paragraph is explicitly subjective. Previous text preserved in post.v1.en.txt; revised text awaits review. Same Quote target and verified video.
+
+## Approved scheduled publication
+
+User approved revision 2 for US West Coast morning 08:20. Scheduled the next occurrence, 2026-10-19 08:20 America/Los_Angeles (PDT, UTC-7), equal to 2026-10-19 23:20 Asia/Singapore and 15:20 UTC. X schedule UI explicitly showed Singapore Standard Time. Submitted using X native Schedule, then verified the queue and reopened the scheduled item to confirm the complete approved text, personal reflection, GitHub link, and native Quote target. No public URL exists yet. One-time heartbeat gibberlink is set for 23:25 Singapore time to verify publication and advancing video playback, reconcile existing post before any action, avoid duplicates, and pause after the check. Screenshots and AX records are in research/.

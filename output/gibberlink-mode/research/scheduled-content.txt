@@ -1,0 +1,98 @@
+Browser tab: 2, Title: "Home / X", URL: "https://x.com/compose/post".
+1 AXWebArea Home / X, URL: x.com/compose/post
+	2 container
+		3 progress indicator 0
+		4 container
+			5 button Close
+			6 button Drafts
+				7 text Drafts
+		8 container
+			9 container
+				10 container
+					11 container Leo Guo
+						12 image Leo Guo
+				13 button Will send on Mon, Oct 19, 2026 at 11:20 PM
+				14 container
+					15 container
+						16 container
+							17 text entry area (settable) Description: Post text, Value: GibberLink mode is essentially a tiny modem for AI agents. It turns text into tones, sends them over audio, then decodes them back into text.
+
+
+In this 2025 demo, the agents were prompted to switch after identifying each other as AI and agreeing to change modes. The LLM still generates the messages; ggwave handles their transmission, skipping speech synthesis and recognition.
+
+
+The idea is useful when audio is the available connection. If the agents already share an API, they can simply exchange data directly. And those beeps are decodable, not inherently secret.
+
+
+Even knowing the switch was designed by humans, I find the moment striking. AI increasingly feels like another intelligent species sharing our world. Watching two agents switch away from human speech makes that feeling oddly tangible.
+
+
+https://github.com/PennyroyalTea/gibberlink
+								18 text GibberLink mode is essentially a tiny modem for AI agents. It turns text into tones, sends them over audio, then decodes them back into text.
+								19 text In this 2025 demo, the agents were prompted to switch after identifying each other as AI and agreeing to change modes. The LLM still generates the messages; ggwave handles their transmission, skipping speech synthesis and recognition.
+								20 text The idea is useful when audio is the available connection. If the agents already share an API, they can simply exchange data directly. And those beeps are decodable, not inherently secret.
+								21 text Even knowing the switch was designed by humans, I find the moment striking. AI increasingly feels like another intelligent species sharing our world. Watching two agents switch away from human speech makes that feeling oddly tangible.
+								22 text https://github.com/PennyroyalTea/gibberlink
+						23 container
+							24 container
+								25 text Quote
+								26 button Georgi Gerganov Verified account @ggerganov Feb 25, 2025 Today I was sent the following cool demo: Two AI agents on a phone call realize they’re both AI and switch to a superior audio signal ggwave
+									27 container
+										28 container
+											29 container
+												30 container
+													31 text Georgi Gerganov
+													32 image Verified account
+												33 container
+													34 text @ggerganov
+													35 container Feb 25, 2025
+														36 text Feb 25, 2025
+										37 text Today I was sent the following cool demo:
+
+Two AI agents on a phone call realize they’re both AI and switch to a superior audio signal ggwave
+							38 container
+								39 text Georgi Gerganov
+								40 image Verified account
+							41 button Collapse
+					42 container
+						43 container id__l1lkse031t
+							44 link Description: Try out, Value: x.com/compose/articles
+							45 text  the new article composer for new formatting options.
+						46 button Close
+				47 button (disabled) Everyone can reply
+					48 text Everyone can reply
+				49 container
+					50 container
+						51 button (disabled) Previous
+						52 tab group
+							53 container
+								54 button Choose Files
+								55 pop up button (collapsed) Description: Add photos or video, Secondary Actions: Expand
+							56 button Add a GIF
+							57 button (disabled) Add poll
+							58 pop up button Add emoji
+							59 button Schedule post
+							60 button (disabled) Tag location
+							61 button Content disclosure
+						62 button (disabled) Next
+					63 container
+						64 text 24,172 characters remaining
+						65 progress indicator 3
+					66 container
+						67 button Add post
+					68 button Schedule
+						69 text Schedule
+
+The focused UI element is 17 text entry area (settable) Description: Post text, Value: GibberLink mode is essentially a tiny modem for AI agents. It turns text into tones, sends them over audio, then decodes them back into text.
+
+
+In this 2025 demo, the agents were prompted to switch after identifying each other as AI and agreeing to change modes. The LLM still generates the messages; ggwave handles their transmission, skipping speech synthesis and recognition.
+
+
+The idea is useful when audio is the available connection. If the agents already share an API, they can simply exchange data directly. And those beeps are decodable, not inherently secret.
+
+
+Even knowing the switch was designed by humans, I find the moment striking. AI increasingly feels like another intelligent species sharing our world. Watching two agents switch away from human speech makes that feeling oddly tangible.
+
+
+https://github.com/PennyroyalTea/gibberlink
