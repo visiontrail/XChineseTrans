@@ -1,0 +1,27 @@
+{
+  "status": "pending_review",
+  "destination_account": "@LeoGuoLabs",
+  "format": "native_quote",
+  "supplied_source": "https://x.com/AlchainHust/status/2112111635645272505",
+  "quote_target": "https://x.com/elonmusk/status/2112089556615123114",
+  "text": "Give a kid a SpaceX share, and the next rocket launch might feel a little more personal.\n\nIf Musk follows through on this pledge, it could be a neat way to spark curiosity about engineering, space and what it means to own a piece of a company.",
+  "text_file": "post.md",
+  "media": [],
+  "media_reason": "Both the supplied post and the relevant original contain only text. No attached image or video; native Quote preserves the original statement.",
+  "review_preview": "quote-review.png",
+  "original_review_screenshot": "quote-review-original.png",
+  "source_evidence": "research/original-post.png",
+  "preparation_checks": {
+    "original_language_read": true,
+    "quote_chain_traced": true,
+    "primary_post_read_live": true,
+    "complete_text_accepted_in_native_quote_composer": true,
+    "correct_quote_target_visible": true,
+    "post_control_enabled": true,
+    "submitted": false,
+    "draft_saved_and_reopened": true
+  },
+  "authorization": "Bare link authorizes preparation. Final-content approval remains pending under AGENTS.md.",
+  "public_url": null,
+  "prepared_at_utc": "2026-10-19T11:57:21.042858+00:00"
+}
