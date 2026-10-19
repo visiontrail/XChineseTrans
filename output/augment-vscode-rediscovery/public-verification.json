@@ -1,0 +1,21 @@
+{
+  "url": "https://x.com/LeoGuoLabs/status/2112227276091953582",
+  "account": "@LeoGuoLabs",
+  "approved_text": "Anyone else remember Augment, the coding agent?\n\nI opened VS Code for the first time in ages and the extension popped up. I'd completely forgotten about it.\n\nIf you're still using it, how's it holding up these days?",
+  "live_text": "Anyone else remember Augment, the coding agent?\n\nI opened VS Code for the first time in ages and the extension popped up. I'd completely forgotten about it.\n\nIf you're still using it, how's it holding up these days?",
+  "text_matches": true,
+  "image_count": 1,
+  "image": {
+    "alt": "Augment extension page in VS Code, showing the installed coding agent, its description, and a product screenshot.",
+    "complete": true,
+    "naturalHeight": 921,
+    "naturalWidth": 1200,
+    "src": "https://pbs.twimg.com/media/HU-ij7ab0AAiQBW?format=jpg&name=medium"
+  },
+  "published_datetime": "2026-10-19T17:00:00.000Z",
+  "observed_at": "2026-10-19T17:06:40.700Z",
+  "alt_dialog_verified": true,
+  "format": "standalone_post",
+  "quote_target": null,
+  "image_visual_match": "Observed public screenshot matches the user-provided VS Code Augment extension image."
+}
