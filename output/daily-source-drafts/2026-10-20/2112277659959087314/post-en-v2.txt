@@ -1,0 +1,5 @@
+Generating a deck is only the first step. The awkward part is getting five people’s edits into the same version.
+
+ChatGPT Slides now supports real-time collaboration, comments, and direct editing of text, charts, images, and shapes. You can ask ChatGPT to work through the feedback, then present there or export to PowerPoint or Google Slides. Available on Pro, Business, and Enterprise.
+
+https://chatgpt.com/features/slides/

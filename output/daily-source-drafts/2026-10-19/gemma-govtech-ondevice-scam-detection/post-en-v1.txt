@@ -1,0 +1,7 @@
+A scam warning is most useful before the money leaves your account.
+
+Google DeepMind and Singapore’s GovTech have built a two-stage, on-device approach: a lightweight classifier screens messages, then a fine-tuned Gemma model looks at suspicious conversations in more context.
+
+The design aims to keep the heavier analysis for cases that need it. Google says conversation processing stays on the device, with user consent, and app integration will roll out in phases. I’d like to see the false-alarm and battery numbers next.
+
+https://deepmind.google/blog/on-device-ai-scam-detection-mddi/

@@ -1,0 +1,3 @@
+I just recommended ChatGPT Slides, then ran into what looks like a bug.
+
+I tried turning a Page outline into an English deck. Instead, I got a blank slide and “t.split is not a function.” ChatGPT said the presentation tool failed while reading the Page and that no changes were saved.

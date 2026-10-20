@@ -1,0 +1,7 @@
+A cached SQL result can contain the right data in the wrong wire format.
+
+Cloudflare’s Hyperdrive MySQL postmortem is a neat example: two components shared a cache, but stored responses encoded for different protocol capabilities. Reading each other’s entries could produce empty results or hangs.
+
+The fix was to cache one canonical representation, then translate it for the client. A useful question for any shared cache: do all readers and writers agree on what those bytes mean?
+
+https://blog.cloudflare.com/hyperdrive-mysql/

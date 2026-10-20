@@ -1,0 +1,7 @@
+BVB tests video understanding by asking AI models to rebuild real indoor scenes in Blender, including the camera movement. Its latest leaderboard includes GPT-6 Astra, Claude Opus 5.5 and DeepSeek V4.1 Flash 1017.
+
+Here’s the original kitchen video alongside GPT-6 Astra’s reconstruction at high reasoning effort. To my eye, it captures much of the layout and camera movement, but it’s not exactly pretty. The visual polish still has a long way to go.
+
+I’m curious why Opus 5.5 isn’t in the homepage’s demo selector yet. It’s on the leaderboard, but the Claude demo there is still Opus 5. I’d like to see 5.5 tackle the same scene.
+
+https://yoloytang.me/BVB/

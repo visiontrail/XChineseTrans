@@ -1,0 +1,7 @@
+Google Research's Deep Review is designed to spot logical gaps, inconsistent claims and missing support in technical documents. It currently accepts PDFs and plain text, with two free reviews per week.
+
+One caveat: Google says uploads aren't used to train its models, but documents are stored for a year. I'd start with something non-confidential.
+
+The interface is pretty bare-bones. But could this be Google's next NotebookLM? A useful idea doesn't always arrive in a fancy package.
+
+https://research.google/blog/analyzing-technical-documents-with-deep-review/
