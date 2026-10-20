@@ -1,0 +1,258 @@
+{
+  "viewBox": "0 0 1080 1080",
+  "nodeCount": 8,
+  "edgeCount": 6,
+  "fontReady": true,
+  "fontFaces": [
+    {
+      "family": "Geist",
+      "weight": "400",
+      "status": "loaded"
+    },
+    {
+      "family": "Geist",
+      "weight": "500",
+      "status": "loaded"
+    },
+    {
+      "family": "Geist",
+      "weight": "600",
+      "status": "loaded"
+    }
+  ],
+  "outOfCanvas": [],
+  "overlaps": [],
+  "nodeFit": [
+    {
+      "node": "upstream",
+      "overflow": []
+    },
+    {
+      "node": "without",
+      "overflow": []
+    },
+    {
+      "node": "with",
+      "overflow": []
+    },
+    {
+      "node": "without-result",
+      "overflow": []
+    },
+    {
+      "node": "with-result",
+      "overflow": []
+    },
+    {
+      "node": "review",
+      "overflow": []
+    },
+    {
+      "node": "update",
+      "overflow": []
+    },
+    {
+      "node": "run-new",
+      "overflow": []
+    }
+  ],
+  "texts": [
+    {
+      "text": "GitHub Actions · Public preview",
+      "x": 64,
+      "y": 58,
+      "w": 352.46875,
+      "h": 27,
+      "font": "Geist, Arial, sans-serif",
+      "size": "24px"
+    },
+    {
+      "text": "Your code hasn't changed.",
+      "x": 64,
+      "y": 96,
+      "w": 657.4375,
+      "h": 59,
+      "font": "Geist, Arial, sans-serif",
+      "size": "52px"
+    },
+    {
+      "text": "So why did CI break?",
+      "x": 64,
+      "y": 156,
+      "w": 525.625,
+      "h": 59,
+      "font": "Geist, Arial, sans-serif",
+      "size": "52px"
+    },
+    {
+      "text": "Same project. Same workflow. Still using build@v2.",
+      "x": 64,
+      "y": 232,
+      "w": 707.375,
+      "h": 35,
+      "font": "Geist, Arial, sans-serif",
+      "size": "30px"
+    },
+    {
+      "text": "Third-party build action",
+      "x": 88,
+      "y": 318,
+      "w": 289.546875,
+      "h": 30,
+      "font": "Geist, Arial, sans-serif",
+      "size": "26px"
+    },
+    {
+      "text": "Upstream moves v2:  commit A → commit B",
+      "x": 88,
+      "y": 359,
+      "w": 697.484375,
+      "h": 38,
+      "font": "Geist, Arial, sans-serif",
+      "size": "34px"
+    },
+    {
+      "text": "Without a lockfile",
+      "x": 88,
+      "y": 506,
+      "w": 233.96875,
+      "h": 32,
+      "font": "Geist, Arial, sans-serif",
+      "size": "28px"
+    },
+    {
+      "text": "v2 resolves to B",
+      "x": 88,
+      "y": 549,
+      "w": 279.4375,
+      "h": 41,
+      "font": "Geist, Arial, sans-serif",
+      "size": "36px"
+    },
+    {
+      "text": "With an Actions lockfile",
+      "x": 576,
+      "y": 506,
+      "w": 314.453125,
+      "h": 32,
+      "font": "Geist, Arial, sans-serif",
+      "size": "28px"
+    },
+    {
+      "text": "v2 → locked A",
+      "x": 576,
+      "y": 549,
+      "w": 241.171875,
+      "h": 41,
+      "font": "Geist, Arial, sans-serif",
+      "size": "36px"
+    },
+    {
+      "text": "Next CI may break",
+      "x": 145.4453125,
+      "y": 693,
+      "w": 301.109375,
+      "h": 38,
+      "font": "Geist, Arial, sans-serif",
+      "size": "34px"
+    },
+    {
+      "text": "Next CI still runs A",
+      "x": 631.203125,
+      "y": 693,
+      "w": 305.59375,
+      "h": 38,
+      "font": "Geist, Arial, sans-serif",
+      "size": "34px"
+    },
+    {
+      "text": "To upgrade the locked action:",
+      "x": 64,
+      "y": 778,
+      "w": 364.453125,
+      "h": 30,
+      "font": "Geist, Arial, sans-serif",
+      "size": "26px"
+    },
+    {
+      "text": "Review B",
+      "x": 125.1796875,
+      "y": 823,
+      "w": 141.640625,
+      "h": 36,
+      "font": "Geist, Arial, sans-serif",
+      "size": "32px"
+    },
+    {
+      "text": "Approve upgrade",
+      "x": 98.5546875,
+      "y": 864,
+      "w": 194.890625,
+      "h": 27,
+      "font": "Geist, Arial, sans-serif",
+      "size": "24px"
+    },
+    {
+      "text": "Update lock to B",
+      "x": 431.5,
+      "y": 842,
+      "w": 241,
+      "h": 35,
+      "font": "Geist, Arial, sans-serif",
+      "size": "30px"
+    },
+    {
+      "text": "Run B",
+      "x": 856.90625,
+      "y": 841,
+      "w": 90.1875,
+      "h": 36,
+      "font": "Geist, Arial, sans-serif",
+      "size": "32px"
+    },
+    {
+      "text": "Transitive action dependencies are covered.",
+      "x": 64,
+      "y": 938,
+      "w": 484.765625,
+      "h": 27,
+      "font": "Geist, Arial, sans-serif",
+      "size": "24px"
+    },
+    {
+      "text": "Called reusable workflows use their own repo's lockfile.",
+      "x": 64,
+      "y": 970,
+      "w": 618.671875,
+      "h": 27,
+      "font": "Geist, Arial, sans-serif",
+      "size": "24px"
+    },
+    {
+      "text": "Locking does not certify safety.",
+      "x": 64,
+      "y": 1018,
+      "w": 357.265625,
+      "h": 27,
+      "font": "Geist, Arial, sans-serif",
+      "size": "24px"
+    },
+    {
+      "text": "LeoGuoLabs",
+      "x": 874.0625,
+      "y": 1018,
+      "w": 141.9375,
+      "h": 27,
+      "font": "Geist, Arial, sans-serif",
+      "size": "24px"
+    }
+  ],
+  "mobile": {
+    "pageWidth": 390,
+    "viewport": 390,
+    "scrollerWidth": 390,
+    "scrollerContentWidth": 1080
+  },
+  "pageErrors": [],
+  "externalRequests": []
+}
