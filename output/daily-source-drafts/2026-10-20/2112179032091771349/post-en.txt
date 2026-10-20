@@ -1,0 +1,5 @@
+MiniMax M3.1 Flash has a very low listed API price: $0.15 per million input tokens and $0.60 per million output tokens.
+
+One detail worth checking before comparing costs or latency: the API defaults to max reasoning effort. The docs support low through max, but thinking cannot be switched off. Set the effort explicitly and compare completed tasks, not just token prices.
+
+The API is available now. MiniMax says model weights are coming on October 23.
