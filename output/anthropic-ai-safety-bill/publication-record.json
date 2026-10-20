@@ -22,7 +22,7 @@
     "composer_checked": true,
     "native_link_card_verified": true,
     "composer_exact_text_match": true,
-    "composer_text_characters": 934,
+    "composer_text_characters": 891,
     "composer_post_enabled": true,
     "native_link_card_image_loaded": true
   },
@@ -33,10 +33,24 @@
   "publication_submitted": false,
   "published_url": null,
   "publicly_verified": false,
-  "text_sha256": "b4f988e1d026262797dcd77ef0f39317704fd344c9866f60483f4cd6962346c6",
+  "text_sha256": "602c1050517dadb6b635c52f794b1654f0531904fe987ca6e5ceeb65eecccdc2",
   "review_screenshots": [
-    "composer-top.jpg",
-    "composer-card.jpg"
+    "composer-v2.jpg",
+    "revised-paragraph-v2.jpg"
   ],
-  "browser_handoff": "Draft retained in built-in browser; no submission."
+  "browser_handoff": "Draft retained in built-in browser; no submission.",
+  "version": 2,
+  "updated_at": "2026-10-20T01:43:10Z",
+  "superseded_versions": [
+    {
+      "version": 1,
+      "text_path": "post-en-v1.txt",
+      "review_screenshots": [
+        "composer-top.jpg",
+        "composer-card.jpg"
+      ],
+      "reason": "User removed empty first-person framing; concrete questions retained."
+    }
+  ],
+  "revision_authorization": "User explicitly requested removal of empty opinion lead-ins and preservation of the substantive point. Publication approval has not been given."
 }

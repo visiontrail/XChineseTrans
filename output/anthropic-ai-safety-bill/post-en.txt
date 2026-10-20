@@ -4,6 +4,6 @@ According to POLITICO, its draft would require independent evaluations and incid
 
 Commerce would have to seek a suspension from a federal judge in Washington, D.C.; other federal agencies would be barred from suspending the model. The proposal would also override some state requirements on disclosure, evaluation and incident reporting.
 
-Clear rules and judicial oversight make sense. I’d watch the enforcement details closely: can regulators move fast enough as new risks emerge, and does federal preemption leave gaps in state protections?
+Clear rules and judicial oversight make sense. Can regulators move fast enough as new risks emerge, and does federal preemption leave gaps in state protections?
 
 https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654

@@ -68,7 +68,7 @@ Keep fact ownership accurate. A video playing does not prove the showcased appli
 - Ordinary news or demonstrations usually need a few sentences and short paragraphs. Quote commentary often needs one or two sentences; use two short paragraphs when necessary to explain the substance. These are starting points, not fixed quotas. Respect explicit length requests and let genuinely complex subjects be longer.
 - Group sentences by meaning and separate paragraphs with blank lines. Do not flatten the post into a wall of text or impose one sentence per paragraph unless requested.
 - Deliver one finished version rather than unsolicited alternatives. The accompanying text should explain the point or add a view, not narrate every row of an infographic.
-- First-person opinions are allowed; first-person experiences require evidence from the user's own account or work. Keep reported events and unverified claims appropriately qualified.
+- State substantive judgments, concerns, and questions directly. Omit empty first-person lead-ins such as “I’d watch the enforcement details closely:”, “I think”, “I believe”, “In my view”, or “我认为” when they add no information; keep the concrete point that follows. Express the opinion itself without announcing that an opinion is coming. Preserve meaningful attribution and uncertainty. First-person experiences still require evidence from the user's own account or work.
 
 For standalone adaptations, do not automatically add the supplied blogger's name, handle, source-post link, or “Translated from,” “Adapted from,” “Inspired by,” and similar credits. Do not restore attribution or wording the user removed. Keep source tracing in research records.
 

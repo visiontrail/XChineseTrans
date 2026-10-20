@@ -29,3 +29,5 @@ Cross-check: Reuters syndication via CNA, https://www.channelnewsasia.com/busine
 The closing paragraph is proposed author judgment, not a claimed test or legal conclusion. No allegation about intent or an assertion that the first 49 lives are unprotected is included.
 
 Publication requires one final-content approval under AGENTS.md line 171. No approval or direct-publication waiver has been received for this version.
+
+2026-10-20 revision 2: User requested a standing preference to remove empty first-person prefixes. Removed only the framing before the concrete closing questions; capitalized Can. Composer DOM paragraphs exactly match the 891-character revised draft. Prior text and screenshots retained as version 1. Publication remains pending approval.
