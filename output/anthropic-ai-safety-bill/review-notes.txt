@@ -31,3 +31,5 @@ The closing paragraph is proposed author judgment, not a claimed test or legal c
 Publication requires one final-content approval under AGENTS.md line 171. No approval or direct-publication waiver has been received for this version.
 
 2026-10-20 revision 2: User requested a standing preference to remove empty first-person prefixes. Removed only the framing before the concrete closing questions; capitalized Can. Composer DOM paragraphs exactly match the 891-character revised draft. Prior text and screenshots retained as version 1. Publication remains pending approval.
+
+2026-10-20 publication: User explicitly approved revision 2 with 确认发布. Verified current @LeoGuoLabs session and exact composer text; no result in exact-opening-phrase duplicate search. Submitted once. Reopened https://x.com/LeoGuoLabs/status/2112360042913808871 and verified all 820 prose characters, standalone format, loaded POLITICO image card, October 20 09:47 Singapore timestamp, and the published short link resolving to the intended POLITICO article. No extra commentary or media added. Status: publicly_verified.

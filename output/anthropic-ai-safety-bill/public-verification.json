@@ -1,0 +1,28 @@
+{
+  "url": "https://x.com/LeoGuoLabs/status/2112360042913808871",
+  "verified_at": "2026-10-20T01:49:33.873947+00:00",
+  "account": "@LeoGuoLabs",
+  "format": "standalone",
+  "approved_version": 2,
+  "approved_text_sha256": "602c1050517dadb6b635c52f794b1654f0531904fe987ca6e5ceeb65eecccdc2",
+  "body_exact_match": true,
+  "body_characters": 820,
+  "url_display": "X rendered the approved trailing URL as a native article card.",
+  "card_title": "Anthropic quietly pitches its own AI safety bill to lawmakers",
+  "card_image": {
+    "loaded": true,
+    "naturalWidth": 1200,
+    "naturalHeight": 800,
+    "src": "https://pbs.twimg.com/card_img/2111225057976766464/Ku2wL6cD?format=jpg&name=medium"
+  },
+  "link_short_url": "https://t.co/JBjecO42ws",
+  "link_destination_verified": "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654",
+  "video_count": 0,
+  "separate_media_attachments": 0,
+  "quote_target": null,
+  "screenshots": [
+    "published-page.jpg",
+    "published-card.jpg"
+  ],
+  "submission_count_this_task": 1
+}

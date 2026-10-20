@@ -1,5 +1,5 @@
 {
-  "status": "pending_approval",
+  "status": "publicly_verified",
   "account": "@LeoGuoLabs",
   "source_post": "https://x.com/leo114119/status/2112082478810935335",
   "format": "standalone",
@@ -24,22 +24,36 @@
     "composer_exact_text_match": true,
     "composer_text_characters": 891,
     "composer_post_enabled": true,
-    "native_link_card_image_loaded": true
+    "native_link_card_image_loaded": true,
+    "public_duplicate_search": "Exact opening phrase searched from:LeoGuoLabs in Latest; no results before submission.",
+    "public_account_verified": "@LeoGuoLabs",
+    "public_body_exact_match": true,
+    "public_body_characters": 820,
+    "public_format": "standalone",
+    "public_quote_present": false,
+    "public_native_link_card_verified": true,
+    "public_native_link_card_image_loaded": true,
+    "public_link_destination_verified": "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654",
+    "public_timestamp": "2026-10-20 09:47 Asia/Singapore"
   },
   "approval": {
-    "received": false,
-    "direct_publish_waiver": false
+    "received": true,
+    "direct_publish_waiver": false,
+    "user_message": "确认发布",
+    "version": 2,
+    "text_sha256": "602c1050517dadb6b635c52f794b1654f0531904fe987ca6e5ceeb65eecccdc2",
+    "recorded_at": "2026-10-20T01:47:19.396878+00:00"
   },
-  "publication_submitted": false,
-  "published_url": null,
-  "publicly_verified": false,
+  "publication_submitted": true,
+  "published_url": "https://x.com/LeoGuoLabs/status/2112360042913808871",
+  "publicly_verified": true,
   "text_sha256": "602c1050517dadb6b635c52f794b1654f0531904fe987ca6e5ceeb65eecccdc2",
   "review_screenshots": [
     "composer-v2.jpg"
   ],
-  "browser_handoff": "Draft retained in built-in browser; no submission.",
+  "browser_handoff": "Published page retained in built-in browser; composer submitted once.",
   "version": 2,
-  "updated_at": "2026-10-20T01:43:10Z",
+  "updated_at": "2026-10-20T01:49:33.873947+00:00",
   "superseded_versions": [
     {
       "version": 1,
@@ -51,5 +65,12 @@
       "reason": "User removed empty first-person framing; concrete questions retained."
     }
   ],
-  "revision_authorization": "User explicitly requested removal of empty opinion lead-ins and preservation of the substantive point. Publication approval has not been given."
+  "revision_authorization": "User requested removal of empty opinion lead-ins while retaining the substantive questions, then explicitly approved publication of version 2.",
+  "submitted_at": "2026-10-20T01:47:43.548736+00:00",
+  "verified_at": "2026-10-20T01:49:33.873947+00:00",
+  "public_evidence": [
+    "published-page.jpg",
+    "published-card.jpg",
+    "public-verification.json"
+  ]
 }
