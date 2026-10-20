@@ -1,0 +1,31 @@
+Prepared for @LeoGuoLabs on 2026-10-20 (Asia/Singapore).
+
+Format: one standalone English post with a native POLITICO article card. The supplied post contains a website card, no relevant quoted original post, and no video or explanatory graphic. No separate media attachment or ALT is required.
+
+Supplied post: https://x.com/leo114119/status/2112082478810935335
+Author: Leo · Building w/ AI (@leo114119), not @LeoGuoLabs.
+Source read in the authenticated built-in browser. X initially displayed an automatic English translation; Show original was selected and the Chinese text was read. The automatic translation incorrectly rendered $10 亿 as $10 billion. The Chinese and POLITICO both refer to $1 billion.
+
+Main reporting: Owen Dahlkamp, POLITICO, https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654
+Full article read in browser, dated October 16, 2026 US / October 17, 2026 05:45 GMT+8. Its report describes a draft circulated to lawmakers, not enacted law. The article includes an Anthropic spokesperson's response linking the proposal to the June framework.
+
+Key checked distinctions:
+- The suspension trigger concerns foreseeable, imminent risk; harm does not have to occur first.
+- The thresholds are more than $1 billion in damages OR death/serious injury to more than 50 people, and the relevant risks involve bioweapons, evasion of developer control, or cyberattack.
+- These are reported suspension thresholds, not thresholds below which all evaluation, reporting or other legal obligations disappear.
+- Commerce would seek court action; a federal judge in the District of Columbia could order suspension. The report says other federal agencies would be barred from suspending development, deployment or internal use.
+- Reported state-law preemption concerns certain disclosure, evaluation and incident-reporting requirements; do not describe all state AI law as displaced.
+- Mandatory independent evaluations and incident reporting are included to avoid presenting only the limits on enforcement.
+
+Official primary policy source checked:
+Anthropic's Advanced AI Framework, June 2026, https://www-cdn.anthropic.com/files/4zrzovbb/website/0a58d567024a8b448ff15158ebc3625328dfcc1f.pdf
+Pages 4–5 describe narrow, function-specific preemption under a sufficiently strong federal regime and preservation of otherwise applicable state liability. Pages 10–12 discuss enforcement and multiple possible approaches, including judicial enforcement and provisional or expedited remedies. This is contextual policy material, not the later draft bill; do not conflate the documents or claim the June PDF independently verifies every detail of the October draft.
+
+Original draft attachment access limitation:
+https://subscriber.politicopro.com/f/?id=000001a1-4687-dc9a-a9a3-5fff86d60000 redirects to POLITICO Pro login. The full bill was not accessed and no login or access bypass was attempted. Exact draft provisions are attributed to POLITICO's reporting.
+
+Cross-check: Reuters syndication via CNA, https://www.channelnewsasia.com/business/anthropic-quietly-pitches-its-own-ai-safety-bill-lawmakers-politico-reports-6467581. This is a retelling of POLITICO, not an independent confirmation of the bill. Focused searches did not identify a later official correction; this is not a claim that none exists.
+
+The closing paragraph is proposed author judgment, not a claimed test or legal conclusion. No allegation about intent or an assertion that the first 49 lives are unprotected is included.
+
+Publication requires one final-content approval under AGENTS.md line 171. No approval or direct-publication waiver has been received for this version.

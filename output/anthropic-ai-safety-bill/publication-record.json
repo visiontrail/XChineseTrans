@@ -1,0 +1,42 @@
+{
+  "status": "pending_approval",
+  "account": "@LeoGuoLabs",
+  "source_post": "https://x.com/leo114119/status/2112082478810935335",
+  "format": "standalone",
+  "quote_target": null,
+  "primary_article": "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654",
+  "text_path": "post-en.txt",
+  "media_attachments": [],
+  "native_link_card": "POLITICO article",
+  "relevant_source_video_count": 0,
+  "prepared_at": "2026-10-20T01:35:43Z",
+  "checks": {
+    "original_language_read": true,
+    "relevant_quote_present": false,
+    "source_article_read_in_browser": true,
+    "official_policy_framework_checked": true,
+    "full_draft_bill_accessed": false,
+    "full_draft_bill_limitation": "POLITICO Pro login required",
+    "duplicate_local_source_record_found": false,
+    "active_account_verified": "@LeoGuoLabs",
+    "composer_checked": true,
+    "native_link_card_verified": true,
+    "composer_exact_text_match": true,
+    "composer_text_characters": 934,
+    "composer_post_enabled": true,
+    "native_link_card_image_loaded": true
+  },
+  "approval": {
+    "received": false,
+    "direct_publish_waiver": false
+  },
+  "publication_submitted": false,
+  "published_url": null,
+  "publicly_verified": false,
+  "text_sha256": "b4f988e1d026262797dcd77ef0f39317704fd344c9866f60483f4cd6962346c6",
+  "review_screenshots": [
+    "composer-top.jpg",
+    "composer-card.jpg"
+  ],
+  "browser_handoff": "Draft retained in built-in browser; no submission."
+}
