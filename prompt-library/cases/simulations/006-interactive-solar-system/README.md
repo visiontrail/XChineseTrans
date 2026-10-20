@@ -1,6 +1,5 @@
 # 006 · 交互式太阳系
 
-- 提示词版本：v2
 - 收录日期：2026-10-20（Asia/Singapore）
 - 来源：按用户要求扩展的原创测试提示词
 - 主分类：[模拟与可视化](../README.md)
@@ -15,13 +14,6 @@ Build an interactive solar system webpage.
 ```
 
 复制用文件：[prompt.txt](prompt.txt)。中文理解：做一个可以交互探索太阳系的网页。
-
-## 版本记录
-
-| 版本 | 提示词文件 | 说明 |
-| --- | --- | --- |
-| v2（当前） | [prompt.txt](prompt.txt) | 根据用户反馈明确交付为交互式网页，保持一句话 |
-| v1（归档） | [prompt-v1.txt](prompt-v1.txt) | 原始请求包含交互，但未明确运行平台 |
 
 ## 事后观察
 
