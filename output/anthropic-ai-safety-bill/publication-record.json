@@ -35,8 +35,7 @@
   "publicly_verified": false,
   "text_sha256": "602c1050517dadb6b635c52f794b1654f0531904fe987ca6e5ceeb65eecccdc2",
   "review_screenshots": [
-    "composer-v2.jpg",
-    "revised-paragraph-v2.jpg"
+    "composer-v2.jpg"
   ],
   "browser_handoff": "Draft retained in built-in browser; no submission.",
   "version": 2,
