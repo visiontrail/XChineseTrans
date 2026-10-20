@@ -1,0 +1,5 @@
+Restaurant data is a useful reality check for browser agents. Getting the menu quickly matters less if the prices need fixing afterward.
+
+The task was to collect restaurant menus, prices, and reviews from Google Maps.
+
+In Josh’s informal test, DeepSeek in its own harness tied Opus at 29.5 points, but took 9–16 minutes per place. Opus in Chrome took 4–7; Sol in fast mode took about 3, scoring 27 points. An interesting workflow comparison, though the different browsers and modes make it hard to isolate model quality.
