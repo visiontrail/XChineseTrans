@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#090c10">
+  <meta name="description" content="A little perspective. Explore an interactive solar system, meet the planets, and set the universe in motion.">
+  <title>Orbit — A little perspective</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23090c10'/%3E%3Ccircle cx='16' cy='16' r='5' fill='%23e6b980'/%3E%3Cellipse cx='16' cy='16' rx='14' ry='7' transform='rotate(-35 16 16)' fill='none' stroke='%23e6b980' stroke-width='1.5'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <svg class="svg-defs" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <symbol id="i-plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></symbol>
+    <symbol id="i-minus" viewBox="0 0 24 24"><path d="M5 12h14"/></symbol>
+    <symbol id="i-reset" viewBox="0 0 24 24"><path d="M4 10a8 8 0 1 1 1 7M4 4v6h6"/></symbol>
+    <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M5 12h14m-5-5 5 5-5 5"/></symbol>
+    <symbol id="i-out" viewBox="0 0 24 24"><path d="M7 17 17 7M7 7h10v10"/></symbol>
+    <symbol id="i-info" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5"/><path d="M12 11v6m0-10v1"/></symbol>
+    <symbol id="i-close" viewBox="0 0 24 24"><path d="m6 6 12 12M6 18 18 6"/></symbol>
+    <symbol id="i-view" viewBox="0 0 24 24"><ellipse cx="12" cy="12" rx="9" ry="4" transform="rotate(-25 12 12)"/><circle cx="12" cy="12" r="2"/></symbol>
+    <symbol id="i-label" viewBox="0 0 24 24"><path d="M4 5h16M12 5v14M8 19h8"/></symbol>
+    <symbol id="i-orbit" viewBox="0 0 24 24"><ellipse cx="12" cy="12" rx="10" ry="5" transform="rotate(-35 12 12)"/><circle cx="12" cy="12" r="2"/></symbol>
+  </svg>
+
+  <header class="site-header">
+    <a class="brand" href="./" aria-label="Orbit home">
+      <svg class="brand-mark" viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="5.5"/><ellipse cx="20" cy="20" rx="18" ry="8" transform="rotate(-35 20 20)"/><circle cx="34.5" cy="11" r="2.5"/></svg>
+      <span>orbit<span class="brand-dot">.</span></span>
+    </a>
+    <span class="header-descriptor">A LITTLE PERSPECTIVE</span>
+    <nav class="header-nav" aria-label="Main navigation">
+      <span class="nav-active">Explore</span>
+      <button id="about-button">About the atlas <svg><use href="#i-out"/></svg></button>
+    </nav>
+    <span class="system-status"><span></span> SOLAR SYSTEM ATLAS <b>01</b></span>
+  </header>
+
+  <main>
+    <section class="universe" aria-label="Interactive solar system">
+      <canvas id="space" tabindex="0" aria-label="Solar system. Drag to rotate, scroll to zoom. Select a planet using the buttons below; space pauses the simulation."></canvas>
+      <div class="scene-heading">
+        <div class="eyebrow"><span class="tiny-line"></span> OUR COSMIC NEIGHBORHOOD</div>
+        <h1>The solar system<span>.</span></h1>
+        <p>Eight worlds. One star. Endless curiosity.</p>
+      </div>
+
+      <div class="view-switch" role="group" aria-label="Viewing angle">
+        <button id="perspective-view" aria-pressed="true">Perspective</button>
+        <button id="top-view" aria-pressed="false">Top down</button>
+      </div>
+
+      <aside class="planet-panel" id="planet-panel" aria-label="Selected celestial body">
+        <div class="panel-eyebrow"><span id="planet-order">03 / 08</span><span id="planet-category">TERRESTRIAL PLANET</span></div>
+        <div class="planet-title-row"><h2 id="planet-name">Earth</h2><canvas id="planet-portrait" width="160" height="160" aria-hidden="true"></canvas></div>
+        <p id="planet-tagline" class="planet-tagline">A world like no other.</p>
+        <p id="planet-description" class="planet-description">Our pale blue dot is the only world known to support life, wrapped in an atmosphere that keeps liquid water on its surface.</p>
+        <dl class="planet-stats">
+          <div><dt>DIAMETER</dt><dd id="stat-diameter">12,742 <small>km</small></dd></div>
+          <div><dt>FROM THE SUN</dt><dd id="stat-distance">1.00 <small>AU</small></dd></div>
+          <div><dt>ONE YEAR</dt><dd id="stat-year">365.25 <small>days</small></dd></div>
+          <div><dt>ONE ROTATION</dt><dd id="stat-day">23.9 <small>hours</small></dd></div>
+        </dl>
+        <div class="planet-note"><span class="note-star">✧</span><p id="planet-fact">Sunlight takes about 8 minutes and 20 seconds to reach Earth.</p></div>
+        <button id="next-planet" class="next-planet"><span>Next stop <strong id="next-name">Mars</strong></span><svg><use href="#i-arrow"/></svg></button>
+      </aside>
+
+      <div class="scene-bottom-note"><span class="scene-cross">+</span><span id="scene-instruction">Drag to orbit <i>·</i> Scroll to explore</span></div>
+      <div class="scene-tools" role="group" aria-label="Scene controls">
+        <button id="labels-toggle" class="icon-button active" aria-label="Show planet labels" aria-pressed="true" title="Toggle labels"><svg><use href="#i-label"/></svg></button>
+        <button id="orbits-toggle" class="icon-button active" aria-label="Show orbit paths" aria-pressed="true" title="Toggle orbits"><svg><use href="#i-orbit"/></svg></button>
+        <span class="tool-divider"></span>
+        <button id="zoom-out" class="icon-button" aria-label="Zoom out" title="Zoom out (−)"><svg><use href="#i-minus"/></svg></button>
+        <span id="zoom-value" aria-live="polite">100%</span>
+        <button id="zoom-in" class="icon-button" aria-label="Zoom in" title="Zoom in (+)"><svg><use href="#i-plus"/></svg></button>
+        <span class="tool-divider"></span>
+        <button id="reset" class="icon-button" aria-label="Reset simulation" title="Reset simulation (R)"><svg><use href="#i-reset"/></svg></button>
+      </div>
+      <div id="planet-tooltip" class="planet-tooltip" hidden></div>
+    </section>
+
+    <section class="planet-selector" aria-label="Choose a planet">
+      <div class="selector-caption"><span class="eyebrow">PICK A WORLD</span><span>Go somewhere new.</span></div>
+      <div class="planet-list" id="planet-list"></div>
+    </section>
+
+    <section class="simulation-bar" aria-label="Simulation controls">
+      <div class="playback-group">
+        <button id="play-pause" class="play-button" aria-label="Pause simulation" aria-pressed="false"><span class="pause-glyph"><i></i><i></i></span></button>
+        <div><span class="control-label" id="playback-label">IN MOTION</span><span class="control-description">Let the worlds go round.</span></div>
+      </div>
+      <div class="speed-control"><label for="speed">TIME SPEED <span id="speed-output">20 days / sec</span></label><div class="slider-row"><span>Slow</span><input id="speed" type="range" min="0" max="4" value="2" step="1" aria-valuetext="20 days per second"><span>Fast</span></div></div>
+      <div class="elapsed-time"><span class="control-label">SIMULATED TIME</span><output id="elapsed">YEAR 00 <span>·</span> DAY 000</output></div>
+      <button class="keyboard-help" id="help-button" aria-label="Keyboard shortcuts"><span>?</span></button>
+    </section>
+  </main>
+
+  <footer class="site-footer"><span>Made for the curious.</span><span>Sizes & distances are illustrative. Orbital periods are relative.</span><button id="scale-info">A NOTE ON SCALE <svg><use href="#i-info"/></svg></button></footer>
+
+  <dialog id="about-dialog" aria-labelledby="about-title">
+    <button class="dialog-close icon-button" aria-label="Close"><svg><use href="#i-close"/></svg></button>
+    <div class="eyebrow">A LITTLE PERSPECTIVE</div>
+    <h2 id="about-title">Meet your neighborhood.</h2>
+    <p>Orbit is a small, interactive atlas of the Sun and its eight planets. Choose a world, slow down, and look around.</p>
+    <h3>A note on scale</h3>
+    <p>Space is mostly space. To keep every planet within reach, the planets are enlarged and the distances compressed. Paths are circular, positions are illustrative, and moons are omitted. This is an explorable model, not an ephemeris.</p>
+    <p>The planets share one simulation clock. Their orbital periods are proportional to their real periods, so Mercury races around while Neptune takes its time. Planetary facts are rounded; one rotation is relative to the stars, and an AU is Earth's average distance from the Sun.</p>
+    <a class="source-link" href="https://science.nasa.gov/solar-system/planets/" target="_blank" rel="noopener noreferrer">Keep exploring with NASA <svg><use href="#i-out"/></svg></a>
+    <div class="dialog-foot">ONE STAR. EIGHT WORLDS. YOUR CURIOSITY.</div>
+  </dialog>
+  <dialog id="help-dialog" aria-labelledby="help-title">
+    <button class="dialog-close icon-button" aria-label="Close"><svg><use href="#i-close"/></svg></button>
+    <div class="eyebrow">MISSION CONTROLS</div>
+    <h2 id="help-title">Make yourself at home.</h2>
+    <dl class="shortcuts"><div><dt>Pause / resume</dt><dd><kbd>Space</kbd></dd></div><div><dt>Previous / next planet</dt><dd><kbd>←</kbd> <kbd>→</kbd></dd></div><div><dt>Zoom in / out</dt><dd><kbd>+</kbd> <kbd>−</kbd></dd></div><div><dt>Reset everything</dt><dd><kbd>R</kbd></dd></div><div><dt>Rotate the view</dt><dd>Drag the sky</dd></div><div><dt>Zoom on a touch screen</dt><dd>Pinch with two fingers</dd></div></dl>
+    <p class="help-note">You can also tab through every control and planet. Press Escape to close this window.</p>
+  </dialog>
+  <p id="announcement" class="sr-only" aria-live="polite"></p>
+  <noscript><div class="noscript">This solar system needs JavaScript to set the planets in motion. Enable JavaScript, then reload this page.</div></noscript>
+</body>
+</html>

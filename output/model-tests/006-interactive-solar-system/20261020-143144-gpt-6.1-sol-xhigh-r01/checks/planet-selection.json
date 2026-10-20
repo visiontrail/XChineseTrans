@@ -1,0 +1,46 @@
+[
+  {
+    "check": "Click Sun in canvas",
+    "observed": "Sun"
+  },
+  {
+    "check": "Select Mercury",
+    "passed": true,
+    "observed": "Mercury"
+  },
+  {
+    "check": "Select Venus",
+    "passed": true,
+    "observed": "Venus"
+  },
+  {
+    "check": "Select Earth",
+    "passed": true,
+    "observed": "Earth"
+  },
+  {
+    "check": "Select Mars",
+    "passed": true,
+    "observed": "Mars"
+  },
+  {
+    "check": "Select Jupiter",
+    "passed": true,
+    "observed": "Jupiter"
+  },
+  {
+    "check": "Select Saturn",
+    "passed": true,
+    "observed": "Saturn"
+  },
+  {
+    "check": "Select Uranus",
+    "passed": true,
+    "observed": "Uranus"
+  },
+  {
+    "check": "Select Neptune",
+    "passed": true,
+    "observed": "Neptune"
+  }
+]

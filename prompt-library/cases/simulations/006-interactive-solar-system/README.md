@@ -5,7 +5,7 @@
 - 主分类：[模拟与可视化](../README.md)
 - 呈现形式：可在浏览器中运行和操作的交互式网页
 - 标签：天文 / 空间表达 / 科普
-- 当前状态：已收录，尚未运行测试
+- 当前状态：已运行；2026-10-20 完成 gpt-6.1-sol / xhigh 测试，结果及基本检查已归档
 
 ## 提示词
 
@@ -22,3 +22,7 @@ Build an interactive solar system webpage.
 以上只用于观察，不随提示词发送，也不预设三维、真实比例或某种交互方式。演示时展示产出实际支持的操作，例如选择天体、改变视角或调整时间；未提供的操作不作为额外要求。
 
 运行结果使用 [测试记录模板](../../../templates/run-record.md)，保存到 `output/model-tests/006-interactive-solar-system/` 对应的运行目录。
+
+## 运行记录
+
+- [2026-10-20 · gpt-6.1-sol · xhigh · r01](../../../../output/model-tests/006-interactive-solar-system/20261020-143144-gpt-6.1-sol-xhigh-r01/record.md)：已完成；Orbit 交互式网页，保留首版及两处 CSS 修复记录，桌面和手机基本检查通过。

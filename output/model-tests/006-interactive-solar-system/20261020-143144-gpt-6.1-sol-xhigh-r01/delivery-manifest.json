@@ -1,0 +1,22 @@
+{
+  "completed_at": "2026-10-20T14:44:46+08:00",
+  "version": "R02",
+  "files": {
+    "README.md": {
+      "sha256": "e9202d2a2ccc7518c174ffa6b72dd146b8805ea79b137e8880c511c4184a1d2b",
+      "bytes": 1938
+    },
+    "app.js": {
+      "sha256": "b9aec16964c5615f3021de561d610cb8f7039f56423525d2b2f679d4965e7166",
+      "bytes": 24780
+    },
+    "index.html": {
+      "sha256": "43a49486f9ddf0c939bd0a90e2d938db23a7acaf4fe46db640007a155229c061",
+      "bytes": 9816
+    },
+    "styles.css": {
+      "sha256": "bc0902d3e8f1d560b0e865b619042953a1e970e3ab6308ca8b7307d83b1fbeb1",
+      "bytes": 19578
+    }
+  }
+}

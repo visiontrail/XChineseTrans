@@ -1,0 +1,85 @@
+- banner:
+  - link "Orbit home":
+    - /url: ./
+    - generic: orbit.
+  - navigation "Main navigation":
+    - generic: Explore
+    - button "About the atlas" [active]:
+      - text: About the atlas
+  - text: SOLAR SYSTEM ATLAS
+  - generic: "01"
+- main:
+  - region "Interactive solar system":
+    - generic "Solar system. Drag to rotate, scroll to zoom. Select a planet using the buttons below; space pauses the simulation."
+    - generic: OUR COSMIC NEIGHBORHOOD
+    - heading "The solar system." [level=1]
+    - paragraph: Eight worlds. One star. Endless curiosity.
+    - group "Viewing angle":
+      - button "Perspective" [pressed]
+      - button "Top down"
+    - complementary "Selected celestial body":
+      - generic: 03 / 08
+      - generic: TERRESTRIAL PLANET
+      - heading "Earth" [level=2]
+      - paragraph: A world like no other.
+      - paragraph: Our pale blue dot is the only world known to support life, wrapped in an atmosphere that keeps liquid water on its surface.
+      - term: DIAMETER
+      - definition: 12,742 km
+      - term: FROM THE SUN
+      - definition: 1.00 AU
+      - term: ONE YEAR
+      - definition: 365.25 days
+      - term: ONE ROTATION
+      - definition: 23.9 hours
+      - generic: ✧
+      - paragraph: Sunlight takes about 8 minutes and 20 seconds to reach Earth.
+      - button "Next stop Mars":
+        - text: Next stop
+        - strong: Mars
+    - generic: +
+    - generic: Drag to orbit · Scroll to explore
+    - group "Scene controls":
+      - button "Show planet labels" [pressed]:
+      - button "Show orbit paths" [pressed]:
+      - button "Zoom out":
+      - generic: 100%
+      - button "Zoom in":
+      - button "Reset simulation":
+  - region "Choose a planet":
+    - generic: PICK A WORLD
+    - generic: Go somewhere new.
+    - button "Explore Mercury":
+      - generic: Mercury
+    - button "Explore Venus":
+      - generic: Venus
+    - button "Explore Earth" [pressed]:
+      - generic: Earth
+    - button "Explore Mars":
+      - generic: Mars
+    - button "Explore Jupiter":
+      - generic: Jupiter
+    - button "Explore Saturn":
+      - generic: Saturn
+    - button "Explore Uranus":
+      - generic: Uranus
+    - button "Explore Neptune":
+      - generic: Neptune
+  - region "Simulation controls":
+    - button "Resume simulation" [pressed]
+    - generic: TAKING A BREATHER
+    - generic: Let the worlds go round.
+    - text: TIME SPEED
+    - generic: 20 days / sec
+    - generic: Slow
+    - slider "TIME SPEED 20 days / sec": "2"
+    - generic: Fast
+    - generic: SIMULATED TIME
+    - status: YEAR 00 · DAY 005
+    - button "Keyboard shortcuts":
+      - generic: "?"
+- contentinfo:
+  - generic: Made for the curious.
+  - generic: Sizes & distances are illustrative. Orbital periods are relative.
+  - button "A NOTE ON SCALE":
+    - text: A NOTE ON SCALE
+- paragraph: Simulation reset. Earth selected.
