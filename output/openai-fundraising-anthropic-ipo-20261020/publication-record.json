@@ -19,7 +19,7 @@
     "author": "DeItaone"
   },
   "prepared_at": "2026-10-20T01:52:30.008290+00:00",
-  "final_text": "At $1.4T, OpenAI would be valued at 28× its reported $50B revenue run rate, or 20× its $70B year-end target. Even hitting that target leaves a lot of future growth priced in.\n\nReuters says the two labs are courting similar investors. Getting funded before Anthropic’s expected IPO could help OpenAI lock in their budgets and set a valuation before public markets supply a benchmark.",
+  "final_text": "Reuters says OpenAI is racing to secure private funding before Anthropic’s expected IPO, with both courting similar investors.\n\nWhen borrowing gets harder, the pressure to sell equity rises. Rushing to list can be about keeping the cash flowing before the funding window closes. CoreWeave’s debt selloff makes that pressure harder to ignore.",
   "final_text_path": "post-en.txt",
   "media": [],
   "media_reason": "Neither supplied post nor its relevant quoted post contains images or video. Text-only native Quote selected.",
@@ -28,7 +28,7 @@
       "url": "https://www.aol.com/articles/exclusive-openai-seeks-accelerate-fundraising-231819000.html",
       "publisher": "Reuters via AOL",
       "published_at": "2026-10-19T23:22:00Z",
-      "findings": "Reuters reports roughly $30B raise at over $1.4T valuation, before expected mid-November Anthropic IPO; OpenAI investor pitch claims $50B annualized revenue and targets $70B year-end; overlapping investor bases. OpenAI and SoftBank declined comment; Anthropic and MGX did not immediately respond."
+      "findings": "Reuters reports roughly $30B raise at over $1.4T valuation, before expected mid-November Anthropic IPO; OpenAI investor pitch claims $50B annualized revenue and targets $70B year-end; overlapping investor bases. OpenAI and SoftBank declined comment; Anthropic and MGX did not immediately respond. Reuters also reports rising bond yields, scrutiny of AI infrastructure borrowing and a selloff in CoreWeave shares and debt. It does not establish that OpenAI was unable to borrow or that debt difficulty is the sole cause of an IPO."
     },
     {
       "url": "https://openai.com/index/accelerating-the-next-phase-ai/",
@@ -43,8 +43,8 @@
     "Year-end $70B is a target annualized run rate, not realized full-year revenue.",
     "Strategic effect on budgets and valuation is qualified analysis, not proof of motive.",
     "No direct revenue multiple comparison between companies: revenue recognition differs.",
-    "CoreWeave causal speculation omitted.",
-    "DeItaone is the relevant quoted news account, not an OpenAI official account or Reuters reporter."
+    "DeItaone is the relevant quoted news account, not an OpenAI official account or Reuters reporter.",
+    "Revision 2 adds financing-pressure analysis with conditional phrasing (when/can). It does not assert that OpenAI failed to obtain a loan or that it is currently conducting an IPO. Numeric valuation paragraph removed at user request."
   ],
   "checks": {
     "live_source_read": true,
@@ -57,12 +57,12 @@
     "composer_account": "@LeoGuoLabs",
     "native_quote_target_correct": true,
     "complete_text_accepted": true,
-    "composer_character_count": 382,
-    "composer_remaining_characters": 24618,
+    "composer_character_count": 341,
+    "composer_remaining_characters": 24659,
     "post_button_enabled": true,
     "no_added_media": true,
-    "review_screenshot": "composer-review.jpg",
-    "checked_at": "2026-10-20T01:53:09.652253+00:00"
+    "review_screenshot": "composer-review-v2.jpg",
+    "checked_at": "2026-10-20T02:03:30.927767+00:00"
   },
   "approval": {
     "required": true,
@@ -71,5 +71,18 @@
   },
   "publication_submitted": false,
   "public_url": null,
-  "review_note": "Reuters source-based reporting remains qualified; financing is proposed, IPO timing expected, revenue target prospective. The screenshot is review evidence only and will not be attached to the post."
+  "review_note": "Current private financing and expected Anthropic IPO are source-based reporting. CoreWeave debt selloff is reported; implications for equity financing are qualified analysis. No proof of OpenAI being unable to borrow. Screenshot is review evidence only.",
+  "revision": 2,
+  "updated_at": "2026-10-20T02:03:30.927767+00:00",
+  "user_changes": [
+    "Add the argument that difficulty borrowing increases pressure to go public.",
+    "Remove the initial valuation and revenue data paragraph."
+  ],
+  "superseded_versions": [
+    {
+      "text_path": "post-en-v1-superseded.txt",
+      "screenshot": "composer-review.jpg",
+      "reason": "User requested financing-pressure argument and removal of numeric first paragraph."
+    }
+  ]
 }
