@@ -1,1 +1,1 @@
-Build me an interactive solar system.
+Build an interactive solar system webpage.

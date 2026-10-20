@@ -1,1 +1,1 @@
-Build me a miniature city that feels alive.
+Build a lively miniature city as an interactive webpage.
