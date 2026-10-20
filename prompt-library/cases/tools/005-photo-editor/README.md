@@ -3,6 +3,8 @@
 - 提示词版本：v1
 - 收录日期：2026-10-20（Asia/Singapore）
 - 来源：按用户要求扩展的原创测试提示词
+- 主分类：[应用与工具](../README.md)
+- 标签：图像编辑 / 文件处理 / 导出
 - 当前状态：已收录，尚未运行测试
 
 ## 提示词
@@ -19,4 +21,4 @@ Build me a photo editor.
 
 以上只用于观察，不随提示词发送，也不追加滤镜数量或技术栈要求。演示优先展示编辑前后变化；如果支持导出，重新打开导出文件，核对实际效果与预览是否一致。
 
-运行结果使用 [测试记录模板](../../templates/run-record.md)，保存到 `output/model-tests/005-photo-editor/` 对应的运行目录。
+运行结果使用 [测试记录模板](../../../templates/run-record.md)，保存到 `output/model-tests/005-photo-editor/` 对应的运行目录。

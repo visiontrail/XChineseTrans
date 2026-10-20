@@ -3,6 +3,8 @@
 - 提示词版本：v1
 - 收录日期：2026-10-20（Asia/Singapore）
 - 来源：按用户要求扩展的原创测试提示词
+- 主分类：[应用与工具](../README.md)
+- 标签：音乐 / 实时音频 / 输入反馈
 - 当前状态：已收录，尚未运行测试
 
 ## 提示词
@@ -19,4 +21,4 @@ Build me a musical instrument I can play.
 
 以上只用于观察，不随提示词发送，也不指定乐器种类、音色或输入方式。演示须保留实际声音；只有动画或音频代码不能证明乐器可正常演奏。
 
-运行结果使用 [测试记录模板](../../templates/run-record.md)，保存到 `output/model-tests/004-playable-instrument/` 对应的运行目录。
+运行结果使用 [测试记录模板](../../../templates/run-record.md)，保存到 `output/model-tests/004-playable-instrument/` 对应的运行目录。

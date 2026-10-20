@@ -3,6 +3,8 @@
 - 提示词版本：v1
 - 收录日期：2026-10-20（Asia/Singapore）
 - 来源：按用户要求扩展的原创测试提示词
+- 主分类：[模拟与可视化](../README.md)
+- 标签：天文 / 空间表达 / 科普
 - 当前状态：已收录，尚未运行测试
 
 ## 提示词
@@ -19,4 +21,4 @@ Build me an interactive solar system.
 
 以上只用于观察，不随提示词发送，也不预设三维、真实比例或某种交互方式。演示时展示产出实际支持的操作，例如选择天体、改变视角或调整时间；未提供的操作不作为额外要求。
 
-运行结果使用 [测试记录模板](../../templates/run-record.md)，保存到 `output/model-tests/006-interactive-solar-system/` 对应的运行目录。
+运行结果使用 [测试记录模板](../../../templates/run-record.md)，保存到 `output/model-tests/006-interactive-solar-system/` 对应的运行目录。

@@ -3,7 +3,8 @@
 - 提示词版本：v1
 - 收录日期：2026-10-20（Asia/Singapore）
 - 来源：用户提供
-- 类别：代码生成 / 游戏开发 / 开放式创作
+- 主分类：[游戏](../README.md)
+- 标签：第一人称 / 射击 / 开放式创作
 - 当前状态：已收录，尚未运行测试
 
 ## 原始提示词
@@ -38,4 +39,4 @@ Just build me a first person fps game with some theme, no other conditions or go
 
 ## 运行记录
 
-目前没有测试结果。首次测试时使用 [测试记录模板](../../templates/run-record.md)，将记录和产出保存到 `output/model-tests/001-themed-fps/` 对应的运行目录。
+目前没有测试结果。首次测试时使用 [测试记录模板](../../../templates/run-record.md)，将记录和产出保存到 `output/model-tests/001-themed-fps/` 对应的运行目录。

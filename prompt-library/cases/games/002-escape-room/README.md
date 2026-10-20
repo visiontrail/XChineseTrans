@@ -3,6 +3,8 @@
 - 提示词版本：v1
 - 收录日期：2026-10-20（Asia/Singapore）
 - 来源：按用户要求扩展的原创测试提示词
+- 主分类：[游戏](../README.md)
+- 标签：解谜 / 叙事 / 状态管理
 - 当前状态：已收录，尚未运行测试
 
 ## 提示词
@@ -19,4 +21,4 @@ Build me an escape room game with a surprising theme.
 
 以上只用于观察，不随提示词发送，也不追加具体谜题、技术栈或关卡要求。演示时保留一段从发现线索到解开机关的连续操作。
 
-运行结果使用 [测试记录模板](../../templates/run-record.md)，保存到 `output/model-tests/002-escape-room/` 对应的运行目录。
+运行结果使用 [测试记录模板](../../../templates/run-record.md)，保存到 `output/model-tests/002-escape-room/` 对应的运行目录。

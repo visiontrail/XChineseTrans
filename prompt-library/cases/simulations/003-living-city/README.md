@@ -3,6 +3,8 @@
 - 提示词版本：v1
 - 收录日期：2026-10-20（Asia/Singapore）
 - 来源：按用户要求扩展的原创测试提示词
+- 主分类：[模拟与可视化](../README.md)
+- 标签：城市场景 / 动态行为 / 开放式创作
 - 当前状态：已收录，尚未运行测试
 
 ## 提示词
@@ -19,4 +21,4 @@ Build me a miniature city that feels alive.
 
 以上只用于观察，不随提示词发送，也不预设二维、三维或模拟引擎。演示时持续观察同一区域的变化；画面有运动不等于城市具有真实模拟逻辑。
 
-运行结果使用 [测试记录模板](../../templates/run-record.md)，保存到 `output/model-tests/003-living-city/` 对应的运行目录。
+运行结果使用 [测试记录模板](../../../templates/run-record.md)，保存到 `output/model-tests/003-living-city/` 对应的运行目录。
