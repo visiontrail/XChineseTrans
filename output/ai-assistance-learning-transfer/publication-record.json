@@ -13,13 +13,16 @@
     "path": "/Volumes/TP-1TB/WorspacePlus/IslaProject/FrontierTechSN/outputs/explainers/exp-8bd965b901ba40b4b734271f/project.json",
     "snapshot": "source-explainer.md",
     "scene_count": 167,
-    "access": "read_only"
+    "access": "read_only",
+    "youtube_url": "https://www.youtube.com/watch?v=eSCAIhcwQ-A",
+    "finished_video_title": "Does AI Help You Learn—or Just Finish?"
   },
   "final_text": "article.md",
   "plain_text": "article.txt",
   "local_preview": "article.html",
   "cover": "00-article-cover-v1.png",
   "inline_media_order": [
+    "does-ai-help-you-learn-full.mp4",
     "01-four-measures-v1.png",
     "02-two-scoreboards-v1.png",
     "03-fade-help-v2.png"
@@ -32,7 +35,8 @@
   "supersedes": "post-publication-record-superseded.json",
   "authorization": {
     "preparation": "User requested explicit article mode, restarted this task and required AGENTS.md update.",
-    "publication": "Explicitly approved by the user on 2026-10-20 for 2026-10-21 00:00 Asia/Singapore after the full article and media were shown."
+    "publication": "Explicitly approved by the user on 2026-10-20 for 2026-10-21 00:00 Asia/Singapore after the full article and media were shown.",
+    "video_addition": "User explicitly requested embedding the finished FrontierTechSN video and supplied the matching YouTube URL on 2026-10-20. The existing scheduled-publication authorization remains active."
   },
   "checks": {
     "primary_sources_checked": true,
@@ -58,22 +62,30 @@
     "review_screenshots": [
       "article-native-top-review.jpg",
       "article-native-middle-review.jpg",
-      "article-native-method-review.jpg"
+      "article-native-method-review.jpg",
+      "article-native-video-playing.jpg"
     ],
     "approved_asset_hashes_reverified_at": "2026-10-20T03:28:57.074721+00:00",
     "live_account_verified_on": "2026-10-20",
-    "schedule_options_screenshot": "article-publish-options-20261020.jpg"
+    "schedule_options_screenshot": "article-publish-options-20261020.jpg",
+    "native_inline_videos": 1,
+    "native_video_saved_after_reload": true,
+    "native_video_playback_verified": true,
+    "native_video_validation": "article-native-video-checks.json",
+    "native_video_screenshot": "article-native-video-playing.jpg",
+    "video_added_at": "2026-10-20T04:01:44.306756+00:00",
+    "local_video_layout_checks": "article-video-layout-checks.json"
   },
   "files": [
     {
       "path": "article.md",
-      "bytes": 8233,
-      "sha256": "e172af0eebf6f00cf7b3f8c55bb82813db97d8ee1ad69eb362df06b1f0524619"
+      "bytes": 8316,
+      "sha256": "d605016190b66d958553635ec1c911595a516d142addca26c5e3cd5bf44eb0f7"
     },
     {
       "path": "article.html",
-      "bytes": 12494,
-      "sha256": "71a2114b06f63a0adf49c88eec0b7bd04a47f64f61dfead28d1d9f33f47c01ed"
+      "bytes": 12724,
+      "sha256": "6559a8e56256b14a961278f7fdee5400430866a0527482364784b7c0211e34ce"
     },
     {
       "path": "00-article-cover-v1.png",
@@ -94,6 +106,11 @@
       "path": "03-fade-help-v2.png",
       "bytes": 1667011,
       "sha256": "09f4db47b2b73dd5b434bfd3869e8c07be4341faaeddf172e111333d5023097f"
+    },
+    {
+      "path": "does-ai-help-you-learn-full.mp4",
+      "bytes": 106441720,
+      "sha256": "90813eb0ecaac06904f536741e5aa015ab7febfddf7fdffaaf19884f753e35b9"
     }
   ],
   "schedule": {
@@ -109,7 +126,14 @@
     "los_angeles": "2026-10-20T09:00:00-07:00",
     "one_time": true,
     "requires": "Local computer awake, connected to the internet, desktop app running, and X session signed in.",
-    "post_publication_verification": "Same scheduled run opens the actual published URL, verifies content and images, reports the public link and stops.",
+    "post_publication_verification": "Same scheduled run opens the actual published URL, verifies full text, cover, three inline images and actual playback of the complete 9:32 native video, reports the public link and stops.",
     "native_ui_observation": "Article More menu offered Delete Article; Publish Article dialog offered audience, reply settings and optional caption, with no schedule control."
+  },
+  "video": {
+    "file": "does-ai-help-you-learn-full.mp4",
+    "duration_seconds": 572.333333,
+    "placement": "After final introduction paragraph, before Four outcomes that deserve separate checks.",
+    "native": true,
+    "verification": "article-video-record.json"
   }
 }

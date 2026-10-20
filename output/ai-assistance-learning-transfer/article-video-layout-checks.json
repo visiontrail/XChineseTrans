@@ -1,0 +1,16 @@
+[
+  {
+    "id": "desktop",
+    "scrollWidth": 1280,
+    "videoHeight": 365.625,
+    "videoWidth": 650,
+    "width": 1280
+  },
+  {
+    "id": "mobile",
+    "scrollWidth": 390,
+    "videoHeight": 205.875,
+    "videoWidth": 366,
+    "width": 390
+  }
+]

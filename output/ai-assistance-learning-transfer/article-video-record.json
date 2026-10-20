@@ -1,0 +1,77 @@
+{
+  "prepared_at": "2026-10-20T03:56:23.033558+00:00",
+  "title": "Does AI Help You Learn—or Just Finish?",
+  "youtube_url": "https://www.youtube.com/watch?v=eSCAIhcwQ-A",
+  "explainer_id": "exp-8bd965b901ba40b4b734271f",
+  "source_path": "/Volumes/TP-1TB/WorspacePlus/IslaProject/FrontierTechSN/outputs/explainers/exp-8bd965b901ba40b4b734271f/renders/8bfd57403eedf33cc14afed7/video.mp4",
+  "local_path": "does-ai-help-you-learn-full.mp4",
+  "acquisition": "Copied the completed original explicitly referenced by the user from FrontierTechSN; no transcoding or trimming.",
+  "bytes": 106441720,
+  "sha256": "90813eb0ecaac06904f536741e5aa015ab7febfddf7fdffaaf19884f753e35b9",
+  "ffprobe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "30/1"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "572.333333",
+      "size": "106441720"
+    }
+  },
+  "checks": {
+    "complete_decode_exit_code": 0,
+    "representative_frames_seconds": [
+      5,
+      286,
+      566
+    ],
+    "frames_reviewed": true,
+    "frame_review": "video-frame-check.jpg",
+    "youtube_page_title_matches": true,
+    "youtube_dom_duration_seconds": 572.361,
+    "playback_observations": [
+      {
+        "currentTime": 0.0075,
+        "duration": 572.333,
+        "paused": false,
+        "readyState": 4
+      },
+      {
+        "currentTime": 8.592444,
+        "duration": 572.333,
+        "paused": false,
+        "readyState": 4,
+        "videoHeight": 270,
+        "videoWidth": 480
+      },
+      {
+        "currentTime": 18.471574,
+        "duration": 572.333,
+        "paused": true,
+        "readyState": 4,
+        "videoHeight": 270,
+        "videoWidth": 480
+      }
+    ],
+    "initial_playback_load_resolved": "The first preview remained buffering; reloading the saved draft restored playback. No re-upload or duplication."
+  },
+  "placement": "After final introduction paragraph, before Four outcomes that deserve separate checks.",
+  "native_upload_state": "saved_and_reloaded",
+  "native_preview_playback_verified": true,
+  "native_verification": "article-native-video-checks.json",
+  "embedded_at": "2026-10-20T04:01:44.306756+00:00"
+}

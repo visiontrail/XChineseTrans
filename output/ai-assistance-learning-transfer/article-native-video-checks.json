@@ -1,0 +1,81 @@
+{
+  "cover_loaded": true,
+  "duration": 572.333,
+  "heading_count": 6,
+  "headings": [
+    "Four outcomes that deserve separate checks",
+    "What happens when the help disappears",
+    "Choose what you want to practise",
+    "Let the help change as you learn",
+    "Try it on the spreadsheet",
+    "Keep a second measure of progress"
+  ],
+  "inline_images": [
+    {
+      "loaded": true,
+      "src": "https://pbs.twimg.com/media/HUu_C1aaYAAWpe-?format=jpg&name=medium"
+    },
+    {
+      "loaded": true,
+      "src": "https://pbs.twimg.com/media/HUu-jTGbMAAXZVD?format=jpg&name=medium"
+    },
+    {
+      "loaded": true,
+      "src": "https://pbs.twimg.com/media/HUu-t95bQAAKb7_?format=jpg&name=medium"
+    }
+  ],
+  "source_links": [
+    {
+      "href": "https://bjorklab.psych.ucla.edu/research/",
+      "text": "Bjork Learning and Forgetting Lab"
+    },
+    {
+      "href": "https://www.pnas.org/doi/10.1073/pnas.2422633122",
+      "text": "randomized mathematics study published in PNAS"
+    },
+    {
+      "href": "https://www.nature.com/articles/s41598-025-97652-6",
+      "text": "Harvard physics trial"
+    },
+    {
+      "href": "https://doi.org/10.1080/01443410.2023.2273762",
+      "text": "research on worked examples"
+    },
+    {
+      "href": "https://doi.org/10.1007/s10648-025-10076-6",
+      "text": "review of retrieval practice and elaborative learning"
+    }
+  ],
+  "url": "https://x.com/compose/articles/edit/2110987398230249472/preview",
+  "video_count": 1,
+  "text_matches_approved_after_video_control_exclusion": true,
+  "persisted_after_reload": true,
+  "video_after_intro_before_first_section": true,
+  "playback_observations": [
+    {
+      "currentTime": 0.0075,
+      "duration": 572.333,
+      "paused": false,
+      "readyState": 4
+    },
+    {
+      "currentTime": 8.592444,
+      "duration": 572.333,
+      "paused": false,
+      "readyState": 4,
+      "videoHeight": 270,
+      "videoWidth": 480
+    },
+    {
+      "currentTime": 18.471574,
+      "duration": 572.333,
+      "paused": true,
+      "readyState": 4,
+      "videoHeight": 270,
+      "videoWidth": 480
+    }
+  ],
+  "actual_playback_progressed": true,
+  "verified_at": "2026-10-20T04:01:13.768Z",
+  "screenshot": "article-native-video-playing.jpg"
+}

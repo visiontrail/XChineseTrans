@@ -10,6 +10,8 @@ That gap is easy to miss because yesterday's success was real. The sheet worked.
 
 I would judge an AI learning tool partly by the work it leaves in the learner's hands: choosing an approach, explaining a step, noticing an error, and adapting when the problem changes.
 
+<video controls preload="metadata" src="does-ai-help-you-learn-full.mp4"></video>
+
 ## Four outcomes that deserve separate checks
 
 Start with **assisted performance**: can you finish while the tool is available? This is a useful productivity measure. It tells you what the human and the tool can accomplish together.

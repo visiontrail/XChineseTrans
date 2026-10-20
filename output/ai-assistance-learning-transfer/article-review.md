@@ -34,3 +34,12 @@ AGENTS.md now explicitly includes articles in the project scope, distinguishes a
 Prepared the existing Article draft at https://x.com/compose/articles/edit/2110987398230249472 for @LeoGuoLabs. The native editor counts 1,199 body words. Its saved preview contains all six body headings, five primary-source links, the cover, and three inline images in the intended order. DOM text matches the local article exactly after whitespace normalization. All inline images completed decoding at 960 × 1200 in the native preview; the cover loads at 1983 × 793. The initial third-image upload stalled, was cancelled, and succeeded on retry without duplicating the Article or image.
 
 Native accessibility limitation: each inline ALT was entered and briefly displayed, but the editor cleared it after Saving media completed. Retrying the first image with setValue, blur, and saving from the Crop tab produced the same result. All descriptions are retained in `article-alt-text.json`; local images have descriptive ALT. The native cover does not expose a description field in the observed editor. Native ALT must not be reported as saved. No Publish action was submitted.
+
+
+## Native video update — 2026-10-20
+
+At the user's explicit request, inserted the complete 9:32 FrontierTechSN video “Does AI Help You Learn—or Just Finish?” after the introduction, before the first section. The matching YouTube page is https://www.youtube.com/watch?v=eSCAIhcwQ-A. The uploaded source is the completed local original, byte-for-byte copied with no trimming or transcoding.
+
+X saved the native media, retained it after reload, and played from 0.0075 to 8.592444 and then 18.471574 seconds without a media error. The 1,199-word body, six sections, five primary-source links, cover and three inline images remain intact. Local desktop and mobile review found no horizontal overflow. Verification: `article-native-video-checks.json`, `article-video-record.json`, and `article-native-video-playing.jpg`.
+
+Updated existing automation `ai` to verify the video before and after publication. The scheduled time remains 2026-10-21 00:00 Asia/Singapore (2026-10-20 16:00 UTC); this is still a local Codex scheduled action, not a native X queue. The article remains unpublished.

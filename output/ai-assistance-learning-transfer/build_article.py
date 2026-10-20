@@ -27,15 +27,23 @@ def render(text, figures=True):
                 alt, path = match.groups()
                 assert (ROOT / path).is_file()
                 blocks.append(f'<figure><img src="{html.escape(path)}" alt="{html.escape(alt)}" width="1122" height="1402"></figure>')
+        elif paragraph.startswith('<video '):
+            match = re.fullmatch(r'<video controls preload="metadata" src="([^"]+\.mp4)"></video>', paragraph)
+            assert match, 'Unsupported video block'
+            path = match.group(1)
+            assert (ROOT / path).is_file()
+            if figures:
+                blocks.append(f'<figure class="video"><video controls preload="metadata" src="{html.escape(path)}" aria-label="Does AI Help You Learn—or Just Finish?" style="display:block;width:100%;height:auto;aspect-ratio:16/9"></video></figure>')
         else:
             blocks.append(f'<p>{inline(paragraph)}</p>')
     return '\n'.join(blocks)
 
 article_html = render(body)
-segments = re.split(r'\n\n!\[[^]]*\]\([^)]+\)\n\n', body)
+segments = re.split(r'\n\n(?:!\[[^]]*\]\([^)]+\)|<video [^>]+></video>)\n\n', body)
 (ROOT / 'article-segments.json').write_text(json.dumps([{'html':render(s,False),'text':re.sub(r'\[([^]]+)\]\((https://[^)]+)\)',r'\1 (\2)',s).replace('## ','').replace('**','')} for s in segments],ensure_ascii=False,indent=2)+'\n')
 (ROOT / 'article-body.html').write_text(article_html+'\n')
 plain = re.sub(r'!\[([^]]*)\]\(([^)]+)\)',r'[Figure: \2]',body)
+plain = re.sub(r'<video controls preload="metadata" src="([^"]+)"></video>',r'[Video: \1]',plain)
 plain = re.sub(r'\[([^]]+)\]\((https://[^)]+)\)',r'\1 (\2)',plain).replace('## ','').replace('**','')
 (ROOT / 'article.txt').write_text(title+'\n\n'+plain)
 toc = [(m.group(1),re.sub(r'[^a-z0-9]+','-',m.group(1).lower()).strip('-')) for m in re.finditer(r'^## (.+)$',body,re.M)]
@@ -52,6 +60,7 @@ page = '''<!doctype html>
 <footer>LeoGuoLabs</footer></body></html>'''
 page = page.replace('__TITLE__',html.escape(title)).replace('__NAV__',nav).replace('__BODY__',article_html)
 (ROOT/'article.html').write_text(page)
-assert len(segments)==4
+assert len(segments)==5
 assert len(re.findall('<figure>',article_html))==3
-print(json.dumps({'title':title,'body_sections':len(toc),'rich_text_segments':len(segments),'inline_images':3,'source_links':len(re.findall(r'href="https://',article_html))},indent=2))
+assert article_html.count('<video ')==1
+print(json.dumps({'title':title,'body_sections':len(toc),'rich_text_segments':len(segments),'inline_images':3,'inline_videos':1,'source_links':len(re.findall(r'href="https://',article_html))},indent=2))
