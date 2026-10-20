@@ -1,0 +1,75 @@
+{
+  "state": "awaiting_final_approval",
+  "account": "@LeoGuoLabs",
+  "format": "native_quote",
+  "source": {
+    "id": "2112331762126946756",
+    "url": "https://x.com/alanchen/status/2112331762126946756",
+    "text": "OpenAI试图先抢跑Anthropic上市，：据报道，要赶在对手IPO前融资300亿美元，估值超过1.4万亿美元。\n\n潜在投资者包括软银和MGX。OpenAI据称目前年化收入约500亿美元，目标年底达到700亿美元。按1.4万亿美元估值算，相当于当前年化收入的28倍；即使兑现年底目标，也还有20倍。\n\nAnthropic预计11月IPO，一旦公开财务、接受市场定价，投资者就多了一把衡量AI公司的尺子。OpenAI选择在这之前融资，既能先争取机构预算，也有机会先给自己的估值定个锚。\n\nCrwv的事情之前，OpenAi好像没这么着急，现在大家都发现钱不好借了，开始比谁先跑吗？",
+    "created_at": "Mon Oct 19 23:55:11 +0000 2026",
+    "media": null,
+    "author": "alanchen"
+  },
+  "quote_target": {
+    "id": "2112325583879258160",
+    "url": "https://x.com/DeItaone/status/2112325583879258160",
+    "text": "OPENAI SEEKS $1.4 TRILLION VALUATION AHEAD OF ANTHROPIC IPO\n\nOpenAI is reportedly racing to raise $30 billion at a valuation exceeding $1.4 trillion before Anthropic’s expected November IPO.\n\nSoftBank and MGX are among potential investors.\n\nOpenAI reportedly claims $50 billion in annualized revenue, targeting $70 billion by year-end.",
+    "created_at": "Mon Oct 19 23:30:38 +0000 2026",
+    "media": null,
+    "author": "DeItaone"
+  },
+  "prepared_at": "2026-10-20T01:52:30.008290+00:00",
+  "final_text": "At $1.4T, OpenAI would be valued at 28× its reported $50B revenue run rate, or 20× its $70B year-end target. Even hitting that target leaves a lot of future growth priced in.\n\nReuters says the two labs are courting similar investors. Getting funded before Anthropic’s expected IPO could help OpenAI lock in their budgets and set a valuation before public markets supply a benchmark.",
+  "final_text_path": "post-en.txt",
+  "media": [],
+  "media_reason": "Neither supplied post nor its relevant quoted post contains images or video. Text-only native Quote selected.",
+  "research": [
+    {
+      "url": "https://www.aol.com/articles/exclusive-openai-seeks-accelerate-fundraising-231819000.html",
+      "publisher": "Reuters via AOL",
+      "published_at": "2026-10-19T23:22:00Z",
+      "findings": "Reuters reports roughly $30B raise at over $1.4T valuation, before expected mid-November Anthropic IPO; OpenAI investor pitch claims $50B annualized revenue and targets $70B year-end; overlapping investor bases. OpenAI and SoftBank declined comment; Anthropic and MGX did not immediately respond."
+    },
+    {
+      "url": "https://openai.com/index/accelerating-the-next-phase-ai/",
+      "publisher": "OpenAI",
+      "published_at": "2026-03-31",
+      "findings": "Official historical baseline: $122B committed capital and $852B post-money valuation. This does not confirm the new proposed round."
+    }
+  ],
+  "factual_boundaries": [
+    "Current financing terms and revenue run rates are sourced reporting, not a closed financing or independently audited figures.",
+    "Run-rate multiples use $1.4T as a hypothetical baseline: 1400/50=28 and 1400/70=20. These are not trailing annual-revenue multiples or P/E.",
+    "Year-end $70B is a target annualized run rate, not realized full-year revenue.",
+    "Strategic effect on budgets and valuation is qualified analysis, not proof of motive.",
+    "No direct revenue multiple comparison between companies: revenue recognition differs.",
+    "CoreWeave causal speculation omitted.",
+    "DeItaone is the relevant quoted news account, not an OpenAI official account or Reuters reporter."
+  ],
+  "checks": {
+    "live_source_read": true,
+    "original_language_read": true,
+    "live_quote_target_read": true,
+    "live_account_verified": "@LeoGuoLabs",
+    "no_existing_local_topic_match": true,
+    "arithmetic_verified": true,
+    "composer_checked": true,
+    "composer_account": "@LeoGuoLabs",
+    "native_quote_target_correct": true,
+    "complete_text_accepted": true,
+    "composer_character_count": 382,
+    "composer_remaining_characters": 24618,
+    "post_button_enabled": true,
+    "no_added_media": true,
+    "review_screenshot": "composer-review.jpg",
+    "checked_at": "2026-10-20T01:53:09.652253+00:00"
+  },
+  "approval": {
+    "required": true,
+    "status": "pending",
+    "reason": "Standing final-content review in AGENTS.md"
+  },
+  "publication_submitted": false,
+  "public_url": null,
+  "review_note": "Reuters source-based reporting remains qualified; financing is proposed, IPO timing expected, revenue target prospective. The screenshot is review evidence only and will not be attached to the post."
+}
