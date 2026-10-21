@@ -1,7 +1,7 @@
 {
   "account": "@LeoGuoLabs",
   "format": "standalone_post_with_native_video",
-  "status": "scheduled",
+  "status": "publicly_verified",
   "prepared_at": "2026-10-21T21:56:54.551335+08:00",
   "source_thread": {
     "host": "local",
@@ -43,7 +43,8 @@
       "x-saved-draft.png",
       "x-draft-v2-editor.png",
       "x-saved-draft-v2.png",
-      "x-scheduled-20261021-2245.png"
+      "x-scheduled-20261021-2245.png",
+      "x-public-post.png"
     ],
     "composer_text_v2": "Complete revised text matches local copy after normalizing blank lines; one existing native video retained."
   },
@@ -58,7 +59,7 @@
     "approved_text_path": "output/codex-whiteboard-film-x/approved-post.txt"
   },
   "composer_url": "https://x.com/compose/post",
-  "public_url": null,
+  "public_url": "https://x.com/LeoGuoLabs/status/2112918077629464981",
   "draft": {
     "saved": false,
     "persistence_check": "After fresh navigation to Unsent posts, the revised opening, GPT/Opus comparison, thanks to @lemomo_ai, and 3:00 video are retained.",
@@ -81,7 +82,7 @@
     {
       "version": 2,
       "text_path": "output/codex-whiteboard-film-x/post-en.txt",
-      "status": "scheduled",
+      "status": "publicly_verified",
       "requested_changes": [
         "Lead with starting from the relatively simple whiteboard style and a qualified comparison: GPT seems on par with Opus for this style.",
         "Thank @lemomo_ai for the excellent project foundation."
@@ -114,8 +115,21 @@
   "verification_automation": {
     "id": "7-45",
     "kind": "heartbeat",
-    "status": "ACTIVE",
+    "status": "DELETED",
     "planned_local": "2026-10-21T22:47:00+08:00",
-    "purpose": "One-time public URL, full approved copy and native video playback verification after the scheduled post."
+    "purpose": "One-time public URL, full approved copy and native video playback verification after the scheduled post.",
+    "reason": "One-time public verification completed."
+  },
+  "published_at_utc": "2026-10-21T14:45:00.000Z",
+  "published_at_pacific": "2026-10-21T07:45:00-07:00",
+  "published_at_singapore": "2026-10-21T22:45:00+08:00",
+  "public_verification": {
+    "record_path": "output/codex-whiteboard-film-x/public-verification.json",
+    "verified_at": "2026-10-21T22:51:45.064590+08:00",
+    "approved_text_matches": true,
+    "native_video_count": 1,
+    "video_playback_progressing": true,
+    "project_link_destination_verified": true,
+    "published_on_requested_schedule": true
   }
 }

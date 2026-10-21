@@ -1,0 +1,54 @@
+{
+  "status": "publicly_verified",
+  "url": "https://x.com/LeoGuoLabs/status/2112918077629464981",
+  "account": "@LeoGuoLabs",
+  "format": "standalone_post_with_native_video",
+  "published_at_utc": "2026-10-21T14:45:00.000Z",
+  "published_at_pacific": "2026-10-21T07:45:00-07:00",
+  "published_at_singapore": "2026-10-21T22:45:00+08:00",
+  "published_on_requested_schedule": true,
+  "verified_at": "2026-10-21T22:51:45.064590+08:00",
+  "full_approved_text_matches": true,
+  "text_sha256": "d253416f7e37e792a2233ccc8b1dc65b99a6fc0644a9b665f84c7546f37b2bf1",
+  "text_normalization": "Compared DOM textContent after removing the final presentation-only link ellipsis and retaining the complete URL and exact paragraphs.",
+  "source_link": {
+    "public_short_link": "https://t.co/K3kTKwEeEL",
+    "observed_redirect_destination": "https://github.com/lemomo-ai/lemo-opuscar",
+    "destination_verified": true
+  },
+  "creator_mention": {
+    "text": "@lemomo_ai",
+    "href": "/lemomo_ai"
+  },
+  "video": {
+    "native_video_count": 1,
+    "duration_seconds": 180.125,
+    "playback_observations": [
+      {
+        "current_time_seconds": 47.452538,
+        "paused": false,
+        "ready_state": 4,
+        "error": null
+      },
+      {
+        "current_time_seconds": 69.407221,
+        "paused": false,
+        "error": null
+      }
+    ],
+    "playback_progressing": true,
+    "muted_during_check": true,
+    "audio_listening": "not performed",
+    "adaptive_resolution_observed": "480x270",
+    "note": "X serves a transcoded adaptive stream. Original upload is the preserved complete 180-second MP4; the public stream has 0.125 seconds of tail padding."
+  },
+  "evidence": [
+    "public-post.txt",
+    "x-public-post.png"
+  ],
+  "verification_automation": {
+    "id": "7-45",
+    "status": "DELETED",
+    "reason": "One-time verification completed; deleted using automation_update."
+  }
+}

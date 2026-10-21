@@ -1,5 +1,5 @@
 {
-  "status": "scheduled",
+  "status": "publicly_verified",
   "account": "@LeoGuoLabs",
   "schedule": {
     "timezone": "America/Los_Angeles",
@@ -20,9 +20,10 @@
   "verification_automation": {
     "id": "7-45",
     "kind": "heartbeat",
-    "status": "ACTIVE",
+    "status": "DELETED",
     "planned_local": "2026-10-21T22:47:00+08:00",
     "purpose": "One-time public URL, full approved copy and native video playback verification after the scheduled post."
   },
-  "public_url": null
+  "public_url": "https://x.com/LeoGuoLabs/status/2112918077629464981",
+  "published_at_utc": "2026-10-21T14:45:00.000Z"
 }
