@@ -1,7 +1,9 @@
-About half my weekly Codex quota later, here's a three-minute whiteboard film.
+I started with a relatively simple style: a whiteboard explainer. For this style, GPT seems on par with Opus.
 
-I used @lemomo_ai's lemo-opuscar as the starting point. It's tuned for Claude Opus; Codex is my main tool, so I rebuilt the whiteboard style with Codex to recreate that look.
+A big thank-you to @lemomo_ai for lemo-opuscar. The style guides and working examples provide an excellent foundation.
 
-Still polishing it. Once it's more mature, I'll decide what to open-source.
+The project is tuned for Claude Opus, but Codex is my main tool. About half my weekly Codex quota later, this three-minute film is the result.
+
+Still polishing the workflow. Once it's more mature, I'll decide what to open-source.
 
 https://github.com/lemomo-ai/lemo-opuscar

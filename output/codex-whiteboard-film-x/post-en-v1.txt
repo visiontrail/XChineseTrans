@@ -1,0 +1,7 @@
+About half my weekly Codex quota later, here's a three-minute whiteboard film.
+
+I used @lemomo_ai's lemo-opuscar as the starting point. It's tuned for Claude Opus; Codex is my main tool, so I rebuilt the whiteboard style with Codex to recreate that look.
+
+Still polishing it. Once it's more mature, I'll decide what to open-source.
+
+https://github.com/lemomo-ai/lemo-opuscar

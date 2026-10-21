@@ -26,7 +26,7 @@
   "checks": {
     "complete_decode": "passed, ffmpeg exited 0",
     "sample_frames": "5s, 90s, 175s inspected",
-    "composer_text": "complete text accepted",
+    "composer_text": "Revision 2 complete text accepted and matched the local copy; existing single native video retained.",
     "upload": "Ready, Post button enabled, one native video",
     "composer_playback": {
       "duration_seconds": 180,
@@ -40,8 +40,11 @@
     },
     "audio_listening": "not performed in this task",
     "screenshots": [
-      "x-saved-draft.png"
-    ]
+      "x-saved-draft.png",
+      "x-draft-v2-editor.png",
+      "x-saved-draft-v2.png"
+    ],
+    "composer_text_v2": "Complete revised text matches local copy after normalizing blank lines; one existing native video retained."
   },
   "author_statement": "About half the weekly Codex quota was used, supplied directly by the user; not derived from current usage dashboard.",
   "approval": {
@@ -53,9 +56,31 @@
   "public_url": null,
   "draft": {
     "saved": true,
-    "persistence_check": "After reload, Unsent posts lists this exact opening with a 3:00 native video. Full English text was checked in composer before save.",
+    "persistence_check": "After fresh navigation to Unsent posts, the revised opening, GPT/Opus comparison, thanks to @lemomo_ai, and 3:00 video are retained.",
     "url": "https://x.com/compose/post/unsent/drafts",
-    "native_video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2112905826973503488/img/JyxnQzcK5n13VHnm.jpg",
-    "handoff": "Drafts list preserved for review; no Post click or scheduled publication."
-  }
+    "native_video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2112910441945198592/img/saFijvaLPpS5Hqvp.jpg",
+    "handoff": "Saved revised draft; publication awaits final review.",
+    "revision_2_save": "X finished uploading and processing the existing video, then completed Save and returned to home. No Post click.",
+    "previous_native_video_thumbnails": [
+      "https://pbs.twimg.com/amplify_video_thumb/2112905826973503488/img/JyxnQzcK5n13VHnm.jpg"
+    ]
+  },
+  "revision": 2,
+  "revised_at": "2026-10-21T22:15:10.177160+08:00",
+  "revisions": [
+    {
+      "version": 1,
+      "text_path": "output/codex-whiteboard-film-x/post-en-v1.txt",
+      "status": "superseded"
+    },
+    {
+      "version": 2,
+      "text_path": "output/codex-whiteboard-film-x/post-en.txt",
+      "status": "pending_final_content_review",
+      "requested_changes": [
+        "Lead with starting from the relatively simple whiteboard style and a qualified comparison: GPT seems on par with Opus for this style.",
+        "Thank @lemomo_ai for the excellent project foundation."
+      ]
+    }
+  ]
 }
