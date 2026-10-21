@@ -1,0 +1,3 @@
+A failed manufacturing batch can push back a clinical trial. Someone then has to work out which plans change, what evidence is missing, and who needs to decide.
+
+That dependency problem is the interesting part of OpenAI’s Orchestra Bio acquisition. The stated plan is to connect Rosalind’s scientific tools with agents that track drug-development work and compare responses to problems, while scientists and program leaders keep the decisions.
