@@ -1,0 +1,9 @@
+A company can value excellent engineers and still hire fewer of them.
+
+If AI helps each engineer deliver more, hiring more engineers can expand output further. But that only makes business sense when there is enough demand to justify the extra work.
+
+Cheaper development may unlock new products and customers. It does not guarantee that every additional feature or product will find a buyer.
+
+When demand grows more slowly than output per engineer, a company may meet its needs with a smaller team. Technical ability alone does not remove that constraint.
+
+Industry-wide growth over a decade can also coexist with shrinking teams at individual companies today. The demand for software, the output of each engineer, and the number of jobs are related, but they do not move in lockstep.
