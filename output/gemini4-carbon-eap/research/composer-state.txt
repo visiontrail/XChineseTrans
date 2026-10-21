@@ -11,62 +11,62 @@ Browser tab: 1, Title: "Lentils on X: \"Gemini 4 Carbon EAP has officially start
 				9 container
 					10 container Leo Guo
 						11 image Leo Guo
-				50 container
-					51 container
-						52 container
-							53 text entry area (settable) Description: Post text, Value: Gemini 4 Carbon is reportedly reaching early-access partners. Lentils describes better 3D results than Argon, slower responses, and continued frontend/UI weaknesses.
+				12 container
+					13 container
+						14 container
+							15 text entry area (settable) Description: Post text, Value: Gemini 4 Carbon is reportedly reaching early-access partners, with better 3D results than Argon, slower responses, and continued frontend/UI weaknesses.
 
 
 If “less lazy” means fewer placeholders and more complete work, the extra wait could be worth it. Time spent fixing the output belongs in the speed comparison too.
-								54 text Gemini 4 Carbon is reportedly reaching early-access partners. Lentils describes better 3D results than Argon, slower responses, and continued frontend/UI weaknesses.
-								55 text If “less lazy” means fewer placeholders and more complete work, the extra wait could be worth it. Time spent fixing the output belongs in the speed comparison too.
-						56 container
-							57 text Quote
-							58 button Lentils Verified account @Lentils80 2 hours ago Gemini 4 Carbon EAP has officially started. Early access has been given to partners and it's being tested in LMArena. The release is very close. It's noticeably better than Gemini 4 Argon at 3D, though frontend/UI is still bad. It's also slower but less lazy.
-								59 container
-									60 container
-										61 container
-											62 container
-												63 text Lentils
-												64 image Verified account
-											65 container
-												66 text @Lentils80
-												67 container 2 hours ago
-													68 text 2h
-									69 text Gemini 4 Carbon EAP has officially started. Early access has been given to partners and it's being tested in LMArena. The release is very close.
+								61 text Gemini 4 Carbon is reportedly reaching early-access partners, with better 3D results than Argon, slower responses, and continued frontend/UI weaknesses.
+								62 text If “less lazy” means fewer placeholders and more complete work, the extra wait could be worth it. Time spent fixing the output belongs in the speed comparison too.
+						18 container
+							19 text Quote
+							20 button Lentils Verified account @Lentils80 4 hours ago Gemini 4 Carbon EAP has officially started. Early access has been given to partners and it's being tested in LMArena. The release is very close. It's noticeably better than Gemini 4 Argon at 3D, though frontend/UI is still bad. It's also slower but less lazy.
+								21 container
+									22 container
+										23 container
+											24 container
+												25 text Lentils
+												26 image Verified account
+											27 container
+												28 text @Lentils80
+												29 container 4 hours ago
+													30 text 4h
+									31 text Gemini 4 Carbon EAP has officially started. Early access has been given to partners and it's being tested in LMArena. The release is very close.
 
 It's noticeably better than Gemini 4 Argon at 3D, though frontend/UI is still bad. It's also slower but less lazy.
-					70 container
-						71 container id__1k2gvdclt13
-							72 link Description: Try out, Value: x.com/compose/articles
-							73 text  the new article composer for new formatting options.
-						74 button Close
-				31 container
-					32 button Everyone can reply
-						33 text Everyone can reply
-				34 container
-					35 container
-						36 button (disabled) Previous
-						37 tab group
-							38 container
-								39 button Choose Files
-								40 pop up button (collapsed) Description: Add photos or video, Secondary Actions: Expand
-							41 button Add a GIF
-							42 button (disabled) Add poll
-							43 pop up button Add emoji
-							44 button Schedule post
-							45 button (disabled) Tag location
-							46 button Content disclosure
-						47 button (disabled) Next
-					75 container
-						76 text 24,670 characters remaining
-						77 progress indicator 1
-					78 container
-						79 button Add post
-					48 button Post
-						49 text Post
+					32 container
+						33 container id__fqcxlnrnshb
+							34 link Description: Try out, Value: x.com/compose/articles
+							35 text  the new article composer for new formatting options.
+						36 button Close
+				37 container
+					38 button Everyone can reply
+						39 text Everyone can reply
+				40 container
+					41 container
+						42 button (disabled) Previous
+						43 tab group
+							44 container
+								45 button Choose Files
+								46 pop up button (collapsed) Description: Add photos or video, Secondary Actions: Expand
+							47 button Add a GIF
+							48 button (disabled) Add poll
+							49 pop up button Add emoji
+							50 button Schedule post
+							51 button (disabled) Tag location
+							52 button Content disclosure
+						53 button (disabled) Next
+					54 container
+						55 text 24,683 characters remaining
+						56 progress indicator 1
+					57 container
+						58 button Add post
+					59 button Post
+						60 text Post
 
-The focused UI element is 53 text entry area (settable) Description: Post text, Value: Gemini 4 Carbon is reportedly reaching early-access partners. Lentils describes better 3D results than Argon, slower responses, and continued frontend/UI weaknesses.
+The focused UI element is 15 text entry area (settable) Description: Post text, Value: Gemini 4 Carbon is reportedly reaching early-access partners, with better 3D results than Argon, slower responses, and continued frontend/UI weaknesses.
 
 
 If “less lazy” means fewer placeholders and more complete work, the extra wait could be worth it. Time spent fixing the output belongs in the speed comparison too.

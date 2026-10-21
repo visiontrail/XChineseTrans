@@ -8,7 +8,7 @@ Prepared on 2026-10-21, Asia/Singapore. Status: awaiting final-content approval;
 - Exact original / native Quote target: https://x.com/Lentils80/status/2112770669549068684
 - Destination: @LeoGuoLabs, verified in the live built-in browser account menu.
 - Read the Chinese original using Show original, then followed the native quoted card to Lentils. The original has no nested Quote, external supporting link, image, or video. Text-only native Quote is appropriate; no decorative asset or ALT is needed.
-- The Chinese intermediary says enterprise users can already use Carbon. Lentils says early-access partners, which is narrower. The draft preserves the narrower scope and attributes the report.
+- The Chinese intermediary says enterprise users can already use Carbon. Lentils says early-access partners, which is narrower. The draft preserves the narrower scope and marks the claims as reported; the native Quote card provides source identity.
 
 ## Original post
 
@@ -38,3 +38,7 @@ Read the initially loaded relevant conversation. No supporting author continuati
 No matching source IDs or Carbon topic records were found in output before preparation. Fetched origin/main and fast-forwarded from 4ae61f0 to 02f96a8 before writing. Existing unrelated output/SolarSystem-deepseek/ was preserved.
 
 The final text is post.txt. The live native Quote composer and its proof are recorded in publication-record.json and research/composer-ready.jpg. Publication requires the user's approval of this concrete version under AGENTS.md.
+
+## User correction, 2026-10-21
+
+The user rejected redundant source-name lead-ins in native Quote commentary, using “据 Lentils 的消息” as the example, and asked to save this as a standing preference. Removed “Lentils describes” from the current draft; “reportedly” continues to qualify the report. Apply this to both English public copy and Chinese review translations. This correction does not authorize publication. The initial version remains in Git commit 039e0a5; refreshed composer evidence corresponds to the revised post.txt.

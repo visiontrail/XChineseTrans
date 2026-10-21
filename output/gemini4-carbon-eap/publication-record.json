@@ -9,7 +9,7 @@
   "text_path": "post.txt",
   "media": [],
   "media_reason": "Both supplied and original posts are text-only.",
-  "claim_status": "Attributed unverified report; no public confirmation found in the checked Google or Arena pages.",
+  "claim_status": "Unverified report qualified with reportedly; native Quote card supplies source identity. No public confirmation found in the checked Google or Arena pages.",
   "approval": null,
   "publication_url": null,
   "submitted": false,
@@ -25,11 +25,18 @@
     "post_button_available": true,
     "screenshot_visually_reviewed": true
   },
-  "text_sha256": "c73c5efd1a6d1847ed0d5f7495c90b1edba422a7af6e4895e2bd748797131976",
-  "text_characters": 330,
+  "text_sha256": "d482242121ac52f492dad4fce114de4797ed24b7bb9947d5bbefe9810329ad89",
+  "text_characters": 317,
   "composer_evidence": [
     "research/composer-ready.jpg",
     "research/composer-state.txt"
   ],
-  "composer_note": "Full two-paragraph text accepted; native Lentils target present; 24,670 characters remaining shown. Post was not clicked."
+  "composer_note": "Full two-paragraph revised text accepted; native Lentils target present; 24,683 characters remaining shown. Post was not clicked.",
+  "revision": {
+    "date": "2026-10-21",
+    "reason": "User requested a standing rule against redundant source-author lead-ins in native Quote commentary and Chinese review translations.",
+    "change": "Removed Lentils describes; retained reportedly.",
+    "previous_version_commit": "039e0a5",
+    "publication_authorized": false
+  }
 }
