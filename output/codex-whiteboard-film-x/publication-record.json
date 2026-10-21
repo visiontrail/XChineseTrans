@@ -1,7 +1,7 @@
 {
   "account": "@LeoGuoLabs",
   "format": "standalone_post_with_native_video",
-  "status": "pending_final_content_review",
+  "status": "scheduled",
   "prepared_at": "2026-10-21T21:56:54.551335+08:00",
   "source_thread": {
     "host": "local",
@@ -42,24 +42,29 @@
     "screenshots": [
       "x-saved-draft.png",
       "x-draft-v2-editor.png",
-      "x-saved-draft-v2.png"
+      "x-saved-draft-v2.png",
+      "x-scheduled-20261021-2245.png"
     ],
     "composer_text_v2": "Complete revised text matches local copy after normalizing blank lines; one existing native video retained."
   },
   "author_statement": "About half the weekly Codex quota was used, supplied directly by the user; not derived from current usage dashboard.",
   "approval": {
-    "state": "pending_final_content_review",
-    "latest_instruction": "编辑完成不要发布，给我确认",
-    "publish_authorized": false
+    "state": "approved",
+    "latest_instruction": "可以，请你在美国西部时间早晨7点45发布吧",
+    "publish_authorized": true,
+    "approved_at": "2026-10-21T22:24:18.886668+08:00",
+    "approved_revision": 2,
+    "text_sha256": "d253416f7e37e792a2233ccc8b1dc65b99a6fc0644a9b665f84c7546f37b2bf1",
+    "approved_text_path": "output/codex-whiteboard-film-x/approved-post.txt"
   },
   "composer_url": "https://x.com/compose/post",
   "public_url": null,
   "draft": {
-    "saved": true,
+    "saved": false,
     "persistence_check": "After fresh navigation to Unsent posts, the revised opening, GPT/Opus comparison, thanks to @lemomo_ai, and 3:00 video are retained.",
     "url": "https://x.com/compose/post/unsent/drafts",
     "native_video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2112910441945198592/img/saFijvaLPpS5Hqvp.jpg",
-    "handoff": "Saved revised draft; publication awaits final review.",
+    "handoff": "Approved revision 2 was moved from Unsent posts into the native X Scheduled queue for 2026-10-21 22:45 Singapore time. Do not create another post.",
     "revision_2_save": "X finished uploading and processing the existing video, then completed Save and returned to home. No Post click.",
     "previous_native_video_thumbnails": [
       "https://pbs.twimg.com/amplify_video_thumb/2112905826973503488/img/JyxnQzcK5n13VHnm.jpg"
@@ -76,11 +81,41 @@
     {
       "version": 2,
       "text_path": "output/codex-whiteboard-film-x/post-en.txt",
-      "status": "pending_final_content_review",
+      "status": "scheduled",
       "requested_changes": [
         "Lead with starting from the relatively simple whiteboard style and a qualified comparison: GPT seems on par with Opus for this style.",
         "Thank @lemomo_ai for the excellent project foundation."
       ]
     }
-  ]
+  ],
+  "requested_schedule": {
+    "timezone": "America/Los_Angeles",
+    "local": "2026-10-21T07:45:00-07:00",
+    "abbreviation": "PDT",
+    "singapore": "2026-10-21T22:45:00+08:00",
+    "utc": "2026-10-21T14:45:00+00:00",
+    "interpretation": "Next occurrence of 07:45 US Pacific after the approval; local time now is before that slot."
+  },
+  "schedule": {
+    "mechanism": "X native scheduler",
+    "local_display": "Will send on Wed, Oct 21, 2026 at 10:45 PM",
+    "ui_timezone": "Singapore Standard Time",
+    "utc": "2026-10-21T14:45:00Z",
+    "submitted": true,
+    "queue_verified": true,
+    "composer_copy_matches_approved": true,
+    "composer_video_duration_seconds": 180.096,
+    "queue_verified_at": "2026-10-21T22:29:38.819058+08:00",
+    "queue_url": "https://x.com/compose/post/unsent/scheduled",
+    "queue_video_label": "3:00",
+    "queue_native_video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2112913418151952384/img/MN5qf6lRBHmqiUnC.jpg",
+    "screenshot": "output/codex-whiteboard-film-x/x-scheduled-20261021-2245.png"
+  },
+  "verification_automation": {
+    "id": "7-45",
+    "kind": "heartbeat",
+    "status": "ACTIVE",
+    "planned_local": "2026-10-21T22:47:00+08:00",
+    "purpose": "One-time public URL, full approved copy and native video playback verification after the scheduled post."
+  }
 }

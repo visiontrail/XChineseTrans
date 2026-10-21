@@ -1,0 +1,28 @@
+{
+  "status": "scheduled",
+  "account": "@LeoGuoLabs",
+  "schedule": {
+    "timezone": "America/Los_Angeles",
+    "local": "2026-10-21T07:45:00-07:00",
+    "abbreviation": "PDT",
+    "singapore": "2026-10-21T22:45:00+08:00",
+    "utc": "2026-10-21T14:45:00+00:00",
+    "interpretation": "Next occurrence of 07:45 US Pacific after the approval; local time now is before that slot."
+  },
+  "mechanism": "X native scheduler",
+  "queue_verified": true,
+  "queue_url": "https://x.com/compose/post/unsent/scheduled",
+  "approved_revision": 2,
+  "approved_text_path": "output/codex-whiteboard-film-x/approved-post.txt",
+  "approved_text_sha256": "d253416f7e37e792a2233ccc8b1dc65b99a6fc0644a9b665f84c7546f37b2bf1",
+  "media_path": "output/codex-whiteboard-film-x/does-ai-help-you-learn-3min.mp4",
+  "media_sha256": "9db8ae139d3ccbc7e576bb40a790ab8baded687fed897d6a9a43325f8b431df9",
+  "verification_automation": {
+    "id": "7-45",
+    "kind": "heartbeat",
+    "status": "ACTIVE",
+    "planned_local": "2026-10-21T22:47:00+08:00",
+    "purpose": "One-time public URL, full approved copy and native video playback verification after the scheduled post."
+  },
+  "public_url": null
+}
