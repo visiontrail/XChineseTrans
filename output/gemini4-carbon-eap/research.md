@@ -1,6 +1,6 @@
 # Gemini 4 Carbon early-access report
 
-Prepared on 2026-10-21, Asia/Singapore. Status: approved and queued in X native Scheduled posts; not yet publicly verified.
+Prepared on 2026-10-21, Asia/Singapore. Status: publicly verified; published at the requested 06:20 PDT on 2026-10-21.
 
 ## Source and format
 
@@ -51,3 +51,10 @@ The user requested “请你在美国西部时间，早晨6点20发送” after 
 The live X scheduler displays Singapore Standard Time. Set 21 October 2026, 9:20 PM, confirmed the complete unchanged two-paragraph text and Lentils Quote card, then clicked Schedule once. Reopened Drafts > Scheduled and verified the saved entry, source URL, reviewed text preview, and exact 9:20 PM time. Evidence: research/scheduled-queue-state.txt and research/scheduled-queue.jpg. This is queue confirmation, not public-delivery proof. No duplicate was created.
 
 Created one-time thread heartbeat carbon-quote for 21:22 Singapore time on 21 October to find and verify the actual public URL, exact text, account, Quote target and timestamp. This follow-up must not repost or reschedule; it reports completion/failure and stops after the one-time check.
+
+
+## Public verification, 2026-10-21
+
+Found https://x.com/LeoGuoLabs/status/2112896685894463491 on the live account profile and reopened the exact status URL. Verified the complete two-paragraph published text byte-for-byte against post.txt: SHA-256 d482242121ac52f492dad4fce114de4797ed24b7bb9947d5bbefe9810329ad89. The public DOM timestamp is 2026-10-21T13:20:00.000Z, exactly 06:20 PDT / 21:20 Singapore. The native Quote card visibly contains Lentils's original; clicked the card and confirmed navigation to https://x.com/Lentils80/status/2112770669549068684. No attached photo links or video are present, as approved. Saved full page, cropped post screenshot, exact text, DOM, and structured proof under research/public-*. No post was submitted during this verification.
+
+The initial semantic card click did not navigate; after inspecting the current screenshot, clicking the visible card opened the exact target successfully. Returned to the published status page. Deleted one-time automation carbon-quote after successful verification; no ongoing monitoring remains.

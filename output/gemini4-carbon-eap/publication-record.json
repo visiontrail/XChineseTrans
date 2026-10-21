@@ -1,5 +1,5 @@
 {
-  "status": "scheduled",
+  "status": "publicly_verified",
   "prepared_date": "2026-10-21",
   "timezone": "Asia/Singapore",
   "account": "@LeoGuoLabs",
@@ -15,8 +15,8 @@
     "approved_date": "2026-10-21",
     "scope": "Current revised English text and native Lentils Quote; time instruction after revised preview authorizes this version."
   },
-  "publication_url": null,
-  "submitted": false,
+  "publication_url": "https://x.com/LeoGuoLabs/status/2112896685894463491",
+  "submitted": true,
   "checks": {
     "live_source_read": true,
     "original_language_read": true,
@@ -29,7 +29,10 @@
     "post_button_available": true,
     "screenshot_visually_reviewed": true,
     "scheduled_queue_verified": true,
-    "public_page_verified": false
+    "public_page_verified": true,
+    "exact_published_text_verified": true,
+    "public_quote_target_verified": true,
+    "scheduled_publication_time_verified": true
   },
   "text_sha256": "d482242121ac52f492dad4fce114de4797ed24b7bb9947d5bbefe9810329ad89",
   "text_characters": 317,
@@ -60,14 +63,25 @@
     "evidence": [
       "research/scheduled-queue.jpg",
       "research/scheduled-queue-state.txt"
-    ]
+    ],
+    "delivered": true
   },
   "follow_up": {
     "automation_id": "carbon-quote",
     "kind": "heartbeat",
-    "status": "ACTIVE",
+    "status": "DELETED",
     "purpose": "One-time public-page verification only; no duplicate publication.",
     "scheduled_at_singapore": "2026-10-21T21:22:00+08:00",
-    "ongoing_monitoring": false
-  }
+    "ongoing_monitoring": false,
+    "completion": "One-time verification complete; automation deleted after confirming public delivery."
+  },
+  "published_at_utc": "2026-10-21T13:20:00.000Z",
+  "publicly_verified_at": "2026-10-21T13:25:42.852Z",
+  "public_evidence": [
+    "research/public-verification.json",
+    "research/public-post.txt",
+    "research/public-page-dom.txt",
+    "research/public-page.jpg",
+    "research/public-post.jpg"
+  ]
 }

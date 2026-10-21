@@ -1,0 +1,18 @@
+{
+  "public_url": "https://x.com/LeoGuoLabs/status/2112896685894463491",
+  "account": "@LeoGuoLabs",
+  "verified_at": "2026-10-21T13:25:42.852Z",
+  "published_at_utc": "2026-10-21T13:20:00.000Z",
+  "published_at_pacific": "2026-10-21T06:20:00-07:00",
+  "published_at_singapore": "2026-10-21T21:20:00+08:00",
+  "approved_text_sha256": "d482242121ac52f492dad4fce114de4797ed24b7bb9947d5bbefe9810329ad89",
+  "actual_text_sha256": "d482242121ac52f492dad4fce114de4797ed24b7bb9947d5bbefe9810329ad89",
+  "exact_text_match": true,
+  "quote_target": "https://x.com/Lentils80/status/2112770669549068684",
+  "quote_target_verified": true,
+  "extra_photo_links": [],
+  "video_count": 0,
+  "format": "native_quote_post",
+  "submission_by_this_verification": false,
+  "status": "publicly_verified"
+}
