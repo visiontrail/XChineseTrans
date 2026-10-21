@@ -1,0 +1,30 @@
+Browser tab: 1, Title: "Lentils on X: \"Gemini 4 Carbon EAP has officially started. Early access has been given to partners and it's being tested in LMArena. The release is very close. It's noticeably better than Gemini 4 Argon at 3D, though frontend/UI is still bad. It's also slower but less lazy.\" / X", URL: "https://x.com/compose/post/unsent/scheduled".
+0 AXWebArea URL: x.com/compose/post/unsent/scheduled, Lentils on X: "Gemini 4 Carbon EAP has officially started. Early access has been given to partners and it's being tested in LMArena. The release is very close. It's noticeably better than Gemini 4 Argon at 3D, though frontend/UI is still bad. It's also slower but less lazy." / X
+	1 container Drafts
+		2 container
+			3 container
+				4 container
+					5 button Back
+					6 heading Drafts, Value: 2, ID: modal-header
+						7 text Drafts
+					8 button Edit
+						9 text Edit
+				10 container Drafts
+					11 container
+						12 button (disabled) Previous
+						13 tab group
+							14 tab (selectable, settable, boolean) Unsent posts, Value: 0
+Unsent posts
+							15 tab (selected, settable, boolean) Scheduled, Value: 1
+Scheduled
+						16 button (disabled) Next
+			17 button Will send on Wed, Oct 21, 2026 at 9:20 PM https://x.com/Lentils80/status/2112770669549068684 Gemini 4 Carbon is reportedly reaching early-access partners, with better 3D results than Argon, slower responses, and continued frontend/UI weaknesses. If “less lazy” means fewer placeholders and more complete work, the extra wait could be worth it. Time spent fixing the output...
+				18 container
+					19 text Will send on Wed, Oct 21, 2026 at 9:20 PM
+					20 container
+						21 text https://x.com/Lentils80/status/2112770669549068684
+					22 text Gemini 4 Carbon is reportedly reaching early-access partners, with better 3D results than Argon, slower responses, and continued frontend/UI weaknesses.
+
+If “less lazy” means fewer placeholders and more complete work, the extra wait could be worth it. Time spent fixing the output...
+
+The focused UI element is 0 AXWebArea URL: x.com/compose/post/unsent/scheduled, Lentils on X: "Gemini 4 Carbon EAP has officially started. Early access has been given to partners and it's being tested in LMArena. The release is very close. It's noticeably better than Gemini 4 Argon at 3D, though frontend/UI is still bad. It's also slower but less lazy." / X

@@ -1,5 +1,5 @@
 {
-  "status": "pending_final_review",
+  "status": "scheduled",
   "prepared_date": "2026-10-21",
   "timezone": "Asia/Singapore",
   "account": "@LeoGuoLabs",
@@ -10,7 +10,11 @@
   "media": [],
   "media_reason": "Both supplied and original posts are text-only.",
   "claim_status": "Unverified report qualified with reportedly; native Quote card supplies source identity. No public confirmation found in the checked Google or Arena pages.",
-  "approval": null,
+  "approval": {
+    "user_instruction": "请你在美国西部时间，早晨6点20发送",
+    "approved_date": "2026-10-21",
+    "scope": "Current revised English text and native Lentils Quote; time instruction after revised preview authorizes this version."
+  },
   "publication_url": null,
   "submitted": false,
   "checks": {
@@ -23,7 +27,9 @@
     "composer_text_verified": true,
     "composer_quote_verified": true,
     "post_button_available": true,
-    "screenshot_visually_reviewed": true
+    "screenshot_visually_reviewed": true,
+    "scheduled_queue_verified": true,
+    "public_page_verified": false
   },
   "text_sha256": "d482242121ac52f492dad4fce114de4797ed24b7bb9947d5bbefe9810329ad89",
   "text_characters": 317,
@@ -38,5 +44,30 @@
     "change": "Removed Lentils describes; retained reportedly.",
     "previous_version_commit": "039e0a5",
     "publication_authorized": false
+  },
+  "schedule": {
+    "platform": "X native scheduled posts",
+    "timezone": "America/Los_Angeles",
+    "target_local": "2026-10-21T06:20:00-07:00",
+    "timezone_abbreviation": "PDT",
+    "target_utc": "2026-10-21T13:20:00Z",
+    "target_singapore": "2026-10-21T21:20:00+08:00",
+    "displayed_timezone": "Singapore Standard Time",
+    "displayed_label": "Will send on Wed, Oct 21, 2026 at 9:20 PM",
+    "queued": true,
+    "queued_verified_at": "2026-10-21T09:40:14.733079+00:00",
+    "queue_url": "https://x.com/compose/post/unsent/scheduled",
+    "evidence": [
+      "research/scheduled-queue.jpg",
+      "research/scheduled-queue-state.txt"
+    ]
+  },
+  "follow_up": {
+    "automation_id": "carbon-quote",
+    "kind": "heartbeat",
+    "status": "ACTIVE",
+    "purpose": "One-time public-page verification only; no duplicate publication.",
+    "scheduled_at_singapore": "2026-10-21T21:22:00+08:00",
+    "ongoing_monitoring": false
   }
 }

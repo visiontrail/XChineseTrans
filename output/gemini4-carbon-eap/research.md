@@ -1,6 +1,6 @@
 # Gemini 4 Carbon early-access report
 
-Prepared on 2026-10-21, Asia/Singapore. Status: awaiting final-content approval; unpublished.
+Prepared on 2026-10-21, Asia/Singapore. Status: approved and queued in X native Scheduled posts; not yet publicly verified.
 
 ## Source and format
 
@@ -37,8 +37,17 @@ Read the initially loaded relevant conversation. No supporting author continuati
 
 No matching source IDs or Carbon topic records were found in output before preparation. Fetched origin/main and fast-forwarded from 4ae61f0 to 02f96a8 before writing. Existing unrelated output/SolarSystem-deepseek/ was preserved.
 
-The final text is post.txt. The live native Quote composer and its proof are recorded in publication-record.json and research/composer-ready.jpg. Publication requires the user's approval of this concrete version under AGENTS.md.
+The final text is post.txt. The live native Quote composer and its proof are recorded in publication-record.json and research/composer-ready.jpg. The user subsequently approved this revised version by requesting scheduled publication at 06:20 US Pacific; schedule details follow.
 
 ## User correction, 2026-10-21
 
 The user rejected redundant source-name lead-ins in native Quote commentary, using “据 Lentils 的消息” as the example, and asked to save this as a standing preference. Removed “Lentils describes” from the current draft; “reportedly” continues to qualify the report. Apply this to both English public copy and Chinese review translations. This correction does not authorize publication. The initial version remains in Git commit 039e0a5; refreshed composer evidence corresponds to the revised post.txt.
+
+
+## Approved schedule, 2026-10-21
+
+The user requested “请你在美国西部时间，早晨6点20发送” after the revised preview. The next occurrence is 2026-10-21 06:20 America/Los_Angeles (PDT, UTC-07:00), equal to 2026-10-21 13:20 UTC and 21:20 Asia/Singapore. Time conversion checked with zoneinfo against the current UTC time.
+
+The live X scheduler displays Singapore Standard Time. Set 21 October 2026, 9:20 PM, confirmed the complete unchanged two-paragraph text and Lentils Quote card, then clicked Schedule once. Reopened Drafts > Scheduled and verified the saved entry, source URL, reviewed text preview, and exact 9:20 PM time. Evidence: research/scheduled-queue-state.txt and research/scheduled-queue.jpg. This is queue confirmation, not public-delivery proof. No duplicate was created.
+
+Created one-time thread heartbeat carbon-quote for 21:22 Singapore time on 21 October to find and verify the actual public URL, exact text, account, Quote target and timestamp. This follow-up must not repost or reschedule; it reports completion/failure and stops after the one-time check.
