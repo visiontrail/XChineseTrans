@@ -5,13 +5,17 @@
   "original_quote_target": null,
   "format": "standalone",
   "format_reason": "Source has a news screenshot and no native relevant Quote; earlier source is Xueqiu notes.",
-  "status": "prepared_awaiting_review",
+  "status": "scheduled",
   "text_path": "post-en-v1.txt",
   "media_order": [
     "glm-scale-comparison-v1.png"
   ],
   "alt_path": "alt-text-en.txt",
-  "review_authorization": null,
+  "review_authorization": {
+    "user_message": "请你在美国西部时间早晨6点50发布",
+    "approved_at": "2026-10-21T20:26:36.078465+08:00",
+    "scope": "The exact English text and one image shown in the preceding final review; schedule publication once."
+  },
   "publication_submitted": false,
   "published_url": null,
   "checks": {
@@ -23,10 +27,15 @@
     "rumor_qualified": true,
     "image_visually_inspected": true,
     "composer_text_accepted": true,
-    "composer_image_uploaded": false,
-    "alt_entered": false
+    "composer_image_uploaded": true,
+    "alt_entered": true,
+    "live_account_verified": "@LeoGuoLabs",
+    "alt_retained_in_queue": true,
+    "composer_copy_matches_approved_normalized_paragraph_spacing": true,
+    "native_queue_verified": true,
+    "duplicate_glm_schedule_found_before_submission": false
   },
-  "ui_blocker": "Ego Lite extension disallows file URL access; fileChooser.setFiles failed. Clipboard fallback and browser connection then disconnected. Local final files are intact.",
+  "ui_blocker": null,
   "assets": [
     {
       "path": "post-en-v1.txt",
@@ -53,5 +62,32 @@
       "bytes": 120569,
       "sha256": "2345dbcd563c6a3b631a1c683284b0240d6fb278ddade3b7532a0e22de78c24a"
     }
-  ]
+  ],
+  "schedule": {
+    "timezone": "America/Los_Angeles",
+    "pacific": "2026-10-21T06:50:00-07:00",
+    "singapore": "2026-10-21T21:50:00+08:00",
+    "utc": "2026-10-21T13:50:00+00:00",
+    "state": "native_x_queue_verified",
+    "submitted_at": "2026-10-21T20:29:36.184981+08:00",
+    "queue_url": "https://x.com/compose/post/unsent/scheduled",
+    "queue_display": "Will send on Wed, Oct 21, 2026 at 9:50 PM",
+    "ui_timezone": "Singapore Standard Time",
+    "evidence": [
+      "research/schedule-settings.txt",
+      "research/schedule-settings.png",
+      "research/scheduled-composer.png",
+      "research/scheduled-queue-state.txt",
+      "research/scheduled-queue.png"
+    ]
+  },
+  "previous_ui_blocker_resolved": "Completed image upload and ALT in the authenticated Codex built-in browser; no browser permission settings changed.",
+  "schedule_submitted": true,
+  "verification_automation": {
+    "id": "glm",
+    "kind": "heartbeat",
+    "status": "ACTIVE",
+    "run_once_at_singapore": "2026-10-21T21:52:00+08:00",
+    "purpose": "Public-page verification of the existing native scheduled post only; never republish; deactivate after this one check."
+  }
 }

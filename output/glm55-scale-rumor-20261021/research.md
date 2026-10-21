@@ -29,3 +29,13 @@ Checked on 2026-10-21 (Asia/Singapore).
 - Initial file chooser attempt targeted an AX label “Choose Files” that differed from the DOM “Choose File”; recovered in place after browser runtime reset and rediscovered browser IDs.
 - Actual upload menu opened and Upload selected. FileChooser.setFiles failed because the extension's “Allow access to file URLs” permission was disabled. Clipboard fallback could not complete due native-pipe disconnection; the browser connection subsequently became unavailable. No settings were changed. Image upload and ALT entry were not verified. Composer preservation could not be reconfirmed after the disconnect; local copy is authoritative.
 - No publication approval, submission, scheduling, or public post exists for this task.
+
+## Approved schedule — 2026-10-21
+
+The user requested “请你在美国西部时间早晨6点50发布” after the full text and image were shown, approving this exact package and one scheduled publication. The next occurrence is 2026-10-21 06:50 PDT (America/Los_Angeles), 13:50 UTC, 21:50 Asia/Singapore.
+
+Used the authenticated Codex built-in browser. Live account was @LeoGuoLabs. Checked the native Scheduled queue before submission: only the unrelated 21:20 Carbon Quote was present, no GLM duplicate. Created a separate empty composer, preserved the approved English copy, uploaded the approved 1536×1024 image, and entered the exact ALT. The image and ALT were retained. Read the full composer text and compared it with the approved file, normalizing only repeated line breaks; content matched.
+
+The schedule editor explicitly displayed Singapore Standard Time. Selected 21 October 2026, 9:50 PM, confirmed, and clicked Schedule once. X reported “Your post will be sent on Wed, Oct 21, 2026 at 9:50 PM.” Reopened the actual Scheduled queue and verified the GLM row at 9:50 PM with one image and its ALT. Evidence is saved under research/schedule-settings.*, scheduled-composer.png, scheduled-queue-state.txt and scheduled-queue.png. Earlier Ego Lite upload limitations are resolved via the built-in browser without changing extension permissions.
+
+Created one attached heartbeat, id glm, to check the actual public result at 21:52 Singapore time on this date. Its prompt forbids duplicate submission, preserves exact copy and media, requires checking the real public URL, and stops after the one verification. This is an accepted native X schedule, not yet a publicly verified post.

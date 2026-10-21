@@ -1,0 +1,325 @@
+- heading "To view keyboard shortcuts, press question mark View keyboard shortcuts" [level=2]:
+  - generic: To view keyboard shortcuts, press question mark
+  - link "View keyboard shortcuts":
+    - /url: /i/keyboard_shortcuts
+- button "Grok":
+- button "Chat":
+- dialog:
+  - dialog "Drafts":
+    - button "Back":
+    - heading "Drafts" [level=2]
+    - button "Edit":
+      - generic: Edit
+    - navigation "Drafts":
+      - button "Previous" [disabled]:
+      - tablist:
+        - tab "Unsent posts":
+          - generic: Unsent posts
+        - tab "Scheduled" [selected]:
+          - generic: Scheduled
+      - button "Next" [disabled]:
+    - button "Will send on Wed, Oct 21, 2026 at 9:20 PM https://x.com/Lentils80/status/2112770669549068684 Gemini 4 Carbon is reportedly reaching early-access partners, with better 3D results than Argon, slower responses, and continued frontend/UI weaknesses. If “less lazy” means fewer placeholders and more complete work, the extra wait could be worth it. Time spent fixing the output...":
+      - text: Will send on Wed, Oct 21, 2026 at 9:20 PM
+      - generic: https://x.com/Lentils80/status/2112770669549068684
+      - generic: Gemini 4 Carbon is reportedly reaching early-access partners, with better 3D results than Argon, slower responses, and continued frontend/UI weaknesses. If “less lazy” means fewer placeholders and more complete work, the extra wait could be worth it. Time spent fixing the output...
+    - 'button "Will send on Wed, Oct 21, 2026 at 9:50 PM Rumors put Z.ai’s next GLM base model at 2.5–3.5T parameters, versus 744B for GLM-5.3. If accurate, that’s 3.4–4.7× the total parameter count. GLM-5.3 already improved through post-training on the same base as 5.2. Pairing that work with a much larger base cou... English comparison graphic on an ivory background. GLM-5.3: 744 billion total parameters, released. Next GLM base model: rumored 2.5 to 3.5 trillion, not confirmed by Z.ai. That would be 3.4 to 4.7 times the total parameter count if accurate. Parameter count does not establish capability; Fable-class performance remains unverified."':
+      - text: Will send on Wed, Oct 21, 2026 at 9:50 PM
+      - generic: Rumors put Z.ai’s next GLM base model at 2.5–3.5T parameters, versus 744B for GLM-5.3. If accurate, that’s 3.4–4.7× the total parameter count. GLM-5.3 already improved through post-training on the same base as 5.2. Pairing that work with a much larger base cou...
+      - 'link "English comparison graphic on an ivory background. GLM-5.3: 744 billion total parameters, released. Next GLM base model: rumored 2.5 to 3.5 trillion, not confirmed by Z.ai. That would be 3.4 to 4.7 times the total parameter count if accurate. Parameter count does not establish capability; Fable-class performance remains unverified."':
+        - /url: https://pbs.twimg.com/media/HVJ4NnnbgAAiGf8.jpg
+        - 'generic "English comparison graphic on an ivory background. GLM-5.3: 744 billion total parameters, released. Next GLM base model: rumored 2.5 to 3.5 trillion, not confirmed by Z.ai. That would be 3.4 to 4.7 times the total parameter count if accurate. Parameter count does not establish capability; Fable-class performance remains unverified."':
+          - 'img "English comparison graphic on an ivory background. GLM-5.3: 744 billion total parameters, released. Next GLM base model: rumored 2.5 to 3.5 trillion, not confirmed by Z.ai. That would be 3.4 to 4.7 times the total parameter count if accurate. Parameter count does not establish capability; Fable-class performance remains unverified."'
+- button
+- button
+- banner:
+  - heading [level=1]:
+    - link:
+      - /url: /home
+  - navigation:
+    - link:
+      - /url: /home
+      - generic: Home
+    - link:
+      - /url: /explore
+      - generic: Explore
+    - link:
+      - /url: /notifications
+      - generic: Notifications
+    - link:
+      - /url: /i/chat
+      - generic: Chat
+    - link:
+      - /url: /i/calls
+      - generic: Calls
+    - link:
+      - /url: /i/grok
+      - generic: Grok
+    - link:
+      - /url: /i/premium
+      - generic: Subscription
+    - link:
+      - /url: /i/history
+      - generic: History
+    - link:
+      - /url: /LeoGuoLabs
+      - generic: Profile
+    - button:
+      - generic: More
+  - link:
+    - /url: /compose/post
+    - generic: Post
+  - button:
+    - generic: Leo Guo
+    - generic: "@LeoGuoLabs"
+- main:
+  - navigation:
+    - button [disabled]:
+    - tablist:
+      - tab [selected]:
+        - text: For you
+      - tab:
+        - generic: Following
+      - tab:
+        - generic: NFL
+      - tab:
+        - generic: Tech
+      - tab:
+        - generic: Crypto
+    - button [disabled]:
+  - button:
+  - status:
+    - button:
+      - generic: See new posts
+  - link:
+    - /url: /LeoGuoLabs
+  - generic: What’s happening?
+  - textbox
+  - navigation:
+    - button [disabled]:
+    - tablist:
+      - button
+      - button:
+      - button:
+      - button:
+      - button:
+      - button:
+      - button [disabled]:
+      - button:
+    - button [disabled]:
+  - button [disabled]:
+    - generic: Post
+  - region:
+    - heading [level=1]: Your Home Timeline
+    - article:
+      - link:
+        - /url: /technoSaas
+      - link:
+        - /url: /technoSaas
+        - generic: Alexworks
+      - link:
+        - /url: /technoSaas
+        - generic: "@technoSaas"
+      - generic: ·
+      - link:
+        - /url: /technoSaas/status/2112529860686119276
+        - time: 23h
+      - button:
+      - button:
+      - text: hi
+      - link:
+        - /url: /X
+        - text: "@X"
+      - text: ", looking to connect with more builders and runners i'm Alex combat engineer on leave, dad to a 4-week-old, and building ai tools for small businesses between naps and 2:30am feeds still figuring out distribution, sales and sleep (in that order) come say hi 👋"
+      - link:
+        - /url: /technoSaas/status/2112529860686119276/photo/1
+      - button:
+        - generic: "112"
+      - button:
+        - generic: "3"
+      - button:
+        - generic: "140"
+      - link:
+        - /url: /technoSaas/status/2112529860686119276/analytics
+        - generic: 3.1K
+      - button:
+      - button:
+    - article:
+      - link:
+        - /url: /F1
+      - link:
+        - /url: /F1
+        - generic: Formula 1
+      - link:
+        - /url: /F1
+        - generic: "@F1"
+      - button:
+      - generic: Sleepy heads on the grid 😴
+      - button:
+      - link:
+        - /url: https://www.moomoo.com/sg/events/ads?global_content=%7B%22promote_content%22%3A%22506%22%2C%22promote_id%22%3A16427%2C%22promote_type%22%3A17%2C%22sub_promote_id%22%3A2%7D&website_ctrl=version25&twclid=23d5n1854iuslr85doi64yzi8d
+        - generic: Visit Moomoo SG
+      - button:
+      - generic: 0:15
+      - generic: Video will play after ad
+      - button:
+        - generic: "5"
+      - button:
+        - generic: "11"
+      - button:
+        - generic: "19"
+      - button:
+        - generic: "499"
+      - link:
+        - /url: /F1/status/2108887518124941486/analytics
+        - generic: 2M
+      - button:
+      - button:
+    - article:
+      - link:
+        - /url: /hyvarjus
+      - link:
+        - /url: /hyvarjus
+        - generic: Jussi Hyvärinen
+      - link:
+        - /url: /hyvarjus
+        - generic: "@hyvarjus"
+      - generic: ·
+      - link:
+        - /url: /hyvarjus/status/2112602865726321121
+        - time: 18h
+      - button:
+      - button:
+      - generic: Okay, let me join the trend 👋🏼 I’m looking to connect with awesome people who are actively building and shipping cool stuff. If you are a - founder - SaaS builder - indie hacker - developer - vibe coder Drop a comment, show me what you work on, and let’s connect! 👇🏼
+      - button:
+        - generic: "105"
+      - button:
+      - button:
+        - generic: "67"
+      - link:
+        - /url: /hyvarjus/status/2112602865726321121/analytics
+        - generic: 1.4K
+      - button:
+      - button:
+    - article:
+      - link:
+        - /url: /wangzailry
+      - link:
+        - /url: /wangzailry
+        - generic: TerraByte_AI
+      - link:
+        - /url: /wangzailry
+        - generic: "@wangzailry"
+      - generic: ·
+      - link:
+        - /url: /wangzailry/status/2112883384720433314
+        - time: 1m
+      - button:
+      - button:
+      - generic: 腾讯把元宝搜索开放了：给 Agent 接联网眼，Skill / MCP / API 怎么选
+      - generic: 10 月 20 日，财经网科技转述腾讯的消息：元宝搜索全新升级，并通过腾讯云向个人开发者与企业开放。[https://news.qq.com/rain/a/20261020A0DAL400](https://news.qq.com/rain/a/20261020A0DAL400) 做 Agent...
+      - button:
+      - button:
+      - button:
+      - link:
+        - /url: /wangzailry/status/2112883384720433314/analytics
+        - generic: "1"
+      - button:
+      - button:
+  - search:
+    - combobox
+  - heading [level=2]:
+    - generic: Today’s News
+    - button:
+  - link:
+    - generic: Unitree Unveils H2-X Humanoid Robot Mastering Kung Fu and Rescues
+    - generic: 4 hours ago · News · 3,985 posts
+  - link:
+    - generic: Grok Bot Helps Solo Founders Build AI Teams
+    - generic: Trending now · Other · 264 posts
+  - link:
+    - generic: DeepSeek Open-Sources DeepInfer for Efficient V4.1-Flash Inference
+    - generic: Trending now · News · 426 posts
+  - region:
+    - heading [level=1]: Trending now
+    - heading [level=2]:
+      - generic: What’s happening
+    - link:
+      - generic: Politics · Trending
+      - generic: Rubio
+      - button:
+    - link:
+      - generic: Politics · Trending
+      - generic: Gitmo
+      - button:
+    - link:
+      - generic: Trending in Singapore
+      - generic: dewtee shines at howe
+      - button:
+    - link:
+      - generic: Trending in Singapore
+      - generic: welcome back
+      - button:
+    - link:
+      - /url: /explore/tabs/for-you
+      - generic: Show more
+  - complementary:
+    - heading [level=2]:
+      - generic: Who to follow
+    - list:
+      - link:
+        - /url: /DrJimFan
+      - link:
+        - /url: /DrJimFan
+        - generic: Jim Fan
+      - link:
+        - /url: /DrJimFan
+        - generic: "@DrJimFan"
+      - button:
+        - generic: Follow
+      - link:
+        - /url: /DeepLearningAI
+      - link:
+        - /url: /DeepLearningAI
+        - generic: DeepLearning.AI
+      - link:
+        - /url: /DeepLearningAI
+        - generic: "@DeepLearningAI"
+      - button:
+        - generic: Follow
+      - link:
+        - /url: /dotey
+      - link:
+        - /url: /dotey
+        - generic: 宝玉
+      - link:
+        - /url: /dotey
+        - generic: "@dotey"
+      - button:
+        - generic: Follow
+    - link:
+      - /url: /i/connect_people?user_id=2089926964954144768
+      - generic: Show more
+  - navigation:
+    - link:
+      - /url: https://x.com/tos
+      - text: Terms
+    - generic: ·
+    - link:
+      - /url: https://x.com/privacy
+      - text: Privacy
+    - generic: ·
+    - link:
+      - /url: https://support.x.com/articles/20170514
+      - text: Cookies
+    - generic: ·
+    - link:
+      - /url: https://help.x.com/resources/accessibility
+      - text: Accessibility
+    - generic: ·
+    - link:
+      - /url: https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo
+      - text: Ads Info
+    - generic: ·
+    - button:
+      - text: More
+    - generic: © 2026 X Corp.

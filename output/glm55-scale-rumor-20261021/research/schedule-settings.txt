@@ -1,0 +1,471 @@
+- heading "To view keyboard shortcuts, press question mark View keyboard shortcuts" [level=2]:
+  - generic: To view keyboard shortcuts, press question mark
+  - link "View keyboard shortcuts":
+    - /url: /i/keyboard_shortcuts
+- button "Grok":
+- button "Chat":
+- dialog:
+  - dialog "Schedule":
+    - button "Close":
+    - heading "Schedule" [level=2]
+    - button "Confirm":
+      - generic: Confirm
+    - text: Will send on Wed, Oct 21, 2026 at 9:50 PM
+    - generic: Date
+    - group "Date":
+      - generic: Month
+      - combobox "Month":
+        - option [disabled]
+        - option "January"
+        - option "February"
+        - option "March"
+        - option "April"
+        - option "May"
+        - option "June"
+        - option "July"
+        - option "August"
+        - option "September"
+        - option "October" [selected]
+        - option "November"
+        - option "December"
+      - generic: Day
+      - combobox "Day":
+        - option [disabled]
+        - option "1"
+        - option "2"
+        - option "3"
+        - option "4"
+        - option "5"
+        - option "6"
+        - option "7"
+        - option "8"
+        - option "9"
+        - option "10"
+        - option "11"
+        - option "12"
+        - option "13"
+        - option "14"
+        - option "15"
+        - option "16"
+        - option "17"
+        - option "18"
+        - option "19"
+        - option "20"
+        - option "21" [selected]
+        - option "22"
+        - option "23"
+        - option "24"
+        - option "25"
+        - option "26"
+        - option "27"
+        - option "28"
+        - option "29"
+        - option "30"
+        - option "31"
+      - generic: Year
+      - combobox "Year":
+        - option [disabled]
+        - option "2028"
+        - option "2027"
+        - option "2026" [selected]
+      - button "Calendar":
+      - textbox: 2026-10-21
+    - group "Time":
+      - generic: Time
+      - generic: Hour
+      - combobox "Hour":
+        - option [disabled]
+        - option "1"
+        - option "2"
+        - option "3"
+        - option "4"
+        - option "5"
+        - option "6"
+        - option "7"
+        - option "8"
+        - option "9" [selected]
+        - option "10"
+        - option "11"
+        - option "12"
+      - generic: Minute
+      - combobox "Minute":
+        - option [disabled]
+        - option "00"
+        - option "01"
+        - option "02"
+        - option "03"
+        - option "04"
+        - option "05"
+        - option "06"
+        - option "07"
+        - option "08"
+        - option "09"
+        - option "10"
+        - option "11"
+        - option "12"
+        - option "13"
+        - option "14"
+        - option "15"
+        - option "16"
+        - option "17"
+        - option "18"
+        - option "19"
+        - option "20"
+        - option "21"
+        - option "22"
+        - option "23"
+        - option "24"
+        - option "25"
+        - option "26"
+        - option "27"
+        - option "28"
+        - option "29"
+        - option "30"
+        - option "31"
+        - option "32"
+        - option "33"
+        - option "34"
+        - option "35"
+        - option "36"
+        - option "37"
+        - option "38"
+        - option "39"
+        - option "40"
+        - option "41"
+        - option "42"
+        - option "43"
+        - option "44"
+        - option "45"
+        - option "46"
+        - option "47"
+        - option "48"
+        - option "49"
+        - option "50" [selected]
+        - option "51"
+        - option "52"
+        - option "53"
+        - option "54"
+        - option "55"
+        - option "56"
+        - option "57"
+        - option "58"
+        - option "59"
+      - generic: AM/PM
+      - combobox "AM/PM":
+        - option "AM"
+        - option "PM" [selected]
+      - button "Time picker":
+      - textbox: 21:50
+    - generic: Time zone
+    - generic: Singapore Standard Time
+    - button "Scheduled posts":
+      - generic: Scheduled posts
+- button
+- button
+- banner:
+  - heading [level=1]:
+    - link:
+      - /url: /home
+  - navigation:
+    - link:
+      - /url: /home
+      - generic: Home
+    - link:
+      - /url: /explore
+      - generic: Explore
+    - link:
+      - /url: /notifications
+      - generic: Notifications
+    - link:
+      - /url: /i/chat
+      - generic: Chat
+    - link:
+      - /url: /i/calls
+      - generic: Calls
+    - link:
+      - /url: /i/grok
+      - generic: Grok
+    - link:
+      - /url: /i/premium
+      - generic: Subscription
+    - link:
+      - /url: /i/history
+      - generic: History
+    - link:
+      - /url: /LeoGuoLabs
+      - generic: Profile
+    - button:
+      - generic: More
+  - link:
+    - /url: /compose/post
+    - generic: Post
+  - button:
+    - generic: Leo Guo
+    - generic: "@LeoGuoLabs"
+- main:
+  - navigation:
+    - button [disabled]:
+    - tablist:
+      - tab [selected]:
+        - text: For you
+      - tab:
+        - generic: Following
+      - tab:
+        - generic: NFL
+      - tab:
+        - generic: Tech
+      - tab:
+        - generic: Crypto
+    - button [disabled]:
+  - button:
+  - status:
+    - button:
+      - generic: See new posts
+  - link:
+    - /url: /LeoGuoLabs
+  - generic: What’s happening?
+  - textbox
+  - navigation:
+    - button [disabled]:
+    - tablist:
+      - button
+      - button:
+      - button:
+      - button:
+      - button:
+      - button:
+      - button [disabled]:
+      - button:
+    - button [disabled]:
+  - button [disabled]:
+    - generic: Post
+  - region:
+    - heading [level=1]: Your Home Timeline
+    - article:
+      - link:
+        - /url: /daisyineurope
+      - link:
+        - /url: /daisyineurope
+        - generic: Daisy
+      - link:
+        - /url: /daisyineurope
+        - generic: "@daisyineurope"
+      - generic: ·
+      - link:
+        - /url: /daisyineurope/status/2112875584028287087
+        - time: 29m
+      - button:
+      - button:
+      - generic: Do you think people are too quick to judge a post by its engagement numbers?
+      - button:
+        - generic: "8"
+      - button:
+      - button:
+        - generic: "13"
+      - link:
+        - /url: /daisyineurope/status/2112875584028287087/analytics
+        - generic: "210"
+      - button:
+      - button:
+    - article:
+      - link:
+        - /url: /IBKR
+      - link:
+        - /url: /IBKR
+        - generic: Interactive Brokers
+      - link:
+        - /url: /IBKR
+        - generic: "@IBKR"
+      - generic: Ad
+      - button:
+      - generic: Access global stocks, options, futures, bonds and more all from one powerful platform. Interactive Brokers.
+      - link:
+        - /url: https://www.interactivebrokers.com.sg/en/whyib/overview.php?utm_ibsource=x000160&utm_source=x&utm_medium=paid_social&utm_campaign=soc_x_core_ibsg_sg_acq_20260911&utm_id=socmp000017&utm_content=soccr000160&ibkr_object_id=socag000016&ibkr_creative_id=soccr000160&ibkr_entity=ibsg&ibkr_country=sg&twclid=253z2apaqk9tc0926zeteyeapt
+        - generic: Unlimited Possibilities. One Platform.
+      - link:
+        - /url: https://www.interactivebrokers.com.sg/en/whyib/overview.php?utm_ibsource=x000160&utm_source=x&utm_medium=paid_social&utm_campaign=soc_x_core_ibsg_sg_acq_20260911&utm_id=socmp000017&utm_content=soccr000160&ibkr_object_id=socag000016&ibkr_creative_id=soccr000160&ibkr_entity=ibsg&ibkr_country=sg&twclid=253z2apaqk9tc0926zeteyeapt
+        - text: From interactivebrokers.com.sg
+      - button:
+        - generic: "10"
+      - button:
+        - generic: "8"
+      - button:
+        - generic: "273"
+      - link:
+        - /url: /IBKR/status/2100689550645346317/analytics
+        - generic: 8.6M
+      - button:
+      - button:
+    - article:
+      - link:
+        - /url: /AnnaBlazickova
+      - link:
+        - /url: /AnnaBlazickova
+        - generic: Anna Blazickova
+      - link:
+        - /url: /AnnaBlazickova
+        - generic: "@AnnaBlazickova"
+      - generic: ·
+      - link:
+        - /url: /AnnaBlazickova/status/2112858083831463952
+        - time: 1h
+      - button:
+      - button:
+      - text: Hey
+      - link:
+        - /url: /X
+        - text: "@X"
+      - text: "algorithm, I’d love to connect with more people that are into: - AI - Startups - indie hacking - building stuff I’m Anna and I’m building"
+      - link:
+        - /url: /LazurioAI
+        - text: "@LazurioAI"
+      - text: . I want to share my journey & get inspired by yours. Drop your 👋🏼 if this resonates with you!
+      - link:
+        - /url: /AnnaBlazickova/status/2112858083831463952/photo/1
+      - button:
+        - generic: "22"
+      - button:
+      - button:
+        - generic: "36"
+      - link:
+        - /url: /AnnaBlazickova/status/2112858083831463952/analytics
+        - generic: "543"
+      - button:
+      - button:
+    - article:
+      - link:
+        - /url: /shakhzod1001
+      - link:
+        - /url: /shakhzod1001
+        - generic: Shakhzod Karimov
+      - link:
+        - /url: /shakhzod1001
+        - generic: "@shakhzod1001"
+      - generic: ·
+      - link:
+        - /url: /shakhzod1001/status/2112511570626425242
+        - time: Oct 20
+      - button:
+      - button:
+      - generic: "You can now congratulate me 🎉🎉. Hard work always pays off !! One important question: will get I paid for my last 2 weeks on 23th or from today on ? Does anybody know ?"
+      - link:
+        - /url: /shakhzod1001/status/2112511570626425242/photo/1
+      - generic: Quote
+      - link:
+        - generic: Shakhzod Karimov
+        - generic: "@shakhzod1001"
+        - generic: ·
+        - time: Oct 20
+        - link:
+          - /url: /shakhzod1001/status/2112397809819521440/photo/1
+        - generic: "Finally 😭!! The day has come: Applied to Original Content Rewards & Subsciptions. Wish everyone good luck !!"
+      - button:
+        - generic: "152"
+      - button:
+        - generic: "4"
+      - button:
+        - generic: "211"
+      - link:
+        - /url: /shakhzod1001/status/2112511570626425242/analytics
+        - generic: 4.7K
+      - button:
+      - button:
+  - search:
+    - combobox
+  - heading [level=2]:
+    - generic: Today’s News
+    - button:
+  - link:
+    - generic: Unitree Unveils H2-X Humanoid Robot Mastering Kung Fu and Rescues
+    - generic: 4 hours ago · News · 3,938 posts
+  - link:
+    - generic: Grok Bot Helps Solo Founders Build AI Teams
+    - generic: Trending now · Other · 257 posts
+  - link:
+    - generic: DeepSeek Open-Sources DeepInfer for Efficient V4.1-Flash Inference
+    - generic: Trending now · News · 388 posts
+  - region:
+    - heading [level=1]: Trending now
+    - heading [level=2]:
+      - generic: What’s happening
+    - link:
+      - generic: Politics · Trending
+      - generic: Rubio
+      - button:
+    - link:
+      - generic: Politics · Trending
+      - generic: Gitmo
+      - button:
+    - link:
+      - generic: Trending in Singapore
+      - generic: dewtee shines at howe
+      - button:
+    - link:
+      - generic: Trending in Singapore
+      - generic: "#babymonsterinsg"
+      - button:
+    - link:
+      - /url: /explore/tabs/for-you
+      - generic: Show more
+  - complementary:
+    - heading [level=2]:
+      - generic: Who to follow
+    - list:
+      - link:
+        - /url: /huxlab
+      - link:
+        - /url: /huxlab
+        - generic: Hux
+      - link:
+        - /url: /huxlab
+        - generic: "@huxlab"
+      - button:
+        - generic: Follow
+      - link:
+        - /url: /leo114119
+      - link:
+        - /url: /leo114119
+        - generic: Leo · Building w/ AI
+      - link:
+        - /url: /leo114119
+        - generic: "@leo114119"
+      - button:
+        - generic: Follow
+      - link:
+        - /url: /GHchangelog
+      - link:
+        - /url: /GHchangelog
+        - generic: GitHub Changelog
+        - link
+      - link:
+        - /url: /GHchangelog
+        - generic: "@GHchangelog"
+      - button:
+        - generic: Follow
+    - link:
+      - /url: /i/connect_people?user_id=2089926964954144768
+      - generic: Show more
+  - navigation:
+    - link:
+      - /url: https://x.com/tos
+      - text: Terms
+    - generic: ·
+    - link:
+      - /url: https://x.com/privacy
+      - text: Privacy
+    - generic: ·
+    - link:
+      - /url: https://support.x.com/articles/20170514
+      - text: Cookies
+    - generic: ·
+    - link:
+      - /url: https://help.x.com/resources/accessibility
+      - text: Accessibility
+    - generic: ·
+    - link:
+      - /url: https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo
+      - text: Ads Info
+    - generic: ·
+    - button:
+      - text: More
+    - generic: © 2026 X Corp.
