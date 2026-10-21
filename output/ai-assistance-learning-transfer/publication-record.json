@@ -3,7 +3,7 @@
   "prepared_at": "2026-10-16T15:07:32.965679+08:00",
   "account": "@LeoGuoLabs",
   "format": "x_article",
-  "state": "scheduled",
+  "state": "blocked_not_submitted",
   "published_url": null,
   "draft_url": "https://x.com/compose/articles/edit/2110987398230249472",
   "preview_url": "https://x.com/compose/articles/edit/2110987398230249472/preview",
@@ -50,7 +50,7 @@
     "cover_and_inline_images": 4,
     "full_text_accepted": true,
     "submitted": false,
-    "native_status": "Draft Last saved; Only you can view this unpublished Article.",
+    "native_status": "Draft / Only you can view this unpublished Article. Editor loading spinner, 0 words, Publish disabled.",
     "browser": "Codex in-app browser",
     "local_responsive_checks": "article-layout-checks.json",
     "native_review_screenshot": "article-native-top-review.jpg",
@@ -66,8 +66,8 @@
       "article-native-method-review.jpg",
       "article-native-video-playing.jpg"
     ],
-    "approved_asset_hashes_reverified_at": "2026-10-20T03:28:57.074721+00:00",
-    "live_account_verified_on": "2026-10-20",
+    "approved_asset_hashes_reverified_at": "2026-10-21T15:53:26Z",
+    "live_account_verified_on": "2026-10-21T15:53:36.122Z",
     "schedule_options_screenshot": "article-publish-options-20261020.jpg",
     "native_inline_videos": 1,
     "native_video_saved_after_reload": true,
@@ -77,7 +77,9 @@
     "video_added_at": "2026-10-20T04:01:44.306756+00:00",
     "local_video_layout_checks": "article-video-layout-checks.json",
     "reschedule_preflight_at": "2026-10-21T03:16:44.414879+00:00",
-    "reschedule_preflight": "Existing native article preview still showed Draft and Only you can view this unpublished Article, @LeoGuoLabs, six sections, three inline images and the 9:32 native video."
+    "reschedule_preflight": "Existing native article preview still showed Draft and Only you can view this unpublished Article, @LeoGuoLabs, six sections, three inline images and the 9:32 native video.",
+    "scheduled_execution_record": "scheduled-publication-execution-20261022.json",
+    "latest_preflight": "article-preflight-20261022.json"
   },
   "files": [
     {
@@ -119,7 +121,7 @@
   "schedule": {
     "mechanism": "local_Codex_thread_heartbeat",
     "automation_id": "ai-20261022",
-    "automation_status": "ACTIVE",
+    "automation_status": "DELETED",
     "native_x_schedule": false,
     "timezone": "Asia/Singapore",
     "preflight_at": "2026-10-21T23:50:00+08:00",
@@ -130,7 +132,11 @@
     "one_time": true,
     "requires": "Local computer awake, connected to the internet, desktop app running, and X session signed in.",
     "post_publication_verification": "Same scheduled run opens the actual published URL, verifies full text, cover, three inline images and actual playback of the complete 9:32 native video, reports the public link and stops.",
-    "native_ui_observation": "Article More menu offered Delete Article; Publish Article dialog offered audience, reply settings and optional caption, with no schedule control."
+    "native_ui_observation": "Article More menu offered Delete Article; Publish Article dialog offered audience, reply settings and optional caption, with no schedule control.",
+    "outcome": "blocked_not_submitted",
+    "finished_at": "2026-10-21T16:01:07.103627+00:00",
+    "blocker": "Native X Article editor did not finish loading; Publish remained disabled at the scheduled time despite reload and recovery. Complete approved preview and actual video playback verified. No submission attempted.",
+    "submit_attempts": 0
   },
   "video": {
     "file": "does-ai-help-you-learn-full.mp4",

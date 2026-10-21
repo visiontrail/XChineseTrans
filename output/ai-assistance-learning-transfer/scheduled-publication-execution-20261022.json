@@ -1,0 +1,37 @@
+{
+  "automation_id": "ai-20261022",
+  "scheduled_at": "2026-10-21T16:00:00Z",
+  "heartbeat_at": "2026-10-21T15:50:25.825Z",
+  "outcome": "blocked_not_submitted",
+  "blocked_at": "2026-10-21T16:00:32.201Z",
+  "submit_attempts": 0,
+  "account": "@LeoGuoLabs",
+  "draft_id": "2110987398230249472",
+  "preview_verified": true,
+  "approved_body_match": true,
+  "approved_assets_hashes_match": true,
+  "video_duration_seconds": 572.333,
+  "video_playback_seconds": [
+    0.285406,
+    15.590591
+  ],
+  "blocker": "Native X Article editor stayed on loading spinner with 0 words and disabled Publish button. Preview retained the complete approved article. No final submit was attempted.",
+  "recovery_attempts": [
+    "Reload saved draft",
+    "Open existing Focus mode",
+    "Open same existing draft in a fresh in-app-browser tab",
+    "Show browser and reload resources"
+  ],
+  "public_duplicate_check": "Refreshed public Articles list still showed Sep 28 as newest article; target preview explicitly marked unpublished.",
+  "evidence": [
+    "article-preflight-20261022.json",
+    "article-publish-blocked-20261022.jpg",
+    "article-draft-preserved-20261022.jpg"
+  ],
+  "automation_cleanup": {
+    "action": "delete",
+    "status": "deleted",
+    "confirmed_by": "automation_update",
+    "at": "2026-10-21T16:01:07.103627+00:00"
+  }
+}

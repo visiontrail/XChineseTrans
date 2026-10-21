@@ -3,7 +3,7 @@
     "id": "ai-20261022",
     "kind": "heartbeat",
     "name": "AI 学习文章发布 20261022",
-    "status": "ACTIVE",
+    "status": "DELETED",
     "rrule": "FREQ=DAILY;COUNT=1;BYHOUR=23;BYMINUTE=50;BYSECOND=0",
     "target_thread_id": "01a14355-2d20-7270-a547-2aea21d11bf8",
     "created_at": 1792552549535,
@@ -12,7 +12,7 @@
   "schedule": {
     "mechanism": "local_Codex_thread_heartbeat",
     "automation_id": "ai-20261022",
-    "automation_status": "ACTIVE",
+    "automation_status": "DELETED",
     "native_x_schedule": false,
     "timezone": "Asia/Singapore",
     "preflight_at": "2026-10-21T23:50:00+08:00",
@@ -23,12 +23,16 @@
     "one_time": true,
     "requires": "Local computer awake, connected to the internet, desktop app running, and X session signed in.",
     "post_publication_verification": "Same scheduled run opens the actual published URL, verifies full text, cover, three inline images and actual playback of the complete 9:32 native video, reports the public link and stops.",
-    "native_ui_observation": "Article More menu offered Delete Article; Publish Article dialog offered audience, reply settings and optional caption, with no schedule control."
+    "native_ui_observation": "Article More menu offered Delete Article; Publish Article dialog offered audience, reply settings and optional caption, with no schedule control.",
+    "outcome": "blocked_not_submitted",
+    "finished_at": "2026-10-21T16:01:07.103627+00:00",
+    "blocker": "Native X Article editor did not finish loading; Publish remained disabled at the scheduled time despite reload and recovery. Complete approved preview and actual video playback verified. No submission attempted.",
+    "submit_attempts": 0
   },
   "approved_article_sha256": "d605016190b66d958553635ec1c911595a516d142addca26c5e3cd5bf44eb0f7",
   "approved_video_sha256": "90813eb0ecaac06904f536741e5aa015ab7febfddf7fdffaaf19884f753e35b9",
   "prompt": "这是用户在 2026-10-21 明确要求新建的补发任务，替代旧任务 ai。旧任务在应用中已不存在，旧发布时间已经失效。用户已批准现有文章及其完整视频，并明确授权在下一个新加坡 00:00 发布，无需再次确认。\n\n在这个聊天中执行一次已获用户明确批准的 X Article 定时发布。目标账号为 @LeoGuoLabs，文章标题为 Learning With AI After You Close the Chat。目标发布时间严格为 2026-10-22 00:00:00 Asia/Singapore，即 2026-10-21 16:00:00 UTC、纽约 10 月 21 日 12:00 EDT、洛杉矶 10 月 21 日 09:00 PDT。本任务于新加坡 10 月 21 日 23:50 提前唤醒以完成检查；绝不可提前发布。被唤醒后持续执行到目标时间，不要仅报告检查完成或再次安排定时任务后结束本轮。提前十分钟检查登录、草稿和媒体并准备好发布窗口；等待到点时每次等待不超过 60 秒。\n\n用户此前已明确批准文章发布，且在 2026-10-21 将发布时间改为本任务指定的新时间；授权覆盖此前完整展示的文章正文、封面和三张文内图；用户随后明确授权嵌入对应的完整成品视频，不再请求确认。使用现有原生草稿 https://x.com/compose/articles/edit/2110987398230249472 ，不要另建文章。工作目录为 /Volumes/TP-1TB/WorspacePlus/Myself/XChineseTrans，批准版本与发布记录保存在 output/ai-assistance-learning-transfer/。article.md 为正文，00-article-cover-v1.png 为封面，01-four-measures-v1.png、02-two-scoreboards-v1.png、03-fade-help-v2.png 依次为文内图。视频文件为 does-ai-help-you-learn-full.mp4，来自 FrontierTechSN 的 exp-8bd965b901ba40b4b734271f，标题 Does AI Help You Learn—or Just Finish?，时长 572.333 秒（9:32），SHA-256 为 90813eb0ecaac06904f536741e5aa015ab7febfddf7fdffaaf19884f753e35b9。它应作为原生视频放在导言最后一段之后、第一节 Four outcomes that deserve separate checks 之前；保留完整视频，不改为 YouTube 外链，不增加第二条视频帖。article-video-record.json 记录来源与播放检查。保留全文、六个分节、五个来源链接以及图片顺序，不按新写作偏好改写已批准版本，不加发布说明、额外标题、hashtags 或配套推文；发布窗口的可选 caption 留空。已知原生 ALT 保存会被 X 清空，说明文件已保留且用户已看过此限制，不因此重复询问或延误已授权发布。\n\n通过 Codex 内置浏览器检查实时登录账号为 @LeoGuoLabs。先读取本地 publication-record.json 并检查账号公开文章，若已经发布这篇文章，只验证现有 URL，绝不重复发布。核对现有草稿完整性、封面、三图及一段原生视频显示、视频完整时长和实际播放，并核对正文与批准稿一致。若缺少登录或发现批准稿以外的实质变化，保留草稿并报告具体问题。发布前读取当前 UTC 时间；早于 2026-10-21 16:00:00 UTC 时，以每次不超过 60 秒的等待继续到目标时间，到点立即在 Publish Article 窗口按 Everyone 发布。若执行延迟，先检查已有发布，避免重复，并如实记录实际提交时间。\n\n提交后重新打开实际公开 URL，核对账号、完整正文、六个分节、五处来源链接、封面及三张文内图的数量、顺序和加载状态，确认视频位于导言之后且时长约 9:32，观察实际播放时间连续前进且无错误；仅有封面图或播放按钮不算视频验证成功。保存截图和验证记录。只有公开页核验成功才把记录标为 publicly_verified；提交结果不明时先查已有文章，不盲目重发。通知用户最终公开链接和核验结果，或需要用户处理的具体故障；等待过程和无变化状态保持安静。本次发布和验证结束后停用本任务 ai-20261022；若缺少登录、工具不可用或无法安全完成，记录阻塞并报告具体原因，不要把未发布标为成功。提交动作最多一次，提交结果不明时先核验是否已发布，再决定恢复动作。这个任务只处理 2026-10-22 的这一次发布；完成后停用此一次性任务，不创建循环监控。按项目规则仅提交本任务的记录并推送，保留其他工作。",
-  "updated_at": "2026-10-21T03:16:44.415462+00:00",
+  "updated_at": "2026-10-21T16:01:07.103627+00:00",
   "supersedes": "scheduled-publication-20261021-missed.json",
   "verification": {
     "creation_tool_status": "ACTIVE",
@@ -36,5 +40,6 @@
     "draft_still_unpublished": true,
     "old_task_absent_from_app": true,
     "old_failure_cause": "not_established"
-  }
+  },
+  "execution_record": "scheduled-publication-execution-20261022.json"
 }
