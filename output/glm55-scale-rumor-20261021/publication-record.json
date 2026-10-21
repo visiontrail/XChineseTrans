@@ -1,0 +1,57 @@
+{
+  "prepared_at": "2026-10-21T20:15:22.167641+08:00",
+  "account": "@LeoGuoLabs",
+  "source_url": "https://x.com/leo114119/status/2112860515383066898",
+  "original_quote_target": null,
+  "format": "standalone",
+  "format_reason": "Source has a news screenshot and no native relevant Quote; earlier source is Xueqiu notes.",
+  "status": "prepared_awaiting_review",
+  "text_path": "post-en-v1.txt",
+  "media_order": [
+    "glm-scale-comparison-v1.png"
+  ],
+  "alt_path": "alt-text-en.txt",
+  "review_authorization": null,
+  "publication_submitted": false,
+  "published_url": null,
+  "checks": {
+    "live_source_original_language": true,
+    "source_image_inspected": true,
+    "video_present": false,
+    "source_chain_traced": true,
+    "official_post_training_claim_checked": true,
+    "rumor_qualified": true,
+    "image_visually_inspected": true,
+    "composer_text_accepted": true,
+    "composer_image_uploaded": false,
+    "alt_entered": false
+  },
+  "ui_blocker": "Ego Lite extension disallows file URL access; fileChooser.setFiles failed. Clipboard fallback and browser connection then disconnected. Local final files are intact.",
+  "assets": [
+    {
+      "path": "post-en-v1.txt",
+      "bytes": 484,
+      "sha256": "230e394e2591089b7b8fbc0a0c86af45a1543d62be148a0b772412ec3108a0de"
+    },
+    {
+      "path": "glm-scale-comparison-v1.png",
+      "bytes": 1370049,
+      "sha256": "3b15839ded150c25c60d89234427c98f84c7b2375e9b99b270eada26c735f742"
+    },
+    {
+      "path": "image-prompt-v1.txt",
+      "bytes": 1681,
+      "sha256": "2ca34436b1d7dede5922ffd15c9ca9c39acfaaf45e7567ced13bbf5b90f7722b"
+    },
+    {
+      "path": "alt-text-en.txt",
+      "bytes": 334,
+      "sha256": "32bd96cf936418bec589e3bcbcfd756d7ed2c4bec83c6fc9ca91a557b164db3a"
+    },
+    {
+      "path": "research/source-image.png",
+      "bytes": 120569,
+      "sha256": "2345dbcd563c6a3b631a1c683284b0240d6fb278ddade3b7532a0e22de78c24a"
+    }
+  ]
+}

@@ -1,0 +1,963 @@
+- navigation:
+  - link:
+    - /url: /
+  - link "雪球 首页":
+    - /url: /
+    - img "雪球"
+    - generic: 首页
+  - textbox "搜索"
+  - button ""
+  - list:
+    - link "":
+      - /url: /snb/web/cs?from=xq
+    - link "下载App":
+      - /url: "javascript:"
+    - generic: 登录
+- link "痞子小张":
+  - /url: /3673395034
+  - img "痞子小张"
+- link "痞子小张":
+  - /url: /3673395034
+- link "发布于2026-10-21 01:29":
+  - /url: /3673395034/413098252
+  - text: 发布于
+  - time: 2026-10-21 01:29
+- generic: 来自雪球
+- text: " · "
+- generic: 浙江
+- generic: 关注
+- article:
+  - heading "智谱最新专家纪要 ， 讲了啥" [level=1]:
+    - text: 智谱最新专家纪要
+    - generic: ，
+    - text: 讲了啥
+  - paragraph:
+    - text: 临时插播
+    - generic: ，
+    - text: 刚看到一份
+    - link "智谱":
+      - /url: https://xueqiu.com/S/02513?from=status_stock_match
+    - text: 的专家访谈纪要
+    - generic: ，
+    - text: 里面透露了一些智谱目前最新的模型研发进展
+    - generic: 。
+  - paragraph:
+    - generic: （
+    - text: 对于行业外人士简单介绍一下
+    - generic: ，
+    - text: 专家访谈一般是投资机构了解产业界的一种手段
+    - generic: 。
+    - text: 通过一些服务平台
+    - generic: ，
+    - text: 约到各行各业的专家咨询
+    - generic: ，
+    - text: 按几千一个小时计费
+    - generic: 。
+    - text: 我以前也经常打这样的专家 call
+    - generic: 。
+  - paragraph:
+    - text: "1"
+    - generic: ）
+    - text: 近期传闻
+    - link "智谱":
+      - /url: https://xueqiu.com/S/02513?from=status_stock_match
+    - text: 将于 10 月底发布 1.6T 参数的新一代模型 GLM5.5
+    - generic: ，
+    - text: 是否属实
+    - generic: ？
+    - text: 新模型的具体规划如何
+    - generic: ？
+  - paragraph:
+    - text: 答
+    - generic: ：
+    - text: 该传闻不实
+    - generic: 。
+    - text: 新一代基座模型的实际参数规模在2.5万亿至3.5万亿区间
+    - generic: ，
+    - text: 模型架构较为激进
+    - generic: ，
+    - text: 既要训得快
+    - generic: ，
+    - text: 也要推得快
+    - generic: ，
+    - text: 同时压低推理端成本
+    - generic: ，
+    - text: 目标是在模型发布第一天即可提供大规模服务
+    - generic: 。
+    - text: 已有多家云厂商开始就分成模式进行洽谈
+    - generic: 。
+    - text: 为支撑这一激进方案
+    - generic: ，
+    - link "智谱":
+      - /url: https://xueqiu.com/S/02513?from=status_stock_match
+    - text: 也补强了 infra 团队
+    - generic: 。
+  - paragraph:
+    - text: "2"
+    - generic: ）
+    - text: 新模型的发布时间为何没有市场预期的那么早
+    - generic: ？
+  - paragraph:
+    - text: 答
+    - generic: ：
+    - text: 基座训练前段时间并不顺利
+    - generic: ，
+    - text: 训练过程中出现了loss不降的情况
+    - generic: 。
+    - text: 激进的架构改进必然伴随较高风险
+    - generic: 。
+    - text: 但是最近该问题应该已经解决了
+    - generic: ，
+    - text: 预计很快能够完成训练
+    - generic: 。
+    - text: 从目前情况判断
+    - generic: ，
+    - text: 下一代模型发布后将达到Fable级别的旗舰水平
+    - generic: 。
+  - paragraph:
+    - generic: （
+    - text: 这里说是辟谣
+    - generic: ，
+    - text: 感觉是秀肌肉
+    - generic: 。
+    - text: 毕竟现在 1.6T 真的也不够看了
+    - generic: 。
+    - text: 目前还在牌桌上的主流大模型都在奔着 3T 去
+    - generic: 。
+    - text: 要在这个规模上
+    - generic: ，
+    - text: 还要压低推理端的成本
+    - generic: ，
+    - text: 直接上来提供大规模服务
+    - generic: ，
+    - text: 因为中间有点波折
+    - generic: ，
+    - text: 所以时间晚了点
+    - generic: 。
+    - text: 话说现在马上 10 月底了
+    - generic: ，
+    - text: 坐等测评看能不能达到 fable 旗舰水平
+    - generic: 。
+    - generic: ）
+  - paragraph:
+    - text: 对于云厂商分成这个模式
+    - generic: ，
+    - text: 不是什么全新的商业模式
+    - generic: ，
+    - text: 可能对规模性的扩大收入有一定的好处
+    - generic: 。
+    - generic: ）
+  - paragraph:
+    - text: "3"
+    - generic: ）
+    - text: 国内厂商训练上万亿基座的模型面临的核心难点是什么
+    - generic: ？
+    - text: (非技术背景可以跳过这段)
+  - paragraph:
+    - text: 答
+    - generic: ：
+    - text: 国内各家模型厂商都在考虑5万亿参数规模的训练
+    - generic: ，
+    - text: 训练难度显著加大
+    - generic: 。
+    - text: 国内目前可能还没有一家能够完整
+    - generic: 、
+    - text: 稳定地训练完成2万亿参数的模型
+    - generic: 。
+  - paragraph:
+    - text: 需要说明的是
+    - generic: ，
+    - text: “成功完成训练”和“训完一个模型”是两码事
+    - generic: 。
+    - text: 没有成功完成训练也就是常说的训崩了
+    - generic: ，
+    - text: 超大参数模型训练中的“训崩”主要有两类
+    - generic: ：
+  - paragraph:
+    - text: loss spike
+    - generic: ：
+    - text: 成因包括Attention logit growth
+    - generic: 、
+    - text: Output logit divergence
+    - generic: 、
+    - text: Stale optimizer state
+    - generic: 、
+    - text: Bad batch × bad state
+    - generic: 、
+    - text: Residual/norm growth以及Numerical overflow等
+    - generic: 。
+  - paragraph:
+    - text: loss不降
+    - generic: ：
+    - text: 这类更棘手
+    - generic: ，
+    - text: 表现为走平甚至逐渐升高
+    - generic: 。
+    - text: 架构改动过于激进
+    - generic: 、
+    - text: 模型参数过大
+    - generic: 、
+    - text: 不同卡的数值精度差异都可能是原因
+    - generic: 。
+  - paragraph:
+    - text: 模型越大
+    - generic: ，
+    - text: 踩中这类不稳定的概率越高
+    - generic: 。
+    - text: 最简单的例子是每层梯度求和
+    - generic: ，
+    - text: 规模越大
+    - generic: ，
+    - text: 溢出的可能性也就越大
+    - generic: 。
+  - paragraph:
+    - text: 此外还有最后一种崩
+    - generic: ，
+    - text: 要到后训练阶段才能体现出来
+    - generic: ，
+    - text: 即后训练怎么都上不去
+    - generic: 。
+    - text: 这种情况代价最大
+    - generic: ，
+    - text: 只能下架重训
+    - generic: 。
+  - paragraph:
+    - text: 从行业案例看
+    - generic: ，
+    - text: 市场传闻Kimi K3的预训练数据并未全部过完
+    - generic: ，
+    - text: 原因应是出现了loss不降
+    - generic: ，
+    - text: 只能硬上后训练
+    - generic: 。
+    - text: 但即便如此效果依然不错
+    - generic: ，
+    - text: 也让行业看到了scaling的威力
+    - generic: 。
+    - text: 另有传闻称DeepSeek V4属于后训练阶段才暴露问题的情况
+    - generic: 。
+  - paragraph:
+    - link "智谱":
+      - /url: https://xueqiu.com/S/02513?from=status_stock_match
+    - text: 之前被称为
+    - generic: “后训练仙人”
+    - generic: ，
+    - text: 如果确实已经搞定了3T级别的预训练
+    - generic: ，
+    - text: 后训练环节应当比较有把握
+    - generic: 。
+  - paragraph:
+    - generic: （
+    - text: 技术解读
+    - generic: ，
+    - text: 参数规模在扩大之后的训练难点
+    - generic: ，
+    - text: 讲真这个我判断不了
+    - generic: ，
+    - text: 大家自己看
+    - generic: 。
+    - generic: ）
+  - paragraph:
+    - text: "4"
+    - generic: ）
+    - text: 海外厂商的反蒸馏措施会对国内模型产生什么影响
+    - generic: ？
+    - link "智谱":
+      - /url: https://xueqiu.com/S/02513?from=status_stock_match
+    - text: 在数据和技术路线上如何应对
+    - generic: ？
+  - paragraph:
+    - text: 答
+    - generic: ：
+    - text: 近期Anthropic和OpenAI已经采取了反蒸馏措施
+    - generic: ，
+    - text: 例如通过API报错和上下文篡改机制来限制蒸馏
+    - generic: 。
+    - text: 这些举措将对依赖该路径的模型迭代产生较大影响
+    - generic: ，
+    - text: 因此业内普遍判断
+    - generic: ，
+    - text: 国内模型性能的大幅提升可能会受到限制
+    - generic: 。
+  - paragraph:
+    - text: 但是对
+    - link "智谱":
+      - /url: https://xueqiu.com/S/02513?from=status_stock_match
+    - text: 来说
+    - generic: ，
+    - text: 已经在局部解决了数据问题
+    - generic: ，
+    - text: 坚定走Claude体感路线
+    - generic: ，
+    - text: 通过持续的后训练来刷新和提升模型能力
+    - generic: ，
+    - text: 包括在后训练阶段对任务环境的大量投入
+    - generic: 。
+  - paragraph:
+    - text: 例如GLM-5系列的一个基座模型可以使用半年以上
+    - generic: ，
+    - text: 通过后训练工程化持续刷新能力
+    - generic: 。
+  - paragraph:
+    - generic: （
+    - text: 根据路透社 10 月份的报道
+    - generic: ，
+    - text: Anthropic 声称反蒸馏措施已经将相关数据的获取量降低 90%~99%
+    - generic: 。
+    - text: 这个纪要的意思是在说
+    - link "智谱":
+      - /url: https://xueqiu.com/S/02513?from=status_stock_match
+    - text: 自己不依赖蒸馏数据
+    - generic: ，
+    - text: 已经自己建立数据生产能力的飞轮
+    - generic: ，
+    - text: 有可持续的技术自主性
+    - generic: 。
+    - generic: ）
+  - paragraph:
+    - text: "5"
+    - generic: ）
+    - text: RSI
+  - paragraph: 和 Loop
+  - paragraph:
+    - text: 等技术方向目前进展如何
+    - generic: ？
+  - paragraph:
+    - text: 答
+    - generic: ：
+    - text: RSI已取得一些进展
+    - generic: ，
+    - text: 但尚未成为模型能力提升的主力
+    - generic: 。
+    - text: Loop相关技术应已较早解决
+    - generic: ，
+    - text: 估计会在某个版本中直接进入服务
+    - generic: ，
+    - text: 公司在公开场合对此也有所提及
+    - generic: 。
+  - paragraph:
+    - generic: （
+    - text: RSI 就是今年最火的“递归自我改进”
+    - generic: ，
+    - text: 就是让模型来训模型
+    - generic: ，
+    - text: 左脚踩右脚直接飞升
+    - generic: 。
+    - text: 目前全球主流大模型厂商和
+    - link "Frontier":
+      - /url: https://xueqiu.com/S/FRON?from=status_stock_match
+    - text: lab 都在押注这个路线
+    - generic: 。
+    - text: 未来大模型的竞争不是算力数据层面
+    - generic: ，
+    - text: 而是怎么早日进入自我强化的正向循环
+    - generic: 。
+  - paragraph:
+    - text: loop 是另外一件事
+    - generic: ，
+    - text: 是指怎么在不增加太多参数的情况下
+    - generic: ，
+    - text: 可以让模型用循环复用计算层的方式
+    - generic: ，
+    - text: 以更低的成本完成相同难度的任务
+    - generic: 。
+    - text: 专家意思是说这个已经验证了
+    - generic: 。
+    - generic: ）
+  - paragraph:
+    - text: "6"
+    - generic: ）
+    - text: 下一代模型在推理优化上的进展如何
+    - generic: ？
+  - paragraph:
+    - text: 答
+    - generic: ：
+    - text: 此前大参数模型普遍面临"发得出
+    - generic: 、
+    - text: 供不上"的问题
+    - generic: ，
+    - text: 发布初期往往需要限流
+    - generic: 。
+    - text: 新一代模型在设计阶段就把推理效率和推理成本作为硬约束
+    - generic: ，
+    - text: 目标是发布首日即可大规模服务
+    - generic: ，
+    - text: 这将直接改善旗舰模型的商业化节奏
+    - generic: 。
+  - paragraph:
+    - text: 总之
+    - generic: ，
+    - text: 看完纪要
+    - generic: ，
+    - text: 我还挺期待下一代模型的
+    - generic: 。
+    - text: 国内就是擅长把东西搞得又好又便宜哈哈哈
+    - generic: 。
+  - paragraph:
+    - text: 国内来说
+    - generic: ，
+    - text: 一直都是希望两手抓
+    - generic: ，
+    - text: 两手都要硬
+    - generic: 。
+    - text: 又要搞出最新的 Sota 模型
+    - generic: ，
+    - text: 同时商业化也不能落后
+    - generic: 。
+    - text: 这个平衡还挺难把握的
+    - generic: 。
+  - paragraph:
+    - text: 最近全球二级市场都不太好
+    - generic: ，
+    - text: 国内的 AI 科技股价严重承压
+    - generic: 。
+    - text: 而OpenAI 和 Anthropic 虽然还没上市
+    - generic: （
+    - text: Anthropic 估计下个月
+    - generic: ）
+    - generic: ，
+    - text: 就已经在私募市场疯狂抢钱
+    - generic: ，
+    - text: 不仅要股权
+    - generic: ，
+    - text: 也要债权
+    - generic: ，
+    - text: 争夺投资人
+    - generic: ，
+    - text: 同时也在争夺算力资源
+    - generic: 。
+  - paragraph:
+    - text: 估值也听说有所调整
+    - generic: ，
+    - text: 之前是在 2 万亿左右
+    - generic: ，
+    - text: 现在调整到 1.4~1.5 万亿美金
+    - generic: 。
+  - paragraph:
+    - text: 纪要里没有提到 ARR 收入这一块
+    - generic: ，
+    - text: 按照 8 月的电话会纪要口径是 16 亿美金
+    - generic: ，
+    - text: 如果
+    - link "智谱":
+      - /url: https://xueqiu.com/S/02513?from=status_stock_match
+    - text: 按年底能到 30 亿美金指引算
+    - generic: ，
+    - text: 估值比海外同行低近一半
+    - generic: 。
+  - paragraph:
+    - link "#端侧AI概念拉升 ， 日海智能涨停#":
+      - /url: https://xueqiu.com/k?q=%23%E7%AB%AF%E4%BE%A7AI%E6%A6%82%E5%BF%B5%E6%8B%89%E5%8D%87%EF%BC%8C%E6%97%A5%E6%B5%B7%E6%99%BA%E8%83%BD%E6%B6%A8%E5%81%9C%23
+      - text: "#端侧AI概念拉升"
+      - generic: ，
+      - text: 日海智能涨停#
+    - link "#物理AI概念走强 ， 凡拓数创两连板#":
+      - /url: https://xueqiu.com/k?q=%23%E7%89%A9%E7%90%86AI%E6%A6%82%E5%BF%B5%E8%B5%B0%E5%BC%BA%EF%BC%8C%E5%87%A1%E6%8B%93%E6%95%B0%E5%88%9B%E4%B8%A4%E8%BF%9E%E6%9D%BF%23
+      - text: "#物理AI概念走强"
+      - generic: ，
+      - text: 凡拓数创两连板#
+    - link "#太强了！宇树科技三3日累涨35%#":
+      - /url: https://xueqiu.com/k?q=%23%E5%A4%AA%E5%BC%BA%E4%BA%86%EF%BC%81%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%893%E6%97%A5%E7%B4%AF%E6%B6%A835%25%23
+      - text: "#太强了"
+      - generic: ！
+      - text: 宇树科技三3日累涨35%#
+    - link "$智谱(02513)$":
+      - /url: https://xueqiu.com/S/02513
+    - link "$MINIMAX-W(00100)$":
+      - /url: https://xueqiu.com/S/00100
+- paragraph: 风险提示：用户发表的所有文章仅代表个人观点，与雪球的立场无关。投资决策需建立在独立思考之上。
+- generic: 
+- generic: "24"
+- generic: 
+- generic: "10"
+- img "微信分享"
+- link " 2":
+  - /url: "#"
+  - generic: 
+  - paragraph: "2"
+- link " 3":
+  - /url: "#"
+  - generic: 
+  - paragraph: "3"
+- link "投诉":
+  - /url: ""
+  - paragraph: 投诉
+- generic: 回复@痞子小张
+- textbox:
+  - paragraph
+- link "":
+  - /url: ""
+  - generic: 
+- link "":
+  - /url: ""
+  - generic: 
+- link "":
+  - /url: javascript:;
+  - generic: 
+- checkbox "仅在正文下讨论"
+- generic: 仅在正文下讨论
+- link "发布":
+  - /url: ""
+- heading "全部讨论（3）" [level=3]
+- link "最热":
+  - /url: ""
+- link "最新":
+  - /url: ""
+- link "最早":
+  - /url: ""
+- link:
+  - /url: /6610012052
+- link "ai4all":
+  - /url: /6610012052
+- generic: 今天 09:33 · 浙江
+- paragraph:
+  - text: 如果纪要内容基本属实，那股价翻两倍没问题吧。虽然憋了很久，但我依然倾向于相信。
+  - link "$智谱(02513)$":
+    - /url: https://xueqiu.com/S/02513
+- blockquote:
+  - link "痞子小张 作者":
+    - /url: /3673395034
+  - text: ：纪要仅供大家参考哈，产业和二级市场的周期还是有很大差距
+- link "1":
+  - /url: ""
+- link "5":
+  - /url: ""
+- link:
+  - /url: /6610012052
+- link "ai4all":
+  - /url: /6610012052
+- generic: 今天 08:56 · 浙江
+- paragraph:
+  - img "[牛]"
+- link "讨论":
+  - /url: ""
+- link "1":
+  - /url: ""
+- heading "热门话题" [level=3]
+- table:
+  - row "1 宁德时代盘中跌超10%":
+    - cell "1"
+    - cell "宁德时代盘中跌超10%":
+      - link "宁德时代盘中跌超10%":
+        - /url: /k?q=%23%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E7%9B%98%E4%B8%AD%E8%B7%8C%E8%B6%8510%25%23
+  - row "2 马斯克：SpaceX明年ARR冲1万亿":
+    - cell "2"
+    - cell "马斯克：SpaceX明年ARR冲1万亿":
+      - link "马斯克：SpaceX明年ARR冲1万亿":
+        - /url: /k?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9ASpaceX%E6%98%8E%E5%B9%B4ARR%E5%86%B21%E4%B8%87%E4%BA%BF%23
+  - row "3 西部矿业业绩大涨，净利润翻倍":
+    - cell "3"
+    - cell "西部矿业业绩大涨，净利润翻倍":
+      - link "西部矿业业绩大涨，净利润翻倍":
+        - /url: /k?q=%23%E8%A5%BF%E9%83%A8%E7%9F%BF%E4%B8%9A%E4%B8%9A%E7%BB%A9%E5%A4%A7%E6%B6%A8%EF%BC%8C%E5%87%80%E5%88%A9%E6%B6%A6%E7%BF%BB%E5%80%8D%23
+  - row "4 冰雪经济概念拉升，雪人集团涨停":
+    - cell "4"
+    - cell "冰雪经济概念拉升，雪人集团涨停":
+      - link "冰雪经济概念拉升，雪人集团涨停":
+        - /url: /k?q=%23%E5%86%B0%E9%9B%AA%E7%BB%8F%E6%B5%8E%E6%A6%82%E5%BF%B5%E6%8B%89%E5%8D%87%EF%BC%8C%E9%9B%AA%E4%BA%BA%E9%9B%86%E5%9B%A2%E6%B6%A8%E5%81%9C%23
+  - row "5 算力租赁概念拉升，润建股份大涨":
+    - cell "5"
+    - cell "算力租赁概念拉升，润建股份大涨":
+      - link "算力租赁概念拉升，润建股份大涨":
+        - /url: /k?q=%23%E7%AE%97%E5%8A%9B%E7%A7%9F%E8%B5%81%E6%A6%82%E5%BF%B5%E6%8B%89%E5%8D%87%EF%BC%8C%E6%B6%A6%E5%BB%BA%E8%82%A1%E4%BB%BD%E5%A4%A7%E6%B6%A8%23
+  - row "6 AI漫剧概念大涨，粤传媒涨停":
+    - cell "6"
+    - cell "AI漫剧概念大涨，粤传媒涨停":
+      - link "AI漫剧概念大涨，粤传媒涨停":
+        - /url: /k?q=%23AI%E6%BC%AB%E5%89%A7%E6%A6%82%E5%BF%B5%E5%A4%A7%E6%B6%A8%EF%BC%8C%E7%B2%A4%E4%BC%A0%E5%AA%92%E6%B6%A8%E5%81%9C%23
+  - row "7 AI算力需求支撑，CoreWeave盘中逆转大涨":
+    - cell "7"
+    - cell "AI算力需求支撑，CoreWeave盘中逆转大涨":
+      - link "AI算力需求支撑，CoreWeave盘中逆转大涨":
+        - /url: /k?q=%23AI%E7%AE%97%E5%8A%9B%E9%9C%80%E6%B1%82%E6%94%AF%E6%92%91%EF%BC%8CCoreWeave%E7%9B%98%E4%B8%AD%E9%80%86%E8%BD%AC%E5%A4%A7%E6%B6%A8%23
+  - row "8 电解铝盈利大增，中孚实业业绩飙升":
+    - cell "8"
+    - cell "电解铝盈利大增，中孚实业业绩飙升":
+      - link "电解铝盈利大增，中孚实业业绩飙升":
+        - /url: /k?q=%23%E7%94%B5%E8%A7%A3%E9%93%9D%E7%9B%88%E5%88%A9%E5%A4%A7%E5%A2%9E%EF%BC%8C%E4%B8%AD%E5%AD%9A%E5%AE%9E%E4%B8%9A%E4%B8%9A%E7%BB%A9%E9%A3%99%E5%8D%87%23
+  - row "9 太强了！宇树科技三3日累涨35%":
+    - cell "9"
+    - cell "太强了！宇树科技三3日累涨35%":
+      - link "太强了！宇树科技三3日累涨35%":
+        - /url: /k?q=%23%E5%A4%AA%E5%BC%BA%E4%BA%86%EF%BC%81%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%893%E6%97%A5%E7%B4%AF%E6%B6%A835%25%23
+  - row "10 物理AI概念走强，凡拓数创两连板":
+    - cell "10"
+    - cell "物理AI概念走强，凡拓数创两连板":
+      - link "物理AI概念走强，凡拓数创两连板":
+        - /url: /k?q=%23%E7%89%A9%E7%90%86AI%E6%A6%82%E5%BF%B5%E8%B5%B0%E5%BC%BA%EF%BC%8C%E5%87%A1%E6%8B%93%E6%95%B0%E5%88%9B%E4%B8%A4%E8%BF%9E%E6%9D%BF%23
+- generic: 
+- heading "热股榜 更多" [level=3]:
+  - text: 热股榜
+  - link "更多":
+    - /url: /hq#hot
+- link "全球":
+  - /url: ""
+- link "沪深":
+  - /url: ""
+- link "港股":
+  - /url: ""
+- link "美股":
+  - /url: ""
+- link "1小时内最热":
+  - /url: ""
+- link "24小时内最热":
+  - /url: ""
+- generic: "1"
+- link "宁德时代":
+  - /url: /S/SZ300750
+- generic: "-12.03%"
+- generic: "2"
+- link "腾讯控股":
+  - /url: /S/00700
+- generic: "-4.04%"
+- generic: "3"
+- link "泡泡玛特":
+  - /url: /S/09992
+- generic: "-4.84%"
+- generic: "4"
+- link "格力电器":
+  - /url: /S/SZ000651
+- generic: "-3.81%"
+- generic: "5"
+- link "药明康德":
+  - /url: /S/SH603259
+- generic: "-0.21%"
+- generic: "6"
+- link "机器人ETF富国":
+  - /url: /S/SZ159272
+- generic: "-0.81%"
+- generic: "7"
+- link "英伟达":
+  - /url: /S/NVDA
+- generic: "-0.29%"
+- generic: "8"
+- link "九阳股份":
+  - /url: /S/SZ002242
+- generic: +10.02%
+- heading "涨跌幅榜 更多" [level=3]:
+  - text: 涨跌幅榜
+  - link "更多":
+    - /url: /hq#rank
+- link "沪深":
+  - /url: ""
+- link "港股":
+  - /url: ""
+- link "美股":
+  - /url: ""
+- link "涨幅榜":
+  - /url: ""
+- link "跌幅榜":
+  - /url: ""
+- table:
+  - row "1 N文峰 +217.03%":
+    - cell "1"
+    - cell "N文峰":
+      - link "N文峰":
+        - /url: /S/BJ920296
+    - cell
+    - cell "+217.03%"
+  - row "2 利亚德 +20.04%":
+    - cell "2"
+    - cell "利亚德":
+      - link "利亚德":
+        - /url: /S/SZ300296
+    - cell
+    - cell "+20.04%"
+  - row "3 三维天地 +20.00%":
+    - cell "3"
+    - cell "三维天地":
+      - link "三维天地":
+        - /url: /S/SZ301159
+    - cell
+    - cell "+20.00%"
+  - row "4 敏芯股份 +20.00%":
+    - cell "4"
+    - cell "敏芯股份":
+      - link "敏芯股份":
+        - /url: /S/SH688286
+    - cell
+    - cell "+20.00%"
+  - row "5 慧辰股份 +20.00%":
+    - cell "5"
+    - cell "慧辰股份":
+      - link "慧辰股份":
+        - /url: /S/SH688500
+    - cell
+    - cell "+20.00%"
+  - row "6 莱美药业 +20.00%":
+    - cell "6"
+    - cell "莱美药业":
+      - link "莱美药业":
+        - /url: /S/SZ300006
+    - cell
+    - cell "+20.00%"
+  - row "7 兆讯传媒 +19.98%":
+    - cell "7"
+    - cell "兆讯传媒":
+      - link "兆讯传媒":
+        - /url: /S/SZ301102
+    - cell
+    - cell "+19.98%"
+  - row "8 致尚科技 +17.12%":
+    - cell "8"
+    - cell "致尚科技":
+      - link "致尚科技":
+        - /url: /S/SZ301486
+    - cell
+    - cell "+17.12%"
+  - row "9 博汇股份 +15.60%":
+    - cell "9"
+    - cell "博汇股份":
+      - link "博汇股份":
+        - /url: /S/SZ300839
+    - cell
+    - cell "+15.60%"
+  - row "10 莱特光电 +13.32%":
+    - cell "10"
+    - cell "莱特光电":
+      - link "莱特光电":
+        - /url: /S/SH688150
+    - cell
+    - cell "+13.32%"
+- heading "热门基金" [level=3]
+- table:
+  - row "1 金元顺安元启混合 年化(近5年) +25.72%":
+    - cell "1"
+    - cell "金元顺安元启混合":
+      - link "金元顺安元启混合":
+        - /url: /S/F004685
+    - cell "年化(近5年)"
+    - cell "+25.72%"
+  - row "2 万家宏观择时多策略 年化(近5年) +19.99%":
+    - cell "2"
+    - cell "万家宏观择时多策略":
+      - link "万家宏观择时多策略":
+        - /url: /S/F519212
+    - cell "年化(近5年)"
+    - cell "+19.99%"
+  - row "3 华安黄金ETF联接A 年化(近5年) +18.30%":
+    - cell "3"
+    - cell "华安黄金ETF联接A":
+      - link "华安黄金ETF联接A":
+        - /url: /S/F000216
+    - cell "年化(近5年)"
+    - cell "+18.30%"
+  - row "4 华夏中证5G通信主题ETF联接A 年化(近5年) +16.90%":
+    - cell "4"
+    - cell "华夏中证5G通信主题ETF联接A":
+      - link "华夏中证5G通信主题ETF联接A":
+        - /url: /S/F008086
+    - cell "年化(近5年)"
+    - cell "+16.90%"
+  - row "5 鹏华中证香港银行指数（LOF）A 年化(近5年) +16.28%":
+    - cell "5"
+    - cell "鹏华中证香港银行指数（LOF）A":
+      - link "鹏华中证香港银行指数（LOF）A":
+        - /url: /S/F501025
+    - cell "年化(近5年)"
+    - cell "+16.28%"
+  - row "6 中信保诚全球商品主题（QDII-FOF-LOF)A 年化(近5年) +15.62%":
+    - cell "6"
+    - cell "中信保诚全球商品主题（QDII-FOF-LOF)A":
+      - link "中信保诚全球商品主题（QDII-FOF-LOF)A":
+        - /url: /S/F165513
+    - cell "年化(近5年)"
+    - cell "+15.62%"
+  - row "7 银华抗通胀主题(QDII-FOF-LOF)A 年化(近5年) +13.58%":
+    - cell "7"
+    - cell "银华抗通胀主题(QDII-FOF-LOF)A":
+      - link "银华抗通胀主题(QDII-FOF-LOF)A":
+        - /url: /S/F161815
+    - cell "年化(近5年)"
+    - cell "+13.58%"
+  - row "8 广发纳指100ETF联接（QDII）人民币A 年化(近5年) +13.07%":
+    - cell "8"
+    - cell "广发纳指100ETF联接（QDII）人民币A":
+      - link "广发纳指100ETF联接（QDII）人民币A":
+        - /url: /S/F270042
+    - cell "年化(近5年)"
+    - cell "+13.07%"
+  - row "9 华夏饲料豆粕期货ETF联接A 年化(近5年) +11.39%":
+    - cell "9"
+    - cell "华夏饲料豆粕期货ETF联接A":
+      - link "华夏饲料豆粕期货ETF联接A":
+        - /url: /S/F007937
+    - cell "年化(近5年)"
+    - cell "+11.39%"
+  - row "10 华商盛世成长混合 年化(近5年) +8.79%":
+    - cell "10"
+    - cell "华商盛世成长混合":
+      - link "华商盛世成长混合":
+        - /url: /S/F630002
+    - cell "年化(近5年)"
+    - cell "+8.79%"
+- link "常见问题":
+  - /url: /about/faq
+- text: ｜
+- link "关于雪球":
+  - /url: /about/what-is-xueqiu
+- text: ｜
+- link "投资者教育":
+  - /url: /edu/invest-edu
+- text: ｜
+- link "风险提示":
+  - /url: /about/faq#6_0
+- text: "© 2026 XUEQIU.COM 北京雪球信息科技有限公司 "
+- link "京公网安备 11010502040379号":
+  - /url: https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502040379
+- text: ·
+- link "京ICP证100666号":
+  - /url: https://xqdoc.imedao.com/198bc1b4fb41d6523feaace4.jpg
+- link "京ICP备10040543":
+  - /url: https://beian.miit.gov.cn/
+- text: ·
+- link "京金信备〔2022〕3号":
+  - /url: https://fisbaobei.ifcert.cn/Home/homeIindex
+- link "营业执照":
+  - /url: https://xqimg.imedao.com/1798dc30dead0453fd6075d8.png
+- text: ·
+- link "侵权投诉指引 ":
+  - /url: /law/tortreport
+- text: ·
+- link "出版物经营许可证 ":
+  - /url: https://xqimg.imedao.com/181b337b7742caf83fee6640.png
+- link "跳过":
+  - /url: ""
+- link "验证码登录":
+  - /url: ""
+- link "账号密码登录":
+  - /url: ""
+- link "二维码登录":
+  - /url: ""
+- generic: "+86"
+- combobox:
+  - option "中国 +86" [selected]
+  - option "美国 +1"
+  - option "加拿大 +1"
+  - option "中国香港 +852"
+  - option "新加坡 +65"
+  - option "澳大利亚 +61"
+  - option "中国台湾 +886"
+  - option "英国 +44"
+  - option "日本 +81"
+  - option "中国澳门 +853"
+  - option "马来西亚 +60"
+  - option "德国 +49"
+  - option "法国 +33"
+  - option "韩国 +82"
+  - option "新西兰 +64"
+  - option "意大利 +39"
+  - option "泰国 +66"
+  - option "阿拉伯联合酋长国 +971"
+  - option "西班牙 +34"
+  - option "俄罗斯 +7"
+  - option "瑞典 +46"
+  - option "荷兰 +31"
+  - option "印度尼西亚 +62"
+  - option "菲律宾 +63"
+  - option "爱尔兰 +353"
+  - option "越南 +84"
+  - option "沙特阿拉伯 +966"
+  - option "柬埔寨 +855"
+  - option "尼日利亚 +234"
+  - option "安哥拉 +244"
+  - option "瑞士 +41"
+  - option "肯尼亚 +254"
+  - option "墨西哥 +52"
+  - option "南非 +27"
+  - option "委内瑞拉 +58"
+  - option "坦桑尼亚 +255"
+  - option "巴基斯坦 +92"
+  - option "挪威 +47"
+  - option "比利时 +32"
+  - option "巴西 +55"
+  - option "葡萄牙 +351"
+  - option "乌克兰 +380"
+  - option "阿曼 +968"
+  - option "芬兰 +358"
+  - option "埃及 +20"
+  - option "白俄罗斯 +375"
+  - option "印度 +91"
+  - option "科威特 +965"
+  - option "斯里兰卡 +94"
+  - option "埃塞俄比亚 +251"
+  - option "土耳其 +90"
+  - option "赞比亚 +260"
+  - option "刚果民主共和国 +243"
+  - option "罗马尼亚 +40"
+  - option "博茨瓦纳 +267"
+  - option "丹麦 +45"
+  - option "以色列 +972"
+  - option "塔吉克斯坦 +992"
+  - option "巴拿马 +507"
+  - option "卡塔尔 +974"
+  - option "匈牙利 +36"
+  - option "孟加拉国 +880"
+  - option "莫桑比克 +258"
+  - option "阿尔及利亚 +213"
+  - option "喀麦隆 +237"
+  - option "圣马力诺 +223"
+  - option "伊朗 +98"
+  - option "塞尔维亚 +381"
+  - option "苏丹 +249"
+  - option "斯洛伐克 +421"
+  - option "莱索托 +266"
+  - option "加纳 +233"
+  - option "保加利亚 +359"
+  - option "哥伦比亚 +57"
+  - option "阿塞拜疆 +994"
+  - option "纳米比亚 +264"
+  - option "奥地利 +43"
+  - option "西撒哈拉 +212"
+  - option "蒙古 +976"
+  - option "刚果 +242"
+  - option "波兰 +48"
+  - option "尼日尔 +227"
+  - option "卢森堡 +352"
+  - option "吉尔吉斯斯坦 +996"
+  - option "卢旺达 +250"
+  - option "乍得 +235"
+  - option "苏里南 +597"
+  - option "尼泊尔 +977"
+  - option "约旦 +962"
+  - option "多哥 +228"
+  - option "特里尼达及多巴哥 +1868"
+  - option "阿根廷 +54"
+  - option "马达加斯加 +261"
+  - option "危地马拉 +502"
+  - option "伊拉克 +964"
+  - option "利比里亚 +231"
+  - option "牙买加 +1876"
+  - option "赤道几内亚 +240"
+  - option "几内亚 +224"
+  - option "马约特 +262"
+  - option "希腊 +30"
+  - option "乌干达 +256"
+  - option "阿富汗 +93"
+  - option "加蓬 +241"
+  - option "马其顿 +389"
+  - option "科特迪瓦 +225"
+  - option "秘鲁 +51"
+  - option "关岛 +1671"
+- textbox "请输入手机号"
+- textbox "请输入验证码"
+- link "发送验证码":
+  - /url: ""
+- checkbox "下次自动登录" [checked]
+- text: 下次自动登录
+- link "邮箱验证码登录":
+  - /url: ""
+- generic: 登 录
+- generic: 
+- generic: "阅读并同意 "
+- link "服务协议、":
+  - /url: /about/terms
+- link "隐私政策":
+  - /url: /law/privacy
+- link "":
+  - /url: ""
+  - generic: 
+- emphasis: 微信登录
+- link "":
+  - /url: ""
+- generic: 立即登录/注册

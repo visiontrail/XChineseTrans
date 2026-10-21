@@ -1,0 +1,10 @@
+Warm ivory #FDFBF7 paper background with barely perceptible natural fiber, forest green #1A4A3A text, muted green #426454 secondary text, sparse dark gold #80601B emphasis; clean Geist/Inter-like technical sans serif, regular body and semibold headings. Create one polished English editorial infographic for LeoGuoLabs, landscape 3:2, 1536x1024 or larger. About 90% light, generous 6% margins, open borderless typographic composition, understated thin rules. No rounded cards, badges, icons, gradients, shadows, glow, serif, all-caps poster type, heavy frames, or conspicuous texture.
+Exact title: "GLM's next scale jump?"
+Subtitle: "Total parameters: released model vs. unconfirmed report"
+Left column label: "GLM-5.3"; large number: "744B"; smaller label: "Released model"
+Right column label: "Next GLM base model"; large number: "2.5–3.5T"; visibly clear dark-gold label: "Rumored • not confirmed by Z.ai"
+Lower section: large but subordinate "3.4–4.7×" then "the total parameter count, if accurate"
+Readable footnote on two lines: "Parameter count does not establish capability."
+"Fable-class performance remains unverified."
+Small plain-text signature at bottom: "LeoGuoLabs". Small date at bottom right: "21 Oct 2026".
+Use large legible typography; keep title proportionate. This is a scale comparison, NOT a performance benchmark. Do not draw proportionally misleading bars. Do not add model names GLM-5.5 or Fable 5.1: the future model's official name and performance are unconfirmed. Do not add sources or production notes to the graphic. Use all text verbatim with correct punctuation. The whole asset should feel calm, minimal, precise and readable at phone size.

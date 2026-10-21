@@ -1,0 +1,1 @@
+English comparison graphic on an ivory background. GLM-5.3: 744 billion total parameters, released. Next GLM base model: rumored 2.5 to 3.5 trillion, not confirmed by Z.ai. That would be 3.4 to 4.7 times the total parameter count if accurate. Parameter count does not establish capability; Fable-class performance remains unverified.
