@@ -1,0 +1,46 @@
+{
+  "status": "pending_approval",
+  "prepared_at": "2026-10-21T22:45:30.735904+08:00",
+  "account": "@LeoGuoLabs",
+  "format": "standalone_post",
+  "supplied_source": "https://x.com/leo114119/status/2112907695950852420",
+  "quote_target": null,
+  "primary_sources": [
+    "https://openai.com/index/openai-models-google-cloud/",
+    "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers"
+  ],
+  "text_file": "post.txt",
+  "text_sha256": "d79a43c6b4ec8ff44d39fd2e3e05564877b348544f267404a99cf4a5a3b3df8c",
+  "attachments": [],
+  "alt": [],
+  "visible_link": "https://openai.com/index/openai-models-google-cloud/",
+  "media_review": {
+    "source_has_video": false,
+    "source_has_quote": false,
+    "article_link_card_only": true,
+    "custom_media_needed": false
+  },
+  "browser": "Ego Lite (matched native app window to current connection; no persistent numeric ID)",
+  "composer_url": "https://x.com/compose/post",
+  "composer_checks": {
+    "opened_blank": true,
+    "active_account_verified": true,
+    "full_text_accepted": true,
+    "paragraphs_match_saved_copy_after_rendered_newline_normalization": true,
+    "post_enabled": true,
+    "large_link_card_rendered": false,
+    "visible_official_url_retained": true,
+    "submission_performed": false
+  },
+  "evidence": [
+    "composer-review.jpg",
+    "composer-review-crop.jpg",
+    "research/source-post.json",
+    "research.md"
+  ],
+  "approval": {
+    "received": false,
+    "rule": "AGENTS.md: final review required for a bare source link"
+  },
+  "publication_url": null
+}

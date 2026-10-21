@@ -1,0 +1,9 @@
+Google Cloud customers will soon be able to use existing cloud spending commitments to buy OpenAI models.
+
+GPT-6 Astra, GPT-6.1 Sol and GPT-6 Luna are rolling out in private preview for selected enterprises, alongside support for Codex workflows. General availability is planned in the coming weeks, with Antigravity integration also on the way.
+
+For teams already on Google Cloud, that’s a useful shift: more model choice within the cloud budget and tools they already use. Competing on models, partnering on distribution.
+
+Google AI Pro/Ultra access hasn’t been announced.
+
+https://openai.com/index/openai-models-google-cloud/
