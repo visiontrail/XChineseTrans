@@ -1,0 +1,62 @@
+{
+  "account": "@LeoGuoLabs",
+  "format": "standalone_post_with_native_video",
+  "status": "pending_final_content_review",
+  "prepared_at": "2026-10-21T21:56:54.551335+08:00",
+  "source_thread": {
+    "host": "local",
+    "id": "01a1592a-a896-7670-945f-7926e7ac0732",
+    "title": "复刻白板讲解视频风格"
+  },
+  "source_project": "https://github.com/lemomo-ai/lemo-opuscar",
+  "source_creator": "https://x.com/lemomo_ai",
+  "source_verification": "Live GitHub README confirms Claude Opus tuning and links @lemomo_ai; author X URL returned 403 in web fetch.",
+  "media": {
+    "path": "output/codex-whiteboard-film-x/does-ai-help-you-learn-3min.mp4",
+    "original_path": "/Volumes/TP-1TB/WorspacePlus/Myself/codex-film-studio/styles/whiteboard/studio/media/does-ai-help-you-learn-3min.mp4",
+    "title": "Does AI Help You Learn—or Just Finish?",
+    "duration_seconds": 180,
+    "bytes": 32014920,
+    "sha256": "9db8ae139d3ccbc7e576bb40a790ab8baded687fed897d6a9a43325f8b431df9",
+    "video": "H.264 1920x1080 24fps",
+    "audio": "AAC 48000Hz stereo",
+    "processing": "Copied unchanged from completed local film"
+  },
+  "text_path": "output/codex-whiteboard-film-x/post-en.txt",
+  "checks": {
+    "complete_decode": "passed, ffmpeg exited 0",
+    "sample_frames": "5s, 90s, 175s inspected",
+    "composer_text": "complete text accepted",
+    "upload": "Ready, Post button enabled, one native video",
+    "composer_playback": {
+      "duration_seconds": 180,
+      "observed_times": [
+        21.900279,
+        49.628893
+      ],
+      "paused_during_observations": false,
+      "error": null,
+      "note": "Muted playback checked; not a listening review"
+    },
+    "audio_listening": "not performed in this task",
+    "screenshots": [
+      "composer-video-ready.png",
+      "x-saved-draft.png"
+    ]
+  },
+  "author_statement": "About half the weekly Codex quota was used, supplied directly by the user; not derived from current usage dashboard.",
+  "approval": {
+    "state": "pending_final_content_review",
+    "latest_instruction": "编辑完成不要发布，给我确认",
+    "publish_authorized": false
+  },
+  "composer_url": "https://x.com/compose/post",
+  "public_url": null,
+  "draft": {
+    "saved": true,
+    "persistence_check": "After reload, Unsent posts lists this exact opening with a 3:00 native video. Full English text was checked in composer before save.",
+    "url": "https://x.com/compose/post/unsent/drafts",
+    "native_video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2112905826973503488/img/JyxnQzcK5n13VHnm.jpg",
+    "handoff": "Drafts list preserved for review; no Post click or scheduled publication."
+  }
+}
