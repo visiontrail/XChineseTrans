@@ -1,0 +1,45 @@
+{
+  "started_at": "2026-10-21T16:47:48.346652+00:00",
+  "state": "publicly_verified",
+  "draft_id": "2110987398230249472",
+  "account": "@LeoGuoLabs",
+  "authorization": "User requested deletion of the obsolete automation and immediate publication of the previously approved article on 2026-10-22 Asia/Singapore.",
+  "automation": {
+    "id": "ai-20261022",
+    "already_deleted": true,
+    "local_absence_reverified": true
+  },
+  "original_failure": "Existing editor loaded 0 body words and disabled Publish; original preview retained complete approved article.",
+  "repair": "Restore same original draft from unchanged approved article-segments.json and exact local media. No new article created.",
+  "asset_hashes_match_approved": true,
+  "browser": "Ego Lite",
+  "upload_method": "Native macOS file picker; extension setFiles failed due missing Allow access to file URLs.",
+  "submit_attempts": 1,
+  "restored_preview": "manual-restored-preview-20261022.json",
+  "preview_video_evidence": "manual-restored-video-playing-20261022.png",
+  "restored_body_words": 1199,
+  "body_matches_approved": true,
+  "headings": 6,
+  "source_links": 5,
+  "inline_images": 3,
+  "video_duration_seconds": 572.333,
+  "preview_playback_times": [
+    0.345512,
+    9.544233
+  ],
+  "restored_at": "2026-10-21T16:53:10.169677+00:00",
+  "reopen_bug_reproduced": true,
+  "recovery_passes": 2,
+  "reopen_bug": "Returning from preview reloads an empty editor even though the saved preview retains all 1199 words and full native video. Preserve loaded editor and verify via a separate preview tab before publishing.",
+  "submit_started_at": "2026-10-21T17:01:12.268Z",
+  "final_preflight": "manual-final-preflight-20261022.json",
+  "video_preflight_note": "Exact same approved source file; first restoration playback passed 0.345512 to 9.544233 seconds. Final reupload processed and showed 9:32, but preview MSE playback still loading. Verify final public playback after submission.",
+  "published_url": "https://x.com/LeoGuoLabs/status/2112952371768897998",
+  "submitted_at": "2026-10-21T17:01:32.423Z",
+  "public_verification": "public-verification-20261022.json",
+  "verified_at": "2026-10-21T17:02:06.412Z",
+  "public_playback_times": [
+    0.075518,
+    14.357481
+  ]
+}

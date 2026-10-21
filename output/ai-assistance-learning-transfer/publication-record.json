@@ -3,8 +3,8 @@
   "prepared_at": "2026-10-16T15:07:32.965679+08:00",
   "account": "@LeoGuoLabs",
   "format": "x_article",
-  "state": "blocked_not_submitted",
-  "published_url": null,
+  "state": "publicly_verified",
+  "published_url": "https://x.com/LeoGuoLabs/status/2112952371768897998",
   "draft_url": "https://x.com/compose/articles/edit/2110987398230249472",
   "preview_url": "https://x.com/compose/articles/edit/2110987398230249472/preview",
   "source": {
@@ -37,7 +37,8 @@
     "preparation": "User requested explicit article mode, restarted this task and required AGENTS.md update.",
     "publication": "Explicitly approved by the user on 2026-10-20 for 2026-10-21 00:00 Asia/Singapore after the full article and media were shown.",
     "video_addition": "User explicitly requested embedding the finished FrontierTechSN video and supplied the matching YouTube URL on 2026-10-20. The existing scheduled-publication authorization remains active.",
-    "rescheduled_publication": "User explicitly requested a new scheduled task on 2026-10-21 for the next 00:00 Asia/Singapore, resolved to 2026-10-22 00:00; approved article and full native video unchanged."
+    "rescheduled_publication": "User explicitly requested a new scheduled task on 2026-10-21 for the next 00:00 Asia/Singapore, resolved to 2026-10-22 00:00; approved article and full native video unchanged.",
+    "immediate_publication": "User explicitly requested immediate publication on 2026-10-22 after diagnosis, with old automation deleted."
   },
   "checks": {
     "primary_sources_checked": true,
@@ -49,9 +50,9 @@
     "native_source_links": 5,
     "cover_and_inline_images": 4,
     "full_text_accepted": true,
-    "submitted": false,
-    "native_status": "Draft / Only you can view this unpublished Article. Editor loading spinner, 0 words, Publish disabled.",
-    "browser": "Codex in-app browser",
+    "submitted": true,
+    "native_status": "Published; exact public URL reopened and verified.",
+    "browser": "Ego Lite",
     "local_responsive_checks": "article-layout-checks.json",
     "native_review_screenshot": "article-native-top-review.jpg",
     "native_text_comparison": "exact match after whitespace normalization",
@@ -79,7 +80,19 @@
     "reschedule_preflight_at": "2026-10-21T03:16:44.414879+00:00",
     "reschedule_preflight": "Existing native article preview still showed Draft and Only you can view this unpublished Article, @LeoGuoLabs, six sections, three inline images and the 9:32 native video.",
     "scheduled_execution_record": "scheduled-publication-execution-20261022.json",
-    "latest_preflight": "article-preflight-20261022.json"
+    "latest_preflight": "manual-final-preflight-20261022.json",
+    "manual_execution_record": "manual-publication-execution-20261022.json",
+    "public_verification": "public-verification-20261022.json",
+    "public_video_playback_seconds": [
+      0.075518,
+      14.357481
+    ],
+    "public_video_duration_seconds": 572.333,
+    "public_screenshots": [
+      "manual-public-article-20261022.png",
+      "manual-public-video-playing-20261022.png"
+    ],
+    "editor_recovery": "Restored exact approved text and native media in same draft. Editor reopening bug reproduced; kept loaded editor intact and checked a separate preview before submission."
   },
   "files": [
     {
@@ -136,7 +149,8 @@
     "outcome": "blocked_not_submitted",
     "finished_at": "2026-10-21T16:01:07.103627+00:00",
     "blocker": "Native X Article editor did not finish loading; Publish remained disabled at the scheduled time despite reload and recovery. Complete approved preview and actual video playback verified. No submission attempted.",
-    "submit_attempts": 0
+    "submit_attempts": 0,
+    "superseded_by": "User-authorized immediate manual publication on 2026-10-22"
   },
   "video": {
     "file": "does-ai-help-you-learn-full.mp4",
@@ -166,5 +180,16 @@
       "root_cause": "not_established",
       "replacement_automation_id": "ai-20261022"
     }
-  ]
+  ],
+  "actual_publish_time_singapore": "2026-10-22T01:01+08:00",
+  "verified_at": "2026-10-21T17:02:06.412Z",
+  "manual_publication": {
+    "execution_record": "manual-publication-execution-20261022.json",
+    "state": "publicly_verified",
+    "submitted_at": "2026-10-21T17:01:32.423Z",
+    "published_url": "https://x.com/LeoGuoLabs/status/2112952371768897998",
+    "submit_attempts": 1,
+    "automation_deleted": true
+  },
+  "public_display_time": "1:01 AM · Oct 22, 2026"
 }
