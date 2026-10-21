@@ -36,7 +36,8 @@
   "authorization": {
     "preparation": "User requested explicit article mode, restarted this task and required AGENTS.md update.",
     "publication": "Explicitly approved by the user on 2026-10-20 for 2026-10-21 00:00 Asia/Singapore after the full article and media were shown.",
-    "video_addition": "User explicitly requested embedding the finished FrontierTechSN video and supplied the matching YouTube URL on 2026-10-20. The existing scheduled-publication authorization remains active."
+    "video_addition": "User explicitly requested embedding the finished FrontierTechSN video and supplied the matching YouTube URL on 2026-10-20. The existing scheduled-publication authorization remains active.",
+    "rescheduled_publication": "User explicitly requested a new scheduled task on 2026-10-21 for the next 00:00 Asia/Singapore, resolved to 2026-10-22 00:00; approved article and full native video unchanged."
   },
   "checks": {
     "primary_sources_checked": true,
@@ -74,7 +75,9 @@
     "native_video_validation": "article-native-video-checks.json",
     "native_video_screenshot": "article-native-video-playing.jpg",
     "video_added_at": "2026-10-20T04:01:44.306756+00:00",
-    "local_video_layout_checks": "article-video-layout-checks.json"
+    "local_video_layout_checks": "article-video-layout-checks.json",
+    "reschedule_preflight_at": "2026-10-21T03:16:44.414879+00:00",
+    "reschedule_preflight": "Existing native article preview still showed Draft and Only you can view this unpublished Article, @LeoGuoLabs, six sections, three inline images and the 9:32 native video."
   },
   "files": [
     {
@@ -115,15 +118,15 @@
   ],
   "schedule": {
     "mechanism": "local_Codex_thread_heartbeat",
-    "automation_id": "ai",
+    "automation_id": "ai-20261022",
     "automation_status": "ACTIVE",
     "native_x_schedule": false,
     "timezone": "Asia/Singapore",
-    "preflight_at": "2026-10-20T23:55:00+08:00",
-    "publish_at": "2026-10-21T00:00:00+08:00",
-    "publish_at_utc": "2026-10-20T16:00:00Z",
-    "new_york": "2026-10-20T12:00:00-04:00",
-    "los_angeles": "2026-10-20T09:00:00-07:00",
+    "preflight_at": "2026-10-21T23:50:00+08:00",
+    "publish_at": "2026-10-22T00:00:00+08:00",
+    "publish_at_utc": "2026-10-21T16:00:00Z",
+    "new_york": "2026-10-21T12:00:00-04:00",
+    "los_angeles": "2026-10-21T09:00:00-07:00",
     "one_time": true,
     "requires": "Local computer awake, connected to the internet, desktop app running, and X session signed in.",
     "post_publication_verification": "Same scheduled run opens the actual published URL, verifies full text, cover, three inline images and actual playback of the complete 9:32 native video, reports the public link and stops.",
@@ -135,5 +138,27 @@
     "placement": "After final introduction paragraph, before Four outcomes that deserve separate checks.",
     "native": true,
     "verification": "article-video-record.json"
-  }
+  },
+  "schedule_history": [
+    {
+      "mechanism": "local_Codex_thread_heartbeat",
+      "automation_id": "ai",
+      "automation_status": "ACTIVE",
+      "native_x_schedule": false,
+      "timezone": "Asia/Singapore",
+      "preflight_at": "2026-10-20T23:55:00+08:00",
+      "publish_at": "2026-10-21T00:00:00+08:00",
+      "publish_at_utc": "2026-10-20T16:00:00Z",
+      "new_york": "2026-10-20T12:00:00-04:00",
+      "los_angeles": "2026-10-20T09:00:00-07:00",
+      "one_time": true,
+      "requires": "Local computer awake, connected to the internet, desktop app running, and X session signed in.",
+      "post_publication_verification": "Same scheduled run opens the actual published URL, verifies full text, cover, three inline images and actual playback of the complete 9:32 native video, reports the public link and stops.",
+      "native_ui_observation": "Article More menu offered Delete Article; Publish Article dialog offered audience, reply settings and optional caption, with no schedule control.",
+      "outcome": "missed_as_reported_by_user",
+      "observed_old_automation_state": "absent_from_app",
+      "root_cause": "not_established",
+      "replacement_automation_id": "ai-20261022"
+    }
+  ]
 }
