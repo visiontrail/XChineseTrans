@@ -5,7 +5,7 @@
   "original_quote_target": null,
   "format": "standalone",
   "format_reason": "Source has a news screenshot and no native relevant Quote; earlier source is Xueqiu notes.",
-  "status": "scheduled",
+  "status": "publicly_verified",
   "text_path": "post-en-v1.txt",
   "media_order": [
     "glm-scale-comparison-v1.png"
@@ -16,8 +16,8 @@
     "approved_at": "2026-10-21T20:26:36.078465+08:00",
     "scope": "The exact English text and one image shown in the preceding final review; schedule publication once."
   },
-  "publication_submitted": false,
-  "published_url": null,
+  "publication_submitted": true,
+  "published_url": "https://x.com/LeoGuoLabs/status/2112904236681855178",
   "checks": {
     "live_source_original_language": true,
     "source_image_inspected": true,
@@ -33,7 +33,18 @@
     "alt_retained_in_queue": true,
     "composer_copy_matches_approved_normalized_paragraph_spacing": true,
     "native_queue_verified": true,
-    "duplicate_glm_schedule_found_before_submission": false
+    "duplicate_glm_schedule_found_before_submission": false,
+    "public_account_matches": true,
+    "public_complete_copy_matches": true,
+    "public_paragraph_count": 3,
+    "public_image_count": 1,
+    "public_image_loaded": true,
+    "public_image_visually_inspected": true,
+    "public_alt_matches": true,
+    "public_alt_dialog_checked": true,
+    "public_timestamp_matches_schedule": true,
+    "public_format_standalone": true,
+    "public_video_count": 0
   },
   "ui_blocker": null,
   "assets": [
@@ -68,7 +79,7 @@
     "pacific": "2026-10-21T06:50:00-07:00",
     "singapore": "2026-10-21T21:50:00+08:00",
     "utc": "2026-10-21T13:50:00+00:00",
-    "state": "native_x_queue_verified",
+    "state": "published_at_scheduled_time",
     "submitted_at": "2026-10-21T20:29:36.184981+08:00",
     "queue_url": "https://x.com/compose/post/unsent/scheduled",
     "queue_display": "Will send on Wed, Oct 21, 2026 at 9:50 PM",
@@ -86,8 +97,21 @@
   "verification_automation": {
     "id": "glm",
     "kind": "heartbeat",
-    "status": "ACTIVE",
+    "status": "DELETED",
     "run_once_at_singapore": "2026-10-21T21:52:00+08:00",
-    "purpose": "Public-page verification of the existing native scheduled post only; never republish; deactivate after this one check."
-  }
+    "purpose": "Public-page verification of the existing native scheduled post only; never republish; deactivate after this one check.",
+    "result": "One public-page verification completed; automation deleted after success."
+  },
+  "published_at_utc": "2026-10-21T13:50:00.000Z",
+  "published_at_pacific": "2026-10-21T06:50:00-07:00",
+  "published_at_singapore": "2026-10-21T21:50:00+08:00",
+  "publicly_verified_at": "2026-10-21T21:55:52.742227+08:00",
+  "public_verification_evidence": [
+    "research/public-page.png",
+    "research/public-page-dom.txt",
+    "research/public-dom-metadata.json",
+    "research/public-verification.json",
+    "research/public-alt.png",
+    "research/public-alt-dom.txt"
+  ]
 }

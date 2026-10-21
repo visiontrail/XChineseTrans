@@ -1,0 +1,13 @@
+{
+  "url": "https://x.com/LeoGuoLabs/status/2112904236681855178",
+  "account": "@LeoGuoLabs",
+  "copyMatches": true,
+  "publicText": "Rumors put Z.ai’s next GLM base model at 2.5–3.5T parameters, versus 744B for GLM-5.3. If accurate, that’s 3.4–4.7× the total parameter count.\n\nGLM-5.3 already improved through post-training on the same base as 5.2. Pairing that work with a much larger base could make the next release interesting—especially if speed and cost hold up at scale.\n\nFable-class performance is still a prediction. The real payoff would be stronger coding agents you can afford to keep running.",
+  "paragraphCount": 3,
+  "publishedUtc": "2026-10-21T13:50:00.000Z",
+  "scheduleTimeMatches": true,
+  "imageCount": 1,
+  "imageLoaded": true,
+  "altMatches": true,
+  "notes": "Read tweetText while excluding X aria-hidden URL scheme prefix; screenshot confirms Z.ai display text."
+}

@@ -1,0 +1,24 @@
+{
+  "articleText": "Leo Guo\n@LeoGuoLabs\nBoost\nRumors put \nhttp://\nZ.ai’s next GLM base model at 2.5–3.5T parameters, versus 744B for GLM-5.3. If accurate, that’s 3.4–4.7× the total parameter count.\n\nGLM-5.3 already improved through post-training on the same base as 5.2. Pairing that work with a much larger base could make the next release interesting—especially if speed and cost hold up at scale.\n\nFable-class performance is still a prediction. The real payoff would be stronger coding agents you can afford to keep running.\nALT\n9:50 PM · Oct 21, 2026\n·\n3\n Views",
+  "media": [
+    {
+      "href": "https://x.com/LeoGuoLabs/status/2112904236681855178/photo/1",
+      "images": [
+        {
+          "alt": "English comparison graphic on an ivory background. GLM-5.3: 744 billion total parameters, released. Next GLM base model: rumored 2.5 to 3.5 trillion, not confirmed by Z.ai. That would be 3.4 to 4.7 times the total parameter count if accurate. Parameter count does not establish capability; Fable-class performance remains unverified.",
+          "complete": true,
+          "naturalHeight": 800,
+          "naturalWidth": 1200,
+          "src": "https://pbs.twimg.com/media/HVJ4NnnbgAAiGf8?format=jpg&name=medium"
+        }
+      ]
+    }
+  ],
+  "postText": "Rumors put \nhttp://\nZ.ai’s next GLM base model at 2.5–3.5T parameters, versus 744B for GLM-5.3. If accurate, that’s 3.4–4.7× the total parameter count.\n\nGLM-5.3 already improved through post-training on the same base as 5.2. Pairing that work with a much larger base could make the next release interesting—especially if speed and cost hold up at scale.\n\nFable-class performance is still a prediction. The real payoff would be stronger coding agents you can afford to keep running.",
+  "times": [
+    {
+      "datetime": "2026-10-21T13:50:00.000Z",
+      "text": "9:50 PM · Oct 21, 2026"
+    }
+  ]
+}

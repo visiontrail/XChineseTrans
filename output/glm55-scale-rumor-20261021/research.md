@@ -39,3 +39,11 @@ Used the authenticated Codex built-in browser. Live account was @LeoGuoLabs. Che
 The schedule editor explicitly displayed Singapore Standard Time. Selected 21 October 2026, 9:50 PM, confirmed, and clicked Schedule once. X reported “Your post will be sent on Wed, Oct 21, 2026 at 9:50 PM.” Reopened the actual Scheduled queue and verified the GLM row at 9:50 PM with one image and its ALT. Evidence is saved under research/schedule-settings.*, scheduled-composer.png, scheduled-queue-state.txt and scheduled-queue.png. Earlier Ego Lite upload limitations are resolved via the built-in browser without changing extension permissions.
 
 Created one attached heartbeat, id glm, to check the actual public result at 21:52 Singapore time on this date. Its prompt forbids duplicate submission, preserves exact copy and media, requires checking the real public URL, and stops after the one verification. This is an accepted native X schedule, not yet a publicly verified post.
+
+## Public verification — 2026-10-21
+
+Actual public URL: https://x.com/LeoGuoLabs/status/2112904236681855178 . The live authenticated built-in-browser session was @LeoGuoLabs. Found the existing GLM post on the profile and opened that exact public status URL. The public time element is 2026-10-21T13:50:00.000Z, matching 06:50 PDT / 21:50 Singapore exactly. No new publication or schedule was submitted during verification.
+
+All three English paragraphs match the approved text exactly after excluding X's aria-hidden URL scheme prefix used in the Z.ai link component. The visible screenshot confirms that the link is displayed as Z.ai. The post is standalone, with one image and no Quote or video. The attached image loaded completely at 1200×800 in the public-page rendition and was visually inspected. Its title, numerical comparison, rumor qualification and footer are present. The image ALT exactly matches alt-text-en.txt; additionally opened the public ALT dialog and saved its text and screenshot.
+
+Saved public-page screenshot, DOM snapshot, rendered media metadata, exact-copy checks and ALT evidence under research/public-*. The one-time verification automation glm was deleted after successful verification; no ongoing monitor or replacement schedule was created.

@@ -1,0 +1,175 @@
+- heading "To view keyboard shortcuts, press question mark View keyboard shortcuts" [level=2]:
+  - generic: To view keyboard shortcuts, press question mark
+  - link "View keyboard shortcuts":
+    - /url: /i/keyboard_shortcuts
+- button "Grok":
+- button "Chat":
+- 'dialog "Image description English comparison graphic on an ivory background. GLM-5.3: 744 billion total parameters, released. Next GLM base model: rumored 2.5 to 3.5 trillion, not confirmed by Z.ai. That would be 3.4 to 4.7 times the total parameter count if accurate. Parameter count does not establish capability; Fable-class performance remains unverified."':
+  - heading "Image description" [level=1]
+  - generic: "English comparison graphic on an ivory background. GLM-5.3: 744 billion total parameters, released. Next GLM base model: rumored 2.5 to 3.5 trillion, not confirmed by Z.ai. That would be 3.4 to 4.7 times the total parameter count if accurate. Parameter count does not establish capability; Fable-class performance remains unverified."
+  - button "Dismiss" [active]:
+    - generic: Dismiss
+- button "Skip to home timeline"
+- button "Skip to trending"
+- banner:
+  - heading "X" [level=1]:
+    - link "X":
+      - /url: /home
+  - navigation "Primary":
+    - link "Home":
+      - /url: /home
+      - generic: Home
+    - link "Search and explore":
+      - /url: /explore
+      - generic: Explore
+    - link "Notifications (1 unread notification)":
+      - /url: /notifications
+      - generic "1 unread items":
+        - generic: "1"
+      - generic: Notifications
+    - link "Direct Messages":
+      - /url: /i/chat
+      - generic: Chat
+    - link "Calls":
+      - /url: /i/calls
+      - generic: Calls
+    - link "Grok":
+      - /url: /i/grok
+      - generic: Grok
+    - link "Subscription":
+      - /url: /i/premium
+      - generic: Subscription
+    - link "History":
+      - /url: /i/history
+      - generic: History
+    - link "Profile":
+      - /url: /LeoGuoLabs
+      - generic: Profile
+    - button "More menu items":
+      - generic: More
+  - link "Post":
+    - /url: /compose/post
+    - generic: Post
+  - button "Account menu":
+    - generic "Leo Guo":
+      - img "Leo Guo"
+    - generic: Leo Guo
+    - img "Verified account"
+    - generic: "@LeoGuoLabs"
+    - generic "undefined unread items"
+- main:
+  - generic "Home timeline":
+    - button "Back":
+    - heading "Post" [level=2]
+    - status:
+      - button:
+        - generic: See new posts
+    - region "Conversation":
+      - heading "Conversation" [level=1]
+      - 'generic "Timeline: Conversation"':
+        - 'article "Leo Guo Verified account @LeoGuoLabs Rumors put Z.ai’s next GLM base model at 2.5–3.5T parameters, versus 744B for GLM-5.3. If accurate, that’s 3.4–4.7× the total parameter count. GLM-5.3 already improved through post-training on the same base as 5.2. Pairing that work with a much larger base could make the next release interesting—especially if speed and cost hold up at scale. Fable-class performance is still a prediction. The real payoff would be stronger coding agents you can afford to keep running. English comparison graphic on an ivory background. GLM-5.3: 744 billion total parameters, released. Next GLM base model: rumored 2.5 to 3.5 trillion, not confirmed by Z.ai. That would be 3.4 to 4.7 times the total parameter count if accurate. Parameter count does not establish capability; Fable-class performance remains unverified. ALT"':
+          - link:
+            - /url: /LeoGuoLabs
+          - link "Leo Guo Verified account":
+            - /url: /LeoGuoLabs
+            - generic: Leo Guo
+            - img "Verified account"
+          - link "@LeoGuoLabs":
+            - /url: /LeoGuoLabs
+            - generic: "@LeoGuoLabs"
+          - button "Boost":
+            - generic: Boost
+          - button "Grok actions":
+          - button "More":
+          - text: Rumors put
+          - link "Z.ai":
+            - /url: https://t.co/CMeJBo86aG
+          - text: ’s next GLM base model at 2.5–3.5T parameters, versus 744B for GLM-5.3. If accurate, that’s 3.4–4.7× the total parameter count. GLM-5.3 already improved through post-training on the same base as 5.2. Pairing that work with a much larger base could make the next release interesting—especially if speed and cost hold up at scale. Fable-class performance is still a prediction. The real payoff would be stronger coding agents you can afford to keep running.
+          - 'link "English comparison graphic on an ivory background. GLM-5.3: 744 billion total parameters, released. Next GLM base model: rumored 2.5 to 3.5 trillion, not confirmed by Z.ai. That would be 3.4 to 4.7 times the total parameter count if accurate. Parameter count does not establish capability; Fable-class performance remains unverified."':
+            - /url: /LeoGuoLabs/status/2112904236681855178/photo/1
+            - 'generic "English comparison graphic on an ivory background. GLM-5.3: 744 billion total parameters, released. Next GLM base model: rumored 2.5 to 3.5 trillion, not confirmed by Z.ai. That would be 3.4 to 4.7 times the total parameter count if accurate. Parameter count does not establish capability; Fable-class performance remains unverified."':
+              - 'img "English comparison graphic on an ivory background. GLM-5.3: 744 billion total parameters, released. Next GLM base model: rumored 2.5 to 3.5 trillion, not confirmed by Z.ai. That would be 3.4 to 4.7 times the total parameter count if accurate. Parameter count does not establish capability; Fable-class performance remains unverified."'
+          - button "ALT":
+            - generic: ALT
+          - link "9:50 PM · Oct 21, 2026":
+            - /url: /LeoGuoLabs/status/2112904236681855178
+            - time: 9:50 PM · Oct 21, 2026
+          - generic: ·
+          - link "3 Views":
+            - /url: /LeoGuoLabs/status/2112904236681855178/analytics
+            - generic: "3"
+            - generic: Views
+          - group "3 views":
+            - button "0 Replies. Reply":
+            - button "0 reposts. Repost":
+            - button "0 Likes. Like":
+            - button "0 Bookmarks. Bookmark":
+            - button "Share post":
+        - link "Leo Guo":
+          - /url: /LeoGuoLabs
+          - generic "Leo Guo":
+            - img "Leo Guo"
+        - generic: Post your reply
+        - textbox "Post text"
+        - button "Reply" [disabled]:
+          - generic: Reply
+  - generic "Trending":
+    - search "Search":
+      - combobox "Search query"
+    - complementary "Relevant people":
+      - heading "Relevant people" [level=2]:
+        - generic: Relevant people
+      - list:
+        - link:
+          - /url: /LeoGuoLabs
+        - link "Leo Guo Verified account":
+          - /url: /LeoGuoLabs
+          - generic: Leo Guo
+          - img "Verified account"
+        - link "@LeoGuoLabs":
+          - /url: /LeoGuoLabs
+          - generic: "@LeoGuoLabs"
+        - generic: Previously a senior C/C++ engineer in telecom. Now exploring AI and emerging tech, sharing useful tools and an engineering perspective.
+    - region "Trending now":
+      - heading "Trending now" [level=1]
+      - 'generic "Timeline: Trending now"':
+        - heading "What’s happening" [level=2]:
+          - generic: What’s happening
+        - 'link "Entertainment · Trending #RoundOneSeries More"':
+          - generic: Entertainment · Trending
+          - generic: "#RoundOneSeries"
+          - button "More":
+        - link "Politics · Trending Qatar More":
+          - generic: Politics · Trending
+          - generic: Qatar
+          - button "More":
+        - 'link "Trending in Singapore #retroaesthetics More"':
+          - generic: Trending in Singapore
+          - generic: "#retroaesthetics"
+          - button "More":
+        - 'link "Trending in Singapore #ootd More"':
+          - generic: Trending in Singapore
+          - generic: "#ootd"
+          - button "More":
+        - link "Show more":
+          - /url: /explore/tabs/for-you
+          - generic: Show more
+    - navigation "Footer":
+      - link "Terms":
+        - /url: https://x.com/tos
+      - generic: ·
+      - link "Privacy":
+        - /url: https://x.com/privacy
+      - generic: ·
+      - link "Cookies":
+        - /url: https://support.x.com/articles/20170514
+      - generic: ·
+      - link "Accessibility":
+        - /url: https://help.x.com/resources/accessibility
+      - generic: ·
+      - link "Ads Info":
+        - /url: https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo
+      - generic: ·
+      - button "More":
+        - text: More
+      - generic: © 2026 X Corp.
