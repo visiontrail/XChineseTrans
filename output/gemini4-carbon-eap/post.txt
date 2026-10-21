@@ -1,0 +1,3 @@
+Gemini 4 Carbon is reportedly reaching early-access partners. Lentils describes better 3D results than Argon, slower responses, and continued frontend/UI weaknesses.
+
+If “less lazy” means fewer placeholders and more complete work, the extra wait could be worth it. Time spent fixing the output belongs in the speed comparison too.

@@ -1,0 +1,35 @@
+{
+  "status": "pending_final_review",
+  "prepared_date": "2026-10-21",
+  "timezone": "Asia/Singapore",
+  "account": "@LeoGuoLabs",
+  "format": "native_quote_post",
+  "source_url": "https://x.com/leo114119/status/2112809402696913327",
+  "quote_target": "https://x.com/Lentils80/status/2112770669549068684",
+  "text_path": "post.txt",
+  "media": [],
+  "media_reason": "Both supplied and original posts are text-only.",
+  "claim_status": "Attributed unverified report; no public confirmation found in the checked Google or Arena pages.",
+  "approval": null,
+  "publication_url": null,
+  "submitted": false,
+  "checks": {
+    "live_source_read": true,
+    "original_language_read": true,
+    "quote_chain_traced": true,
+    "account_verified": true,
+    "local_duplicate_search": true,
+    "official_sources_checked": true,
+    "composer_text_verified": true,
+    "composer_quote_verified": true,
+    "post_button_available": true,
+    "screenshot_visually_reviewed": true
+  },
+  "text_sha256": "c73c5efd1a6d1847ed0d5f7495c90b1edba422a7af6e4895e2bd748797131976",
+  "text_characters": 330,
+  "composer_evidence": [
+    "research/composer-ready.jpg",
+    "research/composer-state.txt"
+  ],
+  "composer_note": "Full two-paragraph text accepted; native Lentils target present; 24,670 characters remaining shown. Post was not clicked."
+}
