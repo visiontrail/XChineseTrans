@@ -1,0 +1,17 @@
+{
+  "checked_at": "2026-10-22T13:22:32+08:00",
+  "browser": "Ego Lite; connection correlated to native app tabs",
+  "account": "@LeoGuoLabs",
+  "format": "native_quote",
+  "quote_target": "https://x.com/AndrewCurran_/status/2113101606363484199",
+  "canonical_text": "DeepSeek reportedly raised about RMB 100 billion ($15 billion), with Tencent and CATL among the biggest investors.\n\nThe payoff to watch: stronger models, reliable API capacity, and continued open-weight releases. That last part is what could make this investment useful far beyond DeepSeek's own products.",
+  "canonical_character_count": 305,
+  "editor_inner_text": "DeepSeek reportedly raised about RMB 100 billion ($15 billion), with Tencent and CATL among the biggest investors.\n\n\nThe payoff to watch: stronger models, reliable API capacity, and continued open-weight releases. That last part is what could make this investment useful far beyond DeepSeek's own products.",
+  "wording_matches": true,
+  "native_quote_card_present": true,
+  "native_source_image_present": true,
+  "post_enabled": true,
+  "submitted": false,
+  "scheduled": false,
+  "screenshot": "research/composer-ready.png"
+}

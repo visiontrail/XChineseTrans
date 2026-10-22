@@ -1,0 +1,6 @@
+Browser tab: 303264144, Title: "Andrew Curran on X: \"The Whale has raised another $15 billion. https://t.co/AghYcLmseD\" / X", URL: "https://x.com/compose/post".
+There has been no change in the accessibility tree.
+The focused UI element is 516 text entry area (settable) Description: Post text, Value: DeepSeek reportedly raised about RMB 100 billion ($15 billion), with Tencent and CATL among the biggest investors.
+
+
+The payoff to watch: stronger models, reliable API capacity, and continued open-weight releases. That last part is what could make this investment useful far beyond DeepSeek's own products.

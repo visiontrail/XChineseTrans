@@ -1,0 +1,176 @@
+Browser tab: 303264145, Title: "DeepSeek Raises $15 Billion in Challenge to Leading US Labs - Bloomberg", URL: "https://www.bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs".
+0 AXWebArea DeepSeek Raises $15 Billion in Challenge to Leading US Labs - Bloomberg, URL: bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs
+	1 container
+		2 container Leaderboard advertisement
+			3 container Description: Advertisement, Help: 3rd party ad content, ID: google_ads_iframe_/5262/bloomberg/technology/ai/article_0
+				4 AXWebArea about:blank
+		5 container
+			6 container
+				7 button Skip to content
+				8 button (collapsed) Bloomberg the Company & Its Products, Secondary Actions: Expand
+					9 text Bloomberg the Company & Its Products
+				10 link Description: Bloomberg Terminal Demo Request, Value: bloomberg.com/professional/contact-menu/?utm_source=bloomberg-menu&utm_medium=bcom&bbgsum=DG-WS-PROF-DEMO-bbgmenu
+				11 link Description: Bloomberg Anywhere Remote Login, Value: bba.bloomberg.net/?utm_source=bloomberg-menu&utm_medium=bcom
+				12 link Description: Bloomberg Customer Support, Value: bloomberg.com/professional/support/?utm_source=bloomberg-menu&utm_medium=bcom
+			13 container
+				14 container logo
+					15 link Description: Bloomberg, Value: bloomberg.com/
+				16 button Sign In
+				17 link Description: Subscribe, Value: bloomberg.com/subscriptions?in_source=nav
+				18 button Search
+					19 image Search
+				20 container Menu
+					21 link Description: Live TV, Value: bloomberg.com/live
+					22 content list
+						23 container Markets
+							24 link Description: Markets, Value: bloomberg.com/markets
+							25 image Chevron Down
+						26 container Finance
+							27 link Description: Finance, Value: bloomberg.com/finance
+						28 container Economics
+							29 link Description: Economics, Value: bloomberg.com/economics
+						30 container Industries
+							31 link Description: Industries, Value: bloomberg.com/industries
+						32 container Tech
+							33 link Description: Tech, Value: bloomberg.com/technology
+						34 container Politics
+							35 link Description: Politics, Value: bloomberg.com/politics
+						36 container Businessweek
+							37 link Description: Businessweek, Value: bloomberg.com/businessweek
+						38 container Opinion
+							39 link Description: Opinion, Value: bloomberg.com/opinion
+						40 container Video
+							41 link Description: Video, Value: bloomberg.com/video
+						42 container More
+							43 text More
+							44 image Chevron Down
+					45 button (collapsed) Description: Select Region, Secondary Actions: Expand
+						46 container Current Region
+							47 text US Edition
+						48 image Chevron Down
+			49 container
+				50 link Description: DeepSeek:, Value: bloomberg.com/latest/deepseek?itm_source=record&itm_campaign=DeepSeek&itm_content=title
+				51 link Description: US Seeks Federal Agency Ban, Value: bloomberg.com/news/articles/2026-10-19/us-moves-to-bar-deepseek-from-federal-agencies-and-contracts?itm_source=record&itm_campaign=DeepSeek&itm_content=US_Seeks_Federal_Agency_Ban-0
+				52 link Description: Updated AI Model, Value: bloomberg.com/news/articles/2026-10-17/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner?itm_source=record&itm_campaign=DeepSeek&itm_content=Updated_AI_Model-1
+				53 link Description: Huawei Chip Order, Value: bloomberg.com/news/articles/2026-09-04/deepseek-plans-big-huawei-ai-chip-order-to-power-new-data-center?itm_source=record&itm_campaign=DeepSeek&itm_content=Huawei_Chip_Order-2
+				54 link Description: Popular With Hackers, Value: bloomberg.com/news/articles/2026-08-24/chinese-hackers-use-deepseek-to-boost-attacks-researchers-say-mt7o4205?itm_source=record&itm_campaign=DeepSeek&itm_content=Popular_With_Hackers-3
+				55 link Description: Claude Code Challenge, Value: bloomberg.com/news/articles/2026-08-12/deepseek-publicizes-efforts-to-challenge-anthropic-s-claude-code?itm_source=record&itm_campaign=DeepSeek&itm_content=Claude_Code_Challenge-4
+				56 link Description: IPO Plans, Value: bloomberg.com/news/articles/2026-07-14/deepseek-mulls-new-funding-weeks-after-7-billion-round-ft-says?itm_source=record&itm_campaign=DeepSeek&itm_content=IPO_Plans-5
+			57 container
+				58 link Description: Technology, Value: bloomberg.com/technology?source=eyebrow
+				59 text AI EXCLUSIVE
+				60 heading China’s DeepSeek Raises $15 Billion to Challenge Top US AI Labs, Value: 1
+					61 text China’s DeepSeek Raises $15 Billion to Challenge Top US AI Labs
+				62 button Share this article on Facebook (opens in a new window)
+					63 image Facebook
+				64 button Share this article on X (opens in a new window)
+					65 image X
+				66 button Share this article on LinkedIn (opens in a new window)
+					67 image LinkedIn
+				68 button Share this article via email (opens native email client)
+					69 image Email
+				70 button Link
+					71 image Link
+				72 button Gift this article
+					73 image Gift
+					74 text Gift this article
+				75 button Add us on Google
+					76 container
+						77 image
+						78 text Add us on Google
+				79 link Description: Contact us: Provide news feedback or report an error, Value: bloomberg.com/help/question/submit-feedback-news-coverage/
+				80 link Description: Confidential tip? Send a tip to our reporters, Value: bloomberg.com/tips/
+				81 link Description: Site feedback: Take our Survey New Window, Value: bmedia.iad1.qualtrics.com/jfe/form/SV_0xQ0jMsQ7QLRlj0?slug=2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs
+				82 text By
+				83 link Description: Lulu Yilun Chen, Value: bloomberg.com/authors/AREqIqgAsYg/lulu-y-chen
+				84 text  and
+				85 link Description: Haze Fan, Value: bloomberg.com/authors/ATGinBepGaQ/haze-fan
+				86 text October 22, 2026 at 10:17 AM GMT+8
+				87 button Save
+					88 image Bookmark
+					89 text Save
+				90 button Translate
+					91 image
+					92 text Translate
+				93 heading Takeaways by Bloomberg AI, Value: 2
+					94 image
+					95 text Takeaways
+					96 text by Bloomberg AI
+				97 text The Chinese AI pioneer
+				98 link Description: DeepSeek, Value: bloomberg.com/quote/2544189D:CH
+				99 text  has raised about 100 billion yuan ($15 billion) in its latest fundraising round, one of the country’s largest ever and a sign of the startup’s ambitions to compete globally with the likes of
+				100 link Description: Anthropic PBC, Value: bloomberg.com/quote/1892140D:US
+				101 text  and
+				102 link Description: OpenAI, Value: bloomberg.com/quote/1554630D:US
+				103 text . The Hangzhou-based firm boosted its financing target at least twice as it talked with investors, from 50 billion yuan to
+				104 link Description: 80 billion yuan, Value: bloomberg.com/news/articles/2026-10-06/deepseek-to-raise-at-least-12-billion-in-tencent-backed-funding
+				105 text  before reaching the final tally, according to people familiar with the matter. Battery pioneer
+				106 link Description: Contemporary Amperex Technology Co. Ltd., Value: bloomberg.com/quote/300750:CH
+				107 text  and WeChat-operator
+				108 link Description: Tencent Holdings Ltd., Value: bloomberg.com/quote/700:HK
+				109 text  were among the biggest investors in the round, said the people, asking not to be named as the details aren’t public.
+				110 link Description: Before it's here, it's on the Bloomberg Terminal Bloomberg Terminal LEARN MORE, Value: bloomberg.com/professional/solution/bloomberg-terminal-learn-more/?utm_source=bbg&utm_medium=intpro&utm_campaign=trmnl&utm_content=web_dotcom&tactic=794999
+			111 container Immersive advertisement
+				112 text Advertisement
+			113 container logo
+				114 link Description: Bloomberg, Value: bloomberg.com/
+			115 container dropdown-menu-desktop
+				116 container submenu-desktop
+					117 link Description: Home, Value: bloomberg.com/
+					118 link Description: BTV+, Value: bloomberg.com/live
+					119 link Description: Market Data, Value: bloomberg.com/markets/stocks
+					120 link Description: Opinion, Value: bloomberg.com/opinion
+					121 link Description: Audio, Value: bloomberg.com/audio
+					122 link Description: Originals, Value: bloomberg.com/originals
+					123 link Description: Magazine, Value: bloomberg.com/businessweek
+					124 link Description: Events, Value: bloomberg.com/live-events
+				125 container submenu-desktop
+					126 text News
+					127 link Description: Markets, Value: bloomberg.com/markets
+					128 link Description: Economics, Value: bloomberg.com/economics
+					129 link Description: Technology, Value: bloomberg.com/technology
+					130 link Description: Politics, Value: bloomberg.com/politics
+					131 link Description: Green, Value: bloomberg.com/green
+					132 link Description: Crypto, Value: bloomberg.com/crypto
+					133 link Description: AI, Value: bloomberg.com/ai
+				134 container submenu-desktop
+					135 text Work & Life
+					136 link Description: Wealth, Value: bloomberg.com/wealth
+					137 link Description: Pursuits, Value: bloomberg.com/pursuits
+					138 link Description: Businessweek, Value: bloomberg.com/businessweek
+					139 link Description: CityLab, Value: bloomberg.com/citylab
+					140 link Description: Sports, Value: bloomberg.com/business-of-sports
+					141 link Description: Equality, Value: bloomberg.com/equality
+					142 link Description: Management & Work, Value: bloomberg.com/management-work
+				143 container submenu-desktop
+					144 text Market Data
+					145 link Description: Stocks, Value: bloomberg.com/markets/stocks
+					146 link Description: Commodities, Value: bloomberg.com/markets/commodities
+					147 link Description: Rates & Bonds, Value: bloomberg.com/markets/rates-bonds
+					148 link Description: Currencies, Value: bloomberg.com/markets/currencies
+					149 link Description: Futures, Value: bloomberg.com/markets/stocks/futures
+					150 link Description: Sectors, Value: bloomberg.com/markets/sectors
+					151 link Description: Economic Calendar, Value: bloomberg.com/markets/economic-calendar
+				152 container submenu-desktop
+					153 text Explore
+					154 link Description: Newsletters, Value: bloomberg.com/account/newsletters
+					155 link Description: Explainers, Value: bloomberg.com/explainers
+					156 link Description: Pointed News Quiz, Value: bloomberg.com/games/pointed?in_source=footer
+					157 link Description: Alphadots Game, Value: bloomberg.com/games/alphadots?in_source=nav
+					158 link Description: The Big Take, Value: bloomberg.com/bigtake
+					159 link Description: Graphics, Value: bloomberg.com/graphics
+					160 link Description: Submit a Tip, Value: bloomberg.com/tips/
+					161 link Description: About Us, Value: bloomberg.com/context
+			162 link Description: Terms of Service, Value: bloomberg.com/tos
+			163 button Manage Cookies, ID: cmp-footer-link
+			164 link Description: Trademarks, Value: bloomberg.com/trademarks
+			165 link Description: Privacy Policy, Value: bloomberg.com/privacy
+			166 link Description: Careers, Value: bloomberg.com/careers/?utm_source=dotcom&utm_medium=footer
+			167 link Description: Advertise, Value: bloombergmedia.com/contact
+			168 container
+				169 link Description: Ad Choices, Value: bloomberg.com/privacy#advertisements
+				170 image
+			171 link Description: Help, Value: bloomberg.com/help
+			172 text ©2026 Bloomberg L.P. All Rights Reserved.
+
+The focused UI element is 0 AXWebArea DeepSeek Raises $15 Billion in Challenge to Leading US Labs - Bloomberg, URL: bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs
