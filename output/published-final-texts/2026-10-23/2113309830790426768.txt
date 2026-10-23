@@ -1,0 +1,3 @@
+Ant Group says Ling-3.1-flash-1019 lifts its Artificial Analysis Intelligence Index score from 41 to 44, with gains on agentic benchmarks too.
+
+API access and open weights are still coming. The useful next test is whether those gains hold on real workflows, at an acceptable cost and latency.
