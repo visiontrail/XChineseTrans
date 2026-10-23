@@ -1,0 +1,7 @@
+Geoffrey Hinton believes AI is already conscious. His warning: build it to genuinely care about people, or “we’re toast.”
+
+That consciousness claim remains disputed. A model recognizing a test and changing its behavior does not, by itself, establish subjective experience.
+
+The engineering challenge is keeping increasingly capable AI acting in our interests as it gains more autonomy. Passing a safety test only helps if the behavior holds outside the test, too.
+
+https://www.aol.com/articles/godfather-ai-befriend-bots-toast-205002000.html

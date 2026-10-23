@@ -1,0 +1,53 @@
+{
+  "prepared_at": "2026-10-23T16:34:59.753082+08:00",
+  "account": "@LeoGuoLabs",
+  "source": "https://x.com/leo114119/status/2113530124469403881",
+  "format": "standalone",
+  "quote_target": null,
+  "state": "pending_review",
+  "copy_path": "post-en.txt",
+  "copy": "Geoffrey Hinton believes AI is already conscious. His warning: build it to genuinely care about people, or “we’re toast.”\n\nThat consciousness claim remains disputed. A model recognizing a test and changing its behavior does not, by itself, establish subjective experience.\n\nThe engineering challenge is keeping increasingly capable AI acting in our interests as it gains more autonomy. Passing a safety test only helps if the behavior holds outside the test, too.\n\nhttps://www.aol.com/articles/godfather-ai-befriend-bots-toast-205002000.html",
+  "link": "https://www.aol.com/articles/godfather-ai-befriend-bots-toast-205002000.html",
+  "uploaded_media": [],
+  "relevant_source_videos": 0,
+  "alt": null,
+  "checks": {
+    "live_source_original_language": true,
+    "quote_chain": "no quoted post",
+    "interview_report": "Sarah Knapton syndicated interview on AOL; Telegraph original headline/byline/date visible behind registration wall",
+    "consciousness_claim": "attributed to Hinton; disputed, not established",
+    "composer_exact_text_match": true,
+    "composer_post_enabled": true,
+    "composer_link_card_rendered": false,
+    "screenshot_visually_inspected": true
+  },
+  "approval": {
+    "required_by": "AGENTS.md:187",
+    "received": false
+  },
+  "submitted": false,
+  "public_url": null,
+  "public_verification": "not applicable; not published",
+  "files": {
+    "composer-check.json": {
+      "bytes": 2207,
+      "sha256": "132852be5f9b006f1edaa3a4642abb3081bf4e26d7c29aa82cb66b32f9612c09"
+    },
+    "composer-preview.png": {
+      "bytes": 169938,
+      "sha256": "0de165d0b1530e85bd3d540700e8ab98ac88ab02801f9fd31c0cb53ff7b05e96"
+    },
+    "post-en.txt": {
+      "bytes": 548,
+      "sha256": "1d0b170ad83ac96f7991e08c9d7ee02743be1591dff7b9de9cc99330c7520107"
+    },
+    "research.md": {
+      "bytes": 4480,
+      "sha256": "0abc1020cdc3ac746df83536bf4d4c6bd5a51015593c52434907248c413257ec"
+    },
+    "source-post.json": {
+      "bytes": 1495,
+      "sha256": "69c98ed68358f879ee47457448b76c7670cc09cd29ae85a3ca33cd2212de3f9b"
+    }
+  }
+}
