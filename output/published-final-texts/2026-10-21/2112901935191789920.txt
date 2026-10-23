@@ -1,0 +1,1 @@
+A longer cache lifetime is useful when an agent returns hours later to the same instructions, tools and reference material.
