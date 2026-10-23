@@ -1,0 +1,3 @@
+LEMUR-3 used LiDAR to plan a climb and hundreds of tiny hooks to grip rough rock. A neat example of perception meeting contact mechanics.
+
+This is a 2019 Earth test; the safety cable also helped emulate lower gravity. Courtesy NASA/JPL-Caltech.
