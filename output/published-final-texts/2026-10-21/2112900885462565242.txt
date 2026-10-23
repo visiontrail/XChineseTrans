@@ -1,0 +1,3 @@
+Google’s new TPU backends bring vLLM and SGLang closer to familiar PyTorch workflows. Meta says SGLang-TorchTPU is already running in production, though deployment size and workloads remain undisclosed.
+
+Could CUDA’s moat gradually erode over time?
