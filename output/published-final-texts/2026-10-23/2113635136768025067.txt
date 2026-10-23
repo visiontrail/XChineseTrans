@@ -1,0 +1,5 @@
+RoboSimian uses one actuator design across 28 limb joints: motor, brake, electronics and a 160:1 harmonic drive.
+
+Standardizing the hardware is one way to keep a complex robot manageable.
+
+June 2, 2015 demo. Courtesy NASA/JPL-Caltech.
