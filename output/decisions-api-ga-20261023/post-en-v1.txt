@@ -1,0 +1,3 @@
+GPT-7 this year? One Decisions API demo says 21%. Apparently even AI is managing its expectations. 😄
+
+The API is now generally available for fast probabilities, choices, and scores—useful for routing requests or deciding when an agent should ask for help. The 21% is a demo result, not an official release forecast. Decision quality still needs testing on the inputs your app will actually see.

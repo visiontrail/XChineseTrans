@@ -1,0 +1,70 @@
+{
+  "source": "https://x.com/leo114119/status/2113434666757947542",
+  "quote_chain": [
+    "https://x.com/testingcatalog/status/2113398273352368473",
+    "https://x.com/OpenAIDevs/status/2113346642787086538",
+    "https://x.com/OpenAIDevs/status/2107573382229188645"
+  ],
+  "destination": "@LeoGuoLabs",
+  "format": "native_quote",
+  "quote_target": "https://x.com/OpenAIDevs/status/2113346642787086538",
+  "target_reason": "Current general-availability announcement; its own quote contains the earlier beta demo. Quoting the beta post would misidentify the current announcement.",
+  "status": "pending_review",
+  "text_file": "post-en-v1.txt",
+  "text": "GPT-7 this year? One Decisions API demo says 21%. Apparently even AI is managing its expectations. 😄\n\nThe API is now generally available for fast probabilities, choices, and scores—useful for routing requests or deciding when an agent should ask for help. The 21% is a demo result, not an official release forecast. Decision quality still needs testing on the inputs your app will actually see.",
+  "attachments": [
+    {
+      "path": "research/testingcatalog-predicate-21.jpg",
+      "role": "Authentic English source screenshot published by TestingCatalog, not captured by this agent. Unmodified.",
+      "alt": "TestingCatalog’s Decisions playground screenshot shows a Predicate question asking whether the GPT-7 family will be released this year, a 21% probability, and server and network times of 61 ms and 36 ms.",
+      "sha256": "3f79b82c343419ae8b21f389d7b706fac3af32b8d19b35065a5c39c800589fe8"
+    }
+  ],
+  "native_video": {
+    "source": "https://x.com/OpenAIDevs/status/2107573382229188645",
+    "path": "media/official-demo-1080p.mp4",
+    "attachment_policy": "Retain native source video through the quoted official posts; no separate duplicate video upload.",
+    "duration_seconds": 71.936,
+    "bytes": 16057842,
+    "sha256": "36e94502604f522cc061401203eb3f9428ad4b2928e5272e64abf6640e351b34"
+  },
+  "checks": {
+    "live_source_read": true,
+    "quote_chain_traced": true,
+    "source_image_inspected": true,
+    "official_ga_confirmed": true,
+    "predicate_21_screenshot_confirmed": true,
+    "gpt7_release_probability_independently_reproduced": false,
+    "gpt7_official_forecast": false,
+    "account_profile_link": "https://x.com/LeoGuoLabs",
+    "composer_complete_text_accepted": true,
+    "composer_image_ready": true,
+    "alt_saved": true,
+    "post_button_enabled": true,
+    "source_video_playback": {
+      "first_time_seconds": 0.070276,
+      "later_time_seconds": 33.55351,
+      "duration_seconds": 71.877,
+      "readyState": 4,
+      "error": null
+    },
+    "audio_listening": "未测试; no audio or speech-quality claim is made",
+    "fresh_video_download_complete": true,
+    "video_size_matches_source": true,
+    "video_full_decode_pass": true,
+    "video_frame_samples_inspected": true
+  },
+  "evidence": [
+    "verification/composer-ready.png",
+    "verification/composer-ready-ax.txt",
+    "research/official-docs.md"
+  ],
+  "approval": {
+    "required": true,
+    "received": false,
+    "rule": "AGENTS.md Final review, publication, and verification"
+  },
+  "publication_submitted": false,
+  "actual_url": null,
+  "prepared_at": "2026-10-23T04:03:37.978918+00:00"
+}

@@ -1,0 +1,84 @@
+Browser tab: 1, Title: "OpenAI Developers on X: \"Add near real-time decisions to your workflow with the Decisions API, now generally available. Build faster, more cost-efficient apps and agents that can classify text and images, evaluate inputs, and determine what happens next without generating a full model response.\" / X", URL: "https://x.com/compose/post".
+0 AXWebArea URL: x.com/compose/post, OpenAI Developers on X: "Add near real-time decisions to your workflow with the Decisions API, now generally available. Build faster, more cost-efficient apps and agents that can classify text and images, evaluate inputs, and determine what happens next without generating a full model response." / X
+	1 container
+		2 progress indicator 0
+		3 container
+			4 button Close
+			5 button Drafts
+				6 text Drafts
+		7 container
+			8 container
+				9 container
+					10 container Leo Guo
+						11 image Leo Guo
+				12 container
+					13 container
+						14 container
+							15 text entry area (settable) Description: Post text, Value: GPT-7 this year? One Decisions API demo says 21%. Apparently even AI is managing its expectations. 😄
+
+
+The API is now generally available for fast probabilities, choices, and scores—useful for routing requests or deciding when an agent should ask for help. The 21% is a demo result, not an official release forecast. Decision quality still needs testing on the inputs your app will actually see.
+								16 text GPT-7 this year? One Decisions API demo says 21%. Apparently even AI is managing its expectations. 😄
+								17 text The API is now generally available for fast probabilities, choices, and scores—useful for routing requests or deciding when an agent should ask for help. The 21% is a demo result, not an official release forecast. Decision quality still needs testing on the inputs your app will actually see.
+						18 container TestingCatalog’s Decisions playground screenshot shows a Predicate question asking whether the GPT-7 family will be released this year, a 21% probability, and server and network times of 61 ms and 36 ms.
+							19 button ALT
+								20 text ALT
+							21 button Edit media
+							22 button Remove media
+						23 container
+							24 link Description: Tag people, Value: x.com/compose/post/tags
+							25 link Description: Add description, Value: x.com/compose/post/media
+						26 container
+							27 text Quote
+							28 button Square profile picture OpenAI Developers Verified account @OpenAIDevs 8 hours ago Add near real-time decisions to your workflow with the Decisions API, now generally available. Build faster, more cost-efficient apps and agents that can classify text and images, evaluate inputs, and determine what happens next without generating a full model response. x.com/OpenAIDevs/sta…
+								29 container
+									30 container
+										31 container
+											32 container Square profile picture
+												33 image Square profile picture
+										34 container
+											35 container
+												36 text OpenAI Developers
+												37 image Verified account
+												38 link
+											39 container
+												40 text @OpenAIDevs
+												41 container 8 hours ago
+													42 text 8h
+									43 text Add near real-time decisions to your workflow with the Decisions API, now generally available.
+
+Build faster, more cost-efficient apps and agents that can classify text and images, evaluate inputs, and determine what happens next without generating a full model response. x.com/OpenAIDevs/sta…
+					44 container
+						45 container id__fihl9qkh59a
+							46 link Description: Try out, Value: x.com/compose/articles
+							47 text  the new article composer for new formatting options.
+						48 button Close
+				49 container
+					50 button Everyone can reply
+						51 text Everyone can reply
+				52 container
+					53 container
+						54 button (disabled) Previous
+						55 tab group
+							56 container
+								57 button Choose Files
+								58 pop up button (collapsed) Description: Add media, Secondary Actions: Expand
+							59 button Add a GIF
+							60 button (disabled) Add poll
+							61 pop up button Add emoji
+							62 button Schedule post
+							63 button (disabled) Tag location
+							64 button Content disclosure
+						65 button (disabled) Next
+					66 container
+						67 text 24,605 characters remaining
+						68 progress indicator 1
+					69 container
+						70 button Add post
+					71 button Post
+						72 text Post
+
+The focused UI element is 15 text entry area (settable) Description: Post text, Value: GPT-7 this year? One Decisions API demo says 21%. Apparently even AI is managing its expectations. 😄
+
+
+The API is now generally available for fast probabilities, choices, and scores—useful for routing requests or deciding when an agent should ask for help. The 21% is a demo result, not an official release forecast. Decision quality still needs testing on the inputs your app will actually see.

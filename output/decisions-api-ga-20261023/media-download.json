@@ -1,0 +1,44 @@
+{
+  "source_post": "https://x.com/OpenAIDevs/status/2107573382229188645",
+  "embedded_by": "https://x.com/OpenAIDevs/status/2113346642787086538",
+  "url": "https://video.twimg.com/amplify_video/2107572018644217856/vid/avc1/1920x1080/VBMTZ--VOfzMuoRL.mp4?tag=29",
+  "path": "media/official-demo-1080p.mp4",
+  "acquired_for_this_task": true,
+  "retrieval_started_utc": "2026-10-23T03:57:00Z",
+  "retrieval_started_precision": "minute, based on task download timestamps",
+  "retrieval_completed_before_utc": "2026-10-23T04:03:37.978918+00:00",
+  "bytes": 16057842,
+  "sha256": "36e94502604f522cc061401203eb3f9428ad4b2928e5272e64abf6640e351b34",
+  "duration_seconds": 71.936,
+  "resolution": "1920x1080",
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_sample_rate": 48000,
+  "audio_channels": 2,
+  "full_decode_exit_code": 0,
+  "decode_log": "verification/decode.log",
+  "sampled_frame_sheet": "verification/frames.jpg",
+  "frame_inspection": "Beginning, middle and ending samples visually inspected. Native English source presentation; ending sample fades to black.",
+  "download_attempts": [
+    {
+      "method": "full GET",
+      "status": "timeout",
+      "received_bytes": 4574265,
+      "expected_bytes": 16057842
+    },
+    {
+      "method": "range resume",
+      "content_range": "bytes 4574265-16057841/16057842",
+      "status": "timeout",
+      "received_bytes_this_attempt": 9779162
+    },
+    {
+      "method": "range resume",
+      "content_range": "bytes 14353427-16057841/16057842",
+      "status": "complete"
+    }
+  ],
+  "range_continuity_and_final_size_verified": true,
+  "audio_listening": "未测试; no audio quality or spoken-content claim",
+  "source_browser_playback": "0.070276 s -> 33.55351 s, readyState 4, no error"
+}

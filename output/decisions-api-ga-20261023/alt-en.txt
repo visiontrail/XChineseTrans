@@ -1,0 +1,1 @@
+TestingCatalog’s Decisions playground screenshot shows a Predicate question asking whether the GPT-7 family will be released this year, a 21% probability, and server and network times of 61 ms and 36 ms.
