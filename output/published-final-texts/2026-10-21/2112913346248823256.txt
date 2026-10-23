@@ -1,0 +1,5 @@
+How do you test a space antenna when gravity gets in the way?
+
+In this 2015 NASA/JPL film, SMAP engineers explain their workaround: test the reflector, deployment boom and spacecraft dynamics separately, then use those measurements to model the complete system. A useful engineering lesson: when an end-to-end test is impractical, the interfaces and assumptions deserve as much scrutiny as the parts.
+
+Footage: Courtesy NASA/JPL-Caltech (2015).
