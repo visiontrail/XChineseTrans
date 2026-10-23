@@ -1,0 +1,3 @@
+A rocket-engine test with a rainbow in the frame. NASA’s RS-25 firing on February 22, 2017 lasted 380 seconds.
+
+Even a proven engine needs validation when its controller and operating requirements change. Heritage is a starting point, not a substitute for testing. Footage: NASA.
