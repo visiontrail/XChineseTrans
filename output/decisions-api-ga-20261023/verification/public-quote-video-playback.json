@@ -1,0 +1,23 @@
+{
+  "post": "https://x.com/LeoGuoLabs/status/2113485604445147364",
+  "quoteTarget": "https://x.com/OpenAIDevs/status/2113346642787086538",
+  "note": "Playback is on the official source reached through the published native Quote; the new post has one still-image attachment.",
+  "first": [
+    {
+      "currentTime": 31.82598,
+      "duration": 71.877,
+      "error": null,
+      "paused": false,
+      "readyState": 4
+    }
+  ],
+  "later": [
+    {
+      "currentTime": 54.021593,
+      "duration": 71.877,
+      "error": null,
+      "paused": false,
+      "readyState": 4
+    }
+  ]
+}

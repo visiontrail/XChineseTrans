@@ -9,7 +9,7 @@
   "format": "native_quote",
   "quote_target": "https://x.com/OpenAIDevs/status/2113346642787086538",
   "target_reason": "Current general-availability announcement; its own quote contains the earlier beta demo. Quoting the beta post would misidentify the current announcement.",
-  "status": "pending_review",
+  "status": "publicly_verified",
   "text_file": "post-en-v1.txt",
   "text": "GPT-7 this year? One Decisions API demo says 21%. Apparently even AI is managing its expectations. 😄\n\nThe API is now generally available for fast probabilities, choices, and scores—useful for routing requests or deciding when an agent should ask for help. The 21% is a demo result, not an official release forecast. Decision quality still needs testing on the inputs your app will actually see.",
   "attachments": [
@@ -61,10 +61,34 @@
   ],
   "approval": {
     "required": true,
-    "received": false,
-    "rule": "AGENTS.md Final review, publication, and verification"
+    "received": true,
+    "rule": "AGENTS.md Final review, publication, and verification",
+    "user_message": "确认发布",
+    "received_recorded_at": "2026-10-23T04:20:05.288054+00:00",
+    "approved_version": "post-en-v1.txt + original TestingCatalog screenshot + native Quote of official GA announcement"
   },
-  "publication_submitted": false,
-  "actual_url": null,
-  "prepared_at": "2026-10-23T04:03:37.978918+00:00"
+  "publication_submitted": true,
+  "actual_url": "https://x.com/LeoGuoLabs/status/2113485604445147364",
+  "prepared_at": "2026-10-23T04:03:37.978918+00:00",
+  "submitted_at": "2026-10-23T04:20:15.206770+00:00",
+  "public_verified_at": "2026-10-23T04:22:38.709038+00:00",
+  "published_display_time": "12:20 PM · Oct 23, 2026 (Asia/Singapore)",
+  "public_checks": {
+    "account": "@LeoGuoLabs",
+    "complete_approved_copy": true,
+    "format": "native_quote",
+    "quote_target": "https://x.com/OpenAIDevs/status/2113346642787086538",
+    "quote_target_verified_by_opening_public_card": true,
+    "image_count": 1,
+    "selected_image_and_alt_match": true,
+    "published_url_reopened": true,
+    "video": "The new post has one screenshot. The official video remains accessible through its quoted GA source; playback there advanced from 31.825980 to 54.021593 seconds without error."
+  },
+  "public_evidence": [
+    "verification/public-post-ax.txt",
+    "verification/public-post.png",
+    "verification/public-post-complete.png",
+    "verification/public-quote-video-playback.json",
+    "verification/public-post-preview.png"
+  ]
 }
