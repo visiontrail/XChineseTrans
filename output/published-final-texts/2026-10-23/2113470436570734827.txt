@@ -1,0 +1,3 @@
+SemiAnalysis reports a Claude limits test: two Max 20x accounts, the same model, measured on the same day. One had a 19% larger five-hour allowance but a 20% smaller weekly budget.
+
+Perhaps this is already a concession to profit pressure ahead of an IPO.
