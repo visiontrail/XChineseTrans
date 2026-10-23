@@ -1,0 +1,34 @@
+{
+  "account": "@LeoGuoLabs",
+  "post_url": "https://x.com/LeoGuoLabs/status/2113635136768025067",
+  "published_at_utc": "2026-10-23T14:14:20.000Z",
+  "published_at_singapore": "2026-10-23T22:14:20+08:00",
+  "format": "standalone_native_video",
+  "final_text_file": "2113635136768025067.txt",
+  "source": {
+    "url": "https://www.jpl.nasa.gov/videos/crazy-engineering-robosimian-robot/",
+    "date": "2015-06-02",
+    "cut_start": "00:02:14.600",
+    "cut_end": "00:02:39.400",
+    "attribution": "Courtesy NASA/JPL-Caltech.",
+    "rights_policy": "https://www.jpl.nasa.gov/jpl-image-use-policy/"
+  },
+  "media": {
+    "filename": "robosimian-actuator-2015.mp4",
+    "bytes": 14409526,
+    "sha256": "6cdb4ce8114092a54e85cefdae58e93733638114fa2e29e040a97e37dd0e559d",
+    "duration_seconds": 24.8,
+    "uploaded_resolution": "1280x720",
+    "codec": "H264/AAC",
+    "archive_binary_included": false,
+    "archive_limitation": "Exact MP4 binary is not committed. Connector request exceeded its 16 MiB limit after base64 encoding; no binary blob was created."
+  },
+  "verification": {
+    "full_text_matches_approved": true,
+    "published_video_playing": true,
+    "served_duration_seconds": 24.8,
+    "served_resolution_observed": "640x360",
+    "observed_current_time_seconds": 6.729051,
+    "ready_state": 4
+  }
+}
