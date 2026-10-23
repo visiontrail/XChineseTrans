@@ -1,0 +1,7 @@
+Tang Jie’s vision for recursive self-improvement (RSI) at CNCC puts a feedback loop at the center of AI progress: generate tasks and environments, build verifiable rewards, train, then repeat with harder tasks. Humans retain control of the evaluation.
+
+There’s a concrete engineering foothold. Z.ai reports that a GLM-5.3-powered Infra Agent helped bring GLM-5.3-Flash to production on 100,000+ Chinese-made accelerators in under two weeks, with roughly 3× the initial end-to-end throughput. Engineers still set objectives and reviewed critical changes; fully autonomous self-improvement remains a goal.
+
+For Chinese AI labs, making every accelerator more productive is a meaningful opportunity. The loop gets interesting when each round delivers gains on tasks the system hasn’t learned to game.
+
+https://z.ai/blog/glm-built-its-inference-infrastructure

@@ -1,0 +1,20 @@
+{
+  "source": "https://x.com/nft_chen/status/2113501739358056838",
+  "format": "standalone",
+  "account": "@LeoGuoLabs",
+  "quote_target": null,
+  "format_reason": "Quoted predecessors concern service compensation, HarnessPro, and a scale rumor; none contains the CNCC speech.",
+  "state": "pending_review",
+  "prepared_at": "2026-10-24T00:02:37.270675+08:00",
+  "text": "post-v1.txt",
+  "media": [
+    "rsi-loop-v1.png"
+  ],
+  "alt": "alt-text-en.txt",
+  "source_research": "research.md",
+  "authorization": "Bare-link preparation; standing final-content review required before posting.",
+  "submitted": false,
+  "scheduled": false,
+  "public_url": null,
+  "composer_evidence": "research/composer-check.json"
+}

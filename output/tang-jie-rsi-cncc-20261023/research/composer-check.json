@@ -1,0 +1,24 @@
+{
+  "text": "Tang Jie’s vision for recursive self-improvement (RSI) at CNCC puts a feedback loop at the center of AI progress: generate tasks and environments, build verifiable rewards, train, then repeat with harder tasks. Humans retain control of the evaluation.\n\nThere’s a concrete engineering foothold. Z.ai reports that a GLM-5.3-powered Infra Agent helped bring GLM-5.3-Flash to production on 100,000+ Chinese-made accelerators in under two weeks, with roughly 3× the initial end-to-end throughput. Engineers still set objectives and reviewed critical changes; fully autonomous self-improvement remains a goal.\n\nFor Chinese AI labs, making every accelerator more productive is a meaningful opportunity. The loop gets interesting when each round delivers gains on tasks the system hasn’t learned to game.\n\nhttps://z.ai/blog/glm-built-its-inference-infrastructure",
+  "images": [
+    {
+      "width": 1536,
+      "height": 1024,
+      "complete": true
+    }
+  ],
+  "postButtons": [
+    {
+      "disabled": false,
+      "ariaDisabled": null
+    }
+  ],
+  "profile": "/LeoGuoLabs",
+  "exactTextMatch": true,
+  "normalizedTextMatch": true,
+  "expectedAlt": "Diagram of Tang Jie’s RSI vision: a model generates tasks and environments, builds verifiable rewards, trains and improves, then repeats with harder tasks; humans control held-out evaluation. Below, Z.ai reports that its GLM-5.3 Infra Agent and engineers brought GLM-5.3-Flash serving from initial adaptation to production in under two weeks, with roughly three times the initial throughput on over 100,000 Chinese-made accelerators. Fully autonomous RSI remains a goal.",
+  "checkedAt": "2026-10-23T16:01:09.665Z",
+  "actualAlt": "Diagram of Tang Jie’s RSI vision: a model generates tasks and environments, builds verifiable rewards, trains and improves, then repeats with harder tasks; humans control held-out evaluation. Below, Z.ai reports that its GLM-5.3 Infra Agent and engineers brought GLM-5.3-Flash serving from initial adaptation to production in under two weeks, with roughly three times the initial throughput on over 100,000 Chinese-made accelerators. Fully autonomous RSI remains a goal.",
+  "altMatchesExpected": true,
+  "publicationSubmitted": false
+}

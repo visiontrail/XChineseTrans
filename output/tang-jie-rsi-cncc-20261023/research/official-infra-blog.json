@@ -1,0 +1,64 @@
+{
+  "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+  "title": "Toward Recursive Self-Improvement: How GLM Built Its Own Inference Infrastructure",
+  "published": "2026-09-17",
+  "access": "Full live article read in authenticated Ego Lite; compact evidence retained instead of republishing full article.",
+  "facts": {
+    "agent_model": "GLM-5.3",
+    "served_model": "GLM-5.3-Flash",
+    "accelerators": ">100,000 Chinese-made AI accelerators",
+    "initial_adaptation_to_production": "<2 weeks",
+    "throughput": "roughly 3x initial end-to-end baseline",
+    "attribution": "Z.ai-reported; no independent replication in this task",
+    "human_roles": [
+      "objectives and constraints",
+      "feedback environment",
+      "critical changes and production risk review"
+    ],
+    "feedback": [
+      "correctness tests",
+      "runtime traces",
+      "microbenchmarks",
+      "end-to-end metrics"
+    ]
+  },
+  "exact_short_excerpt": "Of course, we have not yet reached recursive self-improvement.",
+  "links": [
+    {
+      "text": "Try it at Z.ai",
+      "href": "https://z.ai/"
+    },
+    {
+      "text": "Call it at Z.ai",
+      "href": "https://z.ai/model-api"
+    },
+    {
+      "text": "Z.ai Coding Plan",
+      "href": "https://z.ai/subscribe?utm_source=blog&utm_medium=content&utm_campaign=glm5_launch"
+    },
+    {
+      "text": "PR #1180",
+      "href": "https://github.com/fla-org/flash-linear-attention/pull/1180"
+    },
+    {
+      "text": "Privacy Policy",
+      "href": "https://chat.z.ai/legal-agreement/privacy-policy"
+    },
+    {
+      "text": "Terms of Service",
+      "href": "https://chat.z.ai/legal-agreement/terms-of-service"
+    },
+    {
+      "text": "Z.ai",
+      "href": "https://chat.z.ai/"
+    },
+    {
+      "text": "",
+      "href": "https://x.com/zai_org"
+    },
+    {
+      "text": "",
+      "href": "https://github.com/zai-org"
+    }
+  ]
+}

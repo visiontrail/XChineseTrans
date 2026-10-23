@@ -1,0 +1,26 @@
+Warm ivory #FDFBF7 with barely visible natural paper fiber; forest green #1A4A3A text, muted green #426454 secondary text, sparse dark gold #80601B emphasis and thin gold #D4AF37 arrows. Modern Geist/Inter-like sans-serif, regular body and semibold headings. 90% light composition, spacious 6% margins, open borderless editorial layout. No serif, rounded cards, icons, badges, shadows, gradients, leaves, ornamental frames or distressed texture.
+
+Create a polished English explanatory infographic for LeoGuoLabs, landscape 1536x1024. Use case: infographic-diagram. This is an original explanatory graphic, not a photograph or simulated screenshot. All text below must be rendered exactly, legibly, without added claims.
+
+Top title: "AI that improves the next iteration"
+Subtitle: "Tang Jie’s RSI vision, and Z.ai’s engineering foothold"
+
+Upper section label: "THE RSI AMBITION"
+Four evenly spaced unboxed stages, connected left to right by thin arrows:
+"Current model" → "Generate tasks\nand environments" → "Build verifiable\nrewards" → "Train and improve"
+A thin return arrow from the final stage back to the first, labeled "Repeat with harder tasks".
+Beneath the loop, one restrained dark-gold line: "Humans retain control of held-out evaluation"
+
+A fine horizontal rule separates the upper and lower sections.
+Lower section label: "THE REPORTED ENGINEERING RESULT"
+Small explanatory line: "GLM-5.3 Infra Agent + engineers → GLM-5.3-Flash serving"
+Three large unboxed numbers aligned in columns:
+"<2 weeks" with caption "Initial adaptation to production"
+"~3×" with caption "End-to-end throughput vs. initial baseline"
+"100,000+" with caption "Chinese-made AI accelerators"
+
+Readable footnote near bottom: "Z.ai’s reported results. Fully autonomous RSI remains a goal."
+Tiny source line: "CNCC 2026 presentation · Z.ai engineering blog, 17 Sep 2026"
+Small plain-text "LeoGuoLabs" signature at bottom right.
+
+Ensure the top loop, human evaluation line, and lower engineering result are clearly separated. Keep arrows clean and unambiguous, no arrow through any text. Render all captions at a practical readable size. Do not add model-release dates, GLM-5.4/5.5 specifications, or claims of autonomous self-training.

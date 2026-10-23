@@ -1,0 +1,97 @@
+{
+  "text": "SuSu_酥酥👅\n@NFT_Chen\nShow translation\n🤯卧槽！RSI自进化还能省钱？智谱Zai创始人唐杰和团队把“AI编程越用越贵”打脸了！Agent变强，账单却能降26%！\n\nCursor、Claude Code越用越贵，是因为Agent每次都从头谨慎想一遍，简单任务也按难题标准烧钱。现有RSI（递归自我改进）让Agent变强，但账单跟着涨，SWE-Bench Pro上单任务成本从1.88美元直接推到2.68美元（+42.6%）。\n\n智谱ZAI唐杰团队的HarnessPro做到了：平均通过率+2个百分点，成本-26.1%，有的场景甚至砍半。\n\n他们的发现：\n🔹Terminal-Bench 2性能档：80.8% vs RHO的76.3%，成本1.09→0.72美元（-33.9%）\n\n🔹SWE-Bench Pro均衡档：成本2.68→1.26美元（-53%）\n\n🔹不是靠压缩上下文，而是按任务动态分配“思考等级+工具预算”，把冗余开销直接砍掉\n\n他们采用的核心方法：\n1️⃣筛10个难易搭配的训练任务\n2️⃣轨迹分析Agent找出失败点和能省的钱\n3️⃣规划+编辑Agent生成省钱档/均衡档/性能档三套框架\n4️⃣固定测试题评测，留下最优三档进入下一轮迭代\n\n快速上手步骤：\n1️⃣论文：\nhttps://\narxiv.org/abs/2610.26770\n2️⃣代码：\nhttps://\ngithub.com/pzs19/HarnessP\nro\n…\n3️⃣按仓库说明跑三档筛选（Lite/Medium/Heavy），先用小任务验证成本\n4️⃣把省钱档接入你现有Agent，优先替换高消耗环节\n5️⃣对比前后账单和通过率，微调思考预算\n\nAgent想变强，可以先从变便宜开始。\n\n你现在用的编程Agent，账单涨得最猛的是哪一块？\n\n#RSI #智谱AI #唐杰 #HarnessPro #AIAgent #Zai #自进化 #清华 #SWEBench\nQuote\nSuSu_酥酥👅\n@NFT_Chen\n·\nOct 21\nTranslated from Chinese\n🚨 Breaking News! GLM-5.4/5.5 Expert Memo Leaked: Zhipu’s Next-Gen Base Model Goes Straight to 2.5-3.5T! And It’s Set for Day-1 Large-Scale Availability! Could Rival Claude Fable 5.1!\n\nA memo from an expert interview circulating in investment circles reveals that Zhipu’s x.com/nft_chen/statu…#智谱#GLM#大模型#AI#Claude#人工智能#GLM54#GLM55#智谱AI#唐杰#Zcode#Zai\n10:07 PM · Oct 21, 2026\n·\n21.3K\n Views\n14\n13\n92\n44\nRelevant\nView quotes",
+  "links": [
+    {
+      "text": "",
+      "href": "https://x.com/NFT_Chen"
+    },
+    {
+      "text": "SuSu_酥酥👅",
+      "href": "https://x.com/NFT_Chen"
+    },
+    {
+      "text": "@NFT_Chen",
+      "href": "https://x.com/NFT_Chen"
+    },
+    {
+      "text": "https://\narxiv.org/abs/2610.26770",
+      "href": "https://t.co/9tIdlWVcKf"
+    },
+    {
+      "text": "https://\ngithub.com/pzs19/HarnessP\nro\n…",
+      "href": "https://t.co/PkUSDwuolt"
+    },
+    {
+      "text": "#RSI",
+      "href": "https://x.com/hashtag/RSI?src=hashtag_click"
+    },
+    {
+      "text": "#智谱AI",
+      "href": "https://x.com/hashtag/%E6%99%BA%E8%B0%B1AI?src=hashtag_click"
+    },
+    {
+      "text": "#唐杰",
+      "href": "https://x.com/hashtag/%E5%94%90%E6%9D%B0?src=hashtag_click"
+    },
+    {
+      "text": "#HarnessPro",
+      "href": "https://x.com/hashtag/HarnessPro?src=hashtag_click"
+    },
+    {
+      "text": "#AIAgent",
+      "href": "https://x.com/hashtag/AIAgent?src=hashtag_click"
+    },
+    {
+      "text": "#Zai",
+      "href": "https://x.com/hashtag/Zai?src=hashtag_click"
+    },
+    {
+      "text": "#自进化",
+      "href": "https://x.com/hashtag/%E8%87%AA%E8%BF%9B%E5%8C%96?src=hashtag_click"
+    },
+    {
+      "text": "#清华",
+      "href": "https://x.com/hashtag/%E6%B8%85%E5%8D%8E?src=hashtag_click"
+    },
+    {
+      "text": "#SWEBench",
+      "href": "https://x.com/hashtag/SWEBench?src=hashtag_click"
+    },
+    {
+      "text": "",
+      "href": "https://x.com/NFT_Chen/status/2112908698368475277/photo/1"
+    },
+    {
+      "text": "",
+      "href": "https://x.com/NFT_Chen/status/2112908698368475277/photo/2"
+    },
+    {
+      "text": "",
+      "href": "https://x.com/NFT_Chen/status/2112908698368475277/photo/3"
+    },
+    {
+      "text": "",
+      "href": "https://x.com/NFT_Chen/status/2112908698368475277/photo/4"
+    },
+    {
+      "text": "",
+      "href": "https://x.com/NFT_Chen/status/2112853171102232632/photo/1"
+    },
+    {
+      "text": "",
+      "href": "https://x.com/NFT_Chen/status/2112853171102232632/photo/2"
+    },
+    {
+      "text": "10:07 PM · Oct 21, 2026",
+      "href": "https://x.com/NFT_Chen/status/2112908698368475277"
+    },
+    {
+      "text": "21.3K\n Views",
+      "href": "https://x.com/NFT_Chen/status/2112908698368475277/analytics"
+    },
+    {
+      "text": "View quotes",
+      "href": "https://x.com/NFT_Chen/status/2112908698368475277/quotes"
+    }
+  ]
+}

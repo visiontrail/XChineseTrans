@@ -1,0 +1,39 @@
+{
+  "recorded_at": "2026-10-23T23:59:01.613768+08:00",
+  "images": [
+    {
+      "path": "research/source-1.jpg",
+      "source_url": "https://pbs.twimg.com/media/HVSqnYWaYAAeg6I?format=jpg&name=orig",
+      "bytes": 82456,
+      "sha256": "1b44c4ac8191335457004ded3875d361642a6a9434c43a3eef584a806b2ee8b5",
+      "acquired_during_this_task": true
+    },
+    {
+      "path": "research/source-2.jpg",
+      "source_url": "https://pbs.twimg.com/media/HVSqnaea4AEV9yV?format=jpg&name=orig",
+      "bytes": 278062,
+      "sha256": "5d0ce163fb03642ba4195cd1ae171cae473998639fba300c42cbce374fb5ea7b",
+      "acquired_during_this_task": true
+    },
+    {
+      "path": "research/source-3.jpg",
+      "source_url": "https://pbs.twimg.com/media/HVSqmyUaIAA1S7g?format=jpg&name=orig",
+      "bytes": 239745,
+      "sha256": "f955241f5d6d652c5eedac6aac41b1e6ad126f3f307a02bb10eb58e98b710fec",
+      "acquired_during_this_task": true
+    },
+    {
+      "path": "rsi-loop-v1.png",
+      "kind": "new English explanatory image",
+      "tool": "built-in image_gen",
+      "prompt": "image-prompt-v1.txt",
+      "bytes": 1402107,
+      "sha256": "3601fbf4cf3cddadcb57b34bcc678220f95b71aeba2f845c3f26350b1468ed98",
+      "visual_review": "passed: labels, quantities, scope qualification, arrows, contrast, margins, signature"
+    }
+  ],
+  "relevant_source_videos": 0,
+  "publication_media": [
+    "rsi-loop-v1.png"
+  ]
+}
