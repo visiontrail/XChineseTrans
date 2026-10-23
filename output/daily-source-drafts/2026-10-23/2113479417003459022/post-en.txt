@@ -1,0 +1,3 @@
+DeepSeek V4.1 Flash scores 52.6% on FrontierCode v1.1 in Artificial Analysis's new results, ahead of GPT-6.1 Sol at 49.4%. Both were tested in Codex at max reasoning.
+
+The broader Coding Agent Index reverses that order: 47.3 vs. 54.1. A useful reminder to check the task breakdown before picking a coding agent. A stronger patch-writing score doesn't establish that it will handle your whole workflow better.
