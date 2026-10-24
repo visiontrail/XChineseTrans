@@ -1,0 +1,1 @@
+Kimi K3.1 Pro activates 104B of its 2.8T parameters per token, but those inactive experts still need storage. Self-hosting will need serious hardware, not just an open-weight label. Moonshot has launched API access and promises full weights by November 4.
