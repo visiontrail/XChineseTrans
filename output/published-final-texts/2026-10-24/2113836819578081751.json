@@ -1,0 +1,18 @@
+{
+  "account": "@LeoGuoLabs",
+  "status": "published_verified",
+  "published_url": "https://x.com/LeoGuoLabs/status/2113836819578081751",
+  "published_at_utc": "2026-10-24T03:35:45.000Z",
+  "published_at_singapore": "2026-10-24T11:35:45+08:00",
+  "format": "native_quote",
+  "body": "OpenAI says its frontier training now uses a cached web, with no live internet access for models. The infrastructure itself isn't fully air-gapped: monitoring still needs connections. Those support services belong in the threat model too.",
+  "source_url": "https://x.com/alanchen/status/2113774469437386836",
+  "quote_url": "https://x.com/OpenAI/status/2113718797505036665",
+  "official_source": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+  "approval_message_id": "Sentinel_519a68024638819184159cfbfa3a1642",
+  "review_message_id": "Sentinel_ca71182e08e8819180d2011e57900143",
+  "requested_at_utc": "2026-10-24T03:32:36Z",
+  "media": "Native Quote only. No separate media upload.",
+  "verification": "Cloud browser verified account, latest profile without duplicate, exact composer text and official native Quote, then published profile and permalink. DOM time datetime read back.",
+  "submit_count": 1
+}
