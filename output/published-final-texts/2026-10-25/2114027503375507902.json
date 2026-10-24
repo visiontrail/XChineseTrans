@@ -1,0 +1,28 @@
+{
+  "account": "@LeoGuoLabs",
+  "status": "published_verified",
+  "published_url": "https://x.com/LeoGuoLabs/status/2114027503375507902",
+  "published_at_utc": "2026-10-24T16:13:28.000Z",
+  "published_at_singapore": "2026-10-25T00:13:28+08:00",
+  "format": "standalone_native_video",
+  "body": "Mars oxygen starts with heat and electricity: MOXIE split CO2 at about 800°C. This 2019 NASA/JPL lab demo predates MOXIE's Mars experiment, which ended in 2023 after producing 122 grams of oxygen. Footage courtesy NASA/JPL-Caltech.",
+  "source_url": "https://science.nasa.gov/resource/crazy-engineering-making-oxygen-on-mars-with-moxie/",
+  "source_date": "2019-06-12",
+  "facts_url": "https://www.nasa.gov/solar-system/nasas-oxygen-generating-experiment-moxie-completes-mars-mission/",
+  "rights_url": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+  "rights": "Courtesy NASA/JPL-Caltech. Editorial educational use; original audio and marks retained. No added music, subtitles, speed alteration or endorsement.",
+  "approval_message_id": "Sentinel_16c46b7609cc819184c1d0b136ecbe98",
+  "review_message_id": "Sentinel_10fefed86d108191a639b57aaffded5a",
+  "media": {
+    "filename": "moxie-electrolysis-2019.mp4",
+    "duration_seconds": 46.2,
+    "start_seconds": 62,
+    "end_seconds": 108.2,
+    "bytes": 7380428,
+    "sha256": "fcd3d1881993c03acbf0a573e5f3829ae9a6f9f288c70fd34a6e543edc1589fb",
+    "git_blob_sha": "74a39531e509221510385f8910893d5eb21e7f4b",
+    "library_file_id": "libfile_6e9e149c8d0c8191919e805c2c057cd6"
+  },
+  "verification": "Cloud browser account and latest profile checked, local file hash matched. Submitted once after media Ready. Permalink exact body and native video verified; DOM timestamp read. X video duration46.2 seconds, currentTime22.498667, paused=false, readyState4.",
+  "submit_count": 1
+}
