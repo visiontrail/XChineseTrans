@@ -1,0 +1,1 @@
+OpenAI says its frontier training now uses a cached web, with no live internet access for models. The infrastructure itself isn't fully air-gapped: monitoring still needs connections. Those support services belong in the threat model too.
