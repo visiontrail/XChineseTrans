@@ -1,0 +1,61 @@
+{
+  "status": "published",
+  "account": "@LeoGuoLabs",
+  "post_id": "2114291480676507978",
+  "post_url": "https://x.com/LeoGuoLabs/status/2114291480676507978",
+  "published_at": "2026-10-25T09:42:25.000Z",
+  "published_at_singapore": "2026-10-25T17:42:25+08:00",
+  "format": "standalone_native_video",
+  "final_text": "NASA's 2023 footage shows a 12,000-horsepower wind-tunnel fan with wooden blades. Sitka spruce is repairable and safer than metal if it shatters. Material choice is also about how things fail.",
+  "review_message_id": "Sentinel_47d977bd42288191840eb050797ce122",
+  "approval_message_ids": [
+    "Sentinel_30cadc61e0d4819184762390fe47901e",
+    "Sentinel_81623102250c81919377bb559a32f063"
+  ],
+  "sources": [
+    {
+      "url": "https://images.nasa.gov/details/SurprisingSTEM_Wind_Tunnels_jsc2023m000119",
+      "date_created": "2023-04-24",
+      "first_publication_date": "not independently confirmed"
+    },
+    {
+      "url": "https://www.nasa.gov/image-article/sprucing-up-blades/",
+      "purpose": "Supports Sitka spruce repairability and failure-safety explanation"
+    }
+  ],
+  "media": {
+    "path": "output/published-media/2026-10-25/2114291480676507978/nasa-wind-tunnel-wooden-blades.mp4",
+    "library_file_id": "libfile_bf8d78899cc48191aac7c10577eb9cd9",
+    "bytes": 7588645,
+    "sha256": "4c3b282b7ca4b8401dd7126e7ba2af97b9acb42078b84aa58c62b29ca3a6d95c",
+    "git_blob_sha": "e27a9368aef3c994c16eb4eaf997bc81a3d02fec",
+    "duration_seconds": 31.9,
+    "source_in": "00:02:21.200",
+    "source_out": "00:02:53.100",
+    "video": "H.264 720p",
+    "audio": "AAC original audio",
+    "original_marks_preserved": true
+  },
+  "rights": {
+    "guidance": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "purpose": "Informational/editorial use; no NASA endorsement",
+    "limitation": "No third-party restriction notice found in review; do not imply endorsement."
+  },
+  "verification": {
+    "account_checked": true,
+    "recent_posts_checked_for_duplicates": true,
+    "submit_count": 1,
+    "permalink_checked": true,
+    "full_text_matches_approved": true,
+    "native_video_playback_verified": true,
+    "video_duration_seconds": 31.9,
+    "video_observed_current_time_seconds": 7.42789,
+    "video_ready_state": 4,
+    "no_quote_or_additional_image": true,
+    "verified_at": "2026-10-25T09:42:59Z"
+  },
+  "notes": [
+    "Final sentence is original editorial judgment, not a NASA quotation.",
+    "Publication does not count as an additional review-package delivery."
+  ]
+}
