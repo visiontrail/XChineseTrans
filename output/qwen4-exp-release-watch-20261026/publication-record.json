@@ -43,5 +43,12 @@
     "recommended": "alternative-images/official-architecture.png",
     "status": "candidates_prepared_pending_selection",
     "composer_changed": false
+  },
+  "qwen4_image_candidates": {
+    "requested_by_user": "再找找有没有Qwen4的图？",
+    "manifest": "qwen4-images/manifest.json",
+    "recommended": "qwen4-images/qwen4-lineup-original.jpg",
+    "status": "candidates_prepared_pending_selection",
+    "composer_changed": false
   }
 }

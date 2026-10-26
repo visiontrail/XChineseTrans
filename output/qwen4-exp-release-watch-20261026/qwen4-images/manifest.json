@@ -1,0 +1,53 @@
+{
+  "request": "再找找有没有Qwen4的图？",
+  "status": "candidates_prepared_pending_selection",
+  "recommended_image": "qwen4-lineup-original.jpg",
+  "images": [
+    {
+      "file": "qwen4-lineup-original.jpg",
+      "title": "Qwen4 Series Coming Soon conference photograph",
+      "source_page": "https://x.com/MaxForAI/status/2102226622422380820",
+      "source_url": "https://pbs.twimg.com/media/HSybQ4sbcAAHokd.jpg?name=orig",
+      "source_type": "Attendee/social publication; original photographer not independently established",
+      "source_date": "2026-09-22",
+      "recommended": true,
+      "alt": "Audience view of an Apsara conference stage displaying Qwen4 Series Coming Soon and the names Qwen4-Max, Qwen4-Flash and Qwen4-Plus, and Qwen4-27B.",
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "bytes": 531499,
+      "sha256": "05fda4381e2460cd1fdebe9f652d5b9a11fb0c5b6facc51c420df25da9536af7",
+      "retrieved_at": "2026-10-26T15:54:21.734740+00:00",
+      "visually_inspected": true,
+      "modified": false
+    },
+    {
+      "file": "qwen4-training-roadmap.jpg",
+      "title": "Qwen4 training roadmap conference photograph",
+      "source_page": "https://www.kocpc.com.tw/archives/669790",
+      "source_url": "https://www.kocpc.com.tw/wp-content/uploads/2026/09/20260923020152_0_0c7d82.jpg",
+      "source_type": "Third-party media-hosted conference photograph, linked by that article to QbitAI reporting",
+      "recommended": false,
+      "alt": "Wide view of an Apsara 2026 stage showing a stepped Qwen model roadmap, with Qwen4 marked Coming Soon and a later Qwen4.5 and Qwen5 stage labeled 5–10T.",
+      "qualification": "The 5–10T roadmap label belongs to Qwen4.5 and Qwen5, not Qwen4.",
+      "dimensions": [
+        1202,
+        527
+      ],
+      "bytes": 65130,
+      "sha256": "044defb462e0dcab6b32665f5cb152afd417237f4ba97200d971296248c74c11",
+      "retrieved_at": "2026-10-26T15:54:21.785490+00:00",
+      "visually_inspected": true,
+      "modified": false
+    }
+  ],
+  "notes": [
+    "Both delivered candidates visibly name Qwen4. They are conference images found in public sources; neither is represented as an official launch poster or a newly announced release.",
+    "The earlier 666x339 composite was freshly downloaded as qwen4-coming-soon.png, but the higher-resolution 2048x1536 attendee photograph is preferred.",
+    "CuiMao-source.json records a related conference video as corroborating source context. This follow-up is image research only; that video is not selected for adaptation or publication.",
+    "No compositor, post text, quote target, or publication action was changed.",
+    "Official press-kit fetch returned HTTP 403; a ChooseAI image host did not resolve; the incomplete KocPC lineup download was removed."
+  ],
+  "official_context": "https://www.alibabacloud.com/en/press-room/alibaba-unveils-roadmap-on-full-stack-ai-strategy"
+}
