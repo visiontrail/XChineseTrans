@@ -1,0 +1,96 @@
+{
+  "state": "content_prepared_browser_check_pending",
+  "account": "@LeoGuoLabs",
+  "format": "standalone_post",
+  "source_url": "https://x.com/dotey/status/2114549567790125393",
+  "source_id": "2114549567790125393",
+  "quote_target": null,
+  "final_text_path": "post-en.txt",
+  "final_text": "Anthropic could make its IPO filing public as early as October 26, according to The Information. A mid-November listing is reportedly planned; the timing remains unconfirmed.\n\nThe financial details deserve a closer look. Reuters reports $16.8B in Q3 revenue, up 45% from Q2, based on an investor presentation. WSJ’s draft-filing report puts the first-half net loss at $80.7B, with roughly $72B tied to revaluing financing instruments. That headline loss is not the same as cash burned.\n\nThe cloud relationships matter just as much. Reuters found that Amazon and Google’s marketplaces handled 47% of Anthropic’s 2025 revenue, collecting distribution fees averaging about 16 cents per dollar of those sales. Those partners also supply compute, invest in Anthropic and compete with it.\n\nA public S-1 should help show how much of that growth can become durable cash flow after compute costs and distribution fees. Any claim of “adjusted profitability” needs a clear explanation of which costs are excluded.",
+  "media": [],
+  "media_reason": "Supplied live post has no native image attachment, video or Quote. It contains a The Information website card with a portrait photograph; card image inspected and not selected for upload. Text carries the useful information.",
+  "prepared_at": "2026-10-26T03:33:47.195159+00:00",
+  "sources": [
+    {
+      "id": "official-confidential-filing",
+      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "publisher": "Anthropic",
+      "date": "2026-06-01",
+      "finding": "Official confidential S-1 submission. IPO subject to SEC review, market conditions and other factors; no share count or price set in this announcement. Full official statement read."
+    },
+    {
+      "id": "latest-filing-report",
+      "url": "https://www.theinformation.com/newsletters/the-briefing/anthropics-big-reveal",
+      "publisher": "The Information",
+      "date": "2026-10-25",
+      "finding": "Title and byline verified on publisher page; article body is subscription-gated in web reader. October 26 / as early as Monday claim is present in the supplied live post and independently repeated by WebProNews and AI-Intel. Preserve explicit attribution and uncertainty; do not claim full publisher article read.",
+      "corroboration": [
+        "https://www.webpronews.com/anthropic-s1-public-filing-google-amazon-earnings-week/",
+        "https://www.ai-intel.news/intel/anthropic-s-big-reveal-qihm2c"
+      ]
+    },
+    {
+      "id": "ipo-timetable",
+      "url": "https://www.newsquawk.com/headlines/anthropic-plans-to-file-documents-with-the-sec-for-its-blockbuster-ipo-on-october-26th-in-hopes-of-going-public-in-mid-november-according-to-ifr-citing-a-person-familiar-with-the-matter",
+      "publisher": "Newsquawk relaying IFR",
+      "date": "2026-10-15",
+      "finding": "October 26 public filing and hoped-for mid-November listing are sourced reporting. IFR direct page not accessible through web reader. No claim of company-confirmed timetable."
+    },
+    {
+      "id": "q3-results",
+      "url": "https://ca.marketscreener.com/news/anthropic-s-q3-revenue-surges-45-to-nearly-17-billion-ce785dd2d08cf221",
+      "publisher": "Reuters via MarketScreener",
+      "date": "2026-10-14",
+      "finding": "Original Reuters reporting based on investor-day attendees: Q3 $16.8B, Q2 $11.6B, Q1 $4.7B; Q3 adjusted profitability. Anthropic did not immediately comment. These are reported presentation figures, not a public S-1 personally inspected."
+    },
+    {
+      "id": "draft-loss",
+      "url": "https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1",
+      "publisher": "Wall Street Journal",
+      "date": "2026-10-20",
+      "finding": "Publisher headline/deck accessible: draft prospectus, H1 2026 net loss $80.7B. Full article not accessible in web reader."
+    },
+    {
+      "id": "loss-accounting",
+      "url": "https://uk.marketscreener.com/news/anthropic-recorded-net-loss-of-over-80-billion-in-first-half-of-this-year-wsj-reports-ce785cd8dd8ff125",
+      "publisher": "Reuters via MarketScreener, citing WSJ",
+      "date": "2026-10-20",
+      "finding": "$72B of H1 net loss from changes in value of convertible notes and other financing instruments. Does not provide a cash-flow statement; do not treat $80.7B or $8.7B subtraction as cash burn."
+    },
+    {
+      "id": "cloud-distribution",
+      "url": "https://uk.marketscreener.com/news/anthropic-ipo-prospectus-lays-bare-deep-dependence-on-big-tech-partners-ce785ad2d88bf726",
+      "publisher": "Reuters via MarketScreener",
+      "date": "2026-09-29",
+      "finding": "Original Reuters reporting from a confidential draft: 47% of 2025 revenue / $2.16B through Amazon and Google marketplaces; $351M distribution fees, about 16 cents per dollar of channel sales, not of all revenue. Partners also investors, compute suppliers and rivals. Anthropic records gross marketplace revenue and channel fees in operating expenses."
+    }
+  ],
+  "checks": {
+    "live_source_read": true,
+    "original_language_read": true,
+    "source_translation_disabled": true,
+    "source_quote_and_media_inspected": true,
+    "live_account_seen": "@LeoGuoLabs via Profile link and reply identity",
+    "topic_dedup": "No existing source-ID match. Related October 20 funding post found; distinct story, existing files preserved.",
+    "q3_growth_percent_calculated": 44.8276,
+    "channel_fee_percent_calculated": 16.25,
+    "composer_checked": false,
+    "complete_text_accepted_by_composer": false,
+    "public_s1_verified": false
+  },
+  "limitations": [
+    "The Information full article not available through web reader; timely filing claim is corroborated as a report, not confirmed as an event.",
+    "SEC web reader returned the search shell, not populated results. No assertion that EDGAR definitively lacks an S-1 as of retrieval.",
+    "IFR direct article inaccessible. Detailed roadshow, valuation and fundraising targets omitted from copy.",
+    "Browser raised a native website-notification permission prompt while opening The Information, transferred task control to the user, and forbids resume until user confirmation. User asked to dismiss/deny and reply; no acknowledgement yet.",
+    "Directly relevant author continuations could not be fully checked after the permission stop; only main post had loaded in the source capture."
+  ],
+  "approval": {
+    "required": true,
+    "status": "not_yet_requested",
+    "reason": "Complete live composer preparation after browser control is restored, then request final-content approval under AGENTS.md."
+  },
+  "publication_submitted": false,
+  "public_url": null,
+  "next_action": "After user confirms browser permission prompt handled, resume the existing task space, check relevant source continuations, inspect a fresh empty X composer without overwriting other drafts, verify full standalone text, and present final approval. Refresh time-sensitive filing status before publication."
+}

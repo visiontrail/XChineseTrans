@@ -1,0 +1,7 @@
+Anthropic could make its IPO filing public as early as October 26, according to The Information. A mid-November listing is reportedly planned; the timing remains unconfirmed.
+
+The financial details deserve a closer look. Reuters reports $16.8B in Q3 revenue, up 45% from Q2, based on an investor presentation. WSJ’s draft-filing report puts the first-half net loss at $80.7B, with roughly $72B tied to revaluing financing instruments. That headline loss is not the same as cash burned.
+
+The cloud relationships matter just as much. Reuters found that Amazon and Google’s marketplaces handled 47% of Anthropic’s 2025 revenue, collecting distribution fees averaging about 16 cents per dollar of those sales. Those partners also supply compute, invest in Anthropic and compete with it.
+
+A public S-1 should help show how much of that growth can become durable cash flow after compute costs and distribution fees. Any claim of “adjusted profitability” needs a clear explanation of which costs are excluded.
