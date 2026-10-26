@@ -1,0 +1,26 @@
+{
+  "file": "anthropic-ipo-compute-v1.png",
+  "version": "v1",
+  "tool": "built-in image_gen",
+  "prompt": "image-prompt-v1.txt",
+  "alt": "image-alt-v1.txt",
+  "width": 1024,
+  "height": 1536,
+  "bytes": 1551901,
+  "sha256": "1dc14317f3419a2adcee78393ff71680ff8ddc4d00d33311c02e62653a5aa95e",
+  "created_at": "2026-10-26T22:38:42.720522+08:00",
+  "original_generated_file": "/Users/leoguo/.codex/generated_images/01a1788e-f5bc-7a50-9ec3-15363b8928ee/exec-678536ec-6a82-4c03-8f97-35706066c17c.png",
+  "visual_checks": {
+    "full_image_inspected": true,
+    "all_rendered_text_checked": true,
+    "numbers_match_researched_copy": true,
+    "no_clipping": true,
+    "time_periods_separated": true,
+    "cancellation_terms_present": true,
+    "unnamed_customer_not_linked_to_anthropic": true,
+    "brand_signature_present": true,
+    "light_paper_green_gold_style": true
+  },
+  "font_note": "Generated Geist/Inter-like appearance; exact font embedding is not claimed.",
+  "publication_status": "pending_review"
+}

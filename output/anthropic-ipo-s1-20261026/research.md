@@ -22,10 +22,16 @@ Prepared 2026-10-26 (Asia/Singapore) for @LeoGuoLabs. Publication requires final
 
 ## Media and continuity
 
-One native Quote of the official announcement, with its existing website card. No additional uploads: the new substance is the financial interpretation; the Chinese process infographic repeats the basic filing status and includes a speculative timetable. The Musk screenshot concerns a separate financing claim and is not needed as an attachment. Neither supplied post nor the selected official source has relevant video.
+Initial text-only package: one native Quote of the official announcement, with its existing website card. At that stage no additional uploads were selected: the new substance was the financial interpretation; the Chinese process infographic repeats the basic filing status and includes a speculative timetable. The Musk screenshot concerns a separate financing claim and is not needed as an attachment. Neither supplied post nor the selected official source has relevant video.
 
 An earlier package at output/anthropic-ipo-disclosure-20261026 concerns a different supplied post and reports a prospective filing. It was not published according to its local record. This new package covers the confirmed public filing and the newly supplied supplement. Existing files and unrelated work are preserved; this package does not authorize publication of the earlier draft.
 
 The final public copy is post-en.txt. No source-blogger credit, production notes or ALT text is appended to it. The official Quote card supplies source identity.
 
 Browser text captures have trailing whitespace normalized for Git; screenshots and downloaded source images are unchanged. The complete editor text matched post-en.txt exactly; the Post button was enabled and the native official Quote was present. Nothing was submitted.
+
+## Requested accompanying image
+
+The user then requested one image to accompany the already reviewed text. Created anthropic-ipo-compute-v1.png with built-in image_gen, 1024×1536, following LeoGuoLabs Light v1. Exact prompt, English ALT and a checksum-bound image manifest are saved alongside it. All visible numbers, wording, conditions and the signature were inspected. The image uses a payment arrow only for the contractual Anthropic–SpaceXAI relationship; the unnamed-customer concentration is a separate section. The existing public copy is unchanged.
+
+The image is prepared for final review. It has not been uploaded to X; the earlier composer verification applies to the text-only Quote, not the updated image-plus-Quote combination. No publication was submitted.

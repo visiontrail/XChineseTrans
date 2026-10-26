@@ -1,0 +1,46 @@
+Warm ivory #FDFBF7 paper with barely visible fine natural fibers; forest-green #1A4A3A text, muted-green #426454 secondary text, sparse readable dark-gold #80601B emphasis and very thin gold #D4AF37 rules. Modern technical sans-serif resembling Geist or Inter, regular body, medium labels, semibold headings. 85–90% light canvas.
+
+Create ONE polished, publication-ready English editorial infographic for LeoGuoLabs, portrait 2:3 aspect ratio, ideally 1536 x 2304. Use case: infographic-diagram. It accompanies a carefully verified post about Anthropic's October 26, 2026 public S-1. This is an original explanatory graphic, not a screenshot or an imitation of a financial filing.
+
+Open, borderless composition with generous 6% margins, consistent left alignment, crisp legible typography and ample whitespace. Use hierarchy and a few thin horizontal dividers, no cards. Make the financial metrics and the future contract visually separate: they cover different periods and must never look like one arithmetic equation. No bar chart, pie chart or subtraction diagram. No logos, decorative icons, serif type, giant all-caps, gradients, glow, shadow, foliage, badges, frames, stains, creases or conspicuous texture. No photographs. Small captions must remain comfortably legible.
+
+Render exactly the following content with the specified hierarchy; spelling and numbers must be exact.
+
+HEADER:
+"Anthropic’s IPO"
+"Follow the compute bill"
+Small line: "S-1 filed 26 Oct 2026  ·  Proposed Nasdaq ticker: ANT"
+
+SECTION 1, about the upper middle:
+"H1 2026: three different measures"
+Three balanced unboxed columns:
+"$16.3B" / "Revenue"
+"$80.7B" / "Net loss"
+"+$3.9B" / "Operating cash flow"
+Under this row, two short readable lines of explanatory text, not tiny footnotes:
+"Net loss includes $72.4B in fair-value charges on financing instruments."
+"Operating cash flow is affected by payment timing; it is not free cash flow."
+Emphasized short takeaway in dark gold: "Reported loss ≠ cash burn"
+
+SECTION 2, a spacious distinct area:
+"Future compute agreements"
+A thin directional line from "Anthropic" to "SpaceXAI", labelled "Compute payments". This represents payments, not an identification of SpaceX's unnamed customer.
+One large number: "Up to $120.5B"
+Below: "Terms extend into 2029"
+Next line: "Approx. $3.1B/month once all capacity is delivered"
+Readable condition underneath:
+"Either party can cancel on 90 days’ notice after initial periods ending Jan / Mar 2027."
+
+SECTION 3, visually separated from the payment diagram:
+"Supplier concentration"
+Large dark-gold number on the left: "34.5%"
+To its right: "of SpaceX’s Q3 2026 revenue came from one unnamed customer."
+Below in clear regular type:
+"The filing does not identify that customer as Anthropic."
+Do not draw any connection between this number and the Anthropic label above.
+
+FOOTER, compact but readable:
+"Sources: Anthropic S-1; SpaceX Q3 2026 10-Q"
+Small plain-text signature at bottom right: "LeoGuoLabs"
+
+Maintain publication quality: all text fully inside the safe area, no clipped characters, no invented additional facts, no added source-production notes. The infographic must feel restrained, warm, precise, and easy to read on X.

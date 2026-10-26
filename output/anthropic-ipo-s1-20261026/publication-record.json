@@ -10,9 +10,18 @@
   "final_text_path": "post-en.txt",
   "final_text": "Anthropic’s IPO filing is public: proposed Nasdaq ticker ANT, with pricing and share count still unset. The registration is not yet effective.\n\nH1 2026 revenue was $16.3B and the net loss was $80.7B. But $72.4B came from revaluing convertible notes and other financing instruments. Operating cash flow was positive $3.9B, helped partly by the timing of customer receipts and vendor payments. The headline loss is not a cash-burn number.\n\nThe bigger funding question is compute. SpaceXAI agreements could total up to $120.5B into 2029, with payments of roughly $3.1B a month once all capacity is delivered. The contracts allow cancellation on 90 days’ notice after initial lock-in periods ending in January and March 2027.\n\nOn the supplier side, SpaceX reported that one unnamed customer generated 34.5% of Q3 consolidated revenue. Its filing does not identify that customer as Anthropic.\n\nOne company’s compute bill is another’s revenue. Durable customer demand and access to financing have to support both sides of that relationship.",
   "final_text_sha256": "5424d40210157f26333be510f5b4483f94609966c504cff2ce2c7bbda8b606fa",
-  "media": [],
-  "native_media": "Official Quote retains the source and its existing announcement website card; no uploaded attachments.",
-  "media_reason": "No relevant video. Source Chinese infographic and quoted Musk screenshot inspected as research; selected financial analysis is delivered in text with the official Quote.",
+  "media": [
+    {
+      "type": "image",
+      "path": "anthropic-ipo-compute-v1.png",
+      "order": 1,
+      "alt_path": "image-alt-v1.txt",
+      "manifest": "image-manifest-v1.json",
+      "sha256": "1dc14317f3419a2adcee78393ff71680ff8ddc4d00d33311c02e62653a5aa95e"
+    }
+  ],
+  "native_media": "Retain the official native Quote. Add one original English infographic as requested by the user.",
+  "media_reason": "User requested an accompanying graphic after reviewing the combined text. It separates accounting loss, operating cash flow, future compute contracts, and unnamed-customer concentration.",
   "primary_sources": [
     "https://www.anthropic.com/news/s1-sec",
     "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
@@ -31,7 +40,11 @@
     "native_quote_target_verified": true,
     "live_account_verified": "@LeoGuoLabs",
     "composer_evidence": "research/composer-check.json",
-    "composer_screenshot": "research/composer-preview.png"
+    "composer_screenshot": "research/composer-preview.png",
+    "image_visual_verified": true,
+    "image_composer_checked": false,
+    "combined_text_quote_image_checked": false,
+    "composer_evidence_scope": "Prior check covers the text-only native Quote. The new image has been generated and visually checked locally; it has not been added to the live composer."
   },
   "important_corrections": [
     "No confirmed IPO date or valuation is asserted.",
@@ -48,5 +61,6 @@
   "public_url": null,
   "related_earlier_package": "../anthropic-ipo-disclosure-20261026/",
   "prepared_at": "2026-10-26T22:29:18.504801+08:00",
-  "next_action": "After approval, use the retained native Quote composer or recreate it without altering another draft; verify approved text and target, publish once and reopen the public post."
+  "next_action": "After approval of the previously displayed text and the new image, add anthropic-ipo-compute-v1.png and its ALT to the native Quote composer, verify full text, target and attachment together, publish once and reopen the public post.",
+  "updated_at": "2026-10-26T22:38:42.720522+08:00"
 }
