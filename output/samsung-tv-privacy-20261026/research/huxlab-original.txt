@@ -1,0 +1,51 @@
+Hux
+@huxlab
+Show translation
+🚨 我靠，太可怕了 ！你花 3000 刀买了一台 2025 款三星电视。
+
+你以为自己买的是一块顶级面板，实际上你买了一台常驻客厅的间谍终端：
+
+它一直在监听环境音，扫描家庭网络，记录你观看的每一帧画面，然后打包送给三星和超过 400 家数据伙伴。
+
+这件事之所以被曝光，是因为一位安全研究员被“过于精准”的广告恶心到了。
+
+固件有 AES 加密，拆机物理飞线又嫌麻烦，他干脆挖了个 0day 拿到 root 权限。
+
+拆开系统后，配置文件 security-policy.xml 里赫然躺着一个服务：csapi-tv-service-alwaysonvoice（常驻热麦）
+
+越往下挖越骇人：
+
+自动内容识别（ACR）：逐帧像素指纹比对你看了什么
+局域网拓扑探测：给家里所有联网设备画网络拓扑
+端侧跑 CV 与音频模型：电视系统之所以卡顿，是因为昂贵的硬件算力全在后台给数据收集打工
+
+但这位老哥最硬核的地方在于：他不打算藏着掖着。
+
+他正在把整个 Tizen 系统逆向到底，准备直接开源一套纯净、剥离所有遥测代码的自定义系统，连同提权 Exploit 一起公开。
+
+他的理由极其简单：涉及公众隐私的 0day，不该成为厂商的私有资产。
+
+硬件厂商早已默认把你当成可收割的数据资产，而工程师选择直接掀开底牌。
+
+当厂商关上所有退出通道时，开源是普通人最后的赎买方案。
+Quote
+log4j
+@log4j
+·
+Oct 22
+i own a relatively new (2025) samsung tv.
+
+i kept getting weirdly targeted ads.
+
+i tried reversing the firmware but it was aes encrypted and no keys unless tear it apart and do uart/jtag magic.
+
+zero days it is. root shell on new samsung TVs!
+
+discovered PRIVACY HORROR. write up?
+3:18 PM · Oct 26, 2026
+·
+694
+ Views
+1
+4
+1

@@ -1,0 +1,65 @@
+{
+  "source": "https://x.com/huxlab/status/2114617661074399527",
+  "destination": "@LeoGuoLabs",
+  "format": "native_quote",
+  "quote_target": "https://x.com/log4j/status/2113014142600953868",
+  "status": "pending_review",
+  "text_file": "post-en-v1.txt",
+  "text": "You shouldn’t need a root shell to understand what your TV collects.\n\nSamsung documents opt-in viewing-history tracking through ACR. The claims of continuous microphone surveillance still need independent verification, but owners deserve clear data controls, verifiable opt-outs, and the freedom to remove unwanted telemetry from hardware they own.",
+  "attachments": [],
+  "native_quote_media": [
+    {
+      "path": "media/source-root-shell.jpg",
+      "source": "https://x.com/log4j/status/2113014142600953868",
+      "media_url": "https://pbs.twimg.com/media/HVLvKWgXIAAWNTX?format=jpg&name=orig",
+      "retrieved_at": "2026-10-26T22:34:19.320101+08:00",
+      "bytes": 266952,
+      "sha256": "7f38aeba8b83dc45131ffafd5f91a66b1870f2b52b33e483faa4cbd6cb347c9d",
+      "role": "native_quote_image",
+      "visually_inspected": true
+    }
+  ],
+  "research_media": [
+    {
+      "path": "media/source-security-policy.jpg",
+      "source": "https://x.com/log4j/status/2113028209612644795",
+      "media_url": "https://pbs.twimg.com/media/HVL79MNWgAACp--?format=jpg&name=orig",
+      "retrieved_at": "2026-10-26T22:34:21.103191+08:00",
+      "bytes": 317837,
+      "sha256": "d4e58382859ab64954c867bd033bc90043038619b64e285381aa234591376ad1",
+      "role": "research_only",
+      "visually_inspected": true
+    }
+  ],
+  "checks": {
+    "source_original_language_read": true,
+    "quote_target_traced": true,
+    "official_acr_disclosure_read": true,
+    "continuous_microphone_surveillance_independently_verified": false,
+    "relevant_source_videos": 0,
+    "images_visually_inspected": true,
+    "composer_checked": true,
+    "composer_complete_text_accepted": true,
+    "composer_quote_original_text_and_native_image_verified": true,
+    "post_button_enabled": true,
+    "account_profile_link": "https://x.com/LeoGuoLabs",
+    "composer_screenshot_visually_inspected": true
+  },
+  "approval": {
+    "required": true,
+    "received": false,
+    "rule": "AGENTS.md: Final review, publication, and verification"
+  },
+  "publication_submitted": false,
+  "actual_url": null,
+  "prepared_at": "2026-10-26T22:38:25.047307+08:00",
+  "evidence": [
+    "verification/composer-state.json",
+    "verification/composer-ready.png",
+    "research/verification.md"
+  ],
+  "browser_review": {
+    "browser": "Ego Lite",
+    "state": "Prepared composer left open for user review; not submitted."
+  }
+}
