@@ -1,0 +1,46 @@
+{
+  "topic": "AI religious consultation and moral choices",
+  "prepared_at": "2026-10-26T22:28:01.393527+08:00",
+  "account": "@LeoGuoLabs",
+  "status": "pending_review",
+  "format": "standalone",
+  "source_url": "https://x.com/leo114119/status/2114662422917050721",
+  "report_url": "https://abcnews.com/Technology/wireStory/make-ai-morally-good-tech-companies-turning-religion-137549995",
+  "official_url": "https://www.anthropic.com/news/widening-conversation-ai",
+  "quote_target": null,
+  "text_file": "post-en-v1.txt",
+  "text_sha256": "8958e6a07941025031cae90f928aee712d0fb4b1fbf451b3d98cead2e3607e41",
+  "uploaded_images": [],
+  "uploaded_videos": [],
+  "native_link_card": {
+    "url": "https://www.anthropic.com/news/widening-conversation-ai",
+    "title": "Widening the conversation on frontier AI",
+    "image_alt": "Anthropic logo",
+    "verified_in_composer": true
+  },
+  "preparation_checks": {
+    "source_original_language_read": true,
+    "primary_source_checked": true,
+    "source_quote_absent": true,
+    "relevant_video_absent": true,
+    "complete_text_in_composer": true,
+    "post_button_enabled": true,
+    "account_verified": true
+  },
+  "evidence": [
+    "research/source-observation.json",
+    "research/composer-verification.json",
+    "research/composer-ready.png"
+  ],
+  "approval": {
+    "granted": false,
+    "required_by": "AGENTS.md: Final review, publication, and verification"
+  },
+  "submitted": false,
+  "public_url": null,
+  "browser": {
+    "name": "Ego Lite",
+    "task_space_name": "Prepare X post 2114662422917050721",
+    "continuity": "Prepared composer kept for review; rediscover current space and tab IDs before resuming."
+  }
+}

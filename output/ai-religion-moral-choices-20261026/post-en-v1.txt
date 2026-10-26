@@ -1,0 +1,7 @@
+AI labs are turning to religious thinkers for advice on model behavior. Anthropic said in May that it had consulted people from more than 15 religious and cross-cultural groups, with input it hoped could inform Claude’s constitution, training and evaluations.
+
+Broadening that conversation makes sense. But religious traditions carry different ideas of duty, harm and a good life; blending them into a single rulebook can flatten those differences.
+
+The hard question is who decides when those values clash. Labs should make those choices visible: how advice changes model behavior, which trade-offs they make, and how users can challenge the result.
+
+https://www.anthropic.com/news/widening-conversation-ai

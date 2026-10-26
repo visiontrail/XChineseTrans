@@ -1,0 +1,242 @@
+{
+  "observedAt": "2026-10-26T14:26:27.798Z",
+  "exactCopyMatch": true,
+  "submitted": false,
+  "editors": [
+    "AI labs are turning to religious thinkers for advice on model behavior. Anthropic said in May that it had consulted people from more than 15 religious and cross-cultural groups, with input it hoped could inform Claude’s constitution, training and evaluations.\n\nBroadening that conversation makes sense. But religious traditions carry different ideas of duty, harm and a good life; blending them into a single rulebook can flatten those differences.\n\nThe hard question is who decides when those values clash. Labs should make those choices visible: how advice changes model behavior, which trade-offs they make, and how users can challenge the result.\n\nhttps://www.anthropic.com/news/widening-conversation-ai",
+    "\n"
+  ],
+  "dialogs": [
+    {
+      "text": "Drafts\nAI labs are turning to religious thinkers for advice on model behavior. Anthropic said in May that it had consulted people from more than 15 religious and cross-cultural groups, with input it hoped could inform Claude’s constitution, training and evaluations.\n\nBroadening that conversation makes sense. But religious traditions carry different ideas of duty, harm and a good life; blending them into a single rulebook can flatten those differences.\n\nThe hard question is who decides when those values clash. Labs should make those choices visible: how advice changes model behavior, which trade-offs they make, and how users can challenge the result.\n\nhttps://www.anthropic.com/news/widening-conversation-ai\nTry out the new article composer for new formatting options.\nWidening the conversation on frontier AI\nFrom anthropic.com\nEveryone can reply\n24,325 characters remaining\nPost",
+      "buttons": [
+        {
+          "text": "",
+          "aria": "Close",
+          "disabled": false
+        },
+        {
+          "text": "Drafts",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Close",
+          "disabled": false
+        },
+        {
+          "text": "Widening the conversation on frontier AI",
+          "aria": "anthropic.com Widening the conversation on frontier AI",
+          "disabled": false
+        },
+        {
+          "text": "From anthropic.com",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Remove card preview",
+          "disabled": false
+        },
+        {
+          "text": "Everyone can reply",
+          "aria": "Everyone can reply",
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Previous",
+          "disabled": true
+        },
+        {
+          "text": "",
+          "aria": "Add photos or video",
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Add a GIF",
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Add poll",
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Add emoji",
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Schedule post",
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Tag location",
+          "disabled": true
+        },
+        {
+          "text": "",
+          "aria": "Content disclosure",
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Next",
+          "disabled": true
+        },
+        {
+          "text": "",
+          "aria": "Add post",
+          "disabled": false
+        },
+        {
+          "text": "Post",
+          "aria": null,
+          "disabled": false
+        }
+      ],
+      "images": [
+        {
+          "src": "https://pbs.twimg.com/profile_images/2089933102760214528/wgwr7axH_x96.jpg",
+          "alt": "Leo Guo",
+          "complete": true,
+          "width": 96
+        },
+        {
+          "src": "https://pbs.twimg.com/card_img/2110270474576117760/KXQcPr8u?format=jpg&name=medium",
+          "alt": "Anthropic logo",
+          "complete": true,
+          "width": 1200
+        }
+      ],
+      "links": [
+        {
+          "href": "https://x.com/compose/articles",
+          "text": "Try out"
+        }
+      ]
+    },
+    {
+      "text": "Drafts\nAI labs are turning to religious thinkers for advice on model behavior. Anthropic said in May that it had consulted people from more than 15 religious and cross-cultural groups, with input it hoped could inform Claude’s constitution, training and evaluations.\n\nBroadening that conversation makes sense. But religious traditions carry different ideas of duty, harm and a good life; blending them into a single rulebook can flatten those differences.\n\nThe hard question is who decides when those values clash. Labs should make those choices visible: how advice changes model behavior, which trade-offs they make, and how users can challenge the result.\n\nhttps://www.anthropic.com/news/widening-conversation-ai\nTry out the new article composer for new formatting options.\nWidening the conversation on frontier AI\nFrom anthropic.com\nEveryone can reply\n24,325 characters remaining\nPost",
+      "buttons": [
+        {
+          "text": "",
+          "aria": "Close",
+          "disabled": false
+        },
+        {
+          "text": "Drafts",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Close",
+          "disabled": false
+        },
+        {
+          "text": "Widening the conversation on frontier AI",
+          "aria": "anthropic.com Widening the conversation on frontier AI",
+          "disabled": false
+        },
+        {
+          "text": "From anthropic.com",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Remove card preview",
+          "disabled": false
+        },
+        {
+          "text": "Everyone can reply",
+          "aria": "Everyone can reply",
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Previous",
+          "disabled": true
+        },
+        {
+          "text": "",
+          "aria": "Add photos or video",
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Add a GIF",
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Add poll",
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Add emoji",
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Schedule post",
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Tag location",
+          "disabled": true
+        },
+        {
+          "text": "",
+          "aria": "Content disclosure",
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Next",
+          "disabled": true
+        },
+        {
+          "text": "",
+          "aria": "Add post",
+          "disabled": false
+        },
+        {
+          "text": "Post",
+          "aria": null,
+          "disabled": false
+        }
+      ],
+      "images": [
+        {
+          "src": "https://pbs.twimg.com/profile_images/2089933102760214528/wgwr7axH_x96.jpg",
+          "alt": "Leo Guo",
+          "complete": true,
+          "width": 96
+        },
+        {
+          "src": "https://pbs.twimg.com/card_img/2110270474576117760/KXQcPr8u?format=jpg&name=medium",
+          "alt": "Anthropic logo",
+          "complete": true,
+          "width": 1200
+        }
+      ],
+      "links": [
+        {
+          "href": "https://x.com/compose/articles",
+          "text": "Try out"
+        }
+      ]
+    }
+  ],
+  "account": "Leo Guo\n@LeoGuoLabs"
+}
