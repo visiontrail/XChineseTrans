@@ -1,0 +1,11 @@
+44% of CEOs struggle to show stakeholders a financial return from AI. Yet 75% plan to increase technology investment, according to Gartner's survey of 203 CEOs and senior executives.
+
+The readiness gap is striking too: 77% expect AI industrialization to have a medium or high impact on their business objectives through 2027, while only 20% report high readiness.
+
+This is where forward-deployed engineers can earn their keep. Plugging a model into a workflow may speed up one step while leaving the real bottleneck untouched.
+
+The useful work is redesigning the process with the people who run it: decide what AI handles, who owns exceptions, and how to measure the result. Start with one workflow and track cost per completed case, turnaround time, and rework.
+
+Buying AI tools is a budget decision. Turning them into better business outcomes is an operating decision.
+
+https://www.gartner.com/en/newsroom/press-releases/2026-10-20-gartner-says-44-percent-of-ceos-struggle-to-demonstrate-ai-financial-returns-as-technology-becomes-central-to-growth

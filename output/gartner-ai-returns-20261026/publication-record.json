@@ -1,0 +1,37 @@
+{
+  "status": "pending_review",
+  "prepared_at": "2026-10-26T22:38:23.285976+08:00",
+  "account": "LeoGuoLabs",
+  "source_url": "https://x.com/leo114119/status/2114609833554899141",
+  "format": "standalone",
+  "quote_target": null,
+  "primary_source_url": "https://www.gartner.com/en/newsroom/press-releases/2026-10-20-gartner-says-44-percent-of-ceos-struggle-to-demonstrate-ai-financial-returns-as-technology-becomes-central-to-growth",
+  "text_path": "post.txt",
+  "text_sha256": "eaf1064c4a8346e7a8c80975e1b7cd8f5b638c8364fad02859bcb08ea448c4ff",
+  "media": [],
+  "link_card": {
+    "domain": "gartner.com",
+    "title": "Gartner Says 44% of CEOs Struggle to Demonstrate AI Financial Returns",
+    "rendered_in_composer": true
+  },
+  "checks": {
+    "original_language_read": true,
+    "quote_chain": "none",
+    "relevant_video": "none",
+    "primary_claims_verified": true,
+    "composer_full_text_exact_match": true,
+    "post_button_enabled": true,
+    "evidence": [
+      "evidence/source-post.json",
+      "evidence/composer-check.json",
+      "evidence/composer-preview.png"
+    ]
+  },
+  "authorization": {
+    "content_approval": "not_received",
+    "publication_waiver": false,
+    "git_sync": "standing authorization in AGENTS.md"
+  },
+  "publication_submitted": false,
+  "public_url": null
+}
