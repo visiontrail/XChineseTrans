@@ -1,0 +1,31 @@
+{
+  "state": "publicly_verified",
+  "checked_at": "2026-10-27T00:04:47.261830+08:00",
+  "public_url": "https://x.com/LeoGuoLabs/status/2114747631994052956",
+  "published_at": "2026-10-26T23:55:00+08:00",
+  "checks": {
+    "account_verified": true,
+    "full_text_exact_match": true,
+    "media_count": 1,
+    "media_count_matches": true,
+    "media_loaded": true,
+    "image_alt_exact_match": true,
+    "native_quote_target_verified": true,
+    "scheduled_publication_time_matches": true,
+    "image_visual_verified": true,
+    "image_full_resolution_seen": [
+      1024,
+      1536
+    ]
+  },
+  "approved_text_sha256": "5424d40210157f26333be510f5b4483f94609966c504cff2ce2c7bbda8b606fa",
+  "submitted_again": false,
+  "evidence": [
+    "public-page-dom.json",
+    "public-post-top.png",
+    "public-image-viewer.png",
+    "public-quote-and-time.txt",
+    "public-quote-and-time.png",
+    "public-quote-target.json"
+  ]
+}

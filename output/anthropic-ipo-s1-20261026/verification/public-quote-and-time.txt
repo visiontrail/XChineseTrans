@@ -1,0 +1,88 @@
+[p1 "(1) Leo Guo on X: \"Anthropic’s IPO filing is public: proposed Nasdaq ticker A..." | space "LeoGuoLabs source 2114716247531417771"(23): 1 managed, 0 untracked — p1* "(1) Leo Guo on X: \"Anthropic’s IPO filing is public: proposed Nasdaq ticker A..."]
+article "Leo Guo@LeoGuoLabs Anthropic’s IPO filing is public: proposed Nasdaq ticker ANT, with pricing and share count still unset. The registration is not yet effective. H1 2026 revenue was $16.3B and the n..." [ref=124, loc=unstable]
+  link [ref=125, loc=unstable, url=https://x.com/LeoGuoLabs]
+    image
+    container
+  link [ref=126, loc=unstable, url=https://x.com/LeoGuoLabs]
+    text "Leo Guo"
+    image "Verified account"
+  link [ref=127, loc=unstable, url=https://x.com/LeoGuoLabs]
+    text "@LeoGuoLabs"
+  button [ref=128, loc=unstable]
+    text "Boost"
+  button "Grok actions" [ref=129, loc=css:button[aria-label="Grok actions"]]
+    container
+    svg_root
+  button "More" [ref=130, loc=ambiguous]
+    container
+    svg_root
+  container
+    text "Anthropic’s IPO filing is public: proposed Nasdaq ticker ANT, with pricing and share count still unset. The registration is not yet effective. H1 2026 revenue was $16.3B and the net loss was $80.7B...."
+    container "QuoteAnthropic@AnthropicAI·2hAnthropic has filed an S-1 registration statement with the SEC related to its proposed IPO. Read more: https://anthropic.com/news/s1-sec Legal disclaimer: A registration ..."
+      container
+        link [ref=131, loc=href:/LeoGuoLabs/status/2114747631994052956/photo/1, url=https://x.com/LeoGuoLabs/status/2114747631994052956/photo/1]
+          container
+          container "English infographic about Anthropic’s IPO. H1 2026: $16.3B revenue, $80.7B net loss including $72.4B in financing-instrument fair-value charges, and +$3.9B operating cash flow. Future SpaceXAI compu..."
+            container
+            image
+        button [ref=177, loc=unstable]
+          text "ALT"
+      container
+        text "Quote"
+        link [ref=178, loc=unstable]
+          container
+            container
+              container
+              container
+                container
+                container
+                  image
+                  container
+            container
+              container
+                text "Anthropic"
+                image "Verified account"
+              container
+                container [ref=179, loc=unstable]
+                  text "@AnthropicAI"
+                text "·"
+                container "2 hours ago"
+                  text "2h"
+          container
+            text "Anthropic has filed an S-1 registration statement with the SEC related to its proposed IPO. Read more:"
+            container
+              text "https://"
+              text "anthropic.com/news/s1-sec"
+            text "Legal disclaimer: A registration statement relating to these securities has been filed with the SEC but has not yet become effective. These securities"
+    container
+      link "11:55 PM · Oct 26, 2026" [ref=180, loc=css:a[aria-label="11:55 PM · Oct 26, 2026"], url=https://x.com/LeoGuoLabs/status/2114747631994052956]
+        text "11:55 PM · Oct 26, 2026"
+      text "·"
+      link [ref=181, loc=href:/LeoGuoLabs/status/2114747631994052956/analytics, url=https://x.com/LeoGuoLabs/status/2114747631994052956/analytics]
+        text "12"
+        text
+        text "Views"
+    group "12 views"
+      button "0 Replies. Reply" [ref=182, loc=css:button[aria-label="0 Replies. Reply"]]
+        container
+          container
+          svg_root
+        container
+      button "0 reposts. Repost" [ref=183, loc=css:button[aria-label="0 reposts. Repost"]]
+        container
+          container
+          svg_root
+        container
+      button "0 Likes. Like" [ref=184, loc=css:button[aria-label="0 Likes. Like"]]
+        container
+          container
+          svg_root
+        container
+      button "0 Bookmarks. Bookmark" [ref=185, loc=css:button[aria-label="0 Bookmarks. Bookmark"]]
+        container
+          container
+          svg_root
+        container
+      button "Share post" [ref=186, loc=css:button[aria-label="Share post"]]
+        container
+        svg_root

@@ -1,5 +1,5 @@
 {
-  "state": "scheduled",
+  "state": "publicly_verified",
   "account": "@LeoGuoLabs",
   "format": "native_quote_post",
   "source_urls": [
@@ -47,7 +47,23 @@
     "composer_evidence_scope": "Exact approved text, one image with exact ALT, official native Quote and 23:55 schedule verified before submission. Persisted full text verified after reopening scheduled item with only DOM paragraph-newline normalization.",
     "native_schedule_queue_verified": true,
     "saved_schedule_full_text_verified": true,
-    "saved_schedule_alt_verified": true
+    "saved_schedule_alt_verified": true,
+    "public_result": {
+      "account_verified": true,
+      "full_text_exact_match": true,
+      "media_count": 1,
+      "media_count_matches": true,
+      "media_loaded": true,
+      "image_alt_exact_match": true,
+      "native_quote_target_verified": true,
+      "scheduled_publication_time_matches": true,
+      "image_visual_verified": true,
+      "image_full_resolution_seen": [
+        1024,
+        1536
+      ]
+    },
+    "public_evidence": "verification/public-verification.json"
   },
   "important_corrections": [
     "No confirmed IPO date or valuation is asserted.",
@@ -63,14 +79,14 @@
     "request_processing_started_at": "2026-10-26T23:39:54+08:00",
     "scheduled_minute_rounding": "The 15-minute target 23:54:54 was rounded to 23:55 in X native minute-level scheduling."
   },
-  "publication_submitted": false,
-  "public_url": null,
+  "publication_submitted": true,
+  "public_url": "https://x.com/LeoGuoLabs/status/2114747631994052956",
   "related_earlier_package": "../anthropic-ipo-disclosure-20261026/",
   "prepared_at": "2026-10-26T22:29:18.504801+08:00",
-  "next_action": "At/after the 23:55 scheduled time, reopen the actual public post, verify approved full copy, one infographic, ALT and official Quote target; update state to publicly_verified only then.",
-  "updated_at": "2026-10-26T23:50:25.111672+08:00",
+  "next_action": "Complete. Public post, exact full copy, one readable infographic, ALT, native Quote target and scheduled publication timestamp verified. One-time verification automation deleted.",
+  "updated_at": "2026-10-27T00:04:47.261830+08:00",
   "schedule": {
-    "status": "native_schedule_verified",
+    "status": "published",
     "scheduled_at": "2026-10-26T23:55:00+08:00",
     "scheduled_at_utc": "2026-10-26T15:55:00Z",
     "timezone": "Asia/Singapore",
@@ -85,14 +101,18 @@
     "submission_attempts": 2,
     "first_attempt": "X showed a generic error; queue inspection confirmed this post was absent before retry.",
     "second_attempt": "Succeeded; matching official Quote, image, ALT and time appeared in native scheduled queue.",
-    "publicly_verified": false
+    "publicly_verified": true
   },
   "scheduled_submission_accepted": true,
   "follow_up": {
     "automation_id": "anthropic-ipo",
     "kind": "heartbeat",
-    "status": "ACTIVE",
+    "status": "deleted_after_completion",
     "purpose": "One-time actual public-result verification after native scheduled publication; avoid duplicate posting.",
-    "planned_at": "2026-10-26T23:56:00+08:00"
-  }
+    "planned_at": "2026-10-26T23:56:00+08:00",
+    "completed_at": "2026-10-27T00:04:47.261830+08:00",
+    "deletion_confirmed": true
+  },
+  "published_at": "2026-10-26T23:55:00+08:00",
+  "publicly_verified_at": "2026-10-27T00:04:47.261830+08:00"
 }
