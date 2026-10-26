@@ -1,0 +1,17 @@
+{
+  "account": "@LeoGuoLabs",
+  "status": "published_verified",
+  "format": "native_quote",
+  "body": "Kimi says it is restoring up to 25% of monthly subscription quota after unnecessary usage. It is also reducing unnecessary subagent calls and output length. The useful test is how much quota the same completed task consumes after the changes.",
+  "quote_target": "https://x.com/Kimi_Moonshot/status/2114450610724708492",
+  "discovery_source": "https://x.com/Lonely__MH/status/2114523834481246698",
+  "source_summary": "Official Kimi announcement described one-time quota restoration and reductions in unnecessary subagent calls and output length. Credit execution and performance were not independently tested.",
+  "source_published_at_utc": "2026-10-25T20:14:44.000Z",
+  "media": [],
+  "approval_message_id": "Sentinel_259e0c210c308191a76bb9e12ae78720",
+  "approved_review_message_id": "Sentinel_6d88446f1b14819199b181451cbdb21d",
+  "published_url": "https://x.com/LeoGuoLabs/status/2114555629817745888",
+  "published_time_display_sg": "2026-10-26 11:12 AM",
+  "verification": "Reopened live post after one submission; confirmed author @LeoGuoLabs, exact approved body and native Quote of the specified official Kimi post. No added media.",
+  "verified_at_utc": "2026-10-26T03:12:40Z"
+}
