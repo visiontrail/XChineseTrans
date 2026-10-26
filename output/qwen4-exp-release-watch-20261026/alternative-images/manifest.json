@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "file": "official-architecture.png",
+      "title": "Official Qwen3.8-Flash-Next architecture diagram",
+      "source_page": "https://github.com/QwenLM/Qwen3.8-Flash-Next",
+      "source_url": "https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3.8-Flash-Next/architecture.png",
+      "discovery": "Image embedded in the official QwenLM repository README and official Hugging Face model README.",
+      "recommended": true,
+      "alt": "Qwen3.8-Flash-Next architecture diagram showing repeating Gated DeltaNet and Qwen Sparse Attention layers, gated residual paths, mixture-of-experts blocks, n-gram embeddings and prediction heads.",
+      "dimensions": [
+        2885,
+        2930
+      ],
+      "bytes": 572469,
+      "sha256": "fb0bdf105c4ca49a5cc6a2033c01cdb8b5a400811558eede4188b0bc469b9eb9",
+      "retrieved_at": "2026-10-26T15:39:45.491761+00:00",
+      "visually_inspected": true,
+      "modified": false,
+      "status": "candidate_pending_selection"
+    },
+    {
+      "file": "official-model-share-card.png",
+      "title": "Hugging Face share image for the official Qwen model repository",
+      "source_page": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+      "source_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Qwen/Qwen3.8-Flash-Next.png",
+      "discovery": "URL read from the official model page og:image and twitter:image metadata. This is a platform-generated repository share card, not a Qwen-designed launch poster.",
+      "recommended": false,
+      "alt": "Hugging Face repository share card with Qwen branding and the model name Qwen3.8-Flash-Next on a blue and purple background.",
+      "dimensions": [
+        1200,
+        648
+      ],
+      "bytes": 359763,
+      "sha256": "ddc323ba77a570db1d3651c20004065e8ad3d1d44b727984a8313065a86af1d4",
+      "retrieved_at": "2026-10-26T15:39:45.512342+00:00",
+      "visually_inspected": true,
+      "modified": false,
+      "status": "candidate_pending_selection"
+    }
+  ],
+  "scope": "Additional image research requested by the user; no publishing or composer changes.",
+  "recommended_image": "official-architecture.png"
+}

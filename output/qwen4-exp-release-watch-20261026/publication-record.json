@@ -36,5 +36,12 @@
     "reason": "Standing final-content review rule in AGENTS.md"
   },
   "publication_submitted": false,
-  "published_url": null
+  "published_url": null,
+  "alternative_images": {
+    "requested_by_user": "你帮忙找找其他图片",
+    "manifest": "alternative-images/manifest.json",
+    "recommended": "alternative-images/official-architecture.png",
+    "status": "candidates_prepared_pending_selection",
+    "composer_changed": false
+  }
 }
