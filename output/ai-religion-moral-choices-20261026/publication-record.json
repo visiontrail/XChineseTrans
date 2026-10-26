@@ -2,7 +2,7 @@
   "topic": "AI religious consultation and moral choices",
   "prepared_at": "2026-10-26T22:28:01.393527+08:00",
   "account": "@LeoGuoLabs",
-  "status": "pending_review",
+  "status": "publicly_verified",
   "format": "standalone",
   "source_url": "https://x.com/leo114119/status/2114662422917050721",
   "report_url": "https://abcnews.com/Technology/wireStory/make-ai-morally-good-tech-companies-turning-religion-137549995",
@@ -30,17 +30,38 @@
   "evidence": [
     "research/source-observation.json",
     "research/composer-verification.json",
-    "research/composer-ready.png"
+    "research/composer-ready.png",
+    "research/pre-submit-check.json",
+    "research/published-observation.json",
+    "research/published-link-check.json",
+    "research/published-post.png"
   ],
   "approval": {
-    "granted": false,
-    "required_by": "AGENTS.md: Final review, publication, and verification"
+    "granted": true,
+    "required_by": "AGENTS.md: Final review, publication, and verification",
+    "user_message": "确认发布",
+    "recorded_at": "2026-10-26T23:35:26.057380+08:00",
+    "scope": "Exact post-en-v1.txt with official Anthropic native link card"
   },
-  "submitted": false,
-  "public_url": null,
+  "submitted": true,
+  "public_url": "https://x.com/LeoGuoLabs/status/2114742867558301757",
   "browser": {
     "name": "Ego Lite",
     "task_space_name": "Prepare X post 2114662422917050721",
-    "continuity": "Prepared composer kept for review; rediscover current space and tab IDs before resuming."
+    "continuity": "Publication complete; preserved result tab for the user."
+  },
+  "submitted_at": "2026-10-26T15:36:37.513Z",
+  "verified_at": "2026-10-26T23:38:26.035257+08:00",
+  "public_verification": {
+    "account": "@LeoGuoLabs",
+    "format": "standalone",
+    "body_matches_approved_text": true,
+    "url_rendered_as_native_card": true,
+    "native_card_title": "Widening the conversation on frontier AI",
+    "native_card_image_loaded": true,
+    "native_card_destination_verified": "https://www.anthropic.com/news/widening-conversation-ai",
+    "videos": 0,
+    "published_display_time": "11:36 PM · Oct 26, 2026",
+    "timezone": "Asia/Singapore"
   }
 }

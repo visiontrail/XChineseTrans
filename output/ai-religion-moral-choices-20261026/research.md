@@ -34,3 +34,9 @@ The source and official statements were checked fresh for this task. The browser
 ## Completed composer check
 
 Verified exact full text against post-en-v1.txt, @LeoGuoLabs account, enabled Post button, and the native Anthropic card with loaded logo and matching title. No upload, submission or schedule action was performed. Browser evidence is saved in research/.
+
+## Publication completed
+
+The user approved with “确认发布”. The exact reviewed copy was submitted once after rechecking the account and composer. Public URL: https://x.com/LeoGuoLabs/status/2114742867558301757
+
+Reopened the actual status URL. The complete three-paragraph body matches the approved text; X renders its final URL as the native Anthropic card. The logo loaded and the card link resolves to the approved official URL. Verified the standalone format, @LeoGuoLabs author and 11:36 PM October 26, 2026 display time. No video is applicable. Status: publicly_verified.

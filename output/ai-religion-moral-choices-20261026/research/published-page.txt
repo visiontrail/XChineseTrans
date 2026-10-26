@@ -1,0 +1,221 @@
+[p1 "Leo Guo on X: \"AI labs are turning to religious thinkers for advice on model ..." | space "Prepare X post 2114662422917050721"(24): 1 managed, 0 untracked — p1* "Leo Guo on X: \"AI labs are turning to religious thinkers for advice on model ..."]
+root
+  container
+    heading
+      text "To view keyboard shortcuts, press question mark"
+      link [ref=109, loc=href:/i/keyboard_shortcuts, url=https://x.com/i/keyboard_shortcuts]
+        text "View keyboard shortcuts"
+    button "Grok" [ref=89, loc=css:button[aria-label="Grok"]]
+      svg_root
+    button "Chat" [ref=90, loc=css:button[aria-label="Chat"]]
+      svg_root
+    dialog
+      container [ref=110]
+      group [ref=111]
+        container
+          image
+          container
+            heading
+              text "Try Boosting this post!"
+            text "Reach more than 100,000 users today who are likely to be interested in your content."
+            button [ref=112]
+              text "Boost visibility now"
+            button [ref=113]
+              text "Maybe Later"
+      container [ref=114]
+    container
+      button "Skip to home timeline" [ref=115, loc=css:button[aria-label="Skip to home timeline"]]
+      button "Skip to trending" [ref=116, loc=css:button[aria-label="Skip to trending"]]
+      banner
+        container
+          heading
+            link "X" [ref=91, loc=css:a[aria-label="X"], url=https://x.com/home]
+              svg_root
+          navigation "Primary"
+            link "Home" [ref=92, loc=css:a[aria-label="Home"], url=https://x.com/home]
+              svg_root
+              text "Home"
+            link "Search and explore" [ref=93, loc=css:a[aria-label="Search and explore"], url=https://x.com/explore]
+              svg_root
+              text "Explore"
+            link "Notifications" [ref=94, loc=css:a[aria-label="Notifications"], url=https://x.com/notifications]
+              svg_root
+              text "Notifications"
+            link "Direct Messages" [ref=95, loc=css:a[aria-label="Direct Messages"], url=https://x.com/i/chat]
+              svg_root
+              text "Chat"
+            link "Calls" [ref=96, loc=css:a[aria-label="Calls"], url=https://x.com/i/calls]
+              svg_root
+              text "Calls"
+            link "Grok" [ref=97, loc=css:a[aria-label="Grok"], url=https://x.com/i/grok]
+              svg_root
+              text "Grok"
+            link "Subscription" [ref=98, loc=css:a[aria-label="Subscription"], url=https://x.com/i/premium]
+              svg_root
+              text "Subscription"
+            link "History" [ref=99, loc=css:a[aria-label="History"], url=https://x.com/i/history]
+              svg_root
+              text "History"
+            link "Articles" [ref=100, loc=css:a[aria-label="Articles"], url=https://x.com/compose/articles]
+              svg_root
+              text "Articles"
+            link "Profile" [ref=101, loc=css:a[aria-label="Profile"], url=https://x.com/LeoGuoLabs]
+              svg_root
+              text "Profile"
+            button "More menu items" [ref=102, loc=css:button[aria-label="More menu items"]]
+              svg_root
+              text "More"
+          link "Post" [ref=103, loc=css:a[aria-label="Post"], url=https://x.com/compose/post]
+            text "Post"
+        button "Account menu" [ref=104, loc=css:button[aria-label="Account menu"]]
+          image
+          container
+            container
+              text "Leo Guo"
+              image "Verified account"
+            container [ref=105]
+              text "@LeoGuoLabs"
+          container
+            svg_root
+            container "undefined unread items"
+      main
+        container "Home timeline" [ref=106]
+          container
+            container
+              button "Back" [ref=107, loc=css:button[aria-label="Back"]]
+                svg_root
+              heading
+                text "Post"
+            button "New posts are available. Push the period key to go to the them." [ref=108, loc=css:button[aria-label="New posts are available. Push the period key to go to the them."]]
+              svg_root
+              text "See new posts"
+          region "Conversation"
+            heading
+              text "Conversation"
+            container "Timeline: Conversation"
+              container
+                article "Leo Guo@LeoGuoLabs AI labs are turning to religious thinkers for advice on model behavior. Anthropic said in May that it had consulted people from more than 15 religious and cross-cultural groups, wit..." [ref=117]
+                  container
+                    link [ref=118, url=https://x.com/LeoGuoLabs]
+                      image
+                    container
+                      container
+                        link [ref=119, url=https://x.com/LeoGuoLabs]
+                          text "Leo Guo"
+                          image "Verified account"
+                        link [ref=120, url=https://x.com/LeoGuoLabs]
+                          text "@LeoGuoLabs"
+                      container
+                        button [ref=121]
+                          text "Boost"
+                        button "Grok actions" [ref=122, loc=css:button[aria-label="Grok actions"]]
+                          svg_root
+                        button "More" [ref=123]
+                          svg_root
+                  container
+                    text "AI labs are turning to religious thinkers for advice on model behavior. Anthropic said in May that it had consulted people from more than 15 religious and cross-cultural groups, with input it hoped co..."
+                    container "Widening the conversation on frontier AI"
+                      container "Widening the conversation on frontier AI"
+                        link "anthropic.com Widening the conversation on frontier AI" [ref=124, loc=css:a[aria-label="anthropic.com Widening the conversation on frontier AI"], url=https://t.co/z79IHbG7Me]
+                          container "Anthropic logo"
+                            image
+                          text "Widening the conversation on frontier AI"
+                      link [ref=125, url=https://t.co/z79IHbG7Me]
+                        text "From"
+                        text "anthropic.com"
+                    link "11:36 PM · Oct 26, 2026" [ref=126, loc=css:a[aria-label="11:36 PM · Oct 26, 2026"], url=https://x.com/LeoGuoLabs/status/2114742867558301757]
+                      text "11:36 PM · Oct 26, 2026"
+                    group
+                      button "0 Replies. Reply" [ref=127, loc=css:button[aria-label="0 Replies. Reply"]]
+                        svg_root
+                      button "0 reposts. Repost" [ref=128, loc=css:button[aria-label="0 reposts. Repost"]]
+                        svg_root
+                      button "0 Likes. Like" [ref=129, loc=css:button[aria-label="0 Likes. Like"]]
+                        svg_root
+                      button "0 Bookmarks. Bookmark" [ref=130, loc=css:button[aria-label="0 Bookmarks. Bookmark"]]
+                        svg_root
+                      button "Share post" [ref=131, loc=css:button[aria-label="Share post"]]
+                        svg_root
+                container
+                  link [ref=132, url=https://x.com/LeoGuoLabs]
+                    image
+                  container
+                    container
+                      text "Post your reply"
+                      textfield "Post text" [ref=133]
+                    button [ref=134]
+                      text "Reply"
+        container "Trending" [ref=135]
+          search "Search"
+            container
+              svg_root
+              comboboxgrouping "Search query" [ref=136, loc=css:input[placeholder="Search"]]
+                text "Search"
+          complementary "Relevant people"
+            heading
+              text "Relevant people"
+            list
+              listitem [ref=137]
+                link [ref=138, url=https://x.com/LeoGuoLabs]
+                  image
+                container
+                  container
+                    link [ref=139, url=https://x.com/LeoGuoLabs]
+                      text "Leo Guo"
+                      image "Verified account"
+                    link [ref=140, url=https://x.com/LeoGuoLabs]
+                      text "@LeoGuoLabs"
+                  text "Previously a senior C/C++ engineer in telecom. Now exploring AI and emerging tech, sharing useful tools and an engineering perspective."
+          region "Trending now"
+            heading
+              text "Trending now"
+            container "Timeline: Trending now"
+              heading
+                text "What’s happening"
+              link "Trending in Singapore#노_맘대로_즐기는_리노생일" [ref=141]
+                text "Trending in Singapore"
+                text "#노_맘대로_즐기는_리노생일"
+                button "More" [ref=142]
+                  svg_root
+              link "Politics · TrendingBibi" [ref=143]
+                text "Politics · Trending"
+                text "Bibi"
+                button "More" [ref=144]
+                  svg_root
+              link "Sports · TrendingYamal" [ref=145]
+                text "Sports · Trending"
+                text "Yamal"
+                button "More" [ref=146]
+                  svg_root
+              link "Trending in SingaporeBase Track" [ref=147]
+                text "Trending in Singapore"
+                text "Base Track"
+                button "More" [ref=148]
+                  svg_root
+              link [ref=149, loc=href:/explore/tabs/for-you, url=https://x.com/explore/tabs/for-you]
+                text "Show more"
+          navigation "Footer"
+            container
+              link [ref=150, loc=href:/tos, url=https://x.com/tos]
+                text "Terms"
+              text "·"
+            container
+              link [ref=151, loc=href:/privacy, url=https://x.com/privacy]
+                text "Privacy"
+              text "·"
+            container
+              link [ref=152, loc=href:https://support.x.com/articles/20170514, url=https://support.x.com/articles/20170514]
+                text "Cookies"
+              text "·"
+            container
+              link [ref=153, loc=href:https://help.x.com/resources/accessibility, url=https://help.x.com/resources/accessibility]
+                text "Accessibility"
+              text "·"
+            container
+              link [ref=154, url=https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo]
+                text "Ads Info"
+              text "·"
+            button "More" [ref=155]
+              text "More"
+              svg_root
+            text "© 2026 X Corp."

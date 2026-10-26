@@ -1,0 +1,60 @@
+{
+  "observed_at": "2026-10-26T15:36:58.183Z",
+  "url": "https://x.com/LeoGuoLabs/status/2114742867558301757",
+  "articles": [
+    {
+      "text": "Leo Guo\n@LeoGuoLabs\nBoost\nAI labs are turning to religious thinkers for advice on model behavior. Anthropic said in May that it had consulted people from more than 15 religious and cross-cultural groups, with input it hoped could inform Claude’s constitution, training and evaluations.\n\nBroadening that conversation makes sense. But religious traditions carry different ideas of duty, harm and a good life; blending them into a single rulebook can flatten those differences.\n\nThe hard question is who decides when those values clash. Labs should make those choices visible: how advice changes model behavior, which trade-offs they make, and how users can challenge the result.\nWidening the conversation on frontier AI\nFrom anthropic.com\n11:36 PM · Oct 26, 2026",
+      "tweetTexts": [
+        "AI labs are turning to religious thinkers for advice on model behavior. Anthropic said in May that it had consulted people from more than 15 religious and cross-cultural groups, with input it hoped could inform Claude’s constitution, training and evaluations.\n\nBroadening that conversation makes sense. But religious traditions carry different ideas of duty, harm and a good life; blending them into a single rulebook can flatten those differences.\n\nThe hard question is who decides when those values clash. Labs should make those choices visible: how advice changes model behavior, which trade-offs they make, and how users can challenge the result."
+      ],
+      "links": [
+        {
+          "href": "https://x.com/LeoGuoLabs",
+          "text": "",
+          "title": ""
+        },
+        {
+          "href": "https://x.com/LeoGuoLabs",
+          "text": "Leo Guo",
+          "title": ""
+        },
+        {
+          "href": "https://x.com/LeoGuoLabs",
+          "text": "@LeoGuoLabs",
+          "title": ""
+        },
+        {
+          "href": "https://t.co/z79IHbG7Me",
+          "text": "Widening the conversation on frontier AI",
+          "title": ""
+        },
+        {
+          "href": "https://t.co/z79IHbG7Me",
+          "text": "From anthropic.com",
+          "title": ""
+        },
+        {
+          "href": "https://x.com/LeoGuoLabs/status/2114742867558301757",
+          "text": "11:36 PM · Oct 26, 2026",
+          "title": ""
+        }
+      ],
+      "images": [
+        {
+          "src": "https://pbs.twimg.com/profile_images/2089933102760214528/wgwr7axH_x96.jpg",
+          "alt": "",
+          "complete": true,
+          "width": 96
+        },
+        {
+          "src": "https://pbs.twimg.com/card_img/2110270474576117760/KXQcPr8u?format=jpg&name=medium",
+          "alt": "Anthropic logo",
+          "complete": true,
+          "width": 1200
+        }
+      ],
+      "videos": 0
+    }
+  ],
+  "account": "Leo Guo\n@LeoGuoLabs"
+}
