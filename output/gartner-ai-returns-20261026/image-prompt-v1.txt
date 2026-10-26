@@ -1,0 +1,45 @@
+LeoGuoLabs Light v1: warm ivory #FDFBF7 background with barely visible natural paper fiber, forest green #1A4A3A primary text, muted green #426454 secondary text, sparse dark gold #80601B emphasis. Modern technical sans-serif typography approximating Geist or Inter: semibold headings, medium labels, regular explanatory text. Keep 85–90% of the page light. All text must be crisp, readable, spelled exactly, and high contrast.
+
+Use case: infographic-diagram.
+Create one publication-ready English editorial infographic for X. Portrait 4:5 composition, ideally 1600 by 2000 pixels. Original typography-led composition, generous 6% outer margins, carefully balanced open columns, ample negative space, refined thin rules. A serious technical editorial sheet. Four large unboxed percentages are the focal points. No stock illustrations or decorative icons. Avoid rounded cards, boxes, heavy borders, gradients, shadows, glow, serif fonts, distressed texture, ornamental corners, leaves, badges, or all-caps headline styling.
+
+Render only the following exact English text. The hierarchy and placement directions below are not text to render.
+
+At top, restrained large two-line title:
+"AI's execution gap"
+Below it, small readable subtitle:
+"Gartner survey of 203 global CEOs and senior executives"
+
+Upper section, two balanced open columns, separated only by generous whitespace:
+Left large forest-green number "44%"
+Left explanation on three or four short readable lines:
+"Struggle to demonstrate AI's financial returns to stakeholders"
+Right large forest-green number "75%"
+Right explanation:
+"Plan to increase technology investment"
+Make clear this is technology investment overall, not AI spending specifically. Do not add any other claim.
+
+After a thin quiet gold horizontal rule, a section label:
+"AI industrialization · Outlook through 2027"
+Below, two balanced open columns:
+Left large forest-green number "77%"
+Left explanation:
+"Expect medium or high impact on business objectives"
+Right large dark-gold number "20%"
+Right explanation:
+"Report high readiness"
+Under these two columns, a small but comfortably readable note:
+"Impact and readiness are different survey measures."
+Do not draw a bar chart, pie chart, connecting arrow, subtraction, or calculated gap. These percentages describe distinct questions, not parts of one whole.
+
+Lower section, well-separated from the data with whitespace and a thin green rule. One compact practical takeaway in medium-size forest-green type:
+"Redesign the workflow."
+"Measure the business result."
+
+At bottom, restrained but legible source footnote on two lines:
+"Source: Gartner, Oct 20, 2026"
+"Survey fieldwork: April–May 2026"
+Small plain-text signature at lower right:
+"LeoGuoLabs"
+
+Typography should occupy the image naturally with a calm editorial rhythm. Numbers may be prominent but avoid a giant headline or oversized percentage that crowds the labels. Do not add citations, logos, fake UI, URLs, footnote symbols, graphics, or wording beyond the exact text above. No missing labels, clipped words, or illegibly tiny footnotes.

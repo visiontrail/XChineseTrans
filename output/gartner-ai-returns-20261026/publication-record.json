@@ -8,11 +8,27 @@
   "primary_source_url": "https://www.gartner.com/en/newsroom/press-releases/2026-10-20-gartner-says-44-percent-of-ceos-struggle-to-demonstrate-ai-financial-returns-as-technology-becomes-central-to-growth",
   "text_path": "post.txt",
   "text_sha256": "eaf1064c4a8346e7a8c80975e1b7cd8f5b638c8364fad02859bcb08ea448c4ff",
-  "media": [],
+  "media": [
+    {
+      "type": "image",
+      "path": "gartner-ai-execution-gap-v1.png",
+      "order": 1,
+      "width": 1122,
+      "height": 1402,
+      "bytes": 1619135,
+      "sha256": "1c4c6dd7164f43ff61e2c9626e555fc8dccfd8a53571cf8a5e579b1e94c0c8b4",
+      "alt_path": "image-alt-v1.txt",
+      "prompt_path": "image-prompt-v1.txt",
+      "generation_method": "built-in image_gen",
+      "visual_qa": "pass: all percentages, labels, survey scope, source dates and signature checked; no clipping; readable full-size preview",
+      "approval": "pending"
+    }
+  ],
   "link_card": {
     "domain": "gartner.com",
     "title": "Gartner Says 44% of CEOs Struggle to Demonstrate AI Financial Returns",
-    "rendered_in_composer": true
+    "rendered_in_composer": true,
+    "check_scope": "Previous text-only draft; attaching an image can change link-card presentation."
   },
   "checks": {
     "original_language_read": true,
@@ -25,13 +41,17 @@
       "evidence/source-post.json",
       "evidence/composer-check.json",
       "evidence/composer-preview.png"
-    ]
+    ],
+    "image_text_verified": true,
+    "composer_with_image": "not_checked; prior composer evidence covers text and link card only"
   },
   "authorization": {
     "content_approval": "not_received",
     "publication_waiver": false,
-    "git_sync": "standing authorization in AGENTS.md"
+    "git_sync": "standing authorization in AGENTS.md",
+    "image_preparation": "User requested one image: 可以做张图吗?"
   },
   "publication_submitted": false,
-  "public_url": null
+  "public_url": null,
+  "updated_at": "2026-10-26T23:42:56.453690+08:00"
 }

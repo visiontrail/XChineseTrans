@@ -3,7 +3,7 @@
 Prepared: 2026-10-26, Asia/Singapore.
 Status: pending review; not published.
 Account: @LeoGuoLabs.
-Format: standalone English post with the official Gartner link card.
+Format: standalone English post with one English infographic and the official Gartner source URL.
 
 ## Source inspection
 
@@ -37,7 +37,9 @@ The forward-deployed engineer discussion and the concrete workflow metrics are o
 
 ## Media selection
 
-No separate graphic, screenshot, or video is selected. The source is a text observation with a native website preview. The official link supplies useful context without decorative media. No image ALT field is required for a website preview.
+The initial text-only review package had no attachment. Following the user request “可以做张图吗?”, one original English infographic is selected: `gartner-ai-execution-gap-v1.png`. The exact built-in image_gen prompt is retained in `image-prompt-v1.txt`; English accessibility text is in `image-alt-v1.txt`. The image uses LeoGuoLabs Light v1 and the same verified source. All four percentages, distinct impact/readiness thresholds, dates, labels and signature were visually checked. No percentage-point gap or complementary share is inferred.
+
+Post text is unchanged. Earlier composer evidence covers the text-only draft and its website card; the image attachment and ALT have not yet been checked in the composer. No publication is authorized by the request to make an image.
 
 ## Review boundary
 
