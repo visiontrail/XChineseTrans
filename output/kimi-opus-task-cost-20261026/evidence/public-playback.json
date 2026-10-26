@@ -1,0 +1,18 @@
+{
+  "before": {
+    "currentTime": 2.9558,
+    "duration": 13.999999,
+    "paused": false,
+    "src": "blob:https://x.com/647dbcae-57be-4f98-9204-c6800a89638c",
+    "error": null
+  },
+  "after": {
+    "currentTime": 4.0377,
+    "duration": 13.999999,
+    "paused": false,
+    "src": "blob:https://x.com/647dbcae-57be-4f98-9204-c6800a89638c",
+    "poster": "https://pbs.twimg.com/amplify_video_thumb/2114391112567640064/img/khKalqKiqP3XIItT.jpg",
+    "error": null
+  },
+  "advancing": true
+}

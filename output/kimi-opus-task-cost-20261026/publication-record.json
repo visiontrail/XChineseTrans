@@ -1,5 +1,5 @@
 {
-  "state": "scheduled",
+  "state": "publicly_verified",
   "prepared_at": "2026-10-26T22:39:00.501096+08:00",
   "destination_account": "@LeoGuoLabs",
   "format": "native_quote",
@@ -41,10 +41,10 @@
     "approval_text": "确认发布,10分钟以后",
     "approved_at": "2026-10-26T23:37:03+08:00"
   },
-  "submitted": false,
+  "submitted": true,
   "scheduled": true,
-  "public_url": null,
-  "browser_state": "Native X Scheduled queue verified; original target URL and approved commentary present. Public result verification pending after the scheduled time.",
+  "public_url": "https://x.com/LeoGuoLabs/status/2114745619424121173",
+  "browser_state": "Actual public URL opened and checked; exact approved English text, @LeoGuoLabs account, source Quote target confirmed by opening the card, and source video observed advancing without error.",
   "requested_schedule": {
     "timezone": "Asia/Singapore",
     "target": "2026-10-26T23:47:00+08:00",
@@ -63,6 +63,30 @@
     "automation_id": "kimi-opus",
     "kind": "heartbeat",
     "scheduled_for": "2026-10-26T23:48:00+08:00",
-    "scope": "One-time public URL, approved text, Quote target and video playback verification; no duplicate posting."
+    "scope": "One-time public URL, approved text, Quote target and video playback verification; no duplicate posting.",
+    "status": "completed_and_deleted"
+  },
+  "published_at": "2026-10-26T23:47:00+08:00",
+  "publicly_verified_at": "2026-10-26T23:53:59.636967+08:00",
+  "public_verification": {
+    "exact_approved_text": true,
+    "account": "@LeoGuoLabs",
+    "native_quote_target": "https://x.com/semichenkko/status/2114391220793364639",
+    "published_on_schedule": true,
+    "media_count": 1,
+    "media_type": "native_quoted_video",
+    "video_duration_seconds": 13.999999,
+    "video_progress_seconds": [
+      2.9558,
+      4.0377
+    ],
+    "video_error": null,
+    "video_media_id": "2114391112567640064",
+    "evidence": [
+      "evidence/public-page.json",
+      "evidence/public-page.png",
+      "evidence/public-playback.json",
+      "evidence/public-quote-target.json"
+    ]
   }
 }
