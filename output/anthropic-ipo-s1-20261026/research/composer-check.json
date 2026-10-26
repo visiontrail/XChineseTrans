@@ -1,0 +1,12 @@
+{
+  "checkedAt": "2026-10-26T14:28:07.750Z",
+  "account": "@LeoGuoLabs",
+  "sourceUrl": "https://x.com/AnthropicAI/status/2114705042817110293",
+  "quoteOpenedThroughNativeMenu": true,
+  "textExactMatch": true,
+  "postEnabled": true,
+  "characterCount": 1034,
+  "actualText": "Anthropic’s IPO filing is public: proposed Nasdaq ticker ANT, with pricing and share count still unset. The registration is not yet effective.\n\nH1 2026 revenue was $16.3B and the net loss was $80.7B. But $72.4B came from revaluing convertible notes and other financing instruments. Operating cash flow was positive $3.9B, helped partly by the timing of customer receipts and vendor payments. The headline loss is not a cash-burn number.\n\nThe bigger funding question is compute. SpaceXAI agreements could total up to $120.5B into 2029, with payments of roughly $3.1B a month once all capacity is delivered. The contracts allow cancellation on 90 days’ notice after initial lock-in periods ending in January and March 2027.\n\nOn the supplier side, SpaceX reported that one unnamed customer generated 34.5% of Q3 consolidated revenue. Its filing does not identify that customer as Anthropic.\n\nOne company’s compute bill is another’s revenue. Durable customer demand and access to financing have to support both sides of that relationship.",
+  "quotePresent": true,
+  "submitted": false
+}

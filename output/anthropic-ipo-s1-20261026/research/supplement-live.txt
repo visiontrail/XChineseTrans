@@ -1,0 +1,36 @@
+Alan Chen
+@alanchen
+Follow
+Show translation
+Anthropic 刚刚公开了上市招股书 S-1，要在纳斯达克挂牌，代码 $ANT
+
+翻开第一页就是一个吓人的数：上半年收入 163 亿美元，净亏 807 亿美元，亏掉的是赚到的 5 倍。
+
+807 亿！其中 724 亿是可转债的会计费用：公司估值涨得越快，这批债在账上就越值钱，亏损也就记得越多，但这笔钱并没有真的花出去。上半年砸进算力和基建的，将近 90 亿。
+
+更值得看的是它要付钱给谁。招股书写着，Anthropic 要向 SpaceX 买英伟达 GPU 算力，最多 1,205 亿美元，合同签到 2029 年，全部到位后每个月大约 31 亿。SpaceX 上周的三季报里，有一个客户付了 50 多亿，占当季收入的 34.5%，这个客户就是 Anthropic。
+
+昨天老马说，没有独立收入的 neocloud 借不到钱。SpaceX 自己的算力生意，三分之一压在一个半年报亏 807 亿的客户身上。
+
+招股书自己也写了：增长"可能不可持续"，可能"比预期更早"需要再融资。
+
+市场传它要募资最多 1,000 亿美元，估值约 2 万亿。
+Quote
+Alan Chen
+@alanchen
+·
+17h
+Translated from Chinese
+Today, Musk continues the neocloud massacre:
+
+"Over the past few weeks, the debt markets have basically slammed the door shut. Unless a company has substantial revenue independent of AI data centers, it can't borrow a dime."
+
+That's the answer. Yesterday, it was about data x.com/alanchen/statu…
+10:02 PM · Oct 26, 2026
+·
+1,227
+ Views
+2
+6
+1
+Relevant

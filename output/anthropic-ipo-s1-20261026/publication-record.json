@@ -1,0 +1,52 @@
+{
+  "state": "pending_review",
+  "account": "@LeoGuoLabs",
+  "format": "native_quote_post",
+  "source_urls": [
+    "https://x.com/op7418/status/2114716247531417771",
+    "https://x.com/alanchen/status/2114719347335958731"
+  ],
+  "quote_target": "https://x.com/AnthropicAI/status/2114705042817110293",
+  "final_text_path": "post-en.txt",
+  "final_text": "Anthropic’s IPO filing is public: proposed Nasdaq ticker ANT, with pricing and share count still unset. The registration is not yet effective.\n\nH1 2026 revenue was $16.3B and the net loss was $80.7B. But $72.4B came from revaluing convertible notes and other financing instruments. Operating cash flow was positive $3.9B, helped partly by the timing of customer receipts and vendor payments. The headline loss is not a cash-burn number.\n\nThe bigger funding question is compute. SpaceXAI agreements could total up to $120.5B into 2029, with payments of roughly $3.1B a month once all capacity is delivered. The contracts allow cancellation on 90 days’ notice after initial lock-in periods ending in January and March 2027.\n\nOn the supplier side, SpaceX reported that one unnamed customer generated 34.5% of Q3 consolidated revenue. Its filing does not identify that customer as Anthropic.\n\nOne company’s compute bill is another’s revenue. Durable customer demand and access to financing have to support both sides of that relationship.",
+  "final_text_sha256": "5424d40210157f26333be510f5b4483f94609966c504cff2ce2c7bbda8b606fa",
+  "media": [],
+  "native_media": "Official Quote retains the source and its existing announcement website card; no uploaded attachments.",
+  "media_reason": "No relevant video. Source Chinese infographic and quoted Musk screenshot inspected as research; selected financial analysis is delivered in text with the official Quote.",
+  "primary_sources": [
+    "https://www.anthropic.com/news/s1-sec",
+    "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+    "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066880/spcx-20260930.htm"
+  ],
+  "checks": {
+    "live_sources_read": true,
+    "original_chinese_read": true,
+    "official_source_read": true,
+    "s1_primary_document_read": true,
+    "spacex_primary_document_read": true,
+    "source_images_inspected": true,
+    "video_present": false,
+    "composer_text_exact_match": true,
+    "composer_post_enabled": true,
+    "native_quote_target_verified": true,
+    "live_account_verified": "@LeoGuoLabs",
+    "composer_evidence": "research/composer-check.json",
+    "composer_screenshot": "research/composer-preview.png"
+  },
+  "important_corrections": [
+    "No confirmed IPO date or valuation is asserted.",
+    "Fair-value charges are not cash burn; H1 operating cash flow was positive and affected by working-capital timing.",
+    "SpaceXAI up-to amount includes contracts cancellable after initial periods.",
+    "SpaceX Customer B is unnamed; 34.5% is Q3 consolidated revenue, not compute-segment revenue."
+  ],
+  "approval": {
+    "required": true,
+    "status": "awaiting_user",
+    "reason": "AGENTS.md final-content review rule"
+  },
+  "publication_submitted": false,
+  "public_url": null,
+  "related_earlier_package": "../anthropic-ipo-disclosure-20261026/",
+  "prepared_at": "2026-10-26T22:29:18.504801+08:00",
+  "next_action": "After approval, use the retained native Quote composer or recreate it without altering another draft; verify approved text and target, publish once and reopen the public post."
+}
