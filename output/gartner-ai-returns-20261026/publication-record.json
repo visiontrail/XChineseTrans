@@ -1,5 +1,5 @@
 {
-  "status": "pending_review",
+  "status": "approved_blocked",
   "prepared_at": "2026-10-26T22:38:23.285976+08:00",
   "account": "LeoGuoLabs",
   "source_url": "https://x.com/leo114119/status/2114609833554899141",
@@ -21,7 +21,7 @@
       "prompt_path": "image-prompt-v1.txt",
       "generation_method": "built-in image_gen",
       "visual_qa": "pass: all percentages, labels, survey scope, source dates and signature checked; no clipping; readable full-size preview",
-      "approval": "pending"
+      "approval": "approved"
     }
   ],
   "link_card": {
@@ -46,12 +46,22 @@
     "composer_with_image": "not_checked; prior composer evidence covers text and link card only"
   },
   "authorization": {
-    "content_approval": "not_received",
+    "content_approval": {
+      "user_message": "确认发布",
+      "scope": "Previously reviewed standalone English copy, official Gartner source URL, and one approved infographic with English ALT",
+      "recorded_at": "2026-10-26T23:55:27.443291+08:00"
+    },
     "publication_waiver": false,
     "git_sync": "standing authorization in AGENTS.md",
     "image_preparation": "User requested one image: 可以做张图吗?"
   },
   "publication_submitted": false,
   "public_url": null,
-  "updated_at": "2026-10-26T23:42:56.453690+08:00"
+  "updated_at": "2026-10-26T23:55:27.457263+08:00",
+  "publication_blocker": {
+    "stage": "image_upload",
+    "detail": "Browser extension fileChooser.setFiles rejected local file access because Allow access to file URLs is disabled. Native file chooser fallback timed out; subsequent Ego Lite app and tab recovery each timed out. The Post button was never clicked.",
+    "needed": "Restore browser connection and enable file upload access or use an available authorized native file picker.",
+    "approval_still_valid": true
+  }
 }

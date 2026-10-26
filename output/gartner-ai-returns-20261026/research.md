@@ -1,7 +1,7 @@
 # Gartner AI returns — source and editorial record
 
 Prepared: 2026-10-26, Asia/Singapore.
-Status: pending review; not published.
+Status: approved; blocked before publication by browser upload/connection failure.
 Account: @LeoGuoLabs.
 Format: standalone English post with one English infographic and the official Gartner source URL.
 
@@ -39,8 +39,8 @@ The forward-deployed engineer discussion and the concrete workflow metrics are o
 
 The initial text-only review package had no attachment. Following the user request “可以做张图吗?”, one original English infographic is selected: `gartner-ai-execution-gap-v1.png`. The exact built-in image_gen prompt is retained in `image-prompt-v1.txt`; English accessibility text is in `image-alt-v1.txt`. The image uses LeoGuoLabs Light v1 and the same verified source. All four percentages, distinct impact/readiness thresholds, dates, labels and signature were visually checked. No percentage-point gap or complementary share is inferred.
 
-Post text is unchanged. Earlier composer evidence covers the text-only draft and its website card; the image attachment and ALT have not yet been checked in the composer. No publication is authorized by the request to make an image.
+Post text is unchanged. Earlier composer evidence covers the text-only draft and its website card; the image attachment and ALT have not yet been checked in the composer. The user subsequently approved publication with “确认发布”. The same copy, image and ALT remain approved. The image upload failed before submission, and the browser connection then timed out; no Post button was clicked.
 
 ## Review boundary
 
-The complete post in post.txt is the review version. AGENTS.md, “Final review, publication, and verification,” requires one approval after showing the complete concrete result. No direct-publish waiver has been given. Git synchronization is separately authorized by AGENTS.md.
+The complete post in post.txt is the review version. AGENTS.md, “Final review, publication, and verification,” requires one approval after showing the complete concrete result. The user subsequently approved this concrete package with “确认发布”; publication may resume without asking again. Git synchronization is separately authorized by AGENTS.md.

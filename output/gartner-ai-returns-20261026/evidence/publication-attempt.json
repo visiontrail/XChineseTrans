@@ -1,0 +1,17 @@
+{
+  "status": "blocked_before_submission",
+  "approved": true,
+  "source_draft_restored": true,
+  "draft_full_text_retained": true,
+  "image_path": "gartner-ai-execution-gap-v1.png",
+  "iab_error": "Browser is not available: iab",
+  "fallback_browser": "Ego Lite, positively correlated through native app and browser tab inventory",
+  "upload_error": "To enable file upload, go to chrome://extensions in Google Chrome, click Details under the ChatGPT extension, and enable Allow access to file URLs.",
+  "native_upload_result": "js execution timed out; kernel reset",
+  "recovery_results": [
+    "Ego Lite app acquisition timed out",
+    "Gartner composer tab acquisition timed out"
+  ],
+  "post_button_clicked": false,
+  "checked_at": "2026-10-26T23:55:27.457263+08:00"
+}
