@@ -1,0 +1,37 @@
+[p1 "Home / X" | space "Huxlab source review 20261026"(27): 1 managed, 0 untracked — p1* "Home / X"]
+root
+  container
+    button "Grok" [ref=143, loc=css:button[aria-label="Grok"]]
+      svg_root
+    button "Chat" [ref=144, loc=css:button[aria-label="Chat"]]
+      svg_root
+    dialog
+      group [ref=145]
+        dialog "Drafts"
+          container
+            container
+              button "Back" [ref=146, loc=css:button[aria-label="Back"]]
+                svg_root
+              heading
+                text "Drafts"
+              button [ref=147]
+                text "Edit"
+            navigation "Drafts"
+              button "Previous" [ref=148]
+                svg_root
+              tablist
+                tab [ref=149, loc=href:/compose/post/unsent/drafts, url=https://x.com/compose/post/unsent/drafts]
+                  text "Unsent posts"
+                tab [ref=150, loc=href:/compose/post/unsent/scheduled, url=https://x.com/compose/post/unsent/scheduled]
+                  text "Scheduled"
+              button "Next" [ref=151]
+                svg_root
+          button [ref=152]
+            container
+              svg_root
+              text "Will send on Mon, Oct 26, 2026 at 11:41 PM"
+            container
+              container
+                svg_root
+                text "https://x.com/log4j/status/2113014142600953868"
+              text "You shouldn’t need a root shell to understand what your TV collects. Samsung documents opt-in viewing-history tracking through ACR. The claims of continuous microphone surveillance still need indepe..."

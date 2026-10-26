@@ -1,0 +1,61 @@
+{
+  "url": "https://x.com/LeoGuoLabs/status/2114744108921315696",
+  "text": "Leo Guo\n@LeoGuoLabs\nBoost\nYou shouldn’t need a root shell to understand what your TV collects.\n\nSamsung documents opt-in viewing-history tracking through ACR. The claims of continuous microphone surveillance still need independent verification, but owners deserve clear data controls, verifiable opt-outs, and the freedom to remove unwanted telemetry from hardware they own.\nQuote\nlog4j\n@log4j\n·\nOct 22\ni own a relatively new (2025) samsung tv.\n\ni kept getting weirdly targeted ads.\n\ni tried reversing the firmware but it was aes encrypted and no keys unless tear it apart and do uart/jtag magic.\n\nzero days it is. root shell on new samsung TVs!\n\ndiscovered PRIVACY HORROR. write up?\n11:41 PM · Oct 26, 2026\n·\n1\n View",
+  "links": [
+    {
+      "text": "",
+      "href": "https://x.com/LeoGuoLabs"
+    },
+    {
+      "text": "Leo Guo",
+      "href": "https://x.com/LeoGuoLabs"
+    },
+    {
+      "text": "@LeoGuoLabs",
+      "href": "https://x.com/LeoGuoLabs"
+    },
+    {
+      "text": "",
+      "href": "https://x.com/log4j/status/2113014142600953868/photo/1"
+    },
+    {
+      "text": "11:41 PM · Oct 26, 2026",
+      "href": "https://x.com/LeoGuoLabs/status/2114744108921315696"
+    },
+    {
+      "text": "1\n View",
+      "href": "https://x.com/LeoGuoLabs/status/2114744108921315696/analytics"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://pbs.twimg.com/profile_images/2089933102760214528/wgwr7axH_x96.jpg",
+      "alt": "",
+      "complete": true,
+      "naturalWidth": 96
+    },
+    {
+      "src": "https://pbs.twimg.com/profile_images/2103214939112448000/ejp3VPpq_normal.jpg",
+      "alt": "",
+      "complete": true,
+      "naturalWidth": 48
+    },
+    {
+      "src": "https://pbs.twimg.com/media/HVLvKWgXIAAWNTX?format=jpg&name=medium",
+      "alt": "Image",
+      "complete": true,
+      "naturalWidth": 1200
+    }
+  ],
+  "times": [
+    {
+      "datetime": "2026-10-21T21:06:44.000Z",
+      "text": "Oct 22"
+    },
+    {
+      "datetime": "2026-10-26T15:41:00.000Z",
+      "text": "11:41 PM · Oct 26, 2026"
+    }
+  ],
+  "videos": 0
+}

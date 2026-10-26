@@ -32,3 +32,7 @@ Use the native original Quote card and its one terminal photograph. Do not separ
 Prepared for @LeoGuoLabs. User approval is still required by the standing AGENTS.md final-content review rule. No submission is authorized by the bare link alone.
 
 The live @LeoGuoLabs native Quote composer accepted all 348 characters. Its original text and terminal photo matched the selected source. The Post button was enabled. The screenshot was visually inspected. No Post click occurred.
+
+## Approved scheduled publication
+
+The user approved the reviewed version with “确认发布,5分钟以后”. X accepted a native schedule for 2026-10-26 23:41 Asia/Singapore. The scheduled queue showed the exact source target. The actual post published at 23:41:00 and was reopened at https://x.com/LeoGuoLabs/status/2114744108921315696 . The complete English copy matched, the native Quote identified log4j and the expected original photo URL, and the loaded terminal image was visually inspected. Public verification passed; no duplicate submission was made.

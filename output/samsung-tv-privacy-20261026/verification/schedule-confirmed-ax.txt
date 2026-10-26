@@ -1,0 +1,117 @@
+[p1 "log4j on X: \"i own a relatively new (2025) samsung tv. i kept getting weirdly..." | space "Huxlab source review 20261026"(27): 1 managed, 0 untracked — p1* "log4j on X: \"i own a relatively new (2025) samsung tv. i kept getting weirdly..."]
+group [ref=3, loc=unstable]
+  container
+  dialog
+    container [ref=107, loc=unstable]
+      progressindicator
+      container
+        button "Close" [ref=108, loc=ambiguous]
+          svg_root
+        container
+        button [ref=109, loc=unstable]
+          text "Drafts"
+      container
+        container
+          container
+            container
+            container
+              container
+              container
+                image
+                container
+          container
+            button [ref=110, loc=unstable]
+              svg_root
+              text "Will send on Mon, Oct 26, 2026 at 11:41 PM"
+            container
+              container
+                textfield "Post text" [ref=111, loc=ambiguous]
+                  text "You shouldn’t need a root shell to understand what your TV collects. Samsung documents opt-in viewing-history tracking through ACR. The claims of continuous microphone surveillance still need indepe..."
+                container
+                  container
+                    text "Quote"
+                    button [ref=112, loc=unstable]
+                      container
+                        container
+                          container
+                          container
+                            container
+                            container [ref=113, loc=unstable]
+                              image
+                              container
+                        container
+                          container
+                            text "log4j"
+                            image "Verified account"
+                          container
+                            container [ref=114, loc=unstable]
+                              text "@log4j"
+                            text "·"
+                            container "Oct 22"
+                              text "Oct 22"
+                      text "i own a relatively new (2025) samsung tv. i kept getting weirdly targeted ads. i tried reversing the firmware but it was aes encrypted and no keys unless tear it apart and do uart/jtag magic. zero day..."
+                      container
+                  container
+                    image
+                    image
+                    text "log4j"
+                    image "Verified account"
+                    button "Remove media" [ref=115, loc=css:button[aria-label="Remove media"]]
+                      svg_root
+                    button "Collapse" [ref=116, loc=css:button[aria-label="Collapse"]]
+                      text "Expand"
+                      container
+                        svg_root
+                        svg_root
+              container
+                link [ref=117, loc=unstable, url=https://x.com/compose/articles]
+                  text "Try out"
+                text "the new article composer for new formatting options."
+                button "Close" [ref=118, loc=ambiguous]
+                  svg_root
+        container
+          container
+            container
+            button "Everyone can reply" [ref=119]
+              svg_root
+              text "Everyone can reply"
+          container
+            navigation
+              button "Previous" [ref=120, loc=css:button[aria-label="Previous"]]
+                svg_root
+              tablist
+                container
+                  textbox [ref=121, loc=unstable]
+                    button [ref=122, loc=unstable]
+                      text "Choose Files"
+                    text "No file chosen"
+                  button "Add photos or video" [ref=123, loc=css:button[aria-label="Add photos or video"]]
+                    svg_root
+                button "Add a GIF" [ref=124, loc=css:button[aria-label="Add a GIF"]]
+                  svg_root
+                button "Add poll" [ref=125, loc=css:button[aria-label="Add poll"]]
+                  svg_root
+                  container
+                button "Add emoji" [ref=126, loc=css:button[aria-label="Add emoji"]]
+                  svg_root
+                button "Schedule post" [ref=127, loc=css:button[aria-label="Schedule post"]]
+                  svg_root
+                button "Tag location" [ref=128, loc=css:button[aria-label="Tag location"]]
+                  svg_root
+                  container
+                button "Content disclosure" [ref=129, loc=css:button[aria-label="Content disclosure"]]
+                  svg_root
+              button "Next" [ref=130, loc=css:button[aria-label="Next"]]
+                svg_root
+            container
+              container
+                text "24,652 characters remaining"
+                progressindicator
+                  svg_root
+                container
+              container
+                container
+                button "Add post" [ref=131, loc=css:button[aria-label="Add post"]]
+                  svg_root
+              button [ref=132, loc=unstable]
+                text "Schedule"

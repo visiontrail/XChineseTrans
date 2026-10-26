@@ -3,7 +3,7 @@
   "destination": "@LeoGuoLabs",
   "format": "native_quote",
   "quote_target": "https://x.com/log4j/status/2113014142600953868",
-  "status": "pending_review",
+  "status": "publicly_verified",
   "text_file": "post-en-v1.txt",
   "text": "You shouldn’t need a root shell to understand what your TV collects.\n\nSamsung documents opt-in viewing-history tracking through ACR. The claims of continuous microphone surveillance still need independent verification, but owners deserve clear data controls, verifiable opt-outs, and the freedom to remove unwanted telemetry from hardware they own.",
   "attachments": [],
@@ -47,19 +47,54 @@
   },
   "approval": {
     "required": true,
-    "received": false,
-    "rule": "AGENTS.md: Final review, publication, and verification"
+    "received": true,
+    "rule": "AGENTS.md: Final review, publication, and verification",
+    "user_message": "确认发布,5分钟以后",
+    "received_recorded_at": "2026-10-26T23:35:59+08:00",
+    "approved_version": "post-en-v1.txt and native Quote of log4j original with its terminal photograph"
   },
-  "publication_submitted": false,
-  "actual_url": null,
+  "publication_submitted": true,
+  "actual_url": "https://x.com/LeoGuoLabs/status/2114744108921315696",
   "prepared_at": "2026-10-26T22:38:25.047307+08:00",
   "evidence": [
     "verification/composer-state.json",
     "verification/composer-ready.png",
-    "research/verification.md"
+    "research/verification.md",
+    "verification/pre-schedule-check.json",
+    "verification/schedule-confirmed-ax.txt",
+    "verification/schedule-submission.json",
+    "verification/scheduled-queue-ax.txt",
+    "verification/public-post.json",
+    "verification/public-post.png"
   ],
   "browser_review": {
     "browser": "Ego Lite",
-    "state": "Prepared composer left open for user review; not submitted."
+    "state": "Native scheduled post published and public page verified."
+  },
+  "schedule": {
+    "requested_delay_minutes": 5,
+    "due_at": "2026-10-26T23:40:59+08:00",
+    "timezone": "Asia/Singapore",
+    "status": "executed",
+    "method": "X native scheduled post",
+    "scheduled_at": "2026-10-26T23:41:00+08:00",
+    "queue_verified": true,
+    "submitted_at": "2026-10-26T23:40:05.919737+08:00"
+  },
+  "published_at": "2026-10-26T23:41:00+08:00",
+  "public_verified_at": "2026-10-26T23:42:03.043746+08:00",
+  "public_checks": {
+    "account": "@LeoGuoLabs",
+    "published_url_reopened": true,
+    "complete_approved_text_matches": true,
+    "format": "native_quote",
+    "quote_target": "https://x.com/log4j/status/2113014142600953868",
+    "quote_target_confirmed_by_native_card_and_photo_link": true,
+    "native_quote_image_count": 1,
+    "native_quote_image_loaded": true,
+    "native_quote_image_visually_inspected": true,
+    "separate_uploaded_images": 0,
+    "videos": 0,
+    "published_timestamp_matches_schedule": true
   }
 }
