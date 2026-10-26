@@ -1,0 +1,173 @@
+{
+  "url": "https://x.com/compose/post",
+  "account": "Leo Guo\n@LeoGuoLabs",
+  "text": "qwen4_exp already appears in Qwen3.8-Flash-Next’s official config. Qwen calls Flash-Next a preview of the architecture behind Qwen 4, so there’s something you can inspect and run today.\n\nThe label alone doesn’t confirm an October 29 launch or that Arena’s “Kalmia” is Qwen 4.\n\nhttps://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+  "images": [
+    {
+      "src": "https://pbs.twimg.com/profile_images/2089933102760214528/wgwr7axH_x96.jpg",
+      "alt": "Leo Guo",
+      "complete": true,
+      "width": 96,
+      "height": 96
+    },
+    {
+      "src": "blob:https://x.com/574de076-557e-4ae1-b0dd-3bf21c38b3b3",
+      "alt": "",
+      "complete": true,
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "src": "https://pbs.twimg.com/profile_images/2027630388403965952/mgrd9d6O_normal.jpg",
+      "alt": "",
+      "complete": true,
+      "width": 48,
+      "height": 48
+    },
+    {
+      "src": "https://pbs.twimg.com/media/HVjAoGeXkAA2Vag?format=jpg&name=small",
+      "alt": "Image",
+      "complete": true,
+      "width": 679,
+      "height": 218
+    }
+  ],
+  "links": [
+    {
+      "text": "Tag people",
+      "href": "https://x.com/compose/post/tags",
+      "aria": "Tag people"
+    },
+    {
+      "text": "Audience view of an Apsara conference stage displaying Qwen4 Series Coming Soon and the names Qwen4-Max, Qwen4-Flash and Qwen4-Plus, and Qwen4-27B.",
+      "href": "https://x.com/compose/post/media",
+      "aria": "Add description"
+    },
+    {
+      "text": "Try out",
+      "href": "https://x.com/compose/articles",
+      "aria": null
+    }
+  ],
+  "buttons": [
+    {
+      "text": "",
+      "aria": "Close",
+      "testid": "app-bar-close",
+      "disabled": false
+    },
+    {
+      "text": "Drafts",
+      "aria": null,
+      "testid": "unsentButton",
+      "disabled": false
+    },
+    {
+      "text": "ALT",
+      "aria": null,
+      "testid": null,
+      "disabled": false
+    },
+    {
+      "text": "Edit",
+      "aria": "Edit media",
+      "testid": null,
+      "disabled": false
+    },
+    {
+      "text": "",
+      "aria": "Remove media",
+      "testid": null,
+      "disabled": false
+    },
+    {
+      "text": "Salio\n@Mr_Salio\n·\n6h\nQwen 4 is showing up in more places\n\nI think it could arrive this week or next week It doesn't seem too far away now \n\nQwen 4 has been appearing on Arena for weeks under the codename \"Kalmia\" I have Also tested it's not bad in my experience \n\nThe team seems to be experimenting",
+      "aria": null,
+      "testid": null,
+      "disabled": false
+    },
+    {
+      "text": "",
+      "aria": "Close",
+      "testid": null,
+      "disabled": false
+    },
+    {
+      "text": "Everyone can reply",
+      "aria": "Everyone can reply",
+      "testid": null,
+      "disabled": false
+    },
+    {
+      "text": "",
+      "aria": "Previous",
+      "testid": null,
+      "disabled": true
+    },
+    {
+      "text": "",
+      "aria": "Add media",
+      "testid": null,
+      "disabled": false
+    },
+    {
+      "text": "",
+      "aria": "Add a GIF",
+      "testid": "gifSearchButton",
+      "disabled": false
+    },
+    {
+      "text": "",
+      "aria": "Add poll",
+      "testid": "createPollButton",
+      "disabled": true
+    },
+    {
+      "text": "",
+      "aria": "Add emoji",
+      "testid": null,
+      "disabled": false
+    },
+    {
+      "text": "",
+      "aria": "Schedule post",
+      "testid": "scheduleOption",
+      "disabled": false
+    },
+    {
+      "text": "",
+      "aria": "Tag location",
+      "testid": "geoButton",
+      "disabled": true
+    },
+    {
+      "text": "",
+      "aria": "Content disclosure",
+      "testid": "contentDisclosureButton",
+      "disabled": false
+    },
+    {
+      "text": "",
+      "aria": "Next",
+      "testid": null,
+      "disabled": true
+    },
+    {
+      "text": "",
+      "aria": "Add post",
+      "testid": "addButton",
+      "disabled": false
+    },
+    {
+      "text": "Post",
+      "aria": null,
+      "testid": "tweetButton",
+      "disabled": false
+    }
+  ],
+  "quoteText": [
+    "Salio\n@Mr_Salio\n·\n6h\nQwen 4 is showing up in more places\n\nI think it could arrive this week or next week It doesn't seem too far away now \n\nQwen 4 has been appearing on Arena for weeks under the codename \"Kalmia\" I have Also tested it's not bad in my experience \n\nThe team seems to be experimenting"
+  ],
+  "text_matches": true,
+  "checked_at": "2026-10-26T16:07:18.524Z"
+}

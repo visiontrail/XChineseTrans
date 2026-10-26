@@ -1,0 +1,36 @@
+{
+  "checked_at": "2026-10-26T16:09:29.093Z",
+  "url": "https://x.com/LeoGuoLabs/status/2114750899080057171",
+  "text": "qwen4_exp already appears in Qwen3.8-Flash-Next’s official config. Qwen calls Flash-Next a preview of the architecture behind Qwen 4, so there’s something you can inspect and run today.\n\nThe label alone doesn’t confirm an October 29 launch or that Arena’s “Kalmia” is Qwen 4.\n\nhttps://huggingface.co/Qwen/Qwen3.8-Flash-Next…",
+  "images": [
+    {
+      "src": "https://pbs.twimg.com/media/HVkaClZaAAApRnG?format=jpg&name=medium",
+      "alt": "Audience view of an Apsara conference stage displaying Qwen4 Series Coming Soon and the names Qwen4-Max, Qwen4-Flash and Qwen4-Plus, and Qwen4-27B.",
+      "width": 1200,
+      "height": 900,
+      "complete": true
+    },
+    {
+      "src": "https://pbs.twimg.com/media/HVjAoGeXkAA2Vag?format=jpg&name=medium",
+      "alt": "Image",
+      "width": 1199,
+      "height": 385,
+      "complete": true
+    }
+  ],
+  "quotePhotoLink": "https://x.com/Mr_Salio/status/2114651829476762060/photo/1",
+  "bodyLink": [
+    {
+      "text": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next…",
+      "href": "https://t.co/g9ifIv4wOa",
+      "html": "<a dir=\"ltr\" href=\"https://t.co/g9ifIv4wOa\" rel=\"noopener noreferrer nofollow\" target=\"_blank\" role=\"link\" class=\"css-1jxf684 r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3 r-1wvb978 r-1loqt21\" style=\"color: rgb(29, 155, 240);\"><span aria-hidden=\"true\" class=\"css-1jxf684 r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3 r-qlhcfr r-19qo34d r-qvk6io r-orgf3d r-u8s1d\">https://</span>huggingface.co/Qwen/Qwen3.8-F<span aria-hidden=\"true\" class=\"css-1jxf684 r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3 r-qlhcfr r-19qo34d r-qvk6io r-orgf3d r-u8s1d\">lash-Next</span><span aria-hidden=\"true\" class=\"css-1jxf684 r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3 r-lrvibr\">…</span></a>"
+    }
+  ],
+  "nativeQuote": [
+    {
+      "text": "Salio\n@Mr_Salio\n·\n6h\nQwen 4 is showing up in more places\n\nI think it could arrive this week or next week It doesn't seem too far away now \n\nQwen 4 has been appearing on Arena for weeks under the codename \"Kalmia\" I have Also tested it's not bad in my experience \n\nThe team seems to be experimenting",
+      "role": "link",
+      "testid": null
+    }
+  ]
+}

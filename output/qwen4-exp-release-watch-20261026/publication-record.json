@@ -1,5 +1,5 @@
 {
-  "status": "pending_review",
+  "status": "publicly_verified",
   "prepared_at": "2026-10-26T14:34:36.975019+00:00",
   "account": "@LeoGuoLabs",
   "format": "native_quote",
@@ -9,6 +9,13 @@
   "text_path": "post.txt",
   "media": [
     {
+      "path": "qwen4-images/qwen4-lineup-original.jpg",
+      "placement": "direct attachment",
+      "type": "image",
+      "separate_upload": true,
+      "sha256": "05fda4381e2460cd1fdebe9f652d5b9a11fb0c5b6facc51c420df25da9536af7"
+    },
+    {
       "path": "source-image.jpg",
       "placement": "native quoted post",
       "type": "image",
@@ -16,7 +23,7 @@
     }
   ],
   "video_present": false,
-  "alt": "Not editable on the original quoted image; no separate upload.",
+  "alt": "Audience view of an Apsara conference stage displaying Qwen4 Series Coming Soon and the names Qwen4-Max, Qwen4-Flash and Qwen4-Plus, and Qwen4-27B.",
   "checks": {
     "live_source_and_original_read": true,
     "automatic_translation_disabled_for_source": true,
@@ -27,28 +34,55 @@
     "composer_full_text_matches": true,
     "quote_card_and_image_visually_checked": true,
     "post_button_enabled": true,
-    "model_run_or_benchmark_performed": false
+    "model_run_or_benchmark_performed": false,
+    "selected_photo_uploaded": true,
+    "image_alt_entered": true,
+    "duplicate_search_checked": true,
+    "public_account_verified": true,
+    "public_text_matches": true,
+    "public_native_quote_verified": true,
+    "public_media_loaded": true,
+    "public_image_alt_verified": true,
+    "public_photo_visually_verified": true
   },
-  "composer_evidence": "research/composer-check.json",
-  "review_preview": "composer-review.png",
+  "composer_evidence": "verification/pre-submit.json",
+  "review_preview": "verification/pre-submit.png",
   "approval": {
-    "received": false,
-    "reason": "Standing final-content review rule in AGENTS.md"
+    "received": true,
+    "user_message": "请用这张图吧，确认发布",
+    "annotation_index": 1,
+    "selected_image": "qwen4-images/qwen4-lineup-original.jpg",
+    "text_path": "post.txt",
+    "recorded_at": "2026-10-26T16:00:37.080951+00:00",
+    "scope": "Publish the previously reviewed English native Quote with the selected Qwen4 Coming Soon photo attached."
   },
-  "publication_submitted": false,
-  "published_url": null,
+  "publication_submitted": true,
+  "published_url": "https://x.com/LeoGuoLabs/status/2114750899080057171",
   "alternative_images": {
     "requested_by_user": "你帮忙找找其他图片",
     "manifest": "alternative-images/manifest.json",
     "recommended": "alternative-images/official-architecture.png",
-    "status": "candidates_prepared_pending_selection",
+    "status": "not_selected",
     "composer_changed": false
   },
   "qwen4_image_candidates": {
     "requested_by_user": "再找找有没有Qwen4的图？",
     "manifest": "qwen4-images/manifest.json",
     "recommended": "qwen4-images/qwen4-lineup-original.jpg",
-    "status": "candidates_prepared_pending_selection",
-    "composer_changed": false
+    "status": "published",
+    "composer_changed": true
+  },
+  "published_at": "2026-10-26T16:07:59.000Z",
+  "published_at_local": "2026-10-27T00:07:59+08:00",
+  "verified_at": "2026-10-26T16:09:29.093Z",
+  "public_verification": {
+    "evidence": "verification/public-check.json",
+    "screenshot": "verification/published-post.png",
+    "snapshot": "verification/published-snapshot.txt",
+    "direct_image_count": 1,
+    "quoted_source_image_count": 1,
+    "native_quote_target": "https://x.com/Mr_Salio/status/2114651829476762060",
+    "submission_count": 1,
+    "link_display_note": "X appends a visual ellipsis to the shortened Hugging Face link; full DOM text preserves the reviewed destination."
   }
 }

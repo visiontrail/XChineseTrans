@@ -1,0 +1,181 @@
+[p1 "(1) Leo Guo on X: \"qwen4_exp already appears in Qwen3.8-Flash-Next’s official..." | space "LeoGuoLabs source 2114660267514634652"(26): 2 managed, 0 untracked — p1* "(1) Leo Guo on X: \"qwen4_exp already appears in Qwen3.8-Flash-Next’s official...", p2 "(1) from:LeoGuoLabs qwen4_exp - Search / X"]
+root
+  container
+    button "Grok" [ref=388, loc=css:button[aria-label="Grok"]]
+      svg_root
+    button "Chat" [ref=389, loc=css:button[aria-label="Chat"]]
+      svg_root
+    container
+      banner
+        container
+          heading
+            link "X" [ref=390, loc=css:a[aria-label="X"], url=https://x.com/home]
+              svg_root
+          navigation "Primary"
+            link "Home" [ref=391, loc=css:a[aria-label="Home"], url=https://x.com/home]
+              svg_root
+              text "Home"
+            link "Search and explore" [ref=392, loc=css:a[aria-label="Search and explore"], url=https://x.com/explore]
+              svg_root
+              text "Explore"
+            link "Notifications (1 unread notification)" [ref=393, loc=css:a[aria-label="Notifications (1 unread notification)"], url=https://x.com/notifications]
+              container
+                svg_root
+                container "1 unread items"
+                  text "1"
+              text "Notifications"
+            link "Direct Messages" [ref=394, loc=css:a[aria-label="Direct Messages"], url=https://x.com/i/chat]
+              svg_root
+              text "Chat"
+            link "Calls" [ref=395, loc=css:a[aria-label="Calls"], url=https://x.com/i/calls]
+              svg_root
+              text "Calls"
+            link "Grok" [ref=396, loc=css:a[aria-label="Grok"], url=https://x.com/i/grok]
+              svg_root
+              text "Grok"
+            link "Subscription" [ref=397, loc=css:a[aria-label="Subscription"], url=https://x.com/i/premium]
+              svg_root
+              text "Subscription"
+            link "History" [ref=398, loc=css:a[aria-label="History"], url=https://x.com/i/history]
+              svg_root
+              text "History"
+            link "Articles" [ref=399, loc=css:a[aria-label="Articles"], url=https://x.com/compose/articles]
+              svg_root
+              text "Articles"
+            link "Profile" [ref=400, loc=css:a[aria-label="Profile"], url=https://x.com/LeoGuoLabs]
+              svg_root
+              text "Profile"
+            button "More menu items" [ref=401, loc=css:button[aria-label="More menu items"]]
+              svg_root
+              text "More"
+          link "Post" [ref=402, loc=css:a[aria-label="Post"], url=https://x.com/compose/post]
+            text "Post"
+        button "Account menu" [ref=403, loc=css:button[aria-label="Account menu"]]
+          image
+          container
+            container
+              text "Leo Guo"
+              image "Verified account"
+            container [ref=404]
+              text "@LeoGuoLabs"
+          container
+            svg_root
+            container "undefined unread items"
+      main
+        container "Home timeline" [ref=405]
+          container
+            container
+              button "Back" [ref=406, loc=css:button[aria-label="Back"]]
+                svg_root
+              heading
+                text "Post"
+            button "New posts are available. Push the period key to go to the them." [ref=407, loc=css:button[aria-label="New posts are available. Push the period key to go to the them."]]
+              svg_root
+              text "See new posts"
+          region "Conversation"
+            container "Timeline: Conversation"
+              article "Leo Guo@LeoGuoLabs qwen4_exp already appears in Qwen3.8-Flash-Next’s official config. Qwen calls Flash-Next a preview of the architecture behind Qwen 4, so there’s something you can inspect and ru..." [ref=408]
+                container
+                  link [ref=409, url=https://x.com/LeoGuoLabs]
+                    image
+                  container
+                    container
+                      link [ref=410, url=https://x.com/LeoGuoLabs]
+                        text "Leo Guo"
+                        image "Verified account"
+                      link [ref=411, url=https://x.com/LeoGuoLabs]
+                        text "@LeoGuoLabs"
+                    button "Grok actions" [ref=412, loc=css:button[aria-label="Grok actions"]]
+                      svg_root
+                container
+                  container
+                    text "qwen4_exp already appears in Qwen3.8-Flash-Next’s official config. Qwen calls Flash-Next a preview of the architecture behind Qwen 4, so there’s something you can inspect and run today. The label ..."
+                    link [ref=413, loc=href:https://t.co/g9ifIv4wOa, url=https://t.co/g9ifIv4wOa]
+                      text "huggingface.co/Qwen/Qwen3.8-F"
+                      text "…"
+                  container "QuoteSalio@Mr_Salio·6hQwen 4 is showing up in more places I think it could arrive this week or next week It doesn't seem too far away now Qwen 4 has been appearing on Arena for weeks under the codena..."
+                    container
+                      link [ref=414, loc=href:/LeoGuoLabs/status/2114750899080057171/photo/1, url=https://x.com/LeoGuoLabs/status/2114750899080057171/photo/1]
+                        container "Audience view of an Apsara conference stage displaying Qwen4 Series Coming Soon and the names Qwen4-Max, Qwen4-Flash and Qwen4-Plus, and Qwen4-27B."
+                          image
+                      button [ref=415]
+                        text "ALT"
+                    link [ref=416]
+                      container
+                        container [ref=417]
+                          image
+                        container
+                          container
+                            text "Salio"
+                            image "Verified account"
+                          container
+                            container [ref=418]
+                              text "@Mr_Salio"
+                            text "·"
+                            container "6 hours ago"
+                              text "6h"
+                      text "Qwen 4 is showing up in more places I think it could arrive this week or next week It doesn't seem too far away now Qwen 4 has been appearing on Arena for weeks under the codename "Kalmia" I have Also..."
+                      link [ref=419, loc=href:/Mr_Salio/status/2114651829476762060/photo/1, url=https://x.com/Mr_Salio/status/2114651829476762060/photo/1]
+                        container "Image"
+                          image
+        container "Trending" [ref=420]
+          search "Search"
+            svg_root
+            comboboxgrouping "Search query" [ref=421, loc=css:input[placeholder="Search"]]
+              text "Search"
+          complementary "Relevant people"
+            heading
+              text "Relevant people"
+            list
+              listitem [ref=422]
+                link [ref=423, url=https://x.com/LeoGuoLabs]
+                  image
+                container
+                  container
+                    link [ref=424, url=https://x.com/LeoGuoLabs]
+                      text "Leo Guo"
+                      image "Verified account"
+                    link [ref=425, url=https://x.com/LeoGuoLabs]
+                      text "@LeoGuoLabs"
+                  text "Previously a senior C/C++ engineer in telecom. Now exploring AI and emerging tech, sharing useful tools and an engineering perspective."
+              listitem [ref=426]
+                link [ref=427, url=https://x.com/Mr_Salio]
+                  image
+                container
+                  container
+                    container
+                      link [ref=428, url=https://x.com/Mr_Salio]
+                        text "Salio"
+                        image "Verified account"
+                      link [ref=429, url=https://x.com/Mr_Salio]
+                        text "@Mr_Salio"
+                    button "Follow @Mr_Salio" [ref=430, loc=css:button[aria-label="Follow @Mr_Salio"]]
+                      text "Follow"
+                  text "I track AI Models • AI News • Leaks"
+          region "Trending now"
+            container "Timeline: Trending now"
+          navigation "Footer"
+            container
+              link [ref=431, loc=href:/tos, url=https://x.com/tos]
+                text "Terms"
+              text "·"
+            container
+              link [ref=432, loc=href:/privacy, url=https://x.com/privacy]
+                text "Privacy"
+              text "·"
+            container
+              link [ref=433, loc=href:https://support.x.com/articles/20170514, url=https://support.x.com/articles/20170514]
+                text "Cookies"
+              text "·"
+            container
+              link [ref=434, loc=href:https://help.x.com/resources/accessibility, url=https://help.x.com/resources/accessibility]
+                text "Accessibility"
+              text "·"
+            container
+              link [ref=435, url=https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo]
+                text "Ads Info"
+              text "·"
+            button "More" [ref=436]
+              text "More"
+              svg_root
+            text "© 2026 X Corp."
