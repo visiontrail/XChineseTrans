@@ -82,8 +82,8 @@
     "The Information full article not available through web reader; timely filing claim is corroborated as a report, not confirmed as an event.",
     "SEC web reader returned the search shell, not populated results. No assertion that EDGAR definitively lacks an S-1 as of retrieval.",
     "IFR direct article inaccessible. Detailed roadshow, valuation and fundraising targets omitted from copy.",
-    "Browser raised a native website-notification permission prompt while opening The Information, transferred task control to the user, and forbids resume until user confirmation. User asked to dismiss/deny and reply; no acknowledgement yet.",
-    "Directly relevant author continuations could not be fully checked after the permission stop; only main post had loaded in the source capture."
+    "Directly relevant author continuations could not be fully checked after the permission stop; only main post had loaded in the source capture.",
+    "User authorized switching to the built-in browser. It stayed on a Loading placeholder after source navigation and reload; X home navigation also timed out. Live composer verification remains incomplete."
   ],
   "approval": {
     "required": true,
@@ -92,5 +92,12 @@
   },
   "publication_submitted": false,
   "public_url": null,
-  "next_action": "After user confirms browser permission prompt handled, resume the existing task space, check relevant source continuations, inspect a fresh empty X composer without overwriting other drafts, verify full standalone text, and present final approval. Refresh time-sensitive filing status before publication."
+  "next_action": "Once a working X browser session is available, inspect relevant source continuations and a fresh empty composer, confirm exact full text acceptance, refresh time-sensitive filing status, then obtain final-content approval. Preserve this prepared copy and do not overwrite unrelated drafts.",
+  "updated_at": "2026-10-26T03:37:50.494471+00:00",
+  "browser_recovery": {
+    "user_instruction": "稍后处理或者改用你的内置浏览器",
+    "builtin_browser_authorized": true,
+    "result": "Source URL remained Loading after navigation timeout and one reload. Direct X home navigation also timed out. No composer could be inspected.",
+    "ego_permission_prompt": "User will handle later; no takeover attempted."
+  }
 }

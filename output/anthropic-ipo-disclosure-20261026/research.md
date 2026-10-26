@@ -22,10 +22,10 @@ The public SEC search page loaded only its search shell in the web reader. This 
 
 ## Browser interruption
 
-Opening The Information triggered a browser-owned notification permission prompt. Ego Lite reported that the user now controls the task space and required explicit user acknowledgement before takeover. An asynchronous question asked the user to close or deny the prompt and reply. Do not retry or use another browser to bypass that stop. No composer was opened, no draft was overwritten, and no publication occurred.
+Opening The Information triggered a browser-owned notification permission prompt. Ego Lite reported that the user now controls the task space and required explicit user acknowledgement before takeover. An asynchronous question asked the user to close or deny the prompt and reply. The user later said they would handle it later or authorized switching to the built-in browser. The built-in browser was then attempted: the source remained on a Loading placeholder after navigation timeout and one reload, and direct X home navigation also timed out. No composer was opened, no draft was overwritten, and no publication occurred. Ego Lite was not resumed.
 
 The installed ego-browser guide explicitly requires the user to handle browser-owned permission prompts. Ego Lite also reports an available update; no upgrade was requested or performed.
 
 ## Delivery
 
-`post-en.txt` is the exact intended English body. Research notes and citations are review context, not extra public copy. `publication-record.json` is the compact current-state record. Finish relevant source-continuation and composer checks once control is restored, then request the standing final-content review. No public approval has been inferred from the bare link.
+`post-en.txt` is the exact intended English body. Research notes and citations are review context, not extra public copy. `publication-record.json` is the compact current-state record. Finish relevant source-continuation and composer checks once a working browser session is available, then request the standing final-content review. No public approval has been inferred from the bare link.
