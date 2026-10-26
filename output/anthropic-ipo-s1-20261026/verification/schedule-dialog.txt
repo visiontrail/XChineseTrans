@@ -1,0 +1,81 @@
+[p1 "(1) Anthropic on X: \"Anthropic has filed an S-1 registration statement with t..." | space "LeoGuoLabs source 2114716247531417771"(23): 1 managed, 0 untracked — p1* "(1) Anthropic on X: \"Anthropic has filed an S-1 registration statement with t..."]
+group [ref=3, loc=unstable]
+  container
+  dialog "Schedule"
+    container
+      container
+        button "Close" [ref=109, loc=css:button[aria-label="Close"]]
+          svg_root
+        heading
+          text "Schedule"
+        button [ref=110, loc=unstable]
+          text "Confirm"
+      container
+        container
+          svg_root
+          text "Will send on Mon, Oct 26, 2026 at 11:55 PM"
+        container
+          text "Date"
+          group "Date"
+            container
+              text "Month"
+              combobox "Month" [ref=111]
+                text "October"
+              svg_root
+            container
+              text "Day"
+              combobox "Day" [ref=112]
+                text "26"
+              svg_root
+            container
+              text "Year"
+              combobox "Year" [ref=113]
+                text "2026"
+              svg_root
+            container
+              button "Calendar" [ref=114, loc=css:button[aria-label="Calendar"]]
+                svg_root
+              textbox [ref=115, loc=css:input[name="Date"]]
+                spinbutton "Day"
+                  text "26"
+                text "/"
+                spinbutton "Month"
+                  text "10"
+                text "/"
+                spinbutton "Year"
+                  text "2026"
+        group "Time"
+          text "Time"
+          container
+            container
+              text "Hour"
+              combobox "Hour" [ref=116]
+                text "11"
+              svg_root
+            container
+              text "Minute"
+              combobox "Minute" [ref=117]
+                text "55"
+              svg_root
+            container
+              text "AM/PM"
+              combobox "AM/PM" [ref=118]
+                text "PM"
+              svg_root
+            container
+              button "Time picker" [ref=119, loc=css:button[aria-label="Time picker"]]
+                svg_root
+              textbox [ref=120, loc=css:input[name="Time picker"]]
+                spinbutton "Hours"
+                  text "11"
+                text ":"
+                spinbutton "Minutes"
+                  text "55"
+                text
+                spinbutton "AM/PM"
+                  text "PM"
+        container
+          text "Time zone"
+          text "Singapore Standard Time"
+    button [ref=121, loc=unstable]
+      text "Scheduled posts"

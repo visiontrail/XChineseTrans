@@ -1,0 +1,32 @@
+[p1 "(1) Anthropic on X: \"Anthropic has filed an S-1 registration statement with t..." | space "LeoGuoLabs source 2114716247531417771"(23): 1 managed, 0 untracked — p1* "(1) Anthropic on X: \"Anthropic has filed an S-1 registration statement with t..."]
+group [ref=3, loc=unstable]
+  container
+  dialog "Drafts"
+    container
+      container
+        button "Back" [ref=177, loc=ambiguous]
+          svg_root
+        heading
+          text "Drafts"
+        button [ref=178, loc=unstable]
+          text "Edit"
+      navigation "Drafts"
+        button "Previous" [ref=179, loc=ambiguous]
+          svg_root
+        tablist
+          tab [ref=180, loc=href:/compose/post/unsent/drafts, url=https://x.com/compose/post/unsent/drafts]
+            text "Unsent posts"
+          tab [ref=181, loc=href:/compose/post/unsent/scheduled, url=https://x.com/compose/post/unsent/scheduled]
+            text "Scheduled"
+            container
+        button "Next" [ref=182, loc=ambiguous]
+          svg_root
+    button [ref=183, loc=unstable]
+      container
+        svg_root
+        text "Will send on Mon, Oct 26, 2026 at 11:47 PM"
+      container
+        container
+          svg_root
+          text "https://x.com/semichenkko/status/2114391220793364639"
+        text "A lower price per token doesn't guarantee a cheaper finished task. This tornado demo reports $0.40 for Opus 5.5 versus $4.10 for Kimi K3.1 Pro, with much more of the requested destruction visible in t..."

@@ -1,0 +1,52 @@
+{
+  "checked_at": "2026-10-26T15:47:24.447Z",
+  "expected_at": "2026-10-26T23:55:00+08:00",
+  "status": "native_schedule_verified",
+  "exact_text_present": false,
+  "alt_present": true,
+  "quote_present": true,
+  "state": {
+    "url": "https://x.com/compose/post/unsent/scheduled",
+    "dialogs": [
+      {
+        "text": "Drafts\nEdit\nUnsent posts\nScheduled\nWill send on Mon, Oct 26, 2026 at 11:55 PM\nhttps://x.com/AnthropicAI/status/2114705042817110293\nAnthropic’s IPO filing is public: proposed Nasdaq ticker ANT, with pricing and share count still unset. The registration is not yet effective.\n\nH1 2026 revenue was $16.3B and the net loss was $80.7B. But $72.4B came from revaluing convertible notes and other financing instruments...",
+        "images": [
+          {
+            "alt": "English infographic about Anthropic’s IPO. H1 2026: $16.3B revenue, $80.7B net loss including $72.4B in financing-instrument fair-value charges, and +$3.9B operating cash flow. Future SpaceXAI compute payments: up to $120.5B into 2029, about $3.1B monthly at full capacity; cancellable on 90 days’ notice after initial periods ending Jan/Mar 2027. Separately, an unnamed customer generated 34.5% of SpaceX’s Q3 2026 revenue; its filing does not identify that customer as Anthropic.",
+            "src": "https://pbs.twimg.com/media/HVkUgpqaAAADU2Q?format=jpg&name=240x240",
+            "complete": true,
+            "width": 160,
+            "height": 240
+          }
+        ],
+        "labels": [
+          "Back",
+          "Drafts",
+          "Previous",
+          "Next",
+          "English infographic about Anthropic’s IPO. H1 2026: $16.3B revenue, $80.7B net loss including $72.4B in financing-instrument fair-value charges, and +$3.9B operating cash flow. Future SpaceXAI compute payments: up to $120.5B into 2029, about $3.1B monthly at full capacity; cancellable on 90 days’ notice after initial periods ending Jan/Mar 2027. Separately, an unnamed customer generated 34.5% of SpaceX’s Q3 2026 revenue; its filing does not identify that customer as Anthropic."
+        ]
+      },
+      {
+        "text": "Drafts\nEdit\nUnsent posts\nScheduled\nWill send on Mon, Oct 26, 2026 at 11:55 PM\nhttps://x.com/AnthropicAI/status/2114705042817110293\nAnthropic’s IPO filing is public: proposed Nasdaq ticker ANT, with pricing and share count still unset. The registration is not yet effective.\n\nH1 2026 revenue was $16.3B and the net loss was $80.7B. But $72.4B came from revaluing convertible notes and other financing instruments...",
+        "images": [
+          {
+            "alt": "English infographic about Anthropic’s IPO. H1 2026: $16.3B revenue, $80.7B net loss including $72.4B in financing-instrument fair-value charges, and +$3.9B operating cash flow. Future SpaceXAI compute payments: up to $120.5B into 2029, about $3.1B monthly at full capacity; cancellable on 90 days’ notice after initial periods ending Jan/Mar 2027. Separately, an unnamed customer generated 34.5% of SpaceX’s Q3 2026 revenue; its filing does not identify that customer as Anthropic.",
+            "src": "https://pbs.twimg.com/media/HVkUgpqaAAADU2Q?format=jpg&name=240x240",
+            "complete": true,
+            "width": 160,
+            "height": 240
+          }
+        ],
+        "labels": [
+          "Back",
+          "Drafts",
+          "Previous",
+          "Next",
+          "English infographic about Anthropic’s IPO. H1 2026: $16.3B revenue, $80.7B net loss including $72.4B in financing-instrument fair-value charges, and +$3.9B operating cash flow. Future SpaceXAI compute payments: up to $120.5B into 2029, about $3.1B monthly at full capacity; cancellable on 90 days’ notice after initial periods ending Jan/Mar 2027. Separately, an unnamed customer generated 34.5% of SpaceX’s Q3 2026 revenue; its filing does not identify that customer as Anthropic."
+        ]
+      }
+    ]
+  },
+  "exact_text_present_note": "The queue truncates its preview. Complete saved text was checked by reopening the scheduled item; see saved-scheduled-composer-check.json."
+}

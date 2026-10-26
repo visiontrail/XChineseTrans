@@ -1,0 +1,35 @@
+{
+  "checked_at": "2026-10-26T15:48:09.600Z",
+  "text_exact_match": false,
+  "alt_exact_match": false,
+  "quote_present": true,
+  "schedule_present": true,
+  "state": {
+    "url": "https://x.com/compose/post",
+    "text": [
+      "Anthropic’s IPO filing is public: proposed Nasdaq ticker ANT, with pricing and share count still unset. The registration is not yet effective.\n\n\nH1 2026 revenue was $16.3B and the net loss was $80.7B. But $72.4B came from revaluing convertible notes and other financing instruments. Operating cash flow was positive $3.9B, helped partly by the timing of customer receipts and vendor payments. The headline loss is not a cash-burn number.\n\n\nThe bigger funding question is compute. SpaceXAI agreements could total up to $120.5B into 2029, with payments of roughly $3.1B a month once all capacity is delivered. The contracts allow cancellation on 90 days’ notice after initial lock-in periods ending in January and March 2027.\n\n\nOn the supplier side, SpaceX reported that one unnamed customer generated 34.5% of Q3 consolidated revenue. Its filing does not identify that customer as Anthropic.\n\n\nOne company’s compute bill is another’s revenue. Durable customer demand and access to financing have to support both sides of that relationship.",
+      "\n"
+    ],
+    "images": [
+      {
+        "alt": "Leo Guo",
+        "src": "https://pbs.twimg.com/profile_images/2089933102760214528/wgwr7axH_x96.jpg",
+        "complete": true
+      },
+      {
+        "alt": "",
+        "src": "blob:https://x.com/ef2ab1b8-1756-4889-b303-f16b78161628",
+        "complete": true
+      },
+      {
+        "alt": "Square profile picture",
+        "src": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+        "complete": true
+      }
+    ],
+    "dialog": "Drafts\nWill send on Mon, Oct 26, 2026 at 11:55 PM\nAnthropic’s IPO filing is public: proposed Nasdaq ticker ANT, with pricing and share count still unset. The registration is not yet effective.\n\n\nH1 2026 revenue was $16.3B and the net loss was $80.7B. But $72.4B came from revaluing convertible notes and other financing instruments. Operating cash flow was positive $3.9B, helped partly by the timing of customer receipts and vendor payments. The headline loss is not a cash-burn number.\n\n\nThe bigger funding question is compute. SpaceXAI agreements could total up to $120.5B into 2029, with payments of roughly $3.1B a month once all capacity is delivered. The contracts allow cancellation on 90 days’ notice after initial lock-in periods ending in January and March 2027.\n\n\nOn the supplier side, SpaceX reported that one unnamed customer generated 34.5% of Q3 consolidated revenue. Its filing does not identify that customer as Anthropic.\n\n\nOne company’s compute bill is another’s revenue. Durable customer demand and access to financing have to support both sides of that relationship.\nALT\nEdit\nEnglish infographic about Anthropic’s IPO. H1 2026: $16.3B revenue, $80.7B net loss including $72.4B in financing-instrument fair-value charges, and +$3.9B operating cash flow. Future SpaceXAI compute payments: up to $120.5B into 2029, about $3.1B monthly at full capacity; cancellable on 90 days’ notice after initial periods ending Jan/Mar 2027. Separately, an unnamed customer generated 34.5% of SpaceX’s Q3 2026 revenue; its filing does not identify that customer as Anthropic.\nQuote\nAnthropic\n@AnthropicAI\n·\n2h\nAnthropic has filed an S-1 registration statement with the SEC related to its proposed IPO.\n\nRead more: \nhttps://\nanthropic.com/news/s1-sec\n\nLegal disclaimer: A registration statement relating to these securities has been filed with the SEC but has not yet become effective. These securities\nTry out the new article composer for new formatting options.\n Made with AI\nEveryone can reply\n23,966 characters remaining\nSchedule"
+  },
+  "text_exact_after_dom_paragraph_normalization": true,
+  "text_check_note": "The saved Draft.js editor renders paragraph boundaries as three newlines in innerText. All words, punctuation and paragraph order match after collapsing three-or-more newlines to two. No content was edited during the saved-schedule check.",
+  "alt_check_note": "The composer image has empty img.alt; ALT is represented in the media group and Add description UI. Exact persisted ALT was verified on the queue image in scheduled-queue-check.json."
+}

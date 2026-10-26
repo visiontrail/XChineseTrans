@@ -1,0 +1,38 @@
+[p1 "(1) Home / X" | space "LeoGuoLabs source 2114716247531417771"(23): 1 managed, 0 untracked — p1* "(1) Home / X"]
+group [ref=237, loc=unstable]
+  container
+  dialog "Drafts"
+    container
+      container
+        button "Back" [ref=238, loc=css:button[aria-label="Back"]]
+          svg_root
+        heading
+          text "Drafts"
+        button [ref=239, loc=unstable]
+          text "Edit"
+      navigation "Drafts"
+        button "Previous" [ref=240, loc=ambiguous]
+          svg_root
+        tablist
+          tab [ref=241, loc=href:/compose/post/unsent/drafts, url=https://x.com/compose/post/unsent/drafts]
+            text "Unsent posts"
+          tab [ref=242, loc=href:/compose/post/unsent/scheduled, url=https://x.com/compose/post/unsent/scheduled]
+            text "Scheduled"
+            container
+        button "Next" [ref=243, loc=ambiguous]
+          svg_root
+    button [ref=244, loc=unstable]
+      container
+        svg_root
+        text "Will send on Mon, Oct 26, 2026 at 11:55 PM"
+      container
+        container
+          svg_root
+          text "https://x.com/AnthropicAI/status/2114705042817110293"
+        container
+          text "Anthropic’s IPO filing is public: proposed Nasdaq ticker ANT, with pricing and share count still unset. The registration is not yet effective. H1 2026 revenue was $16.3B and the net loss was $80.7B...."
+          link [ref=245, loc=href:https://pbs.twimg.com/media/HVkUgpqaAAADU2Q.jpg, url=https://pbs.twimg.com/media/HVkUgpqaAAADU2Q.jpg]
+            container
+            container "English infographic about Anthropic’s IPO. H1 2026: $16.3B revenue, $80.7B net loss including $72.4B in financing-instrument fair-value charges, and +$3.9B operating cash flow. Future SpaceXAI compu..."
+              container
+              image

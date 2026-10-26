@@ -1,5 +1,5 @@
 {
-  "state": "pending_review",
+  "state": "scheduled",
   "account": "@LeoGuoLabs",
   "format": "native_quote_post",
   "source_urls": [
@@ -39,12 +39,15 @@
     "composer_post_enabled": true,
     "native_quote_target_verified": true,
     "live_account_verified": "@LeoGuoLabs",
-    "composer_evidence": "research/composer-check.json",
+    "composer_evidence": "verification/pre-schedule-check.json",
     "composer_screenshot": "research/composer-preview.png",
     "image_visual_verified": true,
-    "image_composer_checked": false,
-    "combined_text_quote_image_checked": false,
-    "composer_evidence_scope": "Prior check covers the text-only native Quote. The new image has been generated and visually checked locally; it has not been added to the live composer."
+    "image_composer_checked": true,
+    "combined_text_quote_image_checked": true,
+    "composer_evidence_scope": "Exact approved text, one image with exact ALT, official native Quote and 23:55 schedule verified before submission. Persisted full text verified after reopening scheduled item with only DOM paragraph-newline normalization.",
+    "native_schedule_queue_verified": true,
+    "saved_schedule_full_text_verified": true,
+    "saved_schedule_alt_verified": true
   },
   "important_corrections": [
     "No confirmed IPO date or valuation is asserted.",
@@ -54,13 +57,42 @@
   ],
   "approval": {
     "required": true,
-    "status": "awaiting_user",
-    "reason": "AGENTS.md final-content review rule"
+    "status": "approved",
+    "user_message": "确认发布,15分钟以后",
+    "scope": "Previously reviewed English text, infographic with ALT, and native Quote of the official Anthropic announcement",
+    "request_processing_started_at": "2026-10-26T23:39:54+08:00",
+    "scheduled_minute_rounding": "The 15-minute target 23:54:54 was rounded to 23:55 in X native minute-level scheduling."
   },
   "publication_submitted": false,
   "public_url": null,
   "related_earlier_package": "../anthropic-ipo-disclosure-20261026/",
   "prepared_at": "2026-10-26T22:29:18.504801+08:00",
-  "next_action": "After approval of the previously displayed text and the new image, add anthropic-ipo-compute-v1.png and its ALT to the native Quote composer, verify full text, target and attachment together, publish once and reopen the public post.",
-  "updated_at": "2026-10-26T22:38:42.720522+08:00"
+  "next_action": "At/after the 23:55 scheduled time, reopen the actual public post, verify approved full copy, one infographic, ALT and official Quote target; update state to publicly_verified only then.",
+  "updated_at": "2026-10-26T23:50:25.111672+08:00",
+  "schedule": {
+    "status": "native_schedule_verified",
+    "scheduled_at": "2026-10-26T23:55:00+08:00",
+    "scheduled_at_utc": "2026-10-26T15:55:00Z",
+    "timezone": "Asia/Singapore",
+    "platform_label": "Will send on Mon, Oct 26, 2026 at 11:55 PM",
+    "queue_url": "https://x.com/compose/post/unsent/scheduled",
+    "evidence": [
+      "verification/scheduled-queue-confirmed.txt",
+      "verification/scheduled-queue-confirmed.png",
+      "verification/scheduled-queue-check.json",
+      "verification/saved-scheduled-composer-check.json"
+    ],
+    "submission_attempts": 2,
+    "first_attempt": "X showed a generic error; queue inspection confirmed this post was absent before retry.",
+    "second_attempt": "Succeeded; matching official Quote, image, ALT and time appeared in native scheduled queue.",
+    "publicly_verified": false
+  },
+  "scheduled_submission_accepted": true,
+  "follow_up": {
+    "automation_id": "anthropic-ipo",
+    "kind": "heartbeat",
+    "status": "ACTIVE",
+    "purpose": "One-time actual public-result verification after native scheduled publication; avoid duplicate posting.",
+    "planned_at": "2026-10-26T23:56:00+08:00"
+  }
 }

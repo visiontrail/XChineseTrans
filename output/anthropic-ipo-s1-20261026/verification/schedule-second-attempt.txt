@@ -1,0 +1,221 @@
+[p1 "Anthropic on X: \"Anthropic has filed an S-1 registration statement with the S..." | space "LeoGuoLabs source 2114716247531417771"(23): 1 managed, 0 untracked — p1* "Anthropic on X: \"Anthropic has filed an S-1 registration statement with the S..."]
+root
+  container
+    button "Grok" [ref=1, loc=css:button[aria-label="Grok"]]
+      svg_root
+    button "Chat" [ref=2, loc=css:button[aria-label="Chat"]]
+      svg_root
+    text "Share"
+    container
+      banner
+        container
+          heading
+            link "X" [ref=24, loc=css:a[aria-label="X"], url=https://x.com/home]
+              svg_root
+          navigation "Primary"
+            link "Home" [ref=25, loc=css:a[aria-label="Home"], url=https://x.com/home]
+              svg_root
+              text "Home"
+            link "Search and explore" [ref=26, loc=css:a[aria-label="Search and explore"], url=https://x.com/explore]
+              svg_root
+              text "Explore"
+            link "Notifications (1 unread notification)" [ref=27, loc=css:a[aria-label="Notifications (1 unread notification)"], url=https://x.com/notifications]
+              container
+                svg_root
+                container "1 unread items"
+                  text "1"
+              text "Notifications"
+            link "Direct Messages" [ref=28, loc=css:a[aria-label="Direct Messages"], url=https://x.com/i/chat]
+              svg_root
+              text "Chat"
+            link "Calls" [ref=29, loc=css:a[aria-label="Calls"], url=https://x.com/i/calls]
+              svg_root
+              text "Calls"
+            link "Grok" [ref=30, loc=css:a[aria-label="Grok"], url=https://x.com/i/grok]
+              svg_root
+              text "Grok"
+            link "Subscription" [ref=31, loc=css:a[aria-label="Subscription"], url=https://x.com/i/premium]
+              svg_root
+              text "Subscription"
+            link "History" [ref=32, loc=css:a[aria-label="History"], url=https://x.com/i/history]
+              svg_root
+              text "History"
+            link "Articles" [ref=33, loc=css:a[aria-label="Articles"], url=https://x.com/compose/articles]
+              svg_root
+              text "Articles"
+            link "Profile" [ref=34, loc=css:a[aria-label="Profile"], url=https://x.com/LeoGuoLabs]
+              svg_root
+              text "Profile"
+            button "More menu items" [ref=35, loc=css:button[aria-label="More menu items"]]
+              svg_root
+              text "More"
+          link "Post" [ref=36, loc=css:a[aria-label="Post"], url=https://x.com/compose/post]
+            text "Post"
+        button "Account menu" [ref=37, loc=css:button[aria-label="Account menu"]]
+          image
+          container
+            container
+              text "Leo Guo"
+              image "Verified account"
+            container [ref=38]
+              text "@LeoGuoLabs"
+          container
+            svg_root
+            container "undefined unread items"
+      main
+        container "Home timeline" [ref=39]
+          container
+            container
+              button "Back" [ref=40, loc=css:button[aria-label="Back"]]
+                svg_root
+              heading
+                text "Post"
+            button "New posts are available. Push the period key to go to the them." [ref=41, loc=css:button[aria-label="New posts are available. Push the period key to go to the them."]]
+              svg_root
+              text "See new posts"
+          region "Conversation"
+            container "Timeline: Conversation"
+              container
+                article "Anthropic@AnthropicAI Anthropic has filed an S-1 registration statement with the SEC related to its proposed IPO. Read more: https://anthropic.com/news/s1-sec Legal disclaimer: A registration statemen..." [ref=42]
+                  container
+                    link [ref=43, url=https://x.com/AnthropicAI]
+                      image
+                    container
+                      container
+                        link [ref=44, url=https://x.com/AnthropicAI]
+                          text "Anthropic"
+                          image "Verified account"
+                        link [ref=45, url=https://x.com/AnthropicAI]
+                          text "@AnthropicAI"
+                      container
+                        button "Grok actions" [ref=46]
+                          svg_root
+                        button "More" [ref=47]
+                          svg_root
+                  container
+                    container
+                      text "Anthropic has filed an S-1 registration statement with the SEC related to its proposed IPO. Read more:"
+                      link [ref=48, loc=href:https://t.co/ofhv0DK3Zp, url=https://t.co/ofhv0DK3Zp]
+                        text "anthropic.com/news/s1-sec"
+                      text "Legal disclaimer: A registration statement relating to these securities has been filed with the SEC but has not yet become effective. These securities may not be sold, nor may offers to buy be accepte..."
+                    container "Anthropic files S-1 with the SEC for proposed initial public offering"
+                      container "Anthropic files S-1 with the SEC for proposed initial public offering"
+                        link "anthropic.com Anthropic files S-1 with the SEC for proposed initial public offering" [ref=49, url=https://t.co/zuRMrxXzNx]
+                          container "Anthropic logo"
+                            image
+                          text "Anthropic files S-1 with the SEC for proposed initial public offering"
+                      link [ref=50, url=https://t.co/zuRMrxXzNx]
+                        text "From"
+                        text "anthropic.com"
+                    container
+                      link "9:05 PM · Oct 26, 2026" [ref=51, loc=css:a[aria-label="9:05 PM · Oct 26, 2026"], url=https://x.com/AnthropicAI/status/2114705042817110293]
+                        text "9:05 PM · Oct 26, 2026"
+                      text "·"
+                      link [ref=52, loc=href:/AnthropicAI/status/2114705042817110293/analytics, url=https://x.com/AnthropicAI/status/2114705042817110293/analytics]
+                        text "525.1K"
+                        text "Views"
+                    container
+                      group "750 replies, 2665 reposts, 10531 likes, 851 bookmarks, 1568116 views"
+                        button "750 Replies. Reply" [ref=53, loc=css:button[aria-label="750 Replies. Reply"]]
+                          svg_root
+                          text "750"
+                        button "2665 reposts. Repost" [ref=54, loc=css:button[aria-label="2665 reposts. Repost"]]
+                          svg_root
+                          text "2.6K"
+                        button "10531 Likes. Like" [ref=55, loc=css:button[aria-label="10531 Likes. Like"]]
+                          svg_root
+                          text "10K"
+                        button "851 Bookmarks. Bookmark" [ref=56, loc=css:button[aria-label="851 Bookmarks. Bookmark"]]
+                          svg_root
+                          text "851"
+                        button "Share post" [ref=57]
+                          svg_root
+                      container
+                        button [ref=58]
+                          text "Relevant"
+                          svg_root
+                        link [ref=59, loc=href:/AnthropicAI/status/2114705042817110293/quotes, url=https://x.com/AnthropicAI/status/2114705042817110293/quotes]
+                          text "View quotes"
+                          svg_root
+                link [ref=60, url=https://x.com/LeoGuoLabs]
+        container "Trending" [ref=61]
+          search "Search"
+            svg_root
+            comboboxgrouping "Search query" [ref=62, loc=css:input[placeholder="Search"]]
+              text "Search"
+          complementary "Relevant people"
+            heading
+              text "Relevant people"
+            list
+              listitem [ref=63]
+                link [ref=64, url=https://x.com/AnthropicAI]
+                  image
+                container
+                  container
+                    container
+                      link [ref=65, url=https://x.com/AnthropicAI]
+                        text "Anthropic"
+                        image "Verified account"
+                      link [ref=66, url=https://x.com/AnthropicAI]
+                        text "@AnthropicAI"
+                    button "Follow @AnthropicAI" [ref=67, loc=css:button[aria-label="Follow @AnthropicAI"]]
+                      text "Follow"
+                  container
+                    text "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant"
+                    link [ref=68, loc=href:/claudeai, url=https://x.com/claudeai]
+                      text "@claudeai"
+                    text "on"
+                    link [ref=69, loc=href:https://t.co/FhDI3KQh0n, url=https://t.co/FhDI3KQh0n]
+                      text "claude.ai"
+                    text "."
+          region "Trending now"
+            container "Timeline: Trending now"
+              heading
+                text "What’s happening"
+              link "Sports · TrendingYamal" [ref=226]
+                text "Sports · Trending"
+                text "Yamal"
+                button "More" [ref=227]
+                  svg_root
+              link "Trending in Singapore#TheAFestivalxJASPER" [ref=228]
+                text "Trending in Singapore"
+                text "#TheAFestivalxJASPER"
+                button "More" [ref=229]
+                  svg_root
+              link "Trending in Singapore#노_맘대로_즐기는_리노생일" [ref=230]
+                text "Trending in Singapore"
+                text "#노_맘대로_즐기는_리노생일"
+                button "More" [ref=231]
+                  svg_root
+              link "Trending in SingaporeBase Track" [ref=232]
+                text "Trending in Singapore"
+                text "Base Track"
+                button "More" [ref=233]
+                  svg_root
+              link [ref=234, loc=href:/explore/tabs/for-you, url=https://x.com/explore/tabs/for-you]
+                text "Show more"
+          navigation "Footer"
+            container
+              link [ref=79, loc=href:/tos, url=https://x.com/tos]
+                text "Terms"
+              text "·"
+            container
+              link [ref=80, loc=href:/privacy, url=https://x.com/privacy]
+                text "Privacy"
+              text "·"
+            container
+              link [ref=81, loc=href:https://support.x.com/articles/20170514, url=https://support.x.com/articles/20170514]
+                text "Cookies"
+              text "·"
+            container
+              link [ref=82, loc=href:https://help.x.com/resources/accessibility, url=https://help.x.com/resources/accessibility]
+                text "Accessibility"
+              text "·"
+            container
+              link [ref=83, url=https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo]
+                text "Ads Info"
+              text "·"
+            button "More" [ref=84]
+              text "More"
+              svg_root
+            text "© 2026 X Corp."
