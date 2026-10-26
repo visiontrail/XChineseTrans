@@ -1,0 +1,40 @@
+{
+  "status": "pending_review",
+  "prepared_at": "2026-10-26T14:34:36.975019+00:00",
+  "account": "@LeoGuoLabs",
+  "format": "native_quote",
+  "source_url": "https://x.com/leo114119/status/2114660267514634652",
+  "quote_target": "https://x.com/Mr_Salio/status/2114651829476762060",
+  "text": "qwen4_exp already appears in Qwen3.8-Flash-Next’s official config. Qwen calls Flash-Next a preview of the architecture behind Qwen 4, so there’s something you can inspect and run today.\n\nThe label alone doesn’t confirm an October 29 launch or that Arena’s “Kalmia” is Qwen 4.\n\nhttps://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+  "text_path": "post.txt",
+  "media": [
+    {
+      "path": "source-image.jpg",
+      "placement": "native quoted post",
+      "type": "image",
+      "separate_upload": false
+    }
+  ],
+  "video_present": false,
+  "alt": "Not editable on the original quoted image; no separate upload.",
+  "checks": {
+    "live_source_and_original_read": true,
+    "automatic_translation_disabled_for_source": true,
+    "official_config_checked": true,
+    "official_model_card_checked": true,
+    "source_image_downloaded_and_inspected": true,
+    "live_account_verified": true,
+    "composer_full_text_matches": true,
+    "quote_card_and_image_visually_checked": true,
+    "post_button_enabled": true,
+    "model_run_or_benchmark_performed": false
+  },
+  "composer_evidence": "research/composer-check.json",
+  "review_preview": "composer-review.png",
+  "approval": {
+    "received": false,
+    "reason": "Standing final-content review rule in AGENTS.md"
+  },
+  "publication_submitted": false,
+  "published_url": null
+}

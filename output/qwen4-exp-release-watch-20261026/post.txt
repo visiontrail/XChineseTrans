@@ -1,0 +1,5 @@
+qwen4_exp already appears in Qwen3.8-Flash-Next’s official config. Qwen calls Flash-Next a preview of the architecture behind Qwen 4, so there’s something you can inspect and run today.
+
+The label alone doesn’t confirm an October 29 launch or that Arena’s “Kalmia” is Qwen 4.
+
+https://huggingface.co/Qwen/Qwen3.8-Flash-Next

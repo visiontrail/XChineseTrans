@@ -1,0 +1,39 @@
+{
+  "text": "qwen4_exp already appears in Qwen3.8-Flash-Next’s official config. Qwen calls Flash-Next a preview of the architecture behind Qwen 4, so there’s something you can inspect and run today.\n\nThe label alone doesn’t confirm an October 29 launch or that Arena’s “Kalmia” is Qwen 4.\n\nhttps://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+  "dialogText": "Drafts\nqwen4_exp already appears in Qwen3.8-Flash-Next’s official config. Qwen calls Flash-Next a preview of the architecture behind Qwen 4, so there’s something you can inspect and run today.\n\nThe label alone doesn’t confirm an October 29 launch or that Arena’s “Kalmia” is Qwen 4.\n\nhttps://huggingface.co/Qwen/Qwen3.8-Flash-Next\nQuote\nSalio\n@Mr_Salio\n·\n4h\nQwen 4 is showing up in more places\n\nI think it could arrive this week or next week It doesn't seem too far away now \n\nQwen 4 has been appearing on Arena for weeks under the codename \"Kalmia\" I have Also tested it's not bad in my experience \n\nThe team seems to be experimenting\nSalio\nExpand\nTry out the new article composer for new formatting options.\nEveryone can reply\n24,700 characters remaining\nPost",
+  "buttons": [
+    {
+      "text": "Post",
+      "disabled": false
+    }
+  ],
+  "images": [
+    {
+      "alt": "Leo Guo",
+      "src": "https://pbs.twimg.com/profile_images/2089933102760214528/wgwr7axH_x96.jpg",
+      "complete": true,
+      "naturalWidth": 96
+    },
+    {
+      "alt": "",
+      "src": "https://pbs.twimg.com/profile_images/2027630388403965952/mgrd9d6O_normal.jpg",
+      "complete": true,
+      "naturalWidth": 48
+    },
+    {
+      "alt": "",
+      "src": "https://pbs.twimg.com/media/HVjAoGeXkAA2Vag.jpg?name=medium",
+      "complete": true,
+      "naturalWidth": 1199
+    },
+    {
+      "alt": "",
+      "src": "https://pbs.twimg.com/profile_images/2027630388403965952/mgrd9d6O_normal.jpg",
+      "complete": true,
+      "naturalWidth": 48
+    }
+  ],
+  "account": "https://x.com/LeoGuoLabs",
+  "full_text_matches": true,
+  "checked_at": "2026-10-26T14:33:56.599Z"
+}
