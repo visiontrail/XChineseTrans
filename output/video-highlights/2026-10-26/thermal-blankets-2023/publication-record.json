@@ -1,0 +1,26 @@
+{
+  "status": "published_verified",
+  "account": "LeoGuoLabs",
+  "format": "standalone_native_video",
+  "approval_message_id": "Sentinel_400d62f75bdc8191b266167feb4462d1",
+  "review_message_id": "Sentinel_995b75af5c748191b4a4be0b04099e00",
+  "text": "Spacecraft insulation needs a tailor, too. In this 2023 NASA video, thermal blanket technician Paula Cain explains why rigid hardware demands precise measurements, then shows how she builds a clear-film pattern. The fit starts well before the sewing.",
+  "media_file": "paula-cain-spacecraft-tailoring.mp4",
+  "sha256": "43b09c5fd1a83953d641153888adf47855184e041eecc1ceaf7cf9848f40c31d",
+  "source": "https://images.nasa.gov/details/jsc2023m000121_Thermal%20Blanket%20Technician%20FINAL-Social-USE",
+  "source_date_created": "2023-05-22",
+  "source_timecode": "02:33.120–03:08.640",
+  "duration_seconds": 35.533333,
+  "post_url": "https://x.com/LeoGuoLabs/status/2114556547359813657",
+  "published_at_utc": "2026-10-26T03:15:42.000Z",
+  "verified_at_utc": "2026-10-26T03:17:36Z",
+  "verification": {
+    "account": "@LeoGuoLabs",
+    "body_exact_match": true,
+    "native_video_playback": true,
+    "observed_current_time_seconds": 24.032784,
+    "observed_platform_duration_seconds": 35.583999,
+    "ready_state": 4
+  },
+  "rights": "NASA informational footage; no watermark removed. Source archive date is not asserted as first publication date."
+}
