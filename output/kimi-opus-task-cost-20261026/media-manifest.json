@@ -1,0 +1,27 @@
+{
+  "source_post": "https://x.com/semichenkko/status/2114391220793364639",
+  "supplied_post": "https://x.com/leo114119/status/2114661201464697275",
+  "media_url": "https://video.twimg.com/amplify_video/2114391112567640064/vid/avc1/1080x1466/hJwKcAfrlvEkJEnk.mp4?tag=29",
+  "fresh_for_this_task": true,
+  "retrieved_at": "2026-10-26T14:27:24.117857+00:00",
+  "file": "original-video.mp4",
+  "bytes": 12060782,
+  "sha256": "5257453a1d7c88d7b67b4a98a0eb2d1f01fb1f8975ca218b7d0b2d1bf94dd2e6",
+  "duration_seconds": 14,
+  "resolution": [
+    1080,
+    1466
+  ],
+  "codec": "h264",
+  "frames": 420,
+  "audio_streams": 0,
+  "complete_decode": "passed; ffmpeg exit 0; decode.log empty",
+  "inspected_native_frames_seconds": [
+    0.2,
+    7,
+    13.7
+  ],
+  "visual_observations": "Original English comparison labels and cost overlays preserved. Both outputs show animation and debris; the Opus funnel and airborne farmhouse are more visible. Do not repeat the source claim that Kimi is static.",
+  "source_browser_playback": "Observed source video advancing across browser reads, without video error.",
+  "downloaded_file_browser_playback": "passed; Ego Lite local MP4 reached 14.0 seconds, ended=true, error=null, decoded dimensions 1080x1466"
+}

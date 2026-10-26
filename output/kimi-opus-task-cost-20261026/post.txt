@@ -1,0 +1,3 @@
+A lower price per token doesn't guarantee a cheaper finished task. This tornado demo reports $0.40 for Opus 5.5 versus $4.10 for Kimi K3.1 Pro, with much more of the requested destruction visible in the Opus result.
+
+One example isn't a model ranking. Compare total spend, output quality, and the time you spend on retries and fixes.

@@ -1,0 +1,46 @@
+{
+  "state": "pending_review",
+  "prepared_at": "2026-10-26T22:39:00.501096+08:00",
+  "destination_account": "@LeoGuoLabs",
+  "format": "native_quote",
+  "supplied_source": "https://x.com/leo114119/status/2114661201464697275",
+  "original_target": "https://x.com/semichenkko/status/2114391220793364639",
+  "format_reason": "Trace the supplied embedded-video attribution to the original containing the demonstration and preserve that original as native Quote.",
+  "text_file": "post.txt",
+  "final_text": "A lower price per token doesn't guarantee a cheaper finished task. This tornado demo reports $0.40 for Opus 5.5 versus $4.10 for Kimi K3.1 Pro, with much more of the requested destruction visible in the Opus result.\n\nOne example isn't a model ranking. Compare total spend, output quality, and the time you spend on retries and fixes.",
+  "media": {
+    "native_original_video": true,
+    "additional_uploads": [],
+    "local_original": "original-video.mp4",
+    "duration_seconds": 14,
+    "sha256": "5257453a1d7c88d7b67b4a98a0eb2d1f01fb1f8975ca218b7d0b2d1bf94dd2e6",
+    "manifest": "media-manifest.json"
+  },
+  "checks": {
+    "live_original_read": true,
+    "original_chinese_read": true,
+    "prompt_continuation_read": true,
+    "author_reported_costs_not_independently_billed": true,
+    "complete_decode": true,
+    "native_resolution_frame_inspection": [
+      0.2,
+      7,
+      13.7
+    ],
+    "local_full_playback": true,
+    "audio_streams": 0,
+    "composer_exact_text": true,
+    "composer_native_quote_and_source_video": true,
+    "composer_post_enabled": true,
+    "composer_account": "@LeoGuoLabs"
+  },
+  "review": {
+    "approval_required": true,
+    "approved": false,
+    "reason": "Standing AGENTS.md final-content review; no task-specific waiver."
+  },
+  "submitted": false,
+  "scheduled": false,
+  "public_url": null,
+  "browser_state": "Prepared native Quote composer retained for review; no Post action taken."
+}
