@@ -1,6 +1,6 @@
 # Anthropic IPO disclosure — research and preparation
 
-Prepared 2026-10-26, Asia/Singapore. Status: English copy prepared; live composer check pending browser-control restoration. Not published and final approval not yet requested.
+Prepared 2026-10-26, Asia/Singapore. Status: cancelled by the user on 2026-10-26 ("这个取消掉,不再发布"). Not published. Prepared files are retained only as an archive; there is no pending publication or approval action.
 
 ## Format and media
 
@@ -28,4 +28,4 @@ The installed ego-browser guide explicitly requires the user to handle browser-o
 
 ## Delivery
 
-`post-en.txt` is the exact intended English body. Research notes and citations are review context, not extra public copy. `publication-record.json` is the compact current-state record. Finish relevant source-continuation and composer checks once a working browser session is available, then request the standing final-content review. No public approval has been inferred from the bare link.
+`post-en.txt` preserves the cancelled English draft. Research notes and sources are retained for reference. `publication-record.json` records the user cancellation. Do not resume preparation, request approval, schedule or publish unless the user explicitly reopens this task.
