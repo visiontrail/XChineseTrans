@@ -1,5 +1,5 @@
 {
-  "state": "pending_review",
+  "state": "scheduled",
   "prepared_at": "2026-10-26T22:39:00.501096+08:00",
   "destination_account": "@LeoGuoLabs",
   "format": "native_quote",
@@ -36,11 +36,33 @@
   },
   "review": {
     "approval_required": true,
-    "approved": false,
-    "reason": "Standing AGENTS.md final-content review; no task-specific waiver."
+    "approved": true,
+    "reason": "Standing AGENTS.md final-content review; no task-specific waiver.",
+    "approval_text": "确认发布,10分钟以后",
+    "approved_at": "2026-10-26T23:37:03+08:00"
   },
   "submitted": false,
-  "scheduled": false,
+  "scheduled": true,
   "public_url": null,
-  "browser_state": "Prepared native Quote composer retained for review; no Post action taken."
+  "browser_state": "Native X Scheduled queue verified; original target URL and approved commentary present. Public result verification pending after the scheduled time.",
+  "requested_schedule": {
+    "timezone": "Asia/Singapore",
+    "target": "2026-10-26T23:47:00+08:00",
+    "basis": "Ten minutes after first receipt-time clock check, rounded to native X minute precision"
+  },
+  "scheduled_at": "2026-10-26T23:47:00+08:00",
+  "schedule_timezone": "Asia/Singapore",
+  "schedule_queue_verified": true,
+  "schedule_queue_evidence": [
+    "evidence/schedule-preflight.json",
+    "evidence/scheduled-queue.txt",
+    "evidence/scheduled-queue.png"
+  ],
+  "schedule_submitted": true,
+  "followup": {
+    "automation_id": "kimi-opus",
+    "kind": "heartbeat",
+    "scheduled_for": "2026-10-26T23:48:00+08:00",
+    "scope": "One-time public URL, approved text, Quote target and video playback verification; no duplicate posting."
+  }
 }

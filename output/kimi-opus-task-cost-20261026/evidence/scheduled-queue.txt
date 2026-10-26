@@ -1,0 +1,32 @@
+[p1 "(1) Semichenko on X: \"I asked them the same prompt Opus $0.40 is ripping the ..." | space "X source 2114661201464697275 review"(25): 1 managed, 0 untracked — p1* "(1) Semichenko on X: \"I asked them the same prompt Opus $0.40 is ripping the ..."]
+group [ref=149, loc=unstable]
+  container
+  dialog "Drafts"
+    container
+      container
+        button "Back" [ref=179, loc=ambiguous]
+          svg_root
+        heading
+          text "Drafts"
+        button [ref=180, loc=unstable]
+          text "Edit"
+      navigation "Drafts"
+        button "Previous" [ref=181, loc=css:button[aria-label="Previous"]]
+          svg_root
+        tablist
+          tab [ref=182, loc=href:/compose/post/unsent/drafts, url=https://x.com/compose/post/unsent/drafts]
+            text "Unsent posts"
+          tab [ref=183, loc=href:/compose/post/unsent/scheduled, url=https://x.com/compose/post/unsent/scheduled]
+            text "Scheduled"
+            container
+        button "Next" [ref=184, loc=css:button[aria-label="Next"]]
+          svg_root
+    button [ref=185, loc=unstable]
+      container
+        svg_root
+        text "Will send on Mon, Oct 26, 2026 at 11:47 PM"
+      container
+        container
+          svg_root
+          text "https://x.com/semichenkko/status/2114391220793364639"
+        text "A lower price per token doesn't guarantee a cheaper finished task. This tornado demo reports $0.40 for Opus 5.5 versus $4.10 for Kimi K3.1 Pro, with much more of the requested destruction visible in t..."
