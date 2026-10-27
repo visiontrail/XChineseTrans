@@ -1,0 +1,45 @@
+{
+  "account": "@LeoGuoLabs",
+  "status": "published",
+  "category": "ai_video_production",
+  "format": "standalone_text",
+  "media": [],
+  "published_url": "https://x.com/LeoGuoLabs/status/2114912180084641820",
+  "published_at_utc": "2026-10-27T02:48:51.000Z",
+  "published_at_singapore": "2026-10-27T10:48:51+08:00",
+  "verification": {
+    "method": "Cloud browser actual X detail page: author, exact body, standalone format and DOM time checked after publication.",
+    "body_matches_approved": true,
+    "checked_at_utc": "2026-10-27T02:49:00Z",
+    "time_precision_note": "Verification timestamp rounded to minute; publication timestamp read from DOM."
+  },
+  "approval": {
+    "message_id": "Sentinel_605df36fafec81919ffea79f71a30b00",
+    "text": "请发布Luma这条",
+    "scope": "Only approved Luma English draft; not Anthropic.",
+    "reply_to": "Sentinel_f08eba5650488191951e2f205cc14df8"
+  },
+  "review": {
+    "message_id": "Sentinel_1b2f4e906b3c8191a4e19c8340ac8646",
+    "delivered_at_utc": "2026-10-26T14:31:25Z",
+    "counting_note": "Original review delivery belongs to Singapore 2026-10-26, not a new 2026-10-27 draft delivery."
+  },
+  "sources": [
+    {
+      "url": "https://docs.agents.lumalabs.ai/guides/videos/reframing/",
+      "verified": "Source and output maximum 10 seconds; reframing generates surrounding area; 1080p vertical 9:16/3:4 unavailable; use lower resolutions."
+    },
+    {
+      "url": "https://docs.agents.lumalabs.ai/guides/error-handling/",
+      "verified": "Confirms vertical 1080p reframe restriction."
+    }
+  ],
+  "source_verification": {
+    "date_utc": "2026-10-27",
+    "timing": "Rechecked official documentation immediately before publication.",
+    "scope": "Current Agents API Ray 3.2 video_reframe, not all Luma products.",
+    "result": "No material change to approved claims.",
+    "testing": "No personal generation test claimed."
+  },
+  "archive_note": "Minimal final publication record. Previous local review package was absent; this does not restore or claim complete historical records."
+}

@@ -1,0 +1,1 @@
+Luma Ray 3.2 can reframe a video by generating the area around it, but check the delivery spec first. Its reframe API caps clips at 10 seconds and currently excludes 1080p vertical output. Test in 720p before committing to a vertical delivery workflow.
