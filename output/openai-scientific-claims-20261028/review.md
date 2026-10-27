@@ -1,6 +1,6 @@
 # OpenAI scientific claims — review draft
 
-Status: pending user approval; not published. Research date: 2026-10-28 (Asia/Singapore).
+Status: publicly verified. Research and publication date: 2026-10-28 (Asia/Singapore).
 
 Source: https://x.com/GKev1n/status/2114967834128425068
 Native Quote target: https://x.com/gdb/status/2114837059462627533
@@ -17,4 +17,5 @@ The math and computer science outputs are public. The physics group has chosen t
 - OpenAI claims a local smoothing proof implying Kakeya and Stein restriction, an ETH refutation, and existence results including pure Yang–Mills. These are claims; independent examination is ongoing. The physics claim does not state that the Yang–Mills mass gap has been proved.
 - OpenAI says math and computer science natural-language outputs and Lean formalizations are public; the physics group chose to defer release. The ETH group includes original ETH proposers. OpenAI dates the outputs to September and October, not a single night.
 - Source and original Quote post contain no relevant native video. The original includes a link preview for the official article; no additional media is proposed.
-- Quote card supplies attribution. No post has been composed or published.
+- Public post: https://x.com/LeoGuoLabs/status/2115120269115457844
+- Reopened the public post and verified @LeoGuoLabs, exact approved text, and the native Quote card. Clicking the card opened https://x.com/gdb/status/2114837059462627533. No additional media was attached.
