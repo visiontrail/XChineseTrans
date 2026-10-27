@@ -1,0 +1,20 @@
+{
+  "status": "pending_review",
+  "account": "@LeoGuoLabs",
+  "format": "native_quote",
+  "supplied_source": "https://x.com/luojiuyue/status/2115072800717484403",
+  "quote_target": "https://x.com/guilleflorvs/status/2114797640713916475",
+  "text": "How would outcome-based AI pricing work in practice? How do you measure the result and distinguish the AI’s contribution from the work of the people and tools involved?",
+  "video": {
+    "path": "source.mp4",
+    "source_url": "https://video.twimg.com/ext_tw_video/2114797623861235712/pu/vid/avc1/640x360/6HjkhZVak1PYxxld.mp4?tag=12",
+    "retrieved_at": "2026-10-28T00:43:40.255009+08:00",
+    "bytes": 2835786,
+    "sha256": "6994b17de8cebc87611f93924ab59c00af6abae4f868813240d699eaaac3f78b",
+    "duration_seconds": 82.895238,
+    "resolution": "640x360",
+    "streams": "H.264 video, AAC audio",
+    "checks": "ffprobe and complete ffmpeg decode passed; source X video played in browser; audio not evaluated"
+  },
+  "notes": "Pricing discussed as a possible future approach, not an announced policy. Composer displayed text and native quote card; not submitted."
+}
