@@ -4,6 +4,8 @@
   "format": "standalone",
   "draft": "draft.md",
   "media": [],
-  "state": "pending_review",
-  "notes": "Source post contains a GitHub link card, no quoted post or video. Official README describes product context, design commands, and deterministic detector rules. No independent product test or performance claim. In Codex the skill is invoked as $impeccable; init records PRODUCT.md, not DESIGN.md. Revised for the requested emphasis on supplementing frontend design guidance for OpenAI models; no independent product test claimed."
+  "state": "publicly_verified",
+  "notes": "Source post contains a GitHub link card, no quoted post or video. Official README describes product context, design commands, and deterministic detector rules. No independent product test or performance claim. In Codex the skill is invoked as $impeccable; init records PRODUCT.md, not DESIGN.md. Revised for the requested emphasis on supplementing frontend design guidance for OpenAI models; no independent product test claimed.",
+  "url": "https://x.com/LeoGuoLabs/status/2115122335045095711",
+  "verification": "Reopened public post in Ego Lite; verified author, full approved text, standalone format, and GitHub link card. No uploaded media."
 }
