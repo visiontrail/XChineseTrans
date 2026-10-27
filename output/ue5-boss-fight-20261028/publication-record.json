@@ -1,0 +1,11 @@
+{
+  "status": "publicly_verified",
+  "authorization": "User instructed direct publication going forward on 2026-10-28.",
+  "format": "standalone",
+  "account": "@LeoGuoLabs",
+  "source": "https://x.com/xingbugengming/status/2114987011480367262",
+  "original_video": "https://www.youtube.com/watch?v=z1mgtUvTdqg",
+  "published_url": "https://x.com/LeoGuoLabs/status/2115124582323806408",
+  "selected_media": "upload-compact.mp4",
+  "verification": "Reopened public status in Ego Lite; checked account, full post text, repository link, one 8:39 video, and video playback advancing from 8.16 to 13.20 seconds with readyState 4. Full source and upload decode passed; representative audio listening not performed."
+}
