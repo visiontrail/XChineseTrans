@@ -5,8 +5,10 @@
   "format": "native Quote Post",
   "text_file": "draft-v2.txt",
   "media": "Cursor's native quoted image; no separate attachment",
-  "status": "pending_review",
-  "published_url": null,
+  "status": "publicly_verified",
+  "published_url": "https://x.com/LeoGuoLabs/status/2115121333357224004",
   "checked": "2026-10-28 Asia/Singapore",
-  "notes": "Source and official quote inspected in Ego Lite. Official quoted image is a CursorBench score-versus-cost graph; no video. CursorBench 4.0 leaderboard lists 1017 Max at 47.7% and $0.98 average estimated token cost per task; multiple models score higher at greater cost. Estimate applies published token rates to measured usage and is not a universal actual task charge. Composer not checked. The 1017 model repository and weights are MIT-licensed: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017. Version 2 adds the requested observation; earlier draft preserved."
+  "notes": "Source and official quote inspected in Ego Lite. Official quoted image is a CursorBench score-versus-cost graph; no video. CursorBench 4.0 leaderboard lists 1017 Max at 47.7% and $0.98 average estimated token cost per task; multiple models score higher at greater cost. Estimate applies published token rates to measured usage and is not a universal actual task charge. Composer not checked. The 1017 model repository and weights are MIT-licensed: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017. Version 2 adds the requested observation; earlier draft preserved.",
+  "approval": "User confirmed publication of draft-v2.",
+  "verification": "Reopened actual public URL in Ego Lite; account, complete approved text, native Cursor quote and source graph verified. Source graph loaded at 1200px. No separate media."
 }
