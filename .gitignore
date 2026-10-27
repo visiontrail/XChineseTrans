@@ -97,3 +97,7 @@ hls-window/
 # Incomplete first-attempt REA demo downloads; preserved locally.
 /output/rea-reverse-engineering/perplexity-computer-20261019/media/*.incomplete
 /output/ai-assistance-learning-transfer/does-ai-help-you-learn-full.mp4
+
+# UE5 boss-fight original and upload copy, both over 50 MiB.
+/output/ue5-boss-fight-20261028/original-youtube.mp4
+/output/ue5-boss-fight-20261028/upload.mp4
