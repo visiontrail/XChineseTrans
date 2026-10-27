@@ -1,0 +1,9 @@
+{
+  "source": "https://x.com/stargridcompass/status/2114930086478852417",
+  "primary_source": "https://github.com/pbakaus/impeccable",
+  "format": "standalone",
+  "draft": "draft.md",
+  "media": [],
+  "state": "pending_review",
+  "notes": "Source post contains a GitHub link card, no quoted post or video. Official README describes product context, design commands, and deterministic detector rules. No independent product test or performance claim. In Codex the skill is invoked as $impeccable; init records PRODUCT.md, not DESIGN.md."
+}
