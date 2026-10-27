@@ -1,0 +1,5 @@
+Anthropic’s founders have reaffirmed their commitment to keep Claude ad-free in a letter accompanying its IPO prospectus.
+
+It’s a smart distinction: Anthropic makes its money from usage and subscriptions, while OpenAI is testing ads in ChatGPT. For users, the trade-off is worth watching: keeping ads out doesn’t make the cost of AI disappear.
+
+https://the-decoder.com/anthropic-uses-its-ipo-letter-to-renew-its-pledge-that-claude-will-never-show-ads/
