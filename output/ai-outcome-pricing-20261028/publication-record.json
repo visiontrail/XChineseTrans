@@ -1,5 +1,5 @@
 {
-  "status": "pending_review",
+  "status": "publicly_verified",
   "account": "@LeoGuoLabs",
   "format": "native_quote",
   "supplied_source": "https://x.com/luojiuyue/status/2115072800717484403",
@@ -16,5 +16,9 @@
     "streams": "H.264 video, AAC audio",
     "checks": "ffprobe and complete ffmpeg decode passed; source X video played in browser; audio not evaluated"
   },
-  "notes": "Pricing discussed as a possible future approach, not an announced policy. Composer displayed text and native quote card; not submitted."
+  "notes": "Pricing discussed as a possible future approach, not an announced policy. Composer displayed text and native quote card; not submitted.",
+  "approval": "User confirmed publication",
+  "published_url": "https://x.com/LeoGuoLabs/status/2115122887325806692",
+  "verified_at": "2026-10-28T00:46:34.531577+08:00",
+  "verification": "Reopened public page: @LeoGuoLabs, complete approved text, native Guillermo Flor quote with video; video time advanced from 12.39 to 15.86 seconds."
 }
