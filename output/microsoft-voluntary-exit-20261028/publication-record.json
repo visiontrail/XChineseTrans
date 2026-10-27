@@ -6,7 +6,9 @@
   "draft": "draft.md",
   "media": [],
   "source_image": "source.jpg (research only)",
-  "state": "pending_review",
-  "checks": "Original X post and author continuation viewed in Ego Lite; source image inspected; official announcement and Microsoft confirmation reported by GeekWire checked. No quoted post or video. Live composer and link-card rendering not checked. No submission.",
-  "notes": "About 60,000 eligible per Microsoft confirmation to GeekWire; number accepting unknown. Official announcement does not specify the count or assert AI caused the offer."
+  "state": "publicly_verified",
+  "checks": "Reopened the published post in Ego Lite; verified @LeoGuoLabs, full approved text, standalone format, and Microsoft blog link card. No additional media.",
+  "notes": "About 60,000 eligible per Microsoft confirmation to GeekWire; number accepting unknown. Official announcement does not specify the count or assert AI caused the offer.",
+  "published_url": "https://x.com/LeoGuoLabs/status/2115123021807788492",
+  "authorization": "User confirmed publication after review."
 }
