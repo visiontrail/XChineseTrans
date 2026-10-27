@@ -1,0 +1,5 @@
+DeepSeek V4.1 Flash is now in Cursor, and its cost-to-performance results are hard to ignore.
+
+On CursorBench 4.0, the 1017 Max configuration scores 47.7% at an estimated $0.98 per task. That's a compelling option for everyday coding work when cost matters—worth trying on your own codebase.
+
+Pretty remarkable to see an open-weight model from China adopted by a mainstream American coding agent. Open models are becoming part of the tools developers use every day.
