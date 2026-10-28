@@ -8,11 +8,12 @@
   "draft": "draft.md",
   "media": [],
   "research": "research.md",
-  "state": "awaiting_final_confirmation",
+  "state": "scheduled",
   "authorization": {
     "request": "请你发个推，推荐这个skill",
-    "final_review_required": true,
-    "reason": "Current AGENTS.md explicitly records a newer 2026-10-28 default requiring final confirmation; no task-specific waiver was given."
+    "final_review_required": false,
+    "reason": "User explicitly approved scheduling of the displayed shortened copy through X native scheduling.",
+    "approved_request": "请在美国西部时间早晨7点15发布，用x自带的定时发布功能"
   },
   "checks": {
     "skill_read": true,
@@ -22,8 +23,13 @@
     "installed_or_executed_cleanup": false,
     "composer": "Revised text exactly matches draft.md; only the first sentence plus the supplied GitHub URL, 186 characters total. Post enabled on @LeoGuoLabs. Updated the existing X draft without submission.",
     "composer_evidence": "composer-check.json",
-    "x_draft_saved": true,
-    "publication_submitted": false
+    "x_draft_saved": false,
+    "publication_submitted": false,
+    "schedule_submitted": true,
+    "scheduled_queue_verified": true,
+    "scheduled_matching_entries": 1,
+    "public_post_verified": false,
+    "public_verification": "Pending scheduled publication; no live post URL exists yet."
   },
   "url": null,
   "revision": {
@@ -31,5 +37,23 @@
     "change": "Keep only the previously shown first sentence plus the requested GitHub link.",
     "superseded_draft": "draft-v1.md",
     "superseded_composer_evidence": "composer-check-v1.json"
-  }
+  },
+  "schedule": {
+    "platform": "X native scheduling",
+    "requested_timezone": "America/Los_Angeles",
+    "pacific": "2026-10-28T07:15:00-07:00",
+    "pacific_abbreviation": "PDT",
+    "singapore": "2026-10-28T22:15:00+08:00",
+    "utc": "2026-10-28T14:15:00Z",
+    "ui_timezone": "Singapore Standard Time",
+    "state": "submitted_and_queue_verified",
+    "queue_url": "https://x.com/compose/post/unsent/scheduled",
+    "checked_at": "2026-10-28T10:32:58.905Z",
+    "evidence": [
+      "schedule-setup.json",
+      "schedule-presubmit.json",
+      "schedule-queue.json"
+    ]
+  },
+  "verification": "X native scheduling accepted the post; reopened Scheduled queue and verified one entry with the approved sentence, exact GitHub URL, and 2026-10-28 22:15 Singapore schedule. This is scheduling verification, not a published-post verification."
 }
