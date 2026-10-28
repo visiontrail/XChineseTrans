@@ -1,0 +1,12 @@
+{
+  "source": "https://x.com/dotey/status/2115229306490126432",
+  "original_target": "https://x.com/katelyn_lesse/status/2114542280535318557",
+  "format": "native Quote Post",
+  "text": "A useful test for any multi-agent system: can you tell who did what, limit what each agent can do, and stop the whole run when it goes wrong?\n\nAdd bursty infrastructure and isolation, and the hard engineering starts long before the agent count reaches thousands.",
+  "media": "Native original article card; no relevant source video or additional attachment.",
+  "checks": "Read source in Chinese and original X Article; checked original author's four problem areas. Reopened the published post and checked account, complete text, and original article card.",
+  "authorization": "Direct publication under project bare-link workflow.",
+  "state": "publicly_verified",
+  "published_url": "https://x.com/LeoGuoLabs/status/2115252464387772449",
+  "published_at": "2026-10-28 09:21 Asia/Singapore"
+}
