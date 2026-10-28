@@ -1,0 +1,19 @@
+{
+  "file": "media/musk-roadster-2008-full.mp4",
+  "checkedAt": "2026-10-28T12:01:10.366Z",
+  "before": {
+    "time": 20.068491,
+    "duration": 255.83746,
+    "paused": false,
+    "readyState": 4,
+    "error": null
+  },
+  "after": {
+    "time": 22.110492,
+    "duration": 255.83746,
+    "paused": false,
+    "readyState": 4,
+    "error": null
+  },
+  "audio_listening": "not performed"
+}

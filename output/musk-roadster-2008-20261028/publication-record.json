@@ -1,0 +1,57 @@
+{
+  "status": "prepared_awaiting_confirmation",
+  "prepared_at": "2026-10-28T20:02:34.924978+08:00",
+  "destination": "@LeoGuoLabs",
+  "supplied_source": "https://x.com/huxlab/status/2115353978167046242",
+  "format": "native_quote",
+  "quote_target": "https://x.com/Unnati_builds24/status/2115123008583184718",
+  "archival_primary_source": "https://www.youtube.com/watch?v=ZuKUOBvIKE4",
+  "final_copy": "post.en.txt",
+  "media": [
+    {
+      "path": "media/musk-roadster-2008-full.mp4",
+      "role": "verified local copy of the native source video; no redundant upload",
+      "duration_seconds": 255.83746,
+      "bytes": 16969284,
+      "sha256": "bdf17a8f0af8a141c44341ffcc8adcb556d62df7249af3d439291b1241bd8b1e"
+    }
+  ],
+  "images": [],
+  "alt": null,
+  "checks": {
+    "source_live_read": true,
+    "quote_chain_traced": true,
+    "official_strategy_checked": true,
+    "fresh_media_download": true,
+    "full_decode_passed": true,
+    "sample_frames_inspected": [
+      1,
+      128,
+      252
+    ],
+    "local_playback_verified": true,
+    "audio_listening_performed": false,
+    "composer_text_exact": true,
+    "composer_post_enabled": true,
+    "native_video_count": 1,
+    "account_verified": "https://x.com/LeoGuoLabs"
+  },
+  "review_caveat": "The source Quote card still says 12 days from bankruptcy; this exact countdown is unverified and is omitted from our commentary.",
+  "authorization": {
+    "preparation": "Bare source link under project working agreement",
+    "publication": "Not authorized yet. Current AGENTS.md requires confirmation and records the later 2026-10-28 no-auto-publish correction."
+  },
+  "submitted": false,
+  "scheduled": false,
+  "published_url": null,
+  "publicly_verified": false,
+  "evidence": [
+    "research/verification.md",
+    "review/composer-check.json",
+    "review/composer.png",
+    "review/local-playback.json",
+    "media/ffprobe.json",
+    "media/decode-check.log",
+    "media/download-manifest.json"
+  ]
+}
