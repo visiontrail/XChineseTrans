@@ -1,0 +1,6 @@
+# Publication and media verification
+
+- Published: https://x.com/LeoGuoLabs/status/2115257775119106306 at 2026-10-28 09:42 Singapore time.
+- Native Quote target: https://x.com/Google/status/2115114426827501782; public page shows Google quote and 2:27 video. Public page checked full text and account; browser playback advanced from 5.95 to 8.36 seconds without error.
+- Source video 1: https://x.com/sundarpichai/status/2115115252690145519; 720p source https://video.twimg.com/amplify_video/2115114850510897152/vid/avc1/1280x720/zZ1B9kvOaw8PWGwO.mp4?tag=29, retrieved 2026-10-28 09:40–09:42 Singapore time. 8,749,292 bytes; SHA-256 75638fda924c36484de84438e321caf79086b4e77d7ca3e0c707e1a2f2302020; H.264/AAC, 1280x720, 50.033 seconds; complete ffmpeg decode succeeded. The 480p copy was also decoded and sampled visually.
+- Source video 2: https://x.com/Google/status/2115114426827501782; source https://video.twimg.com/amplify_video/2115111546174992384/vid/avc1/480x270/mbz_I27T_tQj4rhj.mp4?tag=29, retrieved 2026-10-28 09:41–09:42 Singapore time. 2,895,671 bytes; SHA-256 3054538b693f4d0a7c8dfe06a848108d3dc23e853709199bab97f0d808680966; H.264/AAC, 480x270, 147.243 seconds; complete ffmpeg decode succeeded and frames sampled throughout. Higher-resolution downloads timed out; complete copies retained at the available resolutions. Audio was not independently listened to.
