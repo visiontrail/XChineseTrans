@@ -5,11 +5,12 @@
   "quote_target": "https://x.com/ArtificialAnlys/status/2115265133467635877",
   "format": "native_quote",
   "destination": "@LeoGuoLabs",
-  "state": "prepared_awaiting_user_confirmation",
+  "state": "scheduled_in_x",
   "authorization": {
     "preparation": true,
-    "publication": false,
-    "basis": "Current AGENTS.md explicitly records the 2026-10-28 correction: do not publish automatically; await approval. Older direct-publish authorization is superseded."
+    "publication": true,
+    "user_instruction": "确认发布这版。在X上设置发布时间，美国西部时间早晨7点44分发布",
+    "scope": "Approved post-en-v1.txt as native Quote of the original, scheduled via X for the next America/Los_Angeles 07:44."
   },
   "copy_path": "post-en-v1.txt",
   "media": {
@@ -57,14 +58,40 @@
     "post_button_enabled": true,
     "quoted_chart_visible": true,
     "extra_attachments": 0,
-    "submitted": false
+    "submitted": true,
+    "scheduled_queue_verified": true
   },
   "published_url": null,
   "composer": {
     "checked_at": "2026-10-28T19:58:20.709044+08:00",
     "browser": "Ego Lite via Computer Use browser connection; native app tab correlation verified",
     "screenshot": "composer-review.png",
-    "left_open_for_review": true,
+    "left_open_for_review": false,
     "notes": "Native Quote retains official source chart. Complete two-paragraph copy accepted; accessibility innerText adds an extra block separator, while the 369-character composer count matches the saved copy. No Post action taken."
+  },
+  "schedule": {
+    "platform": "X native scheduled posts",
+    "submitted_at": "2026-10-28T20:22:29.018800+08:00",
+    "requested_timezone": "America/Los_Angeles",
+    "scheduled_at_pacific": "2026-10-28T07:44:00-07:00",
+    "timezone_abbreviation": "PDT",
+    "scheduled_at_singapore": "2026-10-28T22:44:00+08:00",
+    "scheduled_at_utc": "2026-10-28T14:44:00+00:00",
+    "ui_timezone": "Singapore Standard Time",
+    "ui_confirmation": "Will send on Wed, Oct 28, 2026 at 10:44 PM",
+    "queue_verified": true,
+    "queue_url": "https://x.com/compose/post/unsent/scheduled",
+    "quote_target_in_queue": "https://x.com/ArtificialAnlys/status/2115265133467635877",
+    "evidence": [
+      "schedule-ready.png",
+      "scheduled-queue.png"
+    ]
+  },
+  "verification_followup": {
+    "type": "one-time thread heartbeat",
+    "automation_id": "aa-v5-quote",
+    "scheduled_local": "2026-10-28T22:49:00+08:00",
+    "status": "active",
+    "purpose": "Verify the actual published URL, complete approved copy and native quoted chart; never republish."
   }
 }
