@@ -1,5 +1,5 @@
 {
-  "state": "pending_review",
+  "state": "publicly_verified",
   "format": "standalone",
   "source": "https://x.com/leo114119/status/2115444978222612718",
   "official_agenda": "https://www.alibabacloud.com/en/apsara-conference-amsterdam?_p_lc=1",
@@ -9,6 +9,10 @@
   ],
   "alt": "Alibaba Cloud's Apsara Conference agenda lists Xudong Guo's Qwen: Towards Real-World Agents session at 9:45–10:00 a.m. Amsterdam time.",
   "verification": "Live official agenda inspected 2026-10-28 Asia/Singapore: Qwen session 09:45–10:00 on October 29. Europe/Amsterdam UTC+1 to America/Los_Angeles UTC-7 = 01:45–02:00 PDT on October 29. Search-engine cached official agenda differed; live page matched source image. Official agenda does not specify a Qwen 4 announcement. Livestream availability not confirmed. Revised for multiple time zones using IANA tzdata: New York 04:45–05:00 EDT, Shanghai and Singapore 16:45–17:00 UTC+8; all October 29.",
-  "public_url": null,
-  "previous_draft": "draft-pacific-v1.md"
+  "public_url": "https://x.com/LeoGuoLabs/status/2115450308046561685",
+  "previous_draft": "draft-pacific-v1.md",
+  "approval": "Confirmed by user after review of multi-timezone draft and image.",
+  "published_at_display": "2026-10-28 22:27 Asia/Singapore",
+  "verified_at": "2026-10-28T22:27:20+08:00",
+  "publication_verification": "X post page verified account, full text, event URL, image and alt text. First submission returned an error; profile was checked for duplicates before retry. Second submission returned success and public post was inspected."
 }
