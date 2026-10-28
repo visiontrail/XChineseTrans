@@ -1,0 +1,70 @@
+{
+  "topic": "Artificial Analysis Intelligence Index v5",
+  "prepared_at": "2026-10-28T19:55:33.598122+08:00",
+  "source_url": "https://x.com/alchainhust/status/2115367068120092697",
+  "quote_target": "https://x.com/ArtificialAnlys/status/2115265133467635877",
+  "format": "native_quote",
+  "destination": "@LeoGuoLabs",
+  "state": "prepared_awaiting_user_confirmation",
+  "authorization": {
+    "preparation": true,
+    "publication": false,
+    "basis": "Current AGENTS.md explicitly records the 2026-10-28 correction: do not publish automatically; await approval. Older direct-publish authorization is superseded."
+  },
+  "copy_path": "post-en-v1.txt",
+  "media": {
+    "mode": "preserve native quoted media",
+    "additional_attachments": [],
+    "quoted_images": [
+      {
+        "order": 1,
+        "path": "official-index-chart.jpg",
+        "observed_url": "https://pbs.twimg.com/media/HVrubbmaoAA_Kry?format=jpg&name=medium",
+        "download_method": "Ego Lite connected browser locator.downloadMedia",
+        "bytes": 100264,
+        "sha256": "ddbeef21df9d716461d9751ce834ef9214d85a28eb79064a2bf781a797f65dfd"
+      }
+    ],
+    "videos": [],
+    "alt": "No new image attachment. The quoted original and its existing accessibility metadata are preserved; ALT of another account's image cannot be edited."
+  },
+  "research": {
+    "source_original_text": "AA的智能指数评分升级到了V5版本。这个调整挺好，我甚至觉得每次只有在benchmark题目变更的时候，跑出来的结果才是真正有效的。可以让之前针对跑分优化的模型无处遁形。",
+    "primary_sources": [
+      "https://x.com/ArtificialAnlys/status/2115265133467635877",
+      "https://x.com/ArtificialAnlys/status/2115265138119102648",
+      "https://artificialanalysis.ai/methodology/intelligence-benchmarking",
+      "https://artificialanalysis.ai/es/articles/artificial-analysis-intelligence-index-v5"
+    ],
+    "verified_claim": "v5 assigns 60% of index weight to evaluations with private test sets or held-out answers. Methodology table: AA-Briefcase 15 + AutomationBench-AA 5 + FrontierCode 2.0 15 + CritPt hard subset 10 + AA-Omniscience 15 = 60%. This does not mean 60% of question counts or all private tasks.",
+    "editorial_judgment": "Fresh/held-out evaluation can help check transfer beyond familiar tests; ranking changes alone cannot establish benchmark gaming or contamination. Do not assert that existing benchmark results are all invalid.",
+    "scope": "Short Quote commentary about evaluation design. No model score, price, open-weight-release, or superiority claims in commentary.",
+    "media_inspection": "Official source chart viewed full screen. The Next slide control moved into a different continuation post; the selected original has one image. English source chart retained in native Quote; no recreation or extra attachment. No relevant video in selected source.",
+    "access": "Live authenticated Ego Lite session shows @LeoGuoLabs. Initial unauthenticated web open returned 403; live source and official methodology were accessible."
+  },
+  "checks": {
+    "source_original_language": true,
+    "original_quote_target_traced": true,
+    "official_methodology_checked": true,
+    "media_visually_inspected": true,
+    "composer_checked": true,
+    "published": false,
+    "account_verified": "@LeoGuoLabs",
+    "native_quote_target_verified": true,
+    "full_copy_accepted": true,
+    "characters": 369,
+    "remaining_characters": 24631,
+    "post_button_enabled": true,
+    "quoted_chart_visible": true,
+    "extra_attachments": 0,
+    "submitted": false
+  },
+  "published_url": null,
+  "composer": {
+    "checked_at": "2026-10-28T19:58:20.709044+08:00",
+    "browser": "Ego Lite via Computer Use browser connection; native app tab correlation verified",
+    "screenshot": "composer-review.png",
+    "left_open_for_review": true,
+    "notes": "Native Quote retains official source chart. Complete two-paragraph copy accepted; accessibility innerText adds an extra block separator, while the 369-character composer count matches the saved copy. No Post action taken."
+  }
+}

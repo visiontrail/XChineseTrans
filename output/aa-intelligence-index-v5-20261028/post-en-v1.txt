@@ -1,0 +1,3 @@
+A leaderboard gets much more interesting when the questions change. Intelligence Index v5 now puts 60% of its weight on evaluations with private test sets or held-out answers.
+
+That helps test whether gains carry over to unfamiliar tasks. A ranking shift alone doesn't prove anyone gamed the old tests, but familiar benchmarks shouldn't be the final word on capability.
