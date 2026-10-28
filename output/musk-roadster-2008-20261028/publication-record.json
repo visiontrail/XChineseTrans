@@ -1,5 +1,5 @@
 {
-  "status": "prepared_awaiting_confirmation",
+  "status": "scheduled_native_x_verified",
   "prepared_at": "2026-10-28T20:02:34.924978+08:00",
   "destination": "@LeoGuoLabs",
   "supplied_source": "https://x.com/huxlab/status/2115353978167046242",
@@ -34,15 +34,17 @@
     "composer_text_exact": true,
     "composer_post_enabled": true,
     "native_video_count": 1,
-    "account_verified": "https://x.com/LeoGuoLabs"
+    "account_verified": "https://x.com/LeoGuoLabs",
+    "scheduled_queue_verified": true,
+    "saved_schedule_copy_exact": true
   },
   "review_caveat": "The source Quote card still says 12 days from bankruptcy; this exact countdown is unverified and is omitted from our commentary.",
   "authorization": {
     "preparation": "Bare source link under project working agreement",
-    "publication": "Not authorized yet. Current AGENTS.md requires confirmation and records the later 2026-10-28 no-auto-publish correction."
+    "publication": "User explicitly approved the prepared version and requested X native scheduling for October 29, 2026 at 7:00 PM US Pacific time, with no further confirmation."
   },
-  "submitted": false,
-  "scheduled": false,
+  "submitted": true,
+  "scheduled": true,
   "published_url": null,
   "publicly_verified": false,
   "evidence": [
@@ -52,6 +54,32 @@
     "review/local-playback.json",
     "media/ffprobe.json",
     "media/decode-check.log",
-    "media/download-manifest.json"
-  ]
+    "media/download-manifest.json",
+    "review/schedule-settings.json",
+    "review/schedule-settings.png",
+    "review/schedule-pre-submit.json",
+    "review/scheduled-queue.json",
+    "review/scheduled-detail.json",
+    "review/scheduled-detail.png"
+  ],
+  "submission_kind": "native_x_schedule",
+  "published": false,
+  "schedule": {
+    "mechanism": "X native scheduler",
+    "requested_timezone": "America/Los_Angeles",
+    "requested_local": "2026-10-29T19:00:00-07:00",
+    "timezone_abbreviation": "PDT",
+    "browser_timezone": "Asia/Singapore",
+    "browser_local": "2026-10-30T10:00:00+08:00",
+    "utc": "2026-10-30T02:00:00Z",
+    "unix_timestamp": 1793325600,
+    "displayed_label": "Will send on Fri, Oct 30, 2026 at 10:00 AM",
+    "queue_url": "https://x.com/compose/post/unsent/scheduled",
+    "matching_queue_rows": 1,
+    "verified_at": "2026-10-28T12:08:53.788Z",
+    "exact_saved_text_verified": true,
+    "quote_target_verified": true,
+    "native_video_count": 1
+  },
+  "public_verification_note": "Scheduled in X and verified in its queue. Not yet published. User requested scheduling only; no separate recurring monitor was created."
 }

@@ -24,4 +24,8 @@ Prepared 2026-10-28 (Asia/Singapore).
 - No new image is needed. Image ALT is not applicable to this video-only Quote.
 
 ## Publication state
-Prepared and awaiting user confirmation. Nothing submitted or scheduled. The current AGENTS.md explicitly records the user's 2026-10-28 correction not to publish automatically, superseding the earlier direct-publication preference. Preserve the prepared Quote for review. No public URL exists yet.
+Initially prepared for confirmation. The user then explicitly approved this version and requested X native scheduling for October 29, 2026 at 7:00 PM US Pacific time, without another confirmation.
+
+Scheduled through the live X interface and verified in the saved queue: 2026-10-29 19:00 PDT (America/Los_Angeles, UTC−07:00), equivalent to 2026-10-30 10:00 Singapore time and 2026-10-30 02:00 UTC. One matching queue entry retains the exact Quote target. Reopened the saved item and verified both paragraphs via DraftJS block text, the native Quote card and one inherited video. No wording or media changes.
+
+Current state: scheduled, not yet published; no public URL exists. The user asked only to set the native schedule, so no separate monitoring automation was created. Evidence is in review/schedule-*.json, review/scheduled-*.json and the matching PNG captures.
