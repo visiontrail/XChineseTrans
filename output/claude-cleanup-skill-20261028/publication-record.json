@@ -20,10 +20,16 @@
     "upstream_tests_read": true,
     "runtime_test": "not performed",
     "installed_or_executed_cleanup": false,
-    "composer": "Full text exactly matches draft.md; 539 characters including the supplied URL; Post enabled on @LeoGuoLabs. No native GitHub link card was rendered. Saved as an X draft without submission.",
+    "composer": "Revised text exactly matches draft.md; only the first sentence plus the supplied GitHub URL, 186 characters total. Post enabled on @LeoGuoLabs. Updated the existing X draft without submission.",
     "composer_evidence": "composer-check.json",
     "x_draft_saved": true,
     "publication_submitted": false
   },
-  "url": null
+  "url": null,
+  "revision": {
+    "instruction": "只保留第一句话就行",
+    "change": "Keep only the previously shown first sentence plus the requested GitHub link.",
+    "superseded_draft": "draft-v1.md",
+    "superseded_composer_evidence": "composer-check-v1.json"
+  }
 }
