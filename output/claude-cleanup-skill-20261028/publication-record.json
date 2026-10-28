@@ -1,0 +1,29 @@
+{
+  "source": "https://github.com/suyuan2022/suyuan-skill/tree/423473db6b618c7e040f1a5a6879bc83e69e8b3b/claude-cleanup",
+  "source_commit": "423473db6b618c7e040f1a5a6879bc83e69e8b3b",
+  "date": "2026-10-28",
+  "timezone": "Asia/Singapore",
+  "account": "LeoGuoLabs",
+  "format": "standalone",
+  "draft": "draft.md",
+  "media": [],
+  "research": "research.md",
+  "state": "awaiting_final_confirmation",
+  "authorization": {
+    "request": "请你发个推，推荐这个skill",
+    "final_review_required": true,
+    "reason": "Current AGENTS.md explicitly records a newer 2026-10-28 default requiring final confirmation; no task-specific waiver was given."
+  },
+  "checks": {
+    "skill_read": true,
+    "implementation_read": true,
+    "upstream_tests_read": true,
+    "runtime_test": "not performed",
+    "installed_or_executed_cleanup": false,
+    "composer": "Full text exactly matches draft.md; 539 characters including the supplied URL; Post enabled on @LeoGuoLabs. No native GitHub link card was rendered. Saved as an X draft without submission.",
+    "composer_evidence": "composer-check.json",
+    "x_draft_saved": true,
+    "publication_submitted": false
+  },
+  "url": null
+}
