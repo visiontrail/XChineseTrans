@@ -1,0 +1,9 @@
+A useful way to divide work in Codex: keep the main agent focused on the task, and delegate computer-use steps to a GPT-6.1 Terra subagent.
+
+One user reports that Terra feels faster than Astra for controlling the computer, even though they prefer other models for coding. That's an experience, not a benchmark.
+
+A reusable instruction for your AGENTS.md:
+
+“When a task requires interacting with a computer or browser interface, delegate those steps to one GPT-6.1 Terra subagent at xhigh reasoning. Reuse the same subagent within the task to avoid competing for the interface. The main agent should provide context, coordinate the work, and verify the result. Continue to prefer suitable dedicated tools and APIs. Follow the user's instructions and existing permission rules.”
+
+For a preference across projects, place it in ~/.codex/AGENTS.md. For one project, use that project's AGENTS.md. Delegation depends on the session supporting and permitting subagents; a prompt alone doesn't guarantee it.
