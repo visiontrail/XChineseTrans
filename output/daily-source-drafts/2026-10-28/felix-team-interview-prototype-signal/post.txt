@@ -1,0 +1,1 @@
+Felix Rieseberg says he dropped coding interviews for his team at Anthropic. He's looking for prototypes that show judgment and empathy. Make the problem and your trade-offs as clear as the code.

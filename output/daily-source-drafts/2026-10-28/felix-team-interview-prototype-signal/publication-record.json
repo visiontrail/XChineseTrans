@@ -1,0 +1,29 @@
+{
+  "status": "published_verified",
+  "account": "@LeoGuoLabs",
+  "format": "native_quote_post",
+  "published_url": "https://x.com/LeoGuoLabs/status/2115334247469002923",
+  "published_display_time": "2:46 PM · Oct 28, 2026 (Asia/Singapore)",
+  "verified_at_utc": "2026-10-28T06:47:20Z",
+  "quote_target": "https://x.com/felixrieseberg/status/2115200995546566910",
+  "source_article": "https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/",
+  "source_scope": "Felix describes his own team, not a company-wide Anthropic hiring policy. The final sentence is original editorial advice.",
+  "body": "Felix Rieseberg says he dropped coding interviews for his team at Anthropic. He's looking for prototypes that show judgment and empathy. Make the problem and your trade-offs as clear as the code.",
+  "media": [],
+  "approval": {
+    "message_id": "Sentinel_ba50172b26248191a773569ea2d793a3",
+    "instruction": "发布这个",
+    "scope": "Exact three-sentence body, native Quote format from reviewed proposal."
+  },
+  "review_message_id": "Sentinel_27aab32132dc8191b917c035e07a4f17",
+  "verification": [
+    "Authenticated profile showed @LeoGuoLabs and Edit profile before publication.",
+    "Recent profile entries checked; no matching draft appeared after its review.",
+    "Composer accepted exact body and displayed Felix's native quoted post.",
+    "Opened published permalink and verified full body and account.",
+    "Clicked embedded quote on published post and verified exact target URL."
+  ],
+  "category": "other_tech_ai_engineering",
+  "delivery_count_note": "Existing Oct28 review delivery; publication does not add a new draft delivery.",
+  "continuity_note": "Previous local project directory was absent; this record covers only this explicitly approved publication. No deleted drafts or unrelated history restored."
+}
