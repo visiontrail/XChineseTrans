@@ -1,0 +1,19 @@
+{
+  "status": "pending_user_confirmation",
+  "account": "@LeoGuoLabs",
+  "format": "standalone",
+  "source": "https://x.com/leo114119/status/2115410561320063462",
+  "source_media_origin": "https://x.com/kimmonismus/status/2115407720044224524",
+  "format_reason": "The supplied post embeds an image attributed to another post, not a native quoted post.",
+  "media": "trump-truth-social-source.jpg",
+  "media_provenance": "Third-party screenshot of Trump Truth Social statement, retrieved from X source media; not a fresh capture from Truth Social.",
+  "media_sha256": "61cf32af7516dbc8cf134d08f6a0a9cdb518ec96db29def5b44e4b7b3155a3de",
+  "alt": "Screenshot of Donald Trump’s October 27 Truth Social post saying he plans to ban the term AI and use “Super Intelligence” instead.",
+  "evidence": [
+    "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
+    "https://www.reuters.com/world/trump-says-he-will-ban-term-artificial-intelligence-2026-10-27/"
+  ],
+  "fact_notes": "Trump described a future ban; EO 14434 directs executive agencies to substitute SI in specified non-statutory documents to the maximum extent permitted by law, and does not require alteration of historical records. The image origin post overstates current scope.",
+  "composer": "Complete text, image and ALT accepted in @LeoGuoLabs composer; save selected; no submission.",
+  "publication_url": null
+}
