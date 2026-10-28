@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1600" viewBox="0 0 1600 1600">
+<rect width="1600" height="1600" fill="#FDFBF7"/>
+<g transform="translate(0 160)" font-family="Inter, Arial, sans-serif" fill="#1A4A3A">
+<text x="100" y="118" font-size="27" letter-spacing="2" fill="#80601B">DEEPSEEK × ASCEND</text>
+<text x="100" y="203" font-size="64" font-weight="600">Where software finds speed</text>
+<text x="100" y="256" font-size="29" fill="#426454">Three ways to reduce overhead around AI computation</text>
+<path d="M100 300H1500" stroke="#D4AF37" stroke-width="2"/>
+<text x="100" y="382" font-size="28" fill="#80601B">01</text><text x="185" y="382" font-size="37" font-weight="600">Move data more efficiently</text>
+<text x="185" y="433" font-size="27" fill="#426454">FlashMLA places cached values and scales together,</text><text x="185" y="470" font-size="27" fill="#426454">reducing separate transfer requests on Ascend.</text>
+<path d="M100 515H1500" stroke="#cbd7cc"/>
+<text x="100" y="587" font-size="28" fill="#80601B">02</text><text x="185" y="587" font-size="37" font-weight="600">Overlap loading and computation</text>
+<text x="185" y="638" font-size="27" fill="#426454">TileLang can schedule the next data load while the</text><text x="185" y="675" font-size="27" fill="#426454">current tile is being processed.</text>
+<path d="M100 720H1500" stroke="#cbd7cc"/>
+<text x="100" y="792" font-size="28" fill="#80601B">03</text><text x="185" y="792" font-size="37" font-weight="600">Coordinate experts across chips</text>
+<text x="185" y="843" font-size="27" fill="#426454">DeepEP adapts expert communication for Ascend;</text><text x="185" y="880" font-size="27" fill="#426454">compute and communication still share resources.</text>
+<path d="M100 941H1500" stroke="#D4AF37" stroke-width="2"/>
+<text x="100" y="1005" font-size="29" font-weight="600">What the measurement actually shows</text>
+<text x="100" y="1052" font-size="26" fill="#426454">Up to 40% less time for one operation in a 950PR test.</text>
+<text x="100" y="1090" font-size="26" fill="#426454">That is not a measured end-to-end model speedup.</text>
+<text x="100" y="1155" font-size="20" fill="#426454">Source: SemiAnalysis, Oct 21, 2026</text><text x="1500" y="1155" text-anchor="end" font-size="22">LeoGuoLabs</text>
+</g></svg>
