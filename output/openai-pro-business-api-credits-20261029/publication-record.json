@@ -1,5 +1,5 @@
 {
-  "status": "awaiting_user_confirmation",
+  "status": "publicly_verified",
   "account": "@LeoGuoLabs",
   "format": "native_quote",
   "source": "https://x.com/dotey/status/2115591064073413118",
@@ -14,9 +14,14 @@
     "sha256": "b80af2779ce8e02335beb664158b5794a7b143bdf6896e3b6d084cebec374727",
     "duration_seconds": 145.130667,
     "resolution": "1280x720",
-    "codecs": ["h264", "aac"],
+    "codecs": [
+      "h264",
+      "aac"
+    ],
     "checks": "Eight HTTP 206 ranges checked for exact Content-Range and byte count before assembly; full ffmpeg decode completed without errors; beginning, middle and end frames inspected. Source post video observed playing in X. No subjective audio review."
   },
-  "composer": "Complete copy and target card present; account @LeoGuoLabs; post enabled; not submitted.",
-  "published_url": null
+  "composer": "Before submission: complete copy and target card present; account @LeoGuoLabs; Post enabled.",
+  "published_url": "https://x.com/LeoGuoLabs/status/2115688064567902651",
+  "authorization": "User confirmed publication on 2026-10-29.",
+  "verification": "Reopened actual public X page; @LeoGuoLabs and complete text matched approved copy. Native quote card navigated to the intended OpenAI Developers post. Embedded video progressed from 7.059 to 8.084 seconds without a reported error."
 }
