@@ -1,5 +1,5 @@
 {
-  "status": "pending_user_confirmation",
+  "status": "publicly_verified",
   "account": "@LeoGuoLabs",
   "format": "native_quote_post",
   "supplied_source": "https://x.com/sleepy0x13/status/2115374386496901424",
@@ -8,5 +8,8 @@
   "text_file": "post-en.txt",
   "media": "Reuters original post's native news link card; no separate attachment or relevant source video",
   "checks": "Read source in original Chinese and opened the Reuters quote target. Reuters' October 28 report cites anonymous sources for yield, samples and expected limited-production timeline. CXMT did not respond and SK Hynix did not immediately comment on its yield estimate. X quote composer accepted the complete text and displayed the Reuters card; post button enabled. Save was selected in the composer; draft persistence was not independently verified.",
-  "published_url": null
+  "published_url": "https://x.com/LeoGuoLabs/status/2115686749351661840",
+  "authorization": "User confirmed publication after reviewing the English copy and quote target.",
+  "published_at": "2026-10-29 14:06 Asia/Singapore",
+  "verification": "Opened the published post in the authenticated X session and checked account, complete text and native Reuters quote card; opened the card and verified the exact target URL. No separate media was attached."
 }
