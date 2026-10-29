@@ -1,0 +1,7 @@
+Your ChatGPT subscription can now help fund the apps you build.
+
+Eligible Pro subscribers can claim $100, $200, or $500 in monthly API credits, depending on their plan. Business credits are pooled across paid seats, up to $500 per workspace per month. Plus isn’t eligible.
+
+Claim the benefit in Settings → Billing and link an API organization you own. Your subscription must be at least seven days old, and the first grant is prorated.
+
+Credits expire at the end of the billing cycle. They don’t increase ChatGPT or signed-in Codex limits, and can’t be used for Codex via API key.

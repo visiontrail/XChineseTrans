@@ -1,0 +1,22 @@
+{
+  "status": "awaiting_user_confirmation",
+  "account": "@LeoGuoLabs",
+  "format": "native_quote",
+  "source": "https://x.com/dotey/status/2115591064073413118",
+  "quote_target": "https://x.com/OpenAIDevs/status/2115583698074755078",
+  "text": "post-en.txt",
+  "media": {
+    "mode": "original video retained in quote card; no duplicate upload",
+    "local_file": "openai-original-720p.mp4",
+    "source_url": "https://video.twimg.com/amplify_video/2115583492662988800/vid/avc1/1280x720/eyoeqPdUNdGCMXtH.mp4?tag=16",
+    "retrieved": "2026-10-29 Asia/Singapore",
+    "bytes": 9237213,
+    "sha256": "b80af2779ce8e02335beb664158b5794a7b143bdf6896e3b6d084cebec374727",
+    "duration_seconds": 145.130667,
+    "resolution": "1280x720",
+    "codecs": ["h264", "aac"],
+    "checks": "Eight HTTP 206 ranges checked for exact Content-Range and byte count before assembly; full ffmpeg decode completed without errors; beginning, middle and end frames inspected. Source post video observed playing in X. No subjective audio review."
+  },
+  "composer": "Complete copy and target card present; account @LeoGuoLabs; post enabled; not submitted.",
+  "published_url": null
+}
