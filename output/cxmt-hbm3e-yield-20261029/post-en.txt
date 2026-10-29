@@ -1,0 +1,3 @@
+CXMT reportedly plans limited HBM3E production within two months, even with yields around 20–30%. Samples have gone to Chinese AI chip designers.
+
+A fast GPU is only part of the equation. Without enough HBM, scaling AI compute gets much harder—and improving yield will determine how far this supply can go.
