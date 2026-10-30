@@ -1,12 +1,14 @@
 {
-  "status": "awaiting_user_confirmation",
+  "status": "publicly_verified",
   "account": "@LeoGuoLabs",
   "format": "native quote post",
   "supplied_source": "https://x.com/jakevin7/status/2116023598825582672",
   "quote_target": "https://x.com/jakevin7/status/2115735819231346718",
   "project": "https://github.com/jackwener/DeepseekHarness-Android",
-  "copy": "draft.md",
+  "copy": "draft-approved.md",
   "media": "Three original app screenshots in the quoted post; no separate attachments.",
-  "checks": "Read source and original release post; repository README checked for capabilities, Android 10+ arm64, community status and no-root setup. Native quote composer accepted full text and displayed target card. Application not tested on a device.",
-  "published_url": null
+  "checks": "Reopened the published X post in the authenticated browser. Verified @LeoGuoLabs, exact approved text, native quote target, and three original media links. Application not tested on a device.",
+  "published_url": "https://x.com/LeoGuoLabs/status/2116047963747418362",
+  "authorization": "User supplied revised text and explicitly requested publication on 2026-10-30.",
+  "published_at": "2026-10-30 14:02 Asia/Singapore"
 }
