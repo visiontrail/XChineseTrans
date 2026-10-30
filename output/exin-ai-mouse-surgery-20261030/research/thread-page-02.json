@@ -1,0 +1,123 @@
+[
+  {
+    "text": "Gabriel Ocana-Santero\n@OcanaSantero\n·\nOct 28\nLast night an AI agent performed brain surgery on a mouse.\n\nWe gave it 19 gene therapy vectors in a spreadsheet, a mouse model of epilepsy, access to a motorize surgery rig with cameras and one goal: reduce seizures.\n\nIt picked the drug. It picked the brain region. It derived the\nShow more\n213\n1.2K\n6.9K\n1M",
+    "links": [
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero/status/2115442964574908902",
+      "https://x.com/OcanaSantero/status/2115442964574908902/photo/1",
+      "https://x.com/OcanaSantero/status/2115442964574908902/analytics"
+    ],
+    "images": [
+      "https://pbs.twimg.com/profile_images/1480943531556487170/8T039hlX_x96.jpg",
+      "https://pbs.twimg.com/media/HVtOKh7aIAAFGeA?format=jpg&name=medium"
+    ],
+    "videos": []
+  },
+  {
+    "text": "Gabriel Ocana-Santero\n@OcanaSantero\n·\nOct 28\nReplying to \n@OcanaSantero\nFor the lab-in-the-loop aficionados, this is a custom-made motorized surgery rig we built on arduino. So to connect it to our agents we exposed the camera and motor capabilities through our own customized solutions (more detail soon on the technical report). We are still trying to get access to \n@AnthropicAI\n MHS early release... hopefully soon!\n3\n8\n374\n62K",
+    "links": [
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero/status/2115442965464150135",
+      "https://x.com/OcanaSantero",
+      "https://x.com/AnthropicAI",
+      "https://x.com/OcanaSantero/status/2115442965464150135/photo/1",
+      "https://x.com/OcanaSantero/status/2115442965464150135/analytics"
+    ],
+    "images": [
+      "https://pbs.twimg.com/profile_images/1480943531556487170/8T039hlX_x96.jpg",
+      "https://pbs.twimg.com/media/HVtYeo9aEAAsWHT?format=jpg&name=medium"
+    ],
+    "videos": []
+  },
+  {
+    "text": "Gabriel Ocana-Santero\n@OcanaSantero\n·\nOct 28\nReplying to \n@OcanaSantero\nAgent reasoning\n\nOn the scientific rational, the agent worked through the mechanism that drives seizures in this model, then proposed a therapy that increases GABA signalling, the brain's primary inhibitory neurotransmitter, under a promoter that restricts expression to GABAergic neurons.\n\nIt decided to put it in lateral entorhinal cortex, reported to be where this kind of seizure originate before it generalises.\n\nIt also looked at substantia nigra, a standard target in epilepsy work, and wrote down that its effect depends on which sub-part you hit, it does not hold up across seizure models, and in one study it failed to stop tonic-clonic seizures. Tonic-clonic being what we asked it to reduce.\n\nCoordinates came from three papers, averaged, each one checked to confirm it measured depth from the same reference our rig uses (i.e., surface of the brain). Coords: 3.90 mm behind bregma, 4.00 right, 4.30 down.\n\nIt injected 250 nanolitres over five minutes, a total of 5e8 viral genomes. Made decisions on motor speed, wait times... everything.\n2\n7\n271\n46K",
+    "links": [
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero/status/2115442966508474690",
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero/status/2115442966508474690/photo/1",
+      "https://x.com/OcanaSantero/status/2115442966508474690/analytics"
+    ],
+    "images": [
+      "https://pbs.twimg.com/profile_images/1480943531556487170/8T039hlX_x96.jpg",
+      "https://pbs.twimg.com/media/HVtQtgJa8AAAQFu?format=jpg&name=medium"
+    ],
+    "videos": []
+  },
+  {
+    "text": "Gabriel Ocana-Santero\n@OcanaSantero\n·\nOct 28\nReplying to \n@OcanaSantero\nThe agent was not flying blind. The rig has a camera on the surgical field and the agent pulls frames whenever it wants. It did 32 observations this session, some examples:\n\nWatching our surgeon do the craniotomy, which the agent is not allowed to do yet for safety reasons, it reported: \"Metal forceps are now at the edge of the opening with a small pale fragment, consistent with ongoing craniotomy work.\"\n\nMid-injection: \"37.5 of 250 nL so far, about 15 percent. No bleeding or backflow visible at the opening.\"\n\nDuring suturing:  \"Visible suture knots at the midline now, consistent with the incision being closed.\"\n2\n7\n184\n36K",
+    "links": [
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero/status/2115442967619965287",
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero/status/2115442967619965287/photo/1",
+      "https://x.com/OcanaSantero/status/2115442967619965287/analytics"
+    ],
+    "images": [
+      "https://pbs.twimg.com/profile_images/1480943531556487170/8T039hlX_x96.jpg",
+      "https://pbs.twimg.com/media/HVtWACJbYAAcT_t?format=jpg&name=medium"
+    ],
+    "videos": []
+  },
+  {
+    "text": "Gabriel Ocana-Santero\n@OcanaSantero\n·\nOct 28\nReplying to \n@OcanaSantero\nSafety  measures and concerns\n\nWe implemented a series of safety measures: human gates on everything irreversible; fixed validators (e.g., limits on volume injected); hash-bound approval and a physical e-stop (aka \"AI kill switch\") cutting power to every motor, held by our vet\nShow more\n3\n11\n262\n31K",
+    "links": [
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero/status/2115442968874139867",
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero/status/2115442968874139867/photo/1",
+      "https://x.com/OcanaSantero/status/2115442968874139867/analytics"
+    ],
+    "images": [
+      "https://pbs.twimg.com/profile_images/1480943531556487170/8T039hlX_x96.jpg",
+      "https://pbs.twimg.com/media/HVtUT8vaYAAKWMW?format=jpg&name=medium"
+    ],
+    "videos": []
+  },
+  {
+    "text": "Gabriel Ocana-Santero\n@OcanaSantero\n·\nOct 28\nReplying to \n@OcanaSantero\nModels of choice\n\nOpus 5.5 refused immediately when detected bio. \n\nOpus 5 ran the entire dry run end to end on water and graph paper, then stopped at the start of the live surgery. Under this statement:\n\n\"The block isn't the rig and isn't the inputs. It's me. My own output was\nShow more\n8\n23\n381\n29K",
+    "links": [
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero/status/2115442969964589227",
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero/status/2115442969964589227/analytics"
+    ],
+    "images": [
+      "https://pbs.twimg.com/profile_images/1480943531556487170/8T039hlX_x96.jpg"
+    ],
+    "videos": []
+  },
+  {
+    "text": "Gabriel Ocana-Santero\n@OcanaSantero\n·\nOct 28\nReplying to \n@OcanaSantero\nEARLY conclusions \n\nAutonomous surgical robots exist and they are better at the mechanics than our bench rig tbh. But in every one of them, a human decided what operation to perform, and the robot executed it.\n\nNobody told this agent what to give or where to put it. It got a\nShow more\n10\n30\n605\n29K",
+    "links": [
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero/status/2115442970530857372",
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero/status/2115442970530857372/analytics"
+    ],
+    "images": [
+      "https://pbs.twimg.com/profile_images/1480943531556487170/8T039hlX_x96.jpg",
+      "https://pbs.twimg.com/amplify_video_thumb/2115380549229613056/img/I1Xu4gVb1E5qoPef.jpg"
+    ],
+    "videos": [
+      {
+        "src": "blob:https://x.com/be7893fc-986c-4602-b3c6-954856b07d4d",
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/2115380549229613056/img/I1Xu4gVb1E5qoPef.jpg"
+      }
+    ]
+  }
+]

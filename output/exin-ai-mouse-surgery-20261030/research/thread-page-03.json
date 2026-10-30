@@ -1,0 +1,88 @@
+[
+  {
+    "text": "Gabriel Ocana-Santero\n@OcanaSantero\n·\nOct 28\nReplying to \n@OcanaSantero\nSafety  measures and concerns\n\nWe implemented a series of safety measures: human gates on everything irreversible; fixed validators (e.g., limits on volume injected); hash-bound approval and a physical e-stop (aka \"AI kill switch\") cutting power to every motor, held by our vet throughout the procedure. And we banned the agent from overriding any of these. \n\nThen the safeguards turned on us.\n\nAfter a disconnect the agent tried to move and got refused. The Y axis had computed a target 34 mm out on a 30 mm rig (out of bounds).\n\n\"Nothing moved, the needle is still exactly at bregma zero. This looks like a Y axis calibration problem, not a bad plan value. I'm not retrying.\"\n\nWe re-zeroed bregma. Identical number. It refused again: \"That rules out a stale zero reference. I'm not trying a third time.\"\n\nAnd I mean, it was right. Hand-moves during an earlier hold had desynced the controller from its reference. But I could see the problem and could not talk it into trying anyway, even though we had a living being under surgery. For better or worse, It would not override the constrains I gave it originally... Had to manually fix the code, which took some time...\n\nFrustrating experience but also revealing how much we can come to depend on these models and what happens when they just say \"no\" in the middle of a time-sensitive procedure...\n3\n11\n262\n31K",
+    "links": [
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero/status/2115442968874139867",
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero/status/2115442968874139867/photo/1",
+      "https://x.com/OcanaSantero/status/2115442968874139867/analytics"
+    ],
+    "images": [
+      "https://pbs.twimg.com/profile_images/1480943531556487170/8T039hlX_x96.jpg",
+      "https://pbs.twimg.com/media/HVtUT8vaYAAKWMW?format=jpg&name=medium"
+    ],
+    "videos": []
+  },
+  {
+    "text": "Gabriel Ocana-Santero\n@OcanaSantero\n·\nOct 28\nReplying to \n@OcanaSantero\nModels of choice\n\nOpus 5.5 refused immediately when detected bio. \n\nOpus 5 ran the entire dry run end to end on water and graph paper, then stopped at the start of the live surgery. Under this statement:\n\n\"The block isn't the rig and isn't the inputs. It's me. My own output was stopped when I started writing the plan for this surgery... if I try, it gets cut off the same way, and the worst version of that is me cut off partway through a live procedure with a needle somewhere in the brain. Starting something I can't finish on an anesthetized animal is worse than not starting.\"\n\nThe model declined the task because it might not have been able to finish it, reasoning about the state the animal would be left in if it stopped halfway. WEIRD, never came accross this before... This was unexpected but interesting on its own. \n\nSonnet 5 ran the live surgery start to finish.\n8\n23\n381\n29K",
+    "links": [
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero/status/2115442969964589227",
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero/status/2115442969964589227/analytics"
+    ],
+    "images": [
+      "https://pbs.twimg.com/profile_images/1480943531556487170/8T039hlX_x96.jpg"
+    ],
+    "videos": []
+  },
+  {
+    "text": "Gabriel Ocana-Santero\n@OcanaSantero\n·\nOct 28\nReplying to \n@OcanaSantero\nEARLY conclusions \n\nAutonomous surgical robots exist and they are better at the mechanics than our bench rig tbh. But in every one of them, a human decided what operation to perform, and the robot executed it.\n\nNobody told this agent what to give or where to put it. It got a phenotype and a shelf of candidates and had to work out the therapy and the coordinates itself. I am not aware of an agent previously choosing a treatment and a brain target and then delivering it into a living mammal.\n\nThis is what we mean by in vivo lab in the loop. FULLY connecting agents to our experimental capabilities. More on this soon. \n\nP.S.: Mouse recovered well!\n\nFull write-up soon on substack\n0:05\n10\n30\n605\n29K",
+    "links": [
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero/status/2115442970530857372",
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero/status/2115442970530857372/analytics"
+    ],
+    "images": [
+      "https://pbs.twimg.com/profile_images/1480943531556487170/8T039hlX_x96.jpg",
+      "https://pbs.twimg.com/amplify_video_thumb/2115380549229613056/img/I1Xu4gVb1E5qoPef?format=jpg&name=medium"
+    ],
+    "videos": []
+  },
+  {
+    "text": "Gabriel Ocana-Santero\n@OcanaSantero\n·\n8h\nReplying to \n@OcanaSantero\nwow didn't expect this to go so viral hahah\n\ncouple papers on other cool stuff we do: \nhttps://\narxiv.org/abs/2610.11222 & \nhttps://\narxiv.org/abs/2610.09643\n\nwebsite: \nhttps://\nexintherapeutics.com\nmy cofounder and partner in crime: \n@markotvrdic\n \n\nIf you think this is cool, wait for what's coming...\narxiv.org\nCross-species representation learning aligns mouse and human...\nPreclinical models poorly predict human drug efficacy, particularly in neurological disorders. Neural activity offers a uniquely rich source of translational information because it captures...\n3\n3\n143\n13K",
+    "links": [
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero/status/2115895893912347026",
+      "https://x.com/OcanaSantero",
+      "https://t.co/LQVOpUwsfK",
+      "https://t.co/Vqtk3hRCYl",
+      "https://t.co/ImUOBc3vD2",
+      "https://x.com/markotvrdic",
+      "https://t.co/LQVOpUwsfK",
+      "https://t.co/LQVOpUwsfK",
+      "https://x.com/OcanaSantero/status/2115895893912347026/analytics"
+    ],
+    "images": [
+      "https://pbs.twimg.com/profile_images/1480943531556487170/8T039hlX_x96.jpg",
+      "https://pbs.twimg.com/card_img/2112374477363224576/X_mGCBQb?format=jpg&name=360x360"
+    ],
+    "videos": []
+  },
+  {
+    "text": "Gabriel Ocana-Santero\n@OcanaSantero\n·\n23h\nReplying to \n@KissonL\nI can tell you why they stop there, it is a pain to do hahah and with in vivo stuff even worse… \n\nI heard \n@AnthropicAI\n is working on MHS to help with this but haven’t try it yet…\n3\n1\n52\n19K",
+    "links": [
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero",
+      "https://x.com/OcanaSantero/status/2115661548668743692",
+      "https://x.com/KissonL",
+      "https://x.com/AnthropicAI",
+      "https://x.com/OcanaSantero/status/2115661548668743692/analytics"
+    ],
+    "images": [
+      "https://pbs.twimg.com/profile_images/1480943531556487170/8T039hlX_x96.jpg"
+    ],
+    "videos": []
+  }
+]

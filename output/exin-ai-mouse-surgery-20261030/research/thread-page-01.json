@@ -1,0 +1,126 @@
+[
+  {
+    "text": "Gabriel Ocana-Santero\n@OcanaSantero\nLast night an AI agent performed brain surgery on a mouse.\n\nWe gave it 19 gene therapy vectors in a spreadsheet, a mouse model of epilepsy, access to a motorize surgery rig with cameras and one goal: reduce seizures.\n\nIt picked the drug. It picked the brain region. It derived the coordinates from three papers. Then it drove the stereotaxic arms into the brain and injected 250 nanolitres while watching the entry site through the rig camera for bleeding.\n\nA licensed vet gated every irreversible step and held a physical kill switch to stop the AI agent. \n\nThread on what it decided, what it saw, and the moment it refused to let me override it.\n\n[Writing this on the spot out of excitement, but I've been 18hrs in front of my laptop coding and coordinating this, so keeping it brief and descriptive, more cohesive thoughts on this soon...]\n9:58 PM · Oct 28, 2026\n·\n1M\n Views\n213\n1.2K\n6.9K\n3.2K\nRelevant\nView quotes",
+    "links": [
+      {
+        "text": "",
+        "url": "https://x.com/OcanaSantero"
+      },
+      {
+        "text": "Gabriel Ocana-Santero",
+        "url": "https://x.com/OcanaSantero"
+      },
+      {
+        "text": "@OcanaSantero",
+        "url": "https://x.com/OcanaSantero"
+      },
+      {
+        "text": "",
+        "url": "https://x.com/OcanaSantero/status/2115442964574908902/photo/1"
+      },
+      {
+        "text": "9:58 PM · Oct 28, 2026",
+        "url": "https://x.com/OcanaSantero/status/2115442964574908902"
+      },
+      {
+        "text": "1M\n Views",
+        "url": "https://x.com/OcanaSantero/status/2115442964574908902/analytics"
+      },
+      {
+        "text": "View quotes",
+        "url": "https://x.com/OcanaSantero/status/2115442964574908902/quotes"
+      }
+    ],
+    "images": [
+      {
+        "alt": "",
+        "src": "https://pbs.twimg.com/profile_images/1480943531556487170/8T039hlX_x96.jpg"
+      },
+      {
+        "alt": "Image",
+        "src": "https://pbs.twimg.com/media/HVtOKh7aIAAFGeA?format=jpg&name=medium"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "text": "Gabriel Ocana-Santero\n@OcanaSantero\n·\nOct 28\nFor the lab-in-the-loop aficionados, this is a custom-made motorized surgery rig we built on arduino. So to connect it to our agents we exposed the camera and motor capabilities through our own customized solutions (more detail soon on the technical report). We are still trying\nShow more\n3\n8\n374\n62K",
+    "links": [
+      {
+        "text": "",
+        "url": "https://x.com/OcanaSantero"
+      },
+      {
+        "text": "Gabriel Ocana-Santero",
+        "url": "https://x.com/OcanaSantero"
+      },
+      {
+        "text": "@OcanaSantero",
+        "url": "https://x.com/OcanaSantero"
+      },
+      {
+        "text": "Oct 28",
+        "url": "https://x.com/OcanaSantero/status/2115442965464150135"
+      },
+      {
+        "text": "",
+        "url": "https://x.com/OcanaSantero/status/2115442965464150135/photo/1"
+      },
+      {
+        "text": "62K",
+        "url": "https://x.com/OcanaSantero/status/2115442965464150135/analytics"
+      }
+    ],
+    "images": [
+      {
+        "alt": "",
+        "src": "https://pbs.twimg.com/profile_images/1480943531556487170/8T039hlX_x96.jpg"
+      },
+      {
+        "alt": "Image",
+        "src": "https://pbs.twimg.com/media/HVtYeo9aEAAsWHT?format=jpg&name=medium"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "text": "Gabriel Ocana-Santero\n@OcanaSantero\n·\nOct 28\nAgent reasoning\n\nOn the scientific rational, the agent worked through the mechanism that drives seizures in this model, then proposed a therapy that increases GABA signalling, the brain's primary inhibitory neurotransmitter, under a promoter that restricts expression to GABAergic\nShow more\n2\n7\n271\n46K",
+    "links": [
+      {
+        "text": "",
+        "url": "https://x.com/OcanaSantero"
+      },
+      {
+        "text": "Gabriel Ocana-Santero",
+        "url": "https://x.com/OcanaSantero"
+      },
+      {
+        "text": "@OcanaSantero",
+        "url": "https://x.com/OcanaSantero"
+      },
+      {
+        "text": "Oct 28",
+        "url": "https://x.com/OcanaSantero/status/2115442966508474690"
+      },
+      {
+        "text": "",
+        "url": "https://x.com/OcanaSantero/status/2115442966508474690/photo/1"
+      },
+      {
+        "text": "46K",
+        "url": "https://x.com/OcanaSantero/status/2115442966508474690/analytics"
+      }
+    ],
+    "images": [
+      {
+        "alt": "",
+        "src": "https://pbs.twimg.com/profile_images/1480943531556487170/8T039hlX_x96.jpg"
+      },
+      {
+        "alt": "Image",
+        "src": "https://pbs.twimg.com/media/HVtQtgJa8AAAQFu?format=jpg&name=medium"
+      }
+    ],
+    "videos": []
+  }
+]
