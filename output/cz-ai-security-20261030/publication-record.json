@@ -1,5 +1,5 @@
 {
-  "status": "pending_review",
+  "status": "publicly_verified",
   "prepared_at": "2026-10-30T10:36:50.977693+08:00",
   "account": "@LeoGuoLabs",
   "format": "native_quote",
@@ -22,19 +22,52 @@
   "source_media": "CZ target is text-only; no additional media selected.",
   "checks": {
     "quote_target_identified": true,
-    "source_read": "Original text recovered via FxTwitter; live X page title matches author and opening, but timeline remains Loading.",
+    "source_read": "Full original CZ post read live in Ego Lite, including its nested text-only Tree News quote.",
     "ai_involvement": "CZ post does not identify AI involvement; commentary expresses general concern, not an attribution of this incident to AI.",
     "amounts": "Omitted from commentary; intermediary estimates are not treated as confirmed losses.",
-    "composer": "not_checked: Ego Lite X timeline remains Loading. In-app browser timed out, then displayed Something went wrong and a failed vendor script; one Try again retry remained Loading."
+    "composer": "Verified @LeoGuoLabs account, exact approved text, CZ native Quote card, no added media; clicked Post once."
   },
   "approval": {
-    "state": "awaiting_explicit_confirmation",
-    "basis": "AGENTS.md final-review rule; no task-specific waiver given"
+    "state": "approved",
+    "user_message": "确认发布",
+    "recorded_at": "2026-10-30T11:39:01.708989+08:00",
+    "approved_text": "Hard not to worry about where cybersecurity is heading in the AI era.",
+    "approved_quote_target": "https://x.com/cz_binance/status/2115915423174853077",
+    "selected_media": []
   },
-  "published_url": null,
+  "published_url": "https://x.com/LeoGuoLabs/status/2116012494552781254",
   "research_links": [
     "https://apnews.com/article/39cda8ceb8095e036334a18549d3d20d",
     "https://www.axios.com/2026/10/29/binance-cyberattack-crypto-heist"
   ],
-  "research_note": "Search results corroborate the reported incident; no technical cause or loss total is asserted in the one-line commentary."
+  "research_note": "Search results corroborate the reported incident; no technical cause or loss total is asserted in the one-line commentary.",
+  "submitted_at": "2026-10-30T11:41:19.007921+08:00",
+  "source_nested_quote": {
+    "author": "@TreeNewsFeed",
+    "media": [],
+    "note": "CZ himself quotes a text-only Tree News post. User explicitly selected CZ as target; preserved CZ directly."
+  },
+  "public_verification": {
+    "checked_at": "2026-10-30T11:43:21.675970+08:00",
+    "method": "Opened actual public status from the profile in authenticated Ego Lite using the Computer Use browser connector.",
+    "account": "@LeoGuoLabs",
+    "text_exact_match": true,
+    "native_quote_author": "@cz_binance",
+    "native_quote_target": "https://x.com/cz_binance/status/2115915423174853077",
+    "additional_media_count": 0,
+    "displayed_publication_time": "11:41 AM · Oct 30, 2026 (Asia/Singapore)",
+    "screenshots": [
+      {
+        "path": "public-verification.png",
+        "bytes": 38133,
+        "sha256": "0f641f6b68e9e4caf6e85c5b0efa26c49313db13f150b3db6085c3174390ad9b"
+      },
+      {
+        "path": "public-verification-full.png",
+        "bytes": 82726,
+        "sha256": "9343e06591e71301cf3f6a051f4bf1e7b867a4e7efbb66ee2f0d77a882109080"
+      }
+    ]
+  },
+  "submission_count": 1
 }

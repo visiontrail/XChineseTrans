@@ -7,5 +7,10 @@
   "created_at": "Thu Oct 29 21:15:23 +0000 2026",
   "text": "User funds are safe!\n\nIt does look like a hack on Binance. Appreciate the quick freeze from Tether (~$971m) and Circle (~$823m).\n\nI don't manage Binance (.com) anymore, but as a shareholder, I expect all user funds will be fully covered.",
   "media": [],
-  "live_x_check": "Author and opening match the live page title; timeline body did not load."
+  "live_x_check": "Read full CZ post in authenticated Ego Lite on 2026-10-30. CZ includes a nested text-only quote of @TreeNewsFeed. No relevant video or image attachment.",
+  "nested_quote": {
+    "author": "TreeNewsFeed",
+    "text": "[🌲] TETHER FREEZES $971M USDT IN LIKELY BINANCE HACK, WITH NO UPDATE FROM BINANCE STILL",
+    "media": []
+  }
 }
