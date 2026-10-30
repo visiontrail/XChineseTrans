@@ -1,0 +1,240 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/xiaohu/status/2116160658899440096",
+    "id": "2116160658899440096",
+    "text": "马斯克称 ：它让人仅凭思考就能与电脑或他人进行高速沟通。\n\n几年之内，它的输出带宽将大幅超过人类最快的说话或打字速度。”https://xiaohu.ai/article/neuralink-72-hour-speech-hackathon/",
+    "raw_text": {
+      "text": "马斯克称 ：它让人仅凭思考就能与电脑或他人进行高速沟通。\n\n几年之内，它的输出带宽将大幅超过人类最快的说话或打字速度。”https://t.co/amlyWeZGcT https://t.co/wwDhLTGynx",
+      "display_text_range": [
+        0,
+        83
+      ],
+      "facets": [
+        {
+          "type": "url",
+          "indices": [
+            60,
+            83
+          ],
+          "original": "https://t.co/amlyWeZGcT",
+          "replacement": "https://xiaohu.ai/article/neuralink-72-hour-speech-hackathon/",
+          "display": "xiaohu.ai/article/neural…"
+        },
+        {
+          "type": "media",
+          "indices": [
+            84,
+            107
+          ],
+          "id": "2116160377037922304",
+          "display": "pic.x.com/wwDhLTGynx",
+          "original": "https://t.co/wwDhLTGynx",
+          "replacement": "https://x.com/xiaohu/status/2116160658899440096/video/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "xiaohu",
+      "url": "https://x.com/xiaohu",
+      "id": "1764818331822182400",
+      "followers": 126160,
+      "following": 1778,
+      "likes": 2511,
+      "media_count": 7005,
+      "name": "小互",
+      "description": "带你了解全球最前沿科技、AI动态...\n\nhttp://xiaohu.ai",
+      "raw_description": {
+        "text": "带你了解全球最前沿科技、AI动态...\n\nhttps://t.co/4PVaHEqxBv",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              21,
+              44
+            ],
+            "original": "https://t.co/4PVaHEqxBv",
+            "replacement": "http://xiaohu.ai",
+            "display": "xiaohu.ai"
+          }
+        ]
+      },
+      "location": "Mars",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1764818331822182400/1717126346",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1765404718959095808/BX7VN1hS_200x200.jpg",
+      "joined": "Tue Mar 05 01:01:23 +0000 2024",
+      "protected": false,
+      "website": {
+        "url": "http://xiaohu.ai",
+        "display_url": "xiaohu.ai"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 0,
+    "retweets": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "quotes": 1,
+    "created_at": "Fri Oct 30 13:29:52 +0000 2026",
+    "created_timestamp": 1793366992,
+    "possibly_sensitive": false,
+    "views": 1021,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": "xiaohu",
+    "replying_to_status": "2116160656772887014",
+    "media": {
+      "all": [
+        {
+          "id": "2116160377037922304",
+          "url": "https://video.twimg.com/amplify_video/2116160377037922304/vid/avc1/1920x1080/jFG5kk-iR-PxD5Hs.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2116160377037922304/img/i37xrRLa8QP1hSxq.jpg",
+          "duration": 278.5,
+          "width": 1920,
+          "height": 1080,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2116160377037922304/pl/h8anAueJD7zLO7Ae.m3u8?tag=29",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2116160377037922304/vid/avc1/480x270/oWLgcWHEagLMuF-h.mp4?tag=29",
+              "bitrate": 256000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2116160377037922304/vid/avc1/640x360/-mIp503j53f1OUb3.mp4?tag=29",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2116160377037922304/vid/avc1/1280x720/IaOYm90iKGaHsZra.mp4?tag=29",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2116160377037922304/vid/avc1/1920x1080/jFG5kk-iR-PxD5Hs.mp4?tag=29",
+              "bitrate": 10368000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": null,
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2116160377037922304/pl/h8anAueJD7zLO7Ae.m3u8?tag=29",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2116160377037922304/vid/avc1/480x270/oWLgcWHEagLMuF-h.mp4?tag=29",
+              "bitrate": 256000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2116160377037922304/vid/avc1/640x360/-mIp503j53f1OUb3.mp4?tag=29",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2116160377037922304/vid/avc1/1280x720/IaOYm90iKGaHsZra.mp4?tag=29",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2116160377037922304/vid/avc1/1920x1080/jFG5kk-iR-PxD5Hs.mp4?tag=29",
+              "bitrate": 10368000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "id": "2116160377037922304",
+          "url": "https://video.twimg.com/amplify_video/2116160377037922304/vid/avc1/1920x1080/jFG5kk-iR-PxD5Hs.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2116160377037922304/img/i37xrRLa8QP1hSxq.jpg",
+          "duration": 278.5,
+          "width": 1920,
+          "height": 1080,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2116160377037922304/pl/h8anAueJD7zLO7Ae.m3u8?tag=29",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2116160377037922304/vid/avc1/480x270/oWLgcWHEagLMuF-h.mp4?tag=29",
+              "bitrate": 256000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2116160377037922304/vid/avc1/640x360/-mIp503j53f1OUb3.mp4?tag=29",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2116160377037922304/vid/avc1/1280x720/IaOYm90iKGaHsZra.mp4?tag=29",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2116160377037922304/vid/avc1/1920x1080/jFG5kk-iR-PxD5Hs.mp4?tag=29",
+              "bitrate": 10368000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": null,
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2116160377037922304/pl/h8anAueJD7zLO7Ae.m3u8?tag=29",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2116160377037922304/vid/avc1/480x270/oWLgcWHEagLMuF-h.mp4?tag=29",
+              "bitrate": 256000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2116160377037922304/vid/avc1/640x360/-mIp503j53f1OUb3.mp4?tag=29",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2116160377037922304/vid/avc1/1280x720/IaOYm90iKGaHsZra.mp4?tag=29",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2116160377037922304/vid/avc1/1920x1080/jFG5kk-iR-PxD5Hs.mp4?tag=29",
+              "bitrate": 10368000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ]
+    },
+    "twitter_card": "player",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

@@ -1,0 +1,38 @@
+小互
+@xiaohu
+Show translation
+Neuralink 首款产品 Telepathy（心灵感应）：
+用意念指挥 Grok Bot 干活
+
+测试者 Kenneth 在大脑中尝试说出一句话，植入设备会记录相关神经活动，解码模型再把这些信号转换为文字。
+
+文字随后由 Bloom 手机应用合成为声音，也可以送入其他应用，或作为 AI 执行任务的指令。
+
+演示中他们在笔记本电脑上接入了 Grok Bot ，Kenneth通过意念让电脑操作AI Agent执行任务
+0:24
+9:29 PM · Oct 30, 2026
+·
+2,694
+ Views
+11
+2
+8
+3
+Relevant
+View quotes
+
+小互
+@xiaohu
+·
+2h
+Translated from Chinese
+Show original
+Musk said: It allows people to communicate with computers or others at high speed just by thinking.
+
+Within a few years, its output bandwidth will far exceed the fastest human speaking or typing speed. "
+https://
+xiaohu.ai/article/neural
+ink-72-hour-speech-hackathon/
+…
+1
+1K

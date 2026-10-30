@@ -1,0 +1,110 @@
+[p1 "Neuralink on X: \"3. Computer use agent We prototyped a feature to enable user..." | space "X source 2116160656772887014 20261031"(112): 2 managed, 0 untracked — p1* "Neuralink on X: \"3. Computer use agent We prototyped a feature to enable user...", p2 "A 72-Hour Engineering Sprint for Translating Thought to Speech | Updates | Ne..."]
+group [ref=198, loc=unstable]
+  container
+  dialog
+    container [ref=229, loc=unstable]
+      container
+        button "Close" [ref=206, loc=ambiguous]
+          svg_root
+        container
+        button [ref=207, loc=unstable]
+          text "Drafts"
+      container
+        container
+          container
+            image
+            container
+          container
+            container
+              textfield "Post text" [ref=208, loc=ambiguous]
+                text "Kenneth thinks “Hey Neuralink,” followed by a task. A Grok agent then gets to work on his laptop. In this Neuralink prototype, a brain implant records activity associated with intended speech. A d..."
+              container
+                container
+                  container
+                  group "Media"
+                    video [ref=231, loc=unstable]
+                      container
+                      container
+                        container
+                          button "pause" [ref=232]
+                          text "0:08"
+                          text "/ 0:28"
+                          container
+                            container
+                            spinbutton "volume" [ref=233]
+                            button "unmute" [ref=234]
+                          button "enter full screen" [ref=235]
+                          button "show more media controls" [ref=236]
+                        spinbutton "video time scrubber" [ref=237]
+                          container
+                          container
+                            container
+                            container
+                    button "Edit media" [ref=238, loc=css:button[aria-label="Edit media"]]
+                      text "Edit"
+                    button "Remove media" [ref=239, loc=css:button[aria-label="Remove media"]]
+                      svg_root
+                container
+                  link "Tag people" [ref=240, loc=css:a[aria-label="Tag people"], url=https://x.com/compose/post/tags]
+                    svg_root
+                    text "Tag people"
+                  button [ref=241, loc=href:/compose/post/media, url=https://x.com/compose/post/media]
+                    svg_root
+                    text "Upload caption file (.srt)"
+                container
+                  container
+                  status
+                    text "neuralink-grok-agent-original-1080p.mp4: Ready"
+            container
+              container
+                link [ref=242, loc=href:/compose/articles, url=https://x.com/compose/articles]
+                  text "Try out"
+                text "the new article composer for new formatting options."
+              button "Close" [ref=243, loc=ambiguous]
+                svg_root
+        container
+          container
+            container
+            button "Everyone can reply" [ref=209]
+              svg_root
+              text "Everyone can reply"
+          container
+            navigation
+              button "Previous" [ref=210, loc=css:button[aria-label="Previous"]]
+                svg_root
+              tablist
+                container
+                  textbox [ref=211, loc=unstable]
+                    button [ref=212, loc=unstable]
+                      text "Choose Files"
+                    text "No file chosen"
+                  button "Add media" [ref=213, loc=css:button[aria-label="Add media"]]
+                    svg_root
+                button "Add a GIF" [ref=214, loc=css:button[aria-label="Add a GIF"]]
+                  svg_root
+                button "Add poll" [ref=215, loc=css:button[aria-label="Add poll"]]
+                  svg_root
+                  container
+                button "Add emoji" [ref=216, loc=css:button[aria-label="Add emoji"]]
+                  svg_root
+                button "Schedule post" [ref=217, loc=css:button[aria-label="Schedule post"]]
+                  svg_root
+                button "Tag location" [ref=218, loc=css:button[aria-label="Tag location"]]
+                  svg_root
+                  container
+                button "Content disclosure" [ref=219, loc=css:button[aria-label="Content disclosure"]]
+                  svg_root
+              button "Next" [ref=220, loc=css:button[aria-label="Next"]]
+                svg_root
+            container
+              container
+                text "24,461 characters remaining"
+                progressindicator
+                  svg_root
+                container
+              container
+                container
+                button "Add post" [ref=230, loc=css:button[aria-label="Add post"]]
+                  svg_root
+              button [ref=221, loc=unstable]
+                text "Post"

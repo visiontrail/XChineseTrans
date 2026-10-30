@@ -1,0 +1,32 @@
+{
+  "source_post": "https://x.com/neuralink/status/2115878430076207380",
+  "media_url": "https://video.twimg.com/amplify_video/2115875933869465602/vid/avc1/1920x1080/M64quipIVeHvK6VM.mp4?tag=29",
+  "retrieval_started_utc": "2026-10-30T16:17:19.035060+00:00",
+  "retrieved_at_utc": "2026-10-30T16:17:37.364447+00:00",
+  "path": "media/neuralink-grok-agent-original-1080p.mp4",
+  "bytes": 13023771,
+  "sha256": "f3eb987f02769b9294500da7765db7e1d5a17459cc5ec4bf873d546505b57912",
+  "http_headers": {
+    "Connection": "close",
+    "Content-Length": "13023771",
+    "perf": "7402827104",
+    "content-type": "video/mp4",
+    "cache-control": "max-age=604800, must-revalidate",
+    "last-modified": "Thu, 29 Oct 2026 18:36:28 GMT",
+    "x-transaction-id": "52f0241609858d83",
+    "timing-allow-origin": "https://twitter.com, https://mobile.twitter.com, https://x.com, https://mobile.x.com, https://lite.x.com",
+    "x-content-type-options": "nosniff",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Content-Length",
+    "cross-origin-resource-policy": "cross-origin",
+    "strict-transport-security": "max-age=631138519; includeSubdomains",
+    "Accept-Ranges": "bytes",
+    "Date": "Fri, 30 Oct 2026 16:17:19 GMT",
+    "X-Served-By": "t4_p, cache-nrt-rjtf7700085-NRT",
+    "X-Cache": "HIT",
+    "Vary": "origin",
+    "x-tw-cdn": "FT",
+    "Server-Timing": "x-cache;desc=HIT, x-tw-cdn;desc=FT"
+  },
+  "version": "official source 1080p CDN rendition, full duration, no editing"
+}

@@ -1,0 +1,33 @@
+{
+  "prepared_at": "2026-10-31T00:19:56.568445+08:00",
+  "account": "@LeoGuoLabs",
+  "source": "https://x.com/xiaohu/status/2116160656772887014",
+  "primary_source": "https://x.com/neuralink/status/2115878430076207380",
+  "format": "standalone",
+  "format_reason": "Supplied source has no relevant native Quote; prepare standalone with full official source clip.",
+  "quote_target": null,
+  "text_file": "post-en-v1.txt",
+  "media": [
+    {
+      "path": "media/neuralink-grok-agent-original-1080p.mp4",
+      "duration_seconds": 28.654,
+      "resolution": "1920x1080",
+      "codecs": "H.264 / AAC stereo",
+      "selection": "Full official Computer use agent clip, matching the supplied post; no edits or added subtitles."
+    }
+  ],
+  "state": "awaiting_user_confirmation",
+  "approval": null,
+  "published_url": null,
+  "checks": {
+    "download": "Fresh official source download; byte count and SHA-256 in research/download-manifest.json",
+    "metadata": "research/ffprobe.json",
+    "decode": "Full VFR decode with -xerror -err_detect explode completed, empty decode-vfr.log. Initial null/raw sink emitted duplicate DTS warning; original retained.",
+    "frames": "Beginning, middle, and near end inspected in research/contact-sheet.jpg; no added Chinese overlays.",
+    "playback": "Uploaded local source in composer; current time advanced from 0.006 to 18.674 seconds, no error.",
+    "audio": "AAC stereo present; representative listening not performed, no subjective audio-quality claim.",
+    "composer": "Exact full text retained; one native video; Ready; Post enabled; not submitted. See research/composer-verification.json."
+  },
+  "research_notes": "research.md",
+  "browser": "Ego Lite per task-specific user instructions; prepared composer retained for review. No browser upgrade performed."
+}

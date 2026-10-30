@@ -1,0 +1,26 @@
+{
+  "url": "https://x.com/compose/post",
+  "profile": "https://x.com/LeoGuoLabs",
+  "texts": [
+    "Kenneth thinks “Hey Neuralink,” followed by a task. A Grok agent then gets to work on his laptop.\n\nIn this Neuralink prototype, a brain implant records activity associated with intended speech. A decoder turns it into text that the agent can act on. In the demo, Kenneth asks it to find a YouTube video.\n\nA short request could replace a whole sequence of clicks. For someone with speech or movement impairments, that could make everyday computer use much more accessible. Still an early prototype, but a compelling direction for AI agents."
+  ],
+  "status": [
+    "neuralink-grok-agent-original-1080p.mp4: Ready"
+  ],
+  "videos": [
+    {
+      "duration": 28.654,
+      "currentTime": 8.194971,
+      "paused": false,
+      "readyState": 4,
+      "error": null
+    }
+  ],
+  "post": [
+    {
+      "disabled": false
+    }
+  ],
+  "exactTextMatch": true,
+  "checkedAt": "2026-10-30T16:19:56.232Z"
+}
