@@ -1,6 +1,6 @@
 # Exin AI mouse experiment — review preparation
 
-Prepared on 2026-10-30 (Asia/Singapore). Status: awaiting user review; not published.
+Prepared on 2026-10-30 (Asia/Singapore). The user subsequently supplied the final side-chat wording and authorized publication. Current submission and verification status is recorded in `publication-record.json`.
 
 ## Format and source chain
 
@@ -23,7 +23,9 @@ Prepared on 2026-10-30 (Asia/Singapore). Status: awaiting user review; not publi
 
 ## Editorial judgment
 
-Public copy uses "reportedly" to keep ownership of the experiment claim accurate, preserves human oversight and manual craniotomy, and separates reported recovery from efficacy. Potential faster experiment cycles are conditional. No claim of human surgical readiness, reduced surgery costs, world-first status, cure, independent verification, or a demonstrated seizure reduction is made.
+The first review draft used "reportedly", preserved human oversight and manual craniotomy, and separated reported recovery from efficacy. That version is preserved as `post.en.v1-superseded.txt`.
+
+The user authorized merging the side-chat result and publishing, then pasted the complete final English wording into the main conversation. `post.en.txt` retains that wording exactly, with a blank line between the two paragraphs. It keeps "reportedly", the human craniotomy and vet approvals, and explicitly tentative wording about agents potentially handling the whole procedure. It makes no claim of demonstrated treatment efficacy. No extra caveats, hashtags, source credits, or production notes were appended.
 
 The native Quote card provides source attribution. Public commentary does not redundantly name its author. No new illustration is needed; the original photograph is the useful source media. The continuation's original recovery video is retained for review and provenance, not described as footage of the injection.
 

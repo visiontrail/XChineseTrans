@@ -1,3 +1,3 @@
-An AI agent reportedly chose a gene therapy from 19 candidates, selected a brain target, and controlled the injection in a mouse model of epilepsy. That's a striking step from suggesting experiments to carrying them out.
+An AI agent reportedly picked a gene therapy from 19 candidates, chose a brain target, and controlled the injection in a mouse epilepsy experiment. “Let’s test that idea” is starting to sound a lot more literal.
 
-A human performed the craniotomy, and a vet approved every irreversible step. The mouse reportedly recovered; seizure reduction hasn't been demonstrated here. If this becomes reliable, it could shorten the loop from a treatment hypothesis to an animal experiment.
+And don’t worry—the craniotomy was still done by a human, and a vet approved every irreversible step. It’s hard to say when agents might handle the whole procedure, but that day could be closer than we think.

@@ -1,0 +1,39 @@
+{
+  "checkedAt": "2026-10-30T06:15:01.974Z",
+  "copyMatches": true,
+  "accountMatches": true,
+  "quoteTargetMatches": true,
+  "url": "https://x.com/LeoGuoLabs/status/2116050966843986181",
+  "text": "Leo Guo\n@LeoGuoLabs\nBoost\nAn AI agent reportedly picked a gene therapy from 19 candidates, chose a brain target, and controlled the injection in a mouse epilepsy experiment. “Let’s test that idea” is starting to sound a lot more literal.\n\nAnd don’t worry—the craniotomy was still done by a human, and a vet approved every irreversible step. It’s hard to say when agents might handle the whole procedure, but that day could be closer than we think.\nQuote\nGabriel Ocana-Santero\n@OcanaSantero\n·\nOct 28\nLast night an AI agent performed brain surgery on a mouse.\n\nWe gave it 19 gene therapy vectors in a spreadsheet, a mouse model of epilepsy, access to a motorize surgery rig with cameras and one goal: reduce seizures.\n\nIt picked the drug. It picked the brain region. It derived the\n2:13 PM · Oct 30, 2026",
+  "links": [
+    {
+      "text": "",
+      "url": "https://x.com/LeoGuoLabs"
+    },
+    {
+      "text": "Leo Guo",
+      "url": "https://x.com/LeoGuoLabs"
+    },
+    {
+      "text": "@LeoGuoLabs",
+      "url": "https://x.com/LeoGuoLabs"
+    },
+    {
+      "text": "",
+      "url": "https://x.com/OcanaSantero/status/2115442964574908902/photo/1"
+    },
+    {
+      "text": "2:13 PM · Oct 30, 2026",
+      "url": "https://x.com/LeoGuoLabs/status/2116050966843986181"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://pbs.twimg.com/media/HVtOKh7aIAAFGeA?format=jpg&name=medium",
+      "complete": true,
+      "width": 1200,
+      "height": 900
+    }
+  ],
+  "videoCount": 0
+}

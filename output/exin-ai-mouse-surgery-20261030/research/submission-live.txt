@@ -1,0 +1,211 @@
+[p1 "(1) Gabriel Ocana-Santero on X: \"Last night an AI agent performed brain surge..." | space "LeoGuoLabs source 2115991450290626587"(101): 1 managed, 0 untracked — p1* "(1) Gabriel Ocana-Santero on X: \"Last night an AI agent performed brain surge..."]
+root
+  button "Grok" [ref=301, loc=css:button[aria-label="Grok"]]
+    svg_root
+  button "Chat" [ref=302, loc=css:button[aria-label="Chat"]]
+    svg_root
+  alert
+    text "Your post was sent. You have 1 hour to make any edits."
+    link [ref=433, loc=href:/LeoGuoLabs/status/2116050966843986181, url=https://x.com/LeoGuoLabs/status/2116050966843986181]
+      text "View"
+  container
+    banner
+      container [ref=303]
+        container
+          heading
+            link "X" [ref=304, loc=css:a[aria-label="X"], url=https://x.com/home]
+              svg_root
+          navigation "Primary"
+            link "Home" [ref=305, loc=css:a[aria-label="Home"], url=https://x.com/home]
+              svg_root
+            link "Search and explore" [ref=306, loc=css:a[aria-label="Search and explore"], url=https://x.com/explore]
+              svg_root
+            link "Notifications" [ref=307, loc=css:a[aria-label="Notifications"], url=https://x.com/notifications]
+              svg_root
+            link "Direct Messages" [ref=308, loc=css:a[aria-label="Direct Messages"], url=https://x.com/i/chat]
+              svg_root
+            link "Calls" [ref=309, loc=css:a[aria-label="Calls"], url=https://x.com/i/calls]
+              svg_root
+            link "Grok" [ref=310, loc=css:a[aria-label="Grok"], url=https://x.com/i/grok]
+              svg_root
+            link "Profile" [ref=311, loc=css:a[aria-label="Profile"], url=https://x.com/LeoGuoLabs]
+              svg_root
+            button "More menu items" [ref=312, loc=css:button[aria-label="More menu items"]]
+              svg_root
+          link "Post" [ref=313, loc=css:a[aria-label="Post"], url=https://x.com/compose/post]
+            svg_root
+        button "Account menu" [ref=314, loc=css:button[aria-label="Account menu"]]
+          image
+          container "undefined unread items"
+    main
+      container "Home timeline" [ref=315]
+        container
+          container
+            button "Back" [ref=316, loc=css:button[aria-label="Back"]]
+              svg_root
+            heading
+              text "Post"
+            link [ref=317, loc=href:/OcanaSantero/thread/2115442964574908902, url=https://x.com/OcanaSantero/thread/2115442964574908902]
+              svg_root
+          button "New posts are available. Push the period key to go to the them." [ref=318, loc=css:button[aria-label="New posts are available. Push the period key to go to the them."]]
+            svg_root
+            text "See new posts"
+        region "Conversation"
+          container "Timeline: Conversation"
+            container
+              article "Gabriel Ocana-Santero@OcanaSantero Last night an AI agent performed brain surgery on a mouse. We gave it 19 gene therapy vectors in a spreadsheet, a mouse model of epilepsy, access to a motorize surge..." [ref=338]
+                container
+                  link [ref=352, loc=href:/OcanaSantero/status/2115442964574908902/photo/1, url=https://x.com/OcanaSantero/status/2115442964574908902/photo/1]
+                    container "Image"
+                      image
+                  container
+                    link "9:58 PM · Oct 28, 2026" [ref=353, loc=css:a[aria-label="9:58 PM · Oct 28, 2026"], url=https://x.com/OcanaSantero/status/2115442964574908902]
+                      text "9:58 PM · Oct 28, 2026"
+                    text "·"
+                    link [ref=354, loc=href:/OcanaSantero/status/2115442964574908902/analytics, url=https://x.com/OcanaSantero/status/2115442964574908902/analytics]
+                      container
+                        text "1M"
+                        text "1.1M"
+                      text "Views"
+                  container
+                    group "220 replies, 1340 reposts, 7175 likes, 3435 bookmarks, 1119950 views"
+                      button "220 Replies. Reply" [ref=355, loc=css:button[aria-label="220 Replies. Reply"]]
+                        svg_root
+                        container
+                          text "218"
+                          text "220"
+                      button "1340 reposts. Repost" [ref=356, loc=css:button[aria-label="1340 reposts. Repost"]]
+                        svg_root
+                        text "1.3K"
+                      button "7175 Likes. Like" [ref=357, loc=css:button[aria-label="7175 Likes. Like"]]
+                        svg_root
+                        text "7.1K"
+                      button "3435 Bookmarks. Bookmark" [ref=358, loc=css:button[aria-label="3435 Bookmarks. Bookmark"]]
+                        svg_root
+                        container
+                          text "3.2K"
+                          text "3.4K"
+                      button "Share post" [ref=359]
+                        svg_root
+                    container
+                      button [ref=360]
+                        text "Relevant"
+                        svg_root
+                      link [ref=361, loc=href:/OcanaSantero/status/2115442964574908902/quotes, url=https://x.com/OcanaSantero/status/2115442964574908902/quotes]
+                        text "View quotes"
+                        svg_root
+              container
+                link [ref=362, url=https://x.com/LeoGuoLabs]
+                  image
+                container
+                  container
+                    text "Post your reply"
+                    textfield "Post text" [ref=363]
+                  button [ref=364]
+                    text "Reply"
+            article "Gabriel Ocana-Santero@OcanaSantero·Oct 28 For the lab-in-the-loop aficionados, this is a custom-made motorized surgery rig we built on arduino. So to connect it to our agents we exposed the camera an..." [ref=365]
+              container
+                link [ref=366, url=https://x.com/OcanaSantero]
+                  image
+                container
+                  container
+                    container
+                      link [ref=367, url=https://x.com/OcanaSantero]
+                        text "Gabriel Ocana-Santero"
+                        image "Verified account"
+                      container
+                        link [ref=368, url=https://x.com/OcanaSantero]
+                          text "@OcanaSantero"
+                        text "·"
+                        link "Oct 28" [ref=369, loc=href:/OcanaSantero/status/2115442965464150135, url=https://x.com/OcanaSantero/status/2115442965464150135]
+                          text "Oct 28"
+                    container
+                      button "Grok actions" [ref=370]
+                        svg_root
+                      button "More" [ref=371]
+                        svg_root
+                  container
+                    text "For the lab-in-the-loop aficionados, this is a custom-made motorized surgery rig we built on arduino. So to connect it to our agents we exposed the camera and motor capabilities through our own custom..."
+                    button [ref=372]
+                      text "Show more"
+                  link [ref=373, loc=href:/OcanaSantero/status/2115442965464150135/photo/1, url=https://x.com/OcanaSantero/status/2115442965464150135/photo/1]
+                    container "Image"
+                      image
+      container "Trending" [ref=323]
+        search "Search"
+          svg_root
+          comboboxgrouping "Search query" [ref=324, loc=css:input[placeholder="Search"]]
+            text "Search"
+        complementary "Relevant people"
+          list
+            listitem [ref=325]
+              link [ref=326, url=https://x.com/OcanaSantero]
+                image
+              container
+                container
+                  container
+                    link [ref=327, url=https://x.com/OcanaSantero]
+                      text "Gabriel Ocana-Santero"
+                      image "Verified account"
+                    link [ref=328, url=https://x.com/OcanaSantero]
+                      text "@OcanaSantero"
+                  button "Follow @OcanaSantero" [ref=329, loc=css:button[aria-label="Follow @OcanaSantero"]]
+                    text "Follow"
+                container
+                  text "24/7 working on brains, co-founder & CEO at"
+                  link [ref=330, loc=href:/ExinTx, url=https://x.com/ExinTx]
+                    text "@ExinTx"
+                  text ", PhD at"
+                  link [ref=331, loc=href:/UniofOxford, url=https://x.com/UniofOxford]
+                    text "@UniofOxford"
+        region "Trending now"
+          container "Timeline: Trending now"
+            heading
+              text "What’s happening"
+            link "Sports · TrendingChristian Watson" [ref=434]
+              text "Sports · Trending"
+              text "Christian Watson"
+              button "More" [ref=435]
+                svg_root
+            link "Business & finance · TrendingTRM Labs" [ref=436]
+              text "Business & finance · Trending"
+              text "TRM Labs"
+              button "More" [ref=437]
+                svg_root
+            link "Sports · TrendingCedric Coward" [ref=438]
+              text "Sports · Trending"
+              text "Cedric Coward"
+              button "More" [ref=439]
+                svg_root
+            link "Business & finance · TrendingThe Binance" [ref=440]
+              text "Business & finance · Trending"
+              text "The Binance"
+              button "More" [ref=441]
+                svg_root
+            link [ref=442, loc=href:/explore/tabs/for-you, url=https://x.com/explore/tabs/for-you]
+              text "Show more"
+        navigation "Footer"
+          container
+            link [ref=332, loc=href:/tos, url=https://x.com/tos]
+              text "Terms"
+            text "·"
+          container
+            link [ref=333, loc=href:/privacy, url=https://x.com/privacy]
+              text "Privacy"
+            text "·"
+          container
+            link [ref=334, loc=href:https://support.x.com/articles/20170514, url=https://support.x.com/articles/20170514]
+              text "Cookies"
+            text "·"
+          container
+            link [ref=335, loc=href:https://help.x.com/resources/accessibility, url=https://help.x.com/resources/accessibility]
+              text "Accessibility"
+            text "·"
+          container
+            link [ref=336, url=https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo]
+              text "Ads Info"
+            text "·"
+          button "More" [ref=337]
+            text "More"
+            svg_root
+          text "© 2026 X Corp."

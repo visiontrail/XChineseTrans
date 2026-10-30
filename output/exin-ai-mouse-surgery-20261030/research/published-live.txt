@@ -1,0 +1,205 @@
+[p1 "Leo Guo on X: \"An AI agent reportedly picked a gene therapy from 19 candidate..." | space "LeoGuoLabs source 2115991450290626587"(101): 1 managed, 0 untracked — p1* "Leo Guo on X: \"An AI agent reportedly picked a gene therapy from 19 candidate..."]
+root
+  container
+    heading
+      text "To view keyboard shortcuts, press question mark"
+      link [ref=443, loc=href:/i/keyboard_shortcuts, url=https://x.com/i/keyboard_shortcuts]
+        text "View keyboard shortcuts"
+    button "Grok" [ref=444, loc=css:button[aria-label="Grok"]]
+      svg_root
+    button "Chat" [ref=445, loc=css:button[aria-label="Chat"]]
+      svg_root
+    container
+      button "Skip to home timeline" [ref=446, loc=css:button[aria-label="Skip to home timeline"]]
+      button "Skip to trending" [ref=447, loc=css:button[aria-label="Skip to trending"]]
+      banner
+        container [ref=448]
+          container
+            heading
+              link "X" [ref=449, loc=css:a[aria-label="X"], url=https://x.com/home]
+                svg_root
+            navigation "Primary"
+              link "Home" [ref=450, loc=css:a[aria-label="Home"], url=https://x.com/home]
+                svg_root
+              link "Search and explore" [ref=451, loc=css:a[aria-label="Search and explore"], url=https://x.com/explore]
+                svg_root
+              link "Notifications" [ref=452, loc=css:a[aria-label="Notifications"], url=https://x.com/notifications]
+                svg_root
+              link "Direct Messages" [ref=453, loc=css:a[aria-label="Direct Messages"], url=https://x.com/i/chat]
+                svg_root
+              link "Calls" [ref=454, loc=css:a[aria-label="Calls"], url=https://x.com/i/calls]
+                svg_root
+              link "Grok" [ref=455, loc=css:a[aria-label="Grok"], url=https://x.com/i/grok]
+                svg_root
+              link "Profile" [ref=456, loc=css:a[aria-label="Profile"], url=https://x.com/LeoGuoLabs]
+                svg_root
+              button "More menu items" [ref=457, loc=css:button[aria-label="More menu items"]]
+                svg_root
+            link "Post" [ref=458, loc=css:a[aria-label="Post"], url=https://x.com/compose/post]
+              svg_root
+          button "Account menu" [ref=459, loc=css:button[aria-label="Account menu"]]
+            image
+            container "undefined unread items"
+      main
+        container "Home timeline" [ref=460]
+          container
+            container
+              button "Back" [ref=461, loc=css:button[aria-label="Back"]]
+                svg_root
+              heading
+                text "Post"
+            button "New posts are available. Push the period key to go to the them." [ref=462, loc=css:button[aria-label="New posts are available. Push the period key to go to the them."]]
+              svg_root
+              text "See new posts"
+          region "Conversation"
+            heading
+              text "Conversation"
+            container "Timeline: Conversation"
+              article "Leo Guo@LeoGuoLabs An AI agent reportedly picked a gene therapy from 19 candidates, chose a brain target, and controlled the injection in a mouse epilepsy experiment. “Let’s test that idea” is s..." [ref=494]
+                container
+                  link [ref=463, url=https://x.com/LeoGuoLabs]
+                    image
+                  container
+                    container
+                      link [ref=464, url=https://x.com/LeoGuoLabs]
+                        text "Leo Guo"
+                        image "Verified account"
+                      link [ref=465, url=https://x.com/LeoGuoLabs]
+                        text "@LeoGuoLabs"
+                    container
+                      button [ref=466]
+                        text "Boost"
+                      button "Grok actions" [ref=467, loc=css:button[aria-label="Grok actions"]]
+                        svg_root
+                      button "More" [ref=495]
+                        svg_root
+                container
+                  text "An AI agent reportedly picked a gene therapy from 19 candidates, chose a brain target, and controlled the injection in a mouse epilepsy experiment. “Let’s test that idea” is starting to sound a ..."
+                  container "QuoteGabriel Ocana-Santero@OcanaSantero·Oct 28Last night an AI agent performed brain surgery on a mouse. We gave it 19 gene therapy vectors in a spreadsheet, a mouse model of epilepsy, access to a mo..."
+                    text "Quote"
+                    link [ref=496]
+                      container
+                        container [ref=497]
+                          image
+                        container
+                          container
+                            text "Gabriel Ocana-Santero"
+                            image "Verified account"
+                          container
+                            container [ref=498]
+                              text "@OcanaSantero"
+                            text "·"
+                            container "Oct 28"
+                              text "Oct 28"
+                      text "Last night an AI agent performed brain surgery on a mouse. We gave it 19 gene therapy vectors in a spreadsheet, a mouse model of epilepsy, access to a motorize surgery rig with cameras and one goal: r..."
+                      link [ref=468, loc=href:/OcanaSantero/status/2115442964574908902/photo/1, url=https://x.com/OcanaSantero/status/2115442964574908902/photo/1]
+                        container "Image"
+                          image
+                  link "2:13 PM · Oct 30, 2026" [ref=469, loc=css:a[aria-label="2:13 PM · Oct 30, 2026"], url=https://x.com/LeoGuoLabs/status/2116050966843986181]
+                    text "2:13 PM · Oct 30, 2026"
+                  button "0 Replies. Reply" [ref=470, loc=css:button[aria-label="0 Replies. Reply"]]
+                    svg_root
+                  button "0 reposts. Repost" [ref=471, loc=css:button[aria-label="0 reposts. Repost"]]
+                    svg_root
+                  button "0 Likes. Like" [ref=472, loc=css:button[aria-label="0 Likes. Like"]]
+                    svg_root
+                  button "0 Bookmarks. Bookmark" [ref=473, loc=css:button[aria-label="0 Bookmarks. Bookmark"]]
+                    svg_root
+                  button "Share post" [ref=474, loc=css:button[aria-label="Share post"]]
+                    svg_root
+              container
+                link [ref=499, url=https://x.com/LeoGuoLabs]
+                  image
+                container
+                  text "Post your reply"
+                  textfield "Post text" [ref=500]
+                button [ref=501]
+                  text "Reply"
+        container "Trending" [ref=475]
+          search "Search"
+            svg_root
+            comboboxgrouping "Search query" [ref=476, loc=css:input[placeholder="Search"]]
+              text "Search"
+          complementary "Relevant people"
+            heading
+              text "Relevant people"
+            list
+              listitem [ref=477]
+                link [ref=478, url=https://x.com/LeoGuoLabs]
+                  image
+                container
+                  container
+                    link [ref=479, url=https://x.com/LeoGuoLabs]
+                      text "Leo Guo"
+                      image "Verified account"
+                    link [ref=480, url=https://x.com/LeoGuoLabs]
+                      text "@LeoGuoLabs"
+                  text "Previously a senior C/C++ engineer in telecom. Now exploring AI and emerging tech, sharing useful tools and an engineering perspective."
+              listitem [ref=481]
+                link [ref=482, url=https://x.com/OcanaSantero]
+                  image
+                container
+                  container
+                    container
+                      link [ref=483, url=https://x.com/OcanaSantero]
+                        text "Gabriel Ocana-Santero"
+                        image "Verified account"
+                      link [ref=484, url=https://x.com/OcanaSantero]
+                        text "@OcanaSantero"
+                    button "Follow @OcanaSantero" [ref=485, loc=css:button[aria-label="Follow @OcanaSantero"]]
+                      text "Follow"
+                  container
+                    text "24/7 working on brains, co-founder & CEO at"
+                    link [ref=486, loc=href:/ExinTx, url=https://x.com/ExinTx]
+                      text "@ExinTx"
+                    text ", PhD at"
+                    link [ref=487, loc=href:/UniofOxford, url=https://x.com/UniofOxford]
+                      text "@UniofOxford"
+          region "Trending now"
+            heading
+              text "Trending now"
+            container "Timeline: Trending now"
+              heading
+                text "What’s happening"
+              link "Trending in Singapore#CentralAnniversaryxNamtanFilm" [ref=502]
+                text "Trending in Singapore"
+                text "#CentralAnniversaryxNamtanFilm"
+                button "More" [ref=503]
+                  svg_root
+              link "Trending in SingaporeVIP Club" [ref=504]
+                text "Trending in Singapore"
+                text "VIP Club"
+                button "More" [ref=505]
+                  svg_root
+              link "Music · TrendingKai Tak Sports Park" [ref=506]
+                text "Music · Trending"
+                text "Kai Tak Sports Park"
+                button "More" [ref=507]
+                  svg_root
+              link "Music · Trending#AfterHoursTilDawn" [ref=508]
+                text "Music · Trending"
+                text "#AfterHoursTilDawn"
+                button "More" [ref=509]
+                  svg_root
+              link [ref=510, loc=href:/explore/tabs/for-you, url=https://x.com/explore/tabs/for-you]
+                text "Show more"
+          navigation "Footer"
+            link [ref=488, loc=href:/tos, url=https://x.com/tos]
+              text "Terms"
+            text "·"
+            link [ref=489, loc=href:/privacy, url=https://x.com/privacy]
+              text "Privacy"
+            text "·"
+            link [ref=490, loc=href:https://support.x.com/articles/20170514, url=https://support.x.com/articles/20170514]
+              text "Cookies"
+            text "·"
+            link [ref=491, loc=href:https://help.x.com/resources/accessibility, url=https://help.x.com/resources/accessibility]
+              text "Accessibility"
+            text "·"
+            link [ref=492, url=https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo]
+              text "Ads Info"
+            text "·"
+            button "More" [ref=493]
+              text "More"
+              svg_root
+            text "© 2026 X Corp."

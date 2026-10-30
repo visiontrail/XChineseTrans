@@ -1,14 +1,14 @@
 {
   "prepared_at": "2026-10-30T12:16:11.141562+08:00",
   "account": "@LeoGuoLabs",
-  "status": "prepared_awaiting_confirmation",
-  "published": false,
-  "published_url": null,
+  "status": "published_publicly_verified",
+  "published": true,
+  "published_url": "https://x.com/LeoGuoLabs/status/2116050966843986181",
   "source_url": "https://x.com/leo114119/status/2115991450290626587",
   "format": "native_quote",
   "quote_target": "https://x.com/OcanaSantero/status/2115442964574908902",
   "text_path": "post.en.txt",
-  "text": "An AI agent reportedly chose a gene therapy from 19 candidates, selected a brain target, and controlled the injection in a mouse model of epilepsy. That's a striking step from suggesting experiments to carrying them out.\n\nA human performed the craniotomy, and a vet approved every irreversible step. The mouse reportedly recovered; seizure reduction hasn't been demonstrated here. If this becomes reliable, it could shorten the loop from a treatment hypothesis to an animal experiment.",
+  "text": "An AI agent reportedly picked a gene therapy from 19 candidates, chose a brain target, and controlled the injection in a mouse epilepsy experiment. “Let’s test that idea” is starting to sound a lot more literal.\n\nAnd don’t worry—the craniotomy was still done by a human, and a vet approved every irreversible step. It’s hard to say when agents might handle the whole procedure, but that day could be closer than we think.",
   "assets": [
     {
       "path": "media/source-photo-large.jpg",
@@ -51,12 +51,16 @@
     "composer_text_matches_saved_copy": true,
     "composer_post_enabled": true,
     "quote_card_photo_loaded": true,
-    "composer_existing_text": "empty before entry; no existing draft overwritten"
+    "composer_existing_text": "empty before entry; no existing draft overwritten",
+    "final_composer_check": "research/composer-approved-check.json"
   },
   "approval": {
     "required": true,
-    "received": false,
-    "reason": "AGENTS.md final review and publication rule"
+    "received": true,
+    "received_at": "2026-10-30T14:13:29.901302+08:00",
+    "instruction": "请你看看side chat，按照讨论的结果合并一下发布吧",
+    "final_copy_source": "User pasted side-chat final wording in this conversation; exact wording retained with a blank line between paragraphs.",
+    "superseded_text_path": "post.en.v1-superseded.txt"
   },
   "review_notes": [
     "The main Quote card contains the source rig photograph. The recovery clip is from a continuation and is provided for review only; no redundant separate attachment is selected.",
@@ -65,5 +69,21 @@
   "media_download_notes": [
     "Original-size photograph request timed out; the complete large rendition was subsequently downloaded and inspected. Failed partial file removed.",
     "Video MP4 downloaded freshly from the source CDN, unchanged."
-  ]
+  ],
+  "submitted_at": "2026-10-30T14:14:17.598401+08:00",
+  "verified_at": "2026-10-30T14:15:23.976336+08:00",
+  "public_verification": {
+    "url": "https://x.com/LeoGuoLabs/status/2116050966843986181",
+    "account_matches": true,
+    "full_text_matches": true,
+    "quote_target_matches": true,
+    "native_photo_count": 1,
+    "native_photo_loaded": true,
+    "separate_video_count": 0,
+    "evidence": [
+      "research/public-verification.json",
+      "research/published-live.txt",
+      "research/published-page.png"
+    ]
+  }
 }
