@@ -1,0 +1,11 @@
+{
+  "retrieved_on": "2026-10-30",
+  "retrieval_url": "https://api.fxtwitter.com/status/2115921515707535701",
+  "retrieval_method": "Nested quote object in the successful Alan Chen source response during this task. A subsequent direct-target mirror request timed out.",
+  "source_url": "https://x.com/cz_binance/status/2115915423174853077",
+  "author": "cz_binance",
+  "created_at": "Thu Oct 29 21:15:23 +0000 2026",
+  "text": "User funds are safe!\n\nIt does look like a hack on Binance. Appreciate the quick freeze from Tether (~$971m) and Circle (~$823m).\n\nI don't manage Binance (.com) anymore, but as a shareholder, I expect all user funds will be fully covered.",
+  "media": [],
+  "live_x_check": "Author and opening match the live page title; timeline body did not load."
+}

@@ -1,0 +1,40 @@
+{
+  "status": "pending_review",
+  "prepared_at": "2026-10-30T10:36:50.977693+08:00",
+  "account": "@LeoGuoLabs",
+  "format": "native_quote",
+  "supplied_sources": [
+    "https://x.com/op7418/status/2115977382092046406",
+    "https://x.com/alanchen/status/2115921515707535701"
+  ],
+  "quote_target": "https://x.com/cz_binance/status/2115915423174853077",
+  "quote_chain": [
+    "alanchen/2115921515707535701",
+    "cz_binance/2115915423174853077"
+  ],
+  "other_source_chain": [
+    "op7418/2115977382092046406",
+    "WatcherGuru/2115922259739349132"
+  ],
+  "text": "Hard not to worry about where cybersecurity is heading in the AI era.",
+  "text_path": "post.txt",
+  "selected_media": [],
+  "source_media": "CZ target is text-only; no additional media selected.",
+  "checks": {
+    "quote_target_identified": true,
+    "source_read": "Original text recovered via FxTwitter; live X page title matches author and opening, but timeline remains Loading.",
+    "ai_involvement": "CZ post does not identify AI involvement; commentary expresses general concern, not an attribution of this incident to AI.",
+    "amounts": "Omitted from commentary; intermediary estimates are not treated as confirmed losses.",
+    "composer": "not_checked: Ego Lite X timeline remains Loading. In-app browser timed out, then displayed Something went wrong and a failed vendor script; one Try again retry remained Loading."
+  },
+  "approval": {
+    "state": "awaiting_explicit_confirmation",
+    "basis": "AGENTS.md final-review rule; no task-specific waiver given"
+  },
+  "published_url": null,
+  "research_links": [
+    "https://apnews.com/article/39cda8ceb8095e036334a18549d3d20d",
+    "https://www.axios.com/2026/10/29/binance-cyberattack-crypto-heist"
+  ],
+  "research_note": "Search results corroborate the reported incident; no technical cause or loss total is asserted in the one-line commentary."
+}
