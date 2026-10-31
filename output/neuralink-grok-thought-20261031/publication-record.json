@@ -6,7 +6,7 @@
   "format": "standalone",
   "format_reason": "Supplied source has no relevant native Quote; prepare standalone with full official source clip.",
   "quote_target": null,
-  "text_file": "post-en-v2.txt",
+  "text_file": "post-en-v3.txt",
   "media": [
     {
       "path": "media/neuralink-grok-agent-original-1080p.mp4",
@@ -26,11 +26,11 @@
     "frames": "Beginning, middle, and near end inspected in research/contact-sheet.jpg; no added Chinese overlays.",
     "playback": "Uploaded local source in composer; current time advanced from 0.006 to 18.674 seconds, no error.",
     "audio": "AAC stereo present; representative listening not performed, no subjective audio-quality claim.",
-    "composer": "Revised one-paragraph text retained exactly; existing video retained; Post enabled; not submitted. See research/composer-verification-v2.json."
+    "composer": "Revised text retained exactly; no personal name; existing video Ready; Post enabled; not submitted. See research/composer-verification-v3.json."
   },
   "research_notes": "research.md",
   "browser": "Ego Lite per task-specific user instructions; prepared composer retained for review. No browser upgrade performed.",
-  "updated_at": "2026-10-31T08:30:56.851466+08:00",
+  "updated_at": "2026-10-31T08:43:38.653448+08:00",
   "revisions": [
     {
       "version": "v1",
@@ -40,8 +40,14 @@
     {
       "version": "v2",
       "text_file": "post-en-v2.txt",
-      "state": "awaiting_user_confirmation",
+      "state": "superseded",
       "instruction": "只保留第一段，然后再 改造得自然一点"
+    },
+    {
+      "version": "v3",
+      "text_file": "post-en-v3.txt",
+      "state": "awaiting_user_confirmation",
+      "instruction": "不要具体人名呢，就单纯描述然后感叹一下"
     }
   ]
 }
