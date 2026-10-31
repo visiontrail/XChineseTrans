@@ -1,0 +1,24 @@
+{
+  "profile": "https://x.com/LeoGuoLabs",
+  "texts": [
+    "Kenneth thinks “Hey Neuralink” and gives it a task. A Grok agent takes it from there on the laptop."
+  ],
+  "status": [
+    "neuralink-grok-agent-original-1080p.mp4: Ready"
+  ],
+  "videos": [
+    {
+      "src": "blob:https://x.com/527913d5-ea1f-4107-a67a-ea1b6a9aebcc",
+      "duration": 28.654,
+      "readyState": 4,
+      "error": null
+    }
+  ],
+  "post": [
+    {
+      "disabled": false
+    }
+  ],
+  "exactTextMatch": true,
+  "checkedAt": "2026-10-31T00:30:56.738Z"
+}
